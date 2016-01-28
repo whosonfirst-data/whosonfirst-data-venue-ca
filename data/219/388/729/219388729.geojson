@@ -2,13 +2,14 @@
   "id": 219388729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.603119,43.570747,-79.603119,43.570747",
     "geom:latitude":43.570747,
     "geom:longitude":-79.603119,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2100 Hurontario St",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895411,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"a88d24ee0e8e8ee73bdc7e24c773890e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895411,
+            "region_id":85682057,
+            "venue_id":219388729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895411,
             "region_id":85682057,
             "venue_id":219388729
         }
     ],
     "wof:id":219388729,
-    "wof:lastmodified":1449070504,
+    "wof:lastmodified":1453937552,
     "wof:name":"Onare Salon",
     "wof:parent_id":85895411,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.603119,43.570747,-79.603119,43.570747],
-  "geometry": {"coordinates":[-79.603119,43.570747],"type":"Point"}
+  "bbox": [
+    -79.603119,
+    43.570747,
+    -79.603119,
+    43.570747
+],
+  "geometry": {"coordinates":[-79.60311900000001,43.570747],"type":"Point"}
 }

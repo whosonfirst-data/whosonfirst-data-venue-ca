@@ -2,13 +2,14 @@
   "id": 219640157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.539268,45.588894,-73.539268,45.588894",
     "geom:latitude":45.588894,
     "geom:longitude":-73.539268,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7200 Rue Sherbrooke E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874169,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"def92a418c51725ff4f4bafcbabb7d07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219640157
         }
     ],
     "wof:id":219640157,
-    "wof:lastmodified":1449071923,
+    "wof:lastmodified":1453937747,
     "wof:name":"Avis",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.539268,45.588894,-73.539268,45.588894],
-  "geometry": {"coordinates":[-73.539268,45.588894],"type":"Point"}
+  "bbox": [
+    -73.539268,
+    45.588894,
+    -73.539268,
+    45.588894
+],
+  "geometry": {"coordinates":[-73.53926800000001,45.588894],"type":"Point"}
 }

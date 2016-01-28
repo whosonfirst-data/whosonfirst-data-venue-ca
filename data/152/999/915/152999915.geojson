@@ -2,13 +2,14 @@
   "id": 152999915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.547951,45.518246,-73.547951,45.518246",
     "geom:latitude":45.518246,
     "geom:longitude":-73.547951,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1604 Rue Notre-Dame O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a2c187b6fd4339cb376b4dbead9bd7eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":152999915
         }
     ],
     "wof:id":152999915,
-    "wof:lastmodified":1449048348,
+    "wof:lastmodified":1453935909,
     "wof:name":"Vert Design",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.547951,45.518246,-73.547951,45.518246],
+  "bbox": [
+    -73.547951,
+    45.518246,
+    -73.547951,
+    45.518246
+],
   "geometry": {"coordinates":[-73.547951,45.518246],"type":"Point"}
 }

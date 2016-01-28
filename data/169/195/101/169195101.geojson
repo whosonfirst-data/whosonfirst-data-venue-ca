@@ -2,13 +2,14 @@
   "id": 169195101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.715645,45.446251,-75.715645,45.446251",
     "geom:latitude":45.446251,
     "geom:longitude":-75.715645,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16 Rue Beriault",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874503,
+        102191575,
         85633041,
-        85874503
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"587a0a9708ef2c178070adc7e0c69111",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
+            "region_id":136251273,
             "venue_id":169195101
         }
     ],
     "wof:id":169195101,
-    "wof:lastmodified":1449034856,
+    "wof:lastmodified":1453931087,
     "wof:name":"Centre Communautaire P Arthur",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.715645,45.446251,-75.715645,45.446251],
-  "geometry": {"coordinates":[-75.715645,45.446251],"type":"Point"}
+  "bbox": [
+    -75.715645,
+    45.446251,
+    -75.715645,
+    45.446251
+],
+  "geometry": {"coordinates":[-75.71564499999999,45.446251],"type":"Point"}
 }

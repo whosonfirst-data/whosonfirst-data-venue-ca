@@ -2,13 +2,14 @@
   "id": 152590447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.437973,45.482277,-73.437973,45.482277",
     "geom:latitude":45.482277,
     "geom:longitude":-73.437973,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5460 Boul Payer",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2a23337ecec16c3e63efe122ee927f74",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":152590447
         }
     ],
     "wof:id":152590447,
-    "wof:lastmodified":1449047047,
+    "wof:lastmodified":1453934913,
     "wof:name":"St-Thomas-DE-Villeneuve",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.437973,45.482277,-73.437973,45.482277],
+  "bbox": [
+    -73.437973,
+    45.482277,
+    -73.437973,
+    45.482277
+],
   "geometry": {"coordinates":[-73.437973,45.482277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153000699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.424568,44.067451,-79.424568,44.067451",
     "geom:latitude":44.067451,
     "geom:longitude":-79.424568,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2220 Davis Dr",
     "sg:city":"Newmarket",
     "sg:classifiers":[],
@@ -21,9 +22,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895005,
         102191575,
         85633041,
-        85895005
+        101736295,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736295,
             "neighbourhood_id":85895005,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":153000699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895005,
+            "region_id":85682057,
             "venue_id":153000699
         }
     ],
     "wof:id":153000699,
-    "wof:lastmodified":1449040401,
+    "wof:lastmodified":1453932361,
     "wof:name":"Esso Home Comfort Ctr",
     "wof:parent_id":85895005,
     "wof:placetype":"venue",
@@ -51,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.424568,44.067451,-79.424568,44.067451],
-  "geometry": {"coordinates":[-79.424568,44.067451],"type":"Point"}
+  "bbox": [
+    -79.424568,
+    44.067451,
+    -79.424568,
+    44.067451
+],
+  "geometry": {"coordinates":[-79.42456799999999,44.067451],"type":"Point"}
 }

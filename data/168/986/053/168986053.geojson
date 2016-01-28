@@ -2,13 +2,14 @@
   "id": 168986053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.804146,45.381985,-75.804146,45.381985",
     "geom:latitude":45.381985,
     "geom:longitude":-75.804146,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Rue Osgoode",
     "sg:city":"Aylmer",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85864511,
+        102191575,
         85633041,
-        85864511
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"96f2a05252f6f895cdf4960f820314a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85864511,
+            "region_id":136251273,
             "venue_id":168986053
         }
     ],
     "wof:id":168986053,
-    "wof:lastmodified":1449028424,
+    "wof:lastmodified":1453928506,
     "wof:name":"Perigny Garage",
     "wof:parent_id":85864511,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.804146,45.381985,-75.804146,45.381985],
+  "bbox": [
+    -75.804146,
+    45.381985,
+    -75.804146,
+    45.381985
+],
   "geometry": {"coordinates":[-75.804146,45.381985],"type":"Point"}
 }

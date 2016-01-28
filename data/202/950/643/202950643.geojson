@@ -2,13 +2,14 @@
   "id": 202950643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.961128,45.39188,-73.961128,45.39188",
     "geom:latitude":45.39188,
     "geom:longitude":-73.961128,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"336 Boul Grand",
     "sg:city":"L'Ile-Perrot",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784905,
+        102191575,
         85633041,
-        101737255
+        101737255,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"62d195f6c542f9a0da0f2c20b94dc1d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737255,
             "neighbourhood_id":85784905,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202950643
         }
     ],
     "wof:id":202950643,
-    "wof:lastmodified":1449061111,
+    "wof:lastmodified":1453937187,
     "wof:name":"Brasserie L'Escale",
     "wof:parent_id":85784905,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-73.961128,45.39188,-73.961128,45.39188],
+  "bbox": [
+    -73.961128,
+    45.39188,
+    -73.961128,
+    45.39188
+],
   "geometry": {"coordinates":[-73.961128,45.39188],"type":"Point"}
 }

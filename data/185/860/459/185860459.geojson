@@ -2,13 +2,14 @@
   "id": 185860459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.88974,45.449059,-73.88974,45.449059",
     "geom:latitude":45.449059,
     "geom:longitude":-73.88974,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18664 Rue Budge",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897589,
+        102191575,
         85633041,
-        101736461
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"cb5914addde954e945e1304c87f734eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85897589,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185860459
         }
     ],
     "wof:id":185860459,
-    "wof:lastmodified":1449007329,
+    "wof:lastmodified":1453927285,
     "wof:name":"Magic Carpet Cleaning Svc",
     "wof:parent_id":85897589,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "carpet"
     ]
 },
-  "bbox": [-73.88974,45.449059,-73.88974,45.449059],
+  "bbox": [
+    -73.88974,
+    45.449059,
+    -73.88974,
+    45.449059
+],
   "geometry": {"coordinates":[-73.88974,45.449059],"type":"Point"}
 }

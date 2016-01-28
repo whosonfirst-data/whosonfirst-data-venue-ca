@@ -2,13 +2,14 @@
   "id": 153004413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.710129,45.453335,-73.710129,45.453335",
     "geom:latitude":45.453335,
     "geom:longitude":-73.710129,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4615 Rue Fairway",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b84961815206af8e9642779ac5c53ebe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":153004413
         }
     ],
     "wof:id":153004413,
-    "wof:lastmodified":1449040506,
+    "wof:lastmodified":1453932452,
     "wof:name":"Entreprises Nr Brousseau Inc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.710129,45.453335,-73.710129,45.453335],
-  "geometry": {"coordinates":[-73.710129,45.453335],"type":"Point"}
+  "bbox": [
+    -73.710129,
+    45.453335,
+    -73.710129,
+    45.453335
+],
+  "geometry": {"coordinates":[-73.71012899999999,45.453335],"type":"Point"}
 }

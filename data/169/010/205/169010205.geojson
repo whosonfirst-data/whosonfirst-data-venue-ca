@@ -2,13 +2,14 @@
   "id": 169010205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.180496,43.016716,-81.180496,43.016716",
     "geom:latitude":43.016716,
     "geom:longitude":-81.180496,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1910 Oxford St E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -31,23 +32,43 @@
         "chair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YYfOUUaozksUUybtWhEoY_43.016716_-81.180496@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"a4be2b8d7474434360d00b030c8120e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":169010205
+        }
+    ],
     "wof:id":169010205,
-    "wof:lastmodified":1449034742,
+    "wof:lastmodified":1453930952,
     "wof:name":"Medigas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.180496,43.016716,-81.180496,43.016716],
-  "geometry": {"coordinates":[-81.180496,43.016716],"type":"Point"}
+  "bbox": [
+    -81.180496,
+    43.016716,
+    -81.180496,
+    43.016716
+],
+  "geometry": {"coordinates":[-81.18049600000001,43.016716],"type":"Point"}
 }

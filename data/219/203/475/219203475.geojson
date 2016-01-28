@@ -2,13 +2,14 @@
   "id": 219203475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.297661,43.828384,-79.297661,43.828384",
     "geom:latitude":43.828384,
     "geom:longitude":-79.297661,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"70 Main St",
     "sg:city":"Unionville",
     "sg:classifiers":[
@@ -31,8 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895663,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,24 @@
     "wof:geomhash":"ecb455747375de681336631531331b22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895663,
+            "region_id":85682057,
+            "venue_id":219203475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895663,
             "region_id":85682057,
             "venue_id":219203475
         }
     ],
     "wof:id":219203475,
-    "wof:lastmodified":1449071961,
+    "wof:lastmodified":1453937753,
     "wof:name":"Funky Boodah Ltd",
     "wof:parent_id":85895663,
     "wof:placetype":"venue",
@@ -64,6 +76,11 @@
         "tape"
     ]
 },
-  "bbox": [-79.297661,43.828384,-79.297661,43.828384],
-  "geometry": {"coordinates":[-79.297661,43.828384],"type":"Point"}
+  "bbox": [
+    -79.297661,
+    43.828384,
+    -79.297661,
+    43.828384
+],
+  "geometry": {"coordinates":[-79.29766100000001,43.828384],"type":"Point"}
 }

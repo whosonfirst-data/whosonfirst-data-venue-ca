@@ -2,13 +2,14 @@
   "id": 152322673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.960991,45.387306,-71.960991,45.387306",
     "geom:latitude":45.387306,
     "geom:longitude":-71.960991,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4141 Rue King O",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5db507e9ae51799e7f7e49dfc96c617d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":152322673
         }
     ],
     "wof:id":152322673,
-    "wof:lastmodified":1449044237,
+    "wof:lastmodified":1453932782,
     "wof:name":"Automobiles Val Estrie Inc",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.960991,45.387306,-71.960991,45.387306],
-  "geometry": {"coordinates":[-71.960991,45.387306],"type":"Point"}
+  "bbox": [
+    -71.960991,
+    45.387306,
+    -71.960991,
+    45.387306
+],
+  "geometry": {"coordinates":[-71.96099100000001,45.387306],"type":"Point"}
 }

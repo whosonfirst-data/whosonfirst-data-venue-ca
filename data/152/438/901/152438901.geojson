@@ -2,13 +2,14 @@
   "id": 152438901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.553146,45.515541,-73.553146,45.515541",
     "geom:latitude":45.515541,
     "geom:longitude":-73.553146,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1000 Rue Amherst # 300",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"82aff3f2abca487261f5550b9404c834",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":152438901
         }
     ],
     "wof:id":152438901,
-    "wof:lastmodified":1449045869,
+    "wof:lastmodified":1453934027,
     "wof:name":"Ideacom Inc",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.553146,45.515541,-73.553146,45.515541],
+  "bbox": [
+    -73.553146,
+    45.515541,
+    -73.553146,
+    45.515541
+],
   "geometry": {"coordinates":[-73.553146,45.515541],"type":"Point"}
 }

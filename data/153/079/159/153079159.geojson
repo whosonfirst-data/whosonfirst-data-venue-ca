@@ -2,13 +2,14 @@
   "id": 153079159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.284546,46.799454,-71.284546,46.799454",
     "geom:latitude":46.799454,
     "geom:longitude":-71.284546,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874719,
+        102191575,
         85633041,
-        85874719
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"18e9a2a472ac1c31d832c23cc6712c0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874719,
+            "region_id":136251273,
             "venue_id":153079159
         }
     ],
     "wof:id":153079159,
-    "wof:lastmodified":1449040745,
+    "wof:lastmodified":1453932661,
     "wof:name":"Gmg Gestion Immobiliere",
     "wof:parent_id":85874719,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.284546,46.799454,-71.284546,46.799454],
-  "geometry": {"coordinates":[-71.284546,46.799454],"type":"Point"}
+  "bbox": [
+    -71.284546,
+    46.799454,
+    -71.284546,
+    46.799454
+],
+  "geometry": {"coordinates":[-71.28454600000001,46.799454],"type":"Point"}
 }

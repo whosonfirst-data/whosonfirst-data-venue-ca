@@ -2,13 +2,14 @@
   "id": 203392041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.5746,45.498646,-73.5746,45.498646",
     "geom:latitude":45.498646,
     "geom:longitude":-73.5746,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1404 Rue Drummond",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866491,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"c4759c302ea2246d26f52c23b0f7c2f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203392041
         }
     ],
     "wof:id":203392041,
-    "wof:lastmodified":1449026457,
+    "wof:lastmodified":1453927683,
     "wof:name":"Depanneur Drummond",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.5746,45.498646,-73.5746,45.498646],
+  "bbox": [
+    -73.5746,
+    45.498646,
+    -73.5746,
+    45.498646
+],
   "geometry": {"coordinates":[-73.5746,45.498646],"type":"Point"}
 }

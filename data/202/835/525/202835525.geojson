@@ -2,13 +2,14 @@
   "id": 202835525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.580887,45.584389,-73.580887,45.584389",
     "geom:latitude":45.584389,
     "geom:longitude":-73.580887,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5771 Rue Jean-Talon E",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784921,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"8d770632ffab13a439c7b0c26e67fa13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202835525
         }
     ],
     "wof:id":202835525,
-    "wof:lastmodified":1449060469,
+    "wof:lastmodified":1453937050,
     "wof:name":"Chambly Importing & Printing",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "printer"
     ]
 },
-  "bbox": [-73.580887,45.584389,-73.580887,45.584389],
+  "bbox": [
+    -73.580887,
+    45.584389,
+    -73.580887,
+    45.584389
+],
   "geometry": {"coordinates":[-73.580887,45.584389],"type":"Point"}
 }

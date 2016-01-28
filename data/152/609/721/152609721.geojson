@@ -2,13 +2,14 @@
   "id": 152609721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.359673,43.830059,-79.359673,43.830059",
     "geom:latitude":43.830059,
     "geom:longitude":-79.359673,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2740 14th Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895483,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"584c207a02229c911577d807eac79703",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":152609721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":152609721
         }
     ],
     "wof:id":152609721,
-    "wof:lastmodified":1449046032,
+    "wof:lastmodified":1453934143,
     "wof:name":"Ahmed International",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.359673,43.830059,-79.359673,43.830059],
+  "bbox": [
+    -79.359673,
+    43.830059,
+    -79.359673,
+    43.830059
+],
   "geometry": {"coordinates":[-79.359673,43.830059],"type":"Point"}
 }

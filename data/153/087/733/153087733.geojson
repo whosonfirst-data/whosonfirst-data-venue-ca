@@ -2,13 +2,14 @@
   "id": 153087733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.03019,43.850182,-79.03019,43.850182",
     "geom:latitude":43.850182,
     "geom:longitude":-79.03019,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"239 Station St",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895697,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"57fb10457aee2118a4814f19107fe447",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895697,
+            "region_id":85682057,
+            "venue_id":153087733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895697,
             "region_id":85682057,
             "venue_id":153087733
         }
     ],
     "wof:id":153087733,
-    "wof:lastmodified":1449040534,
+    "wof:lastmodified":1453932470,
     "wof:name":"Carroll Home Improvements",
     "wof:parent_id":85895697,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.03019,43.850182,-79.03019,43.850182],
+  "bbox": [
+    -79.03019,
+    43.850182,
+    -79.03019,
+    43.850182
+],
   "geometry": {"coordinates":[-79.03019,43.850182],"type":"Point"}
 }

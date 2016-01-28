@@ -2,13 +2,14 @@
   "id": 152541127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.181221,43.165451,-79.181221,43.165451",
     "geom:latitude":43.165451,
     "geom:longitude":-79.181221,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Niagara on the Lake",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875033,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101735923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"3ea18e981a488b635808663883b6100d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875033,
+            "region_id":85682057,
+            "venue_id":152541127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735923,
             "neighbourhood_id":85875033,
             "region_id":85682057,
             "venue_id":152541127
         }
     ],
     "wof:id":152541127,
-    "wof:lastmodified":1449044821,
+    "wof:lastmodified":1453933225,
     "wof:name":"City Classic Investments",
     "wof:parent_id":85875033,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.181221,43.165451,-79.181221,43.165451],
-  "geometry": {"coordinates":[-79.181221,43.165451],"type":"Point"}
+  "bbox": [
+    -79.181221,
+    43.165451,
+    -79.181221,
+    43.165451
+],
+  "geometry": {"coordinates":[-79.18122099999999,43.165451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152644999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.801651,45.470551,-73.801651,45.470551",
     "geom:latitude":45.470551,
     "geom:longitude":-73.801651,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"86 Boul Hymus",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875789,
+        102191575,
         85633041,
-        85875789
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"24ce0ba3063153eb1ad2455b7ae647c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875789,
+            "region_id":136251273,
             "venue_id":152644999
         }
     ],
     "wof:id":152644999,
-    "wof:lastmodified":1449046952,
+    "wof:lastmodified":1453934830,
     "wof:name":"Reliance Power Equipment Ltd",
     "wof:parent_id":85875789,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.801651,45.470551,-73.801651,45.470551],
-  "geometry": {"coordinates":[-73.801651,45.470551],"type":"Point"}
+  "bbox": [
+    -73.801651,
+    45.470551,
+    -73.801651,
+    45.470551
+],
+  "geometry": {"coordinates":[-73.80165100000001,45.470551],"type":"Point"}
 }

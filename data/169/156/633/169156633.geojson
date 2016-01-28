@@ -2,13 +2,14 @@
   "id": 169156633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.634583,43.566959,-79.634583,43.566959",
     "geom:latitude":43.566959,
     "geom:longitude":-79.634583,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3050 Mavis Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895113,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"2ab8608af19ca7ce91adbd8243e20bd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895113,
+            "region_id":85682057,
+            "venue_id":169156633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895113,
             "region_id":85682057,
             "venue_id":169156633
         }
     ],
     "wof:id":169156633,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1453929455,
     "wof:name":"Canadian Tire Assoc Store",
     "wof:parent_id":85895113,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.634583,43.566959,-79.634583,43.566959],
-  "geometry": {"coordinates":[-79.634583,43.566959],"type":"Point"}
+  "bbox": [
+    -79.634583,
+    43.566959,
+    -79.634583,
+    43.566959
+],
+  "geometry": {"coordinates":[-79.63458300000001,43.566959],"type":"Point"}
 }

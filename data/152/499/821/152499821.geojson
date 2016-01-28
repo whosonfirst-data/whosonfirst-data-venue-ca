@@ -2,13 +2,14 @@
   "id": 152499821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.794373,43.355976,-79.794373,43.355976",
     "geom:latitude":43.355976,
     "geom:longitude":-79.794373,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3245 Harvester Rd #7",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895639,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ec70c934b3a2e079ca6eb0d50ba22196",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895639,
+            "region_id":85682057,
+            "venue_id":152499821
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895639,
             "region_id":85682057,
             "venue_id":152499821
         }
     ],
     "wof:id":152499821,
-    "wof:lastmodified":1449045183,
+    "wof:lastmodified":1453933499,
     "wof:name":"Wheelchairs Etc & Home Health",
     "wof:parent_id":85895639,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.794373,43.355976,-79.794373,43.355976],
-  "geometry": {"coordinates":[-79.794373,43.355976],"type":"Point"}
+  "bbox": [
+    -79.794373,
+    43.355976,
+    -79.794373,
+    43.355976
+],
+  "geometry": {"coordinates":[-79.79437299999999,43.355976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169242995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.7547,45.522728,-73.7547,45.522728",
     "geom:latitude":45.522728,
     "geom:longitude":-73.7547,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7a53ba24300057486b856f40c7193603",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":169242995
         }
     ],
     "wof:id":169242995,
-    "wof:lastmodified":1449035563,
+    "wof:lastmodified":1453931810,
     "wof:name":"Decor Marine",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.7547,45.522728,-73.7547,45.522728],
+  "bbox": [
+    -73.7547,
+    45.522728,
+    -73.7547,
+    45.522728
+],
   "geometry": {"coordinates":[-73.7547,45.522728],"type":"Point"}
 }

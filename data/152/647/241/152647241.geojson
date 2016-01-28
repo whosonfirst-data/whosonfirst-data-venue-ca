@@ -2,13 +2,14 @@
   "id": 152647241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.315414,46.796059,-71.315414,46.796059",
     "geom:latitude":46.796059,
     "geom:longitude":-71.315414,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7989e7309afb2ceb5ccc564d2ff05b84",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152647241
         }
     ],
     "wof:id":152647241,
-    "wof:lastmodified":1449046499,
+    "wof:lastmodified":1453934502,
     "wof:name":"Gestion Sovr Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.315414,46.796059,-71.315414,46.796059],
+  "bbox": [
+    -71.315414,
+    46.796059,
+    -71.315414,
+    46.796059
+],
   "geometry": {"coordinates":[-71.315414,46.796059],"type":"Point"}
 }

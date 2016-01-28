@@ -2,13 +2,14 @@
   "id": 169542469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.170013,48.407867,-71.170013,48.407867",
     "geom:latitude":48.407867,
     "geom:longitude":-71.170013,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2655 Rue Tremblay",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7e1c0de34357768364f398a7ea182876",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169542469
         }
     ],
     "wof:id":169542469,
-    "wof:lastmodified":1449035222,
+    "wof:lastmodified":1453931420,
     "wof:name":"Transport Savard & Freres Enr",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.170013,48.407867,-71.170013,48.407867],
+  "bbox": [
+    -71.170013,
+    48.407867,
+    -71.170013,
+    48.407867
+],
   "geometry": {"coordinates":[-71.170013,48.407867],"type":"Point"}
 }

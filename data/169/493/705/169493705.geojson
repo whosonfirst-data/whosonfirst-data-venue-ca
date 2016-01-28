@@ -2,13 +2,14 @@
   "id": 169493705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.872055,43.497517,-79.872055,43.497517",
     "geom:latitude":43.497517,
     "geom:longitude":-79.872055,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"599 Clover Park Cres",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895585,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c01fb12cdd9aeb344cff7fbd9c82c05d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895585,
+            "region_id":85682057,
+            "venue_id":169493705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895585,
             "region_id":85682057,
             "venue_id":169493705
         }
     ],
     "wof:id":169493705,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1453929870,
     "wof:name":"Milton Janitor Svc",
     "wof:parent_id":85895585,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.872055,43.497517,-79.872055,43.497517],
+  "bbox": [
+    -79.872055,
+    43.497517,
+    -79.872055,
+    43.497517
+],
   "geometry": {"coordinates":[-79.872055,43.497517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169458981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.562294,45.378975,-73.562294,45.378975",
     "geom:latitude":45.378975,
     "geom:longitude":-73.562294,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"27 Montee Des Bouleaux",
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4779b3fbb7c20535de627a9c48333ae3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":169458981
         }
     ],
     "wof:id":169458981,
-    "wof:lastmodified":1449035029,
+    "wof:lastmodified":1453931249,
     "wof:name":"Cafe D'Ailleurs",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.562294,45.378975,-73.562294,45.378975],
-  "geometry": {"coordinates":[-73.562294,45.378975],"type":"Point"}
+  "bbox": [
+    -73.562294,
+    45.378975,
+    -73.562294,
+    45.378975
+],
+  "geometry": {"coordinates":[-73.56229399999999,45.378975],"type":"Point"}
 }

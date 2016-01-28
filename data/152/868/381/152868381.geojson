@@ -2,13 +2,14 @@
   "id": 152868381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.814331,43.891178,-78.814331,43.891178",
     "geom:latitude":43.891178,
     "geom:longitude":-78.814331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"600 Grandview St S",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875163,
-        85682057
+        102191575,
+        85633041,
+        101736039,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8e53af3e1be24400b97afadd9ab89501",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736039,
+            "neighbourhood_id":85875163,
+            "region_id":85682057,
+            "venue_id":152868381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875163,
             "region_id":85682057,
             "venue_id":152868381
         }
     ],
     "wof:id":152868381,
-    "wof:lastmodified":1449044505,
+    "wof:lastmodified":1453932980,
     "wof:name":"Body Boomers Fitness Club",
     "wof:parent_id":85875163,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.814331,43.891178,-78.814331,43.891178],
+  "bbox": [
+    -78.814331,
+    43.891178,
+    -78.814331,
+    43.891178
+],
   "geometry": {"coordinates":[-78.814331,43.891178],"type":"Point"}
 }

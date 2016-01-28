@@ -2,13 +2,14 @@
   "id": 169212031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554527,45.480431,-73.554527,45.480431",
     "geom:latitude":45.480431,
     "geom:longitude":-73.554527,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"418 Rue Sainte-Madeleine",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897619,
+        102191575,
         85633041,
-        85897619
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bf36cee305f1d2cdea85116a05584658",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897619,
+            "region_id":136251273,
             "venue_id":169212031
         }
     ],
     "wof:id":169212031,
-    "wof:lastmodified":1449034820,
+    "wof:lastmodified":1453931054,
     "wof:name":"Antall",
     "wof:parent_id":85897619,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.554527,45.480431,-73.554527,45.480431],
-  "geometry": {"coordinates":[-73.554527,45.480431],"type":"Point"}
+  "bbox": [
+    -73.554527,
+    45.480431,
+    -73.554527,
+    45.480431
+],
+  "geometry": {"coordinates":[-73.55452699999999,45.480431],"type":"Point"}
 }

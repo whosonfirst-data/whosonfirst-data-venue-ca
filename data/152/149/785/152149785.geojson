@@ -2,13 +2,14 @@
   "id": 152149785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.48275,43.784161,-79.48275,43.784161",
     "geom:latitude":43.784161,
     "geom:longitude":-79.48275,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"North York",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895133,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"7a30448da05435ce1f6cc52d47d28d88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":152149785
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":152149785
         }
     ],
     "wof:id":152149785,
-    "wof:lastmodified":1449044303,
+    "wof:lastmodified":1453932826,
     "wof:name":"L & M Bakers Supply CO",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.48275,43.784161,-79.48275,43.784161],
+  "bbox": [
+    -79.48275,
+    43.784161,
+    -79.48275,
+    43.784161
+],
   "geometry": {"coordinates":[-79.48275,43.784161],"type":"Point"}
 }

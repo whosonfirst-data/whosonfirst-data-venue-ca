@@ -2,13 +2,14 @@
   "id": 186452589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.289696,44.315289,-78.289696,44.315289",
     "geom:latitude":44.315289,
     "geom:longitude":-78.289696,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2836 Television Rd N",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864497,
+        102191575,
         85633041,
-        85682057
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"11c363494fe85998ac5e2a3a6ece2f66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":186452589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":186452589
         }
     ],
     "wof:id":186452589,
-    "wof:lastmodified":1449051031,
+    "wof:lastmodified":1453936582,
     "wof:name":"Lafarge Canada Inc",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "concrete"
     ]
 },
-  "bbox": [-78.289696,44.315289,-78.289696,44.315289],
-  "geometry": {"coordinates":[-78.289696,44.315289],"type":"Point"}
+  "bbox": [
+    -78.289696,
+    44.315289,
+    -78.289696,
+    44.315289
+],
+  "geometry": {"coordinates":[-78.28969600000001,44.315289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152742569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.433502,45.593731,-73.433502,45.593731",
     "geom:latitude":45.593731,
     "geom:longitude":-73.433502,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"565 Boul DE Mortagne",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875749,
+        102191575,
         85633041,
-        85875749
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"8ceb27cca0848ea943453618375f1359",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875749,
+            "region_id":136251273,
             "venue_id":152742569
         }
     ],
     "wof:id":152742569,
-    "wof:lastmodified":1449044609,
+    "wof:lastmodified":1453933061,
     "wof:name":"Centre Gilles-Chabot Inc",
     "wof:parent_id":85875749,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.433502,45.593731,-73.433502,45.593731],
+  "bbox": [
+    -73.433502,
+    45.593731,
+    -73.433502,
+    45.593731
+],
   "geometry": {"coordinates":[-73.433502,45.593731],"type":"Point"}
 }

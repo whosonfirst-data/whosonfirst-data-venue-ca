@@ -2,13 +2,14 @@
   "id": 169181913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.714149,45.469215,-73.714149,45.469215",
     "geom:latitude":45.469215,
     "geom:longitude":-73.714149,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9741 Ch Cote-DE-Liesse",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b77e47327a3aab898841021c6d3c022f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":169181913
         }
     ],
     "wof:id":169181913,
-    "wof:lastmodified":1449034709,
+    "wof:lastmodified":1453930908,
     "wof:name":"Bloomstar Bouquet Inc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.714149,45.469215,-73.714149,45.469215],
-  "geometry": {"coordinates":[-73.714149,45.469215],"type":"Point"}
+  "bbox": [
+    -73.714149,
+    45.469215,
+    -73.714149,
+    45.469215
+],
+  "geometry": {"coordinates":[-73.71414900000001,45.469215],"type":"Point"}
 }

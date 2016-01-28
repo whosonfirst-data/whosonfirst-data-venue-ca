@@ -2,13 +2,14 @@
   "id": 185670849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556152,45.503414,-73.556152,45.503414",
     "geom:latitude":45.503414,
     "geom:longitude":-73.556152,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"443 Rue Saint-Francois-Xavier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866469,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"84ed0798aa3774890355de1022ded23c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866469,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185670849
         }
     ],
     "wof:id":185670849,
-    "wof:lastmodified":1449006847,
+    "wof:lastmodified":1453927222,
     "wof:name":"Restaurant Bonaparte",
     "wof:parent_id":85866469,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.556152,45.503414,-73.556152,45.503414],
+  "bbox": [
+    -73.556152,
+    45.503414,
+    -73.556152,
+    45.503414
+],
   "geometry": {"coordinates":[-73.556152,45.503414],"type":"Point"}
 }

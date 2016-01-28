@@ -2,13 +2,14 @@
   "id": 169030957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.482857,45.482536,-73.482857,45.482536",
     "geom:latitude":45.482536,
     "geom:longitude":-73.482857,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1755 Av Victoria # C107",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875767,
+        102191575,
         85633041,
-        85875767
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"48aa9579b92be8f126768ca1f389e5f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875767,
+            "region_id":136251273,
             "venue_id":169030957
         }
     ],
     "wof:id":169030957,
-    "wof:lastmodified":1449033904,
+    "wof:lastmodified":1453930063,
     "wof:name":"Societe Canadienne-Sclerose",
     "wof:parent_id":85875767,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.482857,45.482536,-73.482857,45.482536],
+  "bbox": [
+    -73.482857,
+    45.482536,
+    -73.482857,
+    45.482536
+],
   "geometry": {"coordinates":[-73.482857,45.482536],"type":"Point"}
 }

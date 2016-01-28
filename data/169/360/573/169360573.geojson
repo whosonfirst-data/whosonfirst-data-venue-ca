@@ -2,13 +2,14 @@
   "id": 169360573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.434326,45.469021,-73.434326,45.469021",
     "geom:latitude":45.469021,
     "geom:longitude":-73.434326,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897547,
+        102191575,
         85633041,
-        85897547
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"226cce7982723939f37abbfe18a43641",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897547,
+            "region_id":136251273,
             "venue_id":169360573
         }
     ],
     "wof:id":169360573,
-    "wof:lastmodified":1449035207,
+    "wof:lastmodified":1453931406,
     "wof:name":"Virgin Mary Coptic Orthodox",
     "wof:parent_id":85897547,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.434326,45.469021,-73.434326,45.469021],
+  "bbox": [
+    -73.434326,
+    45.469021,
+    -73.434326,
+    45.469021
+],
   "geometry": {"coordinates":[-73.434326,45.469021],"type":"Point"}
 }

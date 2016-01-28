@@ -2,13 +2,14 @@
   "id": 152162663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.41877,45.503414,-73.41877,45.503414",
     "geom:latitude":45.503414,
     "geom:longitude":-73.41877,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1825 Rue Coderre",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5fa66ec7f797cb14256e73cc46786580",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":152162663
         }
     ],
     "wof:id":152162663,
-    "wof:lastmodified":1449048243,
+    "wof:lastmodified":1453935828,
     "wof:name":"Service DE Piscines Metro",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.41877,45.503414,-73.41877,45.503414],
-  "geometry": {"coordinates":[-73.41877,45.503414],"type":"Point"}
+  "bbox": [
+    -73.41877,
+    45.503414,
+    -73.41877,
+    45.503414
+],
+  "geometry": {"coordinates":[-73.41876999999999,45.503414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202639985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588211,45.541996,-73.588211,45.541996",
     "geom:latitude":45.541996,
     "geom:longitude":-73.588211,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2039 Rue Des Carrieres",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874357,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"72a650540fb810ceec4828f8cf6f5c3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202639985
         }
     ],
     "wof:id":202639985,
-    "wof:lastmodified":1449062633,
+    "wof:lastmodified":1453937503,
     "wof:name":"Brasserie Rosemont",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "caterer"
     ]
 },
-  "bbox": [-73.588211,45.541996,-73.588211,45.541996],
+  "bbox": [
+    -73.588211,
+    45.541996,
+    -73.588211,
+    45.541996
+],
   "geometry": {"coordinates":[-73.588211,45.541996],"type":"Point"}
 }

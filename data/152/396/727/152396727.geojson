@@ -2,13 +2,14 @@
   "id": 152396727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.872955,45.415176,-71.872955,45.415176",
     "geom:latitude":45.415176,
     "geom:longitude":-71.872955,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"439 12E Av N",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874189,
+        102191575,
         85633041,
-        85874189
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5695105b13a0f55f4fc59236dd770184",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874189,
+            "region_id":136251273,
             "venue_id":152396727
         }
     ],
     "wof:id":152396727,
-    "wof:lastmodified":1449047329,
+    "wof:lastmodified":1453935118,
     "wof:name":"Artisan Du Meuble",
     "wof:parent_id":85874189,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.872955,45.415176,-71.872955,45.415176],
+  "bbox": [
+    -71.872955,
+    45.415176,
+    -71.872955,
+    45.415176
+],
   "geometry": {"coordinates":[-71.872955,45.415176],"type":"Point"}
 }

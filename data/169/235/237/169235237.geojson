@@ -2,13 +2,14 @@
   "id": 169235237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.910812,45.40044,-71.910812,45.40044",
     "geom:latitude":45.40044,
     "geom:longitude":-71.910812,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"115 Rue DE Vimy",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"be0c05038329a5520323a1037519c57d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":169235237
         }
     ],
     "wof:id":169235237,
-    "wof:lastmodified":1449033258,
+    "wof:lastmodified":1453929368,
     "wof:name":"Boulanger, Robert",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.910812,45.40044,-71.910812,45.40044],
-  "geometry": {"coordinates":[-71.910812,45.40044],"type":"Point"}
+  "bbox": [
+    -71.910812,
+    45.40044,
+    -71.910812,
+    45.40044
+],
+  "geometry": {"coordinates":[-71.91081200000001,45.40044],"type":"Point"}
 }

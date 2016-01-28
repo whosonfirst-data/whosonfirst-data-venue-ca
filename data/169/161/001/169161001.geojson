@@ -2,13 +2,14 @@
   "id": 169161001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.527481,43.809036,-79.527481,43.809036",
     "geom:latitude":43.809036,
     "geom:longitude":-79.527481,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Concord",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1ba60bb6ac38361db3f37b7baed53087",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":169161001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":169161001
         }
     ],
     "wof:id":169161001,
-    "wof:lastmodified":1449033982,
+    "wof:lastmodified":1453930145,
     "wof:name":"Dasa Mechanical Intl Ltd",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.527481,43.809036,-79.527481,43.809036],
-  "geometry": {"coordinates":[-79.527481,43.809036],"type":"Point"}
+  "bbox": [
+    -79.527481,
+    43.809036,
+    -79.527481,
+    43.809036
+],
+  "geometry": {"coordinates":[-79.52748099999999,43.809036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169349595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.200897,43.11739,-79.200897,43.11739",
     "geom:latitude":43.11739,
     "geom:longitude":-79.200897,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11 Richmond St",
     "sg:city":"Thorold",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"951289c97b4c147e8438c13e4937fa24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":169349595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":169349595
         }
     ],
     "wof:id":169349595,
-    "wof:lastmodified":1449033943,
+    "wof:lastmodified":1453930106,
     "wof:name":"Angie's Auto Svc",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.200897,43.11739,-79.200897,43.11739],
+  "bbox": [
+    -79.200897,
+    43.11739,
+    -79.200897,
+    43.11739
+],
   "geometry": {"coordinates":[-79.200897,43.11739],"type":"Point"}
 }

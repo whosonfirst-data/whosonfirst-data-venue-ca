@@ -2,13 +2,14 @@
   "id": 169107117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.710175,43.608269,-79.710175,43.608269",
     "geom:latitude":43.608269,
     "geom:longitude":-79.710175,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1149 Bancroft Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e4d477bb78dbbd6d6a613f0789508191",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":169107117
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":169107117
         }
     ],
     "wof:id":169107117,
-    "wof:lastmodified":1449032700,
+    "wof:lastmodified":1453928813,
     "wof:name":"Arrow Portable Signs",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.710175,43.608269,-79.710175,43.608269],
-  "geometry": {"coordinates":[-79.710175,43.608269],"type":"Point"}
+  "bbox": [
+    -79.710175,
+    43.608269,
+    -79.710175,
+    43.608269
+],
+  "geometry": {"coordinates":[-79.71017500000001,43.608269],"type":"Point"}
 }

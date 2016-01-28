@@ -2,13 +2,14 @@
   "id": 152744819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578217,45.46529,-73.578217,45.46529",
     "geom:latitude":45.46529,
     "geom:longitude":-73.578217,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1142 Rue Hickson",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874363,
+        102191575,
         85633041,
-        85874363
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"6fdcdb2c5d7083ff12413e6c107740f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
+            "region_id":136251273,
             "venue_id":152744819
         }
     ],
     "wof:id":152744819,
-    "wof:lastmodified":1449045976,
+    "wof:lastmodified":1453934105,
     "wof:name":"Joseph Labelle Enr",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578217,45.46529,-73.578217,45.46529],
+  "bbox": [
+    -73.578217,
+    45.46529,
+    -73.578217,
+    45.46529
+],
   "geometry": {"coordinates":[-73.578217,45.46529],"type":"Point"}
 }

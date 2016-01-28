@@ -2,13 +2,14 @@
   "id": 203303445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.478142,45.411671,-73.478142,45.411671",
     "geom:latitude":45.411671,
     "geom:longitude":-73.478142,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1005 Ch DE Saint-Jean",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875773,
+        102191575,
         85633041,
-        101736521
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"ad742b751c2f7b82dcfd231b0a105974",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875773,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203303445
         }
     ],
     "wof:id":203303445,
-    "wof:lastmodified":1449024950,
+    "wof:lastmodified":1453927407,
     "wof:name":"Jacques Cartier Pizza",
     "wof:parent_id":85875773,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.478142,45.411671,-73.478142,45.411671],
-  "geometry": {"coordinates":[-73.478142,45.411671],"type":"Point"}
+  "bbox": [
+    -73.478142,
+    45.411671,
+    -73.478142,
+    45.411671
+],
+  "geometry": {"coordinates":[-73.47814200000001,45.411671],"type":"Point"}
 }

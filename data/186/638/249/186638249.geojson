@@ -2,13 +2,14 @@
   "id": 186638249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.239456,46.758511,-71.239456,46.758511",
     "geom:latitude":46.758511,
     "geom:longitude":-71.239456,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2217 Ch Du Fleuve",
     "sg:city":"Saint-Romuald",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784941,
+        102191575,
         85633041,
-        101737987
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"137dae1f57f0ba3e3d97553e1b95cafa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186638249
         }
     ],
     "wof:id":186638249,
-    "wof:lastmodified":1449050414,
+    "wof:lastmodified":1453936511,
     "wof:name":"Havre Du Fleuve",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-71.239456,46.758511,-71.239456,46.758511],
+  "bbox": [
+    -71.239456,
+    46.758511,
+    -71.239456,
+    46.758511
+],
   "geometry": {"coordinates":[-71.239456,46.758511],"type":"Point"}
 }

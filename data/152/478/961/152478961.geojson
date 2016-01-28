@@ -2,13 +2,14 @@
   "id": 152478961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.07048,48.406811,-71.07048,48.406811",
     "geom:latitude":48.406811,
     "geom:longitude":-71.07048,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1314 Rue Begin",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"3eb16566401fb7e21afd86d5b0ec69e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152478961
         }
     ],
     "wof:id":152478961,
-    "wof:lastmodified":1449044450,
+    "wof:lastmodified":1453932940,
     "wof:name":"Morin, Rodrigue",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.07048,48.406811,-71.07048,48.406811],
+  "bbox": [
+    -71.07048,
+    48.406811,
+    -71.07048,
+    48.406811
+],
   "geometry": {"coordinates":[-71.07048,48.406811],"type":"Point"}
 }

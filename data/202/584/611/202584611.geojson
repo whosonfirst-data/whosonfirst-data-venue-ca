@@ -2,13 +2,14 @@
   "id": 202584611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.776306,45.553284,-73.776306,45.553284",
     "geom:latitude":45.553284,
     "geom:longitude":-73.776306,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2130 Rue Gosselin",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875061,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"92f71edc9b2fdcb43b986c90a25156b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875061,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202584611
         }
     ],
     "wof:id":202584611,
-    "wof:lastmodified":1449060386,
+    "wof:lastmodified":1453937031,
     "wof:name":"Securite Digitronique Inc",
     "wof:parent_id":85875061,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "robbery"
     ]
 },
-  "bbox": [-73.776306,45.553284,-73.776306,45.553284],
-  "geometry": {"coordinates":[-73.776306,45.553284],"type":"Point"}
+  "bbox": [
+    -73.776306,
+    45.553284,
+    -73.776306,
+    45.553284
+],
+  "geometry": {"coordinates":[-73.77630600000001,45.553284],"type":"Point"}
 }

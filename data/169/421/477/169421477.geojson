@@ -2,13 +2,14 @@
   "id": 169421477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.469376,45.497486,-73.469376,45.497486",
     "geom:latitude":45.497486,
     "geom:longitude":-73.469376,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3443 Rue Windsor",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897549,
+        102191575,
         85633041,
-        85897549
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"71e0a8f2fa6d8e39f709886a482d3be4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897549,
+            "region_id":136251273,
             "venue_id":169421477
         }
     ],
     "wof:id":169421477,
-    "wof:lastmodified":1449034782,
+    "wof:lastmodified":1453931009,
     "wof:name":"Picotin, Serge",
     "wof:parent_id":85897549,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.469376,45.497486,-73.469376,45.497486],
+  "bbox": [
+    -73.469376,
+    45.497486,
+    -73.469376,
+    45.497486
+],
   "geometry": {"coordinates":[-73.469376,45.497486],"type":"Point"}
 }

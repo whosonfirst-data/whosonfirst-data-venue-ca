@@ -2,13 +2,14 @@
   "id": 152703443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.128151,45.248268,-74.128151,45.248268",
     "geom:latitude":45.248268,
     "geom:longitude":-74.128151,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"250 Rue Saint-Thomas",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895785,
+        102191575,
         85633041,
-        85895785
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"7ef9bb88963d6dc34f9a2b9bb8598383",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895785,
+            "region_id":136251273,
             "venue_id":152703443
         }
     ],
     "wof:id":152703443,
-    "wof:lastmodified":1449045709,
+    "wof:lastmodified":1453933901,
     "wof:name":"Cpe Citronnelle",
     "wof:parent_id":85895785,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.128151,45.248268,-74.128151,45.248268],
+  "bbox": [
+    -74.128151,
+    45.248268,
+    -74.128151,
+    45.248268
+],
   "geometry": {"coordinates":[-74.128151,45.248268],"type":"Point"}
 }

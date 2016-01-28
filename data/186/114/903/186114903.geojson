@@ -2,13 +2,14 @@
   "id": 186114903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.518616,53.567158,-113.518616,53.567158",
     "geom:latitude":53.567158,
     "geom:longitude":-113.518616,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Edmonton",
     "sg:classifiers":[
         {
@@ -27,8 +28,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874655,
         85633041,
+        102554483,
+        85874655,
         85682091
     ],
     "wof:breaches":[],
@@ -39,18 +41,17 @@
     "wof:geomhash":"795f468e2301226c318f62bb86b84f4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554483,
             "country_id":85633041,
-            "locality_id":-1,
             "neighbourhood_id":85874655,
             "region_id":85682091,
             "venue_id":186114903
         }
     ],
     "wof:id":186114903,
-    "wof:lastmodified":1449051491,
+    "wof:lastmodified":1453936670,
     "wof:name":"Arado Aero Inc",
-    "wof:parent_id":85874655,
+    "wof:parent_id":102554483,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +60,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-113.518616,53.567158,-113.518616,53.567158],
-  "geometry": {"coordinates":[-113.518616,53.567158],"type":"Point"}
+  "bbox": [
+    -113.518616,
+    53.567158,
+    -113.518616,
+    53.567158
+],
+  "geometry": {"coordinates":[-113.51861599999999,53.567158],"type":"Point"}
 }

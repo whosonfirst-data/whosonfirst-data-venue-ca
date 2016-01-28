@@ -2,13 +2,14 @@
   "id": 202564091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.565437,45.522022,-73.565437,45.522022",
     "geom:latitude":45.522022,
     "geom:longitude":-73.565437,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,8 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874353,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,16 @@
     "wof:geomhash":"fe9e2e5af9f295414af422db5232c226",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202564091
         }
     ],
     "wof:id":202564091,
-    "wof:lastmodified":1449062497,
+    "wof:lastmodified":1453937475,
     "wof:name":"Tour Du Parc",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.565437,45.522022,-73.565437,45.522022],
+  "bbox": [
+    -73.565437,
+    45.522022,
+    -73.565437,
+    45.522022
+],
   "geometry": {"coordinates":[-73.565437,45.522022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169017549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.669044,43.745499,-79.669044,43.745499",
     "geom:latitude":43.745499,
     "geom:longitude":-79.669044,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"e690bbad034dbe696f4af4d5b6582c4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":169017549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":169017549
         }
     ],
     "wof:id":169017549,
-    "wof:lastmodified":1449034440,
+    "wof:lastmodified":1453930636,
     "wof:name":"Xtra Mechanical Ltd",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.669044,43.745499,-79.669044,43.745499],
+  "bbox": [
+    -79.669044,
+    43.745499,
+    -79.669044,
+    43.745499
+],
   "geometry": {"coordinates":[-79.669044,43.745499],"type":"Point"}
 }

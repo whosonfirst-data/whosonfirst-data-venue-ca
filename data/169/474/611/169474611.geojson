@@ -2,13 +2,14 @@
   "id": 169474611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.403687,42.969921,-82.403687,42.969921",
     "geom:latitude":42.969921,
     "geom:longitude":-82.403687,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"134 Brock St S",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875555,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"a9ab62df630d92d24f68ca05e6520725",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875555,
+            "region_id":85682057,
+            "venue_id":169474611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875555,
             "region_id":85682057,
             "venue_id":169474611
         }
     ],
     "wof:id":169474611,
-    "wof:lastmodified":1449032830,
+    "wof:lastmodified":1453928970,
     "wof:name":"Sarnia Arena",
     "wof:parent_id":85875555,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.403687,42.969921,-82.403687,42.969921],
-  "geometry": {"coordinates":[-82.403687,42.969921],"type":"Point"}
+  "bbox": [
+    -82.403687,
+    42.969921,
+    -82.403687,
+    42.969921
+],
+  "geometry": {"coordinates":[-82.40368700000001,42.969921],"type":"Point"}
 }

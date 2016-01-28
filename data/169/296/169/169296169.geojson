@@ -2,13 +2,14 @@
   "id": 169296169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585983,45.466637,-73.585983,45.466637",
     "geom:latitude":45.466637,
     "geom:longitude":-73.585983,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5000 Rue Brock",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866497,
+        102191575,
         85633041,
-        85866497
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"44d58f4111eee733045d9cb5b77d8f5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866497,
+            "region_id":136251273,
             "venue_id":169296169
         }
     ],
     "wof:id":169296169,
-    "wof:lastmodified":1449035346,
+    "wof:lastmodified":1453931551,
     "wof:name":"North Star Diamond Abrasives",
     "wof:parent_id":85866497,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.585983,45.466637,-73.585983,45.466637],
+  "bbox": [
+    -73.585983,
+    45.466637,
+    -73.585983,
+    45.466637
+],
   "geometry": {"coordinates":[-73.585983,45.466637],"type":"Point"}
 }

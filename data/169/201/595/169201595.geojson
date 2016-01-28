@@ -2,13 +2,14 @@
   "id": 169201595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619926,45.478771,-73.619926,45.478771",
     "geom:latitude":45.478771,
     "geom:longitude":-73.619926,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85897633,
+        102191575,
         85633041,
-        85897633
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"8f534415de80835331c979f3c2626474",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897633,
+            "region_id":136251273,
             "venue_id":169201595
         }
     ],
     "wof:id":169201595,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1453931764,
     "wof:name":"Buzz Jeans",
     "wof:parent_id":85897633,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.619926,45.478771,-73.619926,45.478771],
-  "geometry": {"coordinates":[-73.619926,45.478771],"type":"Point"}
+  "bbox": [
+    -73.619926,
+    45.478771,
+    -73.619926,
+    45.478771
+],
+  "geometry": {"coordinates":[-73.61992600000001,45.478771],"type":"Point"}
 }

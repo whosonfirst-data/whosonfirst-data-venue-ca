@@ -2,13 +2,14 @@
   "id": 152365487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.856766,45.367081,-71.856766,45.367081",
     "geom:latitude":45.367081,
     "geom:longitude":-71.856766,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"131 Rue Queen",
     "sg:city":"Lennoxville",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85785017,
+        102191575,
         85633041,
-        85785017
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4477a9dba95db4da711d3d8a6f71664d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85785017,
+            "region_id":136251273,
             "venue_id":152365487
         }
     ],
     "wof:id":152365487,
-    "wof:lastmodified":1449045046,
+    "wof:lastmodified":1453933396,
     "wof:name":"Banque Royale",
     "wof:parent_id":85785017,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.856766,45.367081,-71.856766,45.367081],
-  "geometry": {"coordinates":[-71.856766,45.367081],"type":"Point"}
+  "bbox": [
+    -71.856766,
+    45.367081,
+    -71.856766,
+    45.367081
+],
+  "geometry": {"coordinates":[-71.85676599999999,45.367081],"type":"Point"}
 }

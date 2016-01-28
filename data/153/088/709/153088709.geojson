@@ -2,13 +2,14 @@
   "id": 153088709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.423859,43.874329,-79.423859,43.874329",
     "geom:latitude":43.874329,
     "geom:longitude":-79.423859,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"426 Major Mackenzie Dr E # 3",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895247,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"66ef06a87e30246bde87d431000dfa51",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895247,
+            "region_id":85682057,
+            "venue_id":153088709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895247,
             "region_id":85682057,
             "venue_id":153088709
         }
     ],
     "wof:id":153088709,
-    "wof:lastmodified":1449040706,
+    "wof:lastmodified":1453932624,
     "wof:name":"Porter Fine Printing",
     "wof:parent_id":85895247,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.423859,43.874329,-79.423859,43.874329],
-  "geometry": {"coordinates":[-79.423859,43.874329],"type":"Point"}
+  "bbox": [
+    -79.423859,
+    43.874329,
+    -79.423859,
+    43.874329
+],
+  "geometry": {"coordinates":[-79.42385899999999,43.874329],"type":"Point"}
 }

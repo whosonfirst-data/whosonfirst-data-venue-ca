@@ -2,13 +2,14 @@
   "id": 219504401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.24263,43.162025,-79.24263,43.162025",
     "geom:latitude":43.162025,
     "geom:longitude":-79.24263,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"206 King St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875047,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"cc556b52e5dcbe6dd4b53b8bce1ac087",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":219504401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":219504401
         }
     ],
     "wof:id":219504401,
-    "wof:lastmodified":1449071012,
+    "wof:lastmodified":1453937627,
     "wof:name":"Biomedical Implant Technology",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "dental"
     ]
 },
-  "bbox": [-79.24263,43.162025,-79.24263,43.162025],
-  "geometry": {"coordinates":[-79.24263,43.162025],"type":"Point"}
+  "bbox": [
+    -79.24263,
+    43.162025,
+    -79.24263,
+    43.162025
+],
+  "geometry": {"coordinates":[-79.24263000000001,43.162025],"type":"Point"}
 }

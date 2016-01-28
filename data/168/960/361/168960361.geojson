@@ -2,13 +2,14 @@
   "id": 168960361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.378929,42.984585,-82.378929,42.984585",
     "geom:latitude":42.984585,
     "geom:longitude":-82.378929,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"780 Melrose Ave",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875567,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"3e1eecec7c0498bc302648df2add0e63",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875567,
+            "region_id":85682057,
+            "venue_id":168960361
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875567,
             "region_id":85682057,
             "venue_id":168960361
         }
     ],
     "wof:id":168960361,
-    "wof:lastmodified":1449028330,
+    "wof:lastmodified":1453928405,
     "wof:name":"Kolours By Kuglin",
     "wof:parent_id":85875567,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.378929,42.984585,-82.378929,42.984585],
+  "bbox": [
+    -82.378929,
+    42.984585,
+    -82.378929,
+    42.984585
+],
   "geometry": {"coordinates":[-82.378929,42.984585],"type":"Point"}
 }

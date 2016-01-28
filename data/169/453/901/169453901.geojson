@@ -2,13 +2,14 @@
   "id": 169453901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.691505,44.391174,-79.691505,44.391174",
     "geom:latitude":44.391174,
     "geom:longitude":-79.691505,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YwZhDkfr8FljwzpCfoJCS_44.391174_-79.691505@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"19380aef58354aa31c3a2c0c8ad0d738",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":169453901
+        }
+    ],
     "wof:id":169453901,
-    "wof:lastmodified":1449035147,
+    "wof:lastmodified":1453931368,
     "wof:name":"Grant Thornton",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.691505,44.391174,-79.691505,44.391174],
-  "geometry": {"coordinates":[-79.691505,44.391174],"type":"Point"}
+  "bbox": [
+    -79.691505,
+    44.391174,
+    -79.691505,
+    44.391174
+],
+  "geometry": {"coordinates":[-79.69150500000001,44.391174],"type":"Point"}
 }

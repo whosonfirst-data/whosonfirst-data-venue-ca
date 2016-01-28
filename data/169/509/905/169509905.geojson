@@ -2,13 +2,14 @@
   "id": 169509905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.428925,45.503948,-73.428925,45.503948",
     "geom:latitude":45.503948,
     "geom:longitude":-73.428925,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5110 Boul Cousineau",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d737392fc395f8e1cc52e1f7c44741b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":169509905
         }
     ],
     "wof:id":169509905,
-    "wof:lastmodified":1449032824,
+    "wof:lastmodified":1453928960,
     "wof:name":"Federation DE LA Sante Et Des",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.428925,45.503948,-73.428925,45.503948],
-  "geometry": {"coordinates":[-73.428925,45.503948],"type":"Point"}
+  "bbox": [
+    -73.428925,
+    45.503948,
+    -73.428925,
+    45.503948
+],
+  "geometry": {"coordinates":[-73.42892500000001,45.503948],"type":"Point"}
 }

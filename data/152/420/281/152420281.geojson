@@ -2,13 +2,14 @@
   "id": 152420281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.230103,45.287773,-73.230103,45.287773",
     "geom:latitude":45.287773,
     "geom:longitude":-73.230103,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3 Rue Aldeo-Boucher",
     "sg:city":"Saint-Athanase",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785077,
+        102191575,
         85633041,
-        85785077
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"7d21e9b6fabf4e50a07d05928f3d5a5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785077,
+            "region_id":136251273,
             "venue_id":152420281
         }
     ],
     "wof:id":152420281,
-    "wof:lastmodified":1449046521,
+    "wof:lastmodified":1453934519,
     "wof:name":"Garage Claude Dubois",
     "wof:parent_id":85785077,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.230103,45.287773,-73.230103,45.287773],
+  "bbox": [
+    -73.230103,
+    45.287773,
+    -73.230103,
+    45.287773
+],
   "geometry": {"coordinates":[-73.230103,45.287773],"type":"Point"}
 }

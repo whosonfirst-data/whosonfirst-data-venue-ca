@@ -2,13 +2,14 @@
   "id": 169533629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.698967,45.423138,-75.698967,45.423138",
     "geom:latitude":45.423138,
     "geom:longitude":-75.698967,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Wellington St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"43705c9dae647274f10969576b1951ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":169533629
         }
     ],
     "wof:id":169533629,
-    "wof:lastmodified":1449032642,
+    "wof:lastmodified":1453928759,
     "wof:name":"Halifax Herald Ltd",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.698967,45.423138,-75.698967,45.423138],
+  "bbox": [
+    -75.698967,
+    45.423138,
+    -75.698967,
+    45.423138
+],
   "geometry": {"coordinates":[-75.698967,45.423138],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153087155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.707886,44.359283,-79.707886,44.359283",
     "geom:latitude":44.359283,
     "geom:longitude":-79.707886,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"266 Crawford St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4N 3W8",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875275,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1n9wKAJGpIVWiaFrWukvYx_44.359283_-79.707886@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5dd3f0229a02face55ef6d21d166cc41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875275,
+            "region_id":85682057,
+            "venue_id":153087155
+        }
+    ],
     "wof:id":153087155,
-    "wof:lastmodified":1449040536,
+    "wof:lastmodified":1453932473,
     "wof:name":"California Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875275,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.707886,44.359283,-79.707886,44.359283],
+  "bbox": [
+    -79.707886,
+    44.359283,
+    -79.707886,
+    44.359283
+],
   "geometry": {"coordinates":[-79.707886,44.359283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202995263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.64328,43.704117,-79.64328,43.704117",
     "geom:latitude":43.704117,
     "geom:longitude":-79.64328,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7040 Airport Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894971,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"9ab730d6244c56074d144ae0ac151934",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894971,
+            "region_id":85682057,
+            "venue_id":202995263
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894971,
             "region_id":85682057,
             "venue_id":202995263
         }
     ],
     "wof:id":202995263,
-    "wof:lastmodified":1449062369,
+    "wof:lastmodified":1453937447,
     "wof:name":"Airport Grill",
     "wof:parent_id":85894971,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.64328,43.704117,-79.64328,43.704117],
+  "bbox": [
+    -79.64328,
+    43.704117,
+    -79.64328,
+    43.704117
+],
   "geometry": {"coordinates":[-79.64328,43.704117],"type":"Point"}
 }

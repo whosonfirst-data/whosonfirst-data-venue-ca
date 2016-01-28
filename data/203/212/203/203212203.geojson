@@ -2,13 +2,14 @@
   "id": 203212203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.281479,45.331577,-73.281479,45.331577",
     "geom:latitude":45.331577,
     "geom:longitude":-73.281479,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"600 Rue Pierre-Caisse",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785071,
+        102191575,
         85633041,
-        101738721
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"fa4d6b7e7ef6db156da317ac35b372ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203212203
         }
     ],
     "wof:id":203212203,
-    "wof:lastmodified":1449026207,
+    "wof:lastmodified":1453927637,
     "wof:name":"Faces Cosmetique Express",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "perfume"
     ]
 },
-  "bbox": [-73.281479,45.331577,-73.281479,45.331577],
+  "bbox": [
+    -73.281479,
+    45.331577,
+    -73.281479,
+    45.331577
+],
   "geometry": {"coordinates":[-73.281479,45.331577],"type":"Point"}
 }

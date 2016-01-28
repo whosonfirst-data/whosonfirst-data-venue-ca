@@ -2,13 +2,14 @@
   "id": 152882291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.654167,45.454205,-73.654167,45.454205",
     "geom:latitude":45.454205,
     "geom:longitude":-73.654167,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"263 Av Percival",
     "sg:city":"Montreal-Ouest",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736483,
+        85784813,
+        102191575,
         85633041,
-        85784813
+        101736483,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"bdfd819e969d6de8484a89d672c794c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736483,
             "neighbourhood_id":85784813,
+            "region_id":136251273,
             "venue_id":152882291
         }
     ],
     "wof:id":152882291,
-    "wof:lastmodified":1449045130,
+    "wof:lastmodified":1453933462,
     "wof:name":"Little Red Playhouse Preschool",
     "wof:parent_id":85784813,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.654167,45.454205,-73.654167,45.454205],
+  "bbox": [
+    -73.654167,
+    45.454205,
+    -73.654167,
+    45.454205
+],
   "geometry": {"coordinates":[-73.654167,45.454205],"type":"Point"}
 }

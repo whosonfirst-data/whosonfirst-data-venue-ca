@@ -2,13 +2,14 @@
   "id": 186532769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.55278,46.337383,-72.55278,46.337383",
     "geom:latitude":46.337383,
     "geom:longitude":-72.55278,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2255 Rue Bellefeuille",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874119,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"47b6d9bd95db8811c655cf3f94ac90ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186532769
         }
     ],
     "wof:id":186532769,
-    "wof:lastmodified":1449051286,
+    "wof:lastmodified":1453936632,
     "wof:name":"Centre DE Location Trois-Riv",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-72.55278,46.337383,-72.55278,46.337383],
+  "bbox": [
+    -72.55278,
+    46.337383,
+    -72.55278,
+    46.337383
+],
   "geometry": {"coordinates":[-72.55278,46.337383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168968973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.757881,45.537949,-73.757881,45.537949",
     "geom:latitude":45.537949,
     "geom:longitude":-73.757881,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4349 Boul Notre-Dame",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"c3a52edf966e337ff2d178f8f776ba76",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":168968973
         }
     ],
     "wof:id":168968973,
-    "wof:lastmodified":1449027821,
+    "wof:lastmodified":1453927834,
     "wof:name":"Uniprix",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.757881,45.537949,-73.757881,45.537949],
+  "bbox": [
+    -73.757881,
+    45.537949,
+    -73.757881,
+    45.537949
+],
   "geometry": {"coordinates":[-73.757881,45.537949],"type":"Point"}
 }

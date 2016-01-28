@@ -2,13 +2,14 @@
   "id": 202622477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.533096,46.469807,-72.533096,46.469807",
     "geom:latitude":46.469807,
     "geom:longitude":-72.533096,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1580 Rue Notre Dame",
     "sg:city":"Saint-Maurice",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785013,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"d53b20cabb507124271f0988f31a89c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85785013,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202622477
         }
     ],
     "wof:id":202622477,
-    "wof:lastmodified":1449062202,
+    "wof:lastmodified":1453937412,
     "wof:name":"Marche Masson & Fils Inc",
     "wof:parent_id":85785013,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-72.533096,46.469807,-72.533096,46.469807],
+  "bbox": [
+    -72.533096,
+    46.469807,
+    -72.533096,
+    46.469807
+],
   "geometry": {"coordinates":[-72.533096,46.469807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219397021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.465172,43.460979,-80.465172,43.460979",
     "geom:latitude":43.460979,
     "geom:longitude":-80.465172,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"660 Frederick St",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864615,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"fd0750d4cb0bae2b8b62992c099e9bc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864615,
+            "region_id":85682057,
+            "venue_id":219397021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864615,
             "region_id":85682057,
             "venue_id":219397021
         }
     ],
     "wof:id":219397021,
-    "wof:lastmodified":1449071794,
+    "wof:lastmodified":1453937729,
     "wof:name":"A Natural Alternative Massage",
     "wof:parent_id":85864615,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "massage"
     ]
 },
-  "bbox": [-80.465172,43.460979,-80.465172,43.460979],
+  "bbox": [
+    -80.465172,
+    43.460979,
+    -80.465172,
+    43.460979
+],
   "geometry": {"coordinates":[-80.465172,43.460979],"type":"Point"}
 }

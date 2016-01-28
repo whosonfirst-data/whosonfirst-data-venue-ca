@@ -2,13 +2,14 @@
   "id": 153003891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.211555,46.813282,-71.211555,46.813282",
     "geom:latitude":46.813282,
     "geom:longitude":-71.211555,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1055 Rue Saint-Jean",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864435,
+        102191575,
         85633041,
-        85864435
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ae96f3a141ab39129371bf63529101a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864435,
+            "region_id":136251273,
             "venue_id":153003891
         }
     ],
     "wof:id":153003891,
-    "wof:lastmodified":1449040791,
+    "wof:lastmodified":1453932702,
     "wof:name":"Excalibor Quebec",
     "wof:parent_id":85864435,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.211555,46.813282,-71.211555,46.813282],
+  "bbox": [
+    -71.211555,
+    46.813282,
+    -71.211555,
+    46.813282
+],
   "geometry": {"coordinates":[-71.211555,46.813282],"type":"Point"}
 }

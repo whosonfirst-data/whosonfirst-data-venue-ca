@@ -2,13 +2,14 @@
   "id": 169459305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.232994,48.405643,-71.232994,48.405643",
     "geom:latitude":48.405643,
     "geom:longitude":-71.232994,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2379 Rue Cantin",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"bf9710562805aba032884c2f1fefe717",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":169459305
         }
     ],
     "wof:id":169459305,
-    "wof:lastmodified":1449034022,
+    "wof:lastmodified":1453930193,
     "wof:name":"Entrepots Jonquiere Ltee",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.232994,48.405643,-71.232994,48.405643],
-  "geometry": {"coordinates":[-71.232994,48.405643],"type":"Point"}
+  "bbox": [
+    -71.232994,
+    48.405643,
+    -71.232994,
+    48.405643
+],
+  "geometry": {"coordinates":[-71.23299400000001,48.405643],"type":"Point"}
 }

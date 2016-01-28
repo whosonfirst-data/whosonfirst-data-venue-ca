@@ -2,13 +2,14 @@
   "id": 169369631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.583542,45.496532,-73.583542,45.496532",
     "geom:latitude":45.496532,
     "geom:longitude":-73.583542,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3465 DE LA Cote-Des-Neiges Ch",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4e0ff7f8e285938bac0f5550c3ad79e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":169369631
         }
     ],
     "wof:id":169369631,
-    "wof:lastmodified":1449035793,
+    "wof:lastmodified":1453932070,
     "wof:name":"Noor Import-Export",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.583542,45.496532,-73.583542,45.496532],
-  "geometry": {"coordinates":[-73.583542,45.496532],"type":"Point"}
+  "bbox": [
+    -73.583542,
+    45.496532,
+    -73.583542,
+    45.496532
+],
+  "geometry": {"coordinates":[-73.58354199999999,45.496532],"type":"Point"}
 }

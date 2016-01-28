@@ -2,13 +2,14 @@
   "id": 152322167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563995,45.470627,-73.563995,45.470627",
     "geom:latitude":45.470627,
     "geom:longitude":-73.563995,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3180 Rue Wellington",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874363,
+        102191575,
         85633041,
-        85874363
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"6b375a56cb5c8e03811f110edaa03a96",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
+            "region_id":136251273,
             "venue_id":152322167
         }
     ],
     "wof:id":152322167,
-    "wof:lastmodified":1449044237,
+    "wof:lastmodified":1453932782,
     "wof:name":"Canadian-Tire Magasins Assoc",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.563995,45.470627,-73.563995,45.470627],
-  "geometry": {"coordinates":[-73.563995,45.470627],"type":"Point"}
+  "bbox": [
+    -73.563995,
+    45.470627,
+    -73.563995,
+    45.470627
+],
+  "geometry": {"coordinates":[-73.56399500000001,45.470627],"type":"Point"}
 }

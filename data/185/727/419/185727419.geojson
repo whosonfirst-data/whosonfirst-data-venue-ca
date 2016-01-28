@@ -2,13 +2,14 @@
   "id": 185727419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.294189,45.325706,-73.294189,45.325706",
     "geom:latitude":45.325706,
     "geom:longitude":-73.294189,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"760 Rue Rossiter",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785071,
+        102191575,
         85633041,
-        101738721
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"c5ede98893dcba433b376db335432760",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185727419
         }
     ],
     "wof:id":185727419,
-    "wof:lastmodified":1449006854,
+    "wof:lastmodified":1453927223,
     "wof:name":"Construction Srbscc",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "sawing"
     ]
 },
-  "bbox": [-73.294189,45.325706,-73.294189,45.325706],
+  "bbox": [
+    -73.294189,
+    45.325706,
+    -73.294189,
+    45.325706
+],
   "geometry": {"coordinates":[-73.294189,45.325706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168850745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.580147,45.56414,-73.580147,45.56414",
     "geom:latitude":45.56414,
     "geom:longitude":-73.580147,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6568 24E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874371,
+        102191575,
         85633041,
-        85874371
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"fc3fb4facfe2ab2d5cb52c4b023e329e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
+            "region_id":136251273,
             "venue_id":168850745
         }
     ],
     "wof:id":168850745,
-    "wof:lastmodified":1449028223,
+    "wof:lastmodified":1453928284,
     "wof:name":"Centre DE Jour 24E Avenue",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.580147,45.56414,-73.580147,45.56414],
+  "bbox": [
+    -73.580147,
+    45.56414,
+    -73.580147,
+    45.56414
+],
   "geometry": {"coordinates":[-73.580147,45.56414],"type":"Point"}
 }

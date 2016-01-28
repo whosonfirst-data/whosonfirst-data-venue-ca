@@ -2,13 +2,14 @@
   "id": 152497135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.699959,44.376068,-79.699959,44.376068",
     "geom:latitude":44.376068,
     "geom:longitude":-79.699959,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"96 Anne St S",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875277,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O4o6KyJpfjZuVsJF5kZsV_44.376068_-79.699959@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0fa1ade1fa425faf2577d07be8361d46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
+            "region_id":85682057,
+            "venue_id":152497135
+        }
+    ],
     "wof:id":152497135,
-    "wof:lastmodified":1449048842,
+    "wof:lastmodified":1453936288,
     "wof:name":"Bayfield Carpet Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.699959,44.376068,-79.699959,44.376068],
-  "geometry": {"coordinates":[-79.699959,44.376068],"type":"Point"}
+  "bbox": [
+    -79.699959,
+    44.376068,
+    -79.699959,
+    44.376068
+],
+  "geometry": {"coordinates":[-79.69995900000001,44.376068],"type":"Point"}
 }

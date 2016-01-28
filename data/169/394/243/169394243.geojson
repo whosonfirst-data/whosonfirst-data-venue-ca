@@ -2,13 +2,14 @@
   "id": 169394243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.775703,43.603626,-79.775703,43.603626",
     "geom:latitude":43.603626,
     "geom:longitude":-79.775703,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2500 Meadowpine Blvd #3",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895103,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"85058c326e1a87582030d5d0f9bdc9e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895103,
+            "region_id":85682057,
+            "venue_id":169394243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895103,
             "region_id":85682057,
             "venue_id":169394243
         }
     ],
     "wof:id":169394243,
-    "wof:lastmodified":1449033328,
+    "wof:lastmodified":1453929436,
     "wof:name":"Aic Canada Flour Svc",
     "wof:parent_id":85895103,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.775703,43.603626,-79.775703,43.603626],
-  "geometry": {"coordinates":[-79.775703,43.603626],"type":"Point"}
+  "bbox": [
+    -79.775703,
+    43.603626,
+    -79.775703,
+    43.603626
+],
+  "geometry": {"coordinates":[-79.77570299999999,43.603626],"type":"Point"}
 }

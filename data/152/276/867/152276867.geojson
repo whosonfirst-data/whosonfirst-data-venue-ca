@@ -2,13 +2,14 @@
   "id": 152276867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.835007,45.605904,-73.835007,45.605904",
     "geom:latitude":45.605904,
     "geom:longitude":-73.835007,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Boisbriand",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"876d7e613bb017c99ed5737206234f6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":152276867
         }
     ],
     "wof:id":152276867,
-    "wof:lastmodified":1449044462,
+    "wof:lastmodified":1453932949,
     "wof:name":"Nord-Sud Refrigeration Inc",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.835007,45.605904,-73.835007,45.605904],
+  "bbox": [
+    -73.835007,
+    45.605904,
+    -73.835007,
+    45.605904
+],
   "geometry": {"coordinates":[-73.835007,45.605904],"type":"Point"}
 }

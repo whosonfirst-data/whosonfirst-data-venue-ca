@@ -2,13 +2,14 @@
   "id": 169102165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.091301,49.25301,-123.091301,49.25301",
     "geom:latitude":49.25301,
     "geom:longitude":-123.091301,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"623 20th Ave E",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85874401,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"4c483f2380221e6c3663150fa96e48d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85874401,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":169102165,
-    "wof:lastmodified":1449035714,
+    "wof:lastmodified":1453931964,
     "wof:name":"Perma Electric Ltd",
     "wof:parent_id":85874401,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.091301,49.25301,-123.091301,49.25301],
+  "bbox": [
+    -123.091301,
+    49.25301,
+    -123.091301,
+    49.25301
+],
   "geometry": {"coordinates":[-123.091301,49.25301],"type":"Point"}
 }

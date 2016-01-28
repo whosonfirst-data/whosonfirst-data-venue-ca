@@ -2,13 +2,14 @@
   "id": 152389685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.717201,43.380516,-79.717201,43.380516",
     "geom:latitude":43.380516,
     "geom:longitude":-79.717201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3304 Lakeshore Rd W",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"e368cd1193f5550de1dbb88d9f064ae9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":152389685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":152389685
         }
     ],
     "wof:id":152389685,
-    "wof:lastmodified":1449047975,
+    "wof:lastmodified":1453935637,
     "wof:name":"Advanced Hair Transplant Clnc",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.717201,43.380516,-79.717201,43.380516],
+  "bbox": [
+    -79.717201,
+    43.380516,
+    -79.717201,
+    43.380516
+],
   "geometry": {"coordinates":[-79.717201,43.380516],"type":"Point"}
 }

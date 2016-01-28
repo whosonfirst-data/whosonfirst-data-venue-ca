@@ -2,13 +2,14 @@
   "id": 152338891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.389442,42.95789,-82.389442,42.95789",
     "geom:latitude":42.95789,
     "geom:longitude":-82.389442,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"439 Palmerston St S",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875557,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2c6822b5c0e13e01458b564c17236a86",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875557,
+            "region_id":85682057,
+            "venue_id":152338891
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875557,
             "region_id":85682057,
             "venue_id":152338891
         }
     ],
     "wof:id":152338891,
-    "wof:lastmodified":1449045908,
+    "wof:lastmodified":1453934056,
     "wof:name":"Goodwill Industries Inc",
     "wof:parent_id":85875557,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.389442,42.95789,-82.389442,42.95789],
+  "bbox": [
+    -82.389442,
+    42.95789,
+    -82.389442,
+    42.95789
+],
   "geometry": {"coordinates":[-82.389442,42.95789],"type":"Point"}
 }

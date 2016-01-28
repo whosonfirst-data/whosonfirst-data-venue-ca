@@ -2,13 +2,14 @@
   "id": 202789001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.174759,49.181969,-123.174759,49.181969",
     "geom:latitude":49.181969,
     "geom:longitude":-123.174759,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Richmond",
     "sg:classifiers":[
         {
@@ -26,7 +27,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85894889,
+        102555307,
+        85894871,
+        102191575,
         85633041,
         101741081,
         85682117
@@ -39,18 +42,19 @@
     "wof:geomhash":"95da074eba5b15c2299bba165d0708c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741081,
-            "neighbourhood_id":85894889,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":202789001
         }
     ],
     "wof:id":202789001,
-    "wof:lastmodified":1449061272,
+    "wof:lastmodified":1453937219,
     "wof:name":"Selkirk Remote Sensing Ltd",
-    "wof:parent_id":85894889,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +62,11 @@
         "surveyor"
     ]
 },
-  "bbox": [-123.174759,49.181969,-123.174759,49.181969],
-  "geometry": {"coordinates":[-123.174759,49.181969],"type":"Point"}
+  "bbox": [
+    -123.174759,
+    49.181969,
+    -123.174759,
+    49.181969
+],
+  "geometry": {"coordinates":[-123.17475899999999,49.181969],"type":"Point"}
 }

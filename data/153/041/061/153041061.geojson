@@ -2,13 +2,14 @@
   "id": 153041061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.508621,45.499645,-73.508621,45.499645",
     "geom:latitude":45.499645,
     "geom:longitude":-73.508621,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9e9f3124260f9f9741ac0a08e50300d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":153041061
         }
     ],
     "wof:id":153041061,
-    "wof:lastmodified":1449040504,
+    "wof:lastmodified":1453932450,
     "wof:name":"Bamboo L'Atelier",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.508621,45.499645,-73.508621,45.499645],
-  "geometry": {"coordinates":[-73.508621,45.499645],"type":"Point"}
+  "bbox": [
+    -73.508621,
+    45.499645,
+    -73.508621,
+    45.499645
+],
+  "geometry": {"coordinates":[-73.50862100000001,45.499645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169284569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.794136,45.456127,-73.794136,45.456127",
     "geom:latitude":45.456127,
     "geom:longitude":-73.794136,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"120 Av Summerhill",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875793,
+        102191575,
         85633041,
-        85875793
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a31b1adb0482ecbc98232932ff93789b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875793,
+            "region_id":136251273,
             "venue_id":169284569
         }
     ],
     "wof:id":169284569,
-    "wof:lastmodified":1449034736,
+    "wof:lastmodified":1453930949,
     "wof:name":"St John Fisher",
     "wof:parent_id":85875793,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.794136,45.456127,-73.794136,45.456127],
-  "geometry": {"coordinates":[-73.794136,45.456127],"type":"Point"}
+  "bbox": [
+    -73.794136,
+    45.456127,
+    -73.794136,
+    45.456127
+],
+  "geometry": {"coordinates":[-73.79413599999999,45.456127],"type":"Point"}
 }

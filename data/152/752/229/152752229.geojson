@@ -2,13 +2,14 @@
   "id": 152752229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.621651,43.531006,-79.621651,43.531006",
     "geom:latitude":43.531006,
     "geom:longitude":-79.621651,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1288 Lorne Park Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895331,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"408b4d5b178b0ff00384dcde6d785386",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895331,
+            "region_id":85682057,
+            "venue_id":152752229
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895331,
             "region_id":85682057,
             "venue_id":152752229
         }
     ],
     "wof:id":152752229,
-    "wof:lastmodified":1449045081,
+    "wof:lastmodified":1453933424,
     "wof:name":"Mississauga Lorne Park Hall",
     "wof:parent_id":85895331,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.621651,43.531006,-79.621651,43.531006],
+  "bbox": [
+    -79.621651,
+    43.531006,
+    -79.621651,
+    43.531006
+],
   "geometry": {"coordinates":[-79.621651,43.531006],"type":"Point"}
 }

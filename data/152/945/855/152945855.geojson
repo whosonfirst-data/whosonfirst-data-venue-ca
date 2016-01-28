@@ -2,13 +2,14 @@
   "id": 152945855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.749207,45.542011,-73.749207,45.542011",
     "geom:latitude":45.542011,
     "geom:longitude":-73.749207,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"965 Boul Cure-Labelle",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7c16c7426a1aec51924bb4bd39bb814c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":152945855
         }
     ],
     "wof:id":152945855,
-    "wof:lastmodified":1449044694,
+    "wof:lastmodified":1453933135,
     "wof:name":"Club DE Billard Le Skratch",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.749207,45.542011,-73.749207,45.542011],
+  "bbox": [
+    -73.749207,
+    45.542011,
+    -73.749207,
+    45.542011
+],
   "geometry": {"coordinates":[-73.749207,45.542011],"type":"Point"}
 }

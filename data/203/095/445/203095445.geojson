@@ -2,13 +2,14 @@
   "id": 203095445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.697479,44.396412,-79.697479,44.396412",
     "geom:latitude":44.396412,
     "geom:longitude":-79.697479,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"22 Grove St W",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -31,7 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875267,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -42,18 +46,18 @@
     "wof:geomhash":"6896461b5c85fbbbfabceab0c2d881b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875267,
             "region_id":85682057,
             "venue_id":203095445
         }
     ],
     "wof:id":203095445,
-    "wof:lastmodified":1449025889,
+    "wof:lastmodified":1453927585,
     "wof:name":"Ymca",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +69,11 @@
         "language"
     ]
 },
-  "bbox": [-79.697479,44.396412,-79.697479,44.396412],
+  "bbox": [
+    -79.697479,
+    44.396412,
+    -79.697479,
+    44.396412
+],
   "geometry": {"coordinates":[-79.697479,44.396412],"type":"Point"}
 }

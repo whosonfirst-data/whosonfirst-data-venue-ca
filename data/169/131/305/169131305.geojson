@@ -2,13 +2,14 @@
   "id": 169131305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.797424,43.900711,-78.797424,43.900711",
     "geom:latitude":43.900711,
     "geom:longitude":-78.797424,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"68 Sagewood Ave",
     "sg:city":"Courtice",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875163,
-        85682057
+        102191575,
+        85633041,
+        101736039,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"bf2f60ee1e340c0d8f4c9cdfe906fcfb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736039,
+            "neighbourhood_id":85875163,
+            "region_id":85682057,
+            "venue_id":169131305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875163,
             "region_id":85682057,
             "venue_id":169131305
         }
     ],
     "wof:id":169131305,
-    "wof:lastmodified":1449033680,
+    "wof:lastmodified":1453929814,
     "wof:name":"J F Electric",
     "wof:parent_id":85875163,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.797424,43.900711,-78.797424,43.900711],
-  "geometry": {"coordinates":[-78.797424,43.900711],"type":"Point"}
+  "bbox": [
+    -78.797424,
+    43.900711,
+    -78.797424,
+    43.900711
+],
+  "geometry": {"coordinates":[-78.79742400000001,43.900711],"type":"Point"}
 }

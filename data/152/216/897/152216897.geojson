@@ -2,13 +2,14 @@
   "id": 152216897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.029564,43.874069,-79.029564,43.874069",
     "geom:latitude":43.874069,
     "geom:longitude":-79.029564,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16 Brand Crt",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895705,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"aa430b3fb9c9b0b300f0889947b102e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895705,
+            "region_id":85682057,
+            "venue_id":152216897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895705,
             "region_id":85682057,
             "venue_id":152216897
         }
     ],
     "wof:id":152216897,
-    "wof:lastmodified":1449048398,
+    "wof:lastmodified":1453935946,
     "wof:name":"Sarah's Cleaning",
     "wof:parent_id":85895705,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.029564,43.874069,-79.029564,43.874069],
-  "geometry": {"coordinates":[-79.029564,43.874069],"type":"Point"}
+  "bbox": [
+    -79.029564,
+    43.874069,
+    -79.029564,
+    43.874069
+],
+  "geometry": {"coordinates":[-79.02956399999999,43.874069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152320603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630829,45.697182,-73.630829,45.697182",
     "geom:latitude":45.697182,
     "geom:longitude":-73.630829,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"502 Rue Langlois",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85895715,
+        102191575,
         85633041,
-        85895715
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a763a9c66c47a38a591f1a387b607190",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85895715,
+            "region_id":136251273,
             "venue_id":152320603
         }
     ],
     "wof:id":152320603,
-    "wof:lastmodified":1449045466,
+    "wof:lastmodified":1453933720,
     "wof:name":"Centre DE Fam Des Moulins",
     "wof:parent_id":85895715,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.630829,45.697182,-73.630829,45.697182],
-  "geometry": {"coordinates":[-73.630829,45.697182],"type":"Point"}
+  "bbox": [
+    -73.630829,
+    45.697182,
+    -73.630829,
+    45.697182
+],
+  "geometry": {"coordinates":[-73.63082900000001,45.697182],"type":"Point"}
 }

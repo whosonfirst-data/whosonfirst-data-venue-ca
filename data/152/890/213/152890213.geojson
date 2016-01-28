@@ -2,13 +2,14 @@
   "id": 152890213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.158302,43.011951,-81.158302,43.011951",
     "geom:latitude":43.011951,
     "geom:longitude":-81.158302,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3040 Osler St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "foundry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dFDeKt4Zj9KjWtWLQh4jX_43.011951_-81.158302@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"10da4aa83e6a3f1a10762f11c817b9ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":152890213
+        }
+    ],
     "wof:id":152890213,
-    "wof:lastmodified":1449045311,
+    "wof:lastmodified":1453933598,
     "wof:name":"A G Anderson Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.158302,43.011951,-81.158302,43.011951],
-  "geometry": {"coordinates":[-81.158302,43.011951],"type":"Point"}
+  "bbox": [
+    -81.158302,
+    43.011951,
+    -81.158302,
+    43.011951
+],
+  "geometry": {"coordinates":[-81.15830200000001,43.011951],"type":"Point"}
 }

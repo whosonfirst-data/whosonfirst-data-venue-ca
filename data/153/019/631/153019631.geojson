@@ -2,13 +2,14 @@
   "id": 153019631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.715523,45.358524,-73.715523,45.358524",
     "geom:latitude":45.358524,
     "geom:longitude":-73.715523,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"101 Rue Lauzon",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738001,
+        85895755,
+        102191575,
         85633041,
-        85895755
+        101738001,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"f6963f06fb0815075e4357dffb4ebfc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738001,
             "neighbourhood_id":85895755,
+            "region_id":136251273,
             "venue_id":153019631
         }
     ],
     "wof:id":153019631,
-    "wof:lastmodified":1449040636,
+    "wof:lastmodified":1453932562,
     "wof:name":"Clsc Chateauguay",
     "wof:parent_id":85895755,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.715523,45.358524,-73.715523,45.358524],
+  "bbox": [
+    -73.715523,
+    45.358524,
+    -73.715523,
+    45.358524
+],
   "geometry": {"coordinates":[-73.715523,45.358524],"type":"Point"}
 }

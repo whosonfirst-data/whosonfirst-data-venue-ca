@@ -2,13 +2,14 @@
   "id": 169342671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.288895,44.29253,-78.288895,44.29253",
     "geom:latitude":44.29253,
     "geom:longitude":-78.288895,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"400 Lansdowne St E",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"42f69652569734fe7be739c3789a179d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":169342671
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":169342671
         }
     ],
     "wof:id":169342671,
-    "wof:lastmodified":1449035723,
+    "wof:lastmodified":1453931977,
     "wof:name":"Shoppers Discount",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.288895,44.29253,-78.288895,44.29253],
+  "bbox": [
+    -78.288895,
+    44.29253,
+    -78.288895,
+    44.29253
+],
   "geometry": {"coordinates":[-78.288895,44.29253],"type":"Point"}
 }

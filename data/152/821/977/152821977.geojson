@@ -2,13 +2,14 @@
   "id": 152821977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.778084,43.361431,-79.778084,43.361431",
     "geom:latitude":43.361431,
     "geom:longitude":-79.778084,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895545,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"a731ff2b71498bc4a1ccd296a07b1386",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895545,
+            "region_id":85682057,
+            "venue_id":152821977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895545,
             "region_id":85682057,
             "venue_id":152821977
         }
     ],
     "wof:id":152821977,
-    "wof:lastmodified":1449046818,
+    "wof:lastmodified":1453934730,
     "wof:name":"Burlington Naturopathic",
     "wof:parent_id":85895545,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.778084,43.361431,-79.778084,43.361431],
-  "geometry": {"coordinates":[-79.778084,43.361431],"type":"Point"}
+  "bbox": [
+    -79.778084,
+    43.361431,
+    -79.778084,
+    43.361431
+],
+  "geometry": {"coordinates":[-79.77808400000001,43.361431],"type":"Point"}
 }

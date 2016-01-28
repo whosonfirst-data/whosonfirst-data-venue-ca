@@ -2,13 +2,14 @@
   "id": 202753603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.546638,45.542358,-73.546638,45.542358",
     "geom:latitude":45.542358,
     "geom:longitude":-73.546638,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3303 Rue Ontario E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874387,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"c932525cc6f6e476ce54328fc20b8ede",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202753603
         }
     ],
     "wof:id":202753603,
-    "wof:lastmodified":1449060406,
+    "wof:lastmodified":1453937037,
     "wof:name":"Major, Yvan",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.546638,45.542358,-73.546638,45.542358],
+  "bbox": [
+    -73.546638,
+    45.542358,
+    -73.546638,
+    45.542358
+],
   "geometry": {"coordinates":[-73.546638,45.542358],"type":"Point"}
 }

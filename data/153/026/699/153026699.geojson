@@ -2,13 +2,14 @@
   "id": 153026699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.415253,43.804413,-79.415253,43.804413",
     "geom:latitude":43.804413,
     "geom:longitude":-79.415253,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Doncaster Ave",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895535,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c25204a5da35e8d1c9e9dcb45f5f484d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895535,
+            "region_id":85682057,
+            "venue_id":153026699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895535,
             "region_id":85682057,
             "venue_id":153026699
         }
     ],
     "wof:id":153026699,
-    "wof:lastmodified":1449040638,
+    "wof:lastmodified":1453932565,
     "wof:name":"Hampstead House Books",
     "wof:parent_id":85895535,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.415253,43.804413,-79.415253,43.804413],
-  "geometry": {"coordinates":[-79.415253,43.804413],"type":"Point"}
+  "bbox": [
+    -79.415253,
+    43.804413,
+    -79.415253,
+    43.804413
+],
+  "geometry": {"coordinates":[-79.41525300000001,43.804413],"type":"Point"}
 }

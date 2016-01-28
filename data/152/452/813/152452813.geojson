@@ -2,13 +2,14 @@
   "id": 152452813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.778847,45.467728,-73.778847,45.467728",
     "geom:latitude":45.467728,
     "geom:longitude":-73.778847,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2000 Av Reverchon",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875793,
+        102191575,
         85633041,
-        85875793
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b7a40448d92f81c13cacbcb0d6af8238",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875793,
+            "region_id":136251273,
             "venue_id":152452813
         }
     ],
     "wof:id":152452813,
-    "wof:lastmodified":1449045382,
+    "wof:lastmodified":1453933654,
     "wof:name":"Golf Dorval",
     "wof:parent_id":85875793,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.778847,45.467728,-73.778847,45.467728],
+  "bbox": [
+    -73.778847,
+    45.467728,
+    -73.778847,
+    45.467728
+],
   "geometry": {"coordinates":[-73.778847,45.467728],"type":"Point"}
 }

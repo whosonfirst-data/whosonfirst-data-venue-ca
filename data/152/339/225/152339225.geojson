@@ -2,13 +2,14 @@
   "id": 152339225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.584709,45.552467,-73.584709,45.552467",
     "geom:latitude":45.552467,
     "geom:longitude":-73.584709,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6235 8E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"76e7f5a8770def465b9427162bc50f20",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152339225
         }
     ],
     "wof:id":152339225,
-    "wof:lastmodified":1449046373,
+    "wof:lastmodified":1453934407,
     "wof:name":"Residence L'Air Du Temps",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.584709,45.552467,-73.584709,45.552467],
+  "bbox": [
+    -73.584709,
+    45.552467,
+    -73.584709,
+    45.552467
+],
   "geometry": {"coordinates":[-73.584709,45.552467],"type":"Point"}
 }

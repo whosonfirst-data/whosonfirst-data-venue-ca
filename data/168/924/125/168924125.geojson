@@ -2,13 +2,14 @@
   "id": 168924125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.118355,43.845352,-79.118355,43.845352",
     "geom:latitude":43.845352,
     "geom:longitude":-79.118355,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"848 Primrose Crt",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895165,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"3fdacd783882ffca6cb980f1db298171",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895165,
+            "region_id":85682057,
+            "venue_id":168924125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895165,
             "region_id":85682057,
             "venue_id":168924125
         }
     ],
     "wof:id":168924125,
-    "wof:lastmodified":1449027979,
+    "wof:lastmodified":1453928018,
     "wof:name":"Dynamic Pools & Svc",
     "wof:parent_id":85895165,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.118355,43.845352,-79.118355,43.845352],
-  "geometry": {"coordinates":[-79.118355,43.845352],"type":"Point"}
+  "bbox": [
+    -79.118355,
+    43.845352,
+    -79.118355,
+    43.845352
+],
+  "geometry": {"coordinates":[-79.11835499999999,43.845352],"type":"Point"}
 }

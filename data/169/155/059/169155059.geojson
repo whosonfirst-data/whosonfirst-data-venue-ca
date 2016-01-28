@@ -2,13 +2,14 @@
   "id": 169155059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.971909,45.380241,-71.971909,45.380241",
     "geom:latitude":45.380241,
     "geom:longitude":-71.971909,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4342 Boul Bourque",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874181,
+        102191575,
         85633041,
-        85874181
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bb34bf4d6f64b746d5606017c53d7c53",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874181,
+            "region_id":136251273,
             "venue_id":169155059
         }
     ],
     "wof:id":169155059,
-    "wof:lastmodified":1449035380,
+    "wof:lastmodified":1453931582,
     "wof:name":"Ressort Charland Sherbrooke",
     "wof:parent_id":85874181,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.971909,45.380241,-71.971909,45.380241],
+  "bbox": [
+    -71.971909,
+    45.380241,
+    -71.971909,
+    45.380241
+],
   "geometry": {"coordinates":[-71.971909,45.380241],"type":"Point"}
 }

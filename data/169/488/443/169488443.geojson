@@ -2,13 +2,14 @@
   "id": 169488443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.471443,45.445499,-73.471443,45.445499",
     "geom:latitude":45.445499,
     "geom:longitude":-73.471443,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8330 Boul Taschereau",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"98a49e0b2d06ac638d136946d42f89e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169488443
         }
     ],
     "wof:id":169488443,
-    "wof:lastmodified":1449035883,
+    "wof:lastmodified":1453932178,
     "wof:name":"Super C",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.471443,45.445499,-73.471443,45.445499],
-  "geometry": {"coordinates":[-73.471443,45.445499],"type":"Point"}
+  "bbox": [
+    -73.471443,
+    45.445499,
+    -73.471443,
+    45.445499
+],
+  "geometry": {"coordinates":[-73.47144299999999,45.445499],"type":"Point"}
 }

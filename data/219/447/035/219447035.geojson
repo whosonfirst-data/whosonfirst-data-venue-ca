@@ -2,13 +2,14 @@
   "id": 219447035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.500847,45.670006,-73.500847,45.670006",
     "geom:latitude":45.670006,
     "geom:longitude":-73.500847,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1900 51E Av",
     "sg:city":"Pointe-Aux-Trembles",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784837,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"81e71fa9a394fd986b64cf9b89fda45b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219447035
         }
     ],
     "wof:id":219447035,
-    "wof:lastmodified":1449072881,
+    "wof:lastmodified":1453937884,
     "wof:name":"Lavallee Fournier",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "accountant"
     ]
 },
-  "bbox": [-73.500847,45.670006,-73.500847,45.670006],
-  "geometry": {"coordinates":[-73.500847,45.670006],"type":"Point"}
+  "bbox": [
+    -73.500847,
+    45.670006,
+    -73.500847,
+    45.670006
+],
+  "geometry": {"coordinates":[-73.50084699999999,45.670006],"type":"Point"}
 }

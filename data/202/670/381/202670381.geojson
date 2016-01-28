@@ -2,13 +2,14 @@
   "id": 202670381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.56575,45.521587,-73.56575,45.521587",
     "geom:latitude":45.521587,
     "geom:longitude":-73.56575,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1115 Rue Sherbrooke O # 1405",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866475,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"dbf82cdc49aea1e4d3b84522077d57fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202670381
         }
     ],
     "wof:id":202670381,
-    "wof:lastmodified":1449060483,
+    "wof:lastmodified":1453937052,
     "wof:name":"Suzanne Vachon Design D'Intr",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "decorator"
     ]
 },
-  "bbox": [-73.56575,45.521587,-73.56575,45.521587],
-  "geometry": {"coordinates":[-73.56575,45.521587],"type":"Point"}
+  "bbox": [
+    -73.56575,
+    45.521587,
+    -73.56575,
+    45.521587
+],
+  "geometry": {"coordinates":[-73.56574999999999,45.521587],"type":"Point"}
 }

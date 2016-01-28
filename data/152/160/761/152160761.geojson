@@ -2,13 +2,14 @@
   "id": 152160761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.694252,43.534805,-79.694252,43.534805",
     "geom:latitude":43.534805,
     "geom:longitude":-79.694252,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2629 Oak Row Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"d6ad008b5f4afdb84b6ac7eb6ee05487",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152160761
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152160761
         }
     ],
     "wof:id":152160761,
-    "wof:lastmodified":1449048185,
+    "wof:lastmodified":1453935782,
     "wof:name":"Lyons, G R",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.694252,43.534805,-79.694252,43.534805],
-  "geometry": {"coordinates":[-79.694252,43.534805],"type":"Point"}
+  "bbox": [
+    -79.694252,
+    43.534805,
+    -79.694252,
+    43.534805
+],
+  "geometry": {"coordinates":[-79.69425200000001,43.534805],"type":"Point"}
 }

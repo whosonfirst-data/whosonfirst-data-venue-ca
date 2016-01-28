@@ -2,13 +2,14 @@
   "id": 169511551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578316,45.563923,-73.578316,45.563923",
     "geom:latitude":45.563923,
     "geom:longitude":-73.578316,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4262 Rue Beaubien E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874371,
+        102191575,
         85633041,
-        85874371
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ca50c2e72b260d6929bad9599bc2e288",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
+            "region_id":136251273,
             "venue_id":169511551
         }
     ],
     "wof:id":169511551,
-    "wof:lastmodified":1449034194,
+    "wof:lastmodified":1453930383,
     "wof:name":"Restaurant Resto Frederique",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578316,45.563923,-73.578316,45.563923],
+  "bbox": [
+    -73.578316,
+    45.563923,
+    -73.578316,
+    45.563923
+],
   "geometry": {"coordinates":[-73.578316,45.563923],"type":"Point"}
 }

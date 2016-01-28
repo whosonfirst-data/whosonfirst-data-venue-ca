@@ -2,13 +2,14 @@
   "id": 169474245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.600922,45.549572,-73.600922,45.549572",
     "geom:latitude":45.549572,
     "geom:longitude":-73.600922,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2227 Rue Belanger",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"35a74f815ee7feb75ae69005a0583570",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":169474245
         }
     ],
     "wof:id":169474245,
-    "wof:lastmodified":1449032833,
+    "wof:lastmodified":1453928971,
     "wof:name":"Roberto Gastronomia Rstrnt",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.600922,45.549572,-73.600922,45.549572],
+  "bbox": [
+    -73.600922,
+    45.549572,
+    -73.600922,
+    45.549572
+],
   "geometry": {"coordinates":[-73.600922,45.549572],"type":"Point"}
 }

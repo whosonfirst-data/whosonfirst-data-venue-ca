@@ -2,13 +2,14 @@
   "id": 186458199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.653389,45.578476,-73.653389,45.578476",
     "geom:latitude":45.578476,
     "geom:longitude":-73.653389,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2525 Boul Henri-Bourassa E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897499,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"934b3149ee1616cb444eae2998e0c1ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897499,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186458199
         }
     ],
     "wof:id":186458199,
-    "wof:lastmodified":1449052266,
+    "wof:lastmodified":1453936815,
     "wof:name":"George's Meat Market",
     "wof:parent_id":85897499,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "product"
     ]
 },
-  "bbox": [-73.653389,45.578476,-73.653389,45.578476],
+  "bbox": [
+    -73.653389,
+    45.578476,
+    -73.653389,
+    45.578476
+],
   "geometry": {"coordinates":[-73.653389,45.578476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152344915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.168755,42.990616,-81.168755,42.990616",
     "geom:latitude":42.990616,
     "geom:longitude":-81.168755,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"138 Clarke Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -29,23 +30,43 @@
         "block"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g6HFvx7oovid904PvUPvE_42.990616_-81.168755@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e2081ac8c109c0e58309e534516a88ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":152344915
+        }
+    ],
     "wof:id":152344915,
-    "wof:lastmodified":1449044534,
+    "wof:lastmodified":1453933006,
     "wof:name":"C J Pink Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.168755,42.990616,-81.168755,42.990616],
+  "bbox": [
+    -81.168755,
+    42.990616,
+    -81.168755,
+    42.990616
+],
   "geometry": {"coordinates":[-81.168755,42.990616],"type":"Point"}
 }

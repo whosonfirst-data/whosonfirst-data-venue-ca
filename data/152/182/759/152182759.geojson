@@ -2,13 +2,14 @@
   "id": 152182759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.61235,45.537178,-73.61235,45.537178",
     "geom:latitude":45.537178,
     "geom:longitude":-73.61235,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6956 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"aafe78dc6b686d1995959bfee014047a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":152182759
         }
     ],
     "wof:id":152182759,
-    "wof:lastmodified":1449047224,
+    "wof:lastmodified":1453935041,
     "wof:name":"Cine-Theatre Chateau",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.61235,45.537178,-73.61235,45.537178],
-  "geometry": {"coordinates":[-73.61235,45.537178],"type":"Point"}
+  "bbox": [
+    -73.61235,
+    45.537178,
+    -73.61235,
+    45.537178
+],
+  "geometry": {"coordinates":[-73.61235000000001,45.537178],"type":"Point"}
 }

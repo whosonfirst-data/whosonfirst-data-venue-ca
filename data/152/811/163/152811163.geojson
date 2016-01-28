@@ -2,13 +2,14 @@
   "id": 152811163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.308357,46.758224,-71.308357,46.758224",
     "geom:latitude":46.758224,
     "geom:longitude":-71.308357,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3200 Boul Neilson",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874709,
+        102191575,
         85633041,
-        85874709
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"65dcd4df3b901137451c458e79bf8e44",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874709,
+            "region_id":136251273,
             "venue_id":152811163
         }
     ],
     "wof:id":152811163,
-    "wof:lastmodified":1449046533,
+    "wof:lastmodified":1453934527,
     "wof:name":"Patisserie LA Dacqouoise",
     "wof:parent_id":85874709,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.308357,46.758224,-71.308357,46.758224],
+  "bbox": [
+    -71.308357,
+    46.758224,
+    -71.308357,
+    46.758224
+],
   "geometry": {"coordinates":[-71.308357,46.758224],"type":"Point"}
 }

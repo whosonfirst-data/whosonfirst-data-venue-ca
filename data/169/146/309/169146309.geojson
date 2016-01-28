@@ -2,13 +2,14 @@
   "id": 169146309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.113518,45.264202,-74.113518,45.264202",
     "geom:latitude":45.264202,
     "geom:longitude":-74.113518,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"736 Boul Du Havre",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"56c35dd74c7b87d2574ba567c893ab97",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":169146309
         }
     ],
     "wof:id":169146309,
-    "wof:lastmodified":1449034042,
+    "wof:lastmodified":1453930224,
     "wof:name":"Securite Incendie",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.113518,45.264202,-74.113518,45.264202],
+  "bbox": [
+    -74.113518,
+    45.264202,
+    -74.113518,
+    45.264202
+],
   "geometry": {"coordinates":[-74.113518,45.264202],"type":"Point"}
 }

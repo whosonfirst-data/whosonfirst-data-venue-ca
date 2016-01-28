@@ -2,13 +2,14 @@
   "id": 152147191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.647514,45.443413,-73.647514,45.443413",
     "geom:latitude":45.443413,
     "geom:longitude":-73.647514,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11 Av Saint-Pierre",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736483,
+        85784813,
+        102191575,
         85633041,
-        85784813
+        101736483,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"6b03ac96290f92fadfaad1b0a8d843ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736483,
             "neighbourhood_id":85784813,
+            "region_id":136251273,
             "venue_id":152147191
         }
     ],
     "wof:id":152147191,
-    "wof:lastmodified":1449048420,
+    "wof:lastmodified":1453935967,
     "wof:name":"Garage Pont Mercier",
     "wof:parent_id":85784813,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.647514,45.443413,-73.647514,45.443413],
+  "bbox": [
+    -73.647514,
+    45.443413,
+    -73.647514,
+    45.443413
+],
   "geometry": {"coordinates":[-73.647514,45.443413],"type":"Point"}
 }

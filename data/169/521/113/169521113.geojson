@@ -2,13 +2,14 @@
   "id": 169521113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.746094,45.580086,-73.746094,45.580086",
     "geom:latitude":45.580086,
     "geom:longitude":-73.746094,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2797 Boul Le Corbusier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897569,
+        102191575,
         85633041,
-        85897569
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e493448f6ccae35ad864134cb1397d09",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897569,
+            "region_id":136251273,
             "venue_id":169521113
         }
     ],
     "wof:id":169521113,
-    "wof:lastmodified":1449035798,
+    "wof:lastmodified":1453932082,
     "wof:name":"Lithosol Inc",
     "wof:parent_id":85897569,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.746094,45.580086,-73.746094,45.580086],
+  "bbox": [
+    -73.746094,
+    45.580086,
+    -73.746094,
+    45.580086
+],
   "geometry": {"coordinates":[-73.746094,45.580086],"type":"Point"}
 }

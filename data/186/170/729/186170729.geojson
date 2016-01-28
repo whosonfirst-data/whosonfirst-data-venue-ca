@@ -2,13 +2,14 @@
   "id": 186170729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.248596,46.784702,-71.248596,46.784702",
     "geom:latitude":46.784702,
     "geom:longitude":-71.248596,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1255 Av Du Chanoine-Morel",
     "sg:city":"Sillery",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784941,
+        102191575,
         85633041,
-        101737987
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"5296f86256b2145d82b2eb83bdae5d19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186170729
         }
     ],
     "wof:id":186170729,
-    "wof:lastmodified":1449050490,
+    "wof:lastmodified":1453936521,
     "wof:name":"Sillery Gymnase",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "village"
     ]
 },
-  "bbox": [-71.248596,46.784702,-71.248596,46.784702],
-  "geometry": {"coordinates":[-71.248596,46.784702],"type":"Point"}
+  "bbox": [
+    -71.248596,
+    46.784702,
+    -71.248596,
+    46.784702
+],
+  "geometry": {"coordinates":[-71.24859600000001,46.784702],"type":"Point"}
 }

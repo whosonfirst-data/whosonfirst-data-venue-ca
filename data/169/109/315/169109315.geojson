@@ -2,13 +2,14 @@
   "id": 169109315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824203,43.38443,-79.824203,43.38443",
     "geom:latitude":43.38443,
     "geom:longitude":-79.824203,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2398 Headon Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895041,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"eef88b96773ba1b278ed56c88ad8789b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895041,
+            "region_id":85682057,
+            "venue_id":169109315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895041,
             "region_id":85682057,
             "venue_id":169109315
         }
     ],
     "wof:id":169109315,
-    "wof:lastmodified":1449033836,
+    "wof:lastmodified":1453929996,
     "wof:name":"Donato Homes",
     "wof:parent_id":85895041,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.824203,43.38443,-79.824203,43.38443],
+  "bbox": [
+    -79.824203,
+    43.38443,
+    -79.824203,
+    43.38443
+],
   "geometry": {"coordinates":[-79.824203,43.38443],"type":"Point"}
 }

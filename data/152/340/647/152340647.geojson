@@ -2,13 +2,14 @@
   "id": 152340647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.30899,43.001221,-81.30899,43.001221",
     "geom:latitude":43.001221,
     "geom:longitude":-81.30899,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1274 Limberlost Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874935,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fw7UQPXhAEUt8LSPq9fsa_43.001221_-81.308990@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4da9d29d7e39ded96b864fa4e74cc20c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
+            "region_id":85682057,
+            "venue_id":152340647
+        }
+    ],
     "wof:id":152340647,
-    "wof:lastmodified":1449047862,
+    "wof:lastmodified":1453935555,
     "wof:name":"Casob Security Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.30899,43.001221,-81.30899,43.001221],
-  "geometry": {"coordinates":[-81.30899,43.001221],"type":"Point"}
+  "bbox": [
+    -81.30899,
+    43.001221,
+    -81.30899,
+    43.001221
+],
+  "geometry": {"coordinates":[-81.30898999999999,43.001221],"type":"Point"}
 }

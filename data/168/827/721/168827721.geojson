@@ -2,13 +2,14 @@
   "id": 168827721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771042,43.5681,-79.771042,43.5681",
     "geom:latitude":43.5681,
     "geom:longitude":-79.771042,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3905 Ponderosa Lane",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894973,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"468d616fc14563792280126d8240cc2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894973,
+            "region_id":85682057,
+            "venue_id":168827721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894973,
             "region_id":85682057,
             "venue_id":168827721
         }
     ],
     "wof:id":168827721,
-    "wof:lastmodified":1449028031,
+    "wof:lastmodified":1453928081,
     "wof:name":"Pigeon Technical Svc",
     "wof:parent_id":85894973,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.771042,43.5681,-79.771042,43.5681],
-  "geometry": {"coordinates":[-79.771042,43.5681],"type":"Point"}
+  "bbox": [
+    -79.771042,
+    43.5681,
+    -79.771042,
+    43.5681
+],
+  "geometry": {"coordinates":[-79.77104199999999,43.5681],"type":"Point"}
 }

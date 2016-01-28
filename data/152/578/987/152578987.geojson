@@ -2,13 +2,14 @@
   "id": 152578987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.864029,45.458252,-73.864029,45.458252",
     "geom:latitude":45.458252,
     "geom:longitude":-73.864029,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3671 Boul Saint-Charles",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897581,
+        102191575,
         85633041,
-        85897581
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"42d0046fbaf9ea4ccff05084ae1b490e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897581,
+            "region_id":136251273,
             "venue_id":152578987
         }
     ],
     "wof:id":152578987,
-    "wof:lastmodified":1449045462,
+    "wof:lastmodified":1453933715,
     "wof:name":"Ultramar",
     "wof:parent_id":85897581,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.864029,45.458252,-73.864029,45.458252],
+  "bbox": [
+    -73.864029,
+    45.458252,
+    -73.864029,
+    45.458252
+],
   "geometry": {"coordinates":[-73.864029,45.458252],"type":"Point"}
 }

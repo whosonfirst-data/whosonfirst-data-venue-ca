@@ -2,13 +2,14 @@
   "id": 169392355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618881,45.495567,-73.618881,45.495567",
     "geom:latitude":45.495567,
     "geom:longitude":-73.618881,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897533,
+        102191575,
         85633041,
-        85897533
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2101e096b99eb028698e8e2d82f0eaae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897533,
+            "region_id":136251273,
             "venue_id":169392355
         }
     ],
     "wof:id":169392355,
-    "wof:lastmodified":1449035304,
+    "wof:lastmodified":1453931514,
     "wof:name":"Sejean, George MD",
     "wof:parent_id":85897533,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.618881,45.495567,-73.618881,45.495567],
+  "bbox": [
+    -73.618881,
+    45.495567,
+    -73.618881,
+    45.495567
+],
   "geometry": {"coordinates":[-73.618881,45.495567],"type":"Point"}
 }

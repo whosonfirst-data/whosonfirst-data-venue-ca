@@ -2,13 +2,14 @@
   "id": 169139509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619797,45.724171,-73.619797,45.724171",
     "geom:latitude":45.724171,
     "geom:longitude":-73.619797,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"130 Montee Masson",
     "sg:city":"Mascouche",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5f721abc82d877b328e4e5ab67504fc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169139509
         }
     ],
     "wof:id":169139509,
-    "wof:lastmodified":1449032979,
+    "wof:lastmodified":1453929108,
     "wof:name":"Pepiniere Mascouche Enr",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.619797,45.724171,-73.619797,45.724171],
-  "geometry": {"coordinates":[-73.619797,45.724171],"type":"Point"}
+  "bbox": [
+    -73.619797,
+    45.724171,
+    -73.619797,
+    45.724171
+],
+  "geometry": {"coordinates":[-73.61979700000001,45.724171],"type":"Point"}
 }

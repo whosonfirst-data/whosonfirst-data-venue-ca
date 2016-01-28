@@ -2,13 +2,14 @@
   "id": 169310329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.777153,45.448673,-73.777153,45.448673",
     "geom:latitude":45.448673,
     "geom:longitude":-73.777153,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"482 Boul Strathmore",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875793,
+        102191575,
         85633041,
-        85875793
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"66b8af5ec9c4bdf60a8ea7ad740d473a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875793,
+            "region_id":136251273,
             "venue_id":169310329
         }
     ],
     "wof:id":169310329,
-    "wof:lastmodified":1449034717,
+    "wof:lastmodified":1453930920,
     "wof:name":"Viconcept Inc",
     "wof:parent_id":85875793,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.777153,45.448673,-73.777153,45.448673],
+  "bbox": [
+    -73.777153,
+    45.448673,
+    -73.777153,
+    45.448673
+],
   "geometry": {"coordinates":[-73.777153,45.448673],"type":"Point"}
 }

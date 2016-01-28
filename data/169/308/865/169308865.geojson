@@ -2,13 +2,14 @@
   "id": 169308865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.926147,43.64967,-79.926147,43.64967",
     "geom:latitude":43.64967,
     "geom:longitude":-79.926147,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"73 Main St S",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895315,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"405b376453019ca2defa70c7b062b042",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895315,
+            "region_id":85682057,
+            "venue_id":169308865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895315,
             "region_id":85682057,
             "venue_id":169308865
         }
     ],
     "wof:id":169308865,
-    "wof:lastmodified":1449036055,
+    "wof:lastmodified":1453932298,
     "wof:name":"Artisans Attic",
     "wof:parent_id":85895315,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.926147,43.64967,-79.926147,43.64967],
+  "bbox": [
+    -79.926147,
+    43.64967,
+    -79.926147,
+    43.64967
+],
   "geometry": {"coordinates":[-79.926147,43.64967],"type":"Point"}
 }

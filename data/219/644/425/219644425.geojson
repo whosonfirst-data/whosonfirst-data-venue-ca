@@ -2,13 +2,14 @@
   "id": 219644425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.631165,45.500595,-73.631165,45.500595",
     "geom:latitude":45.500595,
     "geom:longitude":-73.631165,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897525,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"8f629947727697e40c46458a56436d9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897525,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219644425
         }
     ],
     "wof:id":219644425,
-    "wof:lastmodified":1449072395,
+    "wof:lastmodified":1453937810,
     "wof:name":"Precision Test Engineering CO",
     "wof:parent_id":85897525,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-73.631165,45.500595,-73.631165,45.500595],
+  "bbox": [
+    -73.631165,
+    45.500595,
+    -73.631165,
+    45.500595
+],
   "geometry": {"coordinates":[-73.631165,45.500595],"type":"Point"}
 }

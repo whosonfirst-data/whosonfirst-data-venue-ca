@@ -2,13 +2,14 @@
   "id": 169401059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.693321,45.488899,-73.693321,45.488899",
     "geom:latitude":45.488899,
     "geom:longitude":-73.693321,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3410 Rue Griffith",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"1ce9d0ad4740667e3776134b982ebba8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169401059
         }
     ],
     "wof:id":169401059,
-    "wof:lastmodified":1449035471,
+    "wof:lastmodified":1453931698,
     "wof:name":"Fisher Scientifique Ltee",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.693321,45.488899,-73.693321,45.488899],
+  "bbox": [
+    -73.693321,
+    45.488899,
+    -73.693321,
+    45.488899
+],
   "geometry": {"coordinates":[-73.693321,45.488899],"type":"Point"}
 }

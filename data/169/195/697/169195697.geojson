@@ -2,13 +2,14 @@
   "id": 169195697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.295502,44.290234,-78.295502,44.290234",
     "geom:latitude":44.290234,
     "geom:longitude":-78.295502,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"241 Lansdowne St E",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"3b1dc46e525fb53030b074fa0205714f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":169195697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":169195697
         }
     ],
     "wof:id":169195697,
-    "wof:lastmodified":1449034857,
+    "wof:lastmodified":1453931088,
     "wof:name":"Central Steel Works",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.295502,44.290234,-78.295502,44.290234],
+  "bbox": [
+    -78.295502,
+    44.290234,
+    -78.295502,
+    44.290234
+],
   "geometry": {"coordinates":[-78.295502,44.290234],"type":"Point"}
 }

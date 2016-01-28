@@ -2,13 +2,14 @@
   "id": 219201961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.0243,49.081612,-123.0243,49.081612",
     "geom:latitude":49.081612,
     "geom:longitude":-123.0243,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4295 72 St",
     "sg:city":"Delta",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102554933,
+        85682117,
+        102191575,
         85633041,
-        101741003,
-        85682117
+        101741003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,18 @@
     "wof:geomhash":"1b3f0c9d53aff2f43388bbfdb07b8a22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554933,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741003,
-            "neighbourhood_id":-1,
             "region_id":85682117,
             "venue_id":219201961
         }
     ],
     "wof:id":219201961,
-    "wof:lastmodified":1449073439,
+    "wof:lastmodified":1453937949,
     "wof:name":"Westcoast Instant Lawns Turf",
-    "wof:parent_id":-1,
+    "wof:parent_id":102554933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +61,11 @@
         "turf"
     ]
 },
-  "bbox": [-123.0243,49.081612,-123.0243,49.081612],
+  "bbox": [
+    -123.0243,
+    49.081612,
+    -123.0243,
+    49.081612
+],
   "geometry": {"coordinates":[-123.0243,49.081612],"type":"Point"}
 }

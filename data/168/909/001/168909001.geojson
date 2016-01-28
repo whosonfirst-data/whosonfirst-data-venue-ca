@@ -2,13 +2,14 @@
   "id": 168909001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.025383,49.207375,-123.025383,49.207375",
     "geom:latitude":49.207375,
     "geom:longitude":-123.025383,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3620 City Edge Pl",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865075,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"7d3593082a0d2bc791ca55bf2826937d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865075,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":168909001,
-    "wof:lastmodified":1449028372,
+    "wof:lastmodified":1453928450,
     "wof:name":"City Edge Housing CO-OP",
     "wof:parent_id":85865075,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.025383,49.207375,-123.025383,49.207375],
-  "geometry": {"coordinates":[-123.025383,49.207375],"type":"Point"}
+  "bbox": [
+    -123.025383,
+    49.207375,
+    -123.025383,
+    49.207375
+],
+  "geometry": {"coordinates":[-123.02538300000001,49.207375],"type":"Point"}
 }

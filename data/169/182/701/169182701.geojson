@@ -2,13 +2,14 @@
   "id": 169182701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.606873,43.687996,-79.606873,43.687996",
     "geom:latitude":43.687996,
     "geom:longitude":-79.606873,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5905 Campus Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
+        102555091,
         85866433,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -42,6 +45,8 @@
     "wof:geomhash":"9b6fae506477366fc6d6355da15279c4",
     "wof:hierarchy":[
         {
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85866433,
@@ -50,14 +55,19 @@
         }
     ],
     "wof:id":169182701,
-    "wof:lastmodified":1449034774,
+    "wof:lastmodified":1453931002,
     "wof:name":"Signature Leasing",
-    "wof:parent_id":85866433,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.606873,43.687996,-79.606873,43.687996],
-  "geometry": {"coordinates":[-79.606873,43.687996],"type":"Point"}
+  "bbox": [
+    -79.606873,
+    43.687996,
+    -79.606873,
+    43.687996
+],
+  "geometry": {"coordinates":[-79.60687299999999,43.687996],"type":"Point"}
 }

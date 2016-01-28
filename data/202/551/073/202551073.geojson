@@ -2,13 +2,14 @@
   "id": 202551073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.14624,49.326843,-123.14624,49.326843",
     "geom:latitude":49.326843,
     "geom:longitude":-123.14624,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1069 Marine Dr",
     "sg:city":"West Vancouver",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85865021,
+        102191575,
         85633041,
-        85682117
+        101741069,
+        85682117,
+        101744669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"0e74851636f9dd30d92ae1f29da9647d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":202551073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":202551073
         }
     ],
     "wof:id":202551073,
-    "wof:lastmodified":1449060620,
+    "wof:lastmodified":1453937080,
     "wof:name":"Musically Inklined",
     "wof:parent_id":85865021,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "music"
     ]
 },
-  "bbox": [-123.14624,49.326843,-123.14624,49.326843],
-  "geometry": {"coordinates":[-123.14624,49.326843],"type":"Point"}
+  "bbox": [
+    -123.14624,
+    49.326843,
+    -123.14624,
+    49.326843
+],
+  "geometry": {"coordinates":[-123.14624000000001,49.326843],"type":"Point"}
 }

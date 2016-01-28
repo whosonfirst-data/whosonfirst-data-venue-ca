@@ -2,13 +2,14 @@
   "id": 153045177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.754562,45.595013,-73.754562,45.595013",
     "geom:latitude":45.595013,
     "geom:longitude":-73.754562,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1450 Boul Dagenais O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897565,
+        102191575,
         85633041,
-        85897565
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f1b7fdf9d075054976a5dc3ee48e5890",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897565,
+            "region_id":136251273,
             "venue_id":153045177
         }
     ],
     "wof:id":153045177,
-    "wof:lastmodified":1449040770,
+    "wof:lastmodified":1453932685,
     "wof:name":"Laboratoire D'Optique Sdl",
     "wof:parent_id":85897565,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.754562,45.595013,-73.754562,45.595013],
-  "geometry": {"coordinates":[-73.754562,45.595013],"type":"Point"}
+  "bbox": [
+    -73.754562,
+    45.595013,
+    -73.754562,
+    45.595013
+],
+  "geometry": {"coordinates":[-73.75456200000001,45.595013],"type":"Point"}
 }

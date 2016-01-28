@@ -2,13 +2,14 @@
   "id": 169400761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.704407,45.476555,-73.704407,45.476555",
     "geom:latitude":45.476555,
     "geom:longitude":-73.704407,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8307 Ch DE LA Cote-DE-Liesse",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"953720e87c088a1851f7848887af5a3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169400761
         }
     ],
     "wof:id":169400761,
-    "wof:lastmodified":1449032991,
+    "wof:lastmodified":1453929126,
     "wof:name":"St James Pub",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.704407,45.476555,-73.704407,45.476555],
+  "bbox": [
+    -73.704407,
+    45.476555,
+    -73.704407,
+    45.476555
+],
   "geometry": {"coordinates":[-73.704407,45.476555],"type":"Point"}
 }

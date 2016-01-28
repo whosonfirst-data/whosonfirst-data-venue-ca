@@ -2,13 +2,14 @@
   "id": 152330507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.610809,43.545441,-79.610809,43.545441",
     "geom:latitude":43.545441,
     "geom:longitude":-79.610809,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"775 Terlin Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895115,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"529bf794cba519f1f8de2e6b307130bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":152330507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":152330507
         }
     ],
     "wof:id":152330507,
-    "wof:lastmodified":1449046606,
+    "wof:lastmodified":1453934572,
     "wof:name":"Vanguard Services Ltd",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.610809,43.545441,-79.610809,43.545441],
+  "bbox": [
+    -79.610809,
+    43.545441,
+    -79.610809,
+    43.545441
+],
   "geometry": {"coordinates":[-79.610809,43.545441],"type":"Point"}
 }

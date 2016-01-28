@@ -2,13 +2,14 @@
   "id": 219348965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.695236,43.65284,-79.695236,43.65284",
     "geom:latitude":43.65284,
     "geom:longitude":-79.695236,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"408 Gibraltar Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894975,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"47ff5afddf8e00fab65bd17363167bfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":219348965
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":219348965
         }
     ],
     "wof:id":219348965,
-    "wof:lastmodified":1449070526,
+    "wof:lastmodified":1453937556,
     "wof:name":"Mil Tooling & Automation Inc",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "maker"
     ]
 },
-  "bbox": [-79.695236,43.65284,-79.695236,43.65284],
-  "geometry": {"coordinates":[-79.695236,43.65284],"type":"Point"}
+  "bbox": [
+    -79.695236,
+    43.65284,
+    -79.695236,
+    43.65284
+],
+  "geometry": {"coordinates":[-79.69523599999999,43.65284],"type":"Point"}
 }

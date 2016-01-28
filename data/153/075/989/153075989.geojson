@@ -2,13 +2,14 @@
   "id": 153075989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574158,45.642864,-73.574158,45.642864",
     "geom:latitude":45.642864,
     "geom:longitude":-73.574158,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9010 Boul Maurice-Duplessis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871105,
+        102191575,
         85633041,
-        85871105
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e6f7cde23fcf6aa0a4b0c06751e1cbd7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
+            "region_id":136251273,
             "venue_id":153075989
         }
     ],
     "wof:id":153075989,
-    "wof:lastmodified":1449040619,
+    "wof:lastmodified":1453932551,
     "wof:name":"Nettoyeur Vimont",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574158,45.642864,-73.574158,45.642864],
+  "bbox": [
+    -73.574158,
+    45.642864,
+    -73.574158,
+    45.642864
+],
   "geometry": {"coordinates":[-73.574158,45.642864],"type":"Point"}
 }

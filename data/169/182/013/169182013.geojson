@@ -2,13 +2,14 @@
   "id": 169182013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.974792,45.378609,-71.974792,45.378609",
     "geom:latitude":45.378609,
     "geom:longitude":-71.974792,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4376 Boul Bourque",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"58ebc6301d42e216e6e698c739c2a504",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":169182013
         }
     ],
     "wof:id":169182013,
-    "wof:lastmodified":1449034774,
+    "wof:lastmodified":1453931001,
     "wof:name":"Carrosserie Real Blouin",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.974792,45.378609,-71.974792,45.378609],
-  "geometry": {"coordinates":[-71.974792,45.378609],"type":"Point"}
+  "bbox": [
+    -71.974792,
+    45.378609,
+    -71.974792,
+    45.378609
+],
+  "geometry": {"coordinates":[-71.97479199999999,45.378609],"type":"Point"}
 }

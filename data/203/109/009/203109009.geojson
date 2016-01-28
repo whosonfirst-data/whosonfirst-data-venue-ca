@@ -2,13 +2,14 @@
   "id": 203109009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.537537,45.667747,-73.537537,45.667747",
     "geom:latitude":45.667747,
     "geom:longitude":-73.537537,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12270 Av Armand-Chaput",
     "sg:city":"Montreal",
     "sg:classifiers":[],
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871105,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"b441cfc7e21ad643eb9b9e18e44f8e44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203109009
         }
     ],
     "wof:id":203109009,
-    "wof:lastmodified":1449025583,
+    "wof:lastmodified":1453927530,
     "wof:name":"Viafax Enr",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "mail"
     ]
 },
-  "bbox": [-73.537537,45.667747,-73.537537,45.667747],
+  "bbox": [
+    -73.537537,
+    45.667747,
+    -73.537537,
+    45.667747
+],
   "geometry": {"coordinates":[-73.537537,45.667747],"type":"Point"}
 }

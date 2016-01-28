@@ -2,13 +2,14 @@
   "id": 186271563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.465004,43.988258,-79.465004,43.988258",
     "geom:latitude":43.988258,
     "geom:longitude":-79.465004,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Aurora",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895385,
         102191575,
         85633041,
-        85895385
+        101736049,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,15 +41,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736049,
             "neighbourhood_id":85895385,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":186271563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895385,
+            "region_id":85682057,
             "venue_id":186271563
         }
     ],
     "wof:id":186271563,
-    "wof:lastmodified":1449051775,
+    "wof:lastmodified":1453936718,
     "wof:name":"Omar's Shoes",
     "wof:parent_id":85895385,
     "wof:placetype":"venue",
@@ -53,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.465004,43.988258,-79.465004,43.988258],
-  "geometry": {"coordinates":[-79.465004,43.988258],"type":"Point"}
+  "bbox": [
+    -79.465004,
+    43.988258,
+    -79.465004,
+    43.988258
+],
+  "geometry": {"coordinates":[-79.46500399999999,43.988258],"type":"Point"}
 }

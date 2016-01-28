@@ -2,13 +2,14 @@
   "id": 169339703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.300423,45.335415,-73.300423,45.335415",
     "geom:latitude":45.335415,
     "geom:longitude":-73.300423,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Luc",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"994321cc2e568d9250a29e471348d14b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":169339703
         }
     ],
     "wof:id":169339703,
-    "wof:lastmodified":1449034142,
+    "wof:lastmodified":1453930330,
     "wof:name":"Centre DE LA Personne",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.300423,45.335415,-73.300423,45.335415],
-  "geometry": {"coordinates":[-73.300423,45.335415],"type":"Point"}
+  "bbox": [
+    -73.300423,
+    45.335415,
+    -73.300423,
+    45.335415
+],
+  "geometry": {"coordinates":[-73.30042299999999,45.335415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203013565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.692268,44.386738,-79.692268,44.386738",
     "geom:latitude":44.386738,
     "geom:longitude":-79.692268,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"25 Toronto St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,7 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875269,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -39,18 +43,18 @@
     "wof:geomhash":"dc4544acf7f25ac240c2e99545fb1ad9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
             "region_id":85682057,
             "venue_id":203013565
         }
     ],
     "wof:id":203013565,
-    "wof:lastmodified":1449026262,
+    "wof:lastmodified":1453927646,
     "wof:name":"Power Plant Recording Studios",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "studio"
     ]
 },
-  "bbox": [-79.692268,44.386738,-79.692268,44.386738],
+  "bbox": [
+    -79.692268,
+    44.386738,
+    -79.692268,
+    44.386738
+],
   "geometry": {"coordinates":[-79.692268,44.386738],"type":"Point"}
 }

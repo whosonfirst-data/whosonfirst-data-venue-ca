@@ -2,13 +2,14 @@
   "id": 169333535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.108101,49.318398,-123.108101,49.318398",
     "geom:latitude":49.318398,
     "geom:longitude":-123.108101,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"181 Pemberton Ave",
     "sg:city":"North Vancouver",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865021,
-        85682117
+        102191575,
+        85633041,
+        101741069,
+        85682117,
+        101744669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"5722cbd73def467febd4c72fd4e295af",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":169333535
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":169333535
         }
     ],
     "wof:id":169333535,
-    "wof:lastmodified":1449035727,
+    "wof:lastmodified":1453931984,
     "wof:name":"North Shore Frame & Alignment",
     "wof:parent_id":85865021,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.108101,49.318398,-123.108101,49.318398],
+  "bbox": [
+    -123.108101,
+    49.318398,
+    -123.108101,
+    49.318398
+],
   "geometry": {"coordinates":[-123.108101,49.318398],"type":"Point"}
 }

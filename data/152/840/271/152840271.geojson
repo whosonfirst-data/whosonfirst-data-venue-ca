@@ -2,13 +2,14 @@
   "id": 152840271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.036156,45.39563,-74.036156,45.39563",
     "geom:latitude":45.39563,
     "geom:longitude":-74.036156,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Rue Ouimet",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895781,
+        102191575,
         85633041,
-        85895781
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"1b95eee797a6fdbf5001a213286e795e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895781,
+            "region_id":136251273,
             "venue_id":152840271
         }
     ],
     "wof:id":152840271,
-    "wof:lastmodified":1449047873,
+    "wof:lastmodified":1453935562,
     "wof:name":"Gerald Campeau Inc",
     "wof:parent_id":85895781,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.036156,45.39563,-74.036156,45.39563],
-  "geometry": {"coordinates":[-74.036156,45.39563],"type":"Point"}
+  "bbox": [
+    -74.036156,
+    45.39563,
+    -74.036156,
+    45.39563
+],
+  "geometry": {"coordinates":[-74.03615600000001,45.39563],"type":"Point"}
 }

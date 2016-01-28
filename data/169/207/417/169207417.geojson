@@ -2,13 +2,14 @@
   "id": 169207417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.568527,45.472542,-73.568527,45.472542",
     "geom:latitude":45.472542,
     "geom:longitude":-73.568527,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"450 Rue Henri-Duhamel",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874363,
+        102191575,
         85633041,
-        85874363
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"385e55d7789d0fbf8a57748814a7db75",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
+            "region_id":136251273,
             "venue_id":169207417
         }
     ],
     "wof:id":169207417,
-    "wof:lastmodified":1449034992,
+    "wof:lastmodified":1453931211,
     "wof:name":"Premium Poultry Inc",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.568527,45.472542,-73.568527,45.472542],
+  "bbox": [
+    -73.568527,
+    45.472542,
+    -73.568527,
+    45.472542
+],
   "geometry": {"coordinates":[-73.568527,45.472542],"type":"Point"}
 }

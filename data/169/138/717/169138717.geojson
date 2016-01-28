@@ -2,13 +2,14 @@
   "id": 169138717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.731316,45.433769,-75.731316,45.433769",
     "geom:latitude":45.433769,
     "geom:longitude":-75.731316,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"85 Rue Cremazie",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"743af4dea6ad07916df511d348e9c64d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":169138717
         }
     ],
     "wof:id":169138717,
-    "wof:lastmodified":1449033635,
+    "wof:lastmodified":1453929754,
     "wof:name":"Jdw Mongeon Radiateurs",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.731316,45.433769,-75.731316,45.433769],
-  "geometry": {"coordinates":[-75.731316,45.433769],"type":"Point"}
+  "bbox": [
+    -75.731316,
+    45.433769,
+    -75.731316,
+    45.433769
+],
+  "geometry": {"coordinates":[-75.73131600000001,45.433769],"type":"Point"}
 }

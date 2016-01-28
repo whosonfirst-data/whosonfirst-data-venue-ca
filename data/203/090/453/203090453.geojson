@@ -2,13 +2,14 @@
   "id": 203090453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.602264,45.580612,-73.602264,45.580612",
     "geom:latitude":45.580612,
     "geom:longitude":-73.602264,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8415 Boul Viau",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874359,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"0d651c36f26738236688f859115f2cc5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203090453
         }
     ],
     "wof:id":203090453,
-    "wof:lastmodified":1449026446,
+    "wof:lastmodified":1453927681,
     "wof:name":"Boulangerie Patisserie",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.602264,45.580612,-73.602264,45.580612],
-  "geometry": {"coordinates":[-73.602264,45.580612],"type":"Point"}
+  "bbox": [
+    -73.602264,
+    45.580612,
+    -73.602264,
+    45.580612
+],
+  "geometry": {"coordinates":[-73.60226400000001,45.580612],"type":"Point"}
 }

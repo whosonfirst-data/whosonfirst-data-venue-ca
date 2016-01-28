@@ -2,13 +2,14 @@
   "id": 152510825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.686844,45.492573,-73.686844,45.492573",
     "geom:latitude":45.492573,
     "geom:longitude":-73.686844,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"438 Rue Isabey",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d94c89ed27f2f940c718895586549364",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152510825
         }
     ],
     "wof:id":152510825,
-    "wof:lastmodified":1449047077,
+    "wof:lastmodified":1453934937,
     "wof:name":"Gms Informatique",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.686844,45.492573,-73.686844,45.492573],
-  "geometry": {"coordinates":[-73.686844,45.492573],"type":"Point"}
+  "bbox": [
+    -73.686844,
+    45.492573,
+    -73.686844,
+    45.492573
+],
+  "geometry": {"coordinates":[-73.68684399999999,45.492573],"type":"Point"}
 }

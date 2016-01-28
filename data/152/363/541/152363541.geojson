@@ -2,13 +2,14 @@
   "id": 152363541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.743202,43.466209,-79.743202,43.466209",
     "geom:latitude":43.466209,
     "geom:longitude":-79.743202,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oakville",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895643,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"08c450020164ac85d28fd27fb8b17741",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895643,
+            "region_id":85682057,
+            "venue_id":152363541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895643,
             "region_id":85682057,
             "venue_id":152363541
         }
     ],
     "wof:id":152363541,
-    "wof:lastmodified":1449048357,
+    "wof:lastmodified":1453935919,
     "wof:name":"Magic Cuts",
     "wof:parent_id":85895643,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.743202,43.466209,-79.743202,43.466209],
+  "bbox": [
+    -79.743202,
+    43.466209,
+    -79.743202,
+    43.466209
+],
   "geometry": {"coordinates":[-79.743202,43.466209],"type":"Point"}
 }

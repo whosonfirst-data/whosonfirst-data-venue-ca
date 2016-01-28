@@ -2,13 +2,14 @@
   "id": 152482245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.492157,45.519806,-73.492157,45.519806",
     "geom:latitude":45.519806,
     "geom:longitude":-73.492157,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"903 Rue Front",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875719,
+        102191575,
         85633041,
-        85875719
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b88626131b9afc530ad43d8f74c46b5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875719,
+            "region_id":136251273,
             "venue_id":152482245
         }
     ],
     "wof:id":152482245,
-    "wof:lastmodified":1449045955,
+    "wof:lastmodified":1453934084,
     "wof:name":"Agence DE Reception Gl",
     "wof:parent_id":85875719,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.492157,45.519806,-73.492157,45.519806],
-  "geometry": {"coordinates":[-73.492157,45.519806],"type":"Point"}
+  "bbox": [
+    -73.492157,
+    45.519806,
+    -73.492157,
+    45.519806
+],
+  "geometry": {"coordinates":[-73.49215700000001,45.519806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169204171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.510368,45.514282,-73.510368,45.514282",
     "geom:latitude":45.514282,
     "geom:longitude":-73.510368,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"905 Ch Tiffin",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9c6a98e7e2508ab48ae354add8c77485",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":169204171
         }
     ],
     "wof:id":169204171,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1453932306,
     "wof:name":"Creations Savage",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.510368,45.514282,-73.510368,45.514282],
+  "bbox": [
+    -73.510368,
+    45.514282,
+    -73.510368,
+    45.514282
+],
   "geometry": {"coordinates":[-73.510368,45.514282],"type":"Point"}
 }

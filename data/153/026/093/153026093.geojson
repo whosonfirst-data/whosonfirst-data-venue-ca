@@ -2,13 +2,14 @@
   "id": 153026093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.228752,43.019894,-81.228752,43.019894",
     "geom:latitude":43.019894,
     "geom:longitude":-81.228752,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1170 Melsandra Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JxubQKt7o9izUT1bl4afr_43.019894_-81.228752@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"13a788c70362427db09a97d8de9775e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":153026093
+        }
+    ],
     "wof:id":153026093,
-    "wof:lastmodified":1449040637,
+    "wof:lastmodified":1453932565,
     "wof:name":"Valleyview Mennonite Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.228752,43.019894,-81.228752,43.019894],
+  "bbox": [
+    -81.228752,
+    43.019894,
+    -81.228752,
+    43.019894
+],
   "geometry": {"coordinates":[-81.228752,43.019894],"type":"Point"}
 }

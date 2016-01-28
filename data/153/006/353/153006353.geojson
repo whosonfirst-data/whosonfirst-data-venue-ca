@@ -2,13 +2,14 @@
   "id": 153006353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.852379,45.493916,-73.852379,45.493916",
     "geom:latitude":45.493916,
     "geom:longitude":-73.852379,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784833,
+        102191575,
         85633041,
-        85784833
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"247367c931ca203de420ce38b934693d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784833,
+            "region_id":136251273,
             "venue_id":153006353
         }
     ],
     "wof:id":153006353,
-    "wof:lastmodified":1449040721,
+    "wof:lastmodified":1453932644,
     "wof:name":"Deppaneur K & A",
     "wof:parent_id":85784833,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.852379,45.493916,-73.852379,45.493916],
+  "bbox": [
+    -73.852379,
+    45.493916,
+    -73.852379,
+    45.493916
+],
   "geometry": {"coordinates":[-73.852379,45.493916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169107121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.826752,45.429367,-73.826752,45.429367",
     "geom:latitude":45.429367,
     "geom:longitude":-73.826752,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"48 Av Saint-Joachim",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875791,
+        102191575,
         85633041,
-        85875791
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"82961f55c198a5ae0b6ce02c11e975e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875791,
+            "region_id":136251273,
             "venue_id":169107121
         }
     ],
     "wof:id":169107121,
-    "wof:lastmodified":1449032700,
+    "wof:lastmodified":1453928814,
     "wof:name":"Services DE Garde DE LA Pointe",
     "wof:parent_id":85875791,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.826752,45.429367,-73.826752,45.429367],
+  "bbox": [
+    -73.826752,
+    45.429367,
+    -73.826752,
+    45.429367
+],
   "geometry": {"coordinates":[-73.826752,45.429367],"type":"Point"}
 }

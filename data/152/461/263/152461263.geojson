@@ -2,13 +2,14 @@
   "id": 152461263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.621117,45.430508,-73.621117,45.430508",
     "geom:latitude":45.430508,
     "geom:longitude":-73.621117,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1349 Rue Maurice",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897545,
+        102191575,
         85633041,
-        85897545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"892873e5e5bd056c69eadf180d72b51d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897545,
+            "region_id":136251273,
             "venue_id":152461263
         }
     ],
     "wof:id":152461263,
-    "wof:lastmodified":1449046048,
+    "wof:lastmodified":1453934156,
     "wof:name":"Planchers St-Jacques Inc",
     "wof:parent_id":85897545,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.621117,45.430508,-73.621117,45.430508],
+  "bbox": [
+    -73.621117,
+    45.430508,
+    -73.621117,
+    45.430508
+],
   "geometry": {"coordinates":[-73.621117,45.430508],"type":"Point"}
 }

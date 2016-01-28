@@ -2,13 +2,14 @@
   "id": 169554533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.579994,45.492062,-73.579994,45.492062",
     "geom:latitude":45.492062,
     "geom:longitude":-73.579994,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1929 Rue Tupper",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897631,
+        102191575,
         85633041,
-        85897631
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"242a9068662fdaa84a82ccbda0e669c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897631,
+            "region_id":136251273,
             "venue_id":169554533
         }
     ],
     "wof:id":169554533,
-    "wof:lastmodified":1449033369,
+    "wof:lastmodified":1453929475,
     "wof:name":"Codev International Inc",
     "wof:parent_id":85897631,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.579994,45.492062,-73.579994,45.492062],
+  "bbox": [
+    -73.579994,
+    45.492062,
+    -73.579994,
+    45.492062
+],
   "geometry": {"coordinates":[-73.579994,45.492062],"type":"Point"}
 }

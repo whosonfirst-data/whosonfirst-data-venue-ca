@@ -2,13 +2,14 @@
   "id": 169035451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.41703,42.997799,-82.41703,42.997799",
     "geom:latitude":42.997799,
     "geom:longitude":-82.41703,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"115 Michigan Ave",
     "sg:city":"Point Edward",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85784851,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"b677b9bc204c98bc8032dc64ad4f4a99",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":169035451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736019,
             "neighbourhood_id":85784851,
             "region_id":85682057,
             "venue_id":169035451
         }
     ],
     "wof:id":169035451,
-    "wof:lastmodified":1449035327,
+    "wof:lastmodified":1453931532,
     "wof:name":"Balmoral Tavern",
     "wof:parent_id":85784851,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.41703,42.997799,-82.41703,42.997799],
+  "bbox": [
+    -82.41703,
+    42.997799,
+    -82.41703,
+    42.997799
+],
   "geometry": {"coordinates":[-82.41703,42.997799],"type":"Point"}
 }

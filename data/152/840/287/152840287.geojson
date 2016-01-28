@@ -2,13 +2,14 @@
   "id": 152840287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.910568,45.413509,-73.910568,45.413509",
     "geom:latitude":45.413509,
     "geom:longitude":-73.910568,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16 Rue Watterson",
     "sg:city":"Baie-D'Urfe",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736447,
+        85784667,
+        102191575,
         85633041,
-        85784667
+        101736447,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"65995fbc2f0de2845186a7bc9655ef10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736447,
             "neighbourhood_id":85784667,
+            "region_id":136251273,
             "venue_id":152840287
         }
     ],
     "wof:id":152840287,
-    "wof:lastmodified":1449047872,
+    "wof:lastmodified":1453935560,
     "wof:name":"O H Communications Inc",
     "wof:parent_id":85784667,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.910568,45.413509,-73.910568,45.413509],
+  "bbox": [
+    -73.910568,
+    45.413509,
+    -73.910568,
+    45.413509
+],
   "geometry": {"coordinates":[-73.910568,45.413509],"type":"Point"}
 }

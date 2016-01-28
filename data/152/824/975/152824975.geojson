@@ -2,13 +2,14 @@
   "id": 152824975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.449532,45.629478,-73.449532,45.629478",
     "geom:latitude":45.629478,
     "geom:longitude":-73.449532,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"915 Rue Toussaint-Benard",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875733,
+        102191575,
         85633041,
-        85875733
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"d8565b91efac35cafdfb6d1da1477633",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875733,
+            "region_id":136251273,
             "venue_id":152824975
         }
     ],
     "wof:id":152824975,
-    "wof:lastmodified":1449045961,
+    "wof:lastmodified":1453934088,
     "wof:name":"Poulin Maconnerie & Fils",
     "wof:parent_id":85875733,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.449532,45.629478,-73.449532,45.629478],
+  "bbox": [
+    -73.449532,
+    45.629478,
+    -73.449532,
+    45.629478
+],
   "geometry": {"coordinates":[-73.449532,45.629478],"type":"Point"}
 }

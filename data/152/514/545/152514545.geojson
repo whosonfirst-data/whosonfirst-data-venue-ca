@@ -2,13 +2,14 @@
   "id": 152514545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.184647,49.234692,-123.184647,49.234692",
     "geom:latitude":49.234692,
     "geom:longitude":-123.184647,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3586 41st Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865071,
-        85682117
+        102191575,
+        85633041,
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"19ea6de277ed06aea3a8b73f8ae23fb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":152514545
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":152514545
         }
     ],
     "wof:id":152514545,
-    "wof:lastmodified":1449046624,
+    "wof:lastmodified":1453934590,
     "wof:name":"Shall We Dance Studio",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.184647,49.234692,-123.184647,49.234692],
+  "bbox": [
+    -123.184647,
+    49.234692,
+    -123.184647,
+    49.234692
+],
   "geometry": {"coordinates":[-123.184647,49.234692],"type":"Point"}
 }

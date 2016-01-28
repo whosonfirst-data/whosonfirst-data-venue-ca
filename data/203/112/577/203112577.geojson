@@ -2,13 +2,14 @@
   "id": 203112577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.650414,43.652603,-79.650414,43.652603",
     "geom:latitude":43.652603,
     "geom:longitude":-79.650414,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1310 Britannia Rd E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895633,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"b3f8868c2557f936a1dbff77eb19fe20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":203112577
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":203112577
         }
     ],
     "wof:id":203112577,
-    "wof:lastmodified":1449025786,
+    "wof:lastmodified":1453927569,
     "wof:name":"Top Performance Autobody Ltd",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "painting"
     ]
 },
-  "bbox": [-79.650414,43.652603,-79.650414,43.652603],
+  "bbox": [
+    -79.650414,
+    43.652603,
+    -79.650414,
+    43.652603
+],
   "geometry": {"coordinates":[-79.650414,43.652603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152950403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.480225,45.717464,-73.480225,45.717464",
     "geom:latitude":45.717464,
     "geom:longitude":-73.480225,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"332 Boul Notre-Dame-Des-Champs",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737739,
+        85875729,
+        102191575,
         85633041,
-        85875729
+        101737739,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1326c33140abf534d33f27d0a6b74f1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737739,
             "neighbourhood_id":85875729,
+            "region_id":136251273,
             "venue_id":152950403
         }
     ],
     "wof:id":152950403,
-    "wof:lastmodified":1449046112,
+    "wof:lastmodified":1453934205,
     "wof:name":"Depanneur Beauchemin",
     "wof:parent_id":85875729,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.480225,45.717464,-73.480225,45.717464],
+  "bbox": [
+    -73.480225,
+    45.717464,
+    -73.480225,
+    45.717464
+],
   "geometry": {"coordinates":[-73.480225,45.717464],"type":"Point"}
 }

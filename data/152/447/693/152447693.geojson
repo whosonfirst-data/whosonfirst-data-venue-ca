@@ -2,13 +2,14 @@
   "id": 152447693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.704384,44.382797,-79.704384,44.382797",
     "geom:latitude":44.382797,
     "geom:longitude":-79.704384,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"273 Dunlop St W # 9",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4N 1B8",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lmucCbIL4EoISGl414Ba1_44.382797_-79.704384@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"bc14d7a4865a05c7c47151c35b0330ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":152447693
+        }
+    ],
     "wof:id":152447693,
-    "wof:lastmodified":1449047548,
+    "wof:lastmodified":1453935299,
     "wof:name":"Appliance Shack",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.704384,44.382797,-79.704384,44.382797],
+  "bbox": [
+    -79.704384,
+    44.382797,
+    -79.704384,
+    44.382797
+],
   "geometry": {"coordinates":[-79.704384,44.382797],"type":"Point"}
 }

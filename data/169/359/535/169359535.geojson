@@ -2,13 +2,14 @@
   "id": 169359535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.708809,45.546181,-73.708809,45.546181",
     "geom:latitude":45.546181,
     "geom:longitude":-73.708809,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"393 Boul Des Prairies # 391",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"81e87f5755343ab1678957b273d4438d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":169359535
         }
     ],
     "wof:id":169359535,
-    "wof:lastmodified":1449032631,
+    "wof:lastmodified":1453928744,
     "wof:name":"Jardin Des Saules",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.708809,45.546181,-73.708809,45.546181],
+  "bbox": [
+    -73.708809,
+    45.546181,
+    -73.708809,
+    45.546181
+],
   "geometry": {"coordinates":[-73.708809,45.546181],"type":"Point"}
 }

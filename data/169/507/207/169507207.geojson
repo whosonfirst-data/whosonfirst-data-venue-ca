@@ -2,13 +2,14 @@
   "id": 169507207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.051605,45.2845,-74.051605,45.2845",
     "geom:latitude":45.2845,
     "geom:longitude":-74.051605,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"60 Rue Des Lilas",
     "sg:city":"Saint-Timothee",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895763,
+        102191575,
         85633041,
-        85895763
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"24ed03d7dc5a869131ad8efc310ece20",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895763,
+            "region_id":136251273,
             "venue_id":169507207
         }
     ],
     "wof:id":169507207,
-    "wof:lastmodified":1449034377,
+    "wof:lastmodified":1453930552,
     "wof:name":"Plomberie Moderne",
     "wof:parent_id":85895763,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.051605,45.2845,-74.051605,45.2845],
+  "bbox": [
+    -74.051605,
+    45.2845,
+    -74.051605,
+    45.2845
+],
   "geometry": {"coordinates":[-74.051605,45.2845],"type":"Point"}
 }

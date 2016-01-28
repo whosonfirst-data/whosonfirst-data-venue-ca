@@ -2,13 +2,14 @@
   "id": 185724251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.356201,46.854202,-71.356201,46.854202",
     "geom:latitude":46.854202,
     "geom:longitude":-71.356201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"108 Rue Racine",
     "sg:city":"Loretteville",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874711,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,16 @@
     "wof:geomhash":"2262b01431a67f806e304a135c92377f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874711,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185724251
         }
     ],
     "wof:id":185724251,
-    "wof:lastmodified":1449008152,
+    "wof:lastmodified":1453927383,
     "wof:name":"Pixel Creation",
     "wof:parent_id":85874711,
     "wof:placetype":"venue",
@@ -66,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-71.356201,46.854202,-71.356201,46.854202],
+  "bbox": [
+    -71.356201,
+    46.854202,
+    -71.356201,
+    46.854202
+],
   "geometry": {"coordinates":[-71.356201,46.854202],"type":"Point"}
 }

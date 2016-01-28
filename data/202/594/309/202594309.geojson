@@ -2,13 +2,14 @@
   "id": 202594309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.700127,45.460533,-75.700127,45.460533",
     "geom:latitude":45.460533,
     "geom:longitude":-75.700127,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"40 Boul Greber",
     "sg:city":"Gatineau",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874503,
+        102191575,
         85633041,
-        101738041
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"7891f1446d2ee276889b26b199d01f12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202594309
         }
     ],
     "wof:id":202594309,
-    "wof:lastmodified":1449060473,
+    "wof:lastmodified":1453937051,
     "wof:name":"P H Vitres D'Autos Inc",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "plate"
     ]
 },
-  "bbox": [-75.700127,45.460533,-75.700127,45.460533],
-  "geometry": {"coordinates":[-75.700127,45.460533],"type":"Point"}
+  "bbox": [
+    -75.700127,
+    45.460533,
+    -75.700127,
+    45.460533
+],
+  "geometry": {"coordinates":[-75.70012699999999,45.460533],"type":"Point"}
 }

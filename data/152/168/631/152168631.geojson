@@ -2,13 +2,14 @@
   "id": 152168631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.398415,43.409081,-80.398415,43.409081",
     "geom:latitude":43.409081,
     "geom:longitude":-80.398415,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4263 King St E",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874997,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"dbb4931db054b9651469d96170ed54ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874997,
+            "region_id":85682057,
+            "venue_id":152168631
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736143,
             "neighbourhood_id":85874997,
             "region_id":85682057,
             "venue_id":152168631
         }
     ],
     "wof:id":152168631,
-    "wof:lastmodified":1449046713,
+    "wof:lastmodified":1453934658,
     "wof:name":"Lulu's",
     "wof:parent_id":85874997,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.398415,43.409081,-80.398415,43.409081],
+  "bbox": [
+    -80.398415,
+    43.409081,
+    -80.398415,
+    43.409081
+],
   "geometry": {"coordinates":[-80.398415,43.409081],"type":"Point"}
 }

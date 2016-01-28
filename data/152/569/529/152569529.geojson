@@ -2,13 +2,14 @@
   "id": 152569529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.646645,45.451786,-73.646645,45.451786",
     "geom:latitude":45.451786,
     "geom:longitude":-73.646645,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"48 Av Wolseley N",
     "sg:city":"Montreal-Ouest",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736483,
+        85784813,
+        102191575,
         85633041,
-        85784813
+        101736483,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4d3140f644dede85de7ae24aba4a939f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736483,
             "neighbourhood_id":85784813,
+            "region_id":136251273,
             "venue_id":152569529
         }
     ],
     "wof:id":152569529,
-    "wof:lastmodified":1449048730,
+    "wof:lastmodified":1453936200,
     "wof:name":"Bertrand Durand Inc",
     "wof:parent_id":85784813,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.646645,45.451786,-73.646645,45.451786],
-  "geometry": {"coordinates":[-73.646645,45.451786],"type":"Point"}
+  "bbox": [
+    -73.646645,
+    45.451786,
+    -73.646645,
+    45.451786
+],
+  "geometry": {"coordinates":[-73.64664500000001,45.451786],"type":"Point"}
 }

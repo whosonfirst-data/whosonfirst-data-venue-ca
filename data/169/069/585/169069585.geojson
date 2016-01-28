@@ -2,13 +2,14 @@
   "id": 169069585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625816,45.498089,-73.625816,45.498089",
     "geom:latitude":45.498089,
     "geom:longitude":-73.625816,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5599 Ch DE LA Cote-Des-Neiges",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897529,
+        102191575,
         85633041,
-        85897529
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3b5c911333b4741191b0c987004a056f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897529,
+            "region_id":136251273,
             "venue_id":169069585
         }
     ],
     "wof:id":169069585,
-    "wof:lastmodified":1449034770,
+    "wof:lastmodified":1453930994,
     "wof:name":"Lat Group Intl",
     "wof:parent_id":85897529,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.625816,45.498089,-73.625816,45.498089],
+  "bbox": [
+    -73.625816,
+    45.498089,
+    -73.625816,
+    45.498089
+],
   "geometry": {"coordinates":[-73.625816,45.498089],"type":"Point"}
 }

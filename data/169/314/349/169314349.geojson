@@ -2,13 +2,14 @@
   "id": 169314349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.265121,43.143478,-79.265121,43.143478",
     "geom:latitude":43.143478,
     "geom:longitude":-79.265121,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864651,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"6e441d3dd00e72403db69a8c53c5199d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864651,
+            "region_id":85682057,
+            "venue_id":169314349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864651,
             "region_id":85682057,
             "venue_id":169314349
         }
     ],
     "wof:id":169314349,
-    "wof:lastmodified":1449035820,
+    "wof:lastmodified":1453932108,
     "wof:name":"Kravcik, Edward F",
     "wof:parent_id":85864651,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.265121,43.143478,-79.265121,43.143478],
-  "geometry": {"coordinates":[-79.265121,43.143478],"type":"Point"}
+  "bbox": [
+    -79.265121,
+    43.143478,
+    -79.265121,
+    43.143478
+],
+  "geometry": {"coordinates":[-79.26512099999999,43.143478],"type":"Point"}
 }

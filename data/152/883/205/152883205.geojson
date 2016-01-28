@@ -2,13 +2,14 @@
   "id": 152883205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625107,45.619789,-73.625107,45.619789",
     "geom:latitude":45.619789,
     "geom:longitude":-73.625107,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6172 Rue Villeneuve",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"26ef95616edfbfe30c8d1bb19d0d73ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":152883205
         }
     ],
     "wof:id":152883205,
-    "wof:lastmodified":1449047827,
+    "wof:lastmodified":1453935523,
     "wof:name":"Quoi Faire",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.625107,45.619789,-73.625107,45.619789],
+  "bbox": [
+    -73.625107,
+    45.619789,
+    -73.625107,
+    45.619789
+],
   "geometry": {"coordinates":[-73.625107,45.619789],"type":"Point"}
 }

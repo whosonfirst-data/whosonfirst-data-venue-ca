@@ -2,13 +2,14 @@
   "id": 152445567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.650635,43.473907,-79.650635,43.473907",
     "geom:latitude":43.473907,
     "geom:longitude":-79.650635,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"306 Maple Grove Dr",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895589,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"d84030d578fcfb9ba377d67394084dfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895589,
+            "region_id":85682057,
+            "venue_id":152445567
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895589,
             "region_id":85682057,
             "venue_id":152445567
         }
     ],
     "wof:id":152445567,
-    "wof:lastmodified":1449044924,
+    "wof:lastmodified":1453933311,
     "wof:name":"Waterbridge Inc",
     "wof:parent_id":85895589,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.650635,43.473907,-79.650635,43.473907],
-  "geometry": {"coordinates":[-79.650635,43.473907],"type":"Point"}
+  "bbox": [
+    -79.650635,
+    43.473907,
+    -79.650635,
+    43.473907
+],
+  "geometry": {"coordinates":[-79.65063499999999,43.473907],"type":"Point"}
 }

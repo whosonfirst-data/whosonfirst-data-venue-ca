@@ -2,13 +2,14 @@
   "id": 152289879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.538902,45.641685,-73.538902,45.641685",
     "geom:latitude":45.641685,
     "geom:longitude":-73.538902,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8760 Place Marien",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784837,
+        102191575,
         85633041,
-        85784837
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6844906147f1632fc7cb30fc60140edb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
+            "region_id":136251273,
             "venue_id":152289879
         }
     ],
     "wof:id":152289879,
-    "wof:lastmodified":1449048148,
+    "wof:lastmodified":1453935754,
     "wof:name":"Monsieur Transport",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.538902,45.641685,-73.538902,45.641685],
-  "geometry": {"coordinates":[-73.538902,45.641685],"type":"Point"}
+  "bbox": [
+    -73.538902,
+    45.641685,
+    -73.538902,
+    45.641685
+],
+  "geometry": {"coordinates":[-73.53890199999999,45.641685],"type":"Point"}
 }

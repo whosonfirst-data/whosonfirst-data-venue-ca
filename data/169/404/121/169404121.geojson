@@ -2,13 +2,14 @@
   "id": 169404121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.78727,45.542179,-73.78727,45.542179",
     "geom:latitude":45.542179,
     "geom:longitude":-73.78727,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875061,
+        102191575,
         85633041,
-        85875061
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"6c1038f657e317e918e00f531412dff6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875061,
+            "region_id":136251273,
             "venue_id":169404121
         }
     ],
     "wof:id":169404121,
-    "wof:lastmodified":1449034883,
+    "wof:lastmodified":1453931109,
     "wof:name":"Clinique Dentaire Lidia Pajani",
     "wof:parent_id":85875061,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.78727,45.542179,-73.78727,45.542179],
-  "geometry": {"coordinates":[-73.78727,45.542179],"type":"Point"}
+  "bbox": [
+    -73.78727,
+    45.542179,
+    -73.78727,
+    45.542179
+],
+  "geometry": {"coordinates":[-73.78727000000001,45.542179],"type":"Point"}
 }

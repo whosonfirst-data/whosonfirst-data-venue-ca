@@ -2,13 +2,14 @@
   "id": 152490095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.485603,43.815895,-79.485603,43.815895",
     "geom:latitude":43.815895,
     "geom:longitude":-79.485603,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"301 Bradwick Dr",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895133,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c4a174406c17f0bae257bdd7b3872131",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":152490095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":152490095
         }
     ],
     "wof:id":152490095,
-    "wof:lastmodified":1449048456,
+    "wof:lastmodified":1453935992,
     "wof:name":"Keele Print Shoppe",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.485603,43.815895,-79.485603,43.815895],
+  "bbox": [
+    -79.485603,
+    43.815895,
+    -79.485603,
+    43.815895
+],
   "geometry": {"coordinates":[-79.485603,43.815895],"type":"Point"}
 }

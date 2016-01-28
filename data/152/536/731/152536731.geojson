@@ -2,13 +2,14 @@
   "id": 152536731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.45945,43.879105,-79.45945,43.879105",
     "geom:latitude":43.879105,
     "geom:longitude":-79.45945,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"93 Theobalds Cir",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895679,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"0c20c1b5f0af52e53942bd8c37388ea8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895679,
+            "region_id":85682057,
+            "venue_id":152536731
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895679,
             "region_id":85682057,
             "venue_id":152536731
         }
     ],
     "wof:id":152536731,
-    "wof:lastmodified":1449047056,
+    "wof:lastmodified":1453934919,
     "wof:name":"H & L Alarm Systems Ltd",
     "wof:parent_id":85895679,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.45945,43.879105,-79.45945,43.879105],
+  "bbox": [
+    -79.45945,
+    43.879105,
+    -79.45945,
+    43.879105
+],
   "geometry": {"coordinates":[-79.45945,43.879105],"type":"Point"}
 }

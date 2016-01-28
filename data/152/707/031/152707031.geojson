@@ -2,13 +2,14 @@
   "id": 152707031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.593323,43.784828,-79.593323,43.784828",
     "geom:latitude":43.784828,
     "geom:longitude":-79.593323,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"140 Woodbridge Ave",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895625,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2b975e36b4b264c15466483c6652ca6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895625,
+            "region_id":85682057,
+            "venue_id":152707031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895625,
             "region_id":85682057,
             "venue_id":152707031
         }
     ],
     "wof:id":152707031,
-    "wof:lastmodified":1449048186,
+    "wof:lastmodified":1453935785,
     "wof:name":"Maschile Tailors & Clothiers",
     "wof:parent_id":85895625,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.593323,43.784828,-79.593323,43.784828],
+  "bbox": [
+    -79.593323,
+    43.784828,
+    -79.593323,
+    43.784828
+],
   "geometry": {"coordinates":[-79.593323,43.784828],"type":"Point"}
 }

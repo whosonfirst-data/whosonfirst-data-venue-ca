@@ -2,13 +2,14 @@
   "id": 152672865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.827026,45.439114,-73.827026,45.439114",
     "geom:latitude":45.439114,
     "geom:longitude":-73.827026,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"201 Av Cartier",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875797,
+        102191575,
         85633041,
-        85875797
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"738d0e2403830f0c937080282e70b268",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875797,
+            "region_id":136251273,
             "venue_id":152672865
         }
     ],
     "wof:id":152672865,
-    "wof:lastmodified":1449044596,
+    "wof:lastmodified":1453933055,
     "wof:name":"Cartier Olco",
     "wof:parent_id":85875797,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.827026,45.439114,-73.827026,45.439114],
+  "bbox": [
+    -73.827026,
+    45.439114,
+    -73.827026,
+    45.439114
+],
   "geometry": {"coordinates":[-73.827026,45.439114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219665773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.488472,43.824299,-79.488472,43.824299",
     "geom:latitude":43.824299,
     "geom:longitude":-79.488472,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"84 Citation Dr # 8",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895537,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"cc326fe7e38b0e578540963e54891003",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895537,
+            "region_id":85682057,
+            "venue_id":219665773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895537,
             "region_id":85682057,
             "venue_id":219665773
         }
     ],
     "wof:id":219665773,
-    "wof:lastmodified":1449071474,
+    "wof:lastmodified":1453937686,
     "wof:name":"Marnicole Sales Inc",
     "wof:parent_id":85895537,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "beauty"
     ]
 },
-  "bbox": [-79.488472,43.824299,-79.488472,43.824299],
+  "bbox": [
+    -79.488472,
+    43.824299,
+    -79.488472,
+    43.824299
+],
   "geometry": {"coordinates":[-79.488472,43.824299],"type":"Point"}
 }

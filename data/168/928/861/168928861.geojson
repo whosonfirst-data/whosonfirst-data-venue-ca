@@ -2,13 +2,14 @@
   "id": 168928861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.383186,46.806023,-71.383186,46.806023",
     "geom:latitude":46.806023,
     "geom:longitude":-71.383186,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2425 Rue Daniel",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737245,
+        85874723,
+        102191575,
         85633041,
-        85874723
+        101737245,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"662e2f77e6694c65827a882e03cadbbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737245,
             "neighbourhood_id":85874723,
+            "region_id":136251273,
             "venue_id":168928861
         }
     ],
     "wof:id":168928861,
-    "wof:lastmodified":1449028473,
+    "wof:lastmodified":1453928563,
     "wof:name":"Ange Vert Svc Paysagistes",
     "wof:parent_id":85874723,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.383186,46.806023,-71.383186,46.806023],
-  "geometry": {"coordinates":[-71.383186,46.806023],"type":"Point"}
+  "bbox": [
+    -71.383186,
+    46.806023,
+    -71.383186,
+    46.806023
+],
+  "geometry": {"coordinates":[-71.38318599999999,46.806023],"type":"Point"}
 }

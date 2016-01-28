@@ -2,13 +2,14 @@
   "id": 169231739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.651276,44.399445,-79.651276,44.399445",
     "geom:latitude":44.399445,
     "geom:longitude":-79.651276,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"436 Blake St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "sharpening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875263,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hDGXEbovqY7v7hipCUaJY_44.399445_-79.651276@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b8145c683b57523963443e9f7d5c11a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875263,
+            "region_id":85682057,
+            "venue_id":169231739
+        }
+    ],
     "wof:id":169231739,
-    "wof:lastmodified":1449034367,
+    "wof:lastmodified":1453930544,
     "wof:name":"Barrie Sharpening Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.651276,44.399445,-79.651276,44.399445],
+  "bbox": [
+    -79.651276,
+    44.399445,
+    -79.651276,
+    44.399445
+],
   "geometry": {"coordinates":[-79.651276,44.399445],"type":"Point"}
 }

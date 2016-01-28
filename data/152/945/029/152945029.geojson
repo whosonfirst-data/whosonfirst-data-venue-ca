@@ -2,13 +2,14 @@
   "id": 152945029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.791817,45.608963,-73.791817,45.608963",
     "geom:latitude":45.608963,
     "geom:longitude":-73.791817,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"135 Boul Cure-Labelle",
     "sg:city":"Sainte-Rose",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897567,
+        102191575,
         85633041,
-        85897567
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"413b0d8c8209016279fca26203111aac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897567,
+            "region_id":136251273,
             "venue_id":152945029
         }
     ],
     "wof:id":152945029,
-    "wof:lastmodified":1449044691,
+    "wof:lastmodified":1453933134,
     "wof:name":"Antiquite Arsene Enr",
     "wof:parent_id":85897567,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.791817,45.608963,-73.791817,45.608963],
-  "geometry": {"coordinates":[-73.791817,45.608963],"type":"Point"}
+  "bbox": [
+    -73.791817,
+    45.608963,
+    -73.791817,
+    45.608963
+],
+  "geometry": {"coordinates":[-73.79181699999999,45.608963],"type":"Point"}
 }

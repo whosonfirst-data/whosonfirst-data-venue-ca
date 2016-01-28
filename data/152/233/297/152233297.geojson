@@ -2,13 +2,14 @@
   "id": 152233297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.061127,45.441551,-73.061127,45.441551",
     "geom:latitude":45.441551,
     "geom:longitude":-73.061127,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"565 Rue Principale",
     "sg:city":"Rougemont",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9f3c53c148f98238ab4e9f3993e83c05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":152233297
         }
     ],
     "wof:id":152233297,
-    "wof:lastmodified":1449048972,
+    "wof:lastmodified":1453936412,
     "wof:name":"Pepiniere J Dube",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.061127,45.441551,-73.061127,45.441551],
+  "bbox": [
+    -73.061127,
+    45.441551,
+    -73.061127,
+    45.441551
+],
   "geometry": {"coordinates":[-73.061127,45.441551],"type":"Point"}
 }

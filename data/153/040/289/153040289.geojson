@@ -2,13 +2,14 @@
   "id": 153040289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.733978,45.500168,-73.733978,45.500168",
     "geom:latitude":45.500168,
     "geom:longitude":-73.733978,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5782 Boul Thimens",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"80d3fcd715a02d25880ff76e521d07ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":153040289
         }
     ],
     "wof:id":153040289,
-    "wof:lastmodified":1449040803,
+    "wof:lastmodified":1453932714,
     "wof:name":"Acklands-Grainger Inc",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.733978,45.500168,-73.733978,45.500168],
-  "geometry": {"coordinates":[-73.733978,45.500168],"type":"Point"}
+  "bbox": [
+    -73.733978,
+    45.500168,
+    -73.733978,
+    45.500168
+],
+  "geometry": {"coordinates":[-73.73397799999999,45.500168],"type":"Point"}
 }

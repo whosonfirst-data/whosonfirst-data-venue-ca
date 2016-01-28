@@ -2,13 +2,14 @@
   "id": 169396499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.788071,43.360313,-79.788071,43.360313",
     "geom:latitude":43.360313,
     "geom:longitude":-79.788071,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895369,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"a9b462535954a2d72823e61d5635a8c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895369,
+            "region_id":85682057,
+            "venue_id":169396499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895369,
             "region_id":85682057,
             "venue_id":169396499
         }
     ],
     "wof:id":169396499,
-    "wof:lastmodified":1449034852,
+    "wof:lastmodified":1453931080,
     "wof:name":"Ontario Dental Hygienists Assn",
     "wof:parent_id":85895369,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.788071,43.360313,-79.788071,43.360313],
+  "bbox": [
+    -79.788071,
+    43.360313,
+    -79.788071,
+    43.360313
+],
   "geometry": {"coordinates":[-79.788071,43.360313],"type":"Point"}
 }

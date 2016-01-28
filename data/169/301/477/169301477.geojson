@@ -2,13 +2,14 @@
   "id": 169301477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.634659,43.56739,-79.634659,43.56739",
     "geom:latitude":43.56739,
     "geom:longitude":-79.634659,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3065 Mavis Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895113,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"f85dd97ba4d96288b5487f29a54ed8d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895113,
+            "region_id":85682057,
+            "venue_id":169301477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895113,
             "region_id":85682057,
             "venue_id":169301477
         }
     ],
     "wof:id":169301477,
-    "wof:lastmodified":1449033530,
+    "wof:lastmodified":1453929643,
     "wof:name":"Home Depot",
     "wof:parent_id":85895113,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.634659,43.56739,-79.634659,43.56739],
+  "bbox": [
+    -79.634659,
+    43.56739,
+    -79.634659,
+    43.56739
+],
   "geometry": {"coordinates":[-79.634659,43.56739],"type":"Point"}
 }

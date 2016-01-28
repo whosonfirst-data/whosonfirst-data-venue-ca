@@ -2,13 +2,14 @@
   "id": 169055711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.051514,45.287457,-74.051514,45.287457",
     "geom:latitude":45.287457,
     "geom:longitude":-74.051514,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5000 Boul Hebert",
     "sg:city":"Saint-Timothee",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895763,
+        102191575,
         85633041,
-        85895763
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"08ed6ae2e5f25a9eb26121f82dfa8982",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895763,
+            "region_id":136251273,
             "venue_id":169055711
         }
     ],
     "wof:id":169055711,
-    "wof:lastmodified":1449033430,
+    "wof:lastmodified":1453929535,
     "wof:name":"Animalerie Aquavision",
     "wof:parent_id":85895763,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.051514,45.287457,-74.051514,45.287457],
+  "bbox": [
+    -74.051514,
+    45.287457,
+    -74.051514,
+    45.287457
+],
   "geometry": {"coordinates":[-74.051514,45.287457],"type":"Point"}
 }

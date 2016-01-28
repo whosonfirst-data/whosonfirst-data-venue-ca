@@ -2,13 +2,14 @@
   "id": 202645411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.959999,45.3144,-73.959999,45.3144",
     "geom:latitude":45.3144,
     "geom:longitude":-73.959999,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"467 Boul Edgar-Hebert",
     "sg:city":"Melocheville",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895753,
+        102191575,
         85633041,
-        101736823
+        101736823,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"83fc2e664b80c7b2d615eda2a6b58bb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736823,
             "neighbourhood_id":85895753,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202645411
         }
     ],
     "wof:id":202645411,
-    "wof:lastmodified":1449060367,
+    "wof:lastmodified":1453937029,
     "wof:name":"Melocheville Station Pompage",
     "wof:parent_id":85895753,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "village"
     ]
 },
-  "bbox": [-73.959999,45.3144,-73.959999,45.3144],
+  "bbox": [
+    -73.959999,
+    45.3144,
+    -73.959999,
+    45.3144
+],
   "geometry": {"coordinates":[-73.959999,45.3144],"type":"Point"}
 }

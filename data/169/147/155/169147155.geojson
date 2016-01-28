@@ -2,13 +2,14 @@
   "id": 169147155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656967,45.499554,-73.656967,45.499554",
     "geom:latitude":45.499554,
     "geom:longitude":-73.656967,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5100 Rue DE LA Savane",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736469,
+        85784817,
+        102191575,
         85633041,
-        85784817
+        101736469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ca4b5a4ae4765e0569e84bd3c0c116e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736469,
             "neighbourhood_id":85784817,
+            "region_id":136251273,
             "venue_id":169147155
         }
     ],
     "wof:id":169147155,
-    "wof:lastmodified":1449035595,
+    "wof:lastmodified":1453931841,
     "wof:name":"Mon-X International",
     "wof:parent_id":85784817,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.656967,45.499554,-73.656967,45.499554],
-  "geometry": {"coordinates":[-73.656967,45.499554],"type":"Point"}
+  "bbox": [
+    -73.656967,
+    45.499554,
+    -73.656967,
+    45.499554
+],
+  "geometry": {"coordinates":[-73.65696699999999,45.499554],"type":"Point"}
 }

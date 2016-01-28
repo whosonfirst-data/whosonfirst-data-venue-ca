@@ -2,13 +2,14 @@
   "id": 168872925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.135445,45.273567,-74.135445,45.273567",
     "geom:latitude":45.273567,
     "geom:longitude":-74.135445,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"583 Rue Gosselin",
     "sg:city":"Grande-Ile",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a665d92cec2473cffd7e5e41a664a5e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":168872925
         }
     ],
     "wof:id":168872925,
-    "wof:lastmodified":1449027840,
+    "wof:lastmodified":1453927856,
     "wof:name":"Daoust & Mainville Couvreurs",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.135445,45.273567,-74.135445,45.273567],
+  "bbox": [
+    -74.135445,
+    45.273567,
+    -74.135445,
+    45.273567
+],
   "geometry": {"coordinates":[-74.135445,45.273567],"type":"Point"}
 }

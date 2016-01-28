@@ -2,13 +2,14 @@
   "id": 152908663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.728828,45.485668,-73.728828,45.485668",
     "geom:latitude":45.485668,
     "geom:longitude":-73.728828,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1205 Boul Pitfield",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"43ef1a12cfeb5fe35abd5069bb65631d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":152908663
         }
     ],
     "wof:id":152908663,
-    "wof:lastmodified":1449046923,
+    "wof:lastmodified":1453934815,
     "wof:name":"Transport Dhb",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.728828,45.485668,-73.728828,45.485668],
-  "geometry": {"coordinates":[-73.728828,45.485668],"type":"Point"}
+  "bbox": [
+    -73.728828,
+    45.485668,
+    -73.728828,
+    45.485668
+],
+  "geometry": {"coordinates":[-73.72882799999999,45.485668],"type":"Point"}
 }

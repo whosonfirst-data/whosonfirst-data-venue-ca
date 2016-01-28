@@ -2,13 +2,14 @@
   "id": 152267491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.458115,43.8461,-79.458115,43.8461",
     "geom:latitude":43.8461,
     "geom:longitude":-79.458115,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9185 Bathurst St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895707,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"12e5bde6ec8baa91587ad162d944557a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895707,
+            "region_id":85682057,
+            "venue_id":152267491
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895707,
             "region_id":85682057,
             "venue_id":152267491
         }
     ],
     "wof:id":152267491,
-    "wof:lastmodified":1449048502,
+    "wof:lastmodified":1453936024,
     "wof:name":"Hassell, Christopher MD",
     "wof:parent_id":85895707,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.458115,43.8461,-79.458115,43.8461],
-  "geometry": {"coordinates":[-79.458115,43.8461],"type":"Point"}
+  "bbox": [
+    -79.458115,
+    43.8461,
+    -79.458115,
+    43.8461
+],
+  "geometry": {"coordinates":[-79.45811500000001,43.8461],"type":"Point"}
 }

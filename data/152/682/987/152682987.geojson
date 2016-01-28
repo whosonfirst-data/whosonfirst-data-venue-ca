@@ -2,13 +2,14 @@
   "id": 152682987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.485573,43.81749,-79.485573,43.81749",
     "geom:latitude":43.81749,
     "geom:longitude":-79.485573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"55 Bradwick Dr",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895537,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f992003a9a7a8e260916562501ddbfbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895537,
+            "region_id":85682057,
+            "venue_id":152682987
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895537,
             "region_id":85682057,
             "venue_id":152682987
         }
     ],
     "wof:id":152682987,
-    "wof:lastmodified":1449045114,
+    "wof:lastmodified":1453933446,
     "wof:name":"Architectural Ornament",
     "wof:parent_id":85895537,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.485573,43.81749,-79.485573,43.81749],
+  "bbox": [
+    -79.485573,
+    43.81749,
+    -79.485573,
+    43.81749
+],
   "geometry": {"coordinates":[-79.485573,43.81749],"type":"Point"}
 }

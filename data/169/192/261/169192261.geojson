@@ -2,13 +2,14 @@
   "id": 169192261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.18676,49.238728,-123.18676,49.238728",
     "geom:latitude":49.238728,
     "geom:longitude":-123.18676,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3707 37th Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865071,
-        85682117
+        102191575,
+        85633041,
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c89e080b0dbbe142e4e43f13b1de7d9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":169192261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":169192261
         }
     ],
     "wof:id":169192261,
-    "wof:lastmodified":1449035015,
+    "wof:lastmodified":1453931229,
     "wof:name":"Sloan, John P MD",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.18676,49.238728,-123.18676,49.238728],
-  "geometry": {"coordinates":[-123.18676,49.238728],"type":"Point"}
+  "bbox": [
+    -123.18676,
+    49.238728,
+    -123.18676,
+    49.238728
+],
+  "geometry": {"coordinates":[-123.18676000000001,49.238728],"type":"Point"}
 }

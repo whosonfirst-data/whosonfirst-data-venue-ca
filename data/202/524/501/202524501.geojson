@@ -2,13 +2,14 @@
   "id": 202524501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.263657,42.984589,-81.263657,42.984589",
     "geom:latitude":42.984589,
     "geom:longitude":-81.263657,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Mount Pleasant Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,7 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874923,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -39,18 +43,18 @@
     "wof:geomhash":"5db8aa1e71661928a1b114f0a586962e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85874923,
             "region_id":85682057,
             "venue_id":202524501
         }
     ],
     "wof:id":202524501,
-    "wof:lastmodified":1449060087,
+    "wof:lastmodified":1453936971,
     "wof:name":"Lobo Dog Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874923,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.263657,42.984589,-81.263657,42.984589],
-  "geometry": {"coordinates":[-81.263657,42.984589],"type":"Point"}
+  "bbox": [
+    -81.263657,
+    42.984589,
+    -81.263657,
+    42.984589
+],
+  "geometry": {"coordinates":[-81.26365699999999,42.984589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152408965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.735031,45.504887,-73.735031,45.504887",
     "geom:latitude":45.504887,
     "geom:longitude":-73.735031,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2890 Rue Gaetan-Labreche",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"971aafc6f3ceac6133faac23a43e73fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":152408965
         }
     ],
     "wof:id":152408965,
-    "wof:lastmodified":1449044877,
+    "wof:lastmodified":1453933270,
     "wof:name":"Tinawi, Rene",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.735031,45.504887,-73.735031,45.504887],
-  "geometry": {"coordinates":[-73.735031,45.504887],"type":"Point"}
+  "bbox": [
+    -73.735031,
+    45.504887,
+    -73.735031,
+    45.504887
+],
+  "geometry": {"coordinates":[-73.73503100000001,45.504887],"type":"Point"}
 }

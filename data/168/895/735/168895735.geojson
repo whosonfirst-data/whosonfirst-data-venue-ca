@@ -2,13 +2,14 @@
   "id": 168895735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.049614,45.330952,-72.049614,45.330952",
     "geom:latitude":45.330952,
     "geom:longitude":-72.049614,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Deauville",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864399,
+        102191575,
         85633041,
-        85864399
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"c334591d47527c67361fbb3785eb8589",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864399,
+            "region_id":136251273,
             "venue_id":168895735
         }
     ],
     "wof:id":168895735,
-    "wof:lastmodified":1449028105,
+    "wof:lastmodified":1453928159,
     "wof:name":"Ordinatec",
     "wof:parent_id":85864399,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.049614,45.330952,-72.049614,45.330952],
-  "geometry": {"coordinates":[-72.049614,45.330952],"type":"Point"}
+  "bbox": [
+    -72.049614,
+    45.330952,
+    -72.049614,
+    45.330952
+],
+  "geometry": {"coordinates":[-72.04961400000001,45.330952],"type":"Point"}
 }

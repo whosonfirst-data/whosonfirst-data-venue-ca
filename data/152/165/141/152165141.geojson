@@ -2,13 +2,14 @@
   "id": 152165141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.806305,45.533035,-73.806305,45.533035",
     "geom:latitude":45.533035,
     "geom:longitude":-73.806305,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"391 Rue Principale",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784909,
+        102191575,
         85633041,
-        85784909
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5a75f30271314ece1d0da241aaf41961",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784909,
+            "region_id":136251273,
             "venue_id":152165141
         }
     ],
     "wof:id":152165141,
-    "wof:lastmodified":1449048907,
+    "wof:lastmodified":1453936350,
     "wof:name":"Entreprise Robert Thibault",
     "wof:parent_id":85784909,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.806305,45.533035,-73.806305,45.533035],
-  "geometry": {"coordinates":[-73.806305,45.533035],"type":"Point"}
+  "bbox": [
+    -73.806305,
+    45.533035,
+    -73.806305,
+    45.533035
+],
+  "geometry": {"coordinates":[-73.80630499999999,45.533035],"type":"Point"}
 }

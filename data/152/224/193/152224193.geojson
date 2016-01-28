@@ -2,13 +2,14 @@
   "id": 152224193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.224159,43.13298,-79.224159,43.13298",
     "geom:latitude":43.13298,
     "geom:longitude":-79.224159,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"caf61f6e33f5b01e08155e965337f123",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":152224193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":152224193
         }
     ],
     "wof:id":152224193,
-    "wof:lastmodified":1449047676,
+    "wof:lastmodified":1453935403,
     "wof:name":"Bridge Centre of Niagara",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.224159,43.13298,-79.224159,43.13298],
+  "bbox": [
+    -79.224159,
+    43.13298,
+    -79.224159,
+    43.13298
+],
   "geometry": {"coordinates":[-79.224159,43.13298],"type":"Point"}
 }

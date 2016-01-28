@@ -2,13 +2,14 @@
   "id": 169433729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.606682,45.555691,-73.606682,45.555691",
     "geom:latitude":45.555691,
     "geom:longitude":-73.606682,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2500 Rue L.-O.-David",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ebef6314e00ab3c489d13d9702457a69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":169433729
         }
     ],
     "wof:id":169433729,
-    "wof:lastmodified":1449033064,
+    "wof:lastmodified":1453929184,
     "wof:name":"Art Creations Photo Video",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.606682,45.555691,-73.606682,45.555691],
-  "geometry": {"coordinates":[-73.606682,45.555691],"type":"Point"}
+  "bbox": [
+    -73.606682,
+    45.555691,
+    -73.606682,
+    45.555691
+],
+  "geometry": {"coordinates":[-73.60668200000001,45.555691],"type":"Point"}
 }

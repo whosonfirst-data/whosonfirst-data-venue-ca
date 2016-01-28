@@ -2,13 +2,14 @@
   "id": 203085381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.626411,45.591419,-73.626411,45.591419",
     "geom:latitude":45.591419,
     "geom:longitude":-73.626411,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4715 Rue Forest",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874395,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"a1237567ee545bccb9bc2b612fcb3770",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203085381
         }
     ],
     "wof:id":203085381,
-    "wof:lastmodified":1449025385,
+    "wof:lastmodified":1453927496,
     "wof:name":"Ma Ville Web",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "internet"
     ]
 },
-  "bbox": [-73.626411,45.591419,-73.626411,45.591419],
+  "bbox": [
+    -73.626411,
+    45.591419,
+    -73.626411,
+    45.591419
+],
   "geometry": {"coordinates":[-73.626411,45.591419],"type":"Point"}
 }

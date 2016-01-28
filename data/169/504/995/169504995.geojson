@@ -2,13 +2,14 @@
   "id": 169504995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.476151,45.43071,-73.476151,45.43071",
     "geom:latitude":45.43071,
     "geom:longitude":-73.476151,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9625 Rue Ignace",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85875775,
+        102191575,
         85633041,
-        85875775
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"04a3ab30306466c6ec0f00e88f9bcae5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85875775,
+            "region_id":136251273,
             "venue_id":169504995
         }
     ],
     "wof:id":169504995,
-    "wof:lastmodified":1449033273,
+    "wof:lastmodified":1453929382,
     "wof:name":"Delta Marketing",
     "wof:parent_id":85875775,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.476151,45.43071,-73.476151,45.43071],
+  "bbox": [
+    -73.476151,
+    45.43071,
+    -73.476151,
+    45.43071
+],
   "geometry": {"coordinates":[-73.476151,45.43071],"type":"Point"}
 }

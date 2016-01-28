@@ -2,13 +2,14 @@
   "id": 169307751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.560059,45.519028,-73.560059,45.519028",
     "geom:latitude":45.519028,
     "geom:longitude":-73.560059,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1699 Rue Amherst",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"36951988faf7903479eff14f3e3e444d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":169307751
         }
     ],
     "wof:id":169307751,
-    "wof:lastmodified":1449033545,
+    "wof:lastmodified":1453929651,
     "wof:name":"P C Mac Etc",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.560059,45.519028,-73.560059,45.519028],
+  "bbox": [
+    -73.560059,
+    45.519028,
+    -73.560059,
+    45.519028
+],
   "geometry": {"coordinates":[-73.560059,45.519028],"type":"Point"}
 }

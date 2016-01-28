@@ -2,13 +2,14 @@
   "id": 169481539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.481918,45.416946,-73.481918,45.416946",
     "geom:latitude":45.416946,
     "geom:longitude":-73.481918,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Av Ernest-Rochette",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875773,
+        102191575,
         85633041,
-        85875773
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"116408475f08043a488d08f4a58fedf2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875773,
+            "region_id":136251273,
             "venue_id":169481539
         }
     ],
     "wof:id":169481539,
-    "wof:lastmodified":1449035533,
+    "wof:lastmodified":1453931774,
     "wof:name":"Soins LA Providence Llc",
     "wof:parent_id":85875773,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.481918,45.416946,-73.481918,45.416946],
-  "geometry": {"coordinates":[-73.481918,45.416946],"type":"Point"}
+  "bbox": [
+    -73.481918,
+    45.416946,
+    -73.481918,
+    45.416946
+],
+  "geometry": {"coordinates":[-73.48191799999999,45.416946],"type":"Point"}
 }

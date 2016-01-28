@@ -2,13 +2,14 @@
   "id": 169262555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.186554,43.023384,-81.186554,43.023384",
     "geom:latitude":43.023384,
     "geom:longitude":-81.186554,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"147 Stronach Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "screen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jiMdnhguBfC2KD59sNlfR_43.023384_-81.186554@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"cd287d929ca5b73660bd6322521b507d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":169262555
+        }
+    ],
     "wof:id":169262555,
-    "wof:lastmodified":1449034730,
+    "wof:lastmodified":1453930942,
     "wof:name":"Sbr Printing Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.186554,43.023384,-81.186554,43.023384],
+  "bbox": [
+    -81.186554,
+    43.023384,
+    -81.186554,
+    43.023384
+],
   "geometry": {"coordinates":[-81.186554,43.023384],"type":"Point"}
 }

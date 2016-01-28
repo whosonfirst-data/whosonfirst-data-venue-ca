@@ -2,13 +2,14 @@
   "id": 152862109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.295914,45.443317,-73.295914,45.443317",
     "geom:latitude":45.443317,
     "geom:longitude":-73.295914,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1133 Rue Cartier",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895747,
+        102191575,
         85633041,
-        85895747
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7a1d7fc9e1d72c053939f9ca60576b31",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
+            "region_id":136251273,
             "venue_id":152862109
         }
     ],
     "wof:id":152862109,
-    "wof:lastmodified":1449049006,
+    "wof:lastmodified":1453936440,
     "wof:name":"Depanneur Cartier",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.295914,45.443317,-73.295914,45.443317],
+  "bbox": [
+    -73.295914,
+    45.443317,
+    -73.295914,
+    45.443317
+],
   "geometry": {"coordinates":[-73.295914,45.443317],"type":"Point"}
 }

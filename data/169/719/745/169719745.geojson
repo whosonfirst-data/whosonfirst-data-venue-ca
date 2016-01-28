@@ -2,13 +2,14 @@
   "id": 169719745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.12661,43.828281,-79.12661,43.828281",
     "geom:latitude":43.828281,
     "geom:longitude":-79.12661,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1807 Fernam St",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895621,
+        102191575,
         85633041,
-        85682057
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"c8745bf08c4a980cd98b5528ed59a808",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895621,
+            "region_id":85682057,
+            "venue_id":169719745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895621,
             "region_id":85682057,
             "venue_id":169719745
         }
     ],
     "wof:id":169719745,
-    "wof:lastmodified":1449033111,
+    "wof:lastmodified":1453929233,
     "wof:name":"Ashtae International",
     "wof:parent_id":85895621,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.12661,43.828281,-79.12661,43.828281],
+  "bbox": [
+    -79.12661,
+    43.828281,
+    -79.12661,
+    43.828281
+],
   "geometry": {"coordinates":[-79.12661,43.828281],"type":"Point"}
 }

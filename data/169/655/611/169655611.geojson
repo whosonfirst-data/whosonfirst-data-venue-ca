@@ -2,13 +2,14 @@
   "id": 169655611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.442505,50.705456,-120.442505,50.705456",
     "geom:latitude":50.705456,
     "geom:longitude":-120.442505,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3080 Airport Rd",
     "sg:city":"Kamloops",
     "sg:classifiers":[
@@ -24,6 +25,9 @@
     "sg:province":"BC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102555499,
+        85865045,
+        102191575,
         85633041,
         101741047,
         85682117
@@ -36,23 +40,29 @@
     "wof:geomhash":"3b6f0af230e7e6f5a2a0459150628728",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555499,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741047,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865045,
             "region_id":85682117,
             "venue_id":169655611
         }
     ],
     "wof:id":169655611,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1453930797,
     "wof:name":"BC Forests-Air Operations",
-    "wof:parent_id":-1,
+    "wof:parent_id":102555499,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.442505,50.705456,-120.442505,50.705456],
+  "bbox": [
+    -120.442505,
+    50.705456,
+    -120.442505,
+    50.705456
+],
   "geometry": {"coordinates":[-120.442505,50.705456],"type":"Point"}
 }

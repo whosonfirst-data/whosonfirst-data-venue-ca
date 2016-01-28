@@ -2,13 +2,14 @@
   "id": 153004615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616417,45.631294,-73.616417,45.631294",
     "geom:latitude":45.631294,
     "geom:longitude":-73.616417,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7095 Boul Gouin E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"76776bbc9342650459c873742d3bea05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":153004615
         }
     ],
     "wof:id":153004615,
-    "wof:lastmodified":1449040507,
+    "wof:lastmodified":1453932453,
     "wof:name":"Residence Cite Rive",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.616417,45.631294,-73.616417,45.631294],
+  "bbox": [
+    -73.616417,
+    45.631294,
+    -73.616417,
+    45.631294
+],
   "geometry": {"coordinates":[-73.616417,45.631294],"type":"Point"}
 }

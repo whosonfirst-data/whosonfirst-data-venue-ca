@@ -2,13 +2,14 @@
   "id": 202838063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.884979,43.892899,-78.884979,43.892899",
     "geom:latitude":43.892899,
     "geom:longitude":-78.884979,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"580 King St W",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875155,
+        102191575,
         85633041,
-        85682057
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"7ad3f65aa4ae17276a57453379ba5989",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875155,
+            "region_id":85682057,
+            "venue_id":202838063
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875155,
             "region_id":85682057,
             "venue_id":202838063
         }
     ],
     "wof:id":202838063,
-    "wof:lastmodified":1449060407,
+    "wof:lastmodified":1453937038,
     "wof:name":"Citifinancial",
     "wof:parent_id":85875155,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.884979,43.892899,-78.884979,43.892899],
+  "bbox": [
+    -78.884979,
+    43.892899,
+    -78.884979,
+    43.892899
+],
   "geometry": {"coordinates":[-78.884979,43.892899],"type":"Point"}
 }

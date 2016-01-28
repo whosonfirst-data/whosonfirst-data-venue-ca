@@ -2,13 +2,14 @@
   "id": 152828637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.446556,45.497559,-73.446556,45.497559",
     "geom:latitude":45.497559,
     "geom:longitude":-73.446556,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1288 Rue Soucy",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"0fe98eaae545431c0110dad8da04d53a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":152828637
         }
     ],
     "wof:id":152828637,
-    "wof:lastmodified":1449046643,
+    "wof:lastmodified":1453934606,
     "wof:name":"Demarreurs Rive-Sud Inc",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.446556,45.497559,-73.446556,45.497559],
+  "bbox": [
+    -73.446556,
+    45.497559,
+    -73.446556,
+    45.497559
+],
   "geometry": {"coordinates":[-73.446556,45.497559],"type":"Point"}
 }

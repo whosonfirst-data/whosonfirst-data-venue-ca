@@ -2,13 +2,14 @@
   "id": 153000731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39846,42.958996,-82.39846,42.958996",
     "geom:latitude":42.958996,
     "geom:longitude":-82.39846,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"231 Campbell St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875557,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"e4a7fdddc49d4dc0bffacdca0ce73aa7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875557,
+            "region_id":85682057,
+            "venue_id":153000731
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875557,
             "region_id":85682057,
             "venue_id":153000731
         }
     ],
     "wof:id":153000731,
-    "wof:lastmodified":1449040407,
+    "wof:lastmodified":1453932364,
     "wof:name":"St Germain Auto Body",
     "wof:parent_id":85875557,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.39846,42.958996,-82.39846,42.958996],
+  "bbox": [
+    -82.39846,
+    42.958996,
+    -82.39846,
+    42.958996
+],
   "geometry": {"coordinates":[-82.39846,42.958996],"type":"Point"}
 }

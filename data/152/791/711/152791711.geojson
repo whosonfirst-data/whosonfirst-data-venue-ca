@@ -2,13 +2,14 @@
   "id": 152791711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.98262,43.835426,-78.98262,43.835426",
     "geom:latitude":43.835426,
     "geom:longitude":-78.98262,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"62 Handley Cres",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895409,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"a36f3074a23e933eb2ea0ea33dc3daa0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":152791711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":152791711
         }
     ],
     "wof:id":152791711,
-    "wof:lastmodified":1449047845,
+    "wof:lastmodified":1453935538,
     "wof:name":"S Dennis Counselling & Cnsltng",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.98262,43.835426,-78.98262,43.835426],
+  "bbox": [
+    -78.98262,
+    43.835426,
+    -78.98262,
+    43.835426
+],
   "geometry": {"coordinates":[-78.98262,43.835426],"type":"Point"}
 }

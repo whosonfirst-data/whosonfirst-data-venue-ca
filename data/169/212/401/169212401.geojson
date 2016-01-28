@@ -2,13 +2,14 @@
   "id": 169212401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.621132,45.47649,-73.621132,45.47649",
     "geom:latitude":45.47649,
     "geom:longitude":-73.621132,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4242 Av Girouard",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871117,
+        102191575,
         85633041,
-        85871117
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"a2af582a9dddf947e829b05a0f7d37f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871117,
+            "region_id":136251273,
             "venue_id":169212401
         }
     ],
     "wof:id":169212401,
-    "wof:lastmodified":1449034823,
+    "wof:lastmodified":1453931056,
     "wof:name":"Thode, Diane",
     "wof:parent_id":85871117,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.621132,45.47649,-73.621132,45.47649],
+  "bbox": [
+    -73.621132,
+    45.47649,
+    -73.621132,
+    45.47649
+],
   "geometry": {"coordinates":[-73.621132,45.47649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202542577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.651299,45.580898,-73.651299,45.580898",
     "geom:latitude":45.580898,
     "geom:longitude":-73.651299,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2810 Boul Henri-Bourassa E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897499,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"b9f6cdb8f8de45cd44c28ab10c293dcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897499,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202542577
         }
     ],
     "wof:id":202542577,
-    "wof:lastmodified":1449062097,
+    "wof:lastmodified":1453937388,
     "wof:name":"Immeubles Excelsior",
     "wof:parent_id":85897499,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.651299,45.580898,-73.651299,45.580898],
-  "geometry": {"coordinates":[-73.651299,45.580898],"type":"Point"}
+  "bbox": [
+    -73.651299,
+    45.580898,
+    -73.651299,
+    45.580898
+],
+  "geometry": {"coordinates":[-73.65129899999999,45.580898],"type":"Point"}
 }

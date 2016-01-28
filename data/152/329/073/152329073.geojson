@@ -2,13 +2,14 @@
   "id": 152329073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.592743,45.55072,-73.592743,45.55072",
     "geom:latitude":45.55072,
     "geom:longitude":-73.592743,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"ff3a3d5c0966793490a762556e7ead30",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152329073
         }
     ],
     "wof:id":152329073,
-    "wof:lastmodified":1449045583,
+    "wof:lastmodified":1453933812,
     "wof:name":"Centre DE Loisirs L'Imaginaire",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.592743,45.55072,-73.592743,45.55072],
+  "bbox": [
+    -73.592743,
+    45.55072,
+    -73.592743,
+    45.55072
+],
   "geometry": {"coordinates":[-73.592743,45.55072],"type":"Point"}
 }

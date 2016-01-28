@@ -2,13 +2,14 @@
   "id": 169099459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.241463,46.849281,-71.241463,46.849281",
     "geom:latitude":46.849281,
     "geom:longitude":-71.241463,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"08b38ddd1382ebdb636b701d83af587e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169099459
         }
     ],
     "wof:id":169099459,
-    "wof:lastmodified":1449034832,
+    "wof:lastmodified":1453931068,
     "wof:name":"Groupe Negotel Inc",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.241463,46.849281,-71.241463,46.849281],
+  "bbox": [
+    -71.241463,
+    46.849281,
+    -71.241463,
+    46.849281
+],
   "geometry": {"coordinates":[-71.241463,46.849281],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169044767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.281723,45.306355,-73.281723,45.306355",
     "geom:latitude":45.306355,
     "geom:longitude":-73.281723,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"747 Rue Saint-Jacques",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f8f9550a7ac1adee1a1af34959d63926",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":169044767
         }
     ],
     "wof:id":169044767,
-    "wof:lastmodified":1449034403,
+    "wof:lastmodified":1453930585,
     "wof:name":"Clinique Dentaire Lacroix",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.281723,45.306355,-73.281723,45.306355],
+  "bbox": [
+    -73.281723,
+    45.306355,
+    -73.281723,
+    45.306355
+],
   "geometry": {"coordinates":[-73.281723,45.306355],"type":"Point"}
 }

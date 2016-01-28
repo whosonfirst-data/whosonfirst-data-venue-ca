@@ -2,13 +2,14 @@
   "id": 169036921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.115257,45.257832,-74.115257,45.257832",
     "geom:latitude":45.257832,
     "geom:longitude":-74.115257,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"21 Rue Victoria E",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"08202eb10804b72351a4d701b03f4f9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":169036921
         }
     ],
     "wof:id":169036921,
-    "wof:lastmodified":1449033423,
+    "wof:lastmodified":1453929530,
     "wof:name":"Salon DE L'Auto Victoria",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.115257,45.257832,-74.115257,45.257832],
+  "bbox": [
+    -74.115257,
+    45.257832,
+    -74.115257,
+    45.257832
+],
   "geometry": {"coordinates":[-74.115257,45.257832],"type":"Point"}
 }

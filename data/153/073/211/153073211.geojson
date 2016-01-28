@@ -2,13 +2,14 @@
   "id": 153073211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.623253,45.601448,-73.623253,45.601448",
     "geom:latitude":45.601448,
     "geom:longitude":-73.623253,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784809,
+        102191575,
         85633041,
-        85784809
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9f1aaf58bee9a82e1c770614128b76aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
+            "region_id":136251273,
             "venue_id":153073211
         }
     ],
     "wof:id":153073211,
-    "wof:lastmodified":1449040387,
+    "wof:lastmodified":1453932347,
     "wof:name":"Club Micro Ordinateur DE Mntrl",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.623253,45.601448,-73.623253,45.601448],
-  "geometry": {"coordinates":[-73.623253,45.601448],"type":"Point"}
+  "bbox": [
+    -73.623253,
+    45.601448,
+    -73.623253,
+    45.601448
+],
+  "geometry": {"coordinates":[-73.62325300000001,45.601448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152180009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.286942,45.446846,-73.286942,45.446846",
     "geom:latitude":45.446846,
     "geom:longitude":-73.286942,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Chambly",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895771,
+        102191575,
         85633041,
-        85895771
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"c888cec1a5afd7636d442065f4ce54a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895771,
+            "region_id":136251273,
             "venue_id":152180009
         }
     ],
     "wof:id":152180009,
-    "wof:lastmodified":1449044482,
+    "wof:lastmodified":1453932963,
     "wof:name":"Route 66 Jeans",
     "wof:parent_id":85895771,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.286942,45.446846,-73.286942,45.446846],
+  "bbox": [
+    -73.286942,
+    45.446846,
+    -73.286942,
+    45.446846
+],
   "geometry": {"coordinates":[-73.286942,45.446846],"type":"Point"}
 }

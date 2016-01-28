@@ -2,13 +2,14 @@
   "id": 203391847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.218071,46.818035,-71.218071,46.818035",
     "geom:latitude":46.818035,
     "geom:longitude":-71.218071,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"320 Rue Saint-Roch",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866509,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"6d1708ef6f1c22e61862ec1ab8157a30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203391847
         }
     ],
     "wof:id":203391847,
-    "wof:lastmodified":1449026184,
+    "wof:lastmodified":1453927634,
     "wof:name":"Imprimerie Ideale Inc",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "printer"
     ]
 },
-  "bbox": [-71.218071,46.818035,-71.218071,46.818035],
-  "geometry": {"coordinates":[-71.218071,46.818035],"type":"Point"}
+  "bbox": [
+    -71.218071,
+    46.818035,
+    -71.218071,
+    46.818035
+],
+  "geometry": {"coordinates":[-71.21807099999999,46.818035],"type":"Point"}
 }

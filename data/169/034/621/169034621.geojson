@@ -2,13 +2,14 @@
   "id": 169034621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.696236,44.366497,-79.696236,44.366497",
     "geom:latitude":44.366497,
     "geom:longitude":-79.696236,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"175 Essa Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "curling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875277,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20ViY1TpbGt8PD3oK8QoP0_44.366497_-79.696236@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"3b92fe5283adb4f122b0987c4b406353",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
+            "region_id":85682057,
+            "venue_id":169034621
+        }
+    ],
     "wof:id":169034621,
-    "wof:lastmodified":1449033045,
+    "wof:lastmodified":1453929172,
     "wof:name":"Barrie Curling Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.696236,44.366497,-79.696236,44.366497],
+  "bbox": [
+    -79.696236,
+    44.366497,
+    -79.696236,
+    44.366497
+],
   "geometry": {"coordinates":[-79.696236,44.366497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169306811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.730911,44.39349,-79.730911,44.39349",
     "geom:latitude":44.39349,
     "geom:longitude":-79.730911,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"119 Burns Cir",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MzAMbiNNQO4mYLtAcJyrr_44.393490_-79.730911@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f273d753525a68762cc9d89d26198900",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":169306811
+        }
+    ],
     "wof:id":169306811,
-    "wof:lastmodified":1449035808,
+    "wof:lastmodified":1453932094,
     "wof:name":"Boss Technologies",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.730911,44.39349,-79.730911,44.39349],
-  "geometry": {"coordinates":[-79.730911,44.39349],"type":"Point"}
+  "bbox": [
+    -79.730911,
+    44.39349,
+    -79.730911,
+    44.39349
+],
+  "geometry": {"coordinates":[-79.73091100000001,44.39349],"type":"Point"}
 }

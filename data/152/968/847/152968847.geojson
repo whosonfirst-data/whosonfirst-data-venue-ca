@@ -2,13 +2,14 @@
   "id": 152968847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.040108,43.86755,-79.040108,43.86755",
     "geom:latitude":43.86755,
     "geom:longitude":-79.040108,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"66 Tipton Cres",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895697,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c91e41845237406247ef1c9b9607e12d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895697,
+            "region_id":85682057,
+            "venue_id":152968847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895697,
             "region_id":85682057,
             "venue_id":152968847
         }
     ],
     "wof:id":152968847,
-    "wof:lastmodified":1449044589,
+    "wof:lastmodified":1453933050,
     "wof:name":"Homeworthy Products Ltd",
     "wof:parent_id":85895697,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.040108,43.86755,-79.040108,43.86755],
+  "bbox": [
+    -79.040108,
+    43.86755,
+    -79.040108,
+    43.86755
+],
   "geometry": {"coordinates":[-79.040108,43.86755],"type":"Point"}
 }

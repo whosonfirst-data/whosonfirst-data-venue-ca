@@ -2,13 +2,14 @@
   "id": 202389655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55439,45.512287,-73.55439,45.512287",
     "geom:latitude":45.512287,
     "geom:longitude":-73.55439,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,8 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866483,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,16 @@
     "wof:geomhash":"13cc3e1aa2f5cb4730ccac486cf19d5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202389655
         }
     ],
     "wof:id":202389655,
-    "wof:lastmodified":1449062151,
+    "wof:lastmodified":1453937401,
     "wof:name":"Paloma",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-73.55439,45.512287,-73.55439,45.512287],
+  "bbox": [
+    -73.55439,
+    45.512287,
+    -73.55439,
+    45.512287
+],
   "geometry": {"coordinates":[-73.55439,45.512287],"type":"Point"}
 }

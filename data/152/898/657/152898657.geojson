@@ -2,13 +2,14 @@
   "id": 152898657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.584778,49.164085,-122.584778,49.164085",
     "geom:latitude":49.164085,
     "geom:longitude":-122.584778,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8867 Glover Rd",
     "sg:city":"Langley",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894779,
-        85682117
+        102191575,
+        85633041,
+        101740805,
+        85682117,
+        101746133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"58fa853dffc9c629f20e55eb5d9e685a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740805,
+            "neighbourhood_id":85894779,
+            "region_id":85682117,
+            "venue_id":152898657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101746133,
             "neighbourhood_id":85894779,
             "region_id":85682117,
             "venue_id":152898657
         }
     ],
     "wof:id":152898657,
-    "wof:lastmodified":1449044188,
+    "wof:lastmodified":1453932742,
     "wof:name":"Roof Tech 2000 Consultants",
     "wof:parent_id":85894779,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.584778,49.164085,-122.584778,49.164085],
+  "bbox": [
+    -122.584778,
+    49.164085,
+    -122.584778,
+    49.164085
+],
   "geometry": {"coordinates":[-122.584778,49.164085],"type":"Point"}
 }

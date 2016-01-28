@@ -2,13 +2,14 @@
   "id": 169525115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.821739,45.511463,-73.821739,45.511463",
     "geom:latitude":45.511463,
     "geom:longitude":-73.821739,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11745 Rue Pavillon",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"0b3050c021234e6af8cd82a62d173b24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":169525115
         }
     ],
     "wof:id":169525115,
-    "wof:lastmodified":1449035272,
+    "wof:lastmodified":1453931473,
     "wof:name":"Espitech Products",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.821739,45.511463,-73.821739,45.511463],
-  "geometry": {"coordinates":[-73.821739,45.511463],"type":"Point"}
+  "bbox": [
+    -73.821739,
+    45.511463,
+    -73.821739,
+    45.511463
+],
+  "geometry": {"coordinates":[-73.82173899999999,45.511463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203187517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554359,45.51231,-73.554359,45.51231",
     "geom:latitude":45.51231,
     "geom:longitude":-73.554359,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6560 Av DE L'Esplanade",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866483,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"77d06518be5365f2a8c73f5c3965ae30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203187517
         }
     ],
     "wof:id":203187517,
-    "wof:lastmodified":1449025221,
+    "wof:lastmodified":1453927462,
     "wof:name":"Atelier Spartan 42",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.554359,45.51231,-73.554359,45.51231],
-  "geometry": {"coordinates":[-73.554359,45.51231],"type":"Point"}
+  "bbox": [
+    -73.554359,
+    45.51231,
+    -73.554359,
+    45.51231
+],
+  "geometry": {"coordinates":[-73.55435900000001,45.51231],"type":"Point"}
 }

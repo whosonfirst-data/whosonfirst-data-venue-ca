@@ -2,13 +2,14 @@
   "id": 152323889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.510788,45.501839,-73.510788,45.501839",
     "geom:latitude":45.501839,
     "geom:longitude":-73.510788,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"47 Rue Green",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"64104b462d2e7f597ee05ff10079e817",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":152323889
         }
     ],
     "wof:id":152323889,
-    "wof:lastmodified":1449044700,
+    "wof:lastmodified":1453933136,
     "wof:name":"Restaurant Primi Piatti Inc",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.510788,45.501839,-73.510788,45.501839],
-  "geometry": {"coordinates":[-73.510788,45.501839],"type":"Point"}
+  "bbox": [
+    -73.510788,
+    45.501839,
+    -73.510788,
+    45.501839
+],
+  "geometry": {"coordinates":[-73.51078800000001,45.501839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152758871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.744995,45.620331,-73.744995,45.620331",
     "geom:latitude":45.620331,
     "geom:longitude":-73.744995,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5037 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864417,
+        102191575,
         85633041,
-        85864417
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5633cb220d3c23938fde88a267fccd19",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
+            "region_id":136251273,
             "venue_id":152758871
         }
     ],
     "wof:id":152758871,
-    "wof:lastmodified":1449045700,
+    "wof:lastmodified":1453933895,
     "wof:name":"Salon D'Esthetique Celine",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.744995,45.620331,-73.744995,45.620331],
+  "bbox": [
+    -73.744995,
+    45.620331,
+    -73.744995,
+    45.620331
+],
   "geometry": {"coordinates":[-73.744995,45.620331],"type":"Point"}
 }

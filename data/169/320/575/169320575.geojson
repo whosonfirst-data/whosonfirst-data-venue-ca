@@ -2,13 +2,14 @@
   "id": 169320575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.917442,45.420506,-71.917442,45.420506",
     "geom:latitude":45.420506,
     "geom:longitude":-71.917442,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1445 Rue Malouin",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874189,
+        102191575,
         85633041,
-        85874189
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ec2a4750fc9b875006abe03c85bdc8f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874189,
+            "region_id":136251273,
             "venue_id":169320575
         }
     ],
     "wof:id":169320575,
-    "wof:lastmodified":1449033523,
+    "wof:lastmodified":1453929630,
     "wof:name":"Sanchapo Enr",
     "wof:parent_id":85874189,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.917442,45.420506,-71.917442,45.420506],
-  "geometry": {"coordinates":[-71.917442,45.420506],"type":"Point"}
+  "bbox": [
+    -71.917442,
+    45.420506,
+    -71.917442,
+    45.420506
+],
+  "geometry": {"coordinates":[-71.91744199999999,45.420506],"type":"Point"}
 }

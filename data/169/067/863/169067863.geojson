@@ -2,13 +2,14 @@
   "id": 169067863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.479836,45.497044,-73.479836,45.497044",
     "geom:latitude":45.497044,
     "geom:longitude":-73.479836,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2055 Boul Edouard",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897549,
+        102191575,
         85633041,
-        85897549
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"087bb88cc745f555c11cca72888c6e9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897549,
+            "region_id":136251273,
             "venue_id":169067863
         }
     ],
     "wof:id":169067863,
-    "wof:lastmodified":1449032895,
+    "wof:lastmodified":1453929017,
     "wof:name":"Folie Glacee",
     "wof:parent_id":85897549,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.479836,45.497044,-73.479836,45.497044],
-  "geometry": {"coordinates":[-73.479836,45.497044],"type":"Point"}
+  "bbox": [
+    -73.479836,
+    45.497044,
+    -73.479836,
+    45.497044
+],
+  "geometry": {"coordinates":[-73.47983600000001,45.497044],"type":"Point"}
 }

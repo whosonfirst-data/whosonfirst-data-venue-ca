@@ -2,13 +2,14 @@
   "id": 169239477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.478714,45.49757,-73.478714,45.49757",
     "geom:latitude":45.49757,
     "geom:longitude":-73.478714,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2022 Boul Edouard",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897549,
+        102191575,
         85633041,
-        85897549
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"058fcabf3728caa59a42794d5c52d622",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897549,
+            "region_id":136251273,
             "venue_id":169239477
         }
     ],
     "wof:id":169239477,
-    "wof:lastmodified":1449032985,
+    "wof:lastmodified":1453929115,
     "wof:name":"Philatelie Rd",
     "wof:parent_id":85897549,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.478714,45.49757,-73.478714,45.49757],
+  "bbox": [
+    -73.478714,
+    45.49757,
+    -73.478714,
+    45.49757
+],
   "geometry": {"coordinates":[-73.478714,45.49757],"type":"Point"}
 }

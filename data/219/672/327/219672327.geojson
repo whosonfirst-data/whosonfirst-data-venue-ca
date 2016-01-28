@@ -2,13 +2,14 @@
   "id": 219672327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.820145,43.682396,-79.820145,43.682396",
     "geom:latitude":43.682396,
     "geom:longitude":-79.820145,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"17 Clayborne Ave",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895069,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"2da109d4d35ad58807c852ccfcd1919d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895069,
+            "region_id":85682057,
+            "venue_id":219672327
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895069,
             "region_id":85682057,
             "venue_id":219672327
         }
     ],
     "wof:id":219672327,
-    "wof:lastmodified":1449070609,
+    "wof:lastmodified":1453937565,
     "wof:name":"Bits & Bob's",
     "wof:parent_id":85895069,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.820145,43.682396,-79.820145,43.682396],
+  "bbox": [
+    -79.820145,
+    43.682396,
+    -79.820145,
+    43.682396
+],
   "geometry": {"coordinates":[-79.820145,43.682396],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153050307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.495674,43.444401,-80.495674,43.444401",
     "geom:latitude":43.444401,
     "geom:longitude":-80.495674,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"19 Schneider Ave",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874957,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"627940abfebecbce86603e58325c34f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874957,
+            "region_id":85682057,
+            "venue_id":153050307
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874957,
             "region_id":85682057,
             "venue_id":153050307
         }
     ],
     "wof:id":153050307,
-    "wof:lastmodified":1449040623,
+    "wof:lastmodified":1453932553,
     "wof:name":"Anchor House",
     "wof:parent_id":85874957,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.495674,43.444401,-80.495674,43.444401],
-  "geometry": {"coordinates":[-80.495674,43.444401],"type":"Point"}
+  "bbox": [
+    -80.495674,
+    43.444401,
+    -80.495674,
+    43.444401
+],
+  "geometry": {"coordinates":[-80.49567399999999,43.444401],"type":"Point"}
 }

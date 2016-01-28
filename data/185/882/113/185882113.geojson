@@ -2,13 +2,14 @@
   "id": 185882113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.869942,43.525574,-79.869942,43.525574",
     "geom:latitude":43.525574,
     "geom:longitude":-79.869942,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"845 Main St E",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895175,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"a308f3ba8f0107763957b284c4cf3ae5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895175,
+            "region_id":85682057,
+            "venue_id":185882113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895175,
             "region_id":85682057,
             "venue_id":185882113
         }
     ],
     "wof:id":185882113,
-    "wof:lastmodified":1449006900,
+    "wof:lastmodified":1453927228,
     "wof:name":"Comfi Interiors",
     "wof:parent_id":85895175,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "rug"
     ]
 },
-  "bbox": [-79.869942,43.525574,-79.869942,43.525574],
-  "geometry": {"coordinates":[-79.869942,43.525574],"type":"Point"}
+  "bbox": [
+    -79.869942,
+    43.525574,
+    -79.869942,
+    43.525574
+],
+  "geometry": {"coordinates":[-79.86994199999999,43.525574],"type":"Point"}
 }

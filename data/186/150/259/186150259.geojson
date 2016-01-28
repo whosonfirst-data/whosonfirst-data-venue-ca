@@ -2,13 +2,14 @@
   "id": 186150259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.551003,45.523827,-73.551003,45.523827",
     "geom:latitude":45.523827,
     "geom:longitude":-73.551003,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1970 Rue Sainte-Catherine O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874353,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,16 @@
     "wof:geomhash":"767da9dff966ebc4c738e9051f0544ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186150259
         }
     ],
     "wof:id":186150259,
-    "wof:lastmodified":1449050290,
+    "wof:lastmodified":1453936487,
     "wof:name":"Echange Net",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -66,6 +69,11 @@
         "exchange"
     ]
 },
-  "bbox": [-73.551003,45.523827,-73.551003,45.523827],
-  "geometry": {"coordinates":[-73.551003,45.523827],"type":"Point"}
+  "bbox": [
+    -73.551003,
+    45.523827,
+    -73.551003,
+    45.523827
+],
+  "geometry": {"coordinates":[-73.55100299999999,45.523827],"type":"Point"}
 }

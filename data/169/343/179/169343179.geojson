@@ -2,13 +2,14 @@
   "id": 169343179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.682449,45.537842,-73.682449,45.537842",
     "geom:latitude":45.537842,
     "geom:longitude":-73.682449,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1665 Rue Defoy",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897495,
+        102191575,
         85633041,
-        85897495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"146d565ab9f07b8d6de0409c3f2c9533",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897495,
+            "region_id":136251273,
             "venue_id":169343179
         }
     ],
     "wof:id":169343179,
-    "wof:lastmodified":1449035026,
+    "wof:lastmodified":1453931241,
     "wof:name":"Constructions 81 Inc",
     "wof:parent_id":85897495,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.682449,45.537842,-73.682449,45.537842],
-  "geometry": {"coordinates":[-73.682449,45.537842],"type":"Point"}
+  "bbox": [
+    -73.682449,
+    45.537842,
+    -73.682449,
+    45.537842
+],
+  "geometry": {"coordinates":[-73.68244900000001,45.537842],"type":"Point"}
 }

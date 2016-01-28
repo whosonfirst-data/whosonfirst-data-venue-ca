@@ -2,13 +2,14 @@
   "id": 202878283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.583122,45.588089,-73.583122,45.588089",
     "geom:latitude":45.588089,
     "geom:longitude":-73.583122,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7749 Rue Valdombre",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784921,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"fb8ab4db62831f43e643ad9ba04062e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202878283
         }
     ],
     "wof:id":202878283,
-    "wof:lastmodified":1449061434,
+    "wof:lastmodified":1453937256,
     "wof:name":"Mayrand Limitee",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.583122,45.588089,-73.583122,45.588089],
+  "bbox": [
+    -73.583122,
+    45.588089,
+    -73.583122,
+    45.588089
+],
   "geometry": {"coordinates":[-73.583122,45.588089],"type":"Point"}
 }

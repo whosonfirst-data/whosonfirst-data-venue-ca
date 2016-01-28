@@ -2,13 +2,14 @@
   "id": 169384549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.714966,45.467758,-73.714966,45.467758",
     "geom:latitude":45.467758,
     "geom:longitude":-73.714966,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Lachine",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"4e6ddd69a3fe76dbf912dedc23432fbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":169384549
         }
     ],
     "wof:id":169384549,
-    "wof:lastmodified":1449033093,
+    "wof:lastmodified":1453929223,
     "wof:name":"Energizer Canada",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.714966,45.467758,-73.714966,45.467758],
+  "bbox": [
+    -73.714966,
+    45.467758,
+    -73.714966,
+    45.467758
+],
   "geometry": {"coordinates":[-73.714966,45.467758],"type":"Point"}
 }

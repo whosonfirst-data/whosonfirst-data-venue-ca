@@ -2,13 +2,14 @@
   "id": 168825551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.281952,46.805607,-71.281952,46.805607",
     "geom:latitude":46.805607,
     "geom:longitude":-71.281952,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1795 Boul Wilfrid-Hamel",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874719,
+        102191575,
         85633041,
-        85874719
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"b979ff1a630af71283f8f6fadffe7ce3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874719,
+            "region_id":136251273,
             "venue_id":168825551
         }
     ],
     "wof:id":168825551,
-    "wof:lastmodified":1449027788,
+    "wof:lastmodified":1453927802,
     "wof:name":"Centre Idem",
     "wof:parent_id":85874719,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.281952,46.805607,-71.281952,46.805607],
+  "bbox": [
+    -71.281952,
+    46.805607,
+    -71.281952,
+    46.805607
+],
   "geometry": {"coordinates":[-71.281952,46.805607],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169504093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.187912,43.001404,-81.187912,43.001404",
     "geom:latitude":43.001404,
     "geom:longitude":-81.187912,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1680 Dundas St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5W 3C7",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36aH1vUPoKTY9aGK9WhJCb_43.001404_-81.187912@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"43c9a34eab2f03455460313ded41e04a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":169504093
+        }
+    ],
     "wof:id":169504093,
-    "wof:lastmodified":1449033268,
+    "wof:lastmodified":1453929377,
     "wof:name":"Great Looks Unisex Hair Stylng",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.187912,43.001404,-81.187912,43.001404],
+  "bbox": [
+    -81.187912,
+    43.001404,
+    -81.187912,
+    43.001404
+],
   "geometry": {"coordinates":[-81.187912,43.001404],"type":"Point"}
 }

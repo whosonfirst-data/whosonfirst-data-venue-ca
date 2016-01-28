@@ -2,13 +2,14 @@
   "id": 152665365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658478,45.615677,-73.658478,45.615677",
     "geom:latitude":45.615677,
     "geom:longitude":-73.658478,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1218 Rue Tellier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875051,
+        102191575,
         85633041,
-        85875051
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3ef36cf1eb51022db1f8633f68e4a3f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875051,
+            "region_id":136251273,
             "venue_id":152665365
         }
     ],
     "wof:id":152665365,
-    "wof:lastmodified":1449045718,
+    "wof:lastmodified":1453933908,
     "wof:name":"Usinage Tourmill Inc",
     "wof:parent_id":85875051,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.658478,45.615677,-73.658478,45.615677],
+  "bbox": [
+    -73.658478,
+    45.615677,
+    -73.658478,
+    45.615677
+],
   "geometry": {"coordinates":[-73.658478,45.615677],"type":"Point"}
 }

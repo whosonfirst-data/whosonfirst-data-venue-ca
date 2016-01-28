@@ -2,13 +2,14 @@
   "id": 169322677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.245598,46.826534,-71.245598,46.826534",
     "geom:latitude":46.826534,
     "geom:longitude":-71.245598,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"250 Boul Wilfrid-Hamel",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864443,
+        102191575,
         85633041,
-        85864443
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"35bf66c9a8134c6402a0b20a44c8746f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864443,
+            "region_id":136251273,
             "venue_id":169322677
         }
     ],
     "wof:id":169322677,
-    "wof:lastmodified":1449032647,
+    "wof:lastmodified":1453928762,
     "wof:name":"Hippodrome DE Quebec",
     "wof:parent_id":85864443,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.245598,46.826534,-71.245598,46.826534],
+  "bbox": [
+    -71.245598,
+    46.826534,
+    -71.245598,
+    46.826534
+],
   "geometry": {"coordinates":[-71.245598,46.826534],"type":"Point"}
 }

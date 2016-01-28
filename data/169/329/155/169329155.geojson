@@ -2,13 +2,14 @@
   "id": 169329155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.019241,43.832123,-79.019241,43.832123",
     "geom:latitude":43.832123,
     "geom:longitude":-79.019241,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Ajax",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895635,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"89b789cef5100631633bb7fc458e1d37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":169329155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":169329155
         }
     ],
     "wof:id":169329155,
-    "wof:lastmodified":1449033602,
+    "wof:lastmodified":1453929727,
     "wof:name":"Cloveridge Unisex & Barber Shp",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.019241,43.832123,-79.019241,43.832123],
-  "geometry": {"coordinates":[-79.019241,43.832123],"type":"Point"}
+  "bbox": [
+    -79.019241,
+    43.832123,
+    -79.019241,
+    43.832123
+],
+  "geometry": {"coordinates":[-79.01924099999999,43.832123],"type":"Point"}
 }

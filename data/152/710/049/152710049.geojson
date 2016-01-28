@@ -2,13 +2,14 @@
   "id": 152710049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.199829,43.173111,-79.199829,43.173111",
     "geom:latitude":43.173111,
     "geom:longitude":-79.199829,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"117 Cushman Rd",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"19b337286aa4959ce9db6302137f5303",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152710049
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152710049
         }
     ],
     "wof:id":152710049,
-    "wof:lastmodified":1449044585,
+    "wof:lastmodified":1453933047,
     "wof:name":"Bicknell Racing Products",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.199829,43.173111,-79.199829,43.173111],
-  "geometry": {"coordinates":[-79.199829,43.173111],"type":"Point"}
+  "bbox": [
+    -79.199829,
+    43.173111,
+    -79.199829,
+    43.173111
+],
+  "geometry": {"coordinates":[-79.19982899999999,43.173111],"type":"Point"}
 }

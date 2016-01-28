@@ -2,13 +2,14 @@
   "id": 152804859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.587341,45.621109,-73.587341,45.621109",
     "geom:latitude":45.621109,
     "geom:longitude":-73.587341,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7600 Boul Henri-Bourassa E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"6938d513c64333ef073b7423203ff049",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":152804859
         }
     ],
     "wof:id":152804859,
-    "wof:lastmodified":1449047517,
+    "wof:lastmodified":1453935270,
     "wof:name":"Buffet Riviera Inc",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.587341,45.621109,-73.587341,45.621109],
+  "bbox": [
+    -73.587341,
+    45.621109,
+    -73.587341,
+    45.621109
+],
   "geometry": {"coordinates":[-73.587341,45.621109],"type":"Point"}
 }

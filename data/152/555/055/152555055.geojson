@@ -2,13 +2,14 @@
   "id": 152555055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.649017,45.574059,-73.649017,45.574059",
     "geom:latitude":45.574059,
     "geom:longitude":-73.649017,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2355 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897499,
+        102191575,
         85633041,
-        85897499
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7de3bc7beab4bacfd2ec179c8013c9d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897499,
+            "region_id":136251273,
             "venue_id":152555055
         }
     ],
     "wof:id":152555055,
-    "wof:lastmodified":1449048256,
+    "wof:lastmodified":1453935833,
     "wof:name":"Bibiane Boutique",
     "wof:parent_id":85897499,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.649017,45.574059,-73.649017,45.574059],
+  "bbox": [
+    -73.649017,
+    45.574059,
+    -73.649017,
+    45.574059
+],
   "geometry": {"coordinates":[-73.649017,45.574059],"type":"Point"}
 }

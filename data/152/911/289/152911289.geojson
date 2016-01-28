@@ -2,13 +2,14 @@
   "id": 152911289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.700096,45.537235,-73.700096,45.537235",
     "geom:latitude":45.537235,
     "geom:longitude":-73.700096,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2858 Rue DE Salaberry",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897495,
+        102191575,
         85633041,
-        85897495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a5428d458ca3dc46bcdb2670259c3597",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897495,
+            "region_id":136251273,
             "venue_id":152911289
         }
     ],
     "wof:id":152911289,
-    "wof:lastmodified":1449048161,
+    "wof:lastmodified":1453935767,
     "wof:name":"Boutique Vizual",
     "wof:parent_id":85897495,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.700096,45.537235,-73.700096,45.537235],
+  "bbox": [
+    -73.700096,
+    45.537235,
+    -73.700096,
+    45.537235
+],
   "geometry": {"coordinates":[-73.700096,45.537235],"type":"Point"}
 }

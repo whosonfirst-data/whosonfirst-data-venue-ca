@@ -2,13 +2,14 @@
   "id": 152935257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.840118,45.469002,-73.840118,45.469002",
     "geom:latitude":45.469002,
     "geom:longitude":-73.840118,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"481 Rue Devon",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85897519,
+        102191575,
         85633041,
-        85897519
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"2d3b4fbd0472c93760651fc5058f5d53",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85897519,
+            "region_id":136251273,
             "venue_id":152935257
         }
     ],
     "wof:id":152935257,
-    "wof:lastmodified":1449048087,
+    "wof:lastmodified":1453935712,
     "wof:name":"Phenix Communication Graphique",
     "wof:parent_id":85897519,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.840118,45.469002,-73.840118,45.469002],
+  "bbox": [
+    -73.840118,
+    45.469002,
+    -73.840118,
+    45.469002
+],
   "geometry": {"coordinates":[-73.840118,45.469002],"type":"Point"}
 }

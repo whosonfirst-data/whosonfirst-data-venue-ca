@@ -2,13 +2,14 @@
   "id": 152996623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.404846,45.566212,-73.404846,45.566212",
     "geom:latitude":45.566212,
     "geom:longitude":-73.404846,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1601 Boul DE Montarville",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875755,
+        102191575,
         85633041,
-        85875755
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"078e99f4d8b539d541f0aec5d5f6a749",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875755,
+            "region_id":136251273,
             "venue_id":152996623
         }
     ],
     "wof:id":152996623,
-    "wof:lastmodified":1449045535,
+    "wof:lastmodified":1453933773,
     "wof:name":"Sani Sports Inc",
     "wof:parent_id":85875755,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.404846,45.566212,-73.404846,45.566212],
-  "geometry": {"coordinates":[-73.404846,45.566212],"type":"Point"}
+  "bbox": [
+    -73.404846,
+    45.566212,
+    -73.404846,
+    45.566212
+],
+  "geometry": {"coordinates":[-73.40484600000001,45.566212],"type":"Point"}
 }

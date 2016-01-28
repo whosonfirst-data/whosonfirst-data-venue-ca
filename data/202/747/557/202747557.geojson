@@ -2,13 +2,14 @@
   "id": 202747557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.421669,43.80743,-79.421669,43.80743",
     "geom:latitude":43.80743,
     "geom:longitude":-79.421669,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8 Clark Ave",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895535,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"fdef91875e8d2d520a74133cec04dec5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895535,
+            "region_id":85682057,
+            "venue_id":202747557
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895535,
             "region_id":85682057,
             "venue_id":202747557
         }
     ],
     "wof:id":202747557,
-    "wof:lastmodified":1449060567,
+    "wof:lastmodified":1453937070,
     "wof:name":"Supreme Collision Ctr",
     "wof:parent_id":85895535,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "painting"
     ]
 },
-  "bbox": [-79.421669,43.80743,-79.421669,43.80743],
-  "geometry": {"coordinates":[-79.421669,43.80743],"type":"Point"}
+  "bbox": [
+    -79.421669,
+    43.80743,
+    -79.421669,
+    43.80743
+],
+  "geometry": {"coordinates":[-79.42166899999999,43.80743],"type":"Point"}
 }

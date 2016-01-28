@@ -2,13 +2,14 @@
   "id": 202920243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.565567,45.515129,-73.565567,45.515129",
     "geom:latitude":45.515129,
     "geom:longitude":-73.565567,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"323 Rue Ontario E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866487,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"84d1b3e47e2bfb17b0588a827af2a14e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202920243
         }
     ],
     "wof:id":202920243,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1453937385,
     "wof:name":"Marche Clandestin",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.565567,45.515129,-73.565567,45.515129],
+  "bbox": [
+    -73.565567,
+    45.515129,
+    -73.565567,
+    45.515129
+],
   "geometry": {"coordinates":[-73.565567,45.515129],"type":"Point"}
 }

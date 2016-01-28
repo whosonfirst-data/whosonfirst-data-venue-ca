@@ -2,13 +2,14 @@
   "id": 152838643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554672,45.522472,-73.554672,45.522472",
     "geom:latitude":45.522472,
     "geom:longitude":-73.554672,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"04f2351b66a320ad5f7043bf3f51d5d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":152838643
         }
     ],
     "wof:id":152838643,
-    "wof:lastmodified":1449044868,
+    "wof:lastmodified":1453933264,
     "wof:name":"Agence L'Eden",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.554672,45.522472,-73.554672,45.522472],
+  "bbox": [
+    -73.554672,
+    45.522472,
+    -73.554672,
+    45.522472
+],
   "geometry": {"coordinates":[-73.554672,45.522472],"type":"Point"}
 }

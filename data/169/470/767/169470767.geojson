@@ -2,13 +2,14 @@
   "id": 169470767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.754303,43.560093,-79.754303,43.560093",
     "geom:latitude":43.560093,
     "geom:longitude":-79.754303,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3737 Britannia Rd W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894973,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"7ea659a5c1713eb53de0c8b4662ba186",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894973,
+            "region_id":85682057,
+            "venue_id":169470767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894973,
             "region_id":85682057,
             "venue_id":169470767
         }
     ],
     "wof:id":169470767,
-    "wof:lastmodified":1449033488,
+    "wof:lastmodified":1453929598,
     "wof:name":"Dennis A Hawman Insurance Ltd",
     "wof:parent_id":85894973,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.754303,43.560093,-79.754303,43.560093],
-  "geometry": {"coordinates":[-79.754303,43.560093],"type":"Point"}
+  "bbox": [
+    -79.754303,
+    43.560093,
+    -79.754303,
+    43.560093
+],
+  "geometry": {"coordinates":[-79.75430299999999,43.560093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169373075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.73896,45.498253,-73.73896,45.498253",
     "geom:latitude":45.498253,
     "geom:longitude":-73.73896,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4700 Ch Du Bois-Franc",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7d565bd3d1bbce023617b4adaff87f88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":169373075
         }
     ],
     "wof:id":169373075,
-    "wof:lastmodified":1449034392,
+    "wof:lastmodified":1453930566,
     "wof:name":"Vimetal Peckover",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.73896,45.498253,-73.73896,45.498253],
-  "geometry": {"coordinates":[-73.73896,45.498253],"type":"Point"}
+  "bbox": [
+    -73.73896,
+    45.498253,
+    -73.73896,
+    45.498253
+],
+  "geometry": {"coordinates":[-73.73896000000001,45.498253],"type":"Point"}
 }

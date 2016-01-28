@@ -2,13 +2,14 @@
   "id": 152645597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.776978,43.59938,-79.776978,43.59938",
     "geom:latitude":43.59938,
     "geom:longitude":-79.776978,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2900 Argentia Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895103,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"0c99277f8991cc1b80f0885025a0d23d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895103,
+            "region_id":85682057,
+            "venue_id":152645597
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895103,
             "region_id":85682057,
             "venue_id":152645597
         }
     ],
     "wof:id":152645597,
-    "wof:lastmodified":1449044773,
+    "wof:lastmodified":1453933193,
     "wof:name":"Dance Pac",
     "wof:parent_id":85895103,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.776978,43.59938,-79.776978,43.59938],
+  "bbox": [
+    -79.776978,
+    43.59938,
+    -79.776978,
+    43.59938
+],
   "geometry": {"coordinates":[-79.776978,43.59938],"type":"Point"}
 }

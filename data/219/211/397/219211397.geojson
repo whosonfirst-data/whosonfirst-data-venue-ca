@@ -2,13 +2,14 @@
   "id": 219211397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.765167,43.379898,-79.765167,43.379898",
     "geom:latitude":43.379898,
     "geom:longitude":-79.765167,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5109 Harvester Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895545,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"095158764ecbad82c96d4d49ac6158cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895545,
+            "region_id":85682057,
+            "venue_id":219211397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895545,
             "region_id":85682057,
             "venue_id":219211397
         }
     ],
     "wof:id":219211397,
-    "wof:lastmodified":1449071266,
+    "wof:lastmodified":1453937660,
     "wof:name":"Virtual Impact Inc",
     "wof:parent_id":85895545,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.765167,43.379898,-79.765167,43.379898],
-  "geometry": {"coordinates":[-79.765167,43.379898],"type":"Point"}
+  "bbox": [
+    -79.765167,
+    43.379898,
+    -79.765167,
+    43.379898
+],
+  "geometry": {"coordinates":[-79.76516700000001,43.379898],"type":"Point"}
 }

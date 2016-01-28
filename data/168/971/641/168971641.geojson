@@ -2,13 +2,14 @@
   "id": 168971641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.77272,43.385239,-79.77272,43.385239",
     "geom:latitude":43.385239,
     "geom:longitude":-79.77272,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5060 Benson Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895545,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"e0e38959606db4478966132ff70ebaf5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895545,
+            "region_id":85682057,
+            "venue_id":168971641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895545,
             "region_id":85682057,
             "venue_id":168971641
         }
     ],
     "wof:id":168971641,
-    "wof:lastmodified":1449028167,
+    "wof:lastmodified":1453928225,
     "wof:name":"Scarborough Transport Refrgrtn",
     "wof:parent_id":85895545,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.77272,43.385239,-79.77272,43.385239],
-  "geometry": {"coordinates":[-79.77272,43.385239],"type":"Point"}
+  "bbox": [
+    -79.77272,
+    43.385239,
+    -79.77272,
+    43.385239
+],
+  "geometry": {"coordinates":[-79.77272000000001,43.385239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169762667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.782585,43.356445,-79.782585,43.356445",
     "geom:latitude":43.356445,
     "geom:longitude":-79.782585,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3440 Fairview St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -31,8 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895369,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,24 @@
     "wof:geomhash":"7e4ef9ee7c2dec5cc1bc71fc661768f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895369,
+            "region_id":85682057,
+            "venue_id":169762667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895369,
             "region_id":85682057,
             "venue_id":169762667
         }
     ],
     "wof:id":169762667,
-    "wof:lastmodified":1449035006,
+    "wof:lastmodified":1453931221,
     "wof:name":"Broom's Air Conditioning",
     "wof:parent_id":85895369,
     "wof:placetype":"venue",
@@ -64,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.782585,43.356445,-79.782585,43.356445],
+  "bbox": [
+    -79.782585,
+    43.356445,
+    -79.782585,
+    43.356445
+],
   "geometry": {"coordinates":[-79.782585,43.356445],"type":"Point"}
 }

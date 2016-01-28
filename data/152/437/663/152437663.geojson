@@ -2,13 +2,14 @@
   "id": 152437663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.305588,43.820808,-79.305588,43.820808",
     "geom:latitude":43.820808,
     "geom:longitude":-79.305588,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3487 Kennedy Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895023,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e1f68719ea329aa3a633ad6def7fc0bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":152437663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":152437663
         }
     ],
     "wof:id":152437663,
-    "wof:lastmodified":1449047642,
+    "wof:lastmodified":1453935376,
     "wof:name":"Gloucester Bakery Inc",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.305588,43.820808,-79.305588,43.820808],
+  "bbox": [
+    -79.305588,
+    43.820808,
+    -79.305588,
+    43.820808
+],
   "geometry": {"coordinates":[-79.305588,43.820808],"type":"Point"}
 }

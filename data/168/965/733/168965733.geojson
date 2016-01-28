@@ -2,13 +2,14 @@
   "id": 168965733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.583908,45.625961,-73.583908,45.625961",
     "geom:latitude":45.625961,
     "geom:longitude":-73.583908,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7985 Av Marco-Polo",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4b9afe43a696ec7809d437bef7307618",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":168965733
         }
     ],
     "wof:id":168965733,
-    "wof:lastmodified":1449028309,
+    "wof:lastmodified":1453928379,
     "wof:name":"Resto Pub Marco Polo",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.583908,45.625961,-73.583908,45.625961],
-  "geometry": {"coordinates":[-73.583908,45.625961],"type":"Point"}
+  "bbox": [
+    -73.583908,
+    45.625961,
+    -73.583908,
+    45.625961
+],
+  "geometry": {"coordinates":[-73.58390799999999,45.625961],"type":"Point"}
 }

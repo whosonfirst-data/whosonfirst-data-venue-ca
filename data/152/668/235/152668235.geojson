@@ -2,13 +2,14 @@
   "id": 152668235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.289536,42.948803,-81.289536,42.948803",
     "geom:latitude":42.948803,
     "geom:longitude":-81.289536,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -26,23 +27,43 @@
         "analysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864623,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wUHq6KXUOJMuoJslTRqxT_42.948803_-81.289536@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"79670d42fa812b00b9d4d2b487bddc54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864623,
+            "region_id":85682057,
+            "venue_id":152668235
+        }
+    ],
     "wof:id":152668235,
-    "wof:lastmodified":1449047519,
+    "wof:lastmodified":1453935272,
     "wof:name":"Stacmarc Research",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.289536,42.948803,-81.289536,42.948803],
+  "bbox": [
+    -81.289536,
+    42.948803,
+    -81.289536,
+    42.948803
+],
   "geometry": {"coordinates":[-81.289536,42.948803],"type":"Point"}
 }

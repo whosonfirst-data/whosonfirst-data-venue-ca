@@ -2,13 +2,14 @@
   "id": 169396413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.578056,43.775768,-79.578056,43.775768",
     "geom:latitude":43.775768,
     "geom:longitude":-79.578056,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"117 Timber Lane",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"dfbec9587c9f2204d390ea733145fa14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":169396413
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":169396413
         }
     ],
     "wof:id":169396413,
-    "wof:lastmodified":1449034853,
+    "wof:lastmodified":1453931079,
     "wof:name":"North America Painting Ltd",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.578056,43.775768,-79.578056,43.775768],
+  "bbox": [
+    -79.578056,
+    43.775768,
+    -79.578056,
+    43.775768
+],
   "geometry": {"coordinates":[-79.578056,43.775768],"type":"Point"}
 }

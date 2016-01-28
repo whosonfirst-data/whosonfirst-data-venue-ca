@@ -2,13 +2,14 @@
   "id": 202960983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.877235,45.408215,-71.877235,45.408215",
     "geom:latitude":45.408215,
     "geom:longitude":-71.877235,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"565 Rue King E",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874189,
+        102191575,
         85633041,
-        101738289
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"744ea129236e21a8578785a5d7c1f921",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874189,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202960983
         }
     ],
     "wof:id":202960983,
-    "wof:lastmodified":1449061923,
+    "wof:lastmodified":1453937353,
     "wof:name":"Aisance Mode",
     "wof:parent_id":85874189,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "alteration"
     ]
 },
-  "bbox": [-71.877235,45.408215,-71.877235,45.408215],
+  "bbox": [
+    -71.877235,
+    45.408215,
+    -71.877235,
+    45.408215
+],
   "geometry": {"coordinates":[-71.877235,45.408215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152653543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.890656,45.402264,-71.890656,45.402264",
     "geom:latitude":45.402264,
     "geom:longitude":-71.890656,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"54 Rue Wellington N",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874135,
+        102191575,
         85633041,
-        85874135
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c5aa740ccb00f617c736baa7c909d809",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874135,
+            "region_id":136251273,
             "venue_id":152653543
         }
     ],
     "wof:id":152653543,
-    "wof:lastmodified":1449044635,
+    "wof:lastmodified":1453933086,
     "wof:name":"Club DE Boxe DE Sherbrooke Inc",
     "wof:parent_id":85874135,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.890656,45.402264,-71.890656,45.402264],
-  "geometry": {"coordinates":[-71.890656,45.402264],"type":"Point"}
+  "bbox": [
+    -71.890656,
+    45.402264,
+    -71.890656,
+    45.402264
+],
+  "geometry": {"coordinates":[-71.89065600000001,45.402264],"type":"Point"}
 }

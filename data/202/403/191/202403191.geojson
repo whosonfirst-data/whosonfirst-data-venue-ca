@@ -2,13 +2,14 @@
   "id": 202403191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.432426,45.674866,-73.432426,45.674866",
     "geom:latitude":45.674866,
     "geom:longitude":-73.432426,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Varennes",
     "sg:classifiers":[
         {
@@ -27,8 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895719,
+        102191575,
         85633041,
-        101738581
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,16 @@
     "wof:geomhash":"86ef3634d1fad6711cdf06beeab5047e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202403191
         }
     ],
     "wof:id":202403191,
-    "wof:lastmodified":1449062295,
+    "wof:lastmodified":1453937431,
     "wof:name":"Lessard & Assoc",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.432426,45.674866,-73.432426,45.674866],
-  "geometry": {"coordinates":[-73.432426,45.674866],"type":"Point"}
+  "bbox": [
+    -73.432426,
+    45.674866,
+    -73.432426,
+    45.674866
+],
+  "geometry": {"coordinates":[-73.43242600000001,45.674866],"type":"Point"}
 }

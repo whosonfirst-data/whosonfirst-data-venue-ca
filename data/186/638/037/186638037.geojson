@@ -2,13 +2,14 @@
   "id": 186638037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.504364,43.795845,-79.504364,43.795845",
     "geom:latitude":43.795845,
     "geom:longitude":-79.504364,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"250 Doney Cres",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895133,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"2e5370aba063627e92028a0288bed689",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":186638037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":186638037
         }
     ],
     "wof:id":186638037,
-    "wof:lastmodified":1449050416,
+    "wof:lastmodified":1453936511,
     "wof:name":"Brake Pro Ltd",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "brakes"
     ]
 },
-  "bbox": [-79.504364,43.795845,-79.504364,43.795845],
+  "bbox": [
+    -79.504364,
+    43.795845,
+    -79.504364,
+    43.795845
+],
   "geometry": {"coordinates":[-79.504364,43.795845],"type":"Point"}
 }

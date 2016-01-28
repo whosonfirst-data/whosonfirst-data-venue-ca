@@ -2,13 +2,14 @@
   "id": 169337849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.611649,45.525215,-73.611649,45.525215",
     "geom:latitude":45.525215,
     "geom:longitude":-73.611649,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784831,
+        102191575,
         85633041,
-        85784831
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"c5863159cc40154f3c04b02b4964fd55",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
+            "region_id":136251273,
             "venue_id":169337849
         }
     ],
     "wof:id":169337849,
-    "wof:lastmodified":1449034223,
+    "wof:lastmodified":1453930413,
     "wof:name":"Casavant Sculpture Scenique",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.611649,45.525215,-73.611649,45.525215],
+  "bbox": [
+    -73.611649,
+    45.525215,
+    -73.611649,
+    45.525215
+],
   "geometry": {"coordinates":[-73.611649,45.525215],"type":"Point"}
 }

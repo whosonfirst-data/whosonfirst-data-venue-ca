@@ -2,13 +2,14 @@
   "id": 152228837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.189186,43.027317,-81.189186,43.027317",
     "geom:latitude":43.027317,
     "geom:longitude":-81.189186,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1881 Huron St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "finisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A3m0QVEmMwCMfFLAYS7RF_43.027317_-81.189186@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"cca658046c923e8e18b2c342b5b641c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":152228837
+        }
+    ],
     "wof:id":152228837,
-    "wof:lastmodified":1449045748,
+    "wof:lastmodified":1453933931,
     "wof:name":"Militex Coatings Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.189186,43.027317,-81.189186,43.027317],
-  "geometry": {"coordinates":[-81.189186,43.027317],"type":"Point"}
+  "bbox": [
+    -81.189186,
+    43.027317,
+    -81.189186,
+    43.027317
+],
+  "geometry": {"coordinates":[-81.18918600000001,43.027317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219515443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.875122,43.918636,-78.875122,43.918636",
     "geom:latitude":43.918636,
     "geom:longitude":-78.875122,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"812 Hortop St",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875153,
+        102191575,
         85633041,
-        85682057
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"35ff5333d505041b1690481db59d19db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875153,
+            "region_id":85682057,
+            "venue_id":219515443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875153,
             "region_id":85682057,
             "venue_id":219515443
         }
     ],
     "wof:id":219515443,
-    "wof:lastmodified":1449071214,
+    "wof:lastmodified":1453937653,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85875153,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "church"
     ]
 },
-  "bbox": [-78.875122,43.918636,-78.875122,43.918636],
+  "bbox": [
+    -78.875122,
+    43.918636,
+    -78.875122,
+    43.918636
+],
   "geometry": {"coordinates":[-78.875122,43.918636],"type":"Point"}
 }

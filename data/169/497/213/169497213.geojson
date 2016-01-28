@@ -2,13 +2,14 @@
   "id": 169497213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.448441,43.469151,-80.448441,43.469151",
     "geom:latitude":43.469151,
     "geom:longitude":-80.448441,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1283 Victoria St N",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874981,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a9cf255290cca429e9aa2a4a74919382",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874981,
+            "region_id":85682057,
+            "venue_id":169497213
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874981,
             "region_id":85682057,
             "venue_id":169497213
         }
     ],
     "wof:id":169497213,
-    "wof:lastmodified":1449035917,
+    "wof:lastmodified":1453932208,
     "wof:name":"Hopewell Heights Ltd",
     "wof:parent_id":85874981,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.448441,43.469151,-80.448441,43.469151],
+  "bbox": [
+    -80.448441,
+    43.469151,
+    -80.448441,
+    43.469151
+],
   "geometry": {"coordinates":[-80.448441,43.469151],"type":"Point"}
 }

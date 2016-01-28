@@ -2,13 +2,14 @@
   "id": 169728677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.478172,45.501122,-73.478172,45.501122",
     "geom:latitude":45.501122,
     "geom:longitude":-73.478172,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1793 Boul Marie",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897549,
+        102191575,
         85633041,
-        101738793
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"c1a3f6a4220ab232a990da960f1eae11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897549,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169728677
         }
     ],
     "wof:id":169728677,
-    "wof:lastmodified":1449033460,
+    "wof:lastmodified":1453929575,
     "wof:name":"Transport Mpj",
     "wof:parent_id":85897549,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.478172,45.501122,-73.478172,45.501122],
+  "bbox": [
+    -73.478172,
+    45.501122,
+    -73.478172,
+    45.501122
+],
   "geometry": {"coordinates":[-73.478172,45.501122],"type":"Point"}
 }

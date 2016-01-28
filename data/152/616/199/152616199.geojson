@@ -2,13 +2,14 @@
   "id": 152616199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.516357,43.43586,-80.516357,43.43586",
     "geom:latitude":43.43586,
     "geom:longitude":-80.516357,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Highland Cres #1010",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864645,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"b4551cf533ee0cf3e23561b5a63f186a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864645,
+            "region_id":85682057,
+            "venue_id":152616199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864645,
             "region_id":85682057,
             "venue_id":152616199
         }
     ],
     "wof:id":152616199,
-    "wof:lastmodified":1449047697,
+    "wof:lastmodified":1453935420,
     "wof:name":"Kitchener Baptist Church",
     "wof:parent_id":85864645,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.516357,43.43586,-80.516357,43.43586],
+  "bbox": [
+    -80.516357,
+    43.43586,
+    -80.516357,
+    43.43586
+],
   "geometry": {"coordinates":[-80.516357,43.43586],"type":"Point"}
 }

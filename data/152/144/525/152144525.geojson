@@ -2,13 +2,14 @@
   "id": 152144525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.739708,43.688156,-79.739708,43.688156",
     "geom:latitude":43.688156,
     "geom:longitude":-79.739708,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7 Research Rd",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b907e818ec251f5cc02bc99399c2082d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152144525
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152144525
         }
     ],
     "wof:id":152144525,
-    "wof:lastmodified":1449047685,
+    "wof:lastmodified":1453935411,
     "wof:name":"Sterne Medical Equipment",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.739708,43.688156,-79.739708,43.688156],
-  "geometry": {"coordinates":[-79.739708,43.688156],"type":"Point"}
+  "bbox": [
+    -79.739708,
+    43.688156,
+    -79.739708,
+    43.688156
+],
+  "geometry": {"coordinates":[-79.73970799999999,43.688156],"type":"Point"}
 }

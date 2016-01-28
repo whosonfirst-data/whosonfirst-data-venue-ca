@@ -2,13 +2,14 @@
   "id": 169295395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.225754,43.161785,-79.225754,43.161785",
     "geom:latitude":43.161785,
     "geom:longitude":-79.225754,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"200 Queenston St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"0d92b0028a208244208c7ab3caf39200",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":169295395
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":169295395
         }
     ],
     "wof:id":169295395,
-    "wof:lastmodified":1449034021,
+    "wof:lastmodified":1453930188,
     "wof:name":"Wayside Transition House",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.225754,43.161785,-79.225754,43.161785],
-  "geometry": {"coordinates":[-79.225754,43.161785],"type":"Point"}
+  "bbox": [
+    -79.225754,
+    43.161785,
+    -79.225754,
+    43.161785
+],
+  "geometry": {"coordinates":[-79.22575399999999,43.161785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152817049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.377632,43.860542,-79.377632,43.860542",
     "geom:latitude":43.860542,
     "geom:longitude":-79.377632,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"60 Leek Cres",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895249,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"aa16e01f3f9934fe41f0c116006f22ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895249,
+            "region_id":85682057,
+            "venue_id":152817049
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895249,
             "region_id":85682057,
             "venue_id":152817049
         }
     ],
     "wof:id":152817049,
-    "wof:lastmodified":1449048016,
+    "wof:lastmodified":1453935666,
     "wof:name":"Handleman CO of Canada Ltd",
     "wof:parent_id":85895249,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.377632,43.860542,-79.377632,43.860542],
-  "geometry": {"coordinates":[-79.377632,43.860542],"type":"Point"}
+  "bbox": [
+    -79.377632,
+    43.860542,
+    -79.377632,
+    43.860542
+],
+  "geometry": {"coordinates":[-79.37763200000001,43.860542],"type":"Point"}
 }

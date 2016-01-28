@@ -2,13 +2,14 @@
   "id": 169360079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.73317,45.437069,-75.73317,45.437069",
     "geom:latitude":45.437069,
     "geom:longitude":-75.73317,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"259 Boul Saint-Joseph # 310",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3253348e8f5db8709d65f49b6bd752ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":169360079
         }
     ],
     "wof:id":169360079,
-    "wof:lastmodified":1449035208,
+    "wof:lastmodified":1453931406,
     "wof:name":"Federation Des Travailleurs",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.73317,45.437069,-75.73317,45.437069],
+  "bbox": [
+    -75.73317,
+    45.437069,
+    -75.73317,
+    45.437069
+],
   "geometry": {"coordinates":[-75.73317,45.437069],"type":"Point"}
 }

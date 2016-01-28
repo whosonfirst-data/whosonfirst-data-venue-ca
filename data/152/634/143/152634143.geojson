@@ -2,13 +2,14 @@
   "id": 152634143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.433311,45.664845,-73.433311,45.664845",
     "geom:latitude":45.664845,
     "geom:longitude":-73.433311,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Varennes",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738581,
+        85895719,
+        102191575,
         85633041,
-        85895719
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"1cd72abdbd6fe5475cc5a825c34c55c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
+            "region_id":136251273,
             "venue_id":152634143
         }
     ],
     "wof:id":152634143,
-    "wof:lastmodified":1449046518,
+    "wof:lastmodified":1453934514,
     "wof:name":"Biarritz Groupe",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.433311,45.664845,-73.433311,45.664845],
+  "bbox": [
+    -73.433311,
+    45.664845,
+    -73.433311,
+    45.664845
+],
   "geometry": {"coordinates":[-73.433311,45.664845],"type":"Point"}
 }

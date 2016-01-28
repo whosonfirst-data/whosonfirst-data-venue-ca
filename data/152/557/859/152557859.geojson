@@ -2,13 +2,14 @@
   "id": 152557859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.800507,43.320831,-79.800507,43.320831",
     "geom:latitude":43.320831,
     "geom:longitude":-79.800507,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1333 Lakeshore Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895035,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"d506ce849b8138df7f8731767d65b4e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895035,
+            "region_id":85682057,
+            "venue_id":152557859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895035,
             "region_id":85682057,
             "venue_id":152557859
         }
     ],
     "wof:id":152557859,
-    "wof:lastmodified":1449047598,
+    "wof:lastmodified":1453935343,
     "wof:name":"Burlington Art Ctr",
     "wof:parent_id":85895035,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.800507,43.320831,-79.800507,43.320831],
+  "bbox": [
+    -79.800507,
+    43.320831,
+    -79.800507,
+    43.320831
+],
   "geometry": {"coordinates":[-79.800507,43.320831],"type":"Point"}
 }

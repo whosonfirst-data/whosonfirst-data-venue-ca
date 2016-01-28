@@ -2,13 +2,14 @@
   "id": 168996239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.096512,43.849251,-79.096512,43.849251",
     "geom:latitude":43.849251,
     "geom:longitude":-79.096512,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2091 Liverpool Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895619,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"4f9fb642be4ff4791e2a14b81daeafd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895619,
+            "region_id":85682057,
+            "venue_id":168996239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895619,
             "region_id":85682057,
             "venue_id":168996239
         }
     ],
     "wof:id":168996239,
-    "wof:lastmodified":1449027973,
+    "wof:lastmodified":1453928010,
     "wof:name":"Expressway Electric Ltd",
     "wof:parent_id":85895619,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.096512,43.849251,-79.096512,43.849251],
+  "bbox": [
+    -79.096512,
+    43.849251,
+    -79.096512,
+    43.849251
+],
   "geometry": {"coordinates":[-79.096512,43.849251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203165319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.334663,42.960182,-81.334663,42.960182",
     "geom:latitude":42.960182,
     "geom:longitude":-81.334663,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -26,7 +27,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85864513,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -37,18 +41,18 @@
     "wof:geomhash":"123fbd12cd7694b61f3c29255e953100",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85864513,
             "region_id":85682057,
             "venue_id":203165319
         }
     ],
     "wof:id":203165319,
-    "wof:lastmodified":1449026867,
+    "wof:lastmodified":1453927759,
     "wof:name":"Etax",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864513,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -56,6 +60,11 @@
         "consultant"
     ]
 },
-  "bbox": [-81.334663,42.960182,-81.334663,42.960182],
-  "geometry": {"coordinates":[-81.334663,42.960182],"type":"Point"}
+  "bbox": [
+    -81.334663,
+    42.960182,
+    -81.334663,
+    42.960182
+],
+  "geometry": {"coordinates":[-81.33466300000001,42.960182],"type":"Point"}
 }

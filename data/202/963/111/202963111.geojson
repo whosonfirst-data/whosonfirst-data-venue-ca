@@ -2,13 +2,14 @@
   "id": 202963111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.606415,43.689533,-79.606415,43.689533",
     "geom:latitude":43.689533,
     "geom:longitude":-79.606415,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3290 Caroga Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,7 +29,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102555091,
         85866433,
+        102191575,
         85633041,
         101735835,
         85682057
@@ -41,7 +44,8 @@
     "wof:geomhash":"1e7d7988c28f2ec5c3bd8578d8ddc874",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85866433,
@@ -50,9 +54,9 @@
         }
     ],
     "wof:id":202963111,
-    "wof:lastmodified":1449060360,
+    "wof:lastmodified":1453937027,
     "wof:name":"American Racing Equipment Inc",
-    "wof:parent_id":85866433,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.606415,43.689533,-79.606415,43.689533],
+  "bbox": [
+    -79.606415,
+    43.689533,
+    -79.606415,
+    43.689533
+],
   "geometry": {"coordinates":[-79.606415,43.689533],"type":"Point"}
 }

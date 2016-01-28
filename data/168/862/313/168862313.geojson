@@ -2,13 +2,14 @@
   "id": 168862313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.902573,45.537575,-73.902573,45.537575",
     "geom:latitude":45.537575,
     "geom:longitude":-73.902573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1806 Rue DE Normandie",
     "sg:city":"Deux-Montagnes",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784779,
+        102191575,
         85633041,
-        85784779
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3c0901d672833d6c1ee5117b7c55c26b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784779,
+            "region_id":136251273,
             "venue_id":168862313
         }
     ],
     "wof:id":168862313,
-    "wof:lastmodified":1449028617,
+    "wof:lastmodified":1453928714,
     "wof:name":"All Saints Anglican Church",
     "wof:parent_id":85784779,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.902573,45.537575,-73.902573,45.537575],
+  "bbox": [
+    -73.902573,
+    45.537575,
+    -73.902573,
+    45.537575
+],
   "geometry": {"coordinates":[-73.902573,45.537575],"type":"Point"}
 }

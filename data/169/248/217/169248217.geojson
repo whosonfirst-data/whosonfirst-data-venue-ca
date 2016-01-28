@@ -2,13 +2,14 @@
   "id": 169248217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.85125,45.350964,-71.85125,45.350964",
     "geom:latitude":45.350964,
     "geom:longitude":-71.85125,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"103 Rue Winder",
     "sg:city":"Lennoxville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85785017,
+        102191575,
         85633041,
-        85785017
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bf4a372736ecfe204ad45a0bf930d10c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85785017,
+            "region_id":136251273,
             "venue_id":169248217
         }
     ],
     "wof:id":169248217,
-    "wof:lastmodified":1449034504,
+    "wof:lastmodified":1453930694,
     "wof:name":"Garage Jb Laroche",
     "wof:parent_id":85785017,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.85125,45.350964,-71.85125,45.350964],
-  "geometry": {"coordinates":[-71.85125,45.350964],"type":"Point"}
+  "bbox": [
+    -71.85125,
+    45.350964,
+    -71.85125,
+    45.350964
+],
+  "geometry": {"coordinates":[-71.85124999999999,45.350964],"type":"Point"}
 }

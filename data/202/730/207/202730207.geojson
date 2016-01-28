@@ -2,13 +2,14 @@
   "id": 202730207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.677292,45.44276,-75.677292,45.44276",
     "geom:latitude":45.44276,
     "geom:longitude":-75.677292,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"124 Springfield Rd #104",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874503,
+        102191575,
         85633041,
-        101738041
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"c5cee10ac141ed5616ef2909140f7012",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202730207
         }
     ],
     "wof:id":202730207,
-    "wof:lastmodified":1449062255,
+    "wof:lastmodified":1453937421,
     "wof:name":"Phillip Mirsky Photography",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "photographer"
     ]
 },
-  "bbox": [-75.677292,45.44276,-75.677292,45.44276],
-  "geometry": {"coordinates":[-75.677292,45.44276],"type":"Point"}
+  "bbox": [
+    -75.677292,
+    45.44276,
+    -75.677292,
+    45.44276
+],
+  "geometry": {"coordinates":[-75.67729199999999,45.44276],"type":"Point"}
 }

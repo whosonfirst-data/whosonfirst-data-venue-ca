@@ -2,13 +2,14 @@
   "id": 169324795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619087,45.53484,-73.619087,45.53484",
     "geom:latitude":45.53484,
     "geom:longitude":-73.619087,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7250 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"fd55a916c0dec02c4ac23bac49c43629",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":169324795
         }
     ],
     "wof:id":169324795,
-    "wof:lastmodified":1449034614,
+    "wof:lastmodified":1453930819,
     "wof:name":"Fripe-Prix Renaissance Fripe",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.619087,45.53484,-73.619087,45.53484],
-  "geometry": {"coordinates":[-73.619087,45.53484],"type":"Point"}
+  "bbox": [
+    -73.619087,
+    45.53484,
+    -73.619087,
+    45.53484
+],
+  "geometry": {"coordinates":[-73.61908699999999,45.53484],"type":"Point"}
 }

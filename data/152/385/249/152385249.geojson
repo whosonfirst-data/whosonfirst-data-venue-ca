@@ -2,13 +2,14 @@
   "id": 152385249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.478508,45.411839,-73.478508,45.411839",
     "geom:latitude":45.411839,
     "geom:longitude":-73.478508,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1077 Ch DE Saint-Jean",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875773,
+        102191575,
         85633041,
-        85875773
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3624087b565d08d3aa25df0c09a4548a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875773,
+            "region_id":136251273,
             "venue_id":152385249
         }
     ],
     "wof:id":152385249,
-    "wof:lastmodified":1449047043,
+    "wof:lastmodified":1453934906,
     "wof:name":"Godin, Daniel DDS",
     "wof:parent_id":85875773,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.478508,45.411839,-73.478508,45.411839],
-  "geometry": {"coordinates":[-73.478508,45.411839],"type":"Point"}
+  "bbox": [
+    -73.478508,
+    45.411839,
+    -73.478508,
+    45.411839
+],
+  "geometry": {"coordinates":[-73.47850800000001,45.411839],"type":"Point"}
 }

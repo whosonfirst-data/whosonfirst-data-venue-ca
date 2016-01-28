@@ -2,13 +2,14 @@
   "id": 202484755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.530853,45.602993,-73.530853,45.602993",
     "geom:latitude":45.602993,
     "geom:longitude":-73.530853,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8590 Rue Sherbrooke E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895727,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"7df2d27293970c16e8c3f4a3627fa48b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202484755
         }
     ],
     "wof:id":202484755,
-    "wof:lastmodified":1449062499,
+    "wof:lastmodified":1453937476,
     "wof:name":"Residence-Emeraudes Gboj",
     "wof:parent_id":85895727,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-73.530853,45.602993,-73.530853,45.602993],
-  "geometry": {"coordinates":[-73.530853,45.602993],"type":"Point"}
+  "bbox": [
+    -73.530853,
+    45.602993,
+    -73.530853,
+    45.602993
+],
+  "geometry": {"coordinates":[-73.53085299999999,45.602993],"type":"Point"}
 }

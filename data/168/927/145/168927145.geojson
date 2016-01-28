@@ -2,13 +2,14 @@
   "id": 168927145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625221,45.605137,-73.625221,45.605137",
     "geom:latitude":45.605137,
     "geom:longitude":-73.625221,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5367 Boul Henri-Bourassa E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784809,
+        102191575,
         85633041,
-        85784809
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"544c0b5d0328759c0ed5a4b86f82b70b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
+            "region_id":136251273,
             "venue_id":168927145
         }
     ],
     "wof:id":168927145,
-    "wof:lastmodified":1449028509,
+    "wof:lastmodified":1453928600,
     "wof:name":"Salon Robinat",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.625221,45.605137,-73.625221,45.605137],
+  "bbox": [
+    -73.625221,
+    45.605137,
+    -73.625221,
+    45.605137
+],
   "geometry": {"coordinates":[-73.625221,45.605137],"type":"Point"}
 }

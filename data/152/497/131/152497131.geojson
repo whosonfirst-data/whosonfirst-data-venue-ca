@@ -2,13 +2,14 @@
   "id": 152497131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.806641,45.47086,-73.806641,45.47086",
     "geom:latitude":45.47086,
     "geom:longitude":-73.806641,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"600 Av Delmar",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875789,
+        102191575,
         85633041,
-        85875789
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"37008705959803c334ab01cc81f90d0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875789,
+            "region_id":136251273,
             "venue_id":152497131
         }
     ],
     "wof:id":152497131,
-    "wof:lastmodified":1449048842,
+    "wof:lastmodified":1453936287,
     "wof:name":"Amplex Chemical Products Ltd",
     "wof:parent_id":85875789,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.806641,45.47086,-73.806641,45.47086],
+  "bbox": [
+    -73.806641,
+    45.47086,
+    -73.806641,
+    45.47086
+],
   "geometry": {"coordinates":[-73.806641,45.47086],"type":"Point"}
 }

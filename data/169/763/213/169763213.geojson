@@ -2,13 +2,14 @@
   "id": 169763213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.440758,45.571671,-73.440758,45.571671",
     "geom:latitude":45.571671,
     "geom:longitude":-73.440758,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1235 Rue Ampere",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875753,
+        102191575,
         85633041,
-        101738135
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"ea5f20fbf4d0bb9e35752715b3f304b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169763213
         }
     ],
     "wof:id":169763213,
-    "wof:lastmodified":1449035954,
+    "wof:lastmodified":1453932221,
     "wof:name":"Piscines Trevi Inc",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-73.440758,45.571671,-73.440758,45.571671],
+  "bbox": [
+    -73.440758,
+    45.571671,
+    -73.440758,
+    45.571671
+],
   "geometry": {"coordinates":[-73.440758,45.571671],"type":"Point"}
 }

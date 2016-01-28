@@ -2,13 +2,14 @@
   "id": 169305439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.571793,45.460838,-73.571793,45.460838",
     "geom:latitude":45.460838,
     "geom:longitude":-73.571793,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4335 Rue DE Verdun",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874363,
+        102191575,
         85633041,
-        85874363
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5ef699c362dcbfa287cec65e3bc83f44",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
+            "region_id":136251273,
             "venue_id":169305439
         }
     ],
     "wof:id":169305439,
-    "wof:lastmodified":1449033193,
+    "wof:lastmodified":1453929293,
     "wof:name":"Clinique DE Nutrition",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.571793,45.460838,-73.571793,45.460838],
+  "bbox": [
+    -73.571793,
+    45.460838,
+    -73.571793,
+    45.460838
+],
   "geometry": {"coordinates":[-73.571793,45.460838],"type":"Point"}
 }

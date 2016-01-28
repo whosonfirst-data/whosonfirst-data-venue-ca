@@ -2,13 +2,14 @@
   "id": 185707489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55732,45.500393,-73.55732,45.500393",
     "geom:latitude":45.500393,
     "geom:longitude":-73.55732,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -24,8 +25,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866469,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,16 +38,16 @@
     "wof:geomhash":"b229042f0f3cf3dd3555dd412785e869",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866469,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185707489
         }
     ],
     "wof:id":185707489,
-    "wof:lastmodified":1449007981,
+    "wof:lastmodified":1453927366,
     "wof:name":"Communications Demo Inc",
     "wof:parent_id":85866469,
     "wof:placetype":"venue",
@@ -52,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.55732,45.500393,-73.55732,45.500393],
+  "bbox": [
+    -73.55732,
+    45.500393,
+    -73.55732,
+    45.500393
+],
   "geometry": {"coordinates":[-73.55732,45.500393],"type":"Point"}
 }

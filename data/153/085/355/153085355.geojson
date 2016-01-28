@@ -2,13 +2,14 @@
   "id": 153085355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.560181,45.514263,-73.560181,45.514263",
     "geom:latitude":45.514263,
     "geom:longitude":-73.560181,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"451 Rue Sainte-Catherine O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"a38239d4296c4e026e720b702b266016",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":153085355
         }
     ],
     "wof:id":153085355,
-    "wof:lastmodified":1449040455,
+    "wof:lastmodified":1453932406,
     "wof:name":"Monnaie Express",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.560181,45.514263,-73.560181,45.514263],
+  "bbox": [
+    -73.560181,
+    45.514263,
+    -73.560181,
+    45.514263
+],
   "geometry": {"coordinates":[-73.560181,45.514263],"type":"Point"}
 }

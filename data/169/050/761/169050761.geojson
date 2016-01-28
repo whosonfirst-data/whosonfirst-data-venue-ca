@@ -2,13 +2,14 @@
   "id": 169050761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.834785,43.882015,-78.834785,43.882015",
     "geom:latitude":43.882015,
     "geom:longitude":-78.834785,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"727 Wilson Rd S",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875151,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"772233c16badefbb3bb294edd26a084e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875151,
+            "region_id":85682057,
+            "venue_id":169050761
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875151,
             "region_id":85682057,
             "venue_id":169050761
         }
     ],
     "wof:id":169050761,
-    "wof:lastmodified":1449034513,
+    "wof:lastmodified":1453930700,
     "wof:name":"Jgs Marketing Svc Inc",
     "wof:parent_id":85875151,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.834785,43.882015,-78.834785,43.882015],
+  "bbox": [
+    -78.834785,
+    43.882015,
+    -78.834785,
+    43.882015
+],
   "geometry": {"coordinates":[-78.834785,43.882015],"type":"Point"}
 }

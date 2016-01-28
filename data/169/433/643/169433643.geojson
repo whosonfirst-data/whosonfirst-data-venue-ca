@@ -2,13 +2,14 @@
   "id": 169433643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.549057,43.766853,-79.549057,43.766853",
     "geom:latitude":43.766853,
     "geom:longitude":-79.549057,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"475 Garyray Dr",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"f53fb6d18f70e8b5967109ffd0532ca1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":169433643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":169433643
         }
     ],
     "wof:id":169433643,
-    "wof:lastmodified":1449033064,
+    "wof:lastmodified":1453929187,
     "wof:name":"Direct Home Upholstery Ltd",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.549057,43.766853,-79.549057,43.766853],
+  "bbox": [
+    -79.549057,
+    43.766853,
+    -79.549057,
+    43.766853
+],
   "geometry": {"coordinates":[-79.549057,43.766853],"type":"Point"}
 }

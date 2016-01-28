@@ -2,13 +2,14 @@
   "id": 169189805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688019,43.421665,-79.688019,43.421665",
     "geom:latitude":43.421665,
     "geom:longitude":-79.688019,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"198 Tilford Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895183,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"df47e2dedb209a418fa72494401077bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895183,
+            "region_id":85682057,
+            "venue_id":169189805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895183,
             "region_id":85682057,
             "venue_id":169189805
         }
     ],
     "wof:id":169189805,
-    "wof:lastmodified":1449035010,
+    "wof:lastmodified":1453931223,
     "wof:name":"Rae Appraisals & Consultants",
     "wof:parent_id":85895183,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688019,43.421665,-79.688019,43.421665],
+  "bbox": [
+    -79.688019,
+    43.421665,
+    -79.688019,
+    43.421665
+],
   "geometry": {"coordinates":[-79.688019,43.421665],"type":"Point"}
 }

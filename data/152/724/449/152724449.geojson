@@ -2,13 +2,14 @@
   "id": 152724449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.654221,43.647564,-79.654221,43.647564",
     "geom:latitude":43.647564,
     "geom:longitude":-79.654221,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5960 Shawson Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"36f4cb65f7a81296396de83cc0534308",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":152724449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":152724449
         }
     ],
     "wof:id":152724449,
-    "wof:lastmodified":1449048815,
+    "wof:lastmodified":1453936266,
     "wof:name":"Amtex Manufacturing Inc",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.654221,43.647564,-79.654221,43.647564],
-  "geometry": {"coordinates":[-79.654221,43.647564],"type":"Point"}
+  "bbox": [
+    -79.654221,
+    43.647564,
+    -79.654221,
+    43.647564
+],
+  "geometry": {"coordinates":[-79.65422100000001,43.647564],"type":"Point"}
 }

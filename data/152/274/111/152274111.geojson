@@ -2,13 +2,14 @@
   "id": 152274111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.364944,46.800938,-71.364944,46.800938",
     "geom:latitude":46.800938,
     "geom:longitude":-71.364944,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1654 Rue Alfred",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737245,
+        85874723,
+        102191575,
         85633041,
-        85874723
+        101737245,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bfaaf43b0645e91e16120a0411259bee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737245,
             "neighbourhood_id":85874723,
+            "region_id":136251273,
             "venue_id":152274111
         }
     ],
     "wof:id":152274111,
-    "wof:lastmodified":1449044873,
+    "wof:lastmodified":1453933268,
     "wof:name":"Services D Drolet",
     "wof:parent_id":85874723,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.364944,46.800938,-71.364944,46.800938],
-  "geometry": {"coordinates":[-71.364944,46.800938],"type":"Point"}
+  "bbox": [
+    -71.364944,
+    46.800938,
+    -71.364944,
+    46.800938
+],
+  "geometry": {"coordinates":[-71.36494399999999,46.800938],"type":"Point"}
 }

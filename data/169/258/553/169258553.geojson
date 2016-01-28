@@ -2,13 +2,14 @@
   "id": 169258553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.227196,46.81234,-71.227196,46.81234",
     "geom:latitude":46.81234,
     "geom:longitude":-71.227196,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866509,
+        102191575,
         85633041,
-        85866509
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"904c9099f421592a454f352db6178db7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
+            "region_id":136251273,
             "venue_id":169258553
         }
     ],
     "wof:id":169258553,
-    "wof:lastmodified":1449035280,
+    "wof:lastmodified":1453931483,
     "wof:name":"Grh Inc",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.227196,46.81234,-71.227196,46.81234],
-  "geometry": {"coordinates":[-71.227196,46.81234],"type":"Point"}
+  "bbox": [
+    -71.227196,
+    46.81234,
+    -71.227196,
+    46.81234
+],
+  "geometry": {"coordinates":[-71.22719600000001,46.81234],"type":"Point"}
 }

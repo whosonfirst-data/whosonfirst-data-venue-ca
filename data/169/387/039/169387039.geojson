@@ -2,13 +2,14 @@
   "id": 169387039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.587746,45.486485,-73.587746,45.486485",
     "geom:latitude":45.486485,
     "geom:longitude":-73.587746,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4185 Rue Sainte-Catherine O",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85897627,
+        102191575,
         85633041,
-        85897627
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3d7e65c6c2dfe9ce1a431c13633a15be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897627,
+            "region_id":136251273,
             "venue_id":169387039
         }
     ],
     "wof:id":169387039,
-    "wof:lastmodified":1449035517,
+    "wof:lastmodified":1453931758,
     "wof:name":"Purolator Courrier Ltee",
     "wof:parent_id":85897627,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.587746,45.486485,-73.587746,45.486485],
+  "bbox": [
+    -73.587746,
+    45.486485,
+    -73.587746,
+    45.486485
+],
   "geometry": {"coordinates":[-73.587746,45.486485],"type":"Point"}
 }

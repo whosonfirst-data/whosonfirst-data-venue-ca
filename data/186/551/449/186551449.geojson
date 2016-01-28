@@ -2,13 +2,14 @@
   "id": 186551449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616493,45.261234,-73.616493,45.261234",
     "geom:latitude":45.261234,
     "geom:longitude":-73.616493,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"170 Rue Saint-Viateur",
     "sg:city":"Saint-Remi",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897639,
+        102191575,
         85633041,
-        101738793
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"f348faba4b153c8af957f668bd6149e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186551449
         }
     ],
     "wof:id":186551449,
-    "wof:lastmodified":1449050945,
+    "wof:lastmodified":1453936569,
     "wof:name":"Centre Sportif Regional Inc",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "stadium"
     ]
 },
-  "bbox": [-73.616493,45.261234,-73.616493,45.261234],
-  "geometry": {"coordinates":[-73.616493,45.261234],"type":"Point"}
+  "bbox": [
+    -73.616493,
+    45.261234,
+    -73.616493,
+    45.261234
+],
+  "geometry": {"coordinates":[-73.61649300000001,45.261234],"type":"Point"}
 }

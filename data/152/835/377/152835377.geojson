@@ -2,13 +2,14 @@
   "id": 152835377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.479568,43.775551,-79.479568,43.775551",
     "geom:latitude":43.775551,
     "geom:longitude":-79.479568,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"835 Supertest Rd #200",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895133,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"35fe4a49a13b035b11b1ecdac3b58fb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":152835377
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":152835377
         }
     ],
     "wof:id":152835377,
-    "wof:lastmodified":1449044963,
+    "wof:lastmodified":1453933338,
     "wof:name":"Hollend Furnishings",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.479568,43.775551,-79.479568,43.775551],
+  "bbox": [
+    -79.479568,
+    43.775551,
+    -79.479568,
+    43.775551
+],
   "geometry": {"coordinates":[-79.479568,43.775551],"type":"Point"}
 }

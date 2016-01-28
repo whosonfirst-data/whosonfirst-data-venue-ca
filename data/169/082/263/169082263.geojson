@@ -2,13 +2,14 @@
   "id": 169082263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.640694,43.730328,-79.640694,43.730328",
     "geom:latitude":43.730328,
     "geom:longitude":-79.640694,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7572 Rockhill Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894971,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"6f1e7339764b5702831dba1f57dc7fd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894971,
+            "region_id":85682057,
+            "venue_id":169082263
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894971,
             "region_id":85682057,
             "venue_id":169082263
         }
     ],
     "wof:id":169082263,
-    "wof:lastmodified":1449032770,
+    "wof:lastmodified":1453928893,
     "wof:name":"Multiple Machinery Svc",
     "wof:parent_id":85894971,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.640694,43.730328,-79.640694,43.730328],
+  "bbox": [
+    -79.640694,
+    43.730328,
+    -79.640694,
+    43.730328
+],
   "geometry": {"coordinates":[-79.640694,43.730328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152566167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770157,43.394299,-79.770157,43.394299",
     "geom:latitude":43.394299,
     "geom:longitude":-79.770157,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1295 Sutton Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895671,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"70402a96d49f4468ba94e4091c7f28c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895671,
+            "region_id":85682057,
+            "venue_id":152566167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895671,
             "region_id":85682057,
             "venue_id":152566167
         }
     ],
     "wof:id":152566167,
-    "wof:lastmodified":1449044392,
+    "wof:lastmodified":1453932891,
     "wof:name":"Diamond Shipping Supplies Ltd",
     "wof:parent_id":85895671,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.770157,43.394299,-79.770157,43.394299],
+  "bbox": [
+    -79.770157,
+    43.394299,
+    -79.770157,
+    43.394299
+],
   "geometry": {"coordinates":[-79.770157,43.394299],"type":"Point"}
 }

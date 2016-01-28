@@ -2,13 +2,14 @@
   "id": 152353279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.712463,45.429016,-75.712463,45.429016",
     "geom:latitude":45.429016,
     "geom:longitude":-75.712463,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Rue Champlain",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"dc0389bb75383d71d9da1b2176ae4ea8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":152353279
         }
     ],
     "wof:id":152353279,
-    "wof:lastmodified":1449045631,
+    "wof:lastmodified":1453933844,
     "wof:name":"Landry, Pierre",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.712463,45.429016,-75.712463,45.429016],
+  "bbox": [
+    -75.712463,
+    45.429016,
+    -75.712463,
+    45.429016
+],
   "geometry": {"coordinates":[-75.712463,45.429016],"type":"Point"}
 }

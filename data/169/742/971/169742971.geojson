@@ -2,13 +2,14 @@
   "id": 169742971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.095078,43.835602,-79.095078,43.835602",
     "geom:latitude":43.835602,
     "geom:longitude":-79.095078,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1800 Bronte Sq",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895619,
+        102191575,
         85633041,
-        85682057
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"8507f58fa5fba0df215d79e424731816",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895619,
+            "region_id":85682057,
+            "venue_id":169742971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895619,
             "region_id":85682057,
             "venue_id":169742971
         }
     ],
     "wof:id":169742971,
-    "wof:lastmodified":1449032898,
+    "wof:lastmodified":1453929021,
     "wof:name":"Palanik Group Inc",
     "wof:parent_id":85895619,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-79.095078,43.835602,-79.095078,43.835602],
+  "bbox": [
+    -79.095078,
+    43.835602,
+    -79.095078,
+    43.835602
+],
   "geometry": {"coordinates":[-79.095078,43.835602],"type":"Point"}
 }

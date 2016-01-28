@@ -2,13 +2,14 @@
   "id": 152542117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.059631,48.436588,-71.059631,48.436588",
     "geom:latitude":48.436588,
     "geom:longitude":-71.059631,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"198 Rue Du Rocher",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2830c4f42a0d011504d7fff263123db3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152542117
         }
     ],
     "wof:id":152542117,
-    "wof:lastmodified":1449047885,
+    "wof:lastmodified":1453935573,
     "wof:name":"Constructions Claude Goulet",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.059631,48.436588,-71.059631,48.436588],
+  "bbox": [
+    -71.059631,
+    48.436588,
+    -71.059631,
+    48.436588
+],
   "geometry": {"coordinates":[-71.059631,48.436588],"type":"Point"}
 }

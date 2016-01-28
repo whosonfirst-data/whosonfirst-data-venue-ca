@@ -2,13 +2,14 @@
   "id": 169178831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616943,45.566044,-73.616943,45.566044",
     "geom:latitude":45.566044,
     "geom:longitude":-73.616943,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8478 10E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"0344b5d4919531bc4d3b70746fba480e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":169178831
         }
     ],
     "wof:id":169178831,
-    "wof:lastmodified":1449035053,
+    "wof:lastmodified":1453931277,
     "wof:name":"B & K",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.616943,45.566044,-73.616943,45.566044],
-  "geometry": {"coordinates":[-73.616943,45.566044],"type":"Point"}
+  "bbox": [
+    -73.616943,
+    45.566044,
+    -73.616943,
+    45.566044
+],
+  "geometry": {"coordinates":[-73.61694300000001,45.566044],"type":"Point"}
 }

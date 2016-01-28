@@ -2,13 +2,14 @@
   "id": 169323387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.60392,45.635674,-73.60392,45.635674",
     "geom:latitude":45.635674,
     "geom:longitude":-73.60392,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12535 Av Fernand-Gauthier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"dee31d76907053fb76a8e0ba94fe279d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":169323387
         }
     ],
     "wof:id":169323387,
-    "wof:lastmodified":1449032959,
+    "wof:lastmodified":1453929096,
     "wof:name":"Patisserie & Boulangerie",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.60392,45.635674,-73.60392,45.635674],
+  "bbox": [
+    -73.60392,
+    45.635674,
+    -73.60392,
+    45.635674
+],
   "geometry": {"coordinates":[-73.60392,45.635674],"type":"Point"}
 }

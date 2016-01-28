@@ -2,13 +2,14 @@
   "id": 203023165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.689278,43.712437,-79.689278,43.712437",
     "geom:latitude":43.712437,
     "geom:longitude":-79.689278,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 East Dr",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -31,8 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895633,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,24 @@
     "wof:geomhash":"97a5bf149400d63dbdff3292b6e05978",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":203023165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":203023165
         }
     ],
     "wof:id":203023165,
-    "wof:lastmodified":1449026688,
+    "wof:lastmodified":1453927726,
     "wof:name":"Aircraft Appliances & Equip",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -64,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.689278,43.712437,-79.689278,43.712437],
+  "bbox": [
+    -79.689278,
+    43.712437,
+    -79.689278,
+    43.712437
+],
   "geometry": {"coordinates":[-79.689278,43.712437],"type":"Point"}
 }

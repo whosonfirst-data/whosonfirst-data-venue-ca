@@ -2,13 +2,14 @@
   "id": 169312391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.366661,44.302338,-79.366661,44.302338",
     "geom:latitude":44.302338,
     "geom:longitude":-79.366661,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5189 Baseline Rd",
     "sg:city":"Sutton West",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895141,
         102191575,
         85633041,
-        85895141
+        101740741,
+        85682057,
+        101735969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101740741,
             "neighbourhood_id":85895141,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169312391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735969,
+            "neighbourhood_id":85895141,
+            "region_id":85682057,
             "venue_id":169312391
         }
     ],
     "wof:id":169312391,
-    "wof:lastmodified":1449034350,
+    "wof:lastmodified":1453930525,
     "wof:name":"Whipple Tree Antiques",
     "wof:parent_id":85895141,
     "wof:placetype":"venue",
@@ -57,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.366661,44.302338,-79.366661,44.302338],
-  "geometry": {"coordinates":[-79.366661,44.302338],"type":"Point"}
+  "bbox": [
+    -79.366661,
+    44.302338,
+    -79.366661,
+    44.302338
+],
+  "geometry": {"coordinates":[-79.36666099999999,44.302338],"type":"Point"}
 }

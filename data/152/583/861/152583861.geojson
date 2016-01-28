@@ -2,13 +2,14 @@
   "id": 152583861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.76239,45.586105,-73.76239,45.586105",
     "geom:latitude":45.586105,
     "geom:longitude":-73.76239,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2213 Rue Le Chatelier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897565,
+        102191575,
         85633041,
-        85897565
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"77a19f3a68b070d7b8ab6147c4477239",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897565,
+            "region_id":136251273,
             "venue_id":152583861
         }
     ],
     "wof:id":152583861,
-    "wof:lastmodified":1449047949,
+    "wof:lastmodified":1453935611,
     "wof:name":"Prolabec",
     "wof:parent_id":85897565,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.76239,45.586105,-73.76239,45.586105],
+  "bbox": [
+    -73.76239,
+    45.586105,
+    -73.76239,
+    45.586105
+],
   "geometry": {"coordinates":[-73.76239,45.586105],"type":"Point"}
 }

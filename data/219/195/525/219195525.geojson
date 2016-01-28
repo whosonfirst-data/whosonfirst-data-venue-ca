@@ -2,13 +2,14 @@
   "id": 219195525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.674011,45.552475,-73.674011,45.552475",
     "geom:latitude":45.552475,
     "geom:longitude":-73.674011,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"95 Boul Gouin E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864445,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"ec8b1ac5d2f60113e9548b51fc774d1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85864445,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219195525
         }
     ],
     "wof:id":219195525,
-    "wof:lastmodified":1449072705,
+    "wof:lastmodified":1453937858,
     "wof:name":"Vieux Manoir D'Ahuntsic",
     "wof:parent_id":85864445,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-73.674011,45.552475,-73.674011,45.552475],
-  "geometry": {"coordinates":[-73.674011,45.552475],"type":"Point"}
+  "bbox": [
+    -73.674011,
+    45.552475,
+    -73.674011,
+    45.552475
+],
+  "geometry": {"coordinates":[-73.67401099999999,45.552475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169357747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.199982,43.12339,-79.199982,43.12339",
     "geom:latitude":43.12339,
     "geom:longitude":-79.199982,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7 Clairmont St",
     "sg:city":"Thorold",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"0a3cc95e97d50a82db1bd2ad213ab5fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":169357747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":169357747
         }
     ],
     "wof:id":169357747,
-    "wof:lastmodified":1449035550,
+    "wof:lastmodified":1453931795,
     "wof:name":"Canadian Corps Assn Unit 44",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.199982,43.12339,-79.199982,43.12339],
-  "geometry": {"coordinates":[-79.199982,43.12339],"type":"Point"}
+  "bbox": [
+    -79.199982,
+    43.12339,
+    -79.199982,
+    43.12339
+],
+  "geometry": {"coordinates":[-79.19998200000001,43.12339],"type":"Point"}
 }

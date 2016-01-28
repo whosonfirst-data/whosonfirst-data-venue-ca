@@ -2,13 +2,14 @@
   "id": 202686113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.637039,43.709152,-79.637039,43.709152",
     "geom:latitude":43.709152,
     "geom:longitude":-79.637039,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3263 Derry Rd E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894971,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"55f730b6acb4ed421d1f1e1b0127eeb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894971,
+            "region_id":85682057,
+            "venue_id":202686113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894971,
             "region_id":85682057,
             "venue_id":202686113
         }
     ],
     "wof:id":202686113,
-    "wof:lastmodified":1449062040,
+    "wof:lastmodified":1453937377,
     "wof:name":"Benisasia Funeral Home Inc",
     "wof:parent_id":85894971,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "director"
     ]
 },
-  "bbox": [-79.637039,43.709152,-79.637039,43.709152],
+  "bbox": [
+    -79.637039,
+    43.709152,
+    -79.637039,
+    43.709152
+],
   "geometry": {"coordinates":[-79.637039,43.709152],"type":"Point"}
 }

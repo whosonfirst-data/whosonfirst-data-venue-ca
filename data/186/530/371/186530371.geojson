@@ -2,13 +2,14 @@
   "id": 186530371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.562561,45.50922,-73.562561,45.50922",
     "geom:latitude":45.50922,
     "geom:longitude":-73.562561,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1182 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866473,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"8d5f6723ff821835ecafe95b3c105b09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866473,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186530371
         }
     ],
     "wof:id":186530371,
-    "wof:lastmodified":1449051804,
+    "wof:lastmodified":1453936723,
     "wof:name":"Monument National",
     "wof:parent_id":85866473,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "cultural"
     ]
 },
-  "bbox": [-73.562561,45.50922,-73.562561,45.50922],
+  "bbox": [
+    -73.562561,
+    45.50922,
+    -73.562561,
+    45.50922
+],
   "geometry": {"coordinates":[-73.562561,45.50922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168883935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.580238,45.526638,-73.580238,45.526638",
     "geom:latitude":45.526638,
     "geom:longitude":-73.580238,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"920 Av Du Mont-Royal E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b336da24eb5e867928c9a4fc7f77238e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":168883935
         }
     ],
     "wof:id":168883935,
-    "wof:lastmodified":1449028395,
+    "wof:lastmodified":1453928473,
     "wof:name":"Miss Swiss",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.580238,45.526638,-73.580238,45.526638],
-  "geometry": {"coordinates":[-73.580238,45.526638],"type":"Point"}
+  "bbox": [
+    -73.580238,
+    45.526638,
+    -73.580238,
+    45.526638
+],
+  "geometry": {"coordinates":[-73.58023799999999,45.526638],"type":"Point"}
 }

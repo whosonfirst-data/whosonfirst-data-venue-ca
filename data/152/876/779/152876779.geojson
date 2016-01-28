@@ -2,13 +2,14 @@
   "id": 152876779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.854324,45.448349,-73.854324,45.448349",
     "geom:latitude":45.448349,
     "geom:longitude":-73.854324,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2971 Boul Saint-Charles",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736461,
+        85864411,
+        102191575,
         85633041,
-        85864411
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c6e8a8578759947ce7f7561a5b99c2cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85864411,
+            "region_id":136251273,
             "venue_id":152876779
         }
     ],
     "wof:id":152876779,
-    "wof:lastmodified":1449045235,
+    "wof:lastmodified":1453933537,
     "wof:name":"Metrakos, Stephanie MD",
     "wof:parent_id":85864411,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.854324,45.448349,-73.854324,45.448349],
-  "geometry": {"coordinates":[-73.854324,45.448349],"type":"Point"}
+  "bbox": [
+    -73.854324,
+    45.448349,
+    -73.854324,
+    45.448349
+],
+  "geometry": {"coordinates":[-73.85432400000001,45.448349],"type":"Point"}
 }

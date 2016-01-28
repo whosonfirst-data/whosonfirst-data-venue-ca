@@ -2,13 +2,14 @@
   "id": 203342863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.601402,45.478226,-73.601402,45.478226",
     "geom:latitude":45.478226,
     "geom:longitude":-73.601402,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"349 Av Victoria",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897627,
+        102191575,
         85633041,
-        101736451
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"f7e8f6507d264703c06aff6c71d9449e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897627,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203342863
         }
     ],
     "wof:id":203342863,
-    "wof:lastmodified":1449026740,
+    "wof:lastmodified":1453927738,
     "wof:name":"Hopital Veterinaire-Westmount",
     "wof:parent_id":85897627,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-73.601402,45.478226,-73.601402,45.478226],
-  "geometry": {"coordinates":[-73.601402,45.478226],"type":"Point"}
+  "bbox": [
+    -73.601402,
+    45.478226,
+    -73.601402,
+    45.478226
+],
+  "geometry": {"coordinates":[-73.60140199999999,45.478226],"type":"Point"}
 }

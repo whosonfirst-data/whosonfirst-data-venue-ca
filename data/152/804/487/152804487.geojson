@@ -2,13 +2,14 @@
   "id": 152804487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.548645,45.552219,-73.548645,45.552219",
     "geom:latitude":45.552219,
     "geom:longitude":-73.548645,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4059 Rue Hochelaga",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"8f7761b34cea278ed8110d5798b0589b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":152804487
         }
     ],
     "wof:id":152804487,
-    "wof:lastmodified":1449047516,
+    "wof:lastmodified":1453935269,
     "wof:name":"Expertise Rh Enr",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.548645,45.552219,-73.548645,45.552219],
-  "geometry": {"coordinates":[-73.548645,45.552219],"type":"Point"}
+  "bbox": [
+    -73.548645,
+    45.552219,
+    -73.548645,
+    45.552219
+],
+  "geometry": {"coordinates":[-73.54864499999999,45.552219],"type":"Point"}
 }

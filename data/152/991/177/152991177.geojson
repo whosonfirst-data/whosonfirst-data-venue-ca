@@ -2,13 +2,14 @@
   "id": 152991177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.394753,43.823853,-79.394753,43.823853",
     "geom:latitude":43.823853,
     "geom:longitude":-79.394753,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"17 Guardsman Rd",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895609,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"16517b657a3fb7161deef76a6f81d6f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895609,
+            "region_id":85682057,
+            "venue_id":152991177
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895609,
             "region_id":85682057,
             "venue_id":152991177
         }
     ],
     "wof:id":152991177,
-    "wof:lastmodified":1449045761,
+    "wof:lastmodified":1453933945,
     "wof:name":"Quantech Electrical Contrs Ltd",
     "wof:parent_id":85895609,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.394753,43.823853,-79.394753,43.823853],
-  "geometry": {"coordinates":[-79.394753,43.823853],"type":"Point"}
+  "bbox": [
+    -79.394753,
+    43.823853,
+    -79.394753,
+    43.823853
+],
+  "geometry": {"coordinates":[-79.39475299999999,43.823853],"type":"Point"}
 }

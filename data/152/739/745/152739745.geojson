@@ -2,13 +2,14 @@
   "id": 152739745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.227509,42.99017,-81.227509,42.99017",
     "geom:latitude":42.99017,
     "geom:longitude":-81.227509,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"728 Dundas St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "studio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10wueSrbdIP9YQGacdyY2l_42.990170_-81.227509@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"1ed067950eb38b8112bcc97fe21bef25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":152739745
+        }
+    ],
     "wof:id":152739745,
-    "wof:lastmodified":1449046264,
+    "wof:lastmodified":1453934317,
     "wof:name":"New Moon Studios",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.227509,42.99017,-81.227509,42.99017],
+  "bbox": [
+    -81.227509,
+    42.99017,
+    -81.227509,
+    42.99017
+],
   "geometry": {"coordinates":[-81.227509,42.99017],"type":"Point"}
 }

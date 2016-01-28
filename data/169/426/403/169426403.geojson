@@ -2,13 +2,14 @@
   "id": 169426403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.186905,46.809433,-71.186905,46.809433",
     "geom:latitude":46.809433,
     "geom:longitude":-71.186905,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5995 Rue Saint-Laurent",
     "sg:city":"Levis",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866517,
+        102191575,
         85633041,
-        85866517
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7f5ef18cc91f34c5868bbcf0fad20316",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
+            "region_id":136251273,
             "venue_id":169426403
         }
     ],
     "wof:id":169426403,
-    "wof:lastmodified":1449033390,
+    "wof:lastmodified":1453929494,
     "wof:name":"Cafe Pedalier",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.186905,46.809433,-71.186905,46.809433],
+  "bbox": [
+    -71.186905,
+    46.809433,
+    -71.186905,
+    46.809433
+],
   "geometry": {"coordinates":[-71.186905,46.809433],"type":"Point"}
 }

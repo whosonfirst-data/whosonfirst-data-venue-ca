@@ -2,13 +2,14 @@
   "id": 153016241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.246696,42.98193,-81.246696,42.98193",
     "geom:latitude":42.98193,
     "geom:longitude":-81.246696,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"216 York St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "night"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JjC7nRlez20l2KpaSYFGx_42.981930_-81.246696@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"677026e011caa379c28883debd8036f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":153016241
+        }
+    ],
     "wof:id":153016241,
-    "wof:lastmodified":1449040411,
+    "wof:lastmodified":1453932369,
     "wof:name":"Call the Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.246696,42.98193,-81.246696,42.98193],
+  "bbox": [
+    -81.246696,
+    42.98193,
+    -81.246696,
+    42.98193
+],
   "geometry": {"coordinates":[-81.246696,42.98193],"type":"Point"}
 }

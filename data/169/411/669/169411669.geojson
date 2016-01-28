@@ -2,13 +2,14 @@
   "id": 169411669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.253059,45.307835,-73.253059,45.307835",
     "geom:latitude":45.307835,
     "geom:longitude":-73.253059,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"87 Rue Saint-Charles",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85875681,
+        102191575,
         85633041,
-        85875681
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3fed46ea537e004fdb1918e0ade69d7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85875681,
+            "region_id":136251273,
             "venue_id":169411669
         }
     ],
     "wof:id":169411669,
-    "wof:lastmodified":1449032841,
+    "wof:lastmodified":1453928979,
     "wof:name":"Brault, Jean",
     "wof:parent_id":85875681,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.253059,45.307835,-73.253059,45.307835],
-  "geometry": {"coordinates":[-73.253059,45.307835],"type":"Point"}
+  "bbox": [
+    -73.253059,
+    45.307835,
+    -73.253059,
+    45.307835
+],
+  "geometry": {"coordinates":[-73.25305899999999,45.307835],"type":"Point"}
 }

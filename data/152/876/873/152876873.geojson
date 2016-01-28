@@ -2,13 +2,14 @@
   "id": 152876873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.407341,42.973225,-82.407341,42.973225",
     "geom:latitude":42.973225,
     "geom:longitude":-82.407341,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"157 Lochiel St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875555,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1384ae89af7aff1d9e8433a955bf8c58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875555,
+            "region_id":85682057,
+            "venue_id":152876873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875555,
             "region_id":85682057,
             "venue_id":152876873
         }
     ],
     "wof:id":152876873,
-    "wof:lastmodified":1449045235,
+    "wof:lastmodified":1453933537,
     "wof:name":"Tony Tailor",
     "wof:parent_id":85875555,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.407341,42.973225,-82.407341,42.973225],
+  "bbox": [
+    -82.407341,
+    42.973225,
+    -82.407341,
+    42.973225
+],
   "geometry": {"coordinates":[-82.407341,42.973225],"type":"Point"}
 }

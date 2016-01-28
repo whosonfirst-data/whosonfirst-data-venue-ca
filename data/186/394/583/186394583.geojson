@@ -2,13 +2,14 @@
   "id": 186394583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.610153,43.777721,-79.610153,43.777721",
     "geom:latitude":43.777721,
     "geom:longitude":-79.610153,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7784 Martin Grove Rd # 10",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895625,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"3606065d692662ad4742f9accac32e75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895625,
+            "region_id":85682057,
+            "venue_id":186394583
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895625,
             "region_id":85682057,
             "venue_id":186394583
         }
     ],
     "wof:id":186394583,
-    "wof:lastmodified":1449050928,
+    "wof:lastmodified":1453936566,
     "wof:name":"Keilhofer, Steven S T DDS",
     "wof:parent_id":85895625,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "dentist"
     ]
 },
-  "bbox": [-79.610153,43.777721,-79.610153,43.777721],
+  "bbox": [
+    -79.610153,
+    43.777721,
+    -79.610153,
+    43.777721
+],
   "geometry": {"coordinates":[-79.610153,43.777721],"type":"Point"}
 }

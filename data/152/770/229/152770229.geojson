@@ -2,13 +2,14 @@
   "id": 152770229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.694603,43.550667,-79.694603,43.550667",
     "geom:latitude":43.550667,
     "geom:longitude":-79.694603,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2512 Folkway Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5a866ebb99184707f9bb76e1609b8234",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152770229
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152770229
         }
     ],
     "wof:id":152770229,
-    "wof:lastmodified":1449048981,
+    "wof:lastmodified":1453936420,
     "wof:name":"Accendo Networks Inc",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.694603,43.550667,-79.694603,43.550667],
+  "bbox": [
+    -79.694603,
+    43.550667,
+    -79.694603,
+    43.550667
+],
   "geometry": {"coordinates":[-79.694603,43.550667],"type":"Point"}
 }

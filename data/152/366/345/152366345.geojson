@@ -2,13 +2,14 @@
   "id": 152366345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.561325,45.586704,-73.561325,45.586704",
     "geom:latitude":45.586704,
     "geom:longitude":-73.561325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6454 Rue Beaubien E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897591,
+        102191575,
         85633041,
-        85897591
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d1fb1b1b610dc9d205f19f9401be7377",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897591,
+            "region_id":136251273,
             "venue_id":152366345
         }
     ],
     "wof:id":152366345,
-    "wof:lastmodified":1449047674,
+    "wof:lastmodified":1453935402,
     "wof:name":"Guide Bleu DE LA Place Inc",
     "wof:parent_id":85897591,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.561325,45.586704,-73.561325,45.586704],
+  "bbox": [
+    -73.561325,
+    45.586704,
+    -73.561325,
+    45.586704
+],
   "geometry": {"coordinates":[-73.561325,45.586704],"type":"Point"}
 }

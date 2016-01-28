@@ -2,13 +2,14 @@
   "id": 152612165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.295746,43.827965,-79.295746,43.827965",
     "geom:latitude":43.827965,
     "geom:longitude":-79.295746,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Main St",
     "sg:city":"Unionville",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895663,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"a76f7fafdc16c93949325b47e4ba7a59",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895663,
+            "region_id":85682057,
+            "venue_id":152612165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895663,
             "region_id":85682057,
             "venue_id":152612165
         }
     ],
     "wof:id":152612165,
-    "wof:lastmodified":1449046357,
+    "wof:lastmodified":1453934392,
     "wof:name":"Durham Fence CO",
     "wof:parent_id":85895663,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.295746,43.827965,-79.295746,43.827965],
-  "geometry": {"coordinates":[-79.295746,43.827965],"type":"Point"}
+  "bbox": [
+    -79.295746,
+    43.827965,
+    -79.295746,
+    43.827965
+],
+  "geometry": {"coordinates":[-79.29574599999999,43.827965],"type":"Point"}
 }

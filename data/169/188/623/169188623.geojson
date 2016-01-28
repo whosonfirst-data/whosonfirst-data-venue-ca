@@ -2,13 +2,14 @@
   "id": 169188623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.879341,43.930508,-78.879341,43.930508",
     "geom:latitude":43.930508,
     "geom:longitude":-78.879341,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oshawa",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875145,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d40c7bdcb94d6e7b253c82940e6ff519",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875145,
+            "region_id":85682057,
+            "venue_id":169188623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875145,
             "region_id":85682057,
             "venue_id":169188623
         }
     ],
     "wof:id":169188623,
-    "wof:lastmodified":1449034324,
+    "wof:lastmodified":1453930498,
     "wof:name":"Durham Auto Works",
     "wof:parent_id":85875145,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.879341,43.930508,-78.879341,43.930508],
+  "bbox": [
+    -78.879341,
+    43.930508,
+    -78.879341,
+    43.930508
+],
   "geometry": {"coordinates":[-78.879341,43.930508],"type":"Point"}
 }

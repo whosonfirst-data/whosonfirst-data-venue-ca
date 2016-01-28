@@ -2,13 +2,14 @@
   "id": 169101915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.751617,45.447742,-73.751617,45.447742",
     "geom:latitude":45.447742,
     "geom:longitude":-73.751617,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"475 Av Dumont # 103",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85897651,
+        102191575,
         85633041,
-        85897651
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ca85c760ff0dba55bd5d49f1a3340cdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85897651,
+            "region_id":136251273,
             "venue_id":169101915
         }
     ],
     "wof:id":169101915,
-    "wof:lastmodified":1449034422,
+    "wof:lastmodified":1453930615,
     "wof:name":"Club Video 29 Cents",
     "wof:parent_id":85897651,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.751617,45.447742,-73.751617,45.447742],
+  "bbox": [
+    -73.751617,
+    45.447742,
+    -73.751617,
+    45.447742
+],
   "geometry": {"coordinates":[-73.751617,45.447742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169365133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.66468,43.575836,-79.66468,43.575836",
     "geom:latitude":43.575836,
     "geom:longitude":-79.66468,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4187 Perivale Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895473,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"0686a1f8b417a2de5f255762bf673423",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895473,
+            "region_id":85682057,
+            "venue_id":169365133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895473,
             "region_id":85682057,
             "venue_id":169365133
         }
     ],
     "wof:id":169365133,
-    "wof:lastmodified":1449033228,
+    "wof:lastmodified":1453929327,
     "wof:name":"Abc Refrigeration & Appl Svc",
     "wof:parent_id":85895473,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.66468,43.575836,-79.66468,43.575836],
+  "bbox": [
+    -79.66468,
+    43.575836,
+    -79.66468,
+    43.575836
+],
   "geometry": {"coordinates":[-79.66468,43.575836],"type":"Point"}
 }

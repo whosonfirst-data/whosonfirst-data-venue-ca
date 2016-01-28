@@ -2,13 +2,14 @@
   "id": 152394839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49408,43.451408,-80.49408,43.451408",
     "geom:latitude":43.451408,
     "geom:longitude":-80.49408,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"259 King St W",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874999,
+        102191575,
         85633041,
-        85874171,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,22 +44,36 @@
     "wof:geomhash":"4facaa611c8d47878b0b6e361cd07846",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":85874171,
+            "locality_id":101740709,
+            "neighbourhood_id":85874999,
+            "region_id":85682057,
+            "venue_id":152394839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
+            "neighbourhood_id":85874999,
             "region_id":85682057,
             "venue_id":152394839
         }
     ],
     "wof:id":152394839,
-    "wof:lastmodified":1449045200,
+    "wof:lastmodified":1453933510,
     "wof:name":"H & R Block Canada Inc",
-    "wof:parent_id":85874171,
+    "wof:parent_id":85874999,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.49408,43.451408,-80.49408,43.451408],
+  "bbox": [
+    -80.49408,
+    43.451408,
+    -80.49408,
+    43.451408
+],
   "geometry": {"coordinates":[-80.49408,43.451408],"type":"Point"}
 }

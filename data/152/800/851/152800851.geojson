@@ -2,13 +2,14 @@
   "id": 152800851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58873,43.800865,-79.58873,43.800865",
     "geom:latitude":43.800865,
     "geom:longitude":-79.58873,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"30 Margaret Mary Rd",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894991,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"1d2100b4e0540c74225b9b5c4fb13e7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85894991,
+            "region_id":85682057,
+            "venue_id":152800851
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85894991,
             "region_id":85682057,
             "venue_id":152800851
         }
     ],
     "wof:id":152800851,
-    "wof:lastmodified":1449044668,
+    "wof:lastmodified":1453933112,
     "wof:name":"St Margaret Mary School",
     "wof:parent_id":85894991,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.58873,43.800865,-79.58873,43.800865],
+  "bbox": [
+    -79.58873,
+    43.800865,
+    -79.58873,
+    43.800865
+],
   "geometry": {"coordinates":[-79.58873,43.800865],"type":"Point"}
 }

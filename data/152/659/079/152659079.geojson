@@ -2,13 +2,14 @@
   "id": 152659079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.71357,45.428581,-75.71357,45.428581",
     "geom:latitude":45.428581,
     "geom:longitude":-75.71357,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Rue Victoria",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4dec04c98df76eb7794864a18663142a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":152659079
         }
     ],
     "wof:id":152659079,
-    "wof:lastmodified":1449044805,
+    "wof:lastmodified":1453933215,
     "wof:name":"Esthetique Josiane",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.71357,45.428581,-75.71357,45.428581],
+  "bbox": [
+    -75.71357,
+    45.428581,
+    -75.71357,
+    45.428581
+],
   "geometry": {"coordinates":[-75.71357,45.428581],"type":"Point"}
 }

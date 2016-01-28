@@ -2,13 +2,14 @@
   "id": 152635979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.694557,44.39415,-79.694557,44.39415",
     "geom:latitude":44.39415,
     "geom:longitude":-79.694557,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"162 Bayfield St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v9oW2lLO1ymg7mPqwXeM4_44.394150_-79.694557@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"2b75e3219eb678a1a89633575bf7647e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":152635979
+        }
+    ],
     "wof:id":152635979,
-    "wof:lastmodified":1449046313,
+    "wof:lastmodified":1453934359,
     "wof:name":"Milkeraitis, John DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.694557,44.39415,-79.694557,44.39415],
+  "bbox": [
+    -79.694557,
+    44.39415,
+    -79.694557,
+    44.39415
+],
   "geometry": {"coordinates":[-79.694557,44.39415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169863501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.640923,45.474728,-73.640923,45.474728",
     "geom:latitude":45.474728,
     "geom:longitude":-73.640923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5235 Boul Grand",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864407,
+        102191575,
         85633041,
-        101736445
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"a63d188f29bbcd903567d284d22c688e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85864407,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169863501
         }
     ],
     "wof:id":169863501,
-    "wof:lastmodified":1449034972,
+    "wof:lastmodified":1453931190,
     "wof:name":"Santillo, Frank",
     "wof:parent_id":85864407,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "accountant"
     ]
 },
-  "bbox": [-73.640923,45.474728,-73.640923,45.474728],
+  "bbox": [
+    -73.640923,
+    45.474728,
+    -73.640923,
+    45.474728
+],
   "geometry": {"coordinates":[-73.640923,45.474728],"type":"Point"}
 }

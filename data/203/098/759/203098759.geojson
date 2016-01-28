@@ -2,13 +2,14 @@
   "id": 203098759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.637527,45.430542,-73.637527,45.430542",
     "geom:latitude":45.430542,
     "geom:longitude":-73.637527,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"457 Rue Bourbonnais",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897543,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"77be56336963b1174680832edbc564df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897543,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203098759
         }
     ],
     "wof:id":203098759,
-    "wof:lastmodified":1449026672,
+    "wof:lastmodified":1453927724,
     "wof:name":"Gratton, Gilles",
     "wof:parent_id":85897543,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-73.637527,45.430542,-73.637527,45.430542],
-  "geometry": {"coordinates":[-73.637527,45.430542],"type":"Point"}
+  "bbox": [
+    -73.637527,
+    45.430542,
+    -73.637527,
+    45.430542
+],
+  "geometry": {"coordinates":[-73.63752700000001,45.430542],"type":"Point"}
 }

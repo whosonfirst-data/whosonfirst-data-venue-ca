@@ -2,13 +2,14 @@
   "id": 219240899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.925217,43.666378,-79.925217,43.666378",
     "geom:latitude":43.666378,
     "geom:longitude":-79.925217,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"36 Confederation St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895531,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"87b81053f9eaf15ae86aa5f28a08a48c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895531,
+            "region_id":85682057,
+            "venue_id":219240899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895531,
             "region_id":85682057,
             "venue_id":219240899
         }
     ],
     "wof:id":219240899,
-    "wof:lastmodified":1449070757,
+    "wof:lastmodified":1453937587,
     "wof:name":"Dreamscape Landscaping",
     "wof:parent_id":85895531,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.925217,43.666378,-79.925217,43.666378],
+  "bbox": [
+    -79.925217,
+    43.666378,
+    -79.925217,
+    43.666378
+],
   "geometry": {"coordinates":[-79.925217,43.666378],"type":"Point"}
 }

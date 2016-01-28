@@ -2,13 +2,14 @@
   "id": 169318433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.641457,44.224079,-76.641457,44.224079",
     "geom:latitude":44.224079,
     "geom:longitude":-76.641457,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"97 Park Cres",
     "sg:city":"Amherstview",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875393,
-        85682057
+        102191575,
+        85633041,
+        101740731,
+        85682057,
+        101735963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"9d98a7c608168c8cbf1e563867fb05da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740731,
+            "neighbourhood_id":85875393,
+            "region_id":85682057,
+            "venue_id":169318433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735963,
             "neighbourhood_id":85875393,
             "region_id":85682057,
             "venue_id":169318433
         }
     ],
     "wof:id":169318433,
-    "wof:lastmodified":1449033410,
+    "wof:lastmodified":1453929511,
     "wof:name":"Our Lady of Mount Carmel Schl",
     "wof:parent_id":85875393,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.641457,44.224079,-76.641457,44.224079],
+  "bbox": [
+    -76.641457,
+    44.224079,
+    -76.641457,
+    44.224079
+],
   "geometry": {"coordinates":[-76.641457,44.224079],"type":"Point"}
 }

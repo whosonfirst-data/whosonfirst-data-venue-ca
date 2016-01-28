@@ -2,13 +2,14 @@
   "id": 152408309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.254578,46.812214,-71.254578,46.812214",
     "geom:latitude":46.812214,
     "geom:longitude":-71.254578,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874719,
+        102191575,
         85633041,
-        85874719
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"619b5f03be160377b6bd3679971b9fee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874719,
+            "region_id":136251273,
             "venue_id":152408309
         }
     ],
     "wof:id":152408309,
-    "wof:lastmodified":1449044875,
+    "wof:lastmodified":1453933269,
     "wof:name":"Jardins DE LA Rive Inc",
     "wof:parent_id":85874719,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.254578,46.812214,-71.254578,46.812214],
+  "bbox": [
+    -71.254578,
+    46.812214,
+    -71.254578,
+    46.812214
+],
   "geometry": {"coordinates":[-71.254578,46.812214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152847911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.58802,46.336578,-72.58802,46.336578",
     "geom:latitude":46.336578,
     "geom:longitude":-72.58802,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2500 Rue DE L'Industrie",
     "sg:city":"Trois-Rivieres-Ouest",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874107,
+        102191575,
         85633041,
-        85874107
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"544c859f09fb46484aada81fa5f03c1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874107,
+            "region_id":136251273,
             "venue_id":152847911
         }
     ],
     "wof:id":152847911,
-    "wof:lastmodified":1449045991,
+    "wof:lastmodified":1453934116,
     "wof:name":"Clinique Auto Lcl",
     "wof:parent_id":85874107,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.58802,46.336578,-72.58802,46.336578],
+  "bbox": [
+    -72.58802,
+    46.336578,
+    -72.58802,
+    46.336578
+],
   "geometry": {"coordinates":[-72.58802,46.336578],"type":"Point"}
 }

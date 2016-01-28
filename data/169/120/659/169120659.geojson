@@ -2,13 +2,14 @@
   "id": 169120659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.205353,46.774643,-71.205353,46.774643",
     "geom:latitude":46.774643,
     "geom:longitude":-71.205353,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3594 Rue Saint-Laurent",
     "sg:city":"Levis",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a86ea18caa9f0bb8eefd3b7c304e673c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":169120659
         }
     ],
     "wof:id":169120659,
-    "wof:lastmodified":1449035489,
+    "wof:lastmodified":1453931720,
     "wof:name":"Michel Gagne Inc",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.205353,46.774643,-71.205353,46.774643],
+  "bbox": [
+    -71.205353,
+    46.774643,
+    -71.205353,
+    46.774643
+],
   "geometry": {"coordinates":[-71.205353,46.774643],"type":"Point"}
 }

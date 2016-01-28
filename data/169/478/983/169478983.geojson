@@ -2,13 +2,14 @@
   "id": 169478983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62001,45.600803,-73.62001,45.600803",
     "geom:latitude":45.600803,
     "geom:longitude":-73.62001,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5381 Rue DE Castille",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784809,
+        102191575,
         85633041,
-        85784809
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"378b1b36bd384e444afe0ea70ab8ff5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
+            "region_id":136251273,
             "venue_id":169478983
         }
     ],
     "wof:id":169478983,
-    "wof:lastmodified":1449032798,
+    "wof:lastmodified":1453928929,
     "wof:name":"Magasin DE Castille Ltee",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.62001,45.600803,-73.62001,45.600803],
-  "geometry": {"coordinates":[-73.62001,45.600803],"type":"Point"}
+  "bbox": [
+    -73.62001,
+    45.600803,
+    -73.62001,
+    45.600803
+],
+  "geometry": {"coordinates":[-73.62000999999999,45.600803],"type":"Point"}
 }

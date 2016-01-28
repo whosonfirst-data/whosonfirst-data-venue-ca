@@ -2,13 +2,14 @@
   "id": 153085061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.033325,49.280231,-123.033325,49.280231",
     "geom:latitude":49.280231,
     "geom:longitude":-123.033325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3301 Pender St E",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85874397,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"54ed55784dca2e95ff2381efee991cc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85874397,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":153085061,
-    "wof:lastmodified":1449040456,
+    "wof:lastmodified":1453932408,
     "wof:name":"Vancouver Police",
     "wof:parent_id":85874397,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.033325,49.280231,-123.033325,49.280231],
+  "bbox": [
+    -123.033325,
+    49.280231,
+    -123.033325,
+    49.280231
+],
   "geometry": {"coordinates":[-123.033325,49.280231],"type":"Point"}
 }

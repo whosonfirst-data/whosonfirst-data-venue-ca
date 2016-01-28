@@ -2,13 +2,14 @@
   "id": 219171773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.580368,45.516846,-73.580368,45.516846",
     "geom:latitude":45.516846,
     "geom:longitude":-73.580368,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4081 Rue Clark",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866479,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"dcf3d9ddefca78af6af07f8fcab1b958",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219171773
         }
     ],
     "wof:id":219171773,
-    "wof:lastmodified":1449073932,
+    "wof:lastmodified":1453938018,
     "wof:name":"Gooderham, S",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.580368,45.516846,-73.580368,45.516846],
-  "geometry": {"coordinates":[-73.580368,45.516846],"type":"Point"}
+  "bbox": [
+    -73.580368,
+    45.516846,
+    -73.580368,
+    45.516846
+],
+  "geometry": {"coordinates":[-73.58036800000001,45.516846],"type":"Point"}
 }

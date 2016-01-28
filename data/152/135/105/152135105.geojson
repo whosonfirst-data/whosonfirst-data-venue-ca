@@ -2,13 +2,14 @@
   "id": 152135105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.377068,46.794807,-71.377068,46.794807",
     "geom:latitude":46.794807,
     "geom:longitude":-71.377068,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"715 7E Rue",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737245,
+        102555283,
+        136251273,
+        102191575,
         85633041,
-        85874723
+        101737491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,21 +43,28 @@
     "wof:geomhash":"e02552de6d3d42e7e3ba77c667eaff1c",
     "wof:hierarchy":[
         {
+            "campus_id":102555283,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101737245,
-            "neighbourhood_id":85874723,
+            "locality_id":101737491,
+            "region_id":136251273,
             "venue_id":152135105
         }
     ],
     "wof:id":152135105,
-    "wof:lastmodified":1449046081,
+    "wof:lastmodified":1453934179,
     "wof:name":"Societe DE Protection Des Fore",
-    "wof:parent_id":85874723,
+    "wof:parent_id":102555283,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.377068,46.794807,-71.377068,46.794807],
-  "geometry": {"coordinates":[-71.377068,46.794807],"type":"Point"}
+  "bbox": [
+    -71.377068,
+    46.794807,
+    -71.377068,
+    46.794807
+],
+  "geometry": {"coordinates":[-71.37706799999999,46.794807],"type":"Point"}
 }

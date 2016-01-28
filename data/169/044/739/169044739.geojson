@@ -2,13 +2,14 @@
   "id": 169044739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.759918,45.37167,-73.759918,45.37167",
     "geom:latitude":45.37167,
     "geom:longitude":-73.759918,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"101 Rue Provost",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738001,
+        85895759,
+        102191575,
         85633041,
-        85895759
+        101738001,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"dbc2a0fe584fc4a2fb7d2487413e6157",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738001,
             "neighbourhood_id":85895759,
+            "region_id":136251273,
             "venue_id":169044739
         }
     ],
     "wof:id":169044739,
-    "wof:lastmodified":1449034404,
+    "wof:lastmodified":1453930586,
     "wof:name":"W M Wilkins Inc",
     "wof:parent_id":85895759,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.759918,45.37167,-73.759918,45.37167],
+  "bbox": [
+    -73.759918,
+    45.37167,
+    -73.759918,
+    45.37167
+],
   "geometry": {"coordinates":[-73.759918,45.37167],"type":"Point"}
 }

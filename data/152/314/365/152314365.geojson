@@ -2,13 +2,14 @@
   "id": 152314365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.627716,45.415382,-73.627716,45.415382",
     "geom:latitude":45.415382,
     "geom:longitude":-73.627716,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8912 Boul Lasalle",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897543,
+        102191575,
         85633041,
-        85897543
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c29145446196d609c7fb2da45e8520c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897543,
+            "region_id":136251273,
             "venue_id":152314365
         }
     ],
     "wof:id":152314365,
-    "wof:lastmodified":1449048718,
+    "wof:lastmodified":1453936191,
     "wof:name":"Rafting Montreal",
     "wof:parent_id":85897543,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.627716,45.415382,-73.627716,45.415382],
-  "geometry": {"coordinates":[-73.627716,45.415382],"type":"Point"}
+  "bbox": [
+    -73.627716,
+    45.415382,
+    -73.627716,
+    45.415382
+],
+  "geometry": {"coordinates":[-73.62771600000001,45.415382],"type":"Point"}
 }

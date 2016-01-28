@@ -2,13 +2,14 @@
   "id": 152645231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.826088,45.504257,-73.826088,45.504257",
     "geom:latitude":45.504257,
     "geom:longitude":-73.826088,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12210 Boul DE Pierrefonds # 100",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"279edf7ead8eacb62653788f7513ebf5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":152645231
         }
     ],
     "wof:id":152645231,
-    "wof:lastmodified":1449044771,
+    "wof:lastmodified":1453933189,
     "wof:name":"Crestview Garden",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.826088,45.504257,-73.826088,45.504257],
+  "bbox": [
+    -73.826088,
+    45.504257,
+    -73.826088,
+    45.504257
+],
   "geometry": {"coordinates":[-73.826088,45.504257],"type":"Point"}
 }

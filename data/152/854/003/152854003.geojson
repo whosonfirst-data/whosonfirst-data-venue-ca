@@ -2,13 +2,14 @@
   "id": 152854003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.857391,45.448704,-73.857391,45.448704",
     "geom:latitude":45.448704,
     "geom:longitude":-73.857391,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16710 Rte Trans-Canada",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736461,
+        85864411,
+        102191575,
         85633041,
-        85864411
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"8abdf003b06f82c7749d51b020b41fb8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85864411,
+            "region_id":136251273,
             "venue_id":152854003
         }
     ],
     "wof:id":152854003,
-    "wof:lastmodified":1449048748,
+    "wof:lastmodified":1453936216,
     "wof:name":"Automobiles Jalbert Inc",
     "wof:parent_id":85864411,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.857391,45.448704,-73.857391,45.448704],
-  "geometry": {"coordinates":[-73.857391,45.448704],"type":"Point"}
+  "bbox": [
+    -73.857391,
+    45.448704,
+    -73.857391,
+    45.448704
+],
+  "geometry": {"coordinates":[-73.85739100000001,45.448704],"type":"Point"}
 }

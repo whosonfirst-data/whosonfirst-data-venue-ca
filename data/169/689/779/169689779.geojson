@@ -2,13 +2,14 @@
   "id": 169689779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.600471,45.434082,-73.600471,45.434082",
     "geom:latitude":45.434082,
     "geom:longitude":-73.600471,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7559 Rue Broadway",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866477,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"05ec077048bb2360c902ebcd1dcf0e0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866477,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169689779
         }
     ],
     "wof:id":169689779,
-    "wof:lastmodified":1449035406,
+    "wof:lastmodified":1453931608,
     "wof:name":"Clinique Veterinaire-Lasalle",
     "wof:parent_id":85866477,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-73.600471,45.434082,-73.600471,45.434082],
+  "bbox": [
+    -73.600471,
+    45.434082,
+    -73.600471,
+    45.434082
+],
   "geometry": {"coordinates":[-73.600471,45.434082],"type":"Point"}
 }

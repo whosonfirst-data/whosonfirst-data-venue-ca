@@ -2,13 +2,14 @@
   "id": 152463625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.289261,45.446751,-73.289261,45.446751",
     "geom:latitude":45.446751,
     "geom:longitude":-73.289261,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1235 Boul DE Perigny",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895771,
+        102191575,
         85633041,
-        85895771
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"c9b6380f763ec515486531532cfe44f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895771,
+            "region_id":136251273,
             "venue_id":152463625
         }
     ],
     "wof:id":152463625,
-    "wof:lastmodified":1449047515,
+    "wof:lastmodified":1453935268,
     "wof:name":"Famili-Prix",
     "wof:parent_id":85895771,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.289261,45.446751,-73.289261,45.446751],
+  "bbox": [
+    -73.289261,
+    45.446751,
+    -73.289261,
+    45.446751
+],
   "geometry": {"coordinates":[-73.289261,45.446751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169169519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.61245,45.599415,-73.61245,45.599415",
     "geom:latitude":45.599415,
     "geom:longitude":-73.61245,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9424 Boul Lacordaire",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784921,
+        102191575,
         85633041,
-        85784921
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fd0c4e36448962d4e0f74d899d7eb639",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
+            "region_id":136251273,
             "venue_id":169169519
         }
     ],
     "wof:id":169169519,
-    "wof:lastmodified":1449034724,
+    "wof:lastmodified":1453930930,
     "wof:name":"Centre Du Pneu Dmg Inc",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.61245,45.599415,-73.61245,45.599415],
+  "bbox": [
+    -73.61245,
+    45.599415,
+    -73.61245,
+    45.599415
+],
   "geometry": {"coordinates":[-73.61245,45.599415],"type":"Point"}
 }

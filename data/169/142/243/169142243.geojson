@@ -2,13 +2,14 @@
   "id": 169142243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.829399,43.363953,-79.829399,43.363953",
     "geom:latitude":43.363953,
     "geom:longitude":-79.829399,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2072 Mountain Grove Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895169,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"85222df6a8d4a6f77f142e7e1ea396bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895169,
+            "region_id":85682057,
+            "venue_id":169142243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895169,
             "region_id":85682057,
             "venue_id":169142243
         }
     ],
     "wof:id":169142243,
-    "wof:lastmodified":1449035302,
+    "wof:lastmodified":1453931507,
     "wof:name":"Centennial Pools Ltd",
     "wof:parent_id":85895169,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.829399,43.363953,-79.829399,43.363953],
+  "bbox": [
+    -79.829399,
+    43.363953,
+    -79.829399,
+    43.363953
+],
   "geometry": {"coordinates":[-79.829399,43.363953],"type":"Point"}
 }

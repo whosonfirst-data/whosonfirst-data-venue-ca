@@ -2,13 +2,14 @@
   "id": 152922953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.577332,43.563744,-79.577332,43.563744",
     "geom:latitude":43.563744,
     "geom:longitude":-79.577332,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1109 Seneca Ave",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895293,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"02bda452715f163ac8d8d3d771341a65",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895293,
+            "region_id":85682057,
+            "venue_id":152922953
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895293,
             "region_id":85682057,
             "venue_id":152922953
         }
     ],
     "wof:id":152922953,
-    "wof:lastmodified":1449044725,
+    "wof:lastmodified":1453933151,
     "wof:name":"Seneca Auto",
     "wof:parent_id":85895293,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.577332,43.563744,-79.577332,43.563744],
+  "bbox": [
+    -79.577332,
+    43.563744,
+    -79.577332,
+    43.563744
+],
   "geometry": {"coordinates":[-79.577332,43.563744],"type":"Point"}
 }

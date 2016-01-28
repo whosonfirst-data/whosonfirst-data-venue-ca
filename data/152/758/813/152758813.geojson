@@ -2,13 +2,14 @@
   "id": 152758813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.561768,45.609455,-73.561768,45.609455",
     "geom:latitude":45.609455,
     "geom:longitude":-73.561768,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8138 Boul Metropolitain E",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"2ca28c4a55076a8b5316c777ee3625f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152758813
         }
     ],
     "wof:id":152758813,
-    "wof:lastmodified":1449045700,
+    "wof:lastmodified":1453933894,
     "wof:name":"Novabrik Inc",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.561768,45.609455,-73.561768,45.609455],
+  "bbox": [
+    -73.561768,
+    45.609455,
+    -73.561768,
+    45.609455
+],
   "geometry": {"coordinates":[-73.561768,45.609455],"type":"Point"}
 }

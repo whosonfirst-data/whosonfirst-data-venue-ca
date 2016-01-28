@@ -2,13 +2,14 @@
   "id": 169434773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.655296,45.523739,-73.655296,45.523739",
     "geom:latitude":45.523739,
     "geom:longitude":-73.655296,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"125 Rue Gagnon",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736469,
+        85784817,
+        102191575,
         85633041,
-        85784817
+        101736469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"45fcbbe409ae3e1c353cf31428cb9041",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736469,
             "neighbourhood_id":85784817,
+            "region_id":136251273,
             "venue_id":169434773
         }
     ],
     "wof:id":169434773,
-    "wof:lastmodified":1449033399,
+    "wof:lastmodified":1453929498,
     "wof:name":"Lason",
     "wof:parent_id":85784817,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.655296,45.523739,-73.655296,45.523739],
-  "geometry": {"coordinates":[-73.655296,45.523739],"type":"Point"}
+  "bbox": [
+    -73.655296,
+    45.523739,
+    -73.655296,
+    45.523739
+],
+  "geometry": {"coordinates":[-73.65529600000001,45.523739],"type":"Point"}
 }

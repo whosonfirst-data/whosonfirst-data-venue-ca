@@ -2,13 +2,14 @@
   "id": 152734969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.713654,43.534668,-79.713654,43.534668",
     "geom:latitude":43.534668,
     "geom:longitude":-79.713654,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3317 Wilmar Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895311,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ec0fbedf9cf05a4bbc42a896e49e121a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895311,
+            "region_id":85682057,
+            "venue_id":152734969
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895311,
             "region_id":85682057,
             "venue_id":152734969
         }
     ],
     "wof:id":152734969,
-    "wof:lastmodified":1449048333,
+    "wof:lastmodified":1453935898,
     "wof:name":"Bruce Graham Disc Jockey Svc",
     "wof:parent_id":85895311,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.713654,43.534668,-79.713654,43.534668],
-  "geometry": {"coordinates":[-79.713654,43.534668],"type":"Point"}
+  "bbox": [
+    -79.713654,
+    43.534668,
+    -79.713654,
+    43.534668
+],
+  "geometry": {"coordinates":[-79.71365400000001,43.534668],"type":"Point"}
 }

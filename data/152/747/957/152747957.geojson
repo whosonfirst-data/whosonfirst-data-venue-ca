@@ -2,13 +2,14 @@
   "id": 152747957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.633392,43.697239,-79.633392,43.697239",
     "geom:latitude":43.697239,
     "geom:longitude":-79.633392,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102555091,
+        85866433,
+        102191575,
         85633041,
-        85894971,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -40,22 +44,29 @@
     "wof:geomhash":"6ccab1a9fc46133df1c73ee310249aea",
     "wof:hierarchy":[
         {
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":85894971,
+            "locality_id":101735835,
+            "neighbourhood_id":85866433,
             "region_id":85682057,
             "venue_id":152747957
         }
     ],
     "wof:id":152747957,
-    "wof:lastmodified":1449045151,
+    "wof:lastmodified":1453933475,
     "wof:name":"Wardrop Engineering Inc",
-    "wof:parent_id":85894971,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.633392,43.697239,-79.633392,43.697239],
+  "bbox": [
+    -79.633392,
+    43.697239,
+    -79.633392,
+    43.697239
+],
   "geometry": {"coordinates":[-79.633392,43.697239],"type":"Point"}
 }

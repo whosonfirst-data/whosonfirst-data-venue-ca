@@ -2,13 +2,14 @@
   "id": 152557805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.459656,45.496883,-73.459656,45.496883",
     "geom:latitude":45.496883,
     "geom:longitude":-73.459656,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3685 Rue Edgar",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"0182797afae5886d286e16e6cf0dabc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":152557805
         }
     ],
     "wof:id":152557805,
-    "wof:lastmodified":1449047596,
+    "wof:lastmodified":1453935342,
     "wof:name":"Paul-Rene Cotton",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.459656,45.496883,-73.459656,45.496883],
+  "bbox": [
+    -73.459656,
+    45.496883,
+    -73.459656,
+    45.496883
+],
   "geometry": {"coordinates":[-73.459656,45.496883],"type":"Point"}
 }

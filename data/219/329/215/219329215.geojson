@@ -2,13 +2,14 @@
   "id": 219329215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.584938,45.462502,-73.584938,45.462502",
     "geom:latitude":45.462502,
     "geom:longitude":-73.584938,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5611 Rue Angers",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897615,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"1dd4f356debabc844996b765adc1d58d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897615,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219329215
         }
     ],
     "wof:id":219329215,
-    "wof:lastmodified":1449071386,
+    "wof:lastmodified":1453937674,
     "wof:name":"Lasalle Seventh Day Adventist",
     "wof:parent_id":85897615,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "church"
     ]
 },
-  "bbox": [-73.584938,45.462502,-73.584938,45.462502],
-  "geometry": {"coordinates":[-73.584938,45.462502],"type":"Point"}
+  "bbox": [
+    -73.584938,
+    45.462502,
+    -73.584938,
+    45.462502
+],
+  "geometry": {"coordinates":[-73.58493799999999,45.462502],"type":"Point"}
 }

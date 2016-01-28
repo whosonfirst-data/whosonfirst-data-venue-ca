@@ -2,13 +2,14 @@
   "id": 152224307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.667847,43.448761,-79.667847,43.448761",
     "geom:latitude":43.448761,
     "geom:longitude":-79.667847,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"299 Randall St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895269,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"9d5f29f643c2cdad33501bcc0e33f404",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895269,
+            "region_id":85682057,
+            "venue_id":152224307
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895269,
             "region_id":85682057,
             "venue_id":152224307
         }
     ],
     "wof:id":152224307,
-    "wof:lastmodified":1449047675,
+    "wof:lastmodified":1453935403,
     "wof:name":"Trafalgar Lodge",
     "wof:parent_id":85895269,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.667847,43.448761,-79.667847,43.448761],
-  "geometry": {"coordinates":[-79.667847,43.448761],"type":"Point"}
+  "bbox": [
+    -79.667847,
+    43.448761,
+    -79.667847,
+    43.448761
+],
+  "geometry": {"coordinates":[-79.66784699999999,43.448761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152519275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.821968,43.332512,-79.821968,43.332512",
     "geom:latitude":43.332512,
     "geom:longitude":-79.821968,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1240 Plains Rd E",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895581,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"2feebb044dba9c3e83446b60393e6e32",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895581,
+            "region_id":85682057,
+            "venue_id":152519275
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895581,
             "region_id":85682057,
             "venue_id":152519275
         }
     ],
     "wof:id":152519275,
-    "wof:lastmodified":1449048610,
+    "wof:lastmodified":1453936098,
     "wof:name":"Hi Tech Collision Inc",
     "wof:parent_id":85895581,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.821968,43.332512,-79.821968,43.332512],
+  "bbox": [
+    -79.821968,
+    43.332512,
+    -79.821968,
+    43.332512
+],
   "geometry": {"coordinates":[-79.821968,43.332512],"type":"Point"}
 }

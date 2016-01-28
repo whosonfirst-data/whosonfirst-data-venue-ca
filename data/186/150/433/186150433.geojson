@@ -2,13 +2,14 @@
   "id": 186150433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588058,45.525715,-73.588058,45.525715",
     "geom:latitude":45.525715,
     "geom:longitude":-73.588058,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,8 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866479,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,16 @@
     "wof:geomhash":"9f42227e53aca967489f2b47f6176052",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186150433
         }
     ],
     "wof:id":186150433,
-    "wof:lastmodified":1449050289,
+    "wof:lastmodified":1453936487,
     "wof:name":"Clinique D'Acupuncture",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
         "acupuncture"
     ]
 },
-  "bbox": [-73.588058,45.525715,-73.588058,45.525715],
+  "bbox": [
+    -73.588058,
+    45.525715,
+    -73.588058,
+    45.525715
+],
   "geometry": {"coordinates":[-73.588058,45.525715],"type":"Point"}
 }

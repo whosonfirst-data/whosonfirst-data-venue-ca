@@ -2,13 +2,14 @@
   "id": 169160105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.581223,45.494793,-73.581223,45.494793",
     "geom:latitude":45.494793,
     "geom:longitude":-73.581223,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2140 Rue Saint-Mathieu",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"92892b33d9fe62f3183667af33b76da1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":169160105
         }
     ],
     "wof:id":169160105,
-    "wof:lastmodified":1449035436,
+    "wof:lastmodified":1453931649,
     "wof:name":"Moureaux Hauspy Design Inc",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.581223,45.494793,-73.581223,45.494793],
-  "geometry": {"coordinates":[-73.581223,45.494793],"type":"Point"}
+  "bbox": [
+    -73.581223,
+    45.494793,
+    -73.581223,
+    45.494793
+],
+  "geometry": {"coordinates":[-73.58122299999999,45.494793],"type":"Point"}
 }

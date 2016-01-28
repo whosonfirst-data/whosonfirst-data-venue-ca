@@ -2,13 +2,14 @@
   "id": 152211857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.627716,45.481396,-73.627716,45.481396",
     "geom:latitude":45.481396,
     "geom:longitude":-73.627716,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5360 Rue Snowdon",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897527,
+        102191575,
         85633041,
-        85897527
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"305ea98942436e09ce1c9643b78a4ad4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897527,
+            "region_id":136251273,
             "venue_id":152211857
         }
     ],
     "wof:id":152211857,
-    "wof:lastmodified":1449045433,
+    "wof:lastmodified":1453933698,
     "wof:name":"Traductions Robert Lambert",
     "wof:parent_id":85897527,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.627716,45.481396,-73.627716,45.481396],
-  "geometry": {"coordinates":[-73.627716,45.481396],"type":"Point"}
+  "bbox": [
+    -73.627716,
+    45.481396,
+    -73.627716,
+    45.481396
+],
+  "geometry": {"coordinates":[-73.62771600000001,45.481396],"type":"Point"}
 }

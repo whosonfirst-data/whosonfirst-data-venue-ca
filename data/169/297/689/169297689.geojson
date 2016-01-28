@@ -2,13 +2,14 @@
   "id": 169297689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.23539,48.411716,-71.23539,48.411716",
     "geom:latitude":48.411716,
     "geom:longitude":-71.23539,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3639 Boul Harvey # 202",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5d710055e45fae1cad4e95df7cbdfa6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":169297689
         }
     ],
     "wof:id":169297689,
-    "wof:lastmodified":1449034787,
+    "wof:lastmodified":1453931020,
     "wof:name":"Gagnon, Gilles DDS",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.23539,48.411716,-71.23539,48.411716],
+  "bbox": [
+    -71.23539,
+    48.411716,
+    -71.23539,
+    48.411716
+],
   "geometry": {"coordinates":[-71.23539,48.411716],"type":"Point"}
 }

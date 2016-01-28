@@ -2,13 +2,14 @@
   "id": 169264767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.761612,43.583206,-79.761612,43.583206",
     "geom:latitude":43.583206,
     "geom:longitude":-79.761612,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6740 Meadowvale Town Centre Ci",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895103,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"db39dfbb3b0986f390c05fd3804e8eb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895103,
+            "region_id":85682057,
+            "venue_id":169264767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895103,
             "region_id":85682057,
             "venue_id":169264767
         }
     ],
     "wof:id":169264767,
-    "wof:lastmodified":1449034828,
+    "wof:lastmodified":1453931059,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85895103,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.761612,43.583206,-79.761612,43.583206],
+  "bbox": [
+    -79.761612,
+    43.583206,
+    -79.761612,
+    43.583206
+],
   "geometry": {"coordinates":[-79.761612,43.583206],"type":"Point"}
 }

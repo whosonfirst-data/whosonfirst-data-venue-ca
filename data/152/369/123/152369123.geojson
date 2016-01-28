@@ -2,13 +2,14 @@
   "id": 152369123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.455505,43.797596,-79.455505,43.797596",
     "geom:latitude":43.797596,
     "geom:longitude":-79.455505,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"142 Colvin Cres",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895341,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"194b11bbdd643d5008219ef0933151d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895341,
+            "region_id":85682057,
+            "venue_id":152369123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895341,
             "region_id":85682057,
             "venue_id":152369123
         }
     ],
     "wof:id":152369123,
-    "wof:lastmodified":1449048682,
+    "wof:lastmodified":1453936155,
     "wof:name":"Bsm Accounting Svc",
     "wof:parent_id":85895341,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.455505,43.797596,-79.455505,43.797596],
+  "bbox": [
+    -79.455505,
+    43.797596,
+    -79.455505,
+    43.797596
+],
   "geometry": {"coordinates":[-79.455505,43.797596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202797157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55423,45.566135,-73.55423,45.566135",
     "geom:latitude":45.566135,
     "geom:longitude":-73.55423,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,8 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874371,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,16 @@
     "wof:geomhash":"3cdb12d4fb5ecd38cf93d38922e39ea5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202797157
         }
     ],
     "wof:id":202797157,
-    "wof:lastmodified":1449062400,
+    "wof:lastmodified":1453937452,
     "wof:name":"Coffey, Alan",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
         "ophthalmologist"
     ]
 },
-  "bbox": [-73.55423,45.566135,-73.55423,45.566135],
+  "bbox": [
+    -73.55423,
+    45.566135,
+    -73.55423,
+    45.566135
+],
   "geometry": {"coordinates":[-73.55423,45.566135],"type":"Point"}
 }

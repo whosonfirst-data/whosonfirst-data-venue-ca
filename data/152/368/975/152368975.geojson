@@ -2,13 +2,14 @@
   "id": 152368975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.184715,42.928951,-81.184715,42.928951",
     "geom:latitude":42.928951,
     "geom:longitude":-81.184715,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1180 Wilton Grove Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874921,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hj4Ay1fShNKkWSMo5bBqh_42.928951_-81.184715@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"17901d5ed919302d1be9b6b0b76839a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874921,
+            "region_id":85682057,
+            "venue_id":152368975
+        }
+    ],
     "wof:id":152368975,
-    "wof:lastmodified":1449045358,
+    "wof:lastmodified":1453933633,
     "wof:name":"Contact Creative Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874921,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.184715,42.928951,-81.184715,42.928951],
+  "bbox": [
+    -81.184715,
+    42.928951,
+    -81.184715,
+    42.928951
+],
   "geometry": {"coordinates":[-81.184715,42.928951],"type":"Point"}
 }

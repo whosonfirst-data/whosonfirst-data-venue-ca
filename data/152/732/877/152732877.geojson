@@ -2,13 +2,14 @@
   "id": 152732877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.511559,45.65593,-73.511559,45.65593",
     "geom:latitude":45.65593,
     "geom:longitude":-73.511559,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3525 Rue Robert-Chevalier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784837,
+        102191575,
         85633041,
-        85784837
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5843b34f1ebdc810984a33282f4a66c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
+            "region_id":136251273,
             "venue_id":152732877
         }
     ],
     "wof:id":152732877,
-    "wof:lastmodified":1449049041,
+    "wof:lastmodified":1453936468,
     "wof:name":"Produits Non-Ferreux Gauthier",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.511559,45.65593,-73.511559,45.65593],
-  "geometry": {"coordinates":[-73.511559,45.65593],"type":"Point"}
+  "bbox": [
+    -73.511559,
+    45.65593,
+    -73.511559,
+    45.65593
+],
+  "geometry": {"coordinates":[-73.51155900000001,45.65593],"type":"Point"}
 }

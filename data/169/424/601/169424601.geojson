@@ -2,13 +2,14 @@
   "id": 169424601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.892395,45.424149,-73.892395,45.424149",
     "geom:latitude":45.424149,
     "geom:longitude":-73.892395,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"143 Midland Ave",
     "sg:city":"Beaconsfield",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736447,
+        85784667,
+        102191575,
         85633041,
-        85784667
+        101736447,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"fc76c775abaed4c4b214380a5061ee19",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736447,
             "neighbourhood_id":85784667,
+            "region_id":136251273,
             "venue_id":169424601
         }
     ],
     "wof:id":169424601,
-    "wof:lastmodified":1449035752,
+    "wof:lastmodified":1453932020,
     "wof:name":"Corpstrat",
     "wof:parent_id":85784667,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.892395,45.424149,-73.892395,45.424149],
-  "geometry": {"coordinates":[-73.892395,45.424149],"type":"Point"}
+  "bbox": [
+    -73.892395,
+    45.424149,
+    -73.892395,
+    45.424149
+],
+  "geometry": {"coordinates":[-73.89239499999999,45.424149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168916925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.465149,45.515163,-73.465149,45.515163",
     "geom:latitude":45.515163,
     "geom:longitude":-73.465149,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2808 Rue DE Lyon",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"43a3c4f75e7dcac114157560c1831fab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":168916925
         }
     ],
     "wof:id":168916925,
-    "wof:lastmodified":1449028191,
+    "wof:lastmodified":1453928249,
     "wof:name":"Depanneur DE Lyon",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.465149,45.515163,-73.465149,45.515163],
+  "bbox": [
+    -73.465149,
+    45.515163,
+    -73.465149,
+    45.515163
+],
   "geometry": {"coordinates":[-73.465149,45.515163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169217147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.963318,43.659733,-79.963318,43.659733",
     "geom:latitude":43.659733,
     "geom:longitude":-79.963318,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Georgetown",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895531,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"a3bba53eb66c9a1ab0a4ea7e6d8c0e61",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895531,
+            "region_id":85682057,
+            "venue_id":169217147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895531,
             "region_id":85682057,
             "venue_id":169217147
         }
     ],
     "wof:id":169217147,
-    "wof:lastmodified":1449035761,
+    "wof:lastmodified":1453932029,
     "wof:name":"Atlantic Homes Inc",
     "wof:parent_id":85895531,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.963318,43.659733,-79.963318,43.659733],
+  "bbox": [
+    -79.963318,
+    43.659733,
+    -79.963318,
+    43.659733
+],
   "geometry": {"coordinates":[-79.963318,43.659733],"type":"Point"}
 }

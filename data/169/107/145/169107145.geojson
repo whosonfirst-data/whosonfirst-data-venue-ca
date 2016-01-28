@@ -2,13 +2,14 @@
   "id": 169107145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566833,45.521423,-73.566833,45.521423",
     "geom:latitude":45.521423,
     "geom:longitude":-73.566833,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866475,
+        102191575,
         85633041,
-        85866475
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e862b61eece734dce29cba7bca0ffdf3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
+            "region_id":136251273,
             "venue_id":169107145
         }
     ],
     "wof:id":169107145,
-    "wof:lastmodified":1449032701,
+    "wof:lastmodified":1453928810,
     "wof:name":"Groupe Immobilier Bessette Inc",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566833,45.521423,-73.566833,45.521423],
+  "bbox": [
+    -73.566833,
+    45.521423,
+    -73.566833,
+    45.521423
+],
   "geometry": {"coordinates":[-73.566833,45.521423],"type":"Point"}
 }

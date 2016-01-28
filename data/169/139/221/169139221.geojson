@@ -2,13 +2,14 @@
   "id": 169139221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.68531,45.564072,-73.68531,45.564072",
     "geom:latitude":45.564072,
     "geom:longitude":-73.68531,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"164 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875069,
+        102191575,
         85633041,
-        85875069
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"204f8ed4fca656143942ac5a51f2a89d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
+            "region_id":136251273,
             "venue_id":169139221
         }
     ],
     "wof:id":169139221,
-    "wof:lastmodified":1449032982,
+    "wof:lastmodified":1453929110,
     "wof:name":"Rona Le Regional",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.68531,45.564072,-73.68531,45.564072],
+  "bbox": [
+    -73.68531,
+    45.564072,
+    -73.68531,
+    45.564072
+],
   "geometry": {"coordinates":[-73.68531,45.564072],"type":"Point"}
 }

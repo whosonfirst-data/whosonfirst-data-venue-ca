@@ -2,13 +2,14 @@
   "id": 153033825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.689049,44.331806,-79.689049,44.331806",
     "geom:latitude":44.331806,
     "geom:longitude":-79.689049,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -22,23 +23,43 @@
     "sg:postcode":"L4N 9P7",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KedvvjPH7WAraB4uRlWtJ_44.331806_-79.689049@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"3dbf0dbcd8b54e68d52d25bbac9d40fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":153033825
+        }
+    ],
     "wof:id":153033825,
-    "wof:lastmodified":1449040431,
+    "wof:lastmodified":1453932384,
     "wof:name":"Mapleview Variety",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.689049,44.331806,-79.689049,44.331806],
+  "bbox": [
+    -79.689049,
+    44.331806,
+    -79.689049,
+    44.331806
+],
   "geometry": {"coordinates":[-79.689049,44.331806],"type":"Point"}
 }

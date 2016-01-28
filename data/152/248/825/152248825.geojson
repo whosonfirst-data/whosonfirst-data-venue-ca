@@ -2,13 +2,14 @@
   "id": 152248825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.612022,43.772568,-79.612022,43.772568",
     "geom:latitude":43.772568,
     "geom:longitude":-79.612022,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Regina Rd # 23",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895625,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"d8ffd032f7faaa732ec751ea34e186e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895625,
+            "region_id":85682057,
+            "venue_id":152248825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895625,
             "region_id":85682057,
             "venue_id":152248825
         }
     ],
     "wof:id":152248825,
-    "wof:lastmodified":1449046837,
+    "wof:lastmodified":1453934743,
     "wof:name":"L'Azzurra Ballroom",
     "wof:parent_id":85895625,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.612022,43.772568,-79.612022,43.772568],
+  "bbox": [
+    -79.612022,
+    43.772568,
+    -79.612022,
+    43.772568
+],
   "geometry": {"coordinates":[-79.612022,43.772568],"type":"Point"}
 }

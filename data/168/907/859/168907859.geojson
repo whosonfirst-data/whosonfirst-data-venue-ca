@@ -2,13 +2,14 @@
   "id": 168907859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.969368,43.406029,-79.969368,43.406029",
     "geom:latitude":43.406029,
     "geom:longitude":-79.969368,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16 Palomino Dr",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895171,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5019f99c73b45e614c835d246ae11f0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895171,
+            "region_id":85682057,
+            "venue_id":168907859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895171,
             "region_id":85682057,
             "venue_id":168907859
         }
     ],
     "wof:id":168907859,
-    "wof:lastmodified":1449028532,
+    "wof:lastmodified":1453928627,
     "wof:name":"Cornerstone Entertainment",
     "wof:parent_id":85895171,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.969368,43.406029,-79.969368,43.406029],
+  "bbox": [
+    -79.969368,
+    43.406029,
+    -79.969368,
+    43.406029
+],
   "geometry": {"coordinates":[-79.969368,43.406029],"type":"Point"}
 }

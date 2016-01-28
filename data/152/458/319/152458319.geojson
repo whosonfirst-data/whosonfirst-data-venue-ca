@@ -2,13 +2,14 @@
   "id": 152458319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.792938,43.334057,-79.792938,43.334057",
     "geom:latitude":43.334057,
     "geom:longitude":-79.792938,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"500 Drury Lane",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895673,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"1b1c2df95445821fc5b29262f0c1dcbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895673,
+            "region_id":85682057,
+            "venue_id":152458319
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895673,
             "region_id":85682057,
             "venue_id":152458319
         }
     ],
     "wof:id":152458319,
-    "wof:lastmodified":1449047586,
+    "wof:lastmodified":1453935332,
     "wof:name":"J C's Hot Bagels",
     "wof:parent_id":85895673,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.792938,43.334057,-79.792938,43.334057],
-  "geometry": {"coordinates":[-79.792938,43.334057],"type":"Point"}
+  "bbox": [
+    -79.792938,
+    43.334057,
+    -79.792938,
+    43.334057
+],
+  "geometry": {"coordinates":[-79.79293800000001,43.334057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169092197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.24192,43.195408,-79.24192,43.195408",
     "geom:latitude":43.195408,
     "geom:longitude":-79.24192,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"525 Geneva St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875041,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"725d730373829d5d4bd7de1256869cdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875041,
+            "region_id":85682057,
+            "venue_id":169092197
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875041,
             "region_id":85682057,
             "venue_id":169092197
         }
     ],
     "wof:id":169092197,
-    "wof:lastmodified":1449035340,
+    "wof:lastmodified":1453931546,
     "wof:name":"Arcon Steel Fabrication & Sls",
     "wof:parent_id":85875041,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.24192,43.195408,-79.24192,43.195408],
-  "geometry": {"coordinates":[-79.24192,43.195408],"type":"Point"}
+  "bbox": [
+    -79.24192,
+    43.195408,
+    -79.24192,
+    43.195408
+],
+  "geometry": {"coordinates":[-79.24191999999999,43.195408],"type":"Point"}
 }

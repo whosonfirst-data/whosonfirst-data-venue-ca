@@ -2,13 +2,14 @@
   "id": 152368971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.260612,46.783916,-71.260612,46.783916",
     "geom:latitude":46.783916,
     "geom:longitude":-71.260612,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2057 Rue Du Parc-Gomin",
     "sg:city":"Sillery",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6c07c8811bde41e031e55c17a4a9c65e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":152368971
         }
     ],
     "wof:id":152368971,
-    "wof:lastmodified":1449045357,
+    "wof:lastmodified":1453933631,
     "wof:name":"Icoss Inc",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.260612,46.783916,-71.260612,46.783916],
-  "geometry": {"coordinates":[-71.260612,46.783916],"type":"Point"}
+  "bbox": [
+    -71.260612,
+    46.783916,
+    -71.260612,
+    46.783916
+],
+  "geometry": {"coordinates":[-71.26061199999999,46.783916],"type":"Point"}
 }

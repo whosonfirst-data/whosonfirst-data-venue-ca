@@ -2,13 +2,14 @@
   "id": 152766777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.653343,45.577763,-73.653343,45.577763",
     "geom:latitude":45.577763,
     "geom:longitude":-73.653343,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2492 Boul Henri-Bourassa E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897499,
+        102191575,
         85633041,
-        85897499
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ca53bd2cd05c0454b9fcc39cf5cd207d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897499,
+            "region_id":136251273,
             "venue_id":152766777
         }
     ],
     "wof:id":152766777,
-    "wof:lastmodified":1449044225,
+    "wof:lastmodified":1453932773,
     "wof:name":"Quincaillerie Architecturale",
     "wof:parent_id":85897499,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.653343,45.577763,-73.653343,45.577763],
-  "geometry": {"coordinates":[-73.653343,45.577763],"type":"Point"}
+  "bbox": [
+    -73.653343,
+    45.577763,
+    -73.653343,
+    45.577763
+],
+  "geometry": {"coordinates":[-73.65334300000001,45.577763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152293507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.609398,45.545181,-73.609398,45.545181",
     "geom:latitude":45.545181,
     "geom:longitude":-73.609398,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1344 Rue Jean-Talon E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866495,
+        102191575,
         85633041,
-        85866495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"90e3b920b51abfa9da856b1a4ae9ddb8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866495,
+            "region_id":136251273,
             "venue_id":152293507
         }
     ],
     "wof:id":152293507,
-    "wof:lastmodified":1449045209,
+    "wof:lastmodified":1453933520,
     "wof:name":"Consultation Elaine Dequette",
     "wof:parent_id":85866495,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.609398,45.545181,-73.609398,45.545181],
+  "bbox": [
+    -73.609398,
+    45.545181,
+    -73.609398,
+    45.545181
+],
   "geometry": {"coordinates":[-73.609398,45.545181],"type":"Point"}
 }

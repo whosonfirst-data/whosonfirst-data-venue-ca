@@ -2,13 +2,14 @@
   "id": 153057309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.435165,45.465775,-73.435165,45.465775",
     "geom:latitude":45.465775,
     "geom:longitude":-73.435165,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6480 Rue Booker",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897547,
+        102191575,
         85633041,
-        85897547
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ce33f8e894e99f09758d4cf5cbfbaf1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897547,
+            "region_id":136251273,
             "venue_id":153057309
         }
     ],
     "wof:id":153057309,
-    "wof:lastmodified":1449040570,
+    "wof:lastmodified":1453932508,
     "wof:name":"Teckmod",
     "wof:parent_id":85897547,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.435165,45.465775,-73.435165,45.465775],
+  "bbox": [
+    -73.435165,
+    45.465775,
+    -73.435165,
+    45.465775
+],
   "geometry": {"coordinates":[-73.435165,45.465775],"type":"Point"}
 }

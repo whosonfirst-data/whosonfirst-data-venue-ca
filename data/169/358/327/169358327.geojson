@@ -2,13 +2,14 @@
   "id": 169358327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.252419,46.845745,-71.252419,46.845745",
     "geom:latitude":46.845745,
     "geom:longitude":-71.252419,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4765 1E Av #280",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c0c7df98e65b304cd594fe976e9a2342",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169358327
         }
     ],
     "wof:id":169358327,
-    "wof:lastmodified":1449034059,
+    "wof:lastmodified":1453930246,
     "wof:name":"Petit, Daniel",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.252419,46.845745,-71.252419,46.845745],
+  "bbox": [
+    -71.252419,
+    46.845745,
+    -71.252419,
+    46.845745
+],
   "geometry": {"coordinates":[-71.252419,46.845745],"type":"Point"}
 }

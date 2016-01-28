@@ -2,13 +2,14 @@
   "id": 152500733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.570702,45.620178,-73.570702,45.620178",
     "geom:latitude":45.620178,
     "geom:longitude":-73.570702,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9900 Boul Ray-Lawson",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ebaf5e7ae4d2cb3095eb150744f17dbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152500733
         }
     ],
     "wof:id":152500733,
-    "wof:lastmodified":1449045445,
+    "wof:lastmodified":1453933708,
     "wof:name":"Moulage Primex Inc",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.570702,45.620178,-73.570702,45.620178],
+  "bbox": [
+    -73.570702,
+    45.620178,
+    -73.570702,
+    45.620178
+],
   "geometry": {"coordinates":[-73.570702,45.620178],"type":"Point"}
 }

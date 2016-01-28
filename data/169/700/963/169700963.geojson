@@ -2,13 +2,14 @@
   "id": 169700963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.475731,45.4314,-73.475731,45.4314",
     "geom:latitude":45.4314,
     "geom:longitude":-73.475731,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9605 Rue Ignace",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875775,
+        102191575,
         85633041,
-        101736555
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"581408015ccebb418182108a9ccd1994",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85875775,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169700963
         }
     ],
     "wof:id":169700963,
-    "wof:lastmodified":1449035670,
+    "wof:lastmodified":1453931911,
     "wof:name":"Buffet Demers Traiteur",
     "wof:parent_id":85875775,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "caterer"
     ]
 },
-  "bbox": [-73.475731,45.4314,-73.475731,45.4314],
+  "bbox": [
+    -73.475731,
+    45.4314,
+    -73.475731,
+    45.4314
+],
   "geometry": {"coordinates":[-73.475731,45.4314],"type":"Point"}
 }

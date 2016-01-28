@@ -2,13 +2,14 @@
   "id": 152941957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.594124,45.535725,-73.594124,45.535725",
     "geom:latitude":45.535725,
     "geom:longitude":-73.594124,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1200 Boul Rosemont",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"2bc834f7d13a9efd6bbbf1aa3453528e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":152941957
         }
     ],
     "wof:id":152941957,
-    "wof:lastmodified":1449047058,
+    "wof:lastmodified":1453934922,
     "wof:name":"Hydro Aluminium Ltee",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.594124,45.535725,-73.594124,45.535725],
-  "geometry": {"coordinates":[-73.594124,45.535725],"type":"Point"}
+  "bbox": [
+    -73.594124,
+    45.535725,
+    -73.594124,
+    45.535725
+],
+  "geometry": {"coordinates":[-73.59412399999999,45.535725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186435167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588203,45.495956,-73.588203,45.495956",
     "geom:latitude":45.495956,
     "geom:longitude":-73.588203,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3746 Ch DE LA Cote-Des-Neiges",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866501,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"6c135969963e07e435bb56ff371ab13d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186435167
         }
     ],
     "wof:id":186435167,
-    "wof:lastmodified":1449052771,
+    "wof:lastmodified":1453936900,
     "wof:name":"Laboratoire Adp Ltee",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.588203,45.495956,-73.588203,45.495956],
-  "geometry": {"coordinates":[-73.588203,45.495956],"type":"Point"}
+  "bbox": [
+    -73.588203,
+    45.495956,
+    -73.588203,
+    45.495956
+],
+  "geometry": {"coordinates":[-73.58820299999999,45.495956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152204255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.529167,43.816818,-79.529167,43.816818",
     "geom:latitude":43.816818,
     "geom:longitude":-79.529167,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8633 Jane St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ac96c1e66b8fe5bfd1301a28e9668abd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":152204255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":152204255
         }
     ],
     "wof:id":152204255,
-    "wof:lastmodified":1449049030,
+    "wof:lastmodified":1453936457,
     "wof:name":"Romano Demolition",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.529167,43.816818,-79.529167,43.816818],
+  "bbox": [
+    -79.529167,
+    43.816818,
+    -79.529167,
+    43.816818
+],
   "geometry": {"coordinates":[-79.529167,43.816818],"type":"Point"}
 }

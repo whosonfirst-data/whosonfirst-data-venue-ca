@@ -2,13 +2,14 @@
   "id": 169366885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.365425,43.003181,-82.365425,43.003181",
     "geom:latitude":43.003181,
     "geom:longitude":-82.365425,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1316 Murphy Rd",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875569,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"e08b7d0e83882d2d67843793b1e71424",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875569,
+            "region_id":85682057,
+            "venue_id":169366885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875569,
             "region_id":85682057,
             "venue_id":169366885
         }
     ],
     "wof:id":169366885,
-    "wof:lastmodified":1449035085,
+    "wof:lastmodified":1453931320,
     "wof:name":"Brother's of St Louis",
     "wof:parent_id":85875569,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.365425,43.003181,-82.365425,43.003181],
+  "bbox": [
+    -82.365425,
+    43.003181,
+    -82.365425,
+    43.003181
+],
   "geometry": {"coordinates":[-82.365425,43.003181],"type":"Point"}
 }

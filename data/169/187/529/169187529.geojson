@@ -2,13 +2,14 @@
   "id": 169187529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.842499,43.898808,-78.842499,43.898808",
     "geom:latitude":43.898808,
     "geom:longitude":-78.842499,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"124 Wilson Rd S",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875173,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"83579d59fa7916df7ac8533e16b4be7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875173,
+            "region_id":85682057,
+            "venue_id":169187529
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875173,
             "region_id":85682057,
             "venue_id":169187529
         }
     ],
     "wof:id":169187529,
-    "wof:lastmodified":1449033182,
+    "wof:lastmodified":1453929285,
     "wof:name":"Nutech Security Systems Ltd",
     "wof:parent_id":85875173,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.842499,43.898808,-78.842499,43.898808],
+  "bbox": [
+    -78.842499,
+    43.898808,
+    -78.842499,
+    43.898808
+],
   "geometry": {"coordinates":[-78.842499,43.898808],"type":"Point"}
 }

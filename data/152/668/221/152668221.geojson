@@ -2,13 +2,14 @@
   "id": 152668221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.722069,45.433453,-75.722069,45.433453",
     "geom:latitude":45.433453,
     "geom:longitude":-75.722069,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"223 Rue Saint-Redempteur",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7657c68b55e7bd2629e178bb3953bdab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":152668221
         }
     ],
     "wof:id":152668221,
-    "wof:lastmodified":1449047520,
+    "wof:lastmodified":1453935274,
     "wof:name":"Residence DE L'Ile",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.722069,45.433453,-75.722069,45.433453],
+  "bbox": [
+    -75.722069,
+    45.433453,
+    -75.722069,
+    45.433453
+],
   "geometry": {"coordinates":[-75.722069,45.433453],"type":"Point"}
 }

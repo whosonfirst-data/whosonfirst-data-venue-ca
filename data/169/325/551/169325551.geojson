@@ -2,13 +2,14 @@
   "id": 169325551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.247284,46.793221,-71.247284,46.793221",
     "geom:latitude":46.793221,
     "geom:longitude":-71.247284,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"975 Av Ernest-Gagnon",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864431,
+        102191575,
         85633041,
-        85864431
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3aa21257c2becfede30a368052b7557f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864431,
+            "region_id":136251273,
             "venue_id":169325551
         }
     ],
     "wof:id":169325551,
-    "wof:lastmodified":1449033971,
+    "wof:lastmodified":1453930131,
     "wof:name":"Centre D'Audio Psycho",
     "wof:parent_id":85864431,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.247284,46.793221,-71.247284,46.793221],
-  "geometry": {"coordinates":[-71.247284,46.793221],"type":"Point"}
+  "bbox": [
+    -71.247284,
+    46.793221,
+    -71.247284,
+    46.793221
+],
+  "geometry": {"coordinates":[-71.24728399999999,46.793221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152720891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556526,45.545956,-73.556526,45.545956",
     "geom:latitude":45.545956,
     "geom:longitude":-73.556526,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3440 Rue Davidson",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f5e2b5616c0f24dc9298c22711854ffe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":152720891
         }
     ],
     "wof:id":152720891,
-    "wof:lastmodified":1449045396,
+    "wof:lastmodified":1453933668,
     "wof:name":"Societe Genealogique Canadian",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.556526,45.545956,-73.556526,45.545956],
-  "geometry": {"coordinates":[-73.556526,45.545956],"type":"Point"}
+  "bbox": [
+    -73.556526,
+    45.545956,
+    -73.556526,
+    45.545956
+],
+  "geometry": {"coordinates":[-73.55652600000001,45.545956],"type":"Point"}
 }

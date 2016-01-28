@@ -2,13 +2,14 @@
   "id": 169318123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.58036,46.354053,-72.58036,46.354053",
     "geom:latitude":46.354053,
     "geom:longitude":-72.58036,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1375 Rue Aubuchon",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874109,
+        102191575,
         85633041,
-        85874109
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"93a5ad8d97d90e398e7b3a68fd659a85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874109,
+            "region_id":136251273,
             "venue_id":169318123
         }
     ],
     "wof:id":169318123,
-    "wof:lastmodified":1449033413,
+    "wof:lastmodified":1453929512,
     "wof:name":"Metro Des Forges",
     "wof:parent_id":85874109,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.58036,46.354053,-72.58036,46.354053],
+  "bbox": [
+    -72.58036,
+    46.354053,
+    -72.58036,
+    46.354053
+],
   "geometry": {"coordinates":[-72.58036,46.354053],"type":"Point"}
 }

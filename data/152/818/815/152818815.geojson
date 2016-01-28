@@ -2,13 +2,14 @@
   "id": 152818815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.700249,45.422337,-75.700249,45.422337",
     "geom:latitude":45.422337,
     "geom:longitude":-75.700249,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Ottawa",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"c37bdaf117d109ac4ed27597dd7e16bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":152818815
         }
     ],
     "wof:id":152818815,
-    "wof:lastmodified":1449046549,
+    "wof:lastmodified":1453934541,
     "wof:name":"Bloomberg Business News",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.700249,45.422337,-75.700249,45.422337],
+  "bbox": [
+    -75.700249,
+    45.422337,
+    -75.700249,
+    45.422337
+],
   "geometry": {"coordinates":[-75.700249,45.422337],"type":"Point"}
 }

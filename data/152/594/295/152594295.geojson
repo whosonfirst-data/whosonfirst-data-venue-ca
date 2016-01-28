@@ -2,13 +2,14 @@
   "id": 152594295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.618156,46.37719,-72.618156,46.37719",
     "geom:latitude":46.37719,
     "geom:longitude":-72.618156,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7845 Boul Des Forges",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874097,
+        102191575,
         85633041,
-        85874097
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"6c042151a15b8c7e1eea65326cb79684",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874097,
+            "region_id":136251273,
             "venue_id":152594295
         }
     ],
     "wof:id":152594295,
-    "wof:lastmodified":1449044967,
+    "wof:lastmodified":1453933342,
     "wof:name":"Residence St-Michel",
     "wof:parent_id":85874097,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.618156,46.37719,-72.618156,46.37719],
+  "bbox": [
+    -72.618156,
+    46.37719,
+    -72.618156,
+    46.37719
+],
   "geometry": {"coordinates":[-72.618156,46.37719],"type":"Point"}
 }

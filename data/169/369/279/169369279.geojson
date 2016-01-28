@@ -2,13 +2,14 @@
   "id": 169369279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.713692,43.602409,-79.713692,43.602409",
     "geom:latitude":43.602409,
     "geom:longitude":-79.713692,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6157 Deacon Crt",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2a7097059f8b88c5a69da814c1f5aec6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":169369279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":169369279
         }
     ],
     "wof:id":169369279,
-    "wof:lastmodified":1449035793,
+    "wof:lastmodified":1453932071,
     "wof:name":"Profile Printing & Graphics",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.713692,43.602409,-79.713692,43.602409],
-  "geometry": {"coordinates":[-79.713692,43.602409],"type":"Point"}
+  "bbox": [
+    -79.713692,
+    43.602409,
+    -79.713692,
+    43.602409
+],
+  "geometry": {"coordinates":[-79.71369199999999,43.602409],"type":"Point"}
 }

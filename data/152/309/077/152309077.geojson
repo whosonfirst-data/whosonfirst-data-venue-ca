@@ -2,13 +2,14 @@
   "id": 152309077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.711739,45.549404,-73.711739,45.549404",
     "geom:latitude":45.549404,
     "geom:longitude":-73.711739,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"104 Av Breton",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bfee22dbfaf48a489df6b705c8ce260a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":152309077
         }
     ],
     "wof:id":152309077,
-    "wof:lastmodified":1449045326,
+    "wof:lastmodified":1453933612,
     "wof:name":"Cham Electrique Inc",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.711739,45.549404,-73.711739,45.549404],
-  "geometry": {"coordinates":[-73.711739,45.549404],"type":"Point"}
+  "bbox": [
+    -73.711739,
+    45.549404,
+    -73.711739,
+    45.549404
+],
+  "geometry": {"coordinates":[-73.71173899999999,45.549404],"type":"Point"}
 }

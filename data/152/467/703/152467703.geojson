@@ -2,13 +2,14 @@
   "id": 152467703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.807388,43.743847,-79.807388,43.743847",
     "geom:latitude":43.743847,
     "geom:longitude":-79.807388,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"19 Burtree Dr",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895445,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"45f5c975c7d942f6e9cc0a4f4f0ad3ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895445,
+            "region_id":85682057,
+            "venue_id":152467703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895445,
             "region_id":85682057,
             "venue_id":152467703
         }
     ],
     "wof:id":152467703,
-    "wof:lastmodified":1449047928,
+    "wof:lastmodified":1453935596,
     "wof:name":"Mc Callum Consulting",
     "wof:parent_id":85895445,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.807388,43.743847,-79.807388,43.743847],
+  "bbox": [
+    -79.807388,
+    43.743847,
+    -79.807388,
+    43.743847
+],
   "geometry": {"coordinates":[-79.807388,43.743847],"type":"Point"}
 }

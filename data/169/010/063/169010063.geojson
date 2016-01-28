@@ -2,13 +2,14 @@
   "id": 169010063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.601654,45.544479,-73.601654,45.544479",
     "geom:latitude":45.544479,
     "geom:longitude":-73.601654,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6750 Rue Marquette",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"0ff812073145cdb4074e98b8dd373578",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":169010063
         }
     ],
     "wof:id":169010063,
-    "wof:lastmodified":1449034740,
+    "wof:lastmodified":1453930951,
     "wof:name":"Alfonso Frattolillo Electric",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.601654,45.544479,-73.601654,45.544479],
+  "bbox": [
+    -73.601654,
+    45.544479,
+    -73.601654,
+    45.544479
+],
   "geometry": {"coordinates":[-73.601654,45.544479],"type":"Point"}
 }

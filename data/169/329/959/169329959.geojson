@@ -2,13 +2,14 @@
   "id": 169329959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.72644,43.407642,-79.72644,43.407642",
     "geom:latitude":43.407642,
     "geom:longitude":-79.72644,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2392 Speers Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895687,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"7c079587970795ca57cdc01138a87804",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895687,
+            "region_id":85682057,
+            "venue_id":169329959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895687,
             "region_id":85682057,
             "venue_id":169329959
         }
     ],
     "wof:id":169329959,
-    "wof:lastmodified":1449033602,
+    "wof:lastmodified":1453929727,
     "wof:name":"Glenwood Laboratories Canada",
     "wof:parent_id":85895687,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.72644,43.407642,-79.72644,43.407642],
+  "bbox": [
+    -79.72644,
+    43.407642,
+    -79.72644,
+    43.407642
+],
   "geometry": {"coordinates":[-79.72644,43.407642],"type":"Point"}
 }

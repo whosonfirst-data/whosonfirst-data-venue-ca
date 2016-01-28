@@ -2,13 +2,14 @@
   "id": 169310955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.562737,45.499454,-73.562737,45.499454",
     "geom:latitude":45.499454,
     "geom:longitude":-73.562737,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"777 Rue University",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866493,
+        102191575,
         85633041,
-        85866493
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"69d780b5d0480fea04a6aedbad46762c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866493,
+            "region_id":136251273,
             "venue_id":169310955
         }
     ],
     "wof:id":169310955,
-    "wof:lastmodified":1449034718,
+    "wof:lastmodified":1453930922,
     "wof:name":"Boutique Emmanuel",
     "wof:parent_id":85866493,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.562737,45.499454,-73.562737,45.499454],
+  "bbox": [
+    -73.562737,
+    45.499454,
+    -73.562737,
+    45.499454
+],
   "geometry": {"coordinates":[-73.562737,45.499454],"type":"Point"}
 }

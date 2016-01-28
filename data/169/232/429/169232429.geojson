@@ -2,13 +2,14 @@
   "id": 169232429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.643364,44.363892,-79.643364,44.363892",
     "geom:latitude":44.363892,
     "geom:longitude":-79.643364,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"127 Golden Meadow Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874061,
         102191575,
         85633041,
-        85874061
+        101740747,
+        85682057,
+        101735917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101740747,
             "neighbourhood_id":85874061,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169232429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735917,
+            "neighbourhood_id":85874061,
+            "region_id":85682057,
             "venue_id":169232429
         }
     ],
     "wof:id":169232429,
-    "wof:lastmodified":1449033755,
+    "wof:lastmodified":1453929891,
     "wof:name":"Holistic Health Ctr",
     "wof:parent_id":85874061,
     "wof:placetype":"venue",
@@ -58,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.643364,44.363892,-79.643364,44.363892],
-  "geometry": {"coordinates":[-79.643364,44.363892],"type":"Point"}
+  "bbox": [
+    -79.643364,
+    44.363892,
+    -79.643364,
+    44.363892
+],
+  "geometry": {"coordinates":[-79.64336400000001,44.363892],"type":"Point"}
 }

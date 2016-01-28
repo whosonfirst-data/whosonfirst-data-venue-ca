@@ -2,13 +2,14 @@
   "id": 168835989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.351509,48.449333,-123.351509,48.449333",
     "geom:latitude":48.449333,
     "geom:longitude":-123.351509,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1364 Slater St",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -30,9 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741111,
-        85633041,
         85875095,
+        102191575,
+        85633041,
+        101741111,
         85682117
     ],
     "wof:breaches":[],
@@ -43,6 +45,7 @@
     "wof:geomhash":"8ca1ff3b829dbc17c70c10ad93c08e67",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741111,
             "neighbourhood_id":85875095,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":168835989,
-    "wof:lastmodified":1449027882,
+    "wof:lastmodified":1453927900,
     "wof:name":"Schone Nygaard Interior Design",
     "wof:parent_id":85875095,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.351509,48.449333,-123.351509,48.449333],
-  "geometry": {"coordinates":[-123.351509,48.449333],"type":"Point"}
+  "bbox": [
+    -123.351509,
+    48.449333,
+    -123.351509,
+    48.449333
+],
+  "geometry": {"coordinates":[-123.35150899999999,48.449333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152320065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.127258,45.255314,-74.127258,45.255314",
     "geom:latitude":45.255314,
     "geom:longitude":-74.127258,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"31 Rue Academie",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"233ec7212a9933ff47f8db99a827d6dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":152320065
         }
     ],
     "wof:id":152320065,
-    "wof:lastmodified":1449045467,
+    "wof:lastmodified":1453933720,
     "wof:name":"Depanneur Academie Enr",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.127258,45.255314,-74.127258,45.255314],
+  "bbox": [
+    -74.127258,
+    45.255314,
+    -74.127258,
+    45.255314
+],
   "geometry": {"coordinates":[-74.127258,45.255314],"type":"Point"}
 }

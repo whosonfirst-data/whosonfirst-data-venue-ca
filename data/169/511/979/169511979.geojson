@@ -2,13 +2,14 @@
   "id": 169511979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.266876,46.888466,-71.266876,46.888466",
     "geom:latitude":46.888466,
     "geom:longitude":-71.266876,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1172 Ch DE Chateau-Bigot",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f402f4f8bc87ffa69b85af2b1b29780b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169511979
         }
     ],
     "wof:id":169511979,
-    "wof:lastmodified":1449034196,
+    "wof:lastmodified":1453930386,
     "wof:name":"Centre DE Svc Chateau Bigot",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.266876,46.888466,-71.266876,46.888466],
+  "bbox": [
+    -71.266876,
+    46.888466,
+    -71.266876,
+    46.888466
+],
   "geometry": {"coordinates":[-71.266876,46.888466],"type":"Point"}
 }

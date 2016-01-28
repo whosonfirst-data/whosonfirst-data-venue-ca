@@ -2,13 +2,14 @@
   "id": 152170621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.239647,48.424496,-71.239647,48.424496",
     "geom:latitude":48.424496,
     "geom:longitude":-71.239647,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3798 Rue Du Roi-Georges",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4daf9ff7ac24096c296808133be3a4c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152170621
         }
     ],
     "wof:id":152170621,
-    "wof:lastmodified":1449044739,
+    "wof:lastmodified":1453933167,
     "wof:name":"Banque DE Montreal",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.239647,48.424496,-71.239647,48.424496],
-  "geometry": {"coordinates":[-71.239647,48.424496],"type":"Point"}
+  "bbox": [
+    -71.239647,
+    48.424496,
+    -71.239647,
+    48.424496
+],
+  "geometry": {"coordinates":[-71.23964700000001,48.424496],"type":"Point"}
 }

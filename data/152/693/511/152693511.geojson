@@ -2,13 +2,14 @@
   "id": 152693511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.329521,46.801933,-71.329521,46.801933",
     "geom:latitude":46.801933,
     "geom:longitude":-71.329521,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6208421fbc22318c2990b6f07a842edc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152693511
         }
     ],
     "wof:id":152693511,
-    "wof:lastmodified":1449044563,
+    "wof:lastmodified":1453933033,
     "wof:name":"Bar Le Romain Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.329521,46.801933,-71.329521,46.801933],
+  "bbox": [
+    -71.329521,
+    46.801933,
+    -71.329521,
+    46.801933
+],
   "geometry": {"coordinates":[-71.329521,46.801933],"type":"Point"}
 }

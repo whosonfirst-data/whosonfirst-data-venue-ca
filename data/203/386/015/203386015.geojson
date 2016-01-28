@@ -2,13 +2,14 @@
   "id": 203386015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.240211,43.161774,-79.240211,43.161774",
     "geom:latitude":43.161774,
     "geom:longitude":-79.240211,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"33 Geneva St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -31,8 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875047,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,24 @@
     "wof:geomhash":"8ea88ce773cdb6e89b3d0c6d5c03e204",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":203386015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":203386015
         }
     ],
     "wof:id":203386015,
-    "wof:lastmodified":1449025936,
+    "wof:lastmodified":1453927594,
     "wof:name":"Dmz Pursuit Games",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -64,6 +76,11 @@
         "amusement"
     ]
 },
-  "bbox": [-79.240211,43.161774,-79.240211,43.161774],
+  "bbox": [
+    -79.240211,
+    43.161774,
+    -79.240211,
+    43.161774
+],
   "geometry": {"coordinates":[-79.240211,43.161774],"type":"Point"}
 }

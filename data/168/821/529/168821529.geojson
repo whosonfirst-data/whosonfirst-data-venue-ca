@@ -2,13 +2,14 @@
   "id": 168821529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.360352,46.802036,-71.360352,46.802036",
     "geom:latitude":46.802036,
     "geom:longitude":-71.360352,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1368 Rue Saint-Jacques",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4e77ba157ea7fbc8d0aaa7db17d321fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":168821529
         }
     ],
     "wof:id":168821529,
-    "wof:lastmodified":1449028185,
+    "wof:lastmodified":1453928246,
     "wof:name":"Tetu, Christian MD",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.360352,46.802036,-71.360352,46.802036],
-  "geometry": {"coordinates":[-71.360352,46.802036],"type":"Point"}
+  "bbox": [
+    -71.360352,
+    46.802036,
+    -71.360352,
+    46.802036
+],
+  "geometry": {"coordinates":[-71.36035200000001,46.802036],"type":"Point"}
 }

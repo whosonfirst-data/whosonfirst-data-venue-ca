@@ -2,13 +2,14 @@
   "id": 169198937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.44117,45.683098,-73.44117,45.683098",
     "geom:latitude":45.683098,
     "geom:longitude":-73.44117,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"40 Rue DE LA Fabrique",
     "sg:city":"Varennes",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738581,
+        85895719,
+        102191575,
         85633041,
-        85895719
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"b012a57ba6e6e4b41e4dcd5a2856e529",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
+            "region_id":136251273,
             "venue_id":169198937
         }
     ],
     "wof:id":169198937,
-    "wof:lastmodified":1449033886,
+    "wof:lastmodified":1453930048,
     "wof:name":"Academie Arts & Beaux Arts",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.44117,45.683098,-73.44117,45.683098],
+  "bbox": [
+    -73.44117,
+    45.683098,
+    -73.44117,
+    45.683098
+],
   "geometry": {"coordinates":[-73.44117,45.683098],"type":"Point"}
 }

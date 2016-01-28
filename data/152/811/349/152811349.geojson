@@ -2,13 +2,14 @@
   "id": 152811349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.56089,45.500622,-73.56089,45.500622",
     "geom:latitude":45.500622,
     "geom:longitude":-73.56089,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"634 Rue Saint-Jacques",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866493,
+        102191575,
         85633041,
-        85866493
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1d8b8df42febe904365b6b51fe8cf1a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866493,
+            "region_id":136251273,
             "venue_id":152811349
         }
     ],
     "wof:id":152811349,
-    "wof:lastmodified":1449046532,
+    "wof:lastmodified":1453934526,
     "wof:name":"Hebert, Andre",
     "wof:parent_id":85866493,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.56089,45.500622,-73.56089,45.500622],
+  "bbox": [
+    -73.56089,
+    45.500622,
+    -73.56089,
+    45.500622
+],
   "geometry": {"coordinates":[-73.56089,45.500622],"type":"Point"}
 }

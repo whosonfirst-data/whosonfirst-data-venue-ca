@@ -2,13 +2,14 @@
   "id": 219257457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.544907,45.544636,-73.544907,45.544636",
     "geom:latitude":45.544636,
     "geom:longitude":-73.544907,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3550 Rue Ontario E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874387,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"7e0e655ef43a6131adb7142b70456b93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219257457
         }
     ],
     "wof:id":219257457,
-    "wof:lastmodified":1449071445,
+    "wof:lastmodified":1453937682,
     "wof:name":"Charcuterie Du Village",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.544907,45.544636,-73.544907,45.544636],
-  "geometry": {"coordinates":[-73.544907,45.544636],"type":"Point"}
+  "bbox": [
+    -73.544907,
+    45.544636,
+    -73.544907,
+    45.544636
+],
+  "geometry": {"coordinates":[-73.54490699999999,45.544636],"type":"Point"}
 }

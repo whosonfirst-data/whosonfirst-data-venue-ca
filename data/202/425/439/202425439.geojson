@@ -2,13 +2,14 @@
   "id": 202425439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.359421,46.747444,-71.359421,46.747444",
     "geom:latitude":46.747444,
     "geom:longitude":-71.359421,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1471 Rue Esther-Blondin",
     "sg:city":"Cap-Rouge",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784683,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"101a94f194c52009b340a5b38c123064",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784683,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202425439
         }
     ],
     "wof:id":202425439,
-    "wof:lastmodified":1449060996,
+    "wof:lastmodified":1453937163,
     "wof:name":"Marcotte, Guy",
     "wof:parent_id":85784683,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "attorney"
     ]
 },
-  "bbox": [-71.359421,46.747444,-71.359421,46.747444],
+  "bbox": [
+    -71.359421,
+    46.747444,
+    -71.359421,
+    46.747444
+],
   "geometry": {"coordinates":[-71.359421,46.747444],"type":"Point"}
 }

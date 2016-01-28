@@ -2,13 +2,14 @@
   "id": 169430125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.573006,45.446724,-73.573006,45.446724",
     "geom:latitude":45.446724,
     "geom:longitude":-73.573006,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6049 Rue DE Verdun",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874383,
+        102191575,
         85633041,
-        85874383
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"aae5a6cab5c9199bcafdc20be6d0d431",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874383,
+            "region_id":136251273,
             "venue_id":169430125
         }
     ],
     "wof:id":169430125,
-    "wof:lastmodified":1449034792,
+    "wof:lastmodified":1453931028,
     "wof:name":"Voyages Verdun",
     "wof:parent_id":85874383,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.573006,45.446724,-73.573006,45.446724],
-  "geometry": {"coordinates":[-73.573006,45.446724],"type":"Point"}
+  "bbox": [
+    -73.573006,
+    45.446724,
+    -73.573006,
+    45.446724
+],
+  "geometry": {"coordinates":[-73.57300600000001,45.446724],"type":"Point"}
 }

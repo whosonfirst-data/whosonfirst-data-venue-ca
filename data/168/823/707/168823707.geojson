@@ -2,13 +2,14 @@
   "id": 168823707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.059929,48.429691,-71.059929,48.429691",
     "geom:latitude":48.429691,
     "geom:longitude":-71.059929,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"100 Rue LA Fontaine",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"a64fa117c251ee4fc568c7b7628ab40c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":168823707
         }
     ],
     "wof:id":168823707,
-    "wof:lastmodified":1449028587,
+    "wof:lastmodified":1453928680,
     "wof:name":"Canada Douanes",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.059929,48.429691,-71.059929,48.429691],
+  "bbox": [
+    -71.059929,
+    48.429691,
+    -71.059929,
+    48.429691
+],
   "geometry": {"coordinates":[-71.059929,48.429691],"type":"Point"}
 }

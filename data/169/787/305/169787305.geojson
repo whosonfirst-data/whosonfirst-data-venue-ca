@@ -2,13 +2,14 @@
   "id": 169787305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.191223,45.561321,-73.191223,45.561321",
     "geom:latitude":45.561321,
     "geom:longitude":-73.191223,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"261 Rue Fortier",
     "sg:city":"Mont-Saint-Hilaire",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894595,
+        102191575,
         85633041,
-        101737201
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"d9242c1fae437d215bf07e7f9d5d2b3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894595,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169787305
         }
     ],
     "wof:id":169787305,
-    "wof:lastmodified":1449034162,
+    "wof:lastmodified":1453930344,
     "wof:name":"Protex",
     "wof:parent_id":85894595,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "grounds"
     ]
 },
-  "bbox": [-73.191223,45.561321,-73.191223,45.561321],
-  "geometry": {"coordinates":[-73.191223,45.561321],"type":"Point"}
+  "bbox": [
+    -73.191223,
+    45.561321,
+    -73.191223,
+    45.561321
+],
+  "geometry": {"coordinates":[-73.19122299999999,45.561321],"type":"Point"}
 }

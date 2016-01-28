@@ -2,13 +2,14 @@
   "id": 152386649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.273125,48.421886,-71.273125,48.421886",
     "geom:latitude":48.421886,
     "geom:longitude":-71.273125,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4195 Rue DE L'Amazone",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cefbf2bfbdd4870215417aae8714bc95",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152386649
         }
     ],
     "wof:id":152386649,
-    "wof:lastmodified":1449046732,
+    "wof:lastmodified":1453934672,
     "wof:name":"Gravel, Sylvain",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.273125,48.421886,-71.273125,48.421886],
-  "geometry": {"coordinates":[-71.273125,48.421886],"type":"Point"}
+  "bbox": [
+    -71.273125,
+    48.421886,
+    -71.273125,
+    48.421886
+],
+  "geometry": {"coordinates":[-71.27312499999999,48.421886],"type":"Point"}
 }

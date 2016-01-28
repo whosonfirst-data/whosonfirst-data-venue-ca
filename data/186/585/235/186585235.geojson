@@ -2,13 +2,14 @@
   "id": 186585235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.185341,49.24754,-123.185341,49.24754",
     "geom:latitude":49.24754,
     "geom:longitude":-123.185341,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4355 Dunbar St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85865071,
+        102191575,
         85633041,
-        85682117
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"503db858479570d502e174cb45c1662a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":186585235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":186585235
         }
     ],
     "wof:id":186585235,
-    "wof:lastmodified":1449052153,
+    "wof:lastmodified":1453936790,
     "wof:name":"Dunbar Produce",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "grocer"
     ]
 },
-  "bbox": [-123.185341,49.24754,-123.185341,49.24754],
-  "geometry": {"coordinates":[-123.185341,49.24754],"type":"Point"}
+  "bbox": [
+    -123.185341,
+    49.24754,
+    -123.185341,
+    49.24754
+],
+  "geometry": {"coordinates":[-123.18534099999999,49.24754],"type":"Point"}
 }

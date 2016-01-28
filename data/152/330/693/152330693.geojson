@@ -2,13 +2,14 @@
   "id": 152330693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.702263,45.475994,-73.702263,45.475994",
     "geom:latitude":45.475994,
     "geom:longitude":-73.702263,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"180 Montee DE Liesse",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"b4825c5148d15d897e53754378e58dbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152330693
         }
     ],
     "wof:id":152330693,
-    "wof:lastmodified":1449046603,
+    "wof:lastmodified":1453934570,
     "wof:name":"Empire Maintenance Industries",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.702263,45.475994,-73.702263,45.475994],
+  "bbox": [
+    -73.702263,
+    45.475994,
+    -73.702263,
+    45.475994
+],
   "geometry": {"coordinates":[-73.702263,45.475994],"type":"Point"}
 }

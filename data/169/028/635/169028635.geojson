@@ -2,13 +2,14 @@
   "id": 169028635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589729,45.542763,-73.589729,45.542763",
     "geom:latitude":45.542763,
     "geom:longitude":-73.589729,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2035 Boul Rosemont",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"246f6bd12ad1b9739e797dfe15d2026d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":169028635
         }
     ],
     "wof:id":169028635,
-    "wof:lastmodified":1449034474,
+    "wof:lastmodified":1453930663,
     "wof:name":"Conseilleurs En Informatique",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.589729,45.542763,-73.589729,45.542763],
-  "geometry": {"coordinates":[-73.589729,45.542763],"type":"Point"}
+  "bbox": [
+    -73.589729,
+    45.542763,
+    -73.589729,
+    45.542763
+],
+  "geometry": {"coordinates":[-73.58972900000001,45.542763],"type":"Point"}
 }

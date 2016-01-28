@@ -2,13 +2,14 @@
   "id": 169413175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.863457,43.896793,-78.863457,43.896793",
     "geom:latitude":43.896793,
     "geom:longitude":-78.863457,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"32 Simcoe St S # 200",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875143,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"cc1bfa39bb5c6bf06640ffbe8e0cad5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875143,
+            "region_id":85682057,
+            "venue_id":169413175
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875143,
             "region_id":85682057,
             "venue_id":169413175
         }
     ],
     "wof:id":169413175,
-    "wof:lastmodified":1449033214,
+    "wof:lastmodified":1453929305,
     "wof:name":"Hazlett Parker, Valerie A",
     "wof:parent_id":85875143,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.863457,43.896793,-78.863457,43.896793],
+  "bbox": [
+    -78.863457,
+    43.896793,
+    -78.863457,
+    43.896793
+],
   "geometry": {"coordinates":[-78.863457,43.896793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152714913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.570168,46.40741,-72.570168,46.40741",
     "geom:latitude":46.40741,
     "geom:longitude":-72.570168,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"510 Rue Launier",
     "sg:city":"Saint-Louis-DE-France",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85785013,
+        102191575,
         85633041,
-        85785013
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f8404ad0259810b851dfefa24b7edde6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85785013,
+            "region_id":136251273,
             "venue_id":152714913
         }
     ],
     "wof:id":152714913,
-    "wof:lastmodified":1449046579,
+    "wof:lastmodified":1453934553,
     "wof:name":"Leclerc, Jean-Guy",
     "wof:parent_id":85785013,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.570168,46.40741,-72.570168,46.40741],
+  "bbox": [
+    -72.570168,
+    46.40741,
+    -72.570168,
+    46.40741
+],
   "geometry": {"coordinates":[-72.570168,46.40741],"type":"Point"}
 }

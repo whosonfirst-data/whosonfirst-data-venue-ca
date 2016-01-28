@@ -2,13 +2,14 @@
   "id": 202936271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.718979,45.530254,-73.718979,45.530254",
     "geom:latitude":45.530254,
     "geom:longitude":-73.718979,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12202 Rue Ranger",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897493,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"e7284db4ceee419e1a8bab060ee9489f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897493,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202936271
         }
     ],
     "wof:id":202936271,
-    "wof:lastmodified":1449060957,
+    "wof:lastmodified":1453937153,
     "wof:name":"Plancher Laurentide Inc",
     "wof:parent_id":85897493,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-73.718979,45.530254,-73.718979,45.530254],
+  "bbox": [
+    -73.718979,
+    45.530254,
+    -73.718979,
+    45.530254
+],
   "geometry": {"coordinates":[-73.718979,45.530254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152379671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.447968,45.612118,-73.447968,45.612118",
     "geom:latitude":45.612118,
     "geom:longitude":-73.447968,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"650 Rue Antoine-Girouard",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875751,
+        102191575,
         85633041,
-        85875751
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"a81a7dfed7d8403b03cb769611c14a24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875751,
+            "region_id":136251273,
             "venue_id":152379671
         }
     ],
     "wof:id":152379671,
-    "wof:lastmodified":1449046990,
+    "wof:lastmodified":1453934861,
     "wof:name":"Antoine Gerouard Ecole",
     "wof:parent_id":85875751,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.447968,45.612118,-73.447968,45.612118],
+  "bbox": [
+    -73.447968,
+    45.612118,
+    -73.447968,
+    45.612118
+],
   "geometry": {"coordinates":[-73.447968,45.612118],"type":"Point"}
 }

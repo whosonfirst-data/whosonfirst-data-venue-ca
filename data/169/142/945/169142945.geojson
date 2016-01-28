@@ -2,13 +2,14 @@
   "id": 169142945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.870834,43.524761,-79.870834,43.524761",
     "geom:latitude":43.524761,
     "geom:longitude":-79.870834,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"785 Main St E #8D",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895175,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"b4390abc89c0275d07d4f72ba76c300b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895175,
+            "region_id":85682057,
+            "venue_id":169142945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895175,
             "region_id":85682057,
             "venue_id":169142945
         }
     ],
     "wof:id":169142945,
-    "wof:lastmodified":1449035299,
+    "wof:lastmodified":1453931505,
     "wof:name":"Concept Cabinets",
     "wof:parent_id":85895175,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.870834,43.524761,-79.870834,43.524761],
+  "bbox": [
+    -79.870834,
+    43.524761,
+    -79.870834,
+    43.524761
+],
   "geometry": {"coordinates":[-79.870834,43.524761],"type":"Point"}
 }

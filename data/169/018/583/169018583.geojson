@@ -2,13 +2,14 @@
   "id": 169018583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.657143,45.546677,-73.657143,45.546677",
     "geom:latitude":45.546677,
     "geom:longitude":-73.657143,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"35 Rue DE Port-Royal E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897505,
+        102191575,
         85633041,
-        85897505
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"fd7d559a7425a3f268bdb6657014573e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897505,
+            "region_id":136251273,
             "venue_id":169018583
         }
     ],
     "wof:id":169018583,
-    "wof:lastmodified":1449034329,
+    "wof:lastmodified":1453930504,
     "wof:name":"Quebec Commissaire General",
     "wof:parent_id":85897505,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.657143,45.546677,-73.657143,45.546677],
+  "bbox": [
+    -73.657143,
+    45.546677,
+    -73.657143,
+    45.546677
+],
   "geometry": {"coordinates":[-73.657143,45.546677],"type":"Point"}
 }

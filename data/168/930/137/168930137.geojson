@@ -2,13 +2,14 @@
   "id": 168930137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.916779,45.388165,-71.916779,45.388165",
     "geom:latitude":45.388165,
     "geom:longitude":-71.916779,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1211 Rue Sainte-Therese",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874185,
+        102191575,
         85633041,
-        85874185
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"402d6a9c2c195f673d038de1311871d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874185,
+            "region_id":136251273,
             "venue_id":168930137
         }
     ],
     "wof:id":168930137,
-    "wof:lastmodified":1449027999,
+    "wof:lastmodified":1453928042,
     "wof:name":"Guy Pelletier Ermes-Feu",
     "wof:parent_id":85874185,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.916779,45.388165,-71.916779,45.388165],
-  "geometry": {"coordinates":[-71.916779,45.388165],"type":"Point"}
+  "bbox": [
+    -71.916779,
+    45.388165,
+    -71.916779,
+    45.388165
+],
+  "geometry": {"coordinates":[-71.91677900000001,45.388165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202501797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.761818,45.375946,-73.761818,45.375946",
     "geom:latitude":45.375946,
     "geom:longitude":-73.761818,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"76 Rue Duranceau",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895759,
+        102191575,
         85633041,
-        101738001
+        101738001,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"48e5e1b810cc9917a179c328aee7d4a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738001,
             "neighbourhood_id":85895759,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202501797
         }
     ],
     "wof:id":202501797,
-    "wof:lastmodified":1449062673,
+    "wof:lastmodified":1453937509,
     "wof:name":"Electro Menager Chateauguay",
     "wof:parent_id":85895759,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.761818,45.375946,-73.761818,45.375946],
-  "geometry": {"coordinates":[-73.761818,45.375946],"type":"Point"}
+  "bbox": [
+    -73.761818,
+    45.375946,
+    -73.761818,
+    45.375946
+],
+  "geometry": {"coordinates":[-73.76181800000001,45.375946],"type":"Point"}
 }

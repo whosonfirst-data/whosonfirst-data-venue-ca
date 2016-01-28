@@ -2,13 +2,14 @@
   "id": 153056509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.289047,45.305565,-73.289047,45.305565",
     "geom:latitude":45.305565,
     "geom:longitude":-73.289047,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"690 Rue Des Carrieres",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"4c28b2d3bb34f2eca9b5fca86dd823a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":153056509
         }
     ],
     "wof:id":153056509,
-    "wof:lastmodified":1449040466,
+    "wof:lastmodified":1453932414,
     "wof:name":"Garage R Rondeau",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.289047,45.305565,-73.289047,45.305565],
+  "bbox": [
+    -73.289047,
+    45.305565,
+    -73.289047,
+    45.305565
+],
   "geometry": {"coordinates":[-73.289047,45.305565],"type":"Point"}
 }

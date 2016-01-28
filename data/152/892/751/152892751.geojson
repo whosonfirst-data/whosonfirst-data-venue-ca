@@ -2,13 +2,14 @@
   "id": 152892751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.345169,43.860031,-79.345169,43.860031",
     "geom:latitude":43.860031,
     "geom:longitude":-79.345169,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"445 Apple Creek Blvd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895493,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"acc39210e0907a1e6c7183375f77dc60",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895493,
+            "region_id":85682057,
+            "venue_id":152892751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895493,
             "region_id":85682057,
             "venue_id":152892751
         }
     ],
     "wof:id":152892751,
-    "wof:lastmodified":1449044985,
+    "wof:lastmodified":1453933349,
     "wof:name":"Stonehaven Financial Group",
     "wof:parent_id":85895493,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.345169,43.860031,-79.345169,43.860031],
+  "bbox": [
+    -79.345169,
+    43.860031,
+    -79.345169,
+    43.860031
+],
   "geometry": {"coordinates":[-79.345169,43.860031],"type":"Point"}
 }

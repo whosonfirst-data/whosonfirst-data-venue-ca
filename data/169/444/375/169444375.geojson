@@ -2,13 +2,14 @@
   "id": 169444375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.60202,45.580288,-73.60202,45.580288",
     "geom:latitude":45.580288,
     "geom:longitude":-73.60202,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874359,
+        102191575,
         85633041,
-        85874359
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"539e37dd240e3b9451b5be90b181b08b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
+            "region_id":136251273,
             "venue_id":169444375
         }
     ],
     "wof:id":169444375,
-    "wof:lastmodified":1449035508,
+    "wof:lastmodified":1453931744,
     "wof:name":"Cristiano, Vincenzo DDS",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.60202,45.580288,-73.60202,45.580288],
+  "bbox": [
+    -73.60202,
+    45.580288,
+    -73.60202,
+    45.580288
+],
   "geometry": {"coordinates":[-73.60202,45.580288],"type":"Point"}
 }

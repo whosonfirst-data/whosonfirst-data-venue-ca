@@ -2,13 +2,14 @@
   "id": 152689975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.734558,45.593578,-73.734558,45.593578",
     "geom:latitude":45.593578,
     "geom:longitude":-73.734558,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1810 Place Martenot",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864417,
+        102191575,
         85633041,
-        85864417
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8a503a8805890d35c02bce716fca3e50",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
+            "region_id":136251273,
             "venue_id":152689975
         }
     ],
     "wof:id":152689975,
-    "wof:lastmodified":1449048142,
+    "wof:lastmodified":1453935753,
     "wof:name":"Lcl Ressorts & Alignements",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.734558,45.593578,-73.734558,45.593578],
-  "geometry": {"coordinates":[-73.734558,45.593578],"type":"Point"}
+  "bbox": [
+    -73.734558,
+    45.593578,
+    -73.734558,
+    45.593578
+],
+  "geometry": {"coordinates":[-73.73455800000001,45.593578],"type":"Point"}
 }

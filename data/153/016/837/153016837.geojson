@@ -2,13 +2,14 @@
   "id": 153016837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.427078,45.503044,-73.427078,45.503044",
     "geom:latitude":45.503044,
     "geom:longitude":-73.427078,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5174 Boul Cousineau",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9b087c22a34186dbfb8147635732054b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":153016837
         }
     ],
     "wof:id":153016837,
-    "wof:lastmodified":1449040409,
+    "wof:lastmodified":1453932366,
     "wof:name":"Clinique Dentaire Berthiaume",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.427078,45.503044,-73.427078,45.503044],
-  "geometry": {"coordinates":[-73.427078,45.503044],"type":"Point"}
+  "bbox": [
+    -73.427078,
+    45.503044,
+    -73.427078,
+    45.503044
+],
+  "geometry": {"coordinates":[-73.42707799999999,45.503044],"type":"Point"}
 }

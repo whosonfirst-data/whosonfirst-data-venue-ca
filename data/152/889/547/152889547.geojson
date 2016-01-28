@@ -2,13 +2,14 @@
   "id": 152889547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.851189,45.495781,-73.851189,45.495781",
     "geom:latitude":45.495781,
     "geom:longitude":-73.851189,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"14073 Boul Gouin O",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784833,
+        102191575,
         85633041,
-        85784833
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"fb23e72f00b9f65b78c79eccb87d2dde",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784833,
+            "region_id":136251273,
             "venue_id":152889547
         }
     ],
     "wof:id":152889547,
-    "wof:lastmodified":1449044193,
+    "wof:lastmodified":1453932752,
     "wof:name":"Gouin Auto Electrique",
     "wof:parent_id":85784833,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.851189,45.495781,-73.851189,45.495781],
-  "geometry": {"coordinates":[-73.851189,45.495781],"type":"Point"}
+  "bbox": [
+    -73.851189,
+    45.495781,
+    -73.851189,
+    45.495781
+],
+  "geometry": {"coordinates":[-73.85118900000001,45.495781],"type":"Point"}
 }

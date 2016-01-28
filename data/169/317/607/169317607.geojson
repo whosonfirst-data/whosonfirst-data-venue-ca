@@ -2,13 +2,14 @@
   "id": 169317607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.414314,43.476337,-80.414314,43.476337",
     "geom:latitude":43.476337,
     "geom:longitude":-80.414314,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"122 Woolwich St S",
     "sg:city":"Breslau",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875013,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"03e80c46223a792b741e1b9d6308227e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875013,
+            "region_id":85682057,
+            "venue_id":169317607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736239,
             "neighbourhood_id":85875013,
             "region_id":85682057,
             "venue_id":169317607
         }
     ],
     "wof:id":169317607,
-    "wof:lastmodified":1449034179,
+    "wof:lastmodified":1453930360,
     "wof:name":"Breslau Service Ctr",
     "wof:parent_id":85875013,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.414314,43.476337,-80.414314,43.476337],
+  "bbox": [
+    -80.414314,
+    43.476337,
+    -80.414314,
+    43.476337
+],
   "geometry": {"coordinates":[-80.414314,43.476337],"type":"Point"}
 }

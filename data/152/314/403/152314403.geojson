@@ -2,13 +2,14 @@
   "id": 152314403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.680237,43.733578,-79.680237,43.733578",
     "geom:latitude":43.733578,
     "geom:longitude":-79.680237,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"72 Devon Rd # 1",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"e6eb95b5531c6cc8c5ebdd2ce832e018",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152314403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152314403
         }
     ],
     "wof:id":152314403,
-    "wof:lastmodified":1449048719,
+    "wof:lastmodified":1453936193,
     "wof:name":"Powerwright Services Inc",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.680237,43.733578,-79.680237,43.733578],
-  "geometry": {"coordinates":[-79.680237,43.733578],"type":"Point"}
+  "bbox": [
+    -79.680237,
+    43.733578,
+    -79.680237,
+    43.733578
+],
+  "geometry": {"coordinates":[-79.68023700000001,43.733578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168846883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.254631,43.027683,-82.254631,43.027683",
     "geom:latitude":43.027683,
     "geom:longitude":-82.254631,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2684 Lakeshore Rd",
     "sg:city":"Brights Grove",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864451,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"cdfb74bd360dc83cbb9e5db4ea969fc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85864451,
+            "region_id":85682057,
+            "venue_id":168846883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85864451,
             "region_id":85682057,
             "venue_id":168846883
         }
     ],
     "wof:id":168846883,
-    "wof:lastmodified":1449028408,
+    "wof:lastmodified":1453928488,
     "wof:name":"Bright's Grove Animal Hospital",
     "wof:parent_id":85864451,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.254631,43.027683,-82.254631,43.027683],
+  "bbox": [
+    -82.254631,
+    43.027683,
+    -82.254631,
+    43.027683
+],
   "geometry": {"coordinates":[-82.254631,43.027683],"type":"Point"}
 }

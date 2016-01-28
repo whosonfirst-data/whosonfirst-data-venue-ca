@@ -2,13 +2,14 @@
   "id": 152169781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.15448,46.885544,-71.15448,46.885544",
     "geom:latitude":46.885544,
     "geom:longitude":-71.15448,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2424 Av Royale",
     "sg:city":"Beauport",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736835,
+        85866513,
+        102191575,
         85633041,
-        85866513
+        101736835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"a9e864f5909e92bdfce6a9a49a7bc817",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736835,
             "neighbourhood_id":85866513,
+            "region_id":136251273,
             "venue_id":152169781
         }
     ],
     "wof:id":152169781,
-    "wof:lastmodified":1449047147,
+    "wof:lastmodified":1453934997,
     "wof:name":"Mary Kay Cosmetics",
     "wof:parent_id":85866513,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.15448,46.885544,-71.15448,46.885544],
-  "geometry": {"coordinates":[-71.15448,46.885544],"type":"Point"}
+  "bbox": [
+    -71.15448,
+    46.885544,
+    -71.15448,
+    46.885544
+],
+  "geometry": {"coordinates":[-71.15448000000001,46.885544],"type":"Point"}
 }

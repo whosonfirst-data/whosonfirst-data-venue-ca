@@ -2,13 +2,14 @@
   "id": 152143451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.415215,45.570606,-73.415215,45.570606",
     "geom:latitude":45.570606,
     "geom:longitude":-73.415215,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1550 Rue Ampere",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875755,
+        102191575,
         85633041,
-        85875755
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bb24e9e4373cff19f67903a4e3e1c9a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875755,
+            "region_id":136251273,
             "venue_id":152143451
         }
     ],
     "wof:id":152143451,
-    "wof:lastmodified":1449048137,
+    "wof:lastmodified":1453935748,
     "wof:name":"Academie Sylbert",
     "wof:parent_id":85875755,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.415215,45.570606,-73.415215,45.570606],
+  "bbox": [
+    -73.415215,
+    45.570606,
+    -73.415215,
+    45.570606
+],
   "geometry": {"coordinates":[-73.415215,45.570606],"type":"Point"}
 }

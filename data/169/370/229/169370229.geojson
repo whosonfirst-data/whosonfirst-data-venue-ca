@@ -2,13 +2,14 @@
   "id": 169370229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.428757,43.475384,-80.428757,43.475384",
     "geom:latitude":43.475384,
     "geom:longitude":-80.428757,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"206 Centennial Crt",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875013,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"9c253f503b53ea2f561d285f4f6ba161",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875013,
+            "region_id":85682057,
+            "venue_id":169370229
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736239,
             "neighbourhood_id":85875013,
             "region_id":85682057,
             "venue_id":169370229
         }
     ],
     "wof:id":169370229,
-    "wof:lastmodified":1449034495,
+    "wof:lastmodified":1453930680,
     "wof:name":"Stop Restaurant Supply Inc",
     "wof:parent_id":85875013,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.428757,43.475384,-80.428757,43.475384],
+  "bbox": [
+    -80.428757,
+    43.475384,
+    -80.428757,
+    43.475384
+],
   "geometry": {"coordinates":[-80.428757,43.475384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152343615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.157234,42.977425,-81.157234,42.977425",
     "geom:latitude":42.977425,
     "geom:longitude":-81.157234,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1821 Pension Lane",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874925,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g1VC3QYIH0CTpb1sDpJZ6_42.977425_-81.157234@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"14f3444507bb716a85cba1f5b69537b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874925,
+            "region_id":85682057,
+            "venue_id":152343615
+        }
+    ],
     "wof:id":152343615,
-    "wof:lastmodified":1449047580,
+    "wof:lastmodified":1453935327,
     "wof:name":"Hedley Bennett Truck Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874925,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.157234,42.977425,-81.157234,42.977425],
+  "bbox": [
+    -81.157234,
+    42.977425,
+    -81.157234,
+    42.977425
+],
   "geometry": {"coordinates":[-81.157234,42.977425],"type":"Point"}
 }

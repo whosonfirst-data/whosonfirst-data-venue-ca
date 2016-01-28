@@ -2,13 +2,14 @@
   "id": 202750187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.58017,49.16449,-122.58017,49.16449",
     "geom:latitude":49.16449,
     "geom:longitude":-122.58017,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8910 Bartlett St",
     "sg:city":"Langley",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894779,
+        102191575,
         85633041,
-        85682117
+        101740805,
+        85682117,
+        101746133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"ab688654dd08f79209da331674129170",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740805,
+            "neighbourhood_id":85894779,
+            "region_id":85682117,
+            "venue_id":202750187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101746133,
             "neighbourhood_id":85894779,
             "region_id":85682117,
             "venue_id":202750187
         }
     ],
     "wof:id":202750187,
-    "wof:lastmodified":1449061658,
+    "wof:lastmodified":1453937300,
     "wof:name":"Gilbert & Sons Excavating Ltd",
     "wof:parent_id":85894779,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.58017,49.16449,-122.58017,49.16449],
+  "bbox": [
+    -122.58017,
+    49.16449,
+    -122.58017,
+    49.16449
+],
   "geometry": {"coordinates":[-122.58017,49.16449],"type":"Point"}
 }

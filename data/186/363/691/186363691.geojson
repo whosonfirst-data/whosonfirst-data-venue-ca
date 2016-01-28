@@ -2,13 +2,14 @@
   "id": 186363691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.66951,45.528343,-73.66951,45.528343",
     "geom:latitude":45.528343,
     "geom:longitude":-73.66951,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"235 Boul DE LA Cote-Vertu",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874385,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"9bb838c1199a5e950fe73872c58b815a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874385,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186363691
         }
     ],
     "wof:id":186363691,
-    "wof:lastmodified":1449052692,
+    "wof:lastmodified":1453936888,
     "wof:name":"Centre D'Electrolyse",
     "wof:parent_id":85874385,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "electrolysis"
     ]
 },
-  "bbox": [-73.66951,45.528343,-73.66951,45.528343],
+  "bbox": [
+    -73.66951,
+    45.528343,
+    -73.66951,
+    45.528343
+],
   "geometry": {"coordinates":[-73.66951,45.528343],"type":"Point"}
 }

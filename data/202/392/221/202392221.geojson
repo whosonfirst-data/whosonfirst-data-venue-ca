@@ -2,13 +2,14 @@
   "id": 202392221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.464951,43.99696,-79.464951,43.99696",
     "geom:latitude":43.99696,
     "geom:longitude":-79.464951,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"79 Victoria St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895551,
         102191575,
         85633041,
-        85895551
+        101736049,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736049,
             "neighbourhood_id":85895551,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":202392221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895551,
+            "region_id":85682057,
             "venue_id":202392221
         }
     ],
     "wof:id":202392221,
-    "wof:lastmodified":1449062158,
+    "wof:lastmodified":1453937402,
     "wof:name":"Trinity Anglican Church",
     "wof:parent_id":85895551,
     "wof:placetype":"venue",
@@ -59,6 +70,11 @@
         "church"
     ]
 },
-  "bbox": [-79.464951,43.99696,-79.464951,43.99696],
+  "bbox": [
+    -79.464951,
+    43.99696,
+    -79.464951,
+    43.99696
+],
   "geometry": {"coordinates":[-79.464951,43.99696],"type":"Point"}
 }

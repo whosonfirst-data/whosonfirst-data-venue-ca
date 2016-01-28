@@ -2,13 +2,14 @@
   "id": 153010441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.245979,42.986805,-81.245979,42.986805",
     "geom:latitude":42.986805,
     "geom:longitude":-81.245979,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"468 Wellington St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jAqBp65NhhlogasZzR8ZV_42.986805_-81.245979@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c6f73bad92a3a8345b564ff59cbebaa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":153010441
+        }
+    ],
     "wof:id":153010441,
-    "wof:lastmodified":1449040649,
+    "wof:lastmodified":1453932572,
     "wof:name":"Metropolitan United Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.245979,42.986805,-81.245979,42.986805],
-  "geometry": {"coordinates":[-81.245979,42.986805],"type":"Point"}
+  "bbox": [
+    -81.245979,
+    42.986805,
+    -81.245979,
+    42.986805
+],
+  "geometry": {"coordinates":[-81.24597900000001,42.986805],"type":"Point"}
 }

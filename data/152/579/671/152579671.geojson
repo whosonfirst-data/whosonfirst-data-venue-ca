@@ -2,13 +2,14 @@
   "id": 152579671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589859,45.602757,-73.589859,45.602757",
     "geom:latitude":45.602757,
     "geom:longitude":-73.589859,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8730 Rue Pascal-Gagnon",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874367,
+        102191575,
         85633041,
-        85874367
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ed2ff9a659be8ff114bc123c1ac01963",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874367,
+            "region_id":136251273,
             "venue_id":152579671
         }
     ],
     "wof:id":152579671,
-    "wof:lastmodified":1449045773,
+    "wof:lastmodified":1453933954,
     "wof:name":"Centre DE Verification Mcnque",
     "wof:parent_id":85874367,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.589859,45.602757,-73.589859,45.602757],
+  "bbox": [
+    -73.589859,
+    45.602757,
+    -73.589859,
+    45.602757
+],
   "geometry": {"coordinates":[-73.589859,45.602757],"type":"Point"}
 }

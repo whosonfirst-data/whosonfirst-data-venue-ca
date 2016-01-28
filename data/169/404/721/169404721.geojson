@@ -2,13 +2,14 @@
   "id": 169404721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.724541,45.363899,-73.724541,45.363899",
     "geom:latitude":45.363899,
     "geom:longitude":-73.724541,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"295 Rue Mcleod",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738001,
+        85895755,
+        102191575,
         85633041,
-        85895755
+        101738001,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"aa081bd98ff521333ce2d5128cf549cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738001,
             "neighbourhood_id":85895755,
+            "region_id":136251273,
             "venue_id":169404721
         }
     ],
     "wof:id":169404721,
-    "wof:lastmodified":1449034885,
+    "wof:lastmodified":1453931110,
     "wof:name":"Parish of Our Lady of Perpet",
     "wof:parent_id":85895755,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.724541,45.363899,-73.724541,45.363899],
+  "bbox": [
+    -73.724541,
+    45.363899,
+    -73.724541,
+    45.363899
+],
   "geometry": {"coordinates":[-73.724541,45.363899],"type":"Point"}
 }

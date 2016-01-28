@@ -2,13 +2,14 @@
   "id": 169389165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.217178,46.858871,-71.217178,46.858871",
     "geom:latitude":46.858871,
     "geom:longitude":-71.217178,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3333 Rue Du Carrefour",
     "sg:city":"Beauport",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874717,
+        102191575,
         85633041,
-        85874717
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"7e728492006e89470060ac264eb15e2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874717,
+            "region_id":136251273,
             "venue_id":169389165
         }
     ],
     "wof:id":169389165,
-    "wof:lastmodified":1449035287,
+    "wof:lastmodified":1453931495,
     "wof:name":"Coq Roti",
     "wof:parent_id":85874717,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.217178,46.858871,-71.217178,46.858871],
+  "bbox": [
+    -71.217178,
+    46.858871,
+    -71.217178,
+    46.858871
+],
   "geometry": {"coordinates":[-71.217178,46.858871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168925741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.650124,45.580105,-73.650124,45.580105",
     "geom:latitude":45.580105,
     "geom:longitude":-73.650124,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10660 Av Larose",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897499,
+        102191575,
         85633041,
-        85897499
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2b73876dc27a134af251612ad26e842d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897499,
+            "region_id":136251273,
             "venue_id":168925741
         }
     ],
     "wof:id":168925741,
-    "wof:lastmodified":1449027779,
+    "wof:lastmodified":1453927788,
     "wof:name":"St Antoine Marie Claret Eglise",
     "wof:parent_id":85897499,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.650124,45.580105,-73.650124,45.580105],
-  "geometry": {"coordinates":[-73.650124,45.580105],"type":"Point"}
+  "bbox": [
+    -73.650124,
+    45.580105,
+    -73.650124,
+    45.580105
+],
+  "geometry": {"coordinates":[-73.65012400000001,45.580105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152587401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.573433,43.19706,-79.573433,43.19706",
     "geom:latitude":43.19706,
     "geom:longitude":-79.573433,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"88 Livingston Ave",
     "sg:city":"Grimsby",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895027,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101735899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"071bae9ca8bfe6784a0ce610b3809fc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85895027,
+            "region_id":85682057,
+            "venue_id":152587401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735899,
             "neighbourhood_id":85895027,
             "region_id":85682057,
             "venue_id":152587401
         }
     ],
     "wof:id":152587401,
-    "wof:lastmodified":1449045893,
+    "wof:lastmodified":1453934048,
     "wof:name":"Fleming, R P DDS",
     "wof:parent_id":85895027,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.573433,43.19706,-79.573433,43.19706],
-  "geometry": {"coordinates":[-79.573433,43.19706],"type":"Point"}
+  "bbox": [
+    -79.573433,
+    43.19706,
+    -79.573433,
+    43.19706
+],
+  "geometry": {"coordinates":[-79.57343299999999,43.19706],"type":"Point"}
 }

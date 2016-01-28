@@ -2,13 +2,14 @@
   "id": 168963339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.953583,43.877151,-78.953583,43.877151",
     "geom:latitude":43.877151,
     "geom:longitude":-78.953583,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"821 Dundas St W",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895409,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e6ef872349d907a9b60b70fb3029f418",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":168963339
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":168963339
         }
     ],
     "wof:id":168963339,
-    "wof:lastmodified":1449027857,
+    "wof:lastmodified":1453927876,
     "wof:name":"Tim Hortons",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.953583,43.877151,-78.953583,43.877151],
-  "geometry": {"coordinates":[-78.953583,43.877151],"type":"Point"}
+  "bbox": [
+    -78.953583,
+    43.877151,
+    -78.953583,
+    43.877151
+],
+  "geometry": {"coordinates":[-78.95358299999999,43.877151],"type":"Point"}
 }

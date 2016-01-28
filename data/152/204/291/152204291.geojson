@@ -2,13 +2,14 @@
   "id": 152204291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.446671,43.910629,-79.446671,43.910629",
     "geom:latitude":43.910629,
     "geom:longitude":-79.446671,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11610 Yonge St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895353,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"f87c10e605d7a2f1019a450c87435ee6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895353,
+            "region_id":85682057,
+            "venue_id":152204291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895353,
             "region_id":85682057,
             "venue_id":152204291
         }
     ],
     "wof:id":152204291,
-    "wof:lastmodified":1449049029,
+    "wof:lastmodified":1453936457,
     "wof:name":"Summit Motel",
     "wof:parent_id":85895353,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.446671,43.910629,-79.446671,43.910629],
-  "geometry": {"coordinates":[-79.446671,43.910629],"type":"Point"}
+  "bbox": [
+    -79.446671,
+    43.910629,
+    -79.446671,
+    43.910629
+],
+  "geometry": {"coordinates":[-79.44667099999999,43.910629],"type":"Point"}
 }

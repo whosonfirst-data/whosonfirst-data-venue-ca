@@ -2,13 +2,14 @@
   "id": 169506965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.73288,45.435478,-75.73288,45.435478",
     "geom:latitude":45.435478,
     "geom:longitude":-75.73288,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"230 Boul Saint-Joseph",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"1fecc80453336a8be794eb63c6e3b907",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":169506965
         }
     ],
     "wof:id":169506965,
-    "wof:lastmodified":1449032758,
+    "wof:lastmodified":1453928873,
     "wof:name":"Chez Jennifer",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.73288,45.435478,-75.73288,45.435478],
-  "geometry": {"coordinates":[-75.73288,45.435478],"type":"Point"}
+  "bbox": [
+    -75.73288,
+    45.435478,
+    -75.73288,
+    45.435478
+],
+  "geometry": {"coordinates":[-75.73287999999999,45.435478],"type":"Point"}
 }

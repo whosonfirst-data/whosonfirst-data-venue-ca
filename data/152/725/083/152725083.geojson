@@ -2,13 +2,14 @@
   "id": 152725083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.68512,44.414555,-79.68512,44.414555",
     "geom:latitude":44.414555,
     "geom:longitude":-79.68512,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"345 Livingstone St E",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4M 7B5",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875267,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zpVsPT1R4FBrhRgutwnrc_44.414555_-79.685120@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5b3cf97f284d086471550430a70bfcc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875267,
+            "region_id":85682057,
+            "venue_id":152725083
+        }
+    ],
     "wof:id":152725083,
-    "wof:lastmodified":1449045417,
+    "wof:lastmodified":1453933686,
     "wof:name":"Monsignor Clair Catholic Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.68512,44.414555,-79.68512,44.414555],
+  "bbox": [
+    -79.68512,
+    44.414555,
+    -79.68512,
+    44.414555
+],
   "geometry": {"coordinates":[-79.68512,44.414555],"type":"Point"}
 }

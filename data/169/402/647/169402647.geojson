@@ -2,13 +2,14 @@
   "id": 169402647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.95462,45.39357,-73.95462,45.39357",
     "geom:latitude":45.39357,
     "geom:longitude":-73.95462,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Rue DE L'Eglise",
     "sg:city":"Notre-Dame-DE-L'Ile-Perrot",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737255,
+        85784905,
+        102191575,
         85633041,
-        85784905
+        101737255,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7de36bc1ec4c40c32ccb4a381df2063f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737255,
             "neighbourhood_id":85784905,
+            "region_id":136251273,
             "venue_id":169402647
         }
     ],
     "wof:id":169402647,
-    "wof:lastmodified":1449033744,
+    "wof:lastmodified":1453929874,
     "wof:name":"Presbytere Ste Jeanne-Chantal",
     "wof:parent_id":85784905,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.95462,45.39357,-73.95462,45.39357],
-  "geometry": {"coordinates":[-73.95462,45.39357],"type":"Point"}
+  "bbox": [
+    -73.95462,
+    45.39357,
+    -73.95462,
+    45.39357
+],
+  "geometry": {"coordinates":[-73.95462000000001,45.39357],"type":"Point"}
 }

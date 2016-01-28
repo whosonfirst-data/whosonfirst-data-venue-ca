@@ -2,13 +2,14 @@
   "id": 152871825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.287399,43.838776,-79.287399,43.838776",
     "geom:latitude":43.838776,
     "geom:longitude":-79.287399,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"49 Galbraith Cres",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895359,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"db109b9165e94f973f4605e424324dd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895359,
+            "region_id":85682057,
+            "venue_id":152871825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895359,
             "region_id":85682057,
             "venue_id":152871825
         }
     ],
     "wof:id":152871825,
-    "wof:lastmodified":1449045825,
+    "wof:lastmodified":1453933988,
     "wof:name":"Bell's Excavating",
     "wof:parent_id":85895359,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.287399,43.838776,-79.287399,43.838776],
-  "geometry": {"coordinates":[-79.287399,43.838776],"type":"Point"}
+  "bbox": [
+    -79.287399,
+    43.838776,
+    -79.287399,
+    43.838776
+],
+  "geometry": {"coordinates":[-79.28739899999999,43.838776],"type":"Point"}
 }

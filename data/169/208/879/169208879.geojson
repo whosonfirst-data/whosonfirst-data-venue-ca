@@ -2,13 +2,14 @@
   "id": 169208879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.833679,45.606976,-73.833679,45.606976",
     "geom:latitude":45.606976,
     "geom:longitude":-73.833679,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"358 Ch DE LA Grande-Cote",
     "sg:city":"Boisbriand",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"1f5990e1dc2a051876a4417edbfad51b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":169208879
         }
     ],
     "wof:id":169208879,
-    "wof:lastmodified":1449033066,
+    "wof:lastmodified":1453929188,
     "wof:name":"Allo Informatique Inc",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.833679,45.606976,-73.833679,45.606976],
+  "bbox": [
+    -73.833679,
+    45.606976,
+    -73.833679,
+    45.606976
+],
   "geometry": {"coordinates":[-73.833679,45.606976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185668181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55452,45.4967,-73.55452,45.4967",
     "geom:latitude":45.4967,
     "geom:longitude":-73.55452,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"55 Rue Prince",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897617,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"47be1a9ed8570c7bc3183d08e69b6f3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897617,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185668181
         }
     ],
     "wof:id":185668181,
-    "wof:lastmodified":1449007715,
+    "wof:lastmodified":1453927335,
     "wof:name":"Semantix",
     "wof:parent_id":85897617,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-73.55452,45.4967,-73.55452,45.4967],
+  "bbox": [
+    -73.55452,
+    45.4967,
+    -73.55452,
+    45.4967
+],
   "geometry": {"coordinates":[-73.55452,45.4967],"type":"Point"}
 }

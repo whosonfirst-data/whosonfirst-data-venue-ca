@@ -2,13 +2,14 @@
   "id": 169453849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.557045,45.505043,-73.557045,45.505043",
     "geom:latitude":45.505043,
     "geom:longitude":-73.557045,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"500 Place D'Armes # 2920",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bd5e22f4616115fedfb83c51e0829264",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":169453849
         }
     ],
     "wof:id":169453849,
-    "wof:lastmodified":1449035148,
+    "wof:lastmodified":1453931366,
     "wof:name":"Barbacki, Andrew",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.557045,45.505043,-73.557045,45.505043],
+  "bbox": [
+    -73.557045,
+    45.505043,
+    -73.557045,
+    45.505043
+],
   "geometry": {"coordinates":[-73.557045,45.505043],"type":"Point"}
 }

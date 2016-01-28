@@ -2,13 +2,14 @@
   "id": 169162459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.429825,45.506214,-73.429825,45.506214",
     "geom:latitude":45.506214,
     "geom:longitude":-73.429825,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5000 Boul Cousineau",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        102555331,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,21 +40,29 @@
     "wof:geomhash":"6df43376a0d3334a9800844a14145bcc",
     "wof:hierarchy":[
         {
+            "campus_id":102555331,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":169162459
         }
     ],
     "wof:id":169162459,
-    "wof:lastmodified":1449035482,
+    "wof:lastmodified":1453931711,
     "wof:name":"Teddy's Deli & Bar",
-    "wof:parent_id":85864415,
+    "wof:parent_id":102555331,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.429825,45.506214,-73.429825,45.506214],
-  "geometry": {"coordinates":[-73.429825,45.506214],"type":"Point"}
+  "bbox": [
+    -73.429825,
+    45.506214,
+    -73.429825,
+    45.506214
+],
+  "geometry": {"coordinates":[-73.42982499999999,45.506214],"type":"Point"}
 }

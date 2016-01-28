@@ -2,13 +2,14 @@
   "id": 152495537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.223152,43.115181,-79.223152,43.115181",
     "geom:latitude":43.115181,
     "geom:longitude":-79.223152,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"56 Ward Cir",
     "sg:city":"Thorold",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875043,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c583f3430a36fdcf9ee6cfb5760b8465",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875043,
+            "region_id":85682057,
+            "venue_id":152495537
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875043,
             "region_id":85682057,
             "venue_id":152495537
         }
     ],
     "wof:id":152495537,
-    "wof:lastmodified":1449046347,
+    "wof:lastmodified":1453934385,
     "wof:name":"Wedding Planner",
     "wof:parent_id":85875043,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.223152,43.115181,-79.223152,43.115181],
+  "bbox": [
+    -79.223152,
+    43.115181,
+    -79.223152,
+    43.115181
+],
   "geometry": {"coordinates":[-79.223152,43.115181],"type":"Point"}
 }

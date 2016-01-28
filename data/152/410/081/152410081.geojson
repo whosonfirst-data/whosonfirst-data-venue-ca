@@ -2,13 +2,14 @@
   "id": 152410081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.165604,49.1805,-123.165604,49.1805",
     "geom:latitude":49.1805,
     "geom:longitude":-123.165604,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5360 Airport Rd S # 309",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741081,
+        102555307,
+        85894871,
+        102191575,
         85633041,
-        85894881,
+        101741081,
         85682117
     ],
     "wof:breaches":[],
@@ -40,22 +43,29 @@
     "wof:geomhash":"8295f13e5c2bf7543ed05f77266d5b80",
     "wof:hierarchy":[
         {
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741081,
-            "neighbourhood_id":85894881,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":152410081
         }
     ],
     "wof:id":152410081,
-    "wof:lastmodified":1449044360,
+    "wof:lastmodified":1453932868,
     "wof:name":"Promark Aviation Svc",
-    "wof:parent_id":85894881,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.165604,49.1805,-123.165604,49.1805],
+  "bbox": [
+    -123.165604,
+    49.1805,
+    -123.165604,
+    49.1805
+],
   "geometry": {"coordinates":[-123.165604,49.1805],"type":"Point"}
 }

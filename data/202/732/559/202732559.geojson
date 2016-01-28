@@ -2,13 +2,14 @@
   "id": 202732559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.416763,42.997795,-82.416763,42.997795",
     "geom:latitude":42.997795,
     "geom:longitude":-82.416763,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"129 Michigan Ave",
     "sg:city":"Point Edward",
     "sg:classifiers":[
@@ -32,8 +33,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784851,
+        102191575,
         85633041,
-        85682057
+        101740719,
+        85682057,
+        101736019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,24 @@
     "wof:geomhash":"76b779bcccd3629c71fac71276bbe3bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":202732559
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736019,
             "neighbourhood_id":85784851,
             "region_id":85682057,
             "venue_id":202732559
         }
     ],
     "wof:id":202732559,
-    "wof:lastmodified":1449062753,
+    "wof:lastmodified":1453937523,
     "wof:name":"Wilson Plumbing & Hardware Ltd",
     "wof:parent_id":85784851,
     "wof:placetype":"venue",
@@ -66,6 +78,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.416763,42.997795,-82.416763,42.997795],
+  "bbox": [
+    -82.416763,
+    42.997795,
+    -82.416763,
+    42.997795
+],
   "geometry": {"coordinates":[-82.416763,42.997795],"type":"Point"}
 }

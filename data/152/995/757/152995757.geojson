@@ -2,13 +2,14 @@
   "id": 152995757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.571999,43.62011,-79.571999,43.62011",
     "geom:latitude":43.62011,
     "geom:longitude":-79.571999,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1870 Dundas St E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"af99e0a950c0f56d70caed6d2d13662c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":152995757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":152995757
         }
     ],
     "wof:id":152995757,
-    "wof:lastmodified":1449048411,
+    "wof:lastmodified":1453935959,
     "wof:name":"Oz Tech Computers",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.571999,43.62011,-79.571999,43.62011],
-  "geometry": {"coordinates":[-79.571999,43.62011],"type":"Point"}
+  "bbox": [
+    -79.571999,
+    43.62011,
+    -79.571999,
+    43.62011
+],
+  "geometry": {"coordinates":[-79.57199900000001,43.62011],"type":"Point"}
 }

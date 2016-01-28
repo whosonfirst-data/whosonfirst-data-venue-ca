@@ -2,13 +2,14 @@
   "id": 152718955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.477425,45.438496,-73.477425,45.438496",
     "geom:latitude":45.438496,
     "geom:longitude":-73.477425,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brossard",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85875775,
+        102191575,
         85633041,
-        85875775
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"43fabd59b10f44819718b2386906b1ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85875775,
+            "region_id":136251273,
             "venue_id":152718955
         }
     ],
     "wof:id":152718955,
-    "wof:lastmodified":1449045300,
+    "wof:lastmodified":1453933586,
     "wof:name":"Notre-Dame-DE-Bonsecours",
     "wof:parent_id":85875775,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.477425,45.438496,-73.477425,45.438496],
+  "bbox": [
+    -73.477425,
+    45.438496,
+    -73.477425,
+    45.438496
+],
   "geometry": {"coordinates":[-73.477425,45.438496],"type":"Point"}
 }

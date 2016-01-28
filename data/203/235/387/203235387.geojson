@@ -2,13 +2,14 @@
   "id": 203235387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.397263,43.819481,-79.397263,43.819481",
     "geom:latitude":43.819481,
     "geom:longitude":-79.397263,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300 John St",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895609,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"b2b5c4c5e610b702b5e152f358cae64b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895609,
+            "region_id":85682057,
+            "venue_id":203235387
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895609,
             "region_id":85682057,
             "venue_id":203235387
         }
     ],
     "wof:id":203235387,
-    "wof:lastmodified":1449025272,
+    "wof:lastmodified":1453927471,
     "wof:name":"George's Steam Svc",
     "wof:parent_id":85895609,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-79.397263,43.819481,-79.397263,43.819481],
+  "bbox": [
+    -79.397263,
+    43.819481,
+    -79.397263,
+    43.819481
+],
   "geometry": {"coordinates":[-79.397263,43.819481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169040607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.469597,45.473305,-73.469597,45.473305",
     "geom:latitude":45.473305,
     "geom:longitude":-73.469597,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brossard",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897507,
+        102191575,
         85633041,
-        85897507
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"8cf1ce3b1193db398c4fc87292aea506",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897507,
+            "region_id":136251273,
             "venue_id":169040607
         }
     ],
     "wof:id":169040607,
-    "wof:lastmodified":1449035868,
+    "wof:lastmodified":1453932159,
     "wof:name":"Centre Dentaire Familial",
     "wof:parent_id":85897507,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.469597,45.473305,-73.469597,45.473305],
-  "geometry": {"coordinates":[-73.469597,45.473305],"type":"Point"}
+  "bbox": [
+    -73.469597,
+    45.473305,
+    -73.469597,
+    45.473305
+],
+  "geometry": {"coordinates":[-73.46959699999999,45.473305],"type":"Point"}
 }

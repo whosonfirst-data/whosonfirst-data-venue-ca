@@ -2,13 +2,14 @@
   "id": 152604049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.267845,45.330509,-73.267845,45.330509",
     "geom:latitude":45.330509,
     "geom:longitude":-73.267845,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"900 Boul Du Seminaire N # 320",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3d20f646f13a64925d20e0345eef8c3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":152604049
         }
     ],
     "wof:id":152604049,
-    "wof:lastmodified":1449048388,
+    "wof:lastmodified":1453935937,
     "wof:name":"Clinique D'Orthopedie Du Haut",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.267845,45.330509,-73.267845,45.330509],
-  "geometry": {"coordinates":[-73.267845,45.330509],"type":"Point"}
+  "bbox": [
+    -73.267845,
+    45.330509,
+    -73.267845,
+    45.330509
+],
+  "geometry": {"coordinates":[-73.26784499999999,45.330509],"type":"Point"}
 }

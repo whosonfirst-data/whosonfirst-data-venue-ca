@@ -2,13 +2,14 @@
   "id": 169275473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.672821,44.333126,-79.672821,44.333126",
     "geom:latitude":44.333126,
     "geom:longitude":-79.672821,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"201 Saunders Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875279,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kKK1kIbc7XCl2R1s2yrV8_44.333126_-79.672821@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4a10c9a9e01a406b4d60b3373319b7a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875279,
+            "region_id":85682057,
+            "venue_id":169275473
+        }
+    ],
     "wof:id":169275473,
-    "wof:lastmodified":1449033748,
+    "wof:lastmodified":1453929879,
     "wof:name":"Stewart Food Svc Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.672821,44.333126,-79.672821,44.333126],
+  "bbox": [
+    -79.672821,
+    44.333126,
+    -79.672821,
+    44.333126
+],
   "geometry": {"coordinates":[-79.672821,44.333126],"type":"Point"}
 }

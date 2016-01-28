@@ -2,13 +2,14 @@
   "id": 152829481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.571259,46.35899,-72.571259,46.35899",
     "geom:latitude":46.35899,
     "geom:longitude":-72.571259,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"875 Boul Des Recollets",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874109,
+        102191575,
         85633041,
-        85874109
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"8b30043d592d341c1629c1ec75dcd910",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874109,
+            "region_id":136251273,
             "venue_id":152829481
         }
     ],
     "wof:id":152829481,
-    "wof:lastmodified":1449048619,
+    "wof:lastmodified":1453936103,
     "wof:name":"Cabana, Claude",
     "wof:parent_id":85874109,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.571259,46.35899,-72.571259,46.35899],
+  "bbox": [
+    -72.571259,
+    46.35899,
+    -72.571259,
+    46.35899
+],
   "geometry": {"coordinates":[-72.571259,46.35899],"type":"Point"}
 }

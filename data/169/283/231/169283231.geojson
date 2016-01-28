@@ -2,13 +2,14 @@
   "id": 169283231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.211739,46.813019,-71.211739,46.813019",
     "geom:latitude":46.813019,
     "geom:longitude":-71.211739,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"26 Rue Sainte-Angele",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864435,
+        102191575,
         85633041,
-        85864435
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"80ae003bff1679927766b07072671f08",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864435,
+            "region_id":136251273,
             "venue_id":169283231
         }
     ],
     "wof:id":169283231,
-    "wof:lastmodified":1449033660,
+    "wof:lastmodified":1453929785,
     "wof:name":"Bar Ste-Angele",
     "wof:parent_id":85864435,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.211739,46.813019,-71.211739,46.813019],
-  "geometry": {"coordinates":[-71.211739,46.813019],"type":"Point"}
+  "bbox": [
+    -71.211739,
+    46.813019,
+    -71.211739,
+    46.813019
+],
+  "geometry": {"coordinates":[-71.21173899999999,46.813019],"type":"Point"}
 }

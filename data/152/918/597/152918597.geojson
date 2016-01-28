@@ -2,13 +2,14 @@
   "id": 152918597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.548645,45.597851,-73.548645,45.597851",
     "geom:latitude":45.597851,
     "geom:longitude":-73.548645,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7620 Boul Yves-Prevost",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897585,
+        102191575,
         85633041,
-        85897585
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6d4237b13644b28edc5c1fd7c8635671",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897585,
+            "region_id":136251273,
             "venue_id":152918597
         }
     ],
     "wof:id":152918597,
-    "wof:lastmodified":1449047448,
+    "wof:lastmodified":1453935211,
     "wof:name":"9103-9099 Quebec Inc",
     "wof:parent_id":85897585,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.548645,45.597851,-73.548645,45.597851],
-  "geometry": {"coordinates":[-73.548645,45.597851],"type":"Point"}
+  "bbox": [
+    -73.548645,
+    45.597851,
+    -73.548645,
+    45.597851
+],
+  "geometry": {"coordinates":[-73.54864499999999,45.597851],"type":"Point"}
 }

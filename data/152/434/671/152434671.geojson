@@ -2,13 +2,14 @@
   "id": 152434671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.604195,45.472099,-73.604195,45.472099",
     "geom:latitude":45.472099,
     "geom:longitude":-73.604195,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1100 Boul Decarie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897613,
+        102191575,
         85633041,
-        85897613
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"85b9b3fd21d15a0a716439b2ca879217",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897613,
+            "region_id":136251273,
             "venue_id":152434671
         }
     ],
     "wof:id":152434671,
-    "wof:lastmodified":1449045303,
+    "wof:lastmodified":1453933589,
     "wof:name":"Nelson Garage Inc",
     "wof:parent_id":85897613,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.604195,45.472099,-73.604195,45.472099],
+  "bbox": [
+    -73.604195,
+    45.472099,
+    -73.604195,
+    45.472099
+],
   "geometry": {"coordinates":[-73.604195,45.472099],"type":"Point"}
 }

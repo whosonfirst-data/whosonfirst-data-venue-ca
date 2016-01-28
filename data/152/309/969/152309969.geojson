@@ -2,13 +2,14 @@
   "id": 152309969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.880714,48.333492,-70.880714,48.333492",
     "geom:latitude":48.333492,
     "geom:longitude":-70.880714,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"LA Baie",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785011,
+        102191575,
         85633041,
-        85785011
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b365f2d560e45b9afffaa59f8e53720a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
+            "region_id":136251273,
             "venue_id":152309969
         }
     ],
     "wof:id":152309969,
-    "wof:lastmodified":1449045327,
+    "wof:lastmodified":1453933612,
     "wof:name":"Clinique Dentaire Gagnon",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.880714,48.333492,-70.880714,48.333492],
+  "bbox": [
+    -70.880714,
+    48.333492,
+    -70.880714,
+    48.333492
+],
   "geometry": {"coordinates":[-70.880714,48.333492],"type":"Point"}
 }

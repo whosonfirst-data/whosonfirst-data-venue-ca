@@ -2,13 +2,14 @@
   "id": 168845255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.173431,49.18026,-123.173431,49.18026",
     "geom:latitude":49.18026,
     "geom:longitude":-123.173431,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4380 Agar Dr",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741081,
+        102555307,
+        85894871,
+        102191575,
         85633041,
-        85894889,
+        101741081,
         85682117
     ],
     "wof:breaches":[],
@@ -42,22 +45,29 @@
     "wof:geomhash":"a5a90e66df9705b972a54f5f56b7d27d",
     "wof:hierarchy":[
         {
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741081,
-            "neighbourhood_id":85894889,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":168845255
         }
     ],
     "wof:id":168845255,
-    "wof:lastmodified":1449027897,
+    "wof:lastmodified":1453927921,
     "wof:name":"Northern Thunderbird Air Inc",
-    "wof:parent_id":85894889,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.173431,49.18026,-123.173431,49.18026],
-  "geometry": {"coordinates":[-123.173431,49.18026],"type":"Point"}
+  "bbox": [
+    -123.173431,
+    49.18026,
+    -123.173431,
+    49.18026
+],
+  "geometry": {"coordinates":[-123.17343099999999,49.18026],"type":"Point"}
 }

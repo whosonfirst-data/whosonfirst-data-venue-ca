@@ -2,13 +2,14 @@
   "id": 219693079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.888039,48.330166,-70.888039,48.330166",
     "geom:latitude":48.330166,
     "geom:longitude":-70.888039,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1793 8E Av",
     "sg:city":"LA Baie",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785011,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"3976e9190ae338df3c2681368761a855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219693079
         }
     ],
     "wof:id":219693079,
-    "wof:lastmodified":1449070584,
+    "wof:lastmodified":1453937561,
     "wof:name":"Planchers A Mercier",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-70.888039,48.330166,-70.888039,48.330166],
-  "geometry": {"coordinates":[-70.888039,48.330166],"type":"Point"}
+  "bbox": [
+    -70.888039,
+    48.330166,
+    -70.888039,
+    48.330166
+],
+  "geometry": {"coordinates":[-70.88803900000001,48.330166],"type":"Point"}
 }

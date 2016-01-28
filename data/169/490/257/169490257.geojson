@@ -2,13 +2,14 @@
   "id": 169490257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.282646,46.876446,-71.282646,46.876446",
     "geom:latitude":46.876446,
     "geom:longitude":-71.282646,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2add81cd13d153e7d0677ddbe607058e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169490257
         }
     ],
     "wof:id":169490257,
-    "wof:lastmodified":1449035620,
+    "wof:lastmodified":1453931863,
     "wof:name":"Quebec Teleguide & Modeliste",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.282646,46.876446,-71.282646,46.876446],
+  "bbox": [
+    -71.282646,
+    46.876446,
+    -71.282646,
+    46.876446
+],
   "geometry": {"coordinates":[-71.282646,46.876446],"type":"Point"}
 }

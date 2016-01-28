@@ -2,13 +2,14 @@
   "id": 169453573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.491005,45.52721,-73.491005,45.52721",
     "geom:latitude":45.52721,
     "geom:longitude":-73.491005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"445 Boul Sainte-Foy # 10",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875727,
+        102191575,
         85633041,
-        85875727
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d022ef08239d44163e6d20e4b2d7aa8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875727,
+            "region_id":136251273,
             "venue_id":169453573
         }
     ],
     "wof:id":169453573,
-    "wof:lastmodified":1449035151,
+    "wof:lastmodified":1453931370,
     "wof:name":"Richard, Maurice",
     "wof:parent_id":85875727,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.491005,45.52721,-73.491005,45.52721],
+  "bbox": [
+    -73.491005,
+    45.52721,
+    -73.491005,
+    45.52721
+],
   "geometry": {"coordinates":[-73.491005,45.52721],"type":"Point"}
 }

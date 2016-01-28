@@ -2,13 +2,14 @@
   "id": 152826063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.615456,43.609215,-79.615456,43.609215",
     "geom:latitude":43.609215,
     "geom:longitude":-79.615456,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3714 Broomhill Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895225,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"55fce4a99aed0103014b6daeca504946",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":152826063
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":152826063
         }
     ],
     "wof:id":152826063,
-    "wof:lastmodified":1449047654,
+    "wof:lastmodified":1453935385,
     "wof:name":"Tree Fellers Ltd",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.615456,43.609215,-79.615456,43.609215],
-  "geometry": {"coordinates":[-79.615456,43.609215],"type":"Point"}
+  "bbox": [
+    -79.615456,
+    43.609215,
+    -79.615456,
+    43.609215
+],
+  "geometry": {"coordinates":[-79.61545599999999,43.609215],"type":"Point"}
 }

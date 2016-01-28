@@ -2,13 +2,14 @@
   "id": 152753567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.443115,45.504299,-73.443115,45.504299",
     "geom:latitude":45.504299,
     "geom:longitude":-73.443115,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4435 Av Thibault",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"580a778d4e64963f5c63769d108fd335",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":152753567
         }
     ],
     "wof:id":152753567,
-    "wof:lastmodified":1449044852,
+    "wof:lastmodified":1453933251,
     "wof:name":"Vertdure Rive-Sud",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.443115,45.504299,-73.443115,45.504299],
-  "geometry": {"coordinates":[-73.443115,45.504299],"type":"Point"}
+  "bbox": [
+    -73.443115,
+    45.504299,
+    -73.443115,
+    45.504299
+],
+  "geometry": {"coordinates":[-73.44311500000001,45.504299],"type":"Point"}
 }

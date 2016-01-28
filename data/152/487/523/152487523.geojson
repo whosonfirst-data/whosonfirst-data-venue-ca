@@ -2,13 +2,14 @@
   "id": 152487523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.840714,45.603912,-73.840714,45.603912",
     "geom:latitude":45.603912,
     "geom:longitude":-73.840714,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Boisbriand",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"15f103d4316bc480ce62dd8518107fe4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":152487523
         }
     ],
     "wof:id":152487523,
-    "wof:lastmodified":1449045816,
+    "wof:lastmodified":1453933986,
     "wof:name":"Boutique Du Village Inc",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.840714,45.603912,-73.840714,45.603912],
-  "geometry": {"coordinates":[-73.840714,45.603912],"type":"Point"}
+  "bbox": [
+    -73.840714,
+    45.603912,
+    -73.840714,
+    45.603912
+],
+  "geometry": {"coordinates":[-73.84071400000001,45.603912],"type":"Point"}
 }

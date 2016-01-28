@@ -2,13 +2,14 @@
   "id": 152329763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.623573,45.540829,-73.623573,45.540829",
     "geom:latitude":45.540829,
     "geom:longitude":-73.623573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7716 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"437bd1196891d839be60391ad494a05e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152329763
         }
     ],
     "wof:id":152329763,
-    "wof:lastmodified":1449045588,
+    "wof:lastmodified":1453933815,
     "wof:name":"Charland, Lucie DDS",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.623573,45.540829,-73.623573,45.540829],
-  "geometry": {"coordinates":[-73.623573,45.540829],"type":"Point"}
+  "bbox": [
+    -73.623573,
+    45.540829,
+    -73.623573,
+    45.540829
+],
+  "geometry": {"coordinates":[-73.62357299999999,45.540829],"type":"Point"}
 }

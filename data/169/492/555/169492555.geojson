@@ -2,13 +2,14 @@
   "id": 169492555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682892,44.360622,-79.682892,44.360622",
     "geom:latitude":44.360622,
     "geom:longitude":-79.682892,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875277,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34AYrpXweLL2Tz2A8tMQdH_44.360622_-79.682892@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f4f8fbebaa3432adc65e6d6eb2ad8c90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
+            "region_id":85682057,
+            "venue_id":169492555
+        }
+    ],
     "wof:id":169492555,
-    "wof:lastmodified":1449032684,
+    "wof:lastmodified":1453928798,
     "wof:name":"Tamarack Woods Town Homes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.682892,44.360622,-79.682892,44.360622],
+  "bbox": [
+    -79.682892,
+    44.360622,
+    -79.682892,
+    44.360622
+],
   "geometry": {"coordinates":[-79.682892,44.360622],"type":"Point"}
 }

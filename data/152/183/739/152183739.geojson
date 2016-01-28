@@ -2,13 +2,14 @@
   "id": 152183739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.079124,43.858231,-79.079124,43.858231",
     "geom:latitude":43.858231,
     "geom:longitude":-79.079124,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Pickering",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895087,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"a896255e6f35e13d5d3aeedda03a5cb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895087,
+            "region_id":85682057,
+            "venue_id":152183739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895087,
             "region_id":85682057,
             "venue_id":152183739
         }
     ],
     "wof:id":152183739,
-    "wof:lastmodified":1449046783,
+    "wof:lastmodified":1453934712,
     "wof:name":"Uniforms Plus",
     "wof:parent_id":85895087,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.079124,43.858231,-79.079124,43.858231],
-  "geometry": {"coordinates":[-79.079124,43.858231],"type":"Point"}
+  "bbox": [
+    -79.079124,
+    43.858231,
+    -79.079124,
+    43.858231
+],
+  "geometry": {"coordinates":[-79.07912399999999,43.858231],"type":"Point"}
 }

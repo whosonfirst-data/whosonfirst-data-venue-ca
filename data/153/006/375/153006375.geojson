@@ -2,13 +2,14 @@
   "id": 153006375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.728424,43.865383,-79.728424,43.865383",
     "geom:latitude":43.865383,
     "geom:longitude":-79.728424,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"521 Piercey Rd",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895277,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"775f46fc8363e9426a1ebc13f446b0a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895277,
+            "region_id":85682057,
+            "venue_id":153006375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895277,
             "region_id":85682057,
             "venue_id":153006375
         }
     ],
     "wof:id":153006375,
-    "wof:lastmodified":1449040720,
+    "wof:lastmodified":1453932641,
     "wof:name":"Peerless Custom Woodworking",
     "wof:parent_id":85895277,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.728424,43.865383,-79.728424,43.865383],
+  "bbox": [
+    -79.728424,
+    43.865383,
+    -79.728424,
+    43.865383
+],
   "geometry": {"coordinates":[-79.728424,43.865383],"type":"Point"}
 }

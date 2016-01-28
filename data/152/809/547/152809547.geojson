@@ -2,13 +2,14 @@
   "id": 152809547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.223633,42.984299,-81.223633,42.984299",
     "geom:latitude":42.984299,
     "geom:longitude":-81.223633,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"760 Little Simcoe St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -30,23 +31,43 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_187dMqT4DJNst3AguPkGHD_42.984299_-81.223633@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e8670bd92c58c280e3906124ad35f21d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":152809547
+        }
+    ],
     "wof:id":152809547,
-    "wof:lastmodified":1449048080,
+    "wof:lastmodified":1453935708,
     "wof:name":"Terry's Environmental Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.223633,42.984299,-81.223633,42.984299],
-  "geometry": {"coordinates":[-81.223633,42.984299],"type":"Point"}
+  "bbox": [
+    -81.223633,
+    42.984299,
+    -81.223633,
+    42.984299
+],
+  "geometry": {"coordinates":[-81.22363300000001,42.984299],"type":"Point"}
 }

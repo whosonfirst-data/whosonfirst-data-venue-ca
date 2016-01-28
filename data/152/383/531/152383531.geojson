@@ -2,13 +2,14 @@
   "id": 152383531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.621704,45.446671,-73.621704,45.446671",
     "geom:latitude":45.446671,
     "geom:longitude":-73.621704,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7228 Rue Cordner",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897535,
+        102191575,
         85633041,
-        85897535
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"9464020af856cb5d217992ec05a75e00",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897535,
+            "region_id":136251273,
             "venue_id":152383531
         }
     ],
     "wof:id":152383531,
-    "wof:lastmodified":1449046265,
+    "wof:lastmodified":1453934318,
     "wof:name":"Engrenages Lasalle Inc",
     "wof:parent_id":85897535,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.621704,45.446671,-73.621704,45.446671],
-  "geometry": {"coordinates":[-73.621704,45.446671],"type":"Point"}
+  "bbox": [
+    -73.621704,
+    45.446671,
+    -73.621704,
+    45.446671
+],
+  "geometry": {"coordinates":[-73.62170399999999,45.446671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169471173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.757126,45.584969,-73.757126,45.584969",
     "geom:latitude":45.584969,
     "geom:longitude":-73.757126,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2085 Rue Michelin",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897565,
+        102191575,
         85633041,
-        85897565
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"938e7a30ab4afe70081b17e21711e340",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897565,
+            "region_id":136251273,
             "venue_id":169471173
         }
     ],
     "wof:id":169471173,
-    "wof:lastmodified":1449034003,
+    "wof:lastmodified":1453930166,
     "wof:name":"Services DE LA Premiere Gnrl",
     "wof:parent_id":85897565,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.757126,45.584969,-73.757126,45.584969],
+  "bbox": [
+    -73.757126,
+    45.584969,
+    -73.757126,
+    45.584969
+],
   "geometry": {"coordinates":[-73.757126,45.584969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152653189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.065308,43.851395,-79.065308,43.851395",
     "geom:latitude":43.851395,
     "geom:longitude":-79.065308,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1976 Notion Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895087,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"36c3be233d2c6bb061695872b526c769",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895087,
+            "region_id":85682057,
+            "venue_id":152653189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895087,
             "region_id":85682057,
             "venue_id":152653189
         }
     ],
     "wof:id":152653189,
-    "wof:lastmodified":1449044635,
+    "wof:lastmodified":1453933087,
     "wof:name":"J W Burton Roofing Ltd",
     "wof:parent_id":85895087,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.065308,43.851395,-79.065308,43.851395],
+  "bbox": [
+    -79.065308,
+    43.851395,
+    -79.065308,
+    43.851395
+],
   "geometry": {"coordinates":[-79.065308,43.851395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219452249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.360512,43.832214,-79.360512,43.832214",
     "geom:latitude":43.832214,
     "geom:longitude":-79.360512,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"200 Konrad Cres",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895135,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"57f7e71ff676a79283d7dff2e629b450",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895135,
+            "region_id":85682057,
+            "venue_id":219452249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895135,
             "region_id":85682057,
             "venue_id":219452249
         }
     ],
     "wof:id":219452249,
-    "wof:lastmodified":1449071221,
+    "wof:lastmodified":1453937654,
     "wof:name":"Borland Canada Corp",
     "wof:parent_id":85895135,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-79.360512,43.832214,-79.360512,43.832214],
+  "bbox": [
+    -79.360512,
+    43.832214,
+    -79.360512,
+    43.832214
+],
   "geometry": {"coordinates":[-79.360512,43.832214],"type":"Point"}
 }

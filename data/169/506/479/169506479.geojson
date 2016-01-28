@@ -2,13 +2,14 @@
   "id": 169506479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.555931,45.495075,-73.555931,45.495075",
     "geom:latitude":45.495075,
     "geom:longitude":-73.555931,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897617,
+        102191575,
         85633041,
-        85897617
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"193dc4bc903bad6c802a324c91214ffa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897617,
+            "region_id":136251273,
             "venue_id":169506479
         }
     ],
     "wof:id":169506479,
-    "wof:lastmodified":1449032757,
+    "wof:lastmodified":1453928873,
     "wof:name":"Sodexho Marriot Quebec Inc",
     "wof:parent_id":85897617,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.555931,45.495075,-73.555931,45.495075],
+  "bbox": [
+    -73.555931,
+    45.495075,
+    -73.555931,
+    45.495075
+],
   "geometry": {"coordinates":[-73.555931,45.495075],"type":"Point"}
 }

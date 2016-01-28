@@ -2,13 +2,14 @@
   "id": 169005099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.239159,43.864609,-79.239159,43.864609",
     "geom:latitude":43.864609,
     "geom:longitude":-79.239159,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Trout Lily Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895157,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"4bebd33fa77433abb54eec9ef80d4a8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895157,
+            "region_id":85682057,
+            "venue_id":169005099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895157,
             "region_id":85682057,
             "venue_id":169005099
         }
     ],
     "wof:id":169005099,
-    "wof:lastmodified":1449035692,
+    "wof:lastmodified":1453931941,
     "wof:name":"Bizomya",
     "wof:parent_id":85895157,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.239159,43.864609,-79.239159,43.864609],
+  "bbox": [
+    -79.239159,
+    43.864609,
+    -79.239159,
+    43.864609
+],
   "geometry": {"coordinates":[-79.239159,43.864609],"type":"Point"}
 }

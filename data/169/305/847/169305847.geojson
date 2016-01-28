@@ -2,13 +2,14 @@
   "id": 169305847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.890968,43.530106,-79.890968,43.530106",
     "geom:latitude":43.530106,
     "geom:longitude":-79.890968,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"420 Mcgeachie Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895533,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"84f6730917a4e21cdc53032fcb93de82",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895533,
+            "region_id":85682057,
+            "venue_id":169305847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895533,
             "region_id":85682057,
             "venue_id":169305847
         }
     ],
     "wof:id":169305847,
-    "wof:lastmodified":1449033193,
+    "wof:lastmodified":1453929293,
     "wof:name":"Metrix Ready Mix Ltd",
     "wof:parent_id":85895533,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.890968,43.530106,-79.890968,43.530106],
+  "bbox": [
+    -79.890968,
+    43.530106,
+    -79.890968,
+    43.530106
+],
   "geometry": {"coordinates":[-79.890968,43.530106],"type":"Point"}
 }

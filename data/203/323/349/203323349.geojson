@@ -2,13 +2,14 @@
   "id": 203323349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.212532,46.815769,-71.212532,46.815769",
     "geom:latitude":46.815769,
     "geom:longitude":-71.212532,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1084 Rue Saint-Vallier E",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864435,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"8d846a6f337fb9333f9652ca08faf85c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864435,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203323349
         }
     ],
     "wof:id":203323349,
-    "wof:lastmodified":1449025096,
+    "wof:lastmodified":1453927438,
     "wof:name":"Projam Inc",
     "wof:parent_id":85864435,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-71.212532,46.815769,-71.212532,46.815769],
+  "bbox": [
+    -71.212532,
+    46.815769,
+    -71.212532,
+    46.815769
+],
   "geometry": {"coordinates":[-71.212532,46.815769],"type":"Point"}
 }

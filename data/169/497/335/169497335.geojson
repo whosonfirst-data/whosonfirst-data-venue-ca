@@ -2,13 +2,14 @@
   "id": 169497335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.250572,46.802296,-71.250572,46.802296",
     "geom:latitude":46.802296,
     "geom:longitude":-71.250572,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1088 Rue Lescarbot",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874719,
+        102191575,
         85633041,
-        85874719
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ed4bc2274a81f8509c7081cc41becc5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874719,
+            "region_id":136251273,
             "venue_id":169497335
         }
     ],
     "wof:id":169497335,
-    "wof:lastmodified":1449035920,
+    "wof:lastmodified":1453932211,
     "wof:name":"Ms 2 Controle Inc",
     "wof:parent_id":85874719,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.250572,46.802296,-71.250572,46.802296],
-  "geometry": {"coordinates":[-71.250572,46.802296],"type":"Point"}
+  "bbox": [
+    -71.250572,
+    46.802296,
+    -71.250572,
+    46.802296
+],
+  "geometry": {"coordinates":[-71.25057200000001,46.802296],"type":"Point"}
 }

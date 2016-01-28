@@ -2,13 +2,14 @@
   "id": 169219371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.727165,45.543858,-73.727165,45.543858",
     "geom:latitude":45.543858,
     "geom:longitude":-73.727165,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"440 61E Av",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875053,
+        102191575,
         85633041,
-        85875053
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5a43639b99700388d39fe94617a4fe90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875053,
+            "region_id":136251273,
             "venue_id":169219371
         }
     ],
     "wof:id":169219371,
-    "wof:lastmodified":1449035827,
+    "wof:lastmodified":1453932117,
     "wof:name":"Plomberie Mecanique",
     "wof:parent_id":85875053,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.727165,45.543858,-73.727165,45.543858],
+  "bbox": [
+    -73.727165,
+    45.543858,
+    -73.727165,
+    45.543858
+],
   "geometry": {"coordinates":[-73.727165,45.543858],"type":"Point"}
 }

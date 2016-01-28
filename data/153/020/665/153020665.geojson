@@ -2,13 +2,14 @@
   "id": 153020665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.778976,43.338184,-79.778976,43.338184",
     "geom:latitude":43.338184,
     "geom:longitude":-79.778976,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3132 South Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895369,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"8b2519eac2d218464acf170d47f9c0aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895369,
+            "region_id":85682057,
+            "venue_id":153020665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895369,
             "region_id":85682057,
             "venue_id":153020665
         }
     ],
     "wof:id":153020665,
-    "wof:lastmodified":1449040538,
+    "wof:lastmodified":1453932475,
     "wof:name":"Niagara Montessori Schools",
     "wof:parent_id":85895369,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.778976,43.338184,-79.778976,43.338184],
+  "bbox": [
+    -79.778976,
+    43.338184,
+    -79.778976,
+    43.338184
+],
   "geometry": {"coordinates":[-79.778976,43.338184],"type":"Point"}
 }

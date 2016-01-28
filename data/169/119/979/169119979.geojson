@@ -2,13 +2,14 @@
   "id": 169119979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.591293,45.618404,-73.591293,45.618404",
     "geom:latitude":45.618404,
     "geom:longitude":-73.591293,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7374 Boul Henri-Bourassa E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"d407bb7db2d05625e66f6b84332392fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":169119979
         }
     ],
     "wof:id":169119979,
-    "wof:lastmodified":1449035041,
+    "wof:lastmodified":1453931265,
     "wof:name":"Ceramique Bt Inc",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.591293,45.618404,-73.591293,45.618404],
-  "geometry": {"coordinates":[-73.591293,45.618404],"type":"Point"}
+  "bbox": [
+    -73.591293,
+    45.618404,
+    -73.591293,
+    45.618404
+],
+  "geometry": {"coordinates":[-73.59129299999999,45.618404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169301329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.386124,43.455811,-80.386124,43.455811",
     "geom:latitude":43.455811,
     "geom:longitude":-80.386124,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Breslau",
     "sg:classifiers":[
         {
@@ -29,10 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736239,
-        85633041,
+        102554103,
         85682057,
-        101740709
+        102191575,
+        85633041,
+        101740709,
+        101736239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,27 +45,36 @@
     "wof:geomhash":"1cdc6a1070bfdc7b7854689300a95f45",
     "wof:hierarchy":[
         {
+            "campus_id":102554103,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736239,
+            "locality_id":101740709,
             "region_id":85682057,
             "venue_id":169301329
         },
         {
+            "campus_id":102554103,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740709,
+            "locality_id":101736239,
             "region_id":85682057,
             "venue_id":169301329
         }
     ],
     "wof:id":169301329,
-    "wof:lastmodified":1449033532,
+    "wof:lastmodified":1453929644,
     "wof:name":"Kitchener Aero Avionics",
-    "wof:parent_id":-1,
+    "wof:parent_id":102554103,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.386124,43.455811,-80.386124,43.455811],
+  "bbox": [
+    -80.386124,
+    43.455811,
+    -80.386124,
+    43.455811
+],
   "geometry": {"coordinates":[-80.386124,43.455811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169480617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720543,45.532253,-73.720543,45.532253",
     "geom:latitude":45.532253,
     "geom:longitude":-73.720543,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5855 Boul Gouin O #205",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897493,
+        102191575,
         85633041,
-        85897493
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"de6ccb122db6d2266f507ed5d3c5db74",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897493,
+            "region_id":136251273,
             "venue_id":169480617
         }
     ],
     "wof:id":169480617,
-    "wof:lastmodified":1449033762,
+    "wof:lastmodified":1453929904,
     "wof:name":"Kuyumjian, J MD",
     "wof:parent_id":85897493,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.720543,45.532253,-73.720543,45.532253],
-  "geometry": {"coordinates":[-73.720543,45.532253],"type":"Point"}
+  "bbox": [
+    -73.720543,
+    45.532253,
+    -73.720543,
+    45.532253
+],
+  "geometry": {"coordinates":[-73.72054300000001,45.532253],"type":"Point"}
 }

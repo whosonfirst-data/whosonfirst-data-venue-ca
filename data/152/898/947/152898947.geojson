@@ -2,13 +2,14 @@
   "id": 152898947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574966,45.510269,-73.574966,45.510269",
     "geom:latitude":45.510269,
     "geom:longitude":-73.574966,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3575 Av Du Parc # 4115",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8fb159ee8f2b0e5189eac0c6829f4e2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":152898947
         }
     ],
     "wof:id":152898947,
-    "wof:lastmodified":1449044189,
+    "wof:lastmodified":1453932746,
     "wof:name":"Fruiterie Du Parc",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574966,45.510269,-73.574966,45.510269],
+  "bbox": [
+    -73.574966,
+    45.510269,
+    -73.574966,
+    45.510269
+],
   "geometry": {"coordinates":[-73.574966,45.510269],"type":"Point"}
 }

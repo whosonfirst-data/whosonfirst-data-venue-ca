@@ -2,13 +2,14 @@
   "id": 168951137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.60051,45.446739,-73.60051,45.446739",
     "geom:latitude":45.446739,
     "geom:longitude":-73.60051,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897541,
+        102191575,
         85633041,
-        85897541
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e5ea7795cb7a7648eb23259bcc7d4a83",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897541,
+            "region_id":136251273,
             "venue_id":168951137
         }
     ],
     "wof:id":168951137,
-    "wof:lastmodified":1449027795,
+    "wof:lastmodified":1453927809,
     "wof:name":"Maison D'Entraide St Paul",
     "wof:parent_id":85897541,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.60051,45.446739,-73.60051,45.446739],
+  "bbox": [
+    -73.60051,
+    45.446739,
+    -73.60051,
+    45.446739
+],
   "geometry": {"coordinates":[-73.60051,45.446739],"type":"Point"}
 }

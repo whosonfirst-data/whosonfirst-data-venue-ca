@@ -2,13 +2,14 @@
   "id": 152707807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.269707,43.877838,-79.269707,43.877838",
     "geom:latitude":43.877838,
     "geom:longitude":-79.269707,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Bullock Dr # 10",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895435,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"46a31b7a7c99f0fe8721eeeb98722184",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895435,
+            "region_id":85682057,
+            "venue_id":152707807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895435,
             "region_id":85682057,
             "venue_id":152707807
         }
     ],
     "wof:id":152707807,
-    "wof:lastmodified":1449048187,
+    "wof:lastmodified":1453935784,
     "wof:name":"Das Metal Products Inc",
     "wof:parent_id":85895435,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.269707,43.877838,-79.269707,43.877838],
+  "bbox": [
+    -79.269707,
+    43.877838,
+    -79.269707,
+    43.877838
+],
   "geometry": {"coordinates":[-79.269707,43.877838],"type":"Point"}
 }

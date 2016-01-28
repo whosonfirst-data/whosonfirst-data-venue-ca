@@ -2,13 +2,14 @@
   "id": 219695627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.530052,43.462181,-80.530052,43.462181",
     "geom:latitude":43.462181,
     "geom:longitude":-80.530052,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"127 Erb St W",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864657,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"eb8bf5930ff9e80421200aa3162ea10a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864657,
+            "region_id":85682057,
+            "venue_id":219695627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85864657,
             "region_id":85682057,
             "venue_id":219695627
         }
     ],
     "wof:id":219695627,
-    "wof:lastmodified":1449071728,
+    "wof:lastmodified":1453937724,
     "wof:name":"Underhill Residential Home",
     "wof:parent_id":85864657,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "house"
     ]
 },
-  "bbox": [-80.530052,43.462181,-80.530052,43.462181],
+  "bbox": [
+    -80.530052,
+    43.462181,
+    -80.530052,
+    43.462181
+],
   "geometry": {"coordinates":[-80.530052,43.462181],"type":"Point"}
 }

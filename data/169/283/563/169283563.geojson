@@ -2,13 +2,14 @@
   "id": 169283563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.257927,43.02739,-82.257927,43.02739",
     "geom:latitude":43.02739,
     "geom:longitude":-82.257927,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2600 Lakeshore Rd",
     "sg:city":"Brights Grove",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864451,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"40bea6be897e6fa975dfb1db9ae0bc56",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85864451,
+            "region_id":85682057,
+            "venue_id":169283563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85864451,
             "region_id":85682057,
             "venue_id":169283563
         }
     ],
     "wof:id":169283563,
-    "wof:lastmodified":1449033659,
+    "wof:lastmodified":1453929782,
     "wof:name":"Independent Physiotherapy Svc",
     "wof:parent_id":85864451,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.257927,43.02739,-82.257927,43.02739],
+  "bbox": [
+    -82.257927,
+    43.02739,
+    -82.257927,
+    43.02739
+],
   "geometry": {"coordinates":[-82.257927,43.02739],"type":"Point"}
 }

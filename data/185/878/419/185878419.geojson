@@ -2,13 +2,14 @@
   "id": 185878419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.329185,43.82476,-79.329185,43.82476",
     "geom:latitude":43.82476,
     "geom:longitude":-79.329185,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"37 Ferrier St",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895023,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"bda1dd2e7cb8039dfa14ab33e5bcd700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":185878419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":185878419
         }
     ],
     "wof:id":185878419,
-    "wof:lastmodified":1449007469,
+    "wof:lastmodified":1453927307,
     "wof:name":"Unison Gifts Inc",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "exporter"
     ]
 },
-  "bbox": [-79.329185,43.82476,-79.329185,43.82476],
+  "bbox": [
+    -79.329185,
+    43.82476,
+    -79.329185,
+    43.82476
+],
   "geometry": {"coordinates":[-79.329185,43.82476],"type":"Point"}
 }

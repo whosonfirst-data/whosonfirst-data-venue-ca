@@ -2,13 +2,14 @@
   "id": 168875463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.227936,46.809925,-71.227936,46.809925",
     "geom:latitude":46.809925,
     "geom:longitude":-71.227936,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"98 Rue Arago E",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866509,
+        102191575,
         85633041,
-        85866509
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6293b726b1892f2c74c226f5e6904237",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
+            "region_id":136251273,
             "venue_id":168875463
         }
     ],
     "wof:id":168875463,
-    "wof:lastmodified":1449028363,
+    "wof:lastmodified":1453928443,
     "wof:name":"Epicerie Rochon Enr",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.227936,46.809925,-71.227936,46.809925],
+  "bbox": [
+    -71.227936,
+    46.809925,
+    -71.227936,
+    46.809925
+],
   "geometry": {"coordinates":[-71.227936,46.809925],"type":"Point"}
 }

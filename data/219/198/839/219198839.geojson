@@ -2,13 +2,14 @@
   "id": 219198839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.664291,45.549095,-73.664291,45.549095",
     "geom:latitude":45.549095,
     "geom:longitude":-73.664291,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Rue Fleury O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864445,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"06407996af95b10538c95502fd7b156a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85864445,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219198839
         }
     ],
     "wof:id":219198839,
-    "wof:lastmodified":1449071670,
+    "wof:lastmodified":1453937716,
     "wof:name":"Centre Chiropratique Optimale",
     "wof:parent_id":85864445,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "clinic"
     ]
 },
-  "bbox": [-73.664291,45.549095,-73.664291,45.549095],
-  "geometry": {"coordinates":[-73.664291,45.549095],"type":"Point"}
+  "bbox": [
+    -73.664291,
+    45.549095,
+    -73.664291,
+    45.549095
+],
+  "geometry": {"coordinates":[-73.66429100000001,45.549095],"type":"Point"}
 }

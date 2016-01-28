@@ -2,13 +2,14 @@
   "id": 169465359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.575485,45.591808,-73.575485,45.591808",
     "geom:latitude":45.591808,
     "geom:longitude":-73.575485,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784921,
+        102191575,
         85633041,
-        85784921
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"4de1c8fe3da5578b6771a3a1b21d3c19",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
+            "region_id":136251273,
             "venue_id":169465359
         }
     ],
     "wof:id":169465359,
-    "wof:lastmodified":1449034906,
+    "wof:lastmodified":1453931133,
     "wof:name":"Di Ioia & Assoc",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.575485,45.591808,-73.575485,45.591808],
+  "bbox": [
+    -73.575485,
+    45.591808,
+    -73.575485,
+    45.591808
+],
   "geometry": {"coordinates":[-73.575485,45.591808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153060265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.301292,45.456005,-73.301292,45.456005",
     "geom:latitude":45.456005,
     "geom:longitude":-73.301292,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1191 Av Bourgogne",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895747,
+        102191575,
         85633041,
-        85895747
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"c93f806b322409d4e80492452b749b6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
+            "region_id":136251273,
             "venue_id":153060265
         }
     ],
     "wof:id":153060265,
-    "wof:lastmodified":1449040781,
+    "wof:lastmodified":1453932694,
     "wof:name":"Aux Petits Copains",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.301292,45.456005,-73.301292,45.456005],
+  "bbox": [
+    -73.301292,
+    45.456005,
+    -73.301292,
+    45.456005
+],
   "geometry": {"coordinates":[-73.301292,45.456005],"type":"Point"}
 }

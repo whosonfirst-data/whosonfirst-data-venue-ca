@@ -2,13 +2,14 @@
   "id": 169430561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.743835,45.54924,-73.743835,45.54924",
     "geom:latitude":45.54924,
     "geom:longitude":-73.743835,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875053,
+        102191575,
         85633041,
-        85875053
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"2165677fbbf2751907962c6a0e8b7435",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875053,
+            "region_id":136251273,
             "venue_id":169430561
         }
     ],
     "wof:id":169430561,
-    "wof:lastmodified":1449034792,
+    "wof:lastmodified":1453931026,
     "wof:name":"Melancon, Alain",
     "wof:parent_id":85875053,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.743835,45.54924,-73.743835,45.54924],
+  "bbox": [
+    -73.743835,
+    45.54924,
+    -73.743835,
+    45.54924
+],
   "geometry": {"coordinates":[-73.743835,45.54924],"type":"Point"}
 }

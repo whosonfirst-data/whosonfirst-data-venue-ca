@@ -2,13 +2,14 @@
   "id": 169280745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616302,45.549194,-73.616302,45.549194",
     "geom:latitude":45.549194,
     "geom:longitude":-73.616302,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1408 Rue Villeray",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866495,
+        102191575,
         85633041,
-        85866495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c1aa116c74e2f4b2e2cadff27d5884dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866495,
+            "region_id":136251273,
             "venue_id":169280745
         }
     ],
     "wof:id":169280745,
-    "wof:lastmodified":1449034313,
+    "wof:lastmodified":1453930484,
     "wof:name":"Marche Gloria Market",
     "wof:parent_id":85866495,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.616302,45.549194,-73.616302,45.549194],
+  "bbox": [
+    -73.616302,
+    45.549194,
+    -73.616302,
+    45.549194
+],
   "geometry": {"coordinates":[-73.616302,45.549194],"type":"Point"}
 }

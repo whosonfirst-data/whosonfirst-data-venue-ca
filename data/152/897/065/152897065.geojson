@@ -2,13 +2,14 @@
   "id": 152897065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635269,45.502403,-73.635269,45.502403",
     "geom:latitude":45.502403,
     "geom:longitude":-73.635269,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6565 Ch DE LA Cote-Des-Neiges",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897525,
+        102191575,
         85633041,
-        85897525
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"35dc7ffc761b3540ade01afe24928083",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897525,
+            "region_id":136251273,
             "venue_id":152897065
         }
     ],
     "wof:id":152897065,
-    "wof:lastmodified":1449048169,
+    "wof:lastmodified":1453935771,
     "wof:name":"Kum Mon Restaurant",
     "wof:parent_id":85897525,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.635269,45.502403,-73.635269,45.502403],
-  "geometry": {"coordinates":[-73.635269,45.502403],"type":"Point"}
+  "bbox": [
+    -73.635269,
+    45.502403,
+    -73.635269,
+    45.502403
+],
+  "geometry": {"coordinates":[-73.63526899999999,45.502403],"type":"Point"}
 }

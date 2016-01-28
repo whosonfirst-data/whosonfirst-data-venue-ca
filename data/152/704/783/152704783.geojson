@@ -2,13 +2,14 @@
   "id": 152704783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.354607,43.938473,-79.354607,43.938473",
     "geom:latitude":43.938473,
     "geom:longitude":-79.354607,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11939 Warden Ave",
     "sg:city":"Gormley",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895009,
-        85682057
+        102191575,
+        85633041,
+        101736037,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"54164256a0379f91f6ed01944fee3c1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736037,
+            "neighbourhood_id":85895009,
+            "region_id":85682057,
+            "venue_id":152704783
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895009,
             "region_id":85682057,
             "venue_id":152704783
         }
     ],
     "wof:id":152704783,
-    "wof:lastmodified":1449045501,
+    "wof:lastmodified":1453933746,
     "wof:name":"Meadowbrook Golf & Country Clb",
     "wof:parent_id":85895009,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.354607,43.938473,-79.354607,43.938473],
+  "bbox": [
+    -79.354607,
+    43.938473,
+    -79.354607,
+    43.938473
+],
   "geometry": {"coordinates":[-79.354607,43.938473],"type":"Point"}
 }

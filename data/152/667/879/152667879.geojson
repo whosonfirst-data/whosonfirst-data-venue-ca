@@ -2,13 +2,14 @@
   "id": 152667879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.666412,45.613377,-73.666412,45.613377",
     "geom:latitude":45.613377,
     "geom:longitude":-73.666412,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1280 Av Godin",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875051,
+        102191575,
         85633041,
-        85875051
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"0a0d8cc0a33997af2af63b1ed2c1cee1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875051,
+            "region_id":136251273,
             "venue_id":152667879
         }
     ],
     "wof:id":152667879,
-    "wof:lastmodified":1449047318,
+    "wof:lastmodified":1453935109,
     "wof:name":"Agence Laverdure-Huppe Inc",
     "wof:parent_id":85875051,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.666412,45.613377,-73.666412,45.613377],
-  "geometry": {"coordinates":[-73.666412,45.613377],"type":"Point"}
+  "bbox": [
+    -73.666412,
+    45.613377,
+    -73.666412,
+    45.613377
+],
+  "geometry": {"coordinates":[-73.66641199999999,45.613377],"type":"Point"}
 }

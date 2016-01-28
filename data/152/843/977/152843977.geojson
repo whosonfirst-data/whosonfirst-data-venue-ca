@@ -2,13 +2,14 @@
   "id": 152843977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620506,45.583363,-73.620506,45.583363",
     "geom:latitude":45.583363,
     "geom:longitude":-73.620506,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9229 Rue Masse",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874359,
+        102191575,
         85633041,
-        85874359
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"560e58d439e6c0c0c5584dab3d917a11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
+            "region_id":136251273,
             "venue_id":152843977
         }
     ],
     "wof:id":152843977,
-    "wof:lastmodified":1449044714,
+    "wof:lastmodified":1453933145,
     "wof:name":"Pavage BC Inc",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.620506,45.583363,-73.620506,45.583363],
-  "geometry": {"coordinates":[-73.620506,45.583363],"type":"Point"}
+  "bbox": [
+    -73.620506,
+    45.583363,
+    -73.620506,
+    45.583363
+],
+  "geometry": {"coordinates":[-73.62050600000001,45.583363],"type":"Point"}
 }

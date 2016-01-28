@@ -2,13 +2,14 @@
   "id": 152864225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.518997,46.88913,-71.518997,46.88913",
     "geom:latitude":46.88913,
     "geom:longitude":-71.518997,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Shannon",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864395,
+        102191575,
         85633041,
-        85864395
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"874c6f3f9d316e5d333362e9b31bfb14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864395,
+            "region_id":136251273,
             "venue_id":152864225
         }
     ],
     "wof:id":152864225,
-    "wof:lastmodified":1449048947,
+    "wof:lastmodified":1453936394,
     "wof:name":"Shannon Bibliotheque Library",
     "wof:parent_id":85864395,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.518997,46.88913,-71.518997,46.88913],
+  "bbox": [
+    -71.518997,
+    46.88913,
+    -71.518997,
+    46.88913
+],
   "geometry": {"coordinates":[-71.518997,46.88913],"type":"Point"}
 }

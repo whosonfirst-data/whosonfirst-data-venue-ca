@@ -2,13 +2,14 @@
   "id": 152748555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.731575,45.611938,-73.731575,45.611938",
     "geom:latitude":45.611938,
     "geom:longitude":-73.731575,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2105 Rue Marc",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864417,
+        102191575,
         85633041,
-        85864417
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5c86f04aea6dc5d1b56d532da72bcbc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
+            "region_id":136251273,
             "venue_id":152748555
         }
     ],
     "wof:id":152748555,
-    "wof:lastmodified":1449047767,
+    "wof:lastmodified":1453935475,
     "wof:name":"Foyer Vimont Pensn Pour Persns",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.731575,45.611938,-73.731575,45.611938],
-  "geometry": {"coordinates":[-73.731575,45.611938],"type":"Point"}
+  "bbox": [
+    -73.731575,
+    45.611938,
+    -73.731575,
+    45.611938
+],
+  "geometry": {"coordinates":[-73.73157500000001,45.611938],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152591743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803413,43.317741,-79.803413,43.317741",
     "geom:latitude":43.317741,
     "geom:longitude":-79.803413,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1230 North Shore Blvd E",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895035,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"3773c70fb4c4a9a173c847ad57da60a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895035,
+            "region_id":85682057,
+            "venue_id":152591743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895035,
             "region_id":85682057,
             "venue_id":152591743
         }
     ],
     "wof:id":152591743,
-    "wof:lastmodified":1449046778,
+    "wof:lastmodified":1453934706,
     "wof:name":"Joseph Brant Memorial Hospital",
     "wof:parent_id":85895035,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.803413,43.317741,-79.803413,43.317741],
-  "geometry": {"coordinates":[-79.803413,43.317741],"type":"Point"}
+  "bbox": [
+    -79.803413,
+    43.317741,
+    -79.803413,
+    43.317741
+],
+  "geometry": {"coordinates":[-79.80341300000001,43.317741],"type":"Point"}
 }

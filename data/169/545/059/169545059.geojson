@@ -2,13 +2,14 @@
   "id": 169545059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.128136,43.803383,-79.128136,43.803383",
     "geom:latitude":43.803383,
     "geom:longitude":-79.128136,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"541 Pine Ridge Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895207,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"9e3607f4333f6fb97a1412177a570988",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895207,
+            "region_id":85682057,
+            "venue_id":169545059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895207,
             "region_id":85682057,
             "venue_id":169545059
         }
     ],
     "wof:id":169545059,
-    "wof:lastmodified":1449033483,
+    "wof:lastmodified":1453929594,
     "wof:name":"Merlin's Party Bouncers",
     "wof:parent_id":85895207,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.128136,43.803383,-79.128136,43.803383],
+  "bbox": [
+    -79.128136,
+    43.803383,
+    -79.128136,
+    43.803383
+],
   "geometry": {"coordinates":[-79.128136,43.803383],"type":"Point"}
 }

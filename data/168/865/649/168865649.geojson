@@ -2,13 +2,14 @@
   "id": 168865649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.543915,46.343258,-72.543915,46.343258",
     "geom:latitude":46.343258,
     "geom:longitude":-72.543915,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1350 Rue Royale #1401",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874119,
+        102191575,
         85633041,
-        85874119
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bbda33abdc3e6f1faf8c665c5e76fdeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
+            "region_id":136251273,
             "venue_id":168865649
         }
     ],
     "wof:id":168865649,
-    "wof:lastmodified":1449028383,
+    "wof:lastmodified":1453928462,
     "wof:name":"Belhumeur Pronovost",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.543915,46.343258,-72.543915,46.343258],
+  "bbox": [
+    -72.543915,
+    46.343258,
+    -72.543915,
+    46.343258
+],
   "geometry": {"coordinates":[-72.543915,46.343258],"type":"Point"}
 }

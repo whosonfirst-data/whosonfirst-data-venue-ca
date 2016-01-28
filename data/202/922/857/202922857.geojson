@@ -2,13 +2,14 @@
   "id": 202922857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.485153,45.759556,-73.485153,45.759556",
     "geom:latitude":45.759556,
     "geom:longitude":-73.485153,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"380 Rue Saint-Paul",
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784893,
+        102191575,
         85633041,
-        101737691
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"f3449c36920995cf3707a6ed0a3b04ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202922857
         }
     ],
     "wof:id":202922857,
-    "wof:lastmodified":1449060346,
+    "wof:lastmodified":1453937024,
     "wof:name":"Nettoyeur D'Egouts Jm Boucher",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "septic"
     ]
 },
-  "bbox": [-73.485153,45.759556,-73.485153,45.759556],
+  "bbox": [
+    -73.485153,
+    45.759556,
+    -73.485153,
+    45.759556
+],
   "geometry": {"coordinates":[-73.485153,45.759556],"type":"Point"}
 }

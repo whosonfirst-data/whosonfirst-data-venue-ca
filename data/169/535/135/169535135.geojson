@@ -2,13 +2,14 @@
   "id": 169535135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.957466,45.395687,-73.957466,45.395687",
     "geom:latitude":45.395687,
     "geom:longitude":-73.957466,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"87 Boul Grand",
     "sg:city":"L'Ile-Perrot",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737255,
+        85784905,
+        102191575,
         85633041,
-        85784905
+        101737255,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"639c38d8fbab57c2be4be4a75799c1b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737255,
             "neighbourhood_id":85784905,
+            "region_id":136251273,
             "venue_id":169535135
         }
     ],
     "wof:id":169535135,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1453929399,
     "wof:name":"Island Gym",
     "wof:parent_id":85784905,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.957466,45.395687,-73.957466,45.395687],
+  "bbox": [
+    -73.957466,
+    45.395687,
+    -73.957466,
+    45.395687
+],
   "geometry": {"coordinates":[-73.957466,45.395687],"type":"Point"}
 }

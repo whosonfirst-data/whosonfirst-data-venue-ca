@@ -2,13 +2,14 @@
   "id": 152259821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.023712,48.426483,-71.023712,48.426483",
     "geom:latitude":48.426483,
     "geom:longitude":-71.023712,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"c0ca1d0f04da53ea5981e7ca0a7074df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152259821
         }
     ],
     "wof:id":152259821,
-    "wof:lastmodified":1449045350,
+    "wof:lastmodified":1453933628,
     "wof:name":"Moisson Saguenay Inc",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.023712,48.426483,-71.023712,48.426483],
+  "bbox": [
+    -71.023712,
+    48.426483,
+    -71.023712,
+    48.426483
+],
   "geometry": {"coordinates":[-71.023712,48.426483],"type":"Point"}
 }

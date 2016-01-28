@@ -2,13 +2,14 @@
   "id": 202414559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.630341,43.638985,-79.630341,43.638985",
     "geom:latitude":43.638985,
     "geom:longitude":-79.630341,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895633,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"564d379c1b966e9ae8602162ad0065f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":202414559
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":202414559
         }
     ],
     "wof:id":202414559,
-    "wof:lastmodified":1449061310,
+    "wof:lastmodified":1453937230,
     "wof:name":"Bsa Food Ingredients Inc",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -63,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.630341,43.638985,-79.630341,43.638985],
+  "bbox": [
+    -79.630341,
+    43.638985,
+    -79.630341,
+    43.638985
+],
   "geometry": {"coordinates":[-79.630341,43.638985],"type":"Point"}
 }

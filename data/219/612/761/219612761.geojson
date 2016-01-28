@@ -2,13 +2,14 @@
   "id": 219612761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.626854,45.683121,-73.626854,45.683121",
     "geom:latitude":45.683121,
     "geom:longitude":-73.626854,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3950 Montee Masson",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895715,
+        102191575,
         85633041,
-        101737337
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"81c31376831fea3dc1e37c66d62ebe3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85895715,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219612761
         }
     ],
     "wof:id":219612761,
-    "wof:lastmodified":1449071954,
+    "wof:lastmodified":1453937752,
     "wof:name":"Productions Rpr Inc",
     "wof:parent_id":85895715,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "producer"
     ]
 },
-  "bbox": [-73.626854,45.683121,-73.626854,45.683121],
-  "geometry": {"coordinates":[-73.626854,45.683121],"type":"Point"}
+  "bbox": [
+    -73.626854,
+    45.683121,
+    -73.626854,
+    45.683121
+],
+  "geometry": {"coordinates":[-73.62685399999999,45.683121],"type":"Point"}
 }

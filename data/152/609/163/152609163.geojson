@@ -2,13 +2,14 @@
   "id": 152609163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.76667,45.557255,-73.76667,45.557255",
     "geom:latitude":45.557255,
     "geom:longitude":-73.76667,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2159 Boul Cure-Labelle",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897569,
+        102191575,
         85633041,
-        85897569
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"0e56c4c8750429d8e666d4b5bfab3b81",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897569,
+            "region_id":136251273,
             "venue_id":152609163
         }
     ],
     "wof:id":152609163,
-    "wof:lastmodified":1449046027,
+    "wof:lastmodified":1453934143,
     "wof:name":"Rigofleur Chomedey",
     "wof:parent_id":85897569,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.76667,45.557255,-73.76667,45.557255],
+  "bbox": [
+    -73.76667,
+    45.557255,
+    -73.76667,
+    45.557255
+],
   "geometry": {"coordinates":[-73.76667,45.557255],"type":"Point"}
 }

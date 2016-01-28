@@ -2,13 +2,14 @@
   "id": 169370911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.592155,43.785065,-79.592155,43.785065",
     "geom:latitude":43.785065,
     "geom:longitude":-79.592155,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5875 Highway 7 # 10",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895625,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"858b23258655b19542035a67d4a0dafd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895625,
+            "region_id":85682057,
+            "venue_id":169370911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895625,
             "region_id":85682057,
             "venue_id":169370911
         }
     ],
     "wof:id":169370911,
-    "wof:lastmodified":1449034496,
+    "wof:lastmodified":1453930680,
     "wof:name":"Bodies By Design",
     "wof:parent_id":85895625,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.592155,43.785065,-79.592155,43.785065],
-  "geometry": {"coordinates":[-79.592155,43.785065],"type":"Point"}
+  "bbox": [
+    -79.592155,
+    43.785065,
+    -79.592155,
+    43.785065
+],
+  "geometry": {"coordinates":[-79.59215500000001,43.785065],"type":"Point"}
 }

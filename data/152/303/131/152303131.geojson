@@ -2,13 +2,14 @@
   "id": 152303131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.025558,45.407734,-74.025558,45.407734",
     "geom:latitude":45.407734,
     "geom:longitude":-74.025558,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"418 Rue Constant",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895783,
+        102191575,
         85633041,
-        85895783
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"e18b7b40289e21bb055ca2ea13045fbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895783,
+            "region_id":136251273,
             "venue_id":152303131
         }
     ],
     "wof:id":152303131,
-    "wof:lastmodified":1449044339,
+    "wof:lastmodified":1453932851,
     "wof:name":"Pause Cafe Ju-Na Inc",
     "wof:parent_id":85895783,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.025558,45.407734,-74.025558,45.407734],
+  "bbox": [
+    -74.025558,
+    45.407734,
+    -74.025558,
+    45.407734
+],
   "geometry": {"coordinates":[-74.025558,45.407734],"type":"Point"}
 }

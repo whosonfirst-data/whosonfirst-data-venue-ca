@@ -2,13 +2,14 @@
   "id": 152739705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.063431,43.777817,-80.063431,43.777817",
     "geom:latitude":43.777817,
     "geom:longitude":-80.063431,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"27 Erinlea Cres",
     "sg:city":"Erin",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895075,
-        85682057
+        102191575,
+        85633041,
+        101736161,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"2d6631821d6ef39d27d5058eb9b963ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736161,
+            "neighbourhood_id":85895075,
+            "region_id":85682057,
+            "venue_id":152739705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85895075,
             "region_id":85682057,
             "venue_id":152739705
         }
     ],
     "wof:id":152739705,
-    "wof:lastmodified":1449046263,
+    "wof:lastmodified":1453934317,
     "wof:name":"Unitech Building Systems",
     "wof:parent_id":85895075,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.063431,43.777817,-80.063431,43.777817],
-  "geometry": {"coordinates":[-80.063431,43.777817],"type":"Point"}
+  "bbox": [
+    -80.063431,
+    43.777817,
+    -80.063431,
+    43.777817
+],
+  "geometry": {"coordinates":[-80.06343099999999,43.777817],"type":"Point"}
 }

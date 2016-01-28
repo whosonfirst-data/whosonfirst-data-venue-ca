@@ -2,13 +2,14 @@
   "id": 169842963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.245316,46.774097,-71.245316,46.774097",
     "geom:latitude":46.774097,
     "geom:longitude":-71.245316,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2026 Rue Du Cardinal-Persico",
     "sg:city":"Sillery",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784941,
+        102191575,
         85633041,
-        101737987
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"86766f5a1703e053035f962165fc5370",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169842963
         }
     ],
     "wof:id":169842963,
-    "wof:lastmodified":1449032919,
+    "wof:lastmodified":1453929037,
     "wof:name":"Maison Du Calendrier",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "calendar"
     ]
 },
-  "bbox": [-71.245316,46.774097,-71.245316,46.774097],
+  "bbox": [
+    -71.245316,
+    46.774097,
+    -71.245316,
+    46.774097
+],
   "geometry": {"coordinates":[-71.245316,46.774097],"type":"Point"}
 }

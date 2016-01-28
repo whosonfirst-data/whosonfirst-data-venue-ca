@@ -2,13 +2,14 @@
   "id": 219277499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.551628,45.584839,-73.551628,45.584839",
     "geom:latitude":45.584839,
     "geom:longitude":-73.551628,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6545 Rue Galobert",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874169,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"9d0c0b929bedfb734ad7299e2a917c89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219277499
         }
     ],
     "wof:id":219277499,
-    "wof:lastmodified":1449070785,
+    "wof:lastmodified":1453937594,
     "wof:name":"Plancher J Hebert Enr",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-73.551628,45.584839,-73.551628,45.584839],
-  "geometry": {"coordinates":[-73.551628,45.584839],"type":"Point"}
+  "bbox": [
+    -73.551628,
+    45.584839,
+    -73.551628,
+    45.584839
+],
+  "geometry": {"coordinates":[-73.55162799999999,45.584839],"type":"Point"}
 }

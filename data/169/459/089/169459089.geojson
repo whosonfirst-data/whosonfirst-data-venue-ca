@@ -2,13 +2,14 @@
   "id": 169459089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.389694,43.007603,-82.389694,43.007603",
     "geom:latitude":43.007603,
     "geom:longitude":-82.389694,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1465 Lecaron Ave",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85784851,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"0216a5c0f2cc7dca3ed63a420a06e958",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":169459089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736019,
             "neighbourhood_id":85784851,
             "region_id":85682057,
             "venue_id":169459089
         }
     ],
     "wof:id":169459089,
-    "wof:lastmodified":1449034023,
+    "wof:lastmodified":1453930193,
     "wof:name":"Sacred Heart Rectory",
     "wof:parent_id":85784851,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.389694,43.007603,-82.389694,43.007603],
-  "geometry": {"coordinates":[-82.389694,43.007603],"type":"Point"}
+  "bbox": [
+    -82.389694,
+    43.007603,
+    -82.389694,
+    43.007603
+],
+  "geometry": {"coordinates":[-82.38969400000001,43.007603],"type":"Point"}
 }

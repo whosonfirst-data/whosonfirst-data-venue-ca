@@ -2,13 +2,14 @@
   "id": 169351303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.577515,46.312393,-72.577515,46.312393",
     "geom:latitude":46.312393,
     "geom:longitude":-72.577515,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7350 Rue Notre-Dame Ouest",
     "sg:city":"Trois-Rivieres-Ouest",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874115,
+        102191575,
         85633041,
-        85874115
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4b9f217b8418b97e24a6e74ed63f45fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874115,
+            "region_id":136251273,
             "venue_id":169351303
         }
     ],
     "wof:id":169351303,
-    "wof:lastmodified":1449035468,
+    "wof:lastmodified":1453931690,
     "wof:name":"Scouts DE LA St-Maurice",
     "wof:parent_id":85874115,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.577515,46.312393,-72.577515,46.312393],
-  "geometry": {"coordinates":[-72.577515,46.312393],"type":"Point"}
+  "bbox": [
+    -72.577515,
+    46.312393,
+    -72.577515,
+    46.312393
+],
+  "geometry": {"coordinates":[-72.57751500000001,46.312393],"type":"Point"}
 }

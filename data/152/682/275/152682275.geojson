@@ -2,13 +2,14 @@
   "id": 152682275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.426949,43.815937,-79.426949,43.815937",
     "geom:latitude":43.815937,
     "geom:longitude":-79.426949,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"66 Centre St",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895637,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"2f7ce7ec44c29d1c872f7cc80081ed6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895637,
+            "region_id":85682057,
+            "venue_id":152682275
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895637,
             "region_id":85682057,
             "venue_id":152682275
         }
     ],
     "wof:id":152682275,
-    "wof:lastmodified":1449045114,
+    "wof:lastmodified":1453933446,
     "wof:name":"Sheps, Allan",
     "wof:parent_id":85895637,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.426949,43.815937,-79.426949,43.815937],
-  "geometry": {"coordinates":[-79.426949,43.815937],"type":"Point"}
+  "bbox": [
+    -79.426949,
+    43.815937,
+    -79.426949,
+    43.815937
+],
+  "geometry": {"coordinates":[-79.42694899999999,43.815937],"type":"Point"}
 }

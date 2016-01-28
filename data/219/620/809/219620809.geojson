@@ -2,13 +2,14 @@
   "id": 219620809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.036591,43.843937,-79.036591,43.843937",
     "geom:latitude":43.843937,
     "geom:longitude":-79.036591,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Ajax",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895697,
+        102191575,
         85633041,
-        85682057
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"036b5fd90087f670f38ae5cf3ab4f54f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895697,
+            "region_id":85682057,
+            "venue_id":219620809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895697,
             "region_id":85682057,
             "venue_id":219620809
         }
     ],
     "wof:id":219620809,
-    "wof:lastmodified":1449073616,
+    "wof:lastmodified":1453937977,
     "wof:name":"Midas Auto Svc Experts",
     "wof:parent_id":85895697,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.036591,43.843937,-79.036591,43.843937],
+  "bbox": [
+    -79.036591,
+    43.843937,
+    -79.036591,
+    43.843937
+],
   "geometry": {"coordinates":[-79.036591,43.843937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219422071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.245216,46.838432,-71.245216,46.838432",
     "geom:latitude":46.838432,
     "geom:longitude":-71.245216,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3050 1E Av",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864439,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"d7ea630d95dbb5e8e3ad7c2bbc88b47e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864439,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219422071
         }
     ],
     "wof:id":219422071,
-    "wof:lastmodified":1449070634,
+    "wof:lastmodified":1453937569,
     "wof:name":"Cordonnerie St-Albert",
     "wof:parent_id":85864439,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "boot"
     ]
 },
-  "bbox": [-71.245216,46.838432,-71.245216,46.838432],
+  "bbox": [
+    -71.245216,
+    46.838432,
+    -71.245216,
+    46.838432
+],
   "geometry": {"coordinates":[-71.245216,46.838432],"type":"Point"}
 }

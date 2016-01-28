@@ -2,13 +2,14 @@
   "id": 186150119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.698059,44.396164,-79.698059,44.396164",
     "geom:latitude":44.396164,
     "geom:longitude":-79.698059,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"44 Grove St W",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875267,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -38,18 +42,18 @@
     "wof:geomhash":"b0ba6d61cd33ae140f4d363cf759a37c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875267,
             "region_id":85682057,
             "venue_id":186150119
         }
     ],
     "wof:id":186150119,
-    "wof:lastmodified":1449050292,
+    "wof:lastmodified":1453936487,
     "wof:name":"Henstra Brothers Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "painter"
     ]
 },
-  "bbox": [-79.698059,44.396164,-79.698059,44.396164],
+  "bbox": [
+    -79.698059,
+    44.396164,
+    -79.698059,
+    44.396164
+],
   "geometry": {"coordinates":[-79.698059,44.396164],"type":"Point"}
 }

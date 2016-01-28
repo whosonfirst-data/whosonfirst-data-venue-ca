@@ -2,13 +2,14 @@
   "id": 153067701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.278656,44.295971,-78.278656,44.295971",
     "geom:latitude":44.295971,
     "geom:longitude":-78.278656,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2245 Keene Rd",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"dc8575905bc6f1e589c2c601fdab03f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":153067701
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":153067701
         }
     ],
     "wof:id":153067701,
-    "wof:lastmodified":1449040365,
+    "wof:lastmodified":1453932320,
     "wof:name":"A M Stone Retailer's Sales Pak",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.278656,44.295971,-78.278656,44.295971],
+  "bbox": [
+    -78.278656,
+    44.295971,
+    -78.278656,
+    44.295971
+],
   "geometry": {"coordinates":[-78.278656,44.295971],"type":"Point"}
 }

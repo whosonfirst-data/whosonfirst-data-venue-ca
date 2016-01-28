@@ -2,13 +2,14 @@
   "id": 152572229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.238174,43.164051,-79.238174,43.164051",
     "geom:latitude":43.164051,
     "geom:longitude":-79.238174,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"450b3d6f4aacf67e4cb3a8c8ff4c7d91",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":152572229
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":152572229
         }
     ],
     "wof:id":152572229,
-    "wof:lastmodified":1449047134,
+    "wof:lastmodified":1453934981,
     "wof:name":"Sam Chaarani Denture Clinic",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.238174,43.164051,-79.238174,43.164051],
+  "bbox": [
+    -79.238174,
+    43.164051,
+    -79.238174,
+    43.164051
+],
   "geometry": {"coordinates":[-79.238174,43.164051],"type":"Point"}
 }

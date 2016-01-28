@@ -2,13 +2,14 @@
   "id": 203314263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.234978,48.42675,-71.234978,48.42675",
     "geom:latitude":48.42675,
     "geom:longitude":-71.234978,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3644 Rue DE Champlain",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785007,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"b7cd07e9cbe224983c60dc99b90af4cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203314263
         }
     ],
     "wof:id":203314263,
-    "wof:lastmodified":1449026795,
+    "wof:lastmodified":1453927747,
     "wof:name":"Garage Maurice Bernier Inc",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-71.234978,48.42675,-71.234978,48.42675],
+  "bbox": [
+    -71.234978,
+    48.42675,
+    -71.234978,
+    48.42675
+],
   "geometry": {"coordinates":[-71.234978,48.42675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169294235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.068726,48.424648,-71.068726,48.424648",
     "geom:latitude":48.424648,
     "geom:longitude":-71.068726,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"437 Rue Sainte-Anne # B",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"52c778c5010b37804b9f227e26339074",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169294235
         }
     ],
     "wof:id":169294235,
-    "wof:lastmodified":1449035029,
+    "wof:lastmodified":1453931250,
     "wof:name":"Porte Ouverte Au Passant",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.068726,48.424648,-71.068726,48.424648],
+  "bbox": [
+    -71.068726,
+    48.424648,
+    -71.068726,
+    48.424648
+],
   "geometry": {"coordinates":[-71.068726,48.424648],"type":"Point"}
 }

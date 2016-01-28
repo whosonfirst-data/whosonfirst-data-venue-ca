@@ -2,13 +2,14 @@
   "id": 169058505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.56675,45.518227,-73.56675,45.518227",
     "geom:latitude":45.518227,
     "geom:longitude":-73.56675,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"71801cb8ea329a100a51988164e5521d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":169058505
         }
     ],
     "wof:id":169058505,
-    "wof:lastmodified":1449033177,
+    "wof:lastmodified":1453929282,
     "wof:name":"Pageau Goyette & Assoc Ltee",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.56675,45.518227,-73.56675,45.518227],
+  "bbox": [
+    -73.56675,
+    45.518227,
+    -73.56675,
+    45.518227
+],
   "geometry": {"coordinates":[-73.56675,45.518227],"type":"Point"}
 }

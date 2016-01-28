@@ -2,13 +2,14 @@
   "id": 152366215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.184471,45.57069,-73.184471,45.57069",
     "geom:latitude":45.57069,
     "geom:longitude":-73.184471,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"468 Rue Forest",
     "sg:city":"Mont-Saint-Hilaire",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737201,
+        85894595,
+        102191575,
         85633041,
-        85894595
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"243d60377787e2aaf7371ebe6946d83a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894595,
+            "region_id":136251273,
             "venue_id":152366215
         }
     ],
     "wof:id":152366215,
-    "wof:lastmodified":1449047672,
+    "wof:lastmodified":1453935401,
     "wof:name":"Aupel Inc",
     "wof:parent_id":85894595,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.184471,45.57069,-73.184471,45.57069],
+  "bbox": [
+    -73.184471,
+    45.57069,
+    -73.184471,
+    45.57069
+],
   "geometry": {"coordinates":[-73.184471,45.57069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169439459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.486961,43.97076,-79.486961,43.97076",
     "geom:latitude":43.97076,
     "geom:longitude":-79.486961,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Aurora",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895647,
         102191575,
         85633041,
-        85895647
+        101736003,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,15 +41,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736003,
             "neighbourhood_id":85895647,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169439459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895647,
+            "region_id":85682057,
             "venue_id":169439459
         }
     ],
     "wof:id":169439459,
-    "wof:lastmodified":1449033596,
+    "wof:lastmodified":1453929718,
     "wof:name":"Five Star Convenience",
     "wof:parent_id":85895647,
     "wof:placetype":"venue",
@@ -53,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.486961,43.97076,-79.486961,43.97076],
-  "geometry": {"coordinates":[-79.486961,43.97076],"type":"Point"}
+  "bbox": [
+    -79.486961,
+    43.97076,
+    -79.486961,
+    43.97076
+],
+  "geometry": {"coordinates":[-79.48696099999999,43.97076],"type":"Point"}
 }

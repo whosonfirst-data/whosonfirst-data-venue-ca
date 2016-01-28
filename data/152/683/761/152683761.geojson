@@ -2,13 +2,14 @@
   "id": 152683761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.592033,45.635403,-73.592033,45.635403",
     "geom:latitude":45.635403,
     "geom:longitude":-73.592033,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8063 Av Andre-Ampere",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"649cfac078aa26681fd0ed133c9b8518",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":152683761
         }
     ],
     "wof:id":152683761,
-    "wof:lastmodified":1449046009,
+    "wof:lastmodified":1453934128,
     "wof:name":"Boucherie Charcuterie Riviere",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.592033,45.635403,-73.592033,45.635403],
+  "bbox": [
+    -73.592033,
+    45.635403,
+    -73.592033,
+    45.635403
+],
   "geometry": {"coordinates":[-73.592033,45.635403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152457035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.461807,45.729294,-73.461807,45.729294",
     "geom:latitude":45.729294,
     "geom:longitude":-73.461807,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"274 Boul Iberville",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85895717,
+        102191575,
         85633041,
-        85895717
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a0bfd86751b43e21c5c9df0b487fe156",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85895717,
+            "region_id":136251273,
             "venue_id":152457035
         }
     ],
     "wof:id":152457035,
-    "wof:lastmodified":1449047404,
+    "wof:lastmodified":1453935180,
     "wof:name":"Informatique Plus Inc",
     "wof:parent_id":85895717,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.461807,45.729294,-73.461807,45.729294],
-  "geometry": {"coordinates":[-73.461807,45.729294],"type":"Point"}
+  "bbox": [
+    -73.461807,
+    45.729294,
+    -73.461807,
+    45.729294
+],
+  "geometry": {"coordinates":[-73.46180699999999,45.729294],"type":"Point"}
 }

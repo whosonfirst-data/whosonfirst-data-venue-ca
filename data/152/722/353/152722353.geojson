@@ -2,13 +2,14 @@
   "id": 152722353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.608795,45.538895,-73.608795,45.538895",
     "geom:latitude":45.538895,
     "geom:longitude":-73.608795,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6885 Rue Saint-Hubert",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5fef1eeb478c1c42330a541ff059ff87",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":152722353
         }
     ],
     "wof:id":152722353,
-    "wof:lastmodified":1449045930,
+    "wof:lastmodified":1453934067,
     "wof:name":"Bijouterie Eclipse",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.608795,45.538895,-73.608795,45.538895],
+  "bbox": [
+    -73.608795,
+    45.538895,
+    -73.608795,
+    45.538895
+],
   "geometry": {"coordinates":[-73.608795,45.538895],"type":"Point"}
 }

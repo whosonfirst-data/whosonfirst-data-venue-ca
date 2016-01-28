@@ -2,13 +2,14 @@
   "id": 169456729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.593735,43.548679,-79.593735,43.548679",
     "geom:latitude":43.548679,
     "geom:longitude":-79.593735,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"95 Queen St S",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895115,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"f05c2332b1771f8b80ae88d26f6517c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":169456729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":169456729
         }
     ],
     "wof:id":169456729,
-    "wof:lastmodified":1449033663,
+    "wof:lastmodified":1453929792,
     "wof:name":"Anglo Scottish American Travel",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.593735,43.548679,-79.593735,43.548679],
+  "bbox": [
+    -79.593735,
+    43.548679,
+    -79.593735,
+    43.548679
+],
   "geometry": {"coordinates":[-79.593735,43.548679],"type":"Point"}
 }

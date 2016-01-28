@@ -2,13 +2,14 @@
   "id": 152962899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.579056,43.559166,-79.579056,43.559166",
     "geom:latitude":43.559166,
     "geom:longitude":-79.579056,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15 Oakwood Ave N",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895115,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"3210edd6155bae0a5463628fd6ed8b20",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":152962899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":152962899
         }
     ],
     "wof:id":152962899,
-    "wof:lastmodified":1449047022,
+    "wof:lastmodified":1453934888,
     "wof:name":"Oakwood Communications",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.579056,43.559166,-79.579056,43.559166],
-  "geometry": {"coordinates":[-79.579056,43.559166],"type":"Point"}
+  "bbox": [
+    -79.579056,
+    43.559166,
+    -79.579056,
+    43.559166
+],
+  "geometry": {"coordinates":[-79.57905599999999,43.559166],"type":"Point"}
 }

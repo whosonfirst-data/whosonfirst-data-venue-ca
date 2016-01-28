@@ -2,13 +2,14 @@
   "id": 152725447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.568497,45.515015,-73.568497,45.515015",
     "geom:latitude":45.515015,
     "geom:longitude":-73.568497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"235 Rue Sherbrooke O # 100",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"626a46a0a95db49b0d9895bf6dae6308",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":152725447
         }
     ],
     "wof:id":152725447,
-    "wof:lastmodified":1449045418,
+    "wof:lastmodified":1453933686,
     "wof:name":"Appartements Le Colisee",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.568497,45.515015,-73.568497,45.515015],
-  "geometry": {"coordinates":[-73.568497,45.515015],"type":"Point"}
+  "bbox": [
+    -73.568497,
+    45.515015,
+    -73.568497,
+    45.515015
+],
+  "geometry": {"coordinates":[-73.56849699999999,45.515015],"type":"Point"}
 }

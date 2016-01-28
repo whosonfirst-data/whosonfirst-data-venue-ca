@@ -2,13 +2,14 @@
   "id": 152344271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.686028,44.389172,-79.686028,44.389172",
     "geom:latitude":44.389172,
     "geom:longitude":-79.686028,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"125 Dunlop St E",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g3znsZ6uayohS5OckGPfY_44.389172_-79.686028@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0d393fb27622b8c3b651cbc8dfe91603",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":152344271
+        }
+    ],
     "wof:id":152344271,
-    "wof:lastmodified":1449044534,
+    "wof:lastmodified":1453933004,
     "wof:name":"Artifact the Craft Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.686028,44.389172,-79.686028,44.389172],
-  "geometry": {"coordinates":[-79.686028,44.389172],"type":"Point"}
+  "bbox": [
+    -79.686028,
+    44.389172,
+    -79.686028,
+    44.389172
+],
+  "geometry": {"coordinates":[-79.68602799999999,44.389172],"type":"Point"}
 }

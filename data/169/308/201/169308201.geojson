@@ -2,13 +2,14 @@
   "id": 169308201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.643227,43.663631,-79.643227,43.663631",
     "geom:latitude":43.663631,
     "geom:longitude":-79.643227,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6071 Netherhart Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"c13ae4997c397a926e666826ce250c2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":169308201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":169308201
         }
     ],
     "wof:id":169308201,
-    "wof:lastmodified":1449036056,
+    "wof:lastmodified":1453932299,
     "wof:name":"Guthrie Containers CO Ltd",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.643227,43.663631,-79.643227,43.663631],
+  "bbox": [
+    -79.643227,
+    43.663631,
+    -79.643227,
+    43.663631
+],
   "geometry": {"coordinates":[-79.643227,43.663631],"type":"Point"}
 }

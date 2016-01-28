@@ -2,13 +2,14 @@
   "id": 169104043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.881683,45.455509,-73.881683,45.455509",
     "geom:latitude":45.455509,
     "geom:longitude":-73.881683,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"17846 Rue Montego",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784833,
+        102191575,
         85633041,
-        85784833
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"94ff91130c8395b7cde14e970a951ac3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784833,
+            "region_id":136251273,
             "venue_id":169104043
         }
     ],
     "wof:id":169104043,
-    "wof:lastmodified":1449034040,
+    "wof:lastmodified":1453930222,
     "wof:name":"Bois Dorial Inc",
     "wof:parent_id":85784833,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.881683,45.455509,-73.881683,45.455509],
+  "bbox": [
+    -73.881683,
+    45.455509,
+    -73.881683,
+    45.455509
+],
   "geometry": {"coordinates":[-73.881683,45.455509],"type":"Point"}
 }

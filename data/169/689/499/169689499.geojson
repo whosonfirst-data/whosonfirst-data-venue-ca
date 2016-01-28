@@ -2,13 +2,14 @@
   "id": 169689499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.639496,43.631699,-79.639496,43.631699",
     "geom:latitude":43.631699,
     "geom:longitude":-79.639496,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5300 Tomken Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895105,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"bb083c6f9a05fc5fe74d15a63ea6f9ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":169689499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":169689499
         }
     ],
     "wof:id":169689499,
-    "wof:lastmodified":1449035407,
+    "wof:lastmodified":1453931609,
     "wof:name":"Innova Envelope",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "envelope"
     ]
 },
-  "bbox": [-79.639496,43.631699,-79.639496,43.631699],
-  "geometry": {"coordinates":[-79.639496,43.631699],"type":"Point"}
+  "bbox": [
+    -79.639496,
+    43.631699,
+    -79.639496,
+    43.631699
+],
+  "geometry": {"coordinates":[-79.63949599999999,43.631699],"type":"Point"}
 }

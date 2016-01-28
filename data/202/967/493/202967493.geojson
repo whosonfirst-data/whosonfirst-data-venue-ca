@@ -2,13 +2,14 @@
   "id": 202967493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.728035,45.496387,-73.728035,45.496387",
     "geom:latitude":45.496387,
     "geom:longitude":-73.728035,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5020 Boul Thimens",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895749,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"24af463320cda94f7ea181622bc96073",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202967493
         }
     ],
     "wof:id":202967493,
-    "wof:lastmodified":1449062458,
+    "wof:lastmodified":1453937468,
     "wof:name":"Industries Flexipak",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "bag"
     ]
 },
-  "bbox": [-73.728035,45.496387,-73.728035,45.496387],
-  "geometry": {"coordinates":[-73.728035,45.496387],"type":"Point"}
+  "bbox": [
+    -73.728035,
+    45.496387,
+    -73.728035,
+    45.496387
+],
+  "geometry": {"coordinates":[-73.72803500000001,45.496387],"type":"Point"}
 }

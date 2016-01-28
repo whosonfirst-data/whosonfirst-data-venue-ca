@@ -2,13 +2,14 @@
   "id": 169146293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.565598,45.490898,-73.565598,45.490898",
     "geom:latitude":45.490898,
     "geom:longitude":-73.565598,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1435 Rue Barre",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897609,
+        102191575,
         85633041,
-        85897609
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"01d7ae55a5b6a5fccd50d25008c06b4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897609,
+            "region_id":136251273,
             "venue_id":169146293
         }
     ],
     "wof:id":169146293,
-    "wof:lastmodified":1449034042,
+    "wof:lastmodified":1453930224,
     "wof:name":"Inter Action Courrier Intl Inc",
     "wof:parent_id":85897609,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.565598,45.490898,-73.565598,45.490898],
-  "geometry": {"coordinates":[-73.565598,45.490898],"type":"Point"}
+  "bbox": [
+    -73.565598,
+    45.490898,
+    -73.565598,
+    45.490898
+],
+  "geometry": {"coordinates":[-73.56559799999999,45.490898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169395833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.273331,46.818298,-71.273331,46.818298",
     "geom:latitude":46.818298,
     "geom:longitude":-71.273331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"460 Rue Desrochers",
     "sg:city":"Vanier",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864413,
+        102191575,
         85633041,
-        85864413
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a87ccebe99aa8f581391eced34d23d18",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864413,
+            "region_id":136251273,
             "venue_id":169395833
         }
     ],
     "wof:id":169395833,
-    "wof:lastmodified":1449035476,
+    "wof:lastmodified":1453931703,
     "wof:name":"Lpa Medical",
     "wof:parent_id":85864413,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.273331,46.818298,-71.273331,46.818298],
+  "bbox": [
+    -71.273331,
+    46.818298,
+    -71.273331,
+    46.818298
+],
   "geometry": {"coordinates":[-71.273331,46.818298],"type":"Point"}
 }

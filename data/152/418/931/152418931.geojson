@@ -2,13 +2,14 @@
   "id": 152418931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.869026,43.50465,-79.869026,43.50465",
     "geom:latitude":43.50465,
     "geom:longitude":-79.869026,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"268 Laurier Ave",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895665,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b245bb74c18a4371fa600524888f7dfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895665,
+            "region_id":85682057,
+            "venue_id":152418931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895665,
             "region_id":85682057,
             "venue_id":152418931
         }
     ],
     "wof:id":152418931,
-    "wof:lastmodified":1449047922,
+    "wof:lastmodified":1453935594,
     "wof:name":"OK Machine Tool Svc",
     "wof:parent_id":85895665,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.869026,43.50465,-79.869026,43.50465],
-  "geometry": {"coordinates":[-79.869026,43.50465],"type":"Point"}
+  "bbox": [
+    -79.869026,
+    43.50465,
+    -79.869026,
+    43.50465
+],
+  "geometry": {"coordinates":[-79.86902600000001,43.50465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152849843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.459145,43.91851,-79.459145,43.91851",
     "geom:latitude":43.91851,
     "geom:longitude":-79.459145,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"276 Harris Ave",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895353,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a2e5f3d5268246b3a6b9d9ab01bb48ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895353,
+            "region_id":85682057,
+            "venue_id":152849843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895353,
             "region_id":85682057,
             "venue_id":152849843
         }
     ],
     "wof:id":152849843,
-    "wof:lastmodified":1449045159,
+    "wof:lastmodified":1453933482,
     "wof:name":"Harris Plumbing",
     "wof:parent_id":85895353,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.459145,43.91851,-79.459145,43.91851],
-  "geometry": {"coordinates":[-79.459145,43.91851],"type":"Point"}
+  "bbox": [
+    -79.459145,
+    43.91851,
+    -79.459145,
+    43.91851
+],
+  "geometry": {"coordinates":[-79.45914500000001,43.91851],"type":"Point"}
 }

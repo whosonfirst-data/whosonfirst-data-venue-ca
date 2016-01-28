@@ -2,13 +2,14 @@
   "id": 152369567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.437981,45.678185,-73.437981,45.678185",
     "geom:latitude":45.678185,
     "geom:longitude":-73.437981,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2060 Rte Marie-Victorin",
     "sg:city":"Varennes",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738581,
+        85895719,
+        102191575,
         85633041,
-        85895719
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"92a6e2228d61870807a9e330301cbee5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
+            "region_id":136251273,
             "venue_id":152369567
         }
     ],
     "wof:id":152369567,
-    "wof:lastmodified":1449048684,
+    "wof:lastmodified":1453936158,
     "wof:name":"Racicot & Assoc",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.437981,45.678185,-73.437981,45.678185],
-  "geometry": {"coordinates":[-73.437981,45.678185],"type":"Point"}
+  "bbox": [
+    -73.437981,
+    45.678185,
+    -73.437981,
+    45.678185
+],
+  "geometry": {"coordinates":[-73.43798099999999,45.678185],"type":"Point"}
 }

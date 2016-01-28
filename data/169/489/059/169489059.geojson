@@ -2,13 +2,14 @@
   "id": 169489059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.569077,45.545124,-73.569077,45.545124",
     "geom:latitude":45.545124,
     "geom:longitude":-73.569077,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871111,
+        102191575,
         85633041,
-        85871111
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"e93c7fdf149370baaee36d094605a877",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871111,
+            "region_id":136251273,
             "venue_id":169489059
         }
     ],
     "wof:id":169489059,
-    "wof:lastmodified":1449034497,
+    "wof:lastmodified":1453930684,
     "wof:name":"D B Lux Intl",
     "wof:parent_id":85871111,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.569077,45.545124,-73.569077,45.545124],
-  "geometry": {"coordinates":[-73.569077,45.545124],"type":"Point"}
+  "bbox": [
+    -73.569077,
+    45.545124,
+    -73.569077,
+    45.545124
+],
+  "geometry": {"coordinates":[-73.56907699999999,45.545124],"type":"Point"}
 }

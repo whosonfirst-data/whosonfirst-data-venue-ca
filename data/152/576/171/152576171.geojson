@@ -2,13 +2,14 @@
   "id": 152576171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.884026,45.405304,-71.884026,45.405304",
     "geom:latitude":45.405304,
     "geom:longitude":-71.884026,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"169 Rue King O",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874135,
+        102191575,
         85633041,
-        85874135
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"93ff087c2161950303bc958b8034e668",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874135,
+            "region_id":136251273,
             "venue_id":152576171
         }
     ],
     "wof:id":152576171,
-    "wof:lastmodified":1449047851,
+    "wof:lastmodified":1453935544,
     "wof:name":"Musique Cite Sherbrooke Inc",
     "wof:parent_id":85874135,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.884026,45.405304,-71.884026,45.405304],
-  "geometry": {"coordinates":[-71.884026,45.405304],"type":"Point"}
+  "bbox": [
+    -71.884026,
+    45.405304,
+    -71.884026,
+    45.405304
+],
+  "geometry": {"coordinates":[-71.88402600000001,45.405304],"type":"Point"}
 }

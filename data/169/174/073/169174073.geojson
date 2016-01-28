@@ -2,13 +2,14 @@
   "id": 169174073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.809006,45.659744,-73.809006,45.659744",
     "geom:latitude":45.659744,
     "geom:longitude":-73.809006,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"146 Boul Des Chateaux",
     "sg:city":"Blainville",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"701f13c19248600a3d0990b9d23b1fa6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169174073
         }
     ],
     "wof:id":169174073,
-    "wof:lastmodified":1449033133,
+    "wof:lastmodified":1453929252,
     "wof:name":"Gosselin, Maurice",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.809006,45.659744,-73.809006,45.659744],
+  "bbox": [
+    -73.809006,
+    45.659744,
+    -73.809006,
+    45.659744
+],
   "geometry": {"coordinates":[-73.809006,45.659744],"type":"Point"}
 }

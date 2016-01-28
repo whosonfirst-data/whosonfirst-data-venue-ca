@@ -2,13 +2,14 @@
   "id": 152941045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.489906,45.415005,-73.489906,45.415005",
     "geom:latitude":45.415005,
     "geom:longitude":-73.489906,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"317 Boul Taschereau",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875773,
+        102191575,
         85633041,
-        85875773
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"dd6b5cfdfd10e87bc32451c7f8103781",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875773,
+            "region_id":136251273,
             "venue_id":152941045
         }
     ],
     "wof:id":152941045,
-    "wof:lastmodified":1449047058,
+    "wof:lastmodified":1453934922,
     "wof:name":"Gary Chartrand Inc",
     "wof:parent_id":85875773,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.489906,45.415005,-73.489906,45.415005],
+  "bbox": [
+    -73.489906,
+    45.415005,
+    -73.489906,
+    45.415005
+],
   "geometry": {"coordinates":[-73.489906,45.415005],"type":"Point"}
 }

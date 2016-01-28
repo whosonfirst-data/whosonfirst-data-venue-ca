@@ -2,13 +2,14 @@
   "id": 152521297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.755699,45.497246,-73.755699,45.497246",
     "geom:latitude":45.497246,
     "geom:longitude":-73.755699,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5789 Rue Cypihot",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874361,
+        102191575,
         85633041,
-        85874361
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"905c8fd72352c59d70ee6dcdc6255205",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874361,
+            "region_id":136251273,
             "venue_id":152521297
         }
     ],
     "wof:id":152521297,
-    "wof:lastmodified":1449048693,
+    "wof:lastmodified":1453936164,
     "wof:name":"Crown Cork & Seal Canada Inc",
     "wof:parent_id":85874361,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.755699,45.497246,-73.755699,45.497246],
-  "geometry": {"coordinates":[-73.755699,45.497246],"type":"Point"}
+  "bbox": [
+    -73.755699,
+    45.497246,
+    -73.755699,
+    45.497246
+],
+  "geometry": {"coordinates":[-73.75569900000001,45.497246],"type":"Point"}
 }

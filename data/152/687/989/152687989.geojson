@@ -2,13 +2,14 @@
   "id": 152687989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.057549,48.427971,-71.057549,48.427971",
     "geom:latitude":48.427971,
     "geom:longitude":-71.057549,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"342 Rue Du Havre",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ed9d15338ffdda37d2f0b157ea7f0b7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152687989
         }
     ],
     "wof:id":152687989,
-    "wof:lastmodified":1449045596,
+    "wof:lastmodified":1453933822,
     "wof:name":"Panne-Choppe",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.057549,48.427971,-71.057549,48.427971],
-  "geometry": {"coordinates":[-71.057549,48.427971],"type":"Point"}
+  "bbox": [
+    -71.057549,
+    48.427971,
+    -71.057549,
+    48.427971
+],
+  "geometry": {"coordinates":[-71.05754899999999,48.427971],"type":"Point"}
 }

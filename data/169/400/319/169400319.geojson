@@ -2,13 +2,14 @@
   "id": 169400319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.206436,45.563225,-73.206436,45.563225",
     "geom:latitude":45.563225,
     "geom:longitude":-73.206436,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"200 Rue Duvernay",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738643,
+        85894591,
+        102191575,
         85633041,
-        85894591
+        101738643,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"7f6b0fa110524162743649df8c9661c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738643,
             "neighbourhood_id":85894591,
+            "region_id":136251273,
             "venue_id":169400319
         }
     ],
     "wof:id":169400319,
-    "wof:lastmodified":1449032990,
+    "wof:lastmodified":1453929124,
     "wof:name":"Plomberie G Letourneau Inc",
     "wof:parent_id":85894591,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.206436,45.563225,-73.206436,45.563225],
+  "bbox": [
+    -73.206436,
+    45.563225,
+    -73.206436,
+    45.563225
+],
   "geometry": {"coordinates":[-73.206436,45.563225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152627981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.559196,43.19194,-79.559196,43.19194",
     "geom:latitude":43.19194,
     "geom:longitude":-79.559196,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"36 Main St E",
     "sg:city":"Grimsby",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895579,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101735899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ef0076ebe52390813aa43b881f471bf3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85895579,
+            "region_id":85682057,
+            "venue_id":152627981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735899,
             "neighbourhood_id":85895579,
             "region_id":85682057,
             "venue_id":152627981
         }
     ],
     "wof:id":152627981,
-    "wof:lastmodified":1449048994,
+    "wof:lastmodified":1453936430,
     "wof:name":"M & M Meats Shops Ltd",
     "wof:parent_id":85895579,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.559196,43.19194,-79.559196,43.19194],
+  "bbox": [
+    -79.559196,
+    43.19194,
+    -79.559196,
+    43.19194
+],
   "geometry": {"coordinates":[-79.559196,43.19194],"type":"Point"}
 }

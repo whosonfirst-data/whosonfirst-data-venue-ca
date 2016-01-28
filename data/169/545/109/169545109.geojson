@@ -2,13 +2,14 @@
   "id": 169545109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.440079,43.425186,-80.440079,43.425186",
     "geom:latitude":43.425186,
     "geom:longitude":-80.440079,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Kitchener",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875009,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a432d5e64abdcb7aabeb10231c7ee005",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875009,
+            "region_id":85682057,
+            "venue_id":169545109
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875009,
             "region_id":85682057,
             "venue_id":169545109
         }
     ],
     "wof:id":169545109,
-    "wof:lastmodified":1449033487,
+    "wof:lastmodified":1453929594,
     "wof:name":"Shoe Doctor Quality Shoe Rpr",
     "wof:parent_id":85875009,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.440079,43.425186,-80.440079,43.425186],
+  "bbox": [
+    -80.440079,
+    43.425186,
+    -80.440079,
+    43.425186
+],
   "geometry": {"coordinates":[-80.440079,43.425186],"type":"Point"}
 }

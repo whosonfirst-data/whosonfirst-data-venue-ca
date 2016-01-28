@@ -2,13 +2,14 @@
   "id": 169415707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.568581,49.186649,-122.568581,49.186649",
     "geom:latitude":49.186649,
     "geom:longitude":-122.568581,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10092 236 St",
     "sg:city":"Maple Ridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894779,
-        85682117
+        102191575,
+        85633041,
+        101740805,
+        85682117,
+        101746133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"08ea58a8d3bd055d5b5dcea5431960e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740805,
+            "neighbourhood_id":85894779,
+            "region_id":85682117,
+            "venue_id":169415707
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101746133,
             "neighbourhood_id":85894779,
             "region_id":85682117,
             "venue_id":169415707
         }
     ],
     "wof:id":169415707,
-    "wof:lastmodified":1449035056,
+    "wof:lastmodified":1453931284,
     "wof:name":"Ridge Meadows Recycling Soc",
     "wof:parent_id":85894779,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.568581,49.186649,-122.568581,49.186649],
-  "geometry": {"coordinates":[-122.568581,49.186649],"type":"Point"}
+  "bbox": [
+    -122.568581,
+    49.186649,
+    -122.568581,
+    49.186649
+],
+  "geometry": {"coordinates":[-122.56858099999999,49.186649],"type":"Point"}
 }

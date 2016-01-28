@@ -2,13 +2,14 @@
   "id": 152593215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.290459,46.780579,-71.290459,46.780579",
     "geom:latitude":46.780579,
     "geom:longitude":-71.290459,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"888 Rue DE Villers # 23",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"afd49688cb801f02ddbda278d7d4b7bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":152593215
         }
     ],
     "wof:id":152593215,
-    "wof:lastmodified":1449047365,
+    "wof:lastmodified":1453935150,
     "wof:name":"Voliere Sec",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.290459,46.780579,-71.290459,46.780579],
+  "bbox": [
+    -71.290459,
+    46.780579,
+    -71.290459,
+    46.780579
+],
   "geometry": {"coordinates":[-71.290459,46.780579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202845065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.731804,45.580906,-73.731804,45.580906",
     "geom:latitude":45.580906,
     "geom:longitude":-73.731804,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2282 Boul Industriel",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875067,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"05a0f02befb5ea28d0b64e90aa9d47a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202845065
         }
     ],
     "wof:id":202845065,
-    "wof:lastmodified":1449060519,
+    "wof:lastmodified":1453937058,
     "wof:name":"Imprimerie Hfd",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "printer"
     ]
 },
-  "bbox": [-73.731804,45.580906,-73.731804,45.580906],
+  "bbox": [
+    -73.731804,
+    45.580906,
+    -73.731804,
+    45.580906
+],
   "geometry": {"coordinates":[-73.731804,45.580906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169240287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.274155,43.845188,-79.274155,43.845188",
     "geom:latitude":43.845188,
     "geom:longitude":-79.274155,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"131 Coppard Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895677,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"bec7b7a687fae3693d64bb62c3b721fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895677,
+            "region_id":85682057,
+            "venue_id":169240287
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895677,
             "region_id":85682057,
             "venue_id":169240287
         }
     ],
     "wof:id":169240287,
-    "wof:lastmodified":1449033015,
+    "wof:lastmodified":1453929142,
     "wof:name":"Coppard Glen Public School",
     "wof:parent_id":85895677,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.274155,43.845188,-79.274155,43.845188],
-  "geometry": {"coordinates":[-79.274155,43.845188],"type":"Point"}
+  "bbox": [
+    -79.274155,
+    43.845188,
+    -79.274155,
+    43.845188
+],
+  "geometry": {"coordinates":[-79.27415499999999,43.845188],"type":"Point"}
 }

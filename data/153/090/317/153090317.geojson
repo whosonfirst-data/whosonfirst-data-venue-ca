@@ -2,13 +2,14 @@
   "id": 153090317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.839798,45.522594,-73.839798,45.522594",
     "geom:latitude":45.522594,
     "geom:longitude":-73.839798,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1129 Rue Patrick",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b4d069a77691abe0e70f6fb72d2c9c58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":153090317
         }
     ],
     "wof:id":153090317,
-    "wof:lastmodified":1449040716,
+    "wof:lastmodified":1453932637,
     "wof:name":"Entreprises Les Plus Propres",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.839798,45.522594,-73.839798,45.522594],
+  "bbox": [
+    -73.839798,
+    45.522594,
+    -73.839798,
+    45.522594
+],
   "geometry": {"coordinates":[-73.839798,45.522594],"type":"Point"}
 }

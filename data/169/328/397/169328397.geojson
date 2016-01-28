@@ -2,13 +2,14 @@
   "id": 169328397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.657242,45.546505,-73.657242,45.546505",
     "geom:latitude":45.546505,
     "geom:longitude":-73.657242,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11 Rue DE Port-Royal O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897505,
+        102191575,
         85633041,
-        85897505
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e4dc90a13f539c90c3b08ad7765c54a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897505,
+            "region_id":136251273,
             "venue_id":169328397
         }
     ],
     "wof:id":169328397,
-    "wof:lastmodified":1449034629,
+    "wof:lastmodified":1453930833,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85897505,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.657242,45.546505,-73.657242,45.546505],
+  "bbox": [
+    -73.657242,
+    45.546505,
+    -73.657242,
+    45.546505
+],
   "geometry": {"coordinates":[-73.657242,45.546505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152169865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.259743,42.970165,-81.259743,42.970165",
     "geom:latitude":42.970165,
     "geom:longitude":-81.259743,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"35 Elmwood Ave E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03SrdcY2wXVtbCWh92YQRM_42.970165_-81.259743@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"21274359ea9d4e99052d3020423ae593",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":152169865
+        }
+    ],
     "wof:id":152169865,
-    "wof:lastmodified":1449047149,
+    "wof:lastmodified":1453934999,
     "wof:name":"Custom Home Watch Intl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.259743,42.970165,-81.259743,42.970165],
+  "bbox": [
+    -81.259743,
+    42.970165,
+    -81.259743,
+    42.970165
+],
   "geometry": {"coordinates":[-81.259743,42.970165],"type":"Point"}
 }

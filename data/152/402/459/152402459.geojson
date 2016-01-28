@@ -2,13 +2,14 @@
   "id": 152402459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.443115,45.505409,-73.443115,45.505409",
     "geom:latitude":45.505409,
     "geom:longitude":-73.443115,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
         {
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"15e1dc8bf8eca663a59a1c6ce185b64c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":152402459
         }
     ],
     "wof:id":152402459,
-    "wof:lastmodified":1449045784,
+    "wof:lastmodified":1453933964,
     "wof:name":"Gta Auto Performance Inc",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.443115,45.505409,-73.443115,45.505409],
-  "geometry": {"coordinates":[-73.443115,45.505409],"type":"Point"}
+  "bbox": [
+    -73.443115,
+    45.505409,
+    -73.443115,
+    45.505409
+],
+  "geometry": {"coordinates":[-73.44311500000001,45.505409],"type":"Point"}
 }

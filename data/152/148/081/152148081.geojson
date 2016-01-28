@@ -2,13 +2,14 @@
   "id": 152148081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.656708,44.361965,-79.656708,44.361965",
     "geom:latitude":44.361965,
     "geom:longitude":-79.656708,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "x"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875277,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01kMKqwI4TGO5NUQRlrDZ0_44.361965_-79.656708@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ceb1a4ece10bad7fb16b4c215b4b8a52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
+            "region_id":85682057,
+            "venue_id":152148081
+        }
+    ],
     "wof:id":152148081,
-    "wof:lastmodified":1449048192,
+    "wof:lastmodified":1453935789,
     "wof:name":"Georgian Radiology Consultants",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.656708,44.361965,-79.656708,44.361965],
-  "geometry": {"coordinates":[-79.656708,44.361965],"type":"Point"}
+  "bbox": [
+    -79.656708,
+    44.361965,
+    -79.656708,
+    44.361965
+],
+  "geometry": {"coordinates":[-79.65670799999999,44.361965],"type":"Point"}
 }

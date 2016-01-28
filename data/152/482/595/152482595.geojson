@@ -2,13 +2,14 @@
   "id": 152482595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.678352,45.537392,-73.678352,45.537392",
     "geom:latitude":45.537392,
     "geom:longitude":-73.678352,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1530 Boul Henri-Bourassa O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874385,
+        102191575,
         85633041,
-        85874385
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"2db6587954c0ccb059a5e18bc462a6b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874385,
+            "region_id":136251273,
             "venue_id":152482595
         }
     ],
     "wof:id":152482595,
-    "wof:lastmodified":1449045954,
+    "wof:lastmodified":1453934084,
     "wof:name":"Restaurant Le Coq LA-LA",
     "wof:parent_id":85874385,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.678352,45.537392,-73.678352,45.537392],
+  "bbox": [
+    -73.678352,
+    45.537392,
+    -73.678352,
+    45.537392
+],
   "geometry": {"coordinates":[-73.678352,45.537392],"type":"Point"}
 }

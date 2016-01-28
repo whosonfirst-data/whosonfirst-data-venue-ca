@@ -2,13 +2,14 @@
   "id": 169367089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.461014,45.758698,-73.461014,45.758698",
     "geom:latitude":45.758698,
     "geom:longitude":-73.461014,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"41c5f6b9ea99895179a6b5176bf01373",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169367089
         }
     ],
     "wof:id":169367089,
-    "wof:lastmodified":1449034637,
+    "wof:lastmodified":1453930844,
     "wof:name":"Prodlec Inc",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.461014,45.758698,-73.461014,45.758698],
-  "geometry": {"coordinates":[-73.461014,45.758698],"type":"Point"}
+  "bbox": [
+    -73.461014,
+    45.758698,
+    -73.461014,
+    45.758698
+],
+  "geometry": {"coordinates":[-73.46101400000001,45.758698],"type":"Point"}
 }

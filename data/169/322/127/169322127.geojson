@@ -2,13 +2,14 @@
   "id": 169322127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.7062,43.75536,-79.7062,43.75536",
     "geom:latitude":43.75536,
     "geom:longitude":-79.7062,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"0f5332e4fe80dc7e9a6714d926d471ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":169322127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":169322127
         }
     ],
     "wof:id":169322127,
-    "wof:lastmodified":1449032648,
+    "wof:lastmodified":1453928766,
     "wof:name":"Mor Craft",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.7062,43.75536,-79.7062,43.75536],
+  "bbox": [
+    -79.7062,
+    43.75536,
+    -79.7062,
+    43.75536
+],
   "geometry": {"coordinates":[-79.7062,43.75536],"type":"Point"}
 }

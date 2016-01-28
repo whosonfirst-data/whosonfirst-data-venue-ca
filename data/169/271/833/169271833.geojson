@@ -2,13 +2,14 @@
   "id": 169271833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.470505,45.473446,-73.470505,45.473446",
     "geom:latitude":45.473446,
     "geom:longitude":-73.470505,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2151 Boul Lapiniere # Fea",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897507,
+        102191575,
         85633041,
-        85897507
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"817364c403eb3786e669478d1a9d75cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897507,
+            "region_id":136251273,
             "venue_id":169271833
         }
     ],
     "wof:id":169271833,
-    "wof:lastmodified":1449034410,
+    "wof:lastmodified":1453930595,
     "wof:name":"Commeneuf",
     "wof:parent_id":85897507,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.470505,45.473446,-73.470505,45.473446],
+  "bbox": [
+    -73.470505,
+    45.473446,
+    -73.470505,
+    45.473446
+],
   "geometry": {"coordinates":[-73.470505,45.473446],"type":"Point"}
 }

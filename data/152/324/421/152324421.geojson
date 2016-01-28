@@ -2,13 +2,14 @@
   "id": 152324421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.403152,43.667583,-79.403152,43.667583",
     "geom:latitude":43.667583,
     "geom:longitude":-79.403152,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"14 Madison Ave",
     "sg:city":"Toronto",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
         85864633,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"2dfa0ecc1af00d39c9ac55b03bc8b953",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85864633,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":152324421,
-    "wof:lastmodified":1449047002,
+    "wof:lastmodified":1453934871,
     "wof:name":"Madison Avenue Pub",
     "wof:parent_id":85864633,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.403152,43.667583,-79.403152,43.667583],
-  "geometry": {"coordinates":[-79.403152,43.667583],"type":"Point"}
+  "bbox": [
+    -79.403152,
+    43.667583,
+    -79.403152,
+    43.667583
+],
+  "geometry": {"coordinates":[-79.40315200000001,43.667583],"type":"Point"}
 }

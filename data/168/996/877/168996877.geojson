@@ -2,13 +2,14 @@
   "id": 168996877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.253616,46.799908,-71.253616,46.799908",
     "geom:latitude":46.799908,
     "geom:longitude":-71.253616,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1173 Boul Charest O",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864431,
+        102191575,
         85633041,
-        85864431
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"499c25f3619fca1a775b63a3a03c4516",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864431,
+            "region_id":136251273,
             "venue_id":168996877
         }
     ],
     "wof:id":168996877,
-    "wof:lastmodified":1449027976,
+    "wof:lastmodified":1453928013,
     "wof:name":"Ligue DE Soccer Recreative",
     "wof:parent_id":85864431,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.253616,46.799908,-71.253616,46.799908],
-  "geometry": {"coordinates":[-71.253616,46.799908],"type":"Point"}
+  "bbox": [
+    -71.253616,
+    46.799908,
+    -71.253616,
+    46.799908
+],
+  "geometry": {"coordinates":[-71.25361599999999,46.799908],"type":"Point"}
 }

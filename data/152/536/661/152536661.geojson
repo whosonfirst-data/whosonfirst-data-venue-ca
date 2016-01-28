@@ -2,13 +2,14 @@
   "id": 152536661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.53521,43.802589,-79.53521,43.802589",
     "geom:latitude":43.802589,
     "geom:longitude":-79.53521,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"390 Edgeley Blvd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ace9c6e84fda7345ea7e2ef8b6433317",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":152536661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":152536661
         }
     ],
     "wof:id":152536661,
-    "wof:lastmodified":1449047056,
+    "wof:lastmodified":1453934919,
     "wof:name":"Faria Custom Carpentry",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.53521,43.802589,-79.53521,43.802589],
-  "geometry": {"coordinates":[-79.53521,43.802589],"type":"Point"}
+  "bbox": [
+    -79.53521,
+    43.802589,
+    -79.53521,
+    43.802589
+],
+  "geometry": {"coordinates":[-79.53521000000001,43.802589],"type":"Point"}
 }

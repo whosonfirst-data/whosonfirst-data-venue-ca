@@ -2,13 +2,14 @@
   "id": 169409941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566467,45.466736,-73.566467,45.466736",
     "geom:latitude":45.466736,
     "geom:longitude":-73.566467,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3692 Rue Wellington",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874363,
+        102191575,
         85633041,
-        85874363
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"39c47d74a7972cafeba65ee0619d827e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
+            "region_id":136251273,
             "venue_id":169409941
         }
     ],
     "wof:id":169409941,
-    "wof:lastmodified":1449034035,
+    "wof:lastmodified":1453930216,
     "wof:name":"Mini-Page Mtl",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566467,45.466736,-73.566467,45.466736],
+  "bbox": [
+    -73.566467,
+    45.466736,
+    -73.566467,
+    45.466736
+],
   "geometry": {"coordinates":[-73.566467,45.466736],"type":"Point"}
 }

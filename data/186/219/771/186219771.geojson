@@ -2,13 +2,14 @@
   "id": 186219771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.703461,45.420105,-75.703461,45.420105",
     "geom:latitude":45.420105,
     "geom:longitude":-75.703461,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"100 Kent St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874419,
+        102191575,
         85633041,
-        101738041
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"1591f58065f8912bd42acc2ae9c5ddd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186219771
         }
     ],
     "wof:id":186219771,
-    "wof:lastmodified":1449052927,
+    "wof:lastmodified":1453936927,
     "wof:name":"Marriott Ottawa",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.703461,45.420105,-75.703461,45.420105],
+  "bbox": [
+    -75.703461,
+    45.420105,
+    -75.703461,
+    45.420105
+],
   "geometry": {"coordinates":[-75.703461,45.420105],"type":"Point"}
 }

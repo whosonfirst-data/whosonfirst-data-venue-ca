@@ -2,13 +2,14 @@
   "id": 203388317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.302803,45.443459,-73.302803,45.443459",
     "geom:latitude":45.443459,
     "geom:longitude":-73.302803,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1101 Boul Brassard",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895747,
+        102191575,
         85633041,
-        101737807
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"6fafb744ed42b035402bed73e5437cdd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203388317
         }
     ],
     "wof:id":203388317,
-    "wof:lastmodified":1449025028,
+    "wof:lastmodified":1453927423,
     "wof:name":"Couche-Tard",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.302803,45.443459,-73.302803,45.443459],
+  "bbox": [
+    -73.302803,
+    45.443459,
+    -73.302803,
+    45.443459
+],
   "geometry": {"coordinates":[-73.302803,45.443459],"type":"Point"}
 }

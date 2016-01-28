@@ -2,13 +2,14 @@
   "id": 152339429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.573997,45.51474,-73.573997,45.51474",
     "geom:latitude":45.51474,
     "geom:longitude":-73.573997,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Rue Guilbault E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"38ac2ded347814c2b3f59cfb1c67080a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":152339429
         }
     ],
     "wof:id":152339429,
-    "wof:lastmodified":1449046377,
+    "wof:lastmodified":1453934410,
     "wof:name":"Maison St Dominique",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.573997,45.51474,-73.573997,45.51474],
-  "geometry": {"coordinates":[-73.573997,45.51474],"type":"Point"}
+  "bbox": [
+    -73.573997,
+    45.51474,
+    -73.573997,
+    45.51474
+],
+  "geometry": {"coordinates":[-73.57399700000001,45.51474],"type":"Point"}
 }

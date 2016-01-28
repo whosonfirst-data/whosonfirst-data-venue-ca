@@ -2,13 +2,14 @@
   "id": 152450413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.64035,43.702351,-79.64035,43.702351",
     "geom:latitude":43.702351,
     "geom:longitude":-79.64035,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6969 Airport Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894971,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8112da70829f12e37e73e373557b10d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894971,
+            "region_id":85682057,
+            "venue_id":152450413
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894971,
             "region_id":85682057,
             "venue_id":152450413
         }
     ],
     "wof:id":152450413,
-    "wof:lastmodified":1449048207,
+    "wof:lastmodified":1453935796,
     "wof:name":"Appleton Motors Ltd",
     "wof:parent_id":85894971,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.64035,43.702351,-79.64035,43.702351],
+  "bbox": [
+    -79.64035,
+    43.702351,
+    -79.64035,
+    43.702351
+],
   "geometry": {"coordinates":[-79.64035,43.702351],"type":"Point"}
 }

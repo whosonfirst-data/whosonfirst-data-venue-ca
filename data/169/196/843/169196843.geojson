@@ -2,13 +2,14 @@
   "id": 169196843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.593269,46.332253,-72.593269,46.332253",
     "geom:latitude":46.332253,
     "geom:longitude":-72.593269,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2734 Rue Charbonneau",
     "sg:city":"Trois-Rivieres-Ouest",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85875397,
+        102191575,
         85633041,
-        85875397
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ad5958fac0e57c145bb2d19d95edb17c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85875397,
+            "region_id":136251273,
             "venue_id":169196843
         }
     ],
     "wof:id":169196843,
-    "wof:lastmodified":1449033432,
+    "wof:lastmodified":1453929536,
     "wof:name":"Pro-Mag Enr",
     "wof:parent_id":85875397,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.593269,46.332253,-72.593269,46.332253],
-  "geometry": {"coordinates":[-72.593269,46.332253],"type":"Point"}
+  "bbox": [
+    -72.593269,
+    46.332253,
+    -72.593269,
+    46.332253
+],
+  "geometry": {"coordinates":[-72.59326900000001,46.332253],"type":"Point"}
 }

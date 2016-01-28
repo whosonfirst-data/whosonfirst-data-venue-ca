@@ -2,13 +2,14 @@
   "id": 169257489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.724808,45.599785,-73.724808,45.599785",
     "geom:latitude":45.599785,
     "geom:longitude":-73.724808,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1791 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864417,
+        102191575,
         85633041,
-        85864417
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"47178ee1914d16d3f2414075da0b1a78",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
+            "region_id":136251273,
             "venue_id":169257489
         }
     ],
     "wof:id":169257489,
-    "wof:lastmodified":1449033658,
+    "wof:lastmodified":1453929778,
     "wof:name":"Clinique Medicale DE Vimont",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.724808,45.599785,-73.724808,45.599785],
+  "bbox": [
+    -73.724808,
+    45.599785,
+    -73.724808,
+    45.599785
+],
   "geometry": {"coordinates":[-73.724808,45.599785],"type":"Point"}
 }

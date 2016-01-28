@@ -2,13 +2,14 @@
   "id": 153060159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.200325,42.988941,-81.200325,42.988941",
     "geom:latitude":42.988941,
     "geom:longitude":-81.200325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"461 Highbury Ave N",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LlZ4gmAyKZ2WdsZvewo0n_42.988941_-81.200325@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0e284498a6413006178c37cc6da5fed0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":153060159
+        }
+    ],
     "wof:id":153060159,
-    "wof:lastmodified":1449040781,
+    "wof:lastmodified":1453932693,
     "wof:name":"Dance Mix Music",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.200325,42.988941,-81.200325,42.988941],
-  "geometry": {"coordinates":[-81.200325,42.988941],"type":"Point"}
+  "bbox": [
+    -81.200325,
+    42.988941,
+    -81.200325,
+    42.988941
+],
+  "geometry": {"coordinates":[-81.20032500000001,42.988941],"type":"Point"}
 }

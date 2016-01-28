@@ -2,13 +2,14 @@
   "id": 152294095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.88308,43.649033,-79.88308,43.649033",
     "geom:latitude":43.649033,
     "geom:longitude":-79.88308,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"348 Guelph St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895565,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"0f9e64f4dbe37d1fa89e626b3abcbed1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895565,
+            "region_id":85682057,
+            "venue_id":152294095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895565,
             "region_id":85682057,
             "venue_id":152294095
         }
     ],
     "wof:id":152294095,
-    "wof:lastmodified":1449047592,
+    "wof:lastmodified":1453935337,
     "wof:name":"Felton Bookbinding Ltd",
     "wof:parent_id":85895565,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.88308,43.649033,-79.88308,43.649033],
-  "geometry": {"coordinates":[-79.88308,43.649033],"type":"Point"}
+  "bbox": [
+    -79.88308,
+    43.649033,
+    -79.88308,
+    43.649033
+],
+  "geometry": {"coordinates":[-79.88308000000001,43.649033],"type":"Point"}
 }

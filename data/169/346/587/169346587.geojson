@@ -2,13 +2,14 @@
   "id": 169346587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.251411,43.182369,-79.251411,43.182369",
     "geom:latitude":43.182369,
     "geom:longitude":-79.251411,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"290 Lake St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875041,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"99e704c5cde6c8c6ee69c5a1865db6dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875041,
+            "region_id":85682057,
+            "venue_id":169346587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875041,
             "region_id":85682057,
             "venue_id":169346587
         }
     ],
     "wof:id":169346587,
-    "wof:lastmodified":1449032665,
+    "wof:lastmodified":1453928780,
     "wof:name":"Modern Image",
     "wof:parent_id":85875041,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.251411,43.182369,-79.251411,43.182369],
+  "bbox": [
+    -79.251411,
+    43.182369,
+    -79.251411,
+    43.182369
+],
   "geometry": {"coordinates":[-79.251411,43.182369],"type":"Point"}
 }

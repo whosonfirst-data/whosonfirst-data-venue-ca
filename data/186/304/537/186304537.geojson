@@ -2,13 +2,14 @@
   "id": 186304537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.711334,45.537949,-73.711334,45.537949",
     "geom:latitude":45.537949,
     "geom:longitude":-73.711334,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4403 Boul Gouin O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897493,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"f02a03cc84ee6162ad194ad782710e14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897493,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186304537
         }
     ],
     "wof:id":186304537,
-    "wof:lastmodified":1449052346,
+    "wof:lastmodified":1453936829,
     "wof:name":"Piscines Fgm",
     "wof:parent_id":85897493,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-73.711334,45.537949,-73.711334,45.537949],
-  "geometry": {"coordinates":[-73.711334,45.537949],"type":"Point"}
+  "bbox": [
+    -73.711334,
+    45.537949,
+    -73.711334,
+    45.537949
+],
+  "geometry": {"coordinates":[-73.71133399999999,45.537949],"type":"Point"}
 }

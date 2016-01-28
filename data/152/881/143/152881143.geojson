@@ -2,13 +2,14 @@
   "id": 152881143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.802238,45.50943,-73.802238,45.50943",
     "geom:latitude":45.50943,
     "geom:longitude":-73.802238,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10364 Boul Gouin O",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3761bb2a49abe08af8dad0be357175f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":152881143
         }
     ],
     "wof:id":152881143,
-    "wof:lastmodified":1449046988,
+    "wof:lastmodified":1453934858,
     "wof:name":"Greater Love",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.802238,45.50943,-73.802238,45.50943],
+  "bbox": [
+    -73.802238,
+    45.50943,
+    -73.802238,
+    45.50943
+],
   "geometry": {"coordinates":[-73.802238,45.50943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219198625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.597237,43.592957,-79.597237,43.592957",
     "geom:latitude":43.592957,
     "geom:longitude":-79.597237,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2531 Cawthra Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895225,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"613236471236dab3e8dbb1a456e5caa6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":219198625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":219198625
         }
     ],
     "wof:id":219198625,
-    "wof:lastmodified":1449071670,
+    "wof:lastmodified":1453937717,
     "wof:name":"Franceschini Brothers Agrgts",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "gravel"
     ]
 },
-  "bbox": [-79.597237,43.592957,-79.597237,43.592957],
-  "geometry": {"coordinates":[-79.597237,43.592957],"type":"Point"}
+  "bbox": [
+    -79.597237,
+    43.592957,
+    -79.597237,
+    43.592957
+],
+  "geometry": {"coordinates":[-79.59723700000001,43.592957],"type":"Point"}
 }

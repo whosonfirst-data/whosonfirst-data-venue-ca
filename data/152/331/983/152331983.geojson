@@ -2,13 +2,14 @@
   "id": 152331983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.285797,46.80518,-71.285797,46.80518",
     "geom:latitude":46.80518,
     "geom:longitude":-71.285797,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1882 Rue Lafleur",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"51179920920230d34173e8f8cf976013",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152331983
         }
     ],
     "wof:id":152331983,
-    "wof:lastmodified":1449047112,
+    "wof:lastmodified":1453934965,
     "wof:name":"Couvre-Siege Robitaille Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.285797,46.80518,-71.285797,46.80518],
+  "bbox": [
+    -71.285797,
+    46.80518,
+    -71.285797,
+    46.80518
+],
   "geometry": {"coordinates":[-71.285797,46.80518],"type":"Point"}
 }

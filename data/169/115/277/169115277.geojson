@@ -2,13 +2,14 @@
   "id": 169115277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.806427,45.459831,-73.806427,45.459831",
     "geom:latitude":45.459831,
     "geom:longitude":-73.806427,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"139 Av D'Arrowhead Crescent",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85784843,
+        102191575,
         85633041,
-        85784843
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"f33b1af4958ab87fc7880783f61c5e99",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85784843,
+            "region_id":136251273,
             "venue_id":169115277
         }
     ],
     "wof:id":169115277,
-    "wof:lastmodified":1449032658,
+    "wof:lastmodified":1453928774,
     "wof:name":"Design Essentials",
     "wof:parent_id":85784843,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.806427,45.459831,-73.806427,45.459831],
+  "bbox": [
+    -73.806427,
+    45.459831,
+    -73.806427,
+    45.459831
+],
   "geometry": {"coordinates":[-73.806427,45.459831],"type":"Point"}
 }

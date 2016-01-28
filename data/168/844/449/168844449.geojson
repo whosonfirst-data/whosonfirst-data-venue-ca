@@ -2,13 +2,14 @@
   "id": 168844449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.034126,45.407227,-74.034126,45.407227",
     "geom:latitude":45.407227,
     "geom:longitude":-74.034126,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"601 Av Saint-Charles",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895781,
+        102191575,
         85633041,
-        85895781
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"646e8c9bcea25af96475c838ea289e0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895781,
+            "region_id":136251273,
             "venue_id":168844449
         }
     ],
     "wof:id":168844449,
-    "wof:lastmodified":1449028107,
+    "wof:lastmodified":1453928164,
     "wof:name":"Rotisseries St-Hubert Ltee",
     "wof:parent_id":85895781,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.034126,45.407227,-74.034126,45.407227],
+  "bbox": [
+    -74.034126,
+    45.407227,
+    -74.034126,
+    45.407227
+],
   "geometry": {"coordinates":[-74.034126,45.407227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152762113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.326729,43.835182,-79.326729,43.835182",
     "geom:latitude":43.835182,
     "geom:longitude":-79.326729,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Markham",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895023,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"6658743578ff5e84e442edfd662a4980",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":152762113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":152762113
         }
     ],
     "wof:id":152762113,
-    "wof:lastmodified":1449047563,
+    "wof:lastmodified":1453935313,
     "wof:name":"Silliker Canada CO",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.326729,43.835182,-79.326729,43.835182],
+  "bbox": [
+    -79.326729,
+    43.835182,
+    -79.326729,
+    43.835182
+],
   "geometry": {"coordinates":[-79.326729,43.835182],"type":"Point"}
 }

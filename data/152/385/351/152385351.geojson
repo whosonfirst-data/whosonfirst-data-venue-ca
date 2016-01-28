@@ -2,13 +2,14 @@
   "id": 152385351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.435837,45.682331,-73.435837,45.682331",
     "geom:latitude":45.682331,
     "geom:longitude":-73.435837,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2220 Boul Rene-Gaultier",
     "sg:city":"Varennes",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738581,
+        85895719,
+        102191575,
         85633041,
-        85895719
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a5243cd01881e0c6fb59b85b53804bcb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
+            "region_id":136251273,
             "venue_id":152385351
         }
     ],
     "wof:id":152385351,
-    "wof:lastmodified":1449047046,
+    "wof:lastmodified":1453934909,
     "wof:name":"Clsc Des Seigneuries",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.435837,45.682331,-73.435837,45.682331],
-  "geometry": {"coordinates":[-73.435837,45.682331],"type":"Point"}
+  "bbox": [
+    -73.435837,
+    45.682331,
+    -73.435837,
+    45.682331
+],
+  "geometry": {"coordinates":[-73.43583700000001,45.682331],"type":"Point"}
 }

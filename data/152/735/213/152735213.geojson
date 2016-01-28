@@ -2,13 +2,14 @@
   "id": 152735213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.393143,45.475273,-73.393143,45.475273",
     "geom:latitude":45.475273,
     "geom:longitude":-73.393143,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3506 1Re Rue",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897553,
+        102191575,
         85633041,
-        85897553
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"393698ad5c824a2b8d11b19bcdea948f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897553,
+            "region_id":136251273,
             "venue_id":152735213
         }
     ],
     "wof:id":152735213,
-    "wof:lastmodified":1449048803,
+    "wof:lastmodified":1453936254,
     "wof:name":"Constructions Brault & Fils",
     "wof:parent_id":85897553,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.393143,45.475273,-73.393143,45.475273],
-  "geometry": {"coordinates":[-73.393143,45.475273],"type":"Point"}
+  "bbox": [
+    -73.393143,
+    45.475273,
+    -73.393143,
+    45.475273
+],
+  "geometry": {"coordinates":[-73.39314299999999,45.475273],"type":"Point"}
 }

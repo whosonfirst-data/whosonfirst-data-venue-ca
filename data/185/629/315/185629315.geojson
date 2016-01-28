@@ -2,13 +2,14 @@
   "id": 185629315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.459923,45.446953,-73.459923,45.446953",
     "geom:latitude":45.446953,
     "geom:longitude":-73.459923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7935 Rue Nantes",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897639,
+        102191575,
         85633041,
-        101738793
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"5d3e30b54ad623ab7ccec990d2d18446",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185629315
         }
     ],
     "wof:id":185629315,
-    "wof:lastmodified":1449007855,
+    "wof:lastmodified":1453927349,
     "wof:name":"Jacques L Charuest Inc",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "business"
     ]
 },
-  "bbox": [-73.459923,45.446953,-73.459923,45.446953],
+  "bbox": [
+    -73.459923,
+    45.446953,
+    -73.459923,
+    45.446953
+],
   "geometry": {"coordinates":[-73.459923,45.446953],"type":"Point"}
 }

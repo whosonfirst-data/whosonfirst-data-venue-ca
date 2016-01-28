@@ -2,13 +2,14 @@
   "id": 153070207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738037,45.593315,-73.738037,45.593315",
     "geom:latitude":45.593315,
     "geom:longitude":-73.738037,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3212 Av Francis-Hughes",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897565,
+        102191575,
         85633041,
-        85897565
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ead20fafb26a4692316362e0abda57fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897565,
+            "region_id":136251273,
             "venue_id":153070207
         }
     ],
     "wof:id":153070207,
-    "wof:lastmodified":1449040559,
+    "wof:lastmodified":1453932498,
     "wof:name":"Service Distri-Bouffe Inc",
     "wof:parent_id":85897565,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.738037,45.593315,-73.738037,45.593315],
-  "geometry": {"coordinates":[-73.738037,45.593315],"type":"Point"}
+  "bbox": [
+    -73.738037,
+    45.593315,
+    -73.738037,
+    45.593315
+],
+  "geometry": {"coordinates":[-73.73803700000001,45.593315],"type":"Point"}
 }

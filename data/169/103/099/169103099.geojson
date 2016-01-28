@@ -2,13 +2,14 @@
   "id": 169103099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.780586,45.668846,-73.780586,45.668846",
     "geom:latitude":45.668846,
     "geom:longitude":-73.780586,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6 Av D'Obernai",
     "sg:city":"Lorraine",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"907076c80090d063782dbb03fc34ec71",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169103099
         }
     ],
     "wof:id":169103099,
-    "wof:lastmodified":1449034746,
+    "wof:lastmodified":1453930957,
     "wof:name":"Renovation Loral",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.780586,45.668846,-73.780586,45.668846],
+  "bbox": [
+    -73.780586,
+    45.668846,
+    -73.780586,
+    45.668846
+],
   "geometry": {"coordinates":[-73.780586,45.668846],"type":"Point"}
 }

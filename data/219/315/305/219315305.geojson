@@ -2,13 +2,14 @@
   "id": 219315305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.402702,43.834206,-79.402702,43.834206",
     "geom:latitude":43.834206,
     "geom:longitude":-79.402702,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"22 Sycamore Dr",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895681,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"57085d0284c4e530a60acb30a393e856",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895681,
+            "region_id":85682057,
+            "venue_id":219315305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895681,
             "region_id":85682057,
             "venue_id":219315305
         }
     ],
     "wof:id":219315305,
-    "wof:lastmodified":1449073723,
+    "wof:lastmodified":1453937992,
     "wof:name":"Marshall H Goodman Software",
     "wof:parent_id":85895681,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.402702,43.834206,-79.402702,43.834206],
-  "geometry": {"coordinates":[-79.402702,43.834206],"type":"Point"}
+  "bbox": [
+    -79.402702,
+    43.834206,
+    -79.402702,
+    43.834206
+],
+  "geometry": {"coordinates":[-79.40270200000001,43.834206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152379057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.831818,45.368351,-71.831818,45.368351",
     "geom:latitude":45.368351,
     "geom:longitude":-71.831818,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2896 Rue College",
     "sg:city":"Lennoxville",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85785017,
+        102191575,
         85633041,
-        85785017
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ab85a9742241eb1c33562e13fc8e20c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85785017,
+            "region_id":136251273,
             "venue_id":152379057
         }
     ],
     "wof:id":152379057,
-    "wof:lastmodified":1449046989,
+    "wof:lastmodified":1453934862,
     "wof:name":"Brasserie Le Lion D'Or",
     "wof:parent_id":85785017,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.831818,45.368351,-71.831818,45.368351],
+  "bbox": [
+    -71.831818,
+    45.368351,
+    -71.831818,
+    45.368351
+],
   "geometry": {"coordinates":[-71.831818,45.368351],"type":"Point"}
 }

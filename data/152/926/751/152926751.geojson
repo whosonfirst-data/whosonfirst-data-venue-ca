@@ -2,13 +2,14 @@
   "id": 152926751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.854424,45.661026,-73.854424,45.661026",
     "geom:latitude":45.661026,
     "geom:longitude":-73.854424,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"34 Rue Lucien-Paquette",
     "sg:city":"Blainville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738507,
+        85897563,
+        102191575,
         85633041,
-        85897563
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"9670bf995425f841cd11dd7dbaf98fa3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
+            "region_id":136251273,
             "venue_id":152926751
         }
     ],
     "wof:id":152926751,
-    "wof:lastmodified":1449045919,
+    "wof:lastmodified":1453934058,
     "wof:name":"Jardiniers Specialises",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.854424,45.661026,-73.854424,45.661026],
-  "geometry": {"coordinates":[-73.854424,45.661026],"type":"Point"}
+  "bbox": [
+    -73.854424,
+    45.661026,
+    -73.854424,
+    45.661026
+],
+  "geometry": {"coordinates":[-73.85442399999999,45.661026],"type":"Point"}
 }

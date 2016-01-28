@@ -2,13 +2,14 @@
   "id": 152138139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.056442,48.427746,-71.056442,48.427746",
     "geom:latitude":48.427746,
     "geom:longitude":-71.056442,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"392 Rue Racine E",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4b4915c316fc2c97bb53edf2e56e3fa7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152138139
         }
     ],
     "wof:id":152138139,
-    "wof:lastmodified":1449045635,
+    "wof:lastmodified":1453933849,
     "wof:name":"Librairie Les Bouquinistes Inc",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.056442,48.427746,-71.056442,48.427746],
+  "bbox": [
+    -71.056442,
+    48.427746,
+    -71.056442,
+    48.427746
+],
   "geometry": {"coordinates":[-71.056442,48.427746],"type":"Point"}
 }

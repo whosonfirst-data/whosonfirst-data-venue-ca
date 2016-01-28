@@ -2,13 +2,14 @@
   "id": 169283077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625587,45.513885,-73.625587,45.513885",
     "geom:latitude":45.513885,
     "geom:longitude":-73.625587,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2135 Av Barclay",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897525,
+        102191575,
         85633041,
-        85897525
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"2b290f44e7807b673e6a76b7ae879e89",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897525,
+            "region_id":136251273,
             "venue_id":169283077
         }
     ],
     "wof:id":169283077,
-    "wof:lastmodified":1449033660,
+    "wof:lastmodified":1453929783,
     "wof:name":"Quadart",
     "wof:parent_id":85897525,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.625587,45.513885,-73.625587,45.513885],
+  "bbox": [
+    -73.625587,
+    45.513885,
+    -73.625587,
+    45.513885
+],
   "geometry": {"coordinates":[-73.625587,45.513885],"type":"Point"}
 }

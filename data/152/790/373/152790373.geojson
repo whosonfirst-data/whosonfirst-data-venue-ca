@@ -2,13 +2,14 @@
   "id": 152790373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.880318,45.564335,-73.880318,45.564335",
     "geom:latitude":45.564335,
     "geom:longitude":-73.880318,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"95 Ch DE LA Grande-Cote",
     "sg:city":"Saint-Eustache",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784779,
+        102191575,
         85633041,
-        85784779
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ae02a5288a1e68d6cb4bdfa151cca7a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784779,
+            "region_id":136251273,
             "venue_id":152790373
         }
     ],
     "wof:id":152790373,
-    "wof:lastmodified":1449047839,
+    "wof:lastmodified":1453935532,
     "wof:name":"Villa Du Bonheur",
     "wof:parent_id":85784779,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.880318,45.564335,-73.880318,45.564335],
+  "bbox": [
+    -73.880318,
+    45.564335,
+    -73.880318,
+    45.564335
+],
   "geometry": {"coordinates":[-73.880318,45.564335],"type":"Point"}
 }

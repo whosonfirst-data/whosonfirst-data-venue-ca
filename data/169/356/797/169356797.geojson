@@ -2,13 +2,14 @@
   "id": 169356797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.864349,45.45784,-73.864349,45.45784",
     "geom:latitude":45.45784,
     "geom:longitude":-73.864349,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3650 Boul Saint-Charles",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897581,
+        102191575,
         85633041,
-        85897581
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e979fa60222a66133da3d880cb1101c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897581,
+            "region_id":136251273,
             "venue_id":169356797
         }
     ],
     "wof:id":169356797,
-    "wof:lastmodified":1449035377,
+    "wof:lastmodified":1453931579,
     "wof:name":"Zone Du Dollar",
     "wof:parent_id":85897581,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.864349,45.45784,-73.864349,45.45784],
+  "bbox": [
+    -73.864349,
+    45.45784,
+    -73.864349,
+    45.45784
+],
   "geometry": {"coordinates":[-73.864349,45.45784],"type":"Point"}
 }

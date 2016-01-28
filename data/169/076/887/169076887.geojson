@@ -2,13 +2,14 @@
   "id": 169076887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.419472,46.858582,-71.419472,46.858582",
     "geom:latitude":46.858582,
     "geom:longitude":-71.419472,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1565 Rue DE L'Innovation",
     "sg:city":"Val-Belair",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864395,
+        102191575,
         85633041,
-        85864395
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"dd5c7cf38b3ebe14d2d531d0c6761b7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864395,
+            "region_id":136251273,
             "venue_id":169076887
         }
     ],
     "wof:id":169076887,
-    "wof:lastmodified":1449035251,
+    "wof:lastmodified":1453931455,
     "wof:name":"Maison Des Jeunes-Val-Belair",
     "wof:parent_id":85864395,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.419472,46.858582,-71.419472,46.858582],
+  "bbox": [
+    -71.419472,
+    46.858582,
+    -71.419472,
+    46.858582
+],
   "geometry": {"coordinates":[-71.419472,46.858582],"type":"Point"}
 }

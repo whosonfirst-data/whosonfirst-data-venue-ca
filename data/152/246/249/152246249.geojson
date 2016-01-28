@@ -2,13 +2,14 @@
   "id": 152246249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.060051,43.857189,-79.060051,43.857189",
     "geom:latitude":43.857189,
     "geom:longitude":-79.060051,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Linton Ave",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895697,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"0bab55ba5083087b34f372afe883883a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895697,
+            "region_id":85682057,
+            "venue_id":152246249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895697,
             "region_id":85682057,
             "venue_id":152246249
         }
     ],
     "wof:id":152246249,
-    "wof:lastmodified":1449044612,
+    "wof:lastmodified":1453933065,
     "wof:name":"Steve Smith Carpentry Ltd",
     "wof:parent_id":85895697,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.060051,43.857189,-79.060051,43.857189],
+  "bbox": [
+    -79.060051,
+    43.857189,
+    -79.060051,
+    43.857189
+],
   "geometry": {"coordinates":[-79.060051,43.857189],"type":"Point"}
 }

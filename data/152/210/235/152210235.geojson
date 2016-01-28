@@ -2,13 +2,14 @@
   "id": 152210235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.584183,45.525112,-73.584183,45.525112",
     "geom:latitude":45.525112,
     "geom:longitude":-73.584183,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"436 Rue DE Bienville",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"970dbf8f2585f6a047d6a006d4c1e194",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152210235
         }
     ],
     "wof:id":152210235,
-    "wof:lastmodified":1449045874,
+    "wof:lastmodified":1453934030,
     "wof:name":"Fichtre",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.584183,45.525112,-73.584183,45.525112],
+  "bbox": [
+    -73.584183,
+    45.525112,
+    -73.584183,
+    45.525112
+],
   "geometry": {"coordinates":[-73.584183,45.525112],"type":"Point"}
 }

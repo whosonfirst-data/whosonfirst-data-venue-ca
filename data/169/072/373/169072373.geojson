@@ -2,13 +2,14 @@
   "id": 169072373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.621376,45.605965,-73.621376,45.605965",
     "geom:latitude":45.605965,
     "geom:longitude":-73.621376,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"b4b098eb210a64aef5a0f43627190af3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":169072373
         }
     ],
     "wof:id":169072373,
-    "wof:lastmodified":1449034422,
+    "wof:lastmodified":1453930619,
     "wof:name":"Salon Supercoif",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.621376,45.605965,-73.621376,45.605965],
+  "bbox": [
+    -73.621376,
+    45.605965,
+    -73.621376,
+    45.605965
+],
   "geometry": {"coordinates":[-73.621376,45.605965],"type":"Point"}
 }

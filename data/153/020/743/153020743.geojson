@@ -2,13 +2,14 @@
   "id": 153020743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.233704,46.758896,-71.233704,46.758896",
     "geom:latitude":46.758896,
     "geom:longitude":-71.233704,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2364 Rue Saint-Jean-Baptiste",
     "sg:city":"Saint-Romuald",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"59fff37cf93d5d1d67e7a50eb7618e1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":153020743
         }
     ],
     "wof:id":153020743,
-    "wof:lastmodified":1449040540,
+    "wof:lastmodified":1453932478,
     "wof:name":"Diable Aux Verres",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.233704,46.758896,-71.233704,46.758896],
+  "bbox": [
+    -71.233704,
+    46.758896,
+    -71.233704,
+    46.758896
+],
   "geometry": {"coordinates":[-71.233704,46.758896],"type":"Point"}
 }

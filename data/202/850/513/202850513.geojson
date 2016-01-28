@@ -2,13 +2,14 @@
   "id": 202850513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.601395,45.53817,-73.601395,45.53817",
     "geom:latitude":45.53817,
     "geom:longitude":-73.601395,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1133 Rue Beaubien E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874369,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"38918a5014a367b7f68523967ef8e31a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202850513
         }
     ],
     "wof:id":202850513,
-    "wof:lastmodified":1449061581,
+    "wof:lastmodified":1453937284,
     "wof:name":"LA Flame Electrique",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-73.601395,45.53817,-73.601395,45.53817],
+  "bbox": [
+    -73.601395,
+    45.53817,
+    -73.601395,
+    45.53817
+],
   "geometry": {"coordinates":[-73.601395,45.53817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169478489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.059212,43.854446,-79.059212,43.854446",
     "geom:latitude":43.854446,
     "geom:longitude":-79.059212,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"88 Old Kingston Rd",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895697,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ec76b7b35586fc51de94594f97a8a772",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895697,
+            "region_id":85682057,
+            "venue_id":169478489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895697,
             "region_id":85682057,
             "venue_id":169478489
         }
     ],
     "wof:id":169478489,
-    "wof:lastmodified":1449032798,
+    "wof:lastmodified":1453928927,
     "wof:name":"Sunshade Blinds & Drapery",
     "wof:parent_id":85895697,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.059212,43.854446,-79.059212,43.854446],
+  "bbox": [
+    -79.059212,
+    43.854446,
+    -79.059212,
+    43.854446
+],
   "geometry": {"coordinates":[-79.059212,43.854446],"type":"Point"}
 }

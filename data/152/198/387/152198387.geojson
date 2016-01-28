@@ -2,13 +2,14 @@
   "id": 152198387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250824,42.981487,-81.250824,42.981487",
     "geom:latitude":42.981487,
     "geom:longitude":-81.250824,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"360 Talbot St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "collectible"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06Vcp35XxxW5b7QDx1ZKAF_42.981487_-81.250824@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"eff59ecbd2fcbcf3ca36a845683367b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":152198387
+        }
+    ],
     "wof:id":152198387,
-    "wof:lastmodified":1449045987,
+    "wof:lastmodified":1453934112,
     "wof:name":"Commander Salamander",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.250824,42.981487,-81.250824,42.981487],
-  "geometry": {"coordinates":[-81.250824,42.981487],"type":"Point"}
+  "bbox": [
+    -81.250824,
+    42.981487,
+    -81.250824,
+    42.981487
+],
+  "geometry": {"coordinates":[-81.25082399999999,42.981487],"type":"Point"}
 }

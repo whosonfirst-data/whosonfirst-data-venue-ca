@@ -2,13 +2,14 @@
   "id": 152414915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.790894,45.362434,-75.790894,45.362434",
     "geom:latitude":45.362434,
     "geom:longitude":-75.790894,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1487 Richmond Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85864511,
+        102191575,
         85633041,
-        85864511
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4986017fb6d320bd55190226e96e9a35",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85864511,
+            "region_id":136251273,
             "venue_id":152414915
         }
     ],
     "wof:id":152414915,
-    "wof:lastmodified":1449046468,
+    "wof:lastmodified":1453934481,
     "wof:name":"Rainbow Natural Foods",
     "wof:parent_id":85864511,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.790894,45.362434,-75.790894,45.362434],
-  "geometry": {"coordinates":[-75.790894,45.362434],"type":"Point"}
+  "bbox": [
+    -75.790894,
+    45.362434,
+    -75.790894,
+    45.362434
+],
+  "geometry": {"coordinates":[-75.79089399999999,45.362434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169535425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.263077,46.813946,-71.263077,46.813946",
     "geom:latitude":46.813946,
     "geom:longitude":-71.263077,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1035 Rue Rivard",
     "sg:city":"Vanier",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874719,
+        102191575,
         85633041,
-        85874719
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"dc3047893ae21d17d829f35657030787",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874719,
+            "region_id":136251273,
             "venue_id":169535425
         }
     ],
     "wof:id":169535425,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1453929398,
     "wof:name":"Lubriwin Inc",
     "wof:parent_id":85874719,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.263077,46.813946,-71.263077,46.813946],
+  "bbox": [
+    -71.263077,
+    46.813946,
+    -71.263077,
+    46.813946
+],
   "geometry": {"coordinates":[-71.263077,46.813946],"type":"Point"}
 }

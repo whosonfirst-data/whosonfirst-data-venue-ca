@@ -2,13 +2,14 @@
   "id": 169421469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.816193,45.445683,-73.816193,45.445683",
     "geom:latitude":45.445683,
     "geom:longitude":-73.816193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"291 Boul Saint-Jean",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85784843,
+        102191575,
         85633041,
-        85784843
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"336dec4c997c263c5ce7318efd133eb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85784843,
+            "region_id":136251273,
             "venue_id":169421469
         }
     ],
     "wof:id":169421469,
-    "wof:lastmodified":1449034784,
+    "wof:lastmodified":1453931015,
     "wof:name":"Centre Du Hobby Ted",
     "wof:parent_id":85784843,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.816193,45.445683,-73.816193,45.445683],
+  "bbox": [
+    -73.816193,
+    45.445683,
+    -73.816193,
+    45.445683
+],
   "geometry": {"coordinates":[-73.816193,45.445683],"type":"Point"}
 }

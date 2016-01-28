@@ -2,13 +2,14 @@
   "id": 168852539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.196007,49.244114,-123.196007,49.244114",
     "geom:latitude":49.244114,
     "geom:longitude":-123.196007,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4084 31st Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865071,
-        85682117
+        102191575,
+        85633041,
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"c9910980449a28fc40fed65a24fdcdc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":168852539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":168852539
         }
     ],
     "wof:id":168852539,
-    "wof:lastmodified":1449028454,
+    "wof:lastmodified":1453928540,
     "wof:name":"Valtech Information Systems",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.196007,49.244114,-123.196007,49.244114],
-  "geometry": {"coordinates":[-123.196007,49.244114],"type":"Point"}
+  "bbox": [
+    -123.196007,
+    49.244114,
+    -123.196007,
+    49.244114
+],
+  "geometry": {"coordinates":[-123.19600699999999,49.244114],"type":"Point"}
 }

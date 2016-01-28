@@ -2,13 +2,14 @@
   "id": 152558345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.192123,43.013405,-81.192123,43.013405",
     "geom:latitude":43.013405,
     "geom:longitude":-81.192123,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1680 Oxford St E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ra9atjWu2K43XNRLSLSxJ_43.013405_-81.192123@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"6c31fe1641dbc4d610b0e9ff065fb520",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":152558345
+        }
+    ],
     "wof:id":152558345,
-    "wof:lastmodified":1449045558,
+    "wof:lastmodified":1453933791,
     "wof:name":"Children's Aid Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.192123,43.013405,-81.192123,43.013405],
+  "bbox": [
+    -81.192123,
+    43.013405,
+    -81.192123,
+    43.013405
+],
   "geometry": {"coordinates":[-81.192123,43.013405],"type":"Point"}
 }

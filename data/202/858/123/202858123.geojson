@@ -2,13 +2,14 @@
   "id": 202858123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.175957,43.010651,-81.175957,43.010651",
     "geom:latitude":43.010651,
     "geom:longitude":-81.175957,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"60 Pacific Crt #1",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,7 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874955,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -39,18 +43,18 @@
     "wof:geomhash":"7fb351c1977939af01e54d9fc89dd2a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
             "region_id":85682057,
             "venue_id":202858123
         }
     ],
     "wof:id":202858123,
-    "wof:lastmodified":1449060366,
+    "wof:lastmodified":1453937028,
     "wof:name":"Raymond J Ford Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.175957,43.010651,-81.175957,43.010651],
+  "bbox": [
+    -81.175957,
+    43.010651,
+    -81.175957,
+    43.010651
+],
   "geometry": {"coordinates":[-81.175957,43.010651],"type":"Point"}
 }

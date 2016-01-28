@@ -2,13 +2,14 @@
   "id": 169201381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.607994,43.58736,-79.607994,43.58736",
     "geom:latitude":43.58736,
     "geom:longitude":-79.607994,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"334 Dundas St E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895225,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5f6b128b84444e7881f2f88270709026",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":169201381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":169201381
         }
     ],
     "wof:id":169201381,
-    "wof:lastmodified":1449035516,
+    "wof:lastmodified":1453931760,
     "wof:name":"Country Style Donuts",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.607994,43.58736,-79.607994,43.58736],
-  "geometry": {"coordinates":[-79.607994,43.58736],"type":"Point"}
+  "bbox": [
+    -79.607994,
+    43.58736,
+    -79.607994,
+    43.58736
+],
+  "geometry": {"coordinates":[-79.60799400000001,43.58736],"type":"Point"}
 }

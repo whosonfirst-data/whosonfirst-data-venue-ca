@@ -2,13 +2,14 @@
   "id": 152619369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064201,43.770481,-80.064201,43.770481",
     "geom:latitude":43.770481,
     "geom:longitude":-80.064201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9667 Tenth Sideroad",
     "sg:city":"Erin",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895075,
-        85682057
+        102191575,
+        85633041,
+        101736161,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"1080e9c52b211accaad9321c82850dcb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736161,
+            "neighbourhood_id":85895075,
+            "region_id":85682057,
+            "venue_id":152619369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85895075,
             "region_id":85682057,
             "venue_id":152619369
         }
     ],
     "wof:id":152619369,
-    "wof:lastmodified":1449045141,
+    "wof:lastmodified":1453933468,
     "wof:name":"Belfountain Bookkeeping Svc",
     "wof:parent_id":85895075,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.064201,43.770481,-80.064201,43.770481],
+  "bbox": [
+    -80.064201,
+    43.770481,
+    -80.064201,
+    43.770481
+],
   "geometry": {"coordinates":[-80.064201,43.770481],"type":"Point"}
 }

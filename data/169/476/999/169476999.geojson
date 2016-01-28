@@ -2,13 +2,14 @@
   "id": 169476999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.674034,52.163017,-106.674034,52.163017",
     "geom:latitude":52.163017,
     "geom:longitude":-106.674034,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saskatoon",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"SK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740015,
-        85633041,
+        102555161,
         85784799,
+        102191575,
+        85633041,
+        101740015,
         85682113
     ],
     "wof:breaches":[],
@@ -36,6 +39,8 @@
     "wof:geomhash":"29c52465a5f463ee9a2a6db9bfa675e6",
     "wof:hierarchy":[
         {
+            "campus_id":102555161,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740015,
             "neighbourhood_id":85784799,
@@ -44,14 +49,19 @@
         }
     ],
     "wof:id":169476999,
-    "wof:lastmodified":1449034015,
+    "wof:lastmodified":1453930182,
     "wof:name":"S E Inc Steel Buildings",
-    "wof:parent_id":85784799,
+    "wof:parent_id":102555161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.674034,52.163017,-106.674034,52.163017],
-  "geometry": {"coordinates":[-106.674034,52.163017],"type":"Point"}
+  "bbox": [
+    -106.674034,
+    52.163017,
+    -106.674034,
+    52.163017
+],
+  "geometry": {"coordinates":[-106.67403400000001,52.163017],"type":"Point"}
 }

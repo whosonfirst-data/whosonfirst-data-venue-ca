@@ -2,13 +2,14 @@
   "id": 152212731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.513443,45.390965,-73.513443,45.390965",
     "geom:latitude":45.390965,
     "geom:longitude":-73.513443,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4 Boul Montcalm S",
     "sg:city":"Candiac",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875779,
+        102191575,
         85633041,
-        85875779
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4feece988702a98a776bec5ac9fcd2d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875779,
+            "region_id":136251273,
             "venue_id":152212731
         }
     ],
     "wof:id":152212731,
-    "wof:lastmodified":1449047290,
+    "wof:lastmodified":1453935090,
     "wof:name":"Poulin, Yvan",
     "wof:parent_id":85875779,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.513443,45.390965,-73.513443,45.390965],
+  "bbox": [
+    -73.513443,
+    45.390965,
+    -73.513443,
+    45.390965
+],
   "geometry": {"coordinates":[-73.513443,45.390965],"type":"Point"}
 }

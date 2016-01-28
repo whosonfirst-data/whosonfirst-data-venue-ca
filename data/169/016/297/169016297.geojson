@@ -2,13 +2,14 @@
   "id": 169016297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.820328,45.528767,-73.820328,45.528767",
     "geom:latitude":45.528767,
     "geom:longitude":-73.820328,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"641 Rue DE LA Place-Publique",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784909,
+        102191575,
         85633041,
-        85784909
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ebef5bad380a1d2572cc6cd59a7b6d97",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784909,
+            "region_id":136251273,
             "venue_id":169016297
         }
     ],
     "wof:id":169016297,
-    "wof:lastmodified":1449033266,
+    "wof:lastmodified":1453929374,
     "wof:name":"Brunet, Jean-Marie DDS",
     "wof:parent_id":85784909,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.820328,45.528767,-73.820328,45.528767],
+  "bbox": [
+    -73.820328,
+    45.528767,
+    -73.820328,
+    45.528767
+],
   "geometry": {"coordinates":[-73.820328,45.528767],"type":"Point"}
 }

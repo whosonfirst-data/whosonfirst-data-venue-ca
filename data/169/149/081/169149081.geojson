@@ -2,13 +2,14 @@
   "id": 169149081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.295242,43.05117,-81.295242,43.05117",
     "geom:latitude":43.05117,
     "geom:longitude":-81.295242,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"13149 8 Mile Rd",
     "sg:city":"Arva",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874929,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Cel9JMdVIibEJN04xKPA3_43.051170_-81.295242@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"6619171bcf8a2286fcac5a3baef476f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874929,
+            "region_id":85682057,
+            "venue_id":169149081
+        }
+    ],
     "wof:id":169149081,
-    "wof:lastmodified":1449032697,
+    "wof:lastmodified":1453928805,
     "wof:name":"Swinarton, Robert J CA",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.295242,43.05117,-81.295242,43.05117],
+  "bbox": [
+    -81.295242,
+    43.05117,
+    -81.295242,
+    43.05117
+],
   "geometry": {"coordinates":[-81.295242,43.05117],"type":"Point"}
 }

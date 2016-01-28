@@ -2,13 +2,14 @@
   "id": 152370797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.888451,48.349625,-70.888451,48.349625",
     "geom:latitude":48.349625,
     "geom:longitude":-70.888451,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1215 Rue Herve-Tremblay",
     "sg:city":"LA Baie",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785011,
+        102191575,
         85633041,
-        85785011
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"c82b73e9f40490b7e4152d29e00042e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
+            "region_id":136251273,
             "venue_id":152370797
         }
     ],
     "wof:id":152370797,
-    "wof:lastmodified":1449046824,
+    "wof:lastmodified":1453934734,
     "wof:name":"Bouchard, Rene",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.888451,48.349625,-70.888451,48.349625],
+  "bbox": [
+    -70.888451,
+    48.349625,
+    -70.888451,
+    48.349625
+],
   "geometry": {"coordinates":[-70.888451,48.349625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152729129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.664619,45.603729,-73.664619,45.603729",
     "geom:latitude":45.603729,
     "geom:longitude":-73.664619,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"962 Av Mozart",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"db2554800e81082f67cb2ab02d7f4364",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":152729129
         }
     ],
     "wof:id":152729129,
-    "wof:lastmodified":1449046633,
+    "wof:lastmodified":1453934598,
     "wof:name":"Entrepreneur Peintre Fvg",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.664619,45.603729,-73.664619,45.603729],
+  "bbox": [
+    -73.664619,
+    45.603729,
+    -73.664619,
+    45.603729
+],
   "geometry": {"coordinates":[-73.664619,45.603729],"type":"Point"}
 }

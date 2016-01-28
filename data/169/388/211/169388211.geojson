@@ -2,13 +2,14 @@
   "id": 169388211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.315689,46.774395,-71.315689,46.774395",
     "geom:latitude":46.774395,
     "geom:longitude":-71.315689,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3173 Rue Milleret",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874709,
+        102191575,
         85633041,
-        85874709
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"cee7f8ee8705a5b2c8a1f92b9d99a791",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874709,
+            "region_id":136251273,
             "venue_id":169388211
         }
     ],
     "wof:id":169388211,
-    "wof:lastmodified":1449032813,
+    "wof:lastmodified":1453928945,
     "wof:name":"A Rousseau Paysagiste Enr",
     "wof:parent_id":85874709,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.315689,46.774395,-71.315689,46.774395],
-  "geometry": {"coordinates":[-71.315689,46.774395],"type":"Point"}
+  "bbox": [
+    -71.315689,
+    46.774395,
+    -71.315689,
+    46.774395
+],
+  "geometry": {"coordinates":[-71.31568900000001,46.774395],"type":"Point"}
 }

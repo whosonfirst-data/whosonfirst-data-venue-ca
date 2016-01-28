@@ -2,13 +2,14 @@
   "id": 169456661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.281464,43.873615,-79.281464,43.873615",
     "geom:latitude":43.873615,
     "geom:longitude":-79.281464,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Markham",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895363,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"d6f61b39bf3f63d3855262355ef7306b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895363,
+            "region_id":85682057,
+            "venue_id":169456661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895363,
             "region_id":85682057,
             "venue_id":169456661
         }
     ],
     "wof:id":169456661,
-    "wof:lastmodified":1449033667,
+    "wof:lastmodified":1453929794,
     "wof:name":"High Tech Transmission Svc",
     "wof:parent_id":85895363,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.281464,43.873615,-79.281464,43.873615],
+  "bbox": [
+    -79.281464,
+    43.873615,
+    -79.281464,
+    43.873615
+],
   "geometry": {"coordinates":[-79.281464,43.873615],"type":"Point"}
 }

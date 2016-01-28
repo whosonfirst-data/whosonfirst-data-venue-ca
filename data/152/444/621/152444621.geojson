@@ -2,13 +2,14 @@
   "id": 152444621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.64399,45.542229,-73.64399,45.542229",
     "geom:latitude":45.542229,
     "geom:longitude":-73.64399,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8840 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"78930a47723e4c7f1d0ebb2d4707c75c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152444621
         }
     ],
     "wof:id":152444621,
-    "wof:lastmodified":1449048289,
+    "wof:lastmodified":1453935859,
     "wof:name":"Salle DE Billard Le Cratch",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.64399,45.542229,-73.64399,45.542229],
+  "bbox": [
+    -73.64399,
+    45.542229,
+    -73.64399,
+    45.542229
+],
   "geometry": {"coordinates":[-73.64399,45.542229],"type":"Point"}
 }

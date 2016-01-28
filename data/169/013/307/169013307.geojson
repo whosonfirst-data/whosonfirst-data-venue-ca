@@ -2,13 +2,14 @@
   "id": 169013307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.36441,43.652603,-79.36441,43.652603",
     "geom:latitude":43.652603,
     "geom:longitude":-79.36441,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"67 Berkeley St",
     "sg:city":"Toronto",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
         85874293,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"ec06a86d17cd0dac14dccea9b7632667",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85874293,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":169013307,
-    "wof:lastmodified":1449034925,
+    "wof:lastmodified":1453931149,
     "wof:name":"Hello Anywhere Inc",
     "wof:parent_id":85874293,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.36441,43.652603,-79.36441,43.652603],
-  "geometry": {"coordinates":[-79.36441,43.652603],"type":"Point"}
+  "bbox": [
+    -79.36441,
+    43.652603,
+    -79.36441,
+    43.652603
+],
+  "geometry": {"coordinates":[-79.36441000000001,43.652603],"type":"Point"}
 }

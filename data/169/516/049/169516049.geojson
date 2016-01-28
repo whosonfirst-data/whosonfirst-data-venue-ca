@@ -2,13 +2,14 @@
   "id": 169516049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.229729,42.955418,-81.229729,42.955418",
     "geom:latitude":42.955418,
     "geom:longitude":-81.229729,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"527 Wellington Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864539,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_387wa3SGtdJVoo67UD4Lrk_42.955418_-81.229729@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d7120b8379e214355d6c5463a23a084c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864539,
+            "region_id":85682057,
+            "venue_id":169516049
+        }
+    ],
     "wof:id":169516049,
-    "wof:lastmodified":1449033320,
+    "wof:lastmodified":1453929425,
     "wof:name":"Clancy's Commercial",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864539,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.229729,42.955418,-81.229729,42.955418],
-  "geometry": {"coordinates":[-81.229729,42.955418],"type":"Point"}
+  "bbox": [
+    -81.229729,
+    42.955418,
+    -81.229729,
+    42.955418
+],
+  "geometry": {"coordinates":[-81.22972900000001,42.955418],"type":"Point"}
 }

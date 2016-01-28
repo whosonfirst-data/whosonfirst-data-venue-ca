@@ -2,13 +2,14 @@
   "id": 168855445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.161705,46.876404,-71.161705,46.876404",
     "geom:latitude":46.876404,
     "geom:longitude":-71.161705,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"90 Boul Des Francais",
     "sg:city":"Beauport",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736835,
+        85866513,
+        102191575,
         85633041,
-        85866513
+        101736835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"7cad09c3f45e2cec8ec7ebdc3618c084",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736835,
             "neighbourhood_id":85866513,
+            "region_id":136251273,
             "venue_id":168855445
         }
     ],
     "wof:id":168855445,
-    "wof:lastmodified":1449028352,
+    "wof:lastmodified":1453928430,
     "wof:name":"Ecole Du Parc",
     "wof:parent_id":85866513,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.161705,46.876404,-71.161705,46.876404],
+  "bbox": [
+    -71.161705,
+    46.876404,
+    -71.161705,
+    46.876404
+],
   "geometry": {"coordinates":[-71.161705,46.876404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152696375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.512405,43.839767,-79.512405,43.839767",
     "geom:latitude":43.839767,
     "geom:longitude":-79.512405,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"119 Pentland Cres",
     "sg:city":"Maple",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895339,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"f7d7e1bf31b0d310f8d82db7dfec8283",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895339,
+            "region_id":85682057,
+            "venue_id":152696375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895339,
             "region_id":85682057,
             "venue_id":152696375
         }
     ],
     "wof:id":152696375,
-    "wof:lastmodified":1449044644,
+    "wof:lastmodified":1453933093,
     "wof:name":"Authentic Hardwood Flooring",
     "wof:parent_id":85895339,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.512405,43.839767,-79.512405,43.839767],
+  "bbox": [
+    -79.512405,
+    43.839767,
+    -79.512405,
+    43.839767
+],
   "geometry": {"coordinates":[-79.512405,43.839767],"type":"Point"}
 }

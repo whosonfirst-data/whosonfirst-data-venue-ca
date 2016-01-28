@@ -2,13 +2,14 @@
   "id": 152154737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.179443,43.030373,-81.179443,43.030373",
     "geom:latitude":43.030373,
     "geom:longitude":-81.179443,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2080 Huron St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02ApgIq0o5cLd9w1MzgUxs_43.030373_-81.179443@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"a186a8e855d7a02710500b5a0b32478d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":152154737
+        }
+    ],
     "wof:id":152154737,
-    "wof:lastmodified":1449048956,
+    "wof:lastmodified":1453936398,
     "wof:name":"Mel Hall Transport Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.179443,43.030373,-81.179443,43.030373],
-  "geometry": {"coordinates":[-81.179443,43.030373],"type":"Point"}
+  "bbox": [
+    -81.179443,
+    43.030373,
+    -81.179443,
+    43.030373
+],
+  "geometry": {"coordinates":[-81.17944300000001,43.030373],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169004829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.714005,43.469543,-79.714005,43.469543",
     "geom:latitude":43.469543,
     "geom:longitude":-79.714005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2112 Nipigon Dr",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895683,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"08d8f3607e6cc2c8042ac913759127da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895683,
+            "region_id":85682057,
+            "venue_id":169004829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895683,
             "region_id":85682057,
             "venue_id":169004829
         }
     ],
     "wof:id":169004829,
-    "wof:lastmodified":1449033897,
+    "wof:lastmodified":1453930058,
     "wof:name":"People Factor Inc",
     "wof:parent_id":85895683,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.714005,43.469543,-79.714005,43.469543],
+  "bbox": [
+    -79.714005,
+    43.469543,
+    -79.714005,
+    43.469543
+],
   "geometry": {"coordinates":[-79.714005,43.469543],"type":"Point"}
 }

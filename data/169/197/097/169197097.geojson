@@ -2,13 +2,14 @@
   "id": 169197097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.484497,43.469677,-80.484497,43.469677",
     "geom:latitude":43.469677,
     "geom:longitude":-80.484497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"323 Lancaster St W",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874983,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"aff4965ace6817e2af83841ebe959eb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874983,
+            "region_id":85682057,
+            "venue_id":169197097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85874983,
             "region_id":85682057,
             "venue_id":169197097
         }
     ],
     "wof:id":169197097,
-    "wof:lastmodified":1449035539,
+    "wof:lastmodified":1453931776,
     "wof:name":"Lucky Nails",
     "wof:parent_id":85874983,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.484497,43.469677,-80.484497,43.469677],
+  "bbox": [
+    -80.484497,
+    43.469677,
+    -80.484497,
+    43.469677
+],
   "geometry": {"coordinates":[-80.484497,43.469677],"type":"Point"}
 }

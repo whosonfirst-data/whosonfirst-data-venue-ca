@@ -2,13 +2,14 @@
   "id": 152745131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.259125,43.001907,-81.259125,43.001907",
     "geom:latitude":43.001907,
     "geom:longitude":-81.259125,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"387 St George St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874939,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11J8ZzVOoj08rnnfud4cMq_43.001907_-81.259125@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0381cc5dc58c9940d6c0f246bce749c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
+            "region_id":85682057,
+            "venue_id":152745131
+        }
+    ],
     "wof:id":152745131,
-    "wof:lastmodified":1449048709,
+    "wof:lastmodified":1453936182,
     "wof:name":"Mc Cready, John MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.259125,43.001907,-81.259125,43.001907],
+  "bbox": [
+    -81.259125,
+    43.001907,
+    -81.259125,
+    43.001907
+],
   "geometry": {"coordinates":[-81.259125,43.001907],"type":"Point"}
 }

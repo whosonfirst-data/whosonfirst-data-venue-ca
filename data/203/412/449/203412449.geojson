@@ -2,13 +2,14 @@
   "id": 203412449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578773,45.516544,-73.578773,45.516544",
     "geom:latitude":45.516544,
     "geom:longitude":-73.578773,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3968 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866479,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"f0b0d55d8215fe777d3587d8e1806edd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203412449
         }
     ],
     "wof:id":203412449,
-    "wof:lastmodified":1449025324,
+    "wof:lastmodified":1453927483,
     "wof:name":"Mojo Disques-Records",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.578773,45.516544,-73.578773,45.516544],
+  "bbox": [
+    -73.578773,
+    45.516544,
+    -73.578773,
+    45.516544
+],
   "geometry": {"coordinates":[-73.578773,45.516544],"type":"Point"}
 }

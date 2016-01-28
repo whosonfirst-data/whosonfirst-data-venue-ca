@@ -2,13 +2,14 @@
   "id": 152685353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.231903,43.207829,-79.231903,43.207829",
     "geom:latitude":43.207829,
     "geom:longitude":-79.231903,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"605 Vine St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875041,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1b0d90f927277a9c3cf5e6a7ff9dde21",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875041,
+            "region_id":85682057,
+            "venue_id":152685353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875041,
             "region_id":85682057,
             "venue_id":152685353
         }
     ],
     "wof:id":152685353,
-    "wof:lastmodified":1449048798,
+    "wof:lastmodified":1453936251,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":85875041,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.231903,43.207829,-79.231903,43.207829],
+  "bbox": [
+    -79.231903,
+    43.207829,
+    -79.231903,
+    43.207829
+],
   "geometry": {"coordinates":[-79.231903,43.207829],"type":"Point"}
 }

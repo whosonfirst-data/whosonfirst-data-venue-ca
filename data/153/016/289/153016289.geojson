@@ -2,13 +2,14 @@
   "id": 153016289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.631172,45.440933,-73.631172,45.440933",
     "geom:latitude":45.440933,
     "geom:longitude":-73.631172,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Lasalle",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897545,
+        102191575,
         85633041,
-        85897545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"027e79445b551b8e58d514d714b60892",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897545,
+            "region_id":136251273,
             "venue_id":153016289
         }
     ],
     "wof:id":153016289,
-    "wof:lastmodified":1449040411,
+    "wof:lastmodified":1453932368,
     "wof:name":"Khan Moving & Storage",
     "wof:parent_id":85897545,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.631172,45.440933,-73.631172,45.440933],
-  "geometry": {"coordinates":[-73.631172,45.440933],"type":"Point"}
+  "bbox": [
+    -73.631172,
+    45.440933,
+    -73.631172,
+    45.440933
+],
+  "geometry": {"coordinates":[-73.63117200000001,45.440933],"type":"Point"}
 }

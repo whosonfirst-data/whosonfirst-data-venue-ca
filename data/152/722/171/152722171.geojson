@@ -2,13 +2,14 @@
   "id": 152722171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.601601,45.747391,-73.601601,45.747391",
     "geom:latitude":45.747391,
     "geom:longitude":-73.601601,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2995 Ch Sainte-Marie",
     "sg:city":"Mascouche",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"975c156c273e427d2b8944e75bed99b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":152722171
         }
     ],
     "wof:id":152722171,
-    "wof:lastmodified":1449045936,
+    "wof:lastmodified":1453934072,
     "wof:name":"Tapis Ste-Marie Inc",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.601601,45.747391,-73.601601,45.747391],
+  "bbox": [
+    -73.601601,
+    45.747391,
+    -73.601601,
+    45.747391
+],
   "geometry": {"coordinates":[-73.601601,45.747391],"type":"Point"}
 }

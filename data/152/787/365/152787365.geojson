@@ -2,13 +2,14 @@
   "id": 152787365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.656334,43.55954,-79.656334,43.55954",
     "geom:latitude":43.55954,
     "geom:longitude":-79.656334,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1290 Mcbride Ave",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895313,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"699d30e9ca42f655463a02eea59d7da7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895313,
+            "region_id":85682057,
+            "venue_id":152787365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895313,
             "region_id":85682057,
             "venue_id":152787365
         }
     ],
     "wof:id":152787365,
-    "wof:lastmodified":1449046401,
+    "wof:lastmodified":1453934430,
     "wof:name":"St Martin of Tours Parish",
     "wof:parent_id":85895313,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.656334,43.55954,-79.656334,43.55954],
+  "bbox": [
+    -79.656334,
+    43.55954,
+    -79.656334,
+    43.55954
+],
   "geometry": {"coordinates":[-79.656334,43.55954],"type":"Point"}
 }

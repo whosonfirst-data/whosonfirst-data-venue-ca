@@ -2,13 +2,14 @@
   "id": 169288397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.802383,43.322132,-79.802383,43.322132",
     "geom:latitude":43.322132,
     "geom:longitude":-79.802383,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"466 Nelson Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895035,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"17dc552629991496fd4edeaee1de45b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895035,
+            "region_id":85682057,
+            "venue_id":169288397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895035,
             "region_id":85682057,
             "venue_id":169288397
         }
     ],
     "wof:id":169288397,
-    "wof:lastmodified":1449033019,
+    "wof:lastmodified":1453929152,
     "wof:name":"Desi's Roofing CO Ltd",
     "wof:parent_id":85895035,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.802383,43.322132,-79.802383,43.322132],
-  "geometry": {"coordinates":[-79.802383,43.322132],"type":"Point"}
+  "bbox": [
+    -79.802383,
+    43.322132,
+    -79.802383,
+    43.322132
+],
+  "geometry": {"coordinates":[-79.80238300000001,43.322132],"type":"Point"}
 }

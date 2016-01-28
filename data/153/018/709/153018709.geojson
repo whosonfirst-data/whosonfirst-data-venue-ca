@@ -2,13 +2,14 @@
   "id": 153018709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.288689,46.757893,-71.288689,46.757893",
     "geom:latitude":46.757893,
     "geom:longitude":-71.288689,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3035 Ch Saint-Louis",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ee618ab6941e8f2e5f7b2fc9479e4bda",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":153018709
         }
     ],
     "wof:id":153018709,
-    "wof:lastmodified":1449040581,
+    "wof:lastmodified":1453932516,
     "wof:name":"Maison Legault",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.288689,46.757893,-71.288689,46.757893],
-  "geometry": {"coordinates":[-71.288689,46.757893],"type":"Point"}
+  "bbox": [
+    -71.288689,
+    46.757893,
+    -71.288689,
+    46.757893
+],
+  "geometry": {"coordinates":[-71.28868900000001,46.757893],"type":"Point"}
 }

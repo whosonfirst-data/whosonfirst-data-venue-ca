@@ -2,13 +2,14 @@
   "id": 202606583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.602509,45.602612,-73.602509,45.602612",
     "geom:latitude":45.602612,
     "geom:longitude":-73.602509,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6355 Boul Couture",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874367,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"6009914f22f3b8239842def16ad2c2fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874367,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202606583
         }
     ],
     "wof:id":202606583,
-    "wof:lastmodified":1449060498,
+    "wof:lastmodified":1453937056,
     "wof:name":"Avr Industries DE Valve",
     "wof:parent_id":85874367,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "valve"
     ]
 },
-  "bbox": [-73.602509,45.602612,-73.602509,45.602612],
+  "bbox": [
+    -73.602509,
+    45.602612,
+    -73.602509,
+    45.602612
+],
   "geometry": {"coordinates":[-73.602509,45.602612],"type":"Point"}
 }

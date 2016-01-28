@@ -2,13 +2,14 @@
   "id": 152191281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.513527,43.859844,-79.513527,43.859844",
     "geom:latitude":43.859844,
     "geom:longitude":-79.513527,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Maple",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895125,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"c47573d81536af7b7ba6974c273aa68c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895125,
+            "region_id":85682057,
+            "venue_id":152191281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895125,
             "region_id":85682057,
             "venue_id":152191281
         }
     ],
     "wof:id":152191281,
-    "wof:lastmodified":1449047099,
+    "wof:lastmodified":1453934956,
     "wof:name":"Vaughan Animal Control Ctr",
     "wof:parent_id":85895125,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.513527,43.859844,-79.513527,43.859844],
+  "bbox": [
+    -79.513527,
+    43.859844,
+    -79.513527,
+    43.859844
+],
   "geometry": {"coordinates":[-79.513527,43.859844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152677471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.690567,43.443455,-79.690567,43.443455",
     "geom:latitude":43.443455,
     "geom:longitude":-79.690567,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"243 Speers Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895051,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"a7c1d7fe0782ccc546896efdfb022cb4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895051,
+            "region_id":85682057,
+            "venue_id":152677471
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895051,
             "region_id":85682057,
             "venue_id":152677471
         }
     ],
     "wof:id":152677471,
-    "wof:lastmodified":1449045974,
+    "wof:lastmodified":1453934099,
     "wof:name":"Concept Flooring",
     "wof:parent_id":85895051,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.690567,43.443455,-79.690567,43.443455],
+  "bbox": [
+    -79.690567,
+    43.443455,
+    -79.690567,
+    43.443455
+],
   "geometry": {"coordinates":[-79.690567,43.443455],"type":"Point"}
 }

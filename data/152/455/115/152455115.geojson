@@ -2,13 +2,14 @@
   "id": 152455115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.223679,48.401676,-71.223679,48.401676",
     "geom:latitude":48.401676,
     "geom:longitude":-71.223679,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3515 Rue DE LA Recherche",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"aa2b428d20f8b914c54663ec99450de6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152455115
         }
     ],
     "wof:id":152455115,
-    "wof:lastmodified":1449048174,
+    "wof:lastmodified":1453935775,
     "wof:name":"Embouteillage Coca Cola Ltee",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.223679,48.401676,-71.223679,48.401676],
+  "bbox": [
+    -71.223679,
+    48.401676,
+    -71.223679,
+    48.401676
+],
   "geometry": {"coordinates":[-71.223679,48.401676],"type":"Point"}
 }

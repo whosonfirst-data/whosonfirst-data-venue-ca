@@ -2,13 +2,14 @@
   "id": 169389205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.053329,48.429588,-71.053329,48.429588",
     "geom:latitude":48.429588,
     "geom:longitude":-71.053329,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"159 Rue Salaberry",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a0509d481b2c7328027862be7e06c2ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169389205
         }
     ],
     "wof:id":169389205,
-    "wof:lastmodified":1449035287,
+    "wof:lastmodified":1453931492,
     "wof:name":"Evimbec Limitee",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.053329,48.429588,-71.053329,48.429588],
-  "geometry": {"coordinates":[-71.053329,48.429588],"type":"Point"}
+  "bbox": [
+    -71.053329,
+    48.429588,
+    -71.053329,
+    48.429588
+],
+  "geometry": {"coordinates":[-71.05332900000001,48.429588],"type":"Point"}
 }

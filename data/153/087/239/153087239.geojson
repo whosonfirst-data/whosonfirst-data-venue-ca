@@ -2,13 +2,14 @@
   "id": 153087239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.643723,45.70052,-73.643723,45.70052",
     "geom:latitude":45.70052,
     "geom:longitude":-73.643723,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"935 Rue Saint-Michel",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85895715,
+        102191575,
         85633041,
-        85895715
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"0590577046c5fd28ac7dd1d92d4984bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85895715,
+            "region_id":136251273,
             "venue_id":153087239
         }
     ],
     "wof:id":153087239,
-    "wof:lastmodified":1449040533,
+    "wof:lastmodified":1453932470,
     "wof:name":"Draperies D Lemieux",
     "wof:parent_id":85895715,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.643723,45.70052,-73.643723,45.70052],
-  "geometry": {"coordinates":[-73.643723,45.70052],"type":"Point"}
+  "bbox": [
+    -73.643723,
+    45.70052,
+    -73.643723,
+    45.70052
+],
+  "geometry": {"coordinates":[-73.64372299999999,45.70052],"type":"Point"}
 }

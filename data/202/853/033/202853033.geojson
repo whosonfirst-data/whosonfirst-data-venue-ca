@@ -2,13 +2,14 @@
   "id": 202853033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.529587,45.55357,-73.529587,45.55357",
     "geom:latitude":45.55357,
     "geom:longitude":-73.529587,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4672 Rue Notre-Dame O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874387,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"86fdcb3bc5c30619f4314263deb4a27a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202853033
         }
     ],
     "wof:id":202853033,
-    "wof:lastmodified":1449061136,
+    "wof:lastmodified":1453937191,
     "wof:name":"Nettoyeur St Henri",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.529587,45.55357,-73.529587,45.55357],
-  "geometry": {"coordinates":[-73.529587,45.55357],"type":"Point"}
+  "bbox": [
+    -73.529587,
+    45.55357,
+    -73.529587,
+    45.55357
+],
+  "geometry": {"coordinates":[-73.52958700000001,45.55357],"type":"Point"}
 }

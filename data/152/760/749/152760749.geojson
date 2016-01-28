@@ -2,13 +2,14 @@
   "id": 152760749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.661575,43.475876,-79.661575,43.475876",
     "geom:latitude":43.475876,
     "geom:longitude":-79.661575,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1444 Cornwall Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895589,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"15de09d2fd8d10b5d1a7f56cb1c4ad63",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895589,
+            "region_id":85682057,
+            "venue_id":152760749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895589,
             "region_id":85682057,
             "venue_id":152760749
         }
     ],
     "wof:id":152760749,
-    "wof:lastmodified":1449048740,
+    "wof:lastmodified":1453936209,
     "wof:name":"Laytec Design & Consulting Inc",
     "wof:parent_id":85895589,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.661575,43.475876,-79.661575,43.475876],
+  "bbox": [
+    -79.661575,
+    43.475876,
+    -79.661575,
+    43.475876
+],
   "geometry": {"coordinates":[-79.661575,43.475876],"type":"Point"}
 }

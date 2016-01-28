@@ -2,13 +2,14 @@
   "id": 153004103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.748962,45.541153,-73.748962,45.541153",
     "geom:latitude":45.541153,
     "geom:longitude":-73.748962,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"900 Boul Cure-Labelle",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"42a3aeb9b219511ba09ff0c6aadf705f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":153004103
         }
     ],
     "wof:id":153004103,
-    "wof:lastmodified":1449040511,
+    "wof:lastmodified":1453932454,
     "wof:name":"Club Tennis & Racquetball Rec",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.748962,45.541153,-73.748962,45.541153],
-  "geometry": {"coordinates":[-73.748962,45.541153],"type":"Point"}
+  "bbox": [
+    -73.748962,
+    45.541153,
+    -73.748962,
+    45.541153
+],
+  "geometry": {"coordinates":[-73.74896200000001,45.541153],"type":"Point"}
 }

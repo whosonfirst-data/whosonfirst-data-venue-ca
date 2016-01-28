@@ -2,13 +2,14 @@
   "id": 152715731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.148132,46.895531,-71.148132,46.895531",
     "geom:latitude":46.895531,
     "geom:longitude":-71.148132,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"89 Rue Notre-Dame",
     "sg:city":"Boischatel",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736835,
+        85866513,
+        102191575,
         85633041,
-        85866513
+        101736835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9622c651de32eaa642f4be4ac35bf068",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736835,
             "neighbourhood_id":85866513,
+            "region_id":136251273,
             "venue_id":152715731
         }
     ],
     "wof:id":152715731,
-    "wof:lastmodified":1449047994,
+    "wof:lastmodified":1453935644,
     "wof:name":"Ascenseurs Cloutier Ltee",
     "wof:parent_id":85866513,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.148132,46.895531,-71.148132,46.895531],
+  "bbox": [
+    -71.148132,
+    46.895531,
+    -71.148132,
+    46.895531
+],
   "geometry": {"coordinates":[-71.148132,46.895531],"type":"Point"}
 }

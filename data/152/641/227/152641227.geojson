@@ -2,13 +2,14 @@
   "id": 152641227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.370071,43.42609,-80.370071,43.42609",
     "geom:latitude":43.42609,
     "geom:longitude":-80.370071,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"800 Maple Grove Rd",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874997,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5685adba5c3fccec264e2857cec42ac5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874997,
+            "region_id":85682057,
+            "venue_id":152641227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736143,
             "neighbourhood_id":85874997,
             "region_id":85682057,
             "venue_id":152641227
         }
     ],
     "wof:id":152641227,
-    "wof:lastmodified":1449047805,
+    "wof:lastmodified":1453935506,
     "wof:name":"Maple Grove Leasing Inc",
     "wof:parent_id":85874997,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.370071,43.42609,-80.370071,43.42609],
+  "bbox": [
+    -80.370071,
+    43.42609,
+    -80.370071,
+    43.42609
+],
   "geometry": {"coordinates":[-80.370071,43.42609],"type":"Point"}
 }

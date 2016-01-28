@@ -2,13 +2,14 @@
   "id": 152658779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.261154,42.963516,-81.261154,42.963516",
     "geom:latitude":42.963516,
     "geom:longitude":-81.261154,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"394 Wharncliffe Rd S",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "taping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874933,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wfqxt3mV1hY4nanQPWyov_42.963516_-81.261154@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"9d3860d051aceb1525dd59ebd2804a49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874933,
+            "region_id":85682057,
+            "venue_id":152658779
+        }
+    ],
     "wof:id":152658779,
-    "wof:lastmodified":1449044179,
+    "wof:lastmodified":1453932739,
     "wof:name":"Producers Post",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.261154,42.963516,-81.261154,42.963516],
+  "bbox": [
+    -81.261154,
+    42.963516,
+    -81.261154,
+    42.963516
+],
   "geometry": {"coordinates":[-81.261154,42.963516],"type":"Point"}
 }

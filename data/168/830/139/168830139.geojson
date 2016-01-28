@@ -2,13 +2,14 @@
   "id": 168830139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982185,43.395489,-79.982185,43.395489",
     "geom:latitude":43.395489,
     "geom:longitude":-79.982185,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1496 Centre Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895171,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"3c89657361416a935dbb2a56a9fd295b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895171,
+            "region_id":85682057,
+            "venue_id":168830139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895171,
             "region_id":85682057,
             "venue_id":168830139
         }
     ],
     "wof:id":168830139,
-    "wof:lastmodified":1449027943,
+    "wof:lastmodified":1453927976,
     "wof:name":"Carlisle Public Library",
     "wof:parent_id":85895171,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.982185,43.395489,-79.982185,43.395489],
+  "bbox": [
+    -79.982185,
+    43.395489,
+    -79.982185,
+    43.395489
+],
   "geometry": {"coordinates":[-79.982185,43.395489],"type":"Point"}
 }

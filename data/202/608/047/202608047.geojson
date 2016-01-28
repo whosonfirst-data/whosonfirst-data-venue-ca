@@ -2,13 +2,14 @@
   "id": 202608047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.256035,48.408901,-71.256035,48.408901",
     "geom:latitude":48.408901,
     "geom:longitude":-71.256035,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4014 Rue DE LA Fabrique",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -34,8 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785007,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +48,16 @@
     "wof:geomhash":"5774edc3968979bae47bab1ac6b03faa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202608047
         }
     ],
     "wof:id":202608047,
-    "wof:lastmodified":1449061201,
+    "wof:lastmodified":1453937205,
     "wof:name":"Salon Du Livre Du Saguenay",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -70,6 +73,11 @@
         "organization"
     ]
 },
-  "bbox": [-71.256035,48.408901,-71.256035,48.408901],
+  "bbox": [
+    -71.256035,
+    48.408901,
+    -71.256035,
+    48.408901
+],
   "geometry": {"coordinates":[-71.256035,48.408901],"type":"Point"}
 }

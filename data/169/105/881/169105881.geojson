@@ -2,13 +2,14 @@
   "id": 169105881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.528999,43.850769,-79.528999,43.850769",
     "geom:latitude":43.850769,
     "geom:longitude":-79.528999,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"86 Cherokee Dr",
     "sg:city":"Maple",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d9f768504efcdb62cf5458e4b06a049c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":169105881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":169105881
         }
     ],
     "wof:id":169105881,
-    "wof:lastmodified":1449033948,
+    "wof:lastmodified":1453930112,
     "wof:name":"Tbs Paving & Construction",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.528999,43.850769,-79.528999,43.850769],
+  "bbox": [
+    -79.528999,
+    43.850769,
+    -79.528999,
+    43.850769
+],
   "geometry": {"coordinates":[-79.528999,43.850769],"type":"Point"}
 }

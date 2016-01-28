@@ -2,13 +2,14 @@
   "id": 152677771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.272911,43.876419,-79.272911,43.876419",
     "geom:latitude":43.876419,
     "geom:longitude":-79.272911,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"144 Bullock Dr",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895435,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"f8bc5f5886a203ce6d17a575d3489929",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895435,
+            "region_id":85682057,
+            "venue_id":152677771
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895435,
             "region_id":85682057,
             "venue_id":152677771
         }
     ],
     "wof:id":152677771,
-    "wof:lastmodified":1449045973,
+    "wof:lastmodified":1453934100,
     "wof:name":"Complete Auto Repair Svc Inc",
     "wof:parent_id":85895435,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.272911,43.876419,-79.272911,43.876419],
-  "geometry": {"coordinates":[-79.272911,43.876419],"type":"Point"}
+  "bbox": [
+    -79.272911,
+    43.876419,
+    -79.272911,
+    43.876419
+],
+  "geometry": {"coordinates":[-79.27291099999999,43.876419],"type":"Point"}
 }

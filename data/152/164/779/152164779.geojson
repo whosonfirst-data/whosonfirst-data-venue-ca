@@ -2,13 +2,14 @@
   "id": 152164779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.220703,45.548927,-73.220703,45.548927",
     "geom:latitude":45.548927,
     "geom:longitude":-73.220703,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Boul Laurier # A",
     "sg:city":"Mcmasterville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737777,
+        85894601,
+        102191575,
         85633041,
-        85894601
+        101737777,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7a56ab2c6f1fa301e271ed47ae266928",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737777,
             "neighbourhood_id":85894601,
+            "region_id":136251273,
             "venue_id":152164779
         }
     ],
     "wof:id":152164779,
-    "wof:lastmodified":1449044851,
+    "wof:lastmodified":1453933252,
     "wof:name":"Auto Location Via Route",
     "wof:parent_id":85894601,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.220703,45.548927,-73.220703,45.548927],
+  "bbox": [
+    -73.220703,
+    45.548927,
+    -73.220703,
+    45.548927
+],
   "geometry": {"coordinates":[-73.220703,45.548927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152523381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.487778,45.694359,-73.487778,45.694359",
     "geom:latitude":45.694359,
     "geom:longitude":-73.487778,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15920 Rue Notre-Dame E",
     "sg:city":"Pointe-Aux-Trembles",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"13e2b463aba13722565494fdb0f4ce9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":152523381
         }
     ],
     "wof:id":152523381,
-    "wof:lastmodified":1449046963,
+    "wof:lastmodified":1453934841,
     "wof:name":"Residence Select Pointe Aux",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.487778,45.694359,-73.487778,45.694359],
-  "geometry": {"coordinates":[-73.487778,45.694359],"type":"Point"}
+  "bbox": [
+    -73.487778,
+    45.694359,
+    -73.487778,
+    45.694359
+],
+  "geometry": {"coordinates":[-73.48777800000001,45.694359],"type":"Point"}
 }

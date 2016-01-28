@@ -2,13 +2,14 @@
   "id": 169310307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.530762,45.603275,-73.530762,45.603275",
     "geom:latitude":45.603275,
     "geom:longitude":-73.530762,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895727,
+        102191575,
         85633041,
-        85895727
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"9d8268203dfa9f86debbb58c3f5e789a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895727,
+            "region_id":136251273,
             "venue_id":169310307
         }
     ],
     "wof:id":169310307,
-    "wof:lastmodified":1449034717,
+    "wof:lastmodified":1453930920,
     "wof:name":"Allstate Du Canada",
     "wof:parent_id":85895727,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.530762,45.603275,-73.530762,45.603275],
+  "bbox": [
+    -73.530762,
+    45.603275,
+    -73.530762,
+    45.603275
+],
   "geometry": {"coordinates":[-73.530762,45.603275],"type":"Point"}
 }

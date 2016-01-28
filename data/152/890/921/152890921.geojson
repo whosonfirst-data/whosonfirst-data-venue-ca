@@ -2,13 +2,14 @@
   "id": 152890921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.788048,45.485073,-73.788048,45.485073",
     "geom:latitude":45.485073,
     "geom:longitude":-73.788048,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2111 Rue Saint-Regis #C",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85784719,
+        102191575,
         85633041,
-        85784719
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"d3f2bdc3b896427f730635c12bcde934",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85784719,
+            "region_id":136251273,
             "venue_id":152890921
         }
     ],
     "wof:id":152890921,
-    "wof:lastmodified":1449045313,
+    "wof:lastmodified":1453933600,
     "wof:name":"Distributions Lepco Inc",
     "wof:parent_id":85784719,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.788048,45.485073,-73.788048,45.485073],
+  "bbox": [
+    -73.788048,
+    45.485073,
+    -73.788048,
+    45.485073
+],
   "geometry": {"coordinates":[-73.788048,45.485073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152845539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.501801,45.503387,-73.501801,45.503387",
     "geom:latitude":45.503387,
     "geom:longitude":-73.501801,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"325 Rue Du Golf",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7ff80590ea0f84a8d191afda3eea30ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":152845539
         }
     ],
     "wof:id":152845539,
-    "wof:lastmodified":1449045064,
+    "wof:lastmodified":1453933407,
     "wof:name":"Club DE Golf St Lambert",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.501801,45.503387,-73.501801,45.503387],
+  "bbox": [
+    -73.501801,
+    45.503387,
+    -73.501801,
+    45.503387
+],
   "geometry": {"coordinates":[-73.501801,45.503387],"type":"Point"}
 }

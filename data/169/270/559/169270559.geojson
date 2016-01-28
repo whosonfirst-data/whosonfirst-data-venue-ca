@@ -2,13 +2,14 @@
   "id": 169270559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.601761,46.372021,-72.601761,46.372021",
     "geom:latitude":46.372021,
     "geom:longitude":-72.601761,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874099,
+        102191575,
         85633041,
-        85874099
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"00681e66c924e8f7201915753c52d16a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874099,
+            "region_id":136251273,
             "venue_id":169270559
         }
     ],
     "wof:id":169270559,
-    "wof:lastmodified":1449033280,
+    "wof:lastmodified":1453929395,
     "wof:name":"S L St Louis Rembourrage",
     "wof:parent_id":85874099,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.601761,46.372021,-72.601761,46.372021],
+  "bbox": [
+    -72.601761,
+    46.372021,
+    -72.601761,
+    46.372021
+],
   "geometry": {"coordinates":[-72.601761,46.372021],"type":"Point"}
 }

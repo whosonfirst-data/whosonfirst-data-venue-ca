@@ -2,13 +2,14 @@
   "id": 169322353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.3554,43.82531,-79.3554,43.82531",
     "geom:latitude":43.82531,
     "geom:longitude":-79.3554,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2797 John St",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895483,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"264e3e348496565719e25efa9b039763",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":169322353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":169322353
         }
     ],
     "wof:id":169322353,
-    "wof:lastmodified":1449032644,
+    "wof:lastmodified":1453928762,
     "wof:name":"Kestenberg Rabinowicz & Prtnrs",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.3554,43.82531,-79.3554,43.82531],
+  "bbox": [
+    -79.3554,
+    43.82531,
+    -79.3554,
+    43.82531
+],
   "geometry": {"coordinates":[-79.3554,43.82531],"type":"Point"}
 }

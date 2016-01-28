@@ -2,13 +2,14 @@
   "id": 169015867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.778931,45.559177,-73.778931,45.559177",
     "geom:latitude":45.559177,
     "geom:longitude":-73.778931,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4261 Boul Cleroux",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875061,
+        102191575,
         85633041,
-        85875061
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b0e83f9bb80237c62b7c20aa1f580526",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875061,
+            "region_id":136251273,
             "venue_id":169015867
         }
     ],
     "wof:id":169015867,
-    "wof:lastmodified":1449033440,
+    "wof:lastmodified":1453929547,
     "wof:name":"A LA Serrurier Jacques",
     "wof:parent_id":85875061,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.778931,45.559177,-73.778931,45.559177],
+  "bbox": [
+    -73.778931,
+    45.559177,
+    -73.778931,
+    45.559177
+],
   "geometry": {"coordinates":[-73.778931,45.559177],"type":"Point"}
 }

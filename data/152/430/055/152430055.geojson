@@ -2,13 +2,14 @@
   "id": 152430055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.6483,45.498486,-73.6483,45.498486",
     "geom:latitude":45.498486,
     "geom:longitude":-73.6483,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4800 Rue Jean-Talon O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736469,
+        85784817,
+        102191575,
         85633041,
-        85784817
+        101736469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ca2307c836ecfa760272d460e745694a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736469,
             "neighbourhood_id":85784817,
+            "region_id":136251273,
             "venue_id":152430055
         }
     ],
     "wof:id":152430055,
-    "wof:lastmodified":1449047241,
+    "wof:lastmodified":1453935054,
     "wof:name":"L G Plaza Inc",
     "wof:parent_id":85784817,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.6483,45.498486,-73.6483,45.498486],
-  "geometry": {"coordinates":[-73.6483,45.498486],"type":"Point"}
+  "bbox": [
+    -73.6483,
+    45.498486,
+    -73.6483,
+    45.498486
+],
+  "geometry": {"coordinates":[-73.64830000000001,45.498486],"type":"Point"}
 }

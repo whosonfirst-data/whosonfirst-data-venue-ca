@@ -2,13 +2,14 @@
   "id": 186517541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.715202,45.359558,-73.715202,45.359558",
     "geom:latitude":45.359558,
     "geom:longitude":-73.715202,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"102 Boul Saint-Jean-Baptiste",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895755,
+        102191575,
         85633041,
-        101738001
+        101738001,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"44583443d7db135b9303e6f8d1434b2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738001,
             "neighbourhood_id":85895755,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186517541
         }
     ],
     "wof:id":186517541,
-    "wof:lastmodified":1449051913,
+    "wof:lastmodified":1453936742,
     "wof:name":"Quebec Main-D'Oeuvre Securite",
     "wof:parent_id":85895755,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.715202,45.359558,-73.715202,45.359558],
-  "geometry": {"coordinates":[-73.715202,45.359558],"type":"Point"}
+  "bbox": [
+    -73.715202,
+    45.359558,
+    -73.715202,
+    45.359558
+],
+  "geometry": {"coordinates":[-73.71520200000001,45.359558],"type":"Point"}
 }

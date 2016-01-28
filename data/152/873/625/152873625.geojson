@@ -2,13 +2,14 @@
   "id": 152873625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.872734,43.50927,-79.872734,43.50927",
     "geom:latitude":43.50927,
     "geom:longitude":-79.872734,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Milton",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895695,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"9c4dea511ad3b7a2d5e37365d9958609",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895695,
+            "region_id":85682057,
+            "venue_id":152873625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895695,
             "region_id":85682057,
             "venue_id":152873625
         }
     ],
     "wof:id":152873625,
-    "wof:lastmodified":1449045270,
+    "wof:lastmodified":1453933563,
     "wof:name":"Boyko, Gerald A DDS",
     "wof:parent_id":85895695,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.872734,43.50927,-79.872734,43.50927],
-  "geometry": {"coordinates":[-79.872734,43.50927],"type":"Point"}
+  "bbox": [
+    -79.872734,
+    43.50927,
+    -79.872734,
+    43.50927
+],
+  "geometry": {"coordinates":[-79.87273399999999,43.50927],"type":"Point"}
 }

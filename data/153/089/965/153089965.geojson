@@ -2,13 +2,14 @@
   "id": 153089965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.463936,45.553978,-73.463936,45.553978",
     "geom:latitude":45.553978,
     "geom:longitude":-73.463936,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1800 Rue Du Caribou # 26",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897555,
+        102191575,
         85633041,
-        85897555
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"6be1d7de7dad1f207d3017bd0f49f563",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897555,
+            "region_id":136251273,
             "venue_id":153089965
         }
     ],
     "wof:id":153089965,
-    "wof:lastmodified":1449040425,
+    "wof:lastmodified":1453932382,
     "wof:name":"Residences Du Golf Enr",
     "wof:parent_id":85897555,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.463936,45.553978,-73.463936,45.553978],
+  "bbox": [
+    -73.463936,
+    45.553978,
+    -73.463936,
+    45.553978
+],
   "geometry": {"coordinates":[-73.463936,45.553978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203258449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.649025,43.63879,-79.649025,43.63879",
     "geom:latitude":43.63879,
     "geom:longitude":-79.649025,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5630 Tomken Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894975,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"d3c08bf326ece43b6fbd77098017c964",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":203258449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":203258449
         }
     ],
     "wof:id":203258449,
-    "wof:lastmodified":1449026437,
+    "wof:lastmodified":1453927679,
     "wof:name":"Wps North America",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "parking"
     ]
 },
-  "bbox": [-79.649025,43.63879,-79.649025,43.63879],
-  "geometry": {"coordinates":[-79.649025,43.63879],"type":"Point"}
+  "bbox": [
+    -79.649025,
+    43.63879,
+    -79.649025,
+    43.63879
+],
+  "geometry": {"coordinates":[-79.64902499999999,43.63879],"type":"Point"}
 }

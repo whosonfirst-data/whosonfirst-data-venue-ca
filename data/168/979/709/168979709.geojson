@@ -2,13 +2,14 @@
   "id": 168979709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.25148,43.183804,-79.25148,43.183804",
     "geom:latitude":43.183804,
     "geom:longitude":-79.25148,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"304 Lake St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875041,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"b87e066bbebd0fcb216edf37b6bcffc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875041,
+            "region_id":85682057,
+            "venue_id":168979709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875041,
             "region_id":85682057,
             "venue_id":168979709
         }
     ],
     "wof:id":168979709,
-    "wof:lastmodified":1449028320,
+    "wof:lastmodified":1453928389,
     "wof:name":"Skyway Digital",
     "wof:parent_id":85875041,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.25148,43.183804,-79.25148,43.183804],
+  "bbox": [
+    -79.25148,
+    43.183804,
+    -79.25148,
+    43.183804
+],
   "geometry": {"coordinates":[-79.25148,43.183804],"type":"Point"}
 }

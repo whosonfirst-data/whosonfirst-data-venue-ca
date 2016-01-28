@@ -2,13 +2,14 @@
   "id": 169456385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62925,45.54274,-73.62925,45.54274",
     "geom:latitude":45.54274,
     "geom:longitude":-73.62925,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"409 Rue Jarry E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"e594479de3ffba345cae7d1eb9dcac0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":169456385
         }
     ],
     "wof:id":169456385,
-    "wof:lastmodified":1449033664,
+    "wof:lastmodified":1453929792,
     "wof:name":"Cordonnerie Jarry",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.62925,45.54274,-73.62925,45.54274],
+  "bbox": [
+    -73.62925,
+    45.54274,
+    -73.62925,
+    45.54274
+],
   "geometry": {"coordinates":[-73.62925,45.54274],"type":"Point"}
 }

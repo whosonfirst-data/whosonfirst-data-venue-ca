@@ -2,13 +2,14 @@
   "id": 219570575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.26712,43.201584,-79.26712,43.201584",
     "geom:latitude":43.201584,
     "geom:longitude":-79.26712,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Canal St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784853,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"eef330eb2c2bb9c35cc419a1b0016504",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85784853,
+            "region_id":85682057,
+            "venue_id":219570575
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85784853,
             "region_id":85682057,
             "venue_id":219570575
         }
     ],
     "wof:id":219570575,
-    "wof:lastmodified":1449072477,
+    "wof:lastmodified":1453937820,
     "wof:name":"Dalhousie Materials Engrng Ltd",
     "wof:parent_id":85784853,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "engineer"
     ]
 },
-  "bbox": [-79.26712,43.201584,-79.26712,43.201584],
-  "geometry": {"coordinates":[-79.26712,43.201584],"type":"Point"}
+  "bbox": [
+    -79.26712,
+    43.201584,
+    -79.26712,
+    43.201584
+],
+  "geometry": {"coordinates":[-79.26712000000001,43.201584],"type":"Point"}
 }

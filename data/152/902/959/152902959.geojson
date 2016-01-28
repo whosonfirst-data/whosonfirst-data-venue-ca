@@ -2,13 +2,14 @@
   "id": 152902959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.302803,45.443459,-73.302803,45.443459",
     "geom:latitude":45.443459,
     "geom:longitude":-73.302803,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Chambly",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895747,
+        102191575,
         85633041,
-        85895747
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"6fafb744ed42b035402bed73e5437cdd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
+            "region_id":136251273,
             "venue_id":152902959
         }
     ],
     "wof:id":152902959,
-    "wof:lastmodified":1449047723,
+    "wof:lastmodified":1453935445,
     "wof:name":"Clinique Dentaire Berthiaume",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.302803,45.443459,-73.302803,45.443459],
+  "bbox": [
+    -73.302803,
+    45.443459,
+    -73.302803,
+    45.443459
+],
   "geometry": {"coordinates":[-73.302803,45.443459],"type":"Point"}
 }

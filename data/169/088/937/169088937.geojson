@@ -2,13 +2,14 @@
   "id": 169088937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62114,45.416904,-73.62114,45.416904",
     "geom:latitude":45.416904,
     "geom:longitude":-73.62114,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8686 Rue Centrale",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897543,
+        102191575,
         85633041,
-        85897543
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"884c9641f38d87d9d49ac5e0df1bfc49",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897543,
+            "region_id":136251273,
             "venue_id":169088937
         }
     ],
     "wof:id":169088937,
-    "wof:lastmodified":1449035227,
+    "wof:lastmodified":1453931430,
     "wof:name":"Centre D'Accueil Lasalle",
     "wof:parent_id":85897543,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.62114,45.416904,-73.62114,45.416904],
+  "bbox": [
+    -73.62114,
+    45.416904,
+    -73.62114,
+    45.416904
+],
   "geometry": {"coordinates":[-73.62114,45.416904],"type":"Point"}
 }

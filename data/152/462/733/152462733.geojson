@@ -2,13 +2,14 @@
   "id": 152462733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.682617,45.568878,-73.682617,45.568878",
     "geom:latitude":45.568878,
     "geom:longitude":-73.682617,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"202 Rue Alexandre",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875069,
+        102191575,
         85633041,
-        85875069
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ab7f892f1c65f231ca1744672c101fef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
+            "region_id":136251273,
             "venue_id":152462733
         }
     ],
     "wof:id":152462733,
-    "wof:lastmodified":1449048738,
+    "wof:lastmodified":1453936203,
     "wof:name":"Salon D'Esthetique Y Lajoie",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.682617,45.568878,-73.682617,45.568878],
-  "geometry": {"coordinates":[-73.682617,45.568878],"type":"Point"}
+  "bbox": [
+    -73.682617,
+    45.568878,
+    -73.682617,
+    45.568878
+],
+  "geometry": {"coordinates":[-73.68261699999999,45.568878],"type":"Point"}
 }

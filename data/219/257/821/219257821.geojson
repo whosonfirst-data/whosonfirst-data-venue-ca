@@ -2,13 +2,14 @@
   "id": 219257821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.54892,43.609524,-79.54892,43.609524",
     "geom:latitude":43.609524,
     "geom:longitude":-79.54892,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"846 Browns Line",
     "sg:city":"Etobicoke",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895479,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"b2a75481363ba1298b0930d53c12937e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":219257821
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":219257821
         }
     ],
     "wof:id":219257821,
-    "wof:lastmodified":1449071443,
+    "wof:lastmodified":1453937681,
     "wof:name":"Yustin, J DDS",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "dentist"
     ]
 },
-  "bbox": [-79.54892,43.609524,-79.54892,43.609524],
+  "bbox": [
+    -79.54892,
+    43.609524,
+    -79.54892,
+    43.609524
+],
   "geometry": {"coordinates":[-79.54892,43.609524],"type":"Point"}
 }

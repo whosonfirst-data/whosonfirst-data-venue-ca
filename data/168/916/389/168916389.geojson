@@ -2,13 +2,14 @@
   "id": 168916389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.803474,45.569569,-73.803474,45.569569",
     "geom:latitude":45.569569,
     "geom:longitude":-73.803474,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"430 Rue Hudon",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864423,
+        102191575,
         85633041,
-        85864423
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"21268e711c7c6aadfc68615e6926e7b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864423,
+            "region_id":136251273,
             "venue_id":168916389
         }
     ],
     "wof:id":168916389,
-    "wof:lastmodified":1449028192,
+    "wof:lastmodified":1453928252,
     "wof:name":"Service DE Combustion Petragaz",
     "wof:parent_id":85864423,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.803474,45.569569,-73.803474,45.569569],
-  "geometry": {"coordinates":[-73.803474,45.569569],"type":"Point"}
+  "bbox": [
+    -73.803474,
+    45.569569,
+    -73.803474,
+    45.569569
+],
+  "geometry": {"coordinates":[-73.80347399999999,45.569569],"type":"Point"}
 }

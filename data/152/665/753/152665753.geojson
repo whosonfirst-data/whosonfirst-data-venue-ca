@@ -2,13 +2,14 @@
   "id": 152665753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.553925,43.771049,-79.553925,43.771049",
     "geom:latitude":43.771049,
     "geom:longitude":-79.553925,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Woodbridge",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"1b10dc9126ec10ff41da99b6f171f92a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152665753
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152665753
         }
     ],
     "wof:id":152665753,
-    "wof:lastmodified":1449045714,
+    "wof:lastmodified":1453933908,
     "wof:name":"Romlight Inc",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.553925,43.771049,-79.553925,43.771049],
-  "geometry": {"coordinates":[-79.553925,43.771049],"type":"Point"}
+  "bbox": [
+    -79.553925,
+    43.771049,
+    -79.553925,
+    43.771049
+],
+  "geometry": {"coordinates":[-79.55392500000001,43.771049],"type":"Point"}
 }

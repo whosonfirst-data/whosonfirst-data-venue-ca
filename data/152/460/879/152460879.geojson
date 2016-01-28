@@ -2,13 +2,14 @@
   "id": 152460879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.687714,44.326321,-79.687714,44.326321",
     "geom:latitude":44.326321,
     "geom:longitude":-79.687714,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0McQGWPk07K5w04dIIqeFQ_44.326321_-79.687714@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"382cb54d269a7c0bb2b18b7850609925",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":152460879
+        }
+    ],
     "wof:id":152460879,
-    "wof:lastmodified":1449048654,
+    "wof:lastmodified":1453936130,
     "wof:name":"Renaissance Nouveau Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.687714,44.326321,-79.687714,44.326321],
+  "bbox": [
+    -79.687714,
+    44.326321,
+    -79.687714,
+    44.326321
+],
   "geometry": {"coordinates":[-79.687714,44.326321],"type":"Point"}
 }

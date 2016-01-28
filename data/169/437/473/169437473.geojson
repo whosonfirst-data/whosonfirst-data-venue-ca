@@ -2,13 +2,14 @@
   "id": 169437473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.70639,43.446381,-79.70639,43.446381",
     "geom:latitude":43.446381,
     "geom:longitude":-79.70639,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"280 North Service Rd W # 1A",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895377,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e556f9fece6c9d020d9c9b5a9397f4c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895377,
+            "region_id":85682057,
+            "venue_id":169437473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895377,
             "region_id":85682057,
             "venue_id":169437473
         }
     ],
     "wof:id":169437473,
-    "wof:lastmodified":1449035062,
+    "wof:lastmodified":1453931291,
     "wof:name":"Barn Markets",
     "wof:parent_id":85895377,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.70639,43.446381,-79.70639,43.446381],
+  "bbox": [
+    -79.70639,
+    43.446381,
+    -79.70639,
+    43.446381
+],
   "geometry": {"coordinates":[-79.70639,43.446381],"type":"Point"}
 }

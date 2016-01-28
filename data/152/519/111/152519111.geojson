@@ -2,13 +2,14 @@
   "id": 152519111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.590836,45.636028,-73.590836,45.636028",
     "geom:latitude":45.636028,
     "geom:longitude":-73.590836,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8125 Av Andre-Ampere",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"642b4cca65db884966009d8f655e65e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":152519111
         }
     ],
     "wof:id":152519111,
-    "wof:lastmodified":1449048615,
+    "wof:lastmodified":1453936100,
     "wof:name":"Cafe Faggia",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.590836,45.636028,-73.590836,45.636028],
+  "bbox": [
+    -73.590836,
+    45.636028,
+    -73.590836,
+    45.636028
+],
   "geometry": {"coordinates":[-73.590836,45.636028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169124341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.761078,43.372948,-79.761078,43.372948",
     "geom:latitude":43.372948,
     "geom:longitude":-79.761078,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"661 Appleby Line",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895033,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"a5d5afabd9de9bd9d04ff4ef181dc7f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895033,
+            "region_id":85682057,
+            "venue_id":169124341
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895033,
             "region_id":85682057,
             "venue_id":169124341
         }
     ],
     "wof:id":169124341,
-    "wof:lastmodified":1449035709,
+    "wof:lastmodified":1453931960,
     "wof:name":"Dairy Queen",
     "wof:parent_id":85895033,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.761078,43.372948,-79.761078,43.372948],
+  "bbox": [
+    -79.761078,
+    43.372948,
+    -79.761078,
+    43.372948
+],
   "geometry": {"coordinates":[-79.761078,43.372948],"type":"Point"}
 }

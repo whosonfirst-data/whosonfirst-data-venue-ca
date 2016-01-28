@@ -2,13 +2,14 @@
   "id": 152884545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.550003,45.521667,-73.550003,45.521667",
     "geom:latitude":45.521667,
     "geom:longitude":-73.550003,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1205 Av Papineau",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ed3ceba99f2ffcf7341ac6c350f4c50c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":152884545
         }
     ],
     "wof:id":152884545,
-    "wof:lastmodified":1449048023,
+    "wof:lastmodified":1453935675,
     "wof:name":"Ventes Net Star",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.550003,45.521667,-73.550003,45.521667],
+  "bbox": [
+    -73.550003,
+    45.521667,
+    -73.550003,
+    45.521667
+],
   "geometry": {"coordinates":[-73.550003,45.521667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152282749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.268578,43.024715,-81.268578,43.024715",
     "geom:latitude":43.024715,
     "geom:longitude":-81.268578,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"181 Camden Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -30,23 +31,43 @@
         "accounting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864629,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cTz2sbgsN2K95aKxCXFgT_43.024715_-81.268578@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5abf1522176b70cc6b80638514c808cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864629,
+            "region_id":85682057,
+            "venue_id":152282749
+        }
+    ],
     "wof:id":152282749,
-    "wof:lastmodified":1449047190,
+    "wof:lastmodified":1453935022,
     "wof:name":"John W Hancock & Assoc Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864629,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.268578,43.024715,-81.268578,43.024715],
-  "geometry": {"coordinates":[-81.268578,43.024715],"type":"Point"}
+  "bbox": [
+    -81.268578,
+    43.024715,
+    -81.268578,
+    43.024715
+],
+  "geometry": {"coordinates":[-81.26857800000001,43.024715],"type":"Point"}
 }

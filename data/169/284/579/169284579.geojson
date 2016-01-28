@@ -2,13 +2,14 @@
   "id": 169284579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.569923,45.597641,-73.569923,45.597641",
     "geom:latitude":45.597641,
     "geom:longitude":-73.569923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7100 Rue Jean-Talon E",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897591,
+        102191575,
         85633041,
-        85897591
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"15e9b355255fd79226924e091362d564",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897591,
+            "region_id":136251273,
             "venue_id":169284579
         }
     ],
     "wof:id":169284579,
-    "wof:lastmodified":1449034735,
+    "wof:lastmodified":1453930945,
     "wof:name":"Cegep DE Rosemont",
     "wof:parent_id":85897591,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.569923,45.597641,-73.569923,45.597641],
+  "bbox": [
+    -73.569923,
+    45.597641,
+    -73.569923,
+    45.597641
+],
   "geometry": {"coordinates":[-73.569923,45.597641],"type":"Point"}
 }

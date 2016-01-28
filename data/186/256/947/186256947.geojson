@@ -2,13 +2,14 @@
   "id": 186256947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.438759,43.832504,-79.438759,43.832504",
     "geom:latitude":43.832504,
     "geom:longitude":-79.438759,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"227 Langstaff Rd W",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895637,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"9f0e30f865dbfb59e1e0d9300d6d605c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895637,
+            "region_id":85682057,
+            "venue_id":186256947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895637,
             "region_id":85682057,
             "venue_id":186256947
         }
     ],
     "wof:id":186256947,
-    "wof:lastmodified":1449052372,
+    "wof:lastmodified":1453936832,
     "wof:name":"Tantos Foods Intl",
     "wof:parent_id":85895637,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-79.438759,43.832504,-79.438759,43.832504],
+  "bbox": [
+    -79.438759,
+    43.832504,
+    -79.438759,
+    43.832504
+],
   "geometry": {"coordinates":[-79.438759,43.832504],"type":"Point"}
 }

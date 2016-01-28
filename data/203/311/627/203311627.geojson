@@ -2,13 +2,14 @@
   "id": 203311627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.639511,43.592094,-79.639511,43.592094",
     "geom:latitude":43.592094,
     "geom:longitude":-79.639511,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"100 City Centre Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895329,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"ff030c4d5c73b12d66bc9ee93eaa5b65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895329,
+            "region_id":85682057,
+            "venue_id":203311627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895329,
             "region_id":85682057,
             "venue_id":203311627
         }
     ],
     "wof:id":203311627,
-    "wof:lastmodified":1449025382,
+    "wof:lastmodified":1453927495,
     "wof:name":"Crabtree & Evelyn",
     "wof:parent_id":85895329,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.639511,43.592094,-79.639511,43.592094],
+  "bbox": [
+    -79.639511,
+    43.592094,
+    -79.639511,
+    43.592094
+],
   "geometry": {"coordinates":[-79.639511,43.592094],"type":"Point"}
 }

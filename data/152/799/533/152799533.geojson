@@ -2,13 +2,14 @@
   "id": 152799533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.103844,43.840954,-79.103844,43.840954",
     "geom:latitude":43.840954,
     "geom:longitude":-79.103844,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1900 Dixie Rd # 9",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895165,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d44209eb119bd0c546aeb0ef215d7c33",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895165,
+            "region_id":85682057,
+            "venue_id":152799533
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895165,
             "region_id":85682057,
             "venue_id":152799533
         }
     ],
     "wof:id":152799533,
-    "wof:lastmodified":1449048917,
+    "wof:lastmodified":1453936361,
     "wof:name":"Glendale Dental Office",
     "wof:parent_id":85895165,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.103844,43.840954,-79.103844,43.840954],
+  "bbox": [
+    -79.103844,
+    43.840954,
+    -79.103844,
+    43.840954
+],
   "geometry": {"coordinates":[-79.103844,43.840954],"type":"Point"}
 }

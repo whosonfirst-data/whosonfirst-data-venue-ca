@@ -2,13 +2,14 @@
   "id": 152927301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.377747,46.752682,-71.377747,46.752682",
     "geom:latitude":46.752682,
     "geom:longitude":-71.377747,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4525 Montee Du Coteau",
     "sg:city":"Saint-Augustin-DE-Desmaures",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85784683,
+        102191575,
         85633041,
-        85784683
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"5be57855dafc478267e057723afc543e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784683,
+            "region_id":136251273,
             "venue_id":152927301
         }
     ],
     "wof:id":152927301,
-    "wof:lastmodified":1449048438,
+    "wof:lastmodified":1453935978,
     "wof:name":"Arena Acti-Vital",
     "wof:parent_id":85784683,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.377747,46.752682,-71.377747,46.752682],
+  "bbox": [
+    -71.377747,
+    46.752682,
+    -71.377747,
+    46.752682
+],
   "geometry": {"coordinates":[-71.377747,46.752682],"type":"Point"}
 }

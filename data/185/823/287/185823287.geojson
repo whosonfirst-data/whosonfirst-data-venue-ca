@@ -2,13 +2,14 @@
   "id": 185823287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.217377,45.281342,-73.217377,45.281342",
     "geom:latitude":45.281342,
     "geom:longitude":-73.217377,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785077,
+        102191575,
         85633041,
-        101738721
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"ce08984f4257057c8f04425d5fa535d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785077,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185823287
         }
     ],
     "wof:id":185823287,
-    "wof:lastmodified":1449008177,
+    "wof:lastmodified":1453927385,
     "wof:name":"Groupe Symaco Inc",
     "wof:parent_id":85785077,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.217377,45.281342,-73.217377,45.281342],
+  "bbox": [
+    -73.217377,
+    45.281342,
+    -73.217377,
+    45.281342
+],
   "geometry": {"coordinates":[-73.217377,45.281342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169479435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567635,45.516056,-73.567635,45.516056",
     "geom:latitude":45.516056,
     "geom:longitude":-73.567635,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"318 Rue Sherbrooke E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"4ac647e1aa42080caac8a67baa6315ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":169479435
         }
     ],
     "wof:id":169479435,
-    "wof:lastmodified":1449034952,
+    "wof:lastmodified":1453931177,
     "wof:name":"Locomotion Inc",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.567635,45.516056,-73.567635,45.516056],
+  "bbox": [
+    -73.567635,
+    45.516056,
+    -73.567635,
+    45.516056
+],
   "geometry": {"coordinates":[-73.567635,45.516056],"type":"Point"}
 }

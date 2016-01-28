@@ -2,13 +2,14 @@
   "id": 169456209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.506927,45.500813,-73.506927,45.500813",
     "geom:latitude":45.500813,
     "geom:longitude":-73.506927,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"650 Av Notre-Dame",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ada83d40d49edfc6acfb9fb034802f63",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":169456209
         }
     ],
     "wof:id":169456209,
-    "wof:lastmodified":1449033667,
+    "wof:lastmodified":1453929794,
     "wof:name":"Multi-Art Inc",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.506927,45.500813,-73.506927,45.500813],
+  "bbox": [
+    -73.506927,
+    45.500813,
+    -73.506927,
+    45.500813
+],
   "geometry": {"coordinates":[-73.506927,45.500813],"type":"Point"}
 }

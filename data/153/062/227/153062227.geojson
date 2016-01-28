@@ -2,13 +2,14 @@
   "id": 153062227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.645332,45.568623,-73.645332,45.568623",
     "geom:latitude":45.568623,
     "geom:longitude":-73.645332,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2098 Rue Sauve E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"18c3b52e99d56da0a7c87f353443dfb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":153062227
         }
     ],
     "wof:id":153062227,
-    "wof:lastmodified":1449040797,
+    "wof:lastmodified":1453932706,
     "wof:name":"Caserta Photo Studio",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.645332,45.568623,-73.645332,45.568623],
+  "bbox": [
+    -73.645332,
+    45.568623,
+    -73.645332,
+    45.568623
+],
   "geometry": {"coordinates":[-73.645332,45.568623],"type":"Point"}
 }

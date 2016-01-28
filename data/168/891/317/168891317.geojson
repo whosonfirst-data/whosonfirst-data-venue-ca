@@ -2,13 +2,14 @@
   "id": 168891317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.366493,43.014351,-82.366493,43.014351",
     "geom:latitude":43.014351,
     "geom:longitude":-82.366493,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1135 Lakeshore Rd",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875569,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"ff8c0a2114b7392bea6ba8e2aa66051e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875569,
+            "region_id":85682057,
+            "venue_id":168891317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875569,
             "region_id":85682057,
             "venue_id":168891317
         }
     ],
     "wof:id":168891317,
-    "wof:lastmodified":1449028256,
+    "wof:lastmodified":1453928317,
     "wof:name":"Lorraine's Hair Styling",
     "wof:parent_id":85875569,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.366493,43.014351,-82.366493,43.014351],
-  "geometry": {"coordinates":[-82.366493,43.014351],"type":"Point"}
+  "bbox": [
+    -82.366493,
+    43.014351,
+    -82.366493,
+    43.014351
+],
+  "geometry": {"coordinates":[-82.36649300000001,43.014351],"type":"Point"}
 }

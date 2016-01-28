@@ -2,13 +2,14 @@
   "id": 169011551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.501083,45.481098,-73.501083,45.481098",
     "geom:latitude":45.481098,
     "geom:longitude":-73.501083,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875769,
+        102191575,
         85633041,
-        85875769
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"5a5c72f0ba087b536f7f4397674052b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875769,
+            "region_id":136251273,
             "venue_id":169011551
         }
     ],
     "wof:id":169011551,
-    "wof:lastmodified":1449035355,
+    "wof:lastmodified":1453931562,
     "wof:name":"Preville Ecole",
     "wof:parent_id":85875769,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.501083,45.481098,-73.501083,45.481098],
-  "geometry": {"coordinates":[-73.501083,45.481098],"type":"Point"}
+  "bbox": [
+    -73.501083,
+    45.481098,
+    -73.501083,
+    45.481098
+],
+  "geometry": {"coordinates":[-73.50108299999999,45.481098],"type":"Point"}
 }

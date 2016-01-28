@@ -2,13 +2,14 @@
   "id": 168863511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.736458,45.471821,-73.736458,45.471821",
     "geom:latitude":45.471821,
     "geom:longitude":-73.736458,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7373 Boul DE LA Cote-Vertu",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        102554351,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,21 +40,29 @@
     "wof:geomhash":"3f169dffbaff029a08b3f1072c7c9bd4",
     "wof:hierarchy":[
         {
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":168863511
         }
     ],
     "wof:id":168863511,
-    "wof:lastmodified":1449028301,
+    "wof:lastmodified":1453928372,
     "wof:name":"Mtce",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.736458,45.471821,-73.736458,45.471821],
+  "bbox": [
+    -73.736458,
+    45.471821,
+    -73.736458,
+    45.471821
+],
   "geometry": {"coordinates":[-73.736458,45.471821],"type":"Point"}
 }

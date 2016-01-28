@@ -2,13 +2,14 @@
   "id": 169203091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.736641,43.759243,-79.736641,43.759243",
     "geom:latitude":43.759243,
     "geom:longitude":-79.736641,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"19 Eagleridge Dr",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7dc7a382e58b82f92c5beb4bbc588d84",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":169203091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":169203091
         }
     ],
     "wof:id":169203091,
-    "wof:lastmodified":1449034133,
+    "wof:lastmodified":1453930321,
     "wof:name":"Equip Net Direct",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.736641,43.759243,-79.736641,43.759243],
-  "geometry": {"coordinates":[-79.736641,43.759243],"type":"Point"}
+  "bbox": [
+    -79.736641,
+    43.759243,
+    -79.736641,
+    43.759243
+],
+  "geometry": {"coordinates":[-79.73664100000001,43.759243],"type":"Point"}
 }

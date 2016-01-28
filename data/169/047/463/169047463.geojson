@@ -2,13 +2,14 @@
   "id": 169047463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.239944,43.896507,-79.239944,43.896507",
     "geom:latitude":43.896507,
     "geom:longitude":-79.239944,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"49 Spragg Cir",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895017,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7b862cad8f142f5c42366b98dcf2bf1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895017,
+            "region_id":85682057,
+            "venue_id":169047463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895017,
             "region_id":85682057,
             "venue_id":169047463
         }
     ],
     "wof:id":169047463,
-    "wof:lastmodified":1449034813,
+    "wof:lastmodified":1453931045,
     "wof:name":"Nazareth Gospel Temple",
     "wof:parent_id":85895017,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.239944,43.896507,-79.239944,43.896507],
-  "geometry": {"coordinates":[-79.239944,43.896507],"type":"Point"}
+  "bbox": [
+    -79.239944,
+    43.896507,
+    -79.239944,
+    43.896507
+],
+  "geometry": {"coordinates":[-79.23994399999999,43.896507],"type":"Point"}
 }

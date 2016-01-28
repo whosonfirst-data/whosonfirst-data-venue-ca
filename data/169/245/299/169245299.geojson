@@ -2,13 +2,14 @@
   "id": 169245299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.561691,45.460552,-73.561691,45.460552",
     "geom:latitude":45.460552,
     "geom:longitude":-73.561691,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"30 Allee Des Brises Du Fleuve",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874363,
+        102191575,
         85633041,
-        85874363
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a14dca3c1277c65c962f520f86a510a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
+            "region_id":136251273,
             "venue_id":169245299
         }
     ],
     "wof:id":169245299,
-    "wof:lastmodified":1449035854,
+    "wof:lastmodified":1453932141,
     "wof:name":"B M Ressources Informatiques",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.561691,45.460552,-73.561691,45.460552],
+  "bbox": [
+    -73.561691,
+    45.460552,
+    -73.561691,
+    45.460552
+],
   "geometry": {"coordinates":[-73.561691,45.460552],"type":"Point"}
 }

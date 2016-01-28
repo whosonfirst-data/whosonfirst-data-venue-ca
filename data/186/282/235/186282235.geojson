@@ -2,13 +2,14 @@
   "id": 186282235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.203064,45.567078,-73.203064,45.567078",
     "geom:latitude":45.567078,
     "geom:longitude":-73.203064,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"777 Rue Laurier",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894595,
+        102191575,
         85633041,
-        101737201
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"d1017adb6de4d86d3ec837d518b8372a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894595,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186282235
         }
     ],
     "wof:id":186282235,
-    "wof:lastmodified":1449052047,
+    "wof:lastmodified":1453936770,
     "wof:name":"Ville DE Beloeil",
     "wof:parent_id":85894595,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "village"
     ]
 },
-  "bbox": [-73.203064,45.567078,-73.203064,45.567078],
+  "bbox": [
+    -73.203064,
+    45.567078,
+    -73.203064,
+    45.567078
+],
   "geometry": {"coordinates":[-73.203064,45.567078],"type":"Point"}
 }

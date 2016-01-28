@@ -2,13 +2,14 @@
   "id": 152566565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831497,45.469582,-73.831497,45.469582",
     "geom:latitude":45.469582,
     "geom:longitude":-73.831497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875799,
+        102191575,
         85633041,
-        85875799
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"6c7e74c922fcecec7992091e5ad844df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875799,
+            "region_id":136251273,
             "venue_id":152566565
         }
     ],
     "wof:id":152566565,
-    "wof:lastmodified":1449044392,
+    "wof:lastmodified":1453932893,
     "wof:name":"Finesses D'Orient",
     "wof:parent_id":85875799,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.831497,45.469582,-73.831497,45.469582],
+  "bbox": [
+    -73.831497,
+    45.469582,
+    -73.831497,
+    45.469582
+],
   "geometry": {"coordinates":[-73.831497,45.469582],"type":"Point"}
 }

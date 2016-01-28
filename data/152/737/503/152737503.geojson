@@ -2,13 +2,14 @@
   "id": 152737503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.304573,44.301441,-78.304573,44.301441",
     "geom:latitude":44.301441,
     "geom:longitude":-78.304573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"222 Rogers St",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"b0e131c8bfffa39b06a0fff59645d9d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":152737503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":152737503
         }
     ],
     "wof:id":152737503,
-    "wof:lastmodified":1449045338,
+    "wof:lastmodified":1453933621,
     "wof:name":"Bloton Disc Jockey Svc",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.304573,44.301441,-78.304573,44.301441],
+  "bbox": [
+    -78.304573,
+    44.301441,
+    -78.304573,
+    44.301441
+],
   "geometry": {"coordinates":[-78.304573,44.301441],"type":"Point"}
 }

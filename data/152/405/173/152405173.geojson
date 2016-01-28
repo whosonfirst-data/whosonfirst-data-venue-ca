@@ -2,13 +2,14 @@
   "id": 152405173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.519447,53.56731,-113.519447,53.56731",
     "geom:latitude":53.56731,
     "geom:longitude":-113.519447,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"36 Airport Rd NW",
     "sg:city":"Edmonton",
     "sg:classifiers":[
@@ -31,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633041,
+        102554483,
         85874655,
         85682091
     ],
@@ -42,6 +44,7 @@
     "wof:geomhash":"99a3610427d89d511777fa55a5207ebf",
     "wof:hierarchy":[
         {
+            "campus_id":102554483,
             "country_id":85633041,
             "neighbourhood_id":85874655,
             "region_id":85682091,
@@ -49,14 +52,19 @@
         }
     ],
     "wof:id":152405173,
-    "wof:lastmodified":1449048537,
+    "wof:lastmodified":1453936057,
     "wof:name":"Ifr Precision Instruments",
-    "wof:parent_id":85874655,
+    "wof:parent_id":102554483,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.519447,53.56731,-113.519447,53.56731],
+  "bbox": [
+    -113.519447,
+    53.56731,
+    -113.519447,
+    53.56731
+],
   "geometry": {"coordinates":[-113.519447,53.56731],"type":"Point"}
 }

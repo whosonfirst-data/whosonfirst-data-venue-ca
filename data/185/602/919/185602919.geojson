@@ -2,13 +2,14 @@
   "id": 185602919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.317787,46.807934,-71.317787,46.807934",
     "geom:latitude":46.807934,
     "geom:longitude":-71.317787,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2070 Boul Masson",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874721,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"dbcf2b2bc33859eabb8bc0611705db05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185602919
         }
     ],
     "wof:id":185602919,
-    "wof:lastmodified":1449007368,
+    "wof:lastmodified":1453927294,
     "wof:name":"Boucherie Les Saules",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "butchering"
     ]
 },
-  "bbox": [-71.317787,46.807934,-71.317787,46.807934],
+  "bbox": [
+    -71.317787,
+    46.807934,
+    -71.317787,
+    46.807934
+],
   "geometry": {"coordinates":[-71.317787,46.807934],"type":"Point"}
 }

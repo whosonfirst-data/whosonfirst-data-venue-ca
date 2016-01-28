@@ -2,13 +2,14 @@
   "id": 169107995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.608566,45.469841,-73.608566,45.469841",
     "geom:latitude":45.469841,
     "geom:longitude":-73.608566,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5573 Ch Upper-Lachine",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897531,
+        102191575,
         85633041,
-        85897531
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b06fbf8a021377d722e96dab1337a426",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897531,
+            "region_id":136251273,
             "venue_id":169107995
         }
     ],
     "wof:id":169107995,
-    "wof:lastmodified":1449032703,
+    "wof:lastmodified":1453928814,
     "wof:name":"Charcuterie St-Raymond",
     "wof:parent_id":85897531,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.608566,45.469841,-73.608566,45.469841],
+  "bbox": [
+    -73.608566,
+    45.469841,
+    -73.608566,
+    45.469841
+],
   "geometry": {"coordinates":[-73.608566,45.469841],"type":"Point"}
 }

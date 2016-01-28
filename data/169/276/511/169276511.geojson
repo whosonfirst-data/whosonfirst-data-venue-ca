@@ -2,13 +2,14 @@
   "id": 169276511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.33123,48.436699,-123.33123,48.436699",
     "geom:latitude":48.436699,
     "geom:longitude":-123.33123,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1727 Carrick St",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740879,
-        85633041,
         85875105,
+        102191575,
+        85633041,
+        101740879,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"777788fa9d91d43304eb4c9c5bfd475e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740879,
             "neighbourhood_id":85875105,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":169276511,
-    "wof:lastmodified":1449032808,
+    "wof:lastmodified":1453928940,
     "wof:name":"Fultech Services Inc",
     "wof:parent_id":85875105,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.33123,48.436699,-123.33123,48.436699],
-  "geometry": {"coordinates":[-123.33123,48.436699],"type":"Point"}
+  "bbox": [
+    -123.33123,
+    48.436699,
+    -123.33123,
+    48.436699
+],
+  "geometry": {"coordinates":[-123.33123000000001,48.436699],"type":"Point"}
 }

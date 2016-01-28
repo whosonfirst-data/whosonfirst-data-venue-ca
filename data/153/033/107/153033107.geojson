@@ -2,13 +2,14 @@
   "id": 153033107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.253487,43.000294,-81.253487,43.000294",
     "geom:latitude":43.000294,
     "geom:longitude":-81.253487,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"268 Grosvenor St # 117",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874939,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KD71zkJLeN9XSx0Q5B4SW_43.000294_-81.253487@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d1f3dacbce38015f997d96fd210a3b03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
+            "region_id":85682057,
+            "venue_id":153033107
+        }
+    ],
     "wof:id":153033107,
-    "wof:lastmodified":1449040431,
+    "wof:lastmodified":1453932384,
     "wof:name":"Paulter, Steve MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.253487,43.000294,-81.253487,43.000294],
-  "geometry": {"coordinates":[-81.253487,43.000294],"type":"Point"}
+  "bbox": [
+    -81.253487,
+    43.000294,
+    -81.253487,
+    43.000294
+],
+  "geometry": {"coordinates":[-81.25348700000001,43.000294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152285867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.292122,43.534439,-80.292122,43.534439",
     "geom:latitude":43.534439,
     "geom:longitude":-80.292122,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"334 Westwood Rd",
     "sg:city":"Guelph",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875521,
-        85682057
+        102191575,
+        85633041,
+        101735927,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"6f2c48838369f09405f56c9de069ad56",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735927,
+            "neighbourhood_id":85875521,
+            "region_id":85682057,
+            "venue_id":152285867
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875521,
             "region_id":85682057,
             "venue_id":152285867
         }
     ],
     "wof:id":152285867,
-    "wof:lastmodified":1449044427,
+    "wof:lastmodified":1453932919,
     "wof:name":"Pan Video Svc",
     "wof:parent_id":85875521,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.292122,43.534439,-80.292122,43.534439],
-  "geometry": {"coordinates":[-80.292122,43.534439],"type":"Point"}
+  "bbox": [
+    -80.292122,
+    43.534439,
+    -80.292122,
+    43.534439
+],
+  "geometry": {"coordinates":[-80.29212200000001,43.534439],"type":"Point"}
 }

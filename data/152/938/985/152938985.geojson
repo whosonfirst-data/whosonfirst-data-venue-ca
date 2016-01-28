@@ -2,13 +2,14 @@
   "id": 152938985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.933388,45.398125,-71.933388,45.398125",
     "geom:latitude":45.398125,
     "geom:longitude":-71.933388,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2504 Rue King O",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874131,
+        102191575,
         85633041,
-        85874131
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c807d8a2e448b54c768fee466f0c6699",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
+            "region_id":136251273,
             "venue_id":152938985
         }
     ],
     "wof:id":152938985,
-    "wof:lastmodified":1449047749,
+    "wof:lastmodified":1453935461,
     "wof:name":"Entrepot Du Travailleur",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.933388,45.398125,-71.933388,45.398125],
-  "geometry": {"coordinates":[-71.933388,45.398125],"type":"Point"}
+  "bbox": [
+    -71.933388,
+    45.398125,
+    -71.933388,
+    45.398125
+],
+  "geometry": {"coordinates":[-71.93338799999999,45.398125],"type":"Point"}
 }

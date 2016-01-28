@@ -2,13 +2,14 @@
   "id": 152989953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.858284,43.518978,-79.858284,43.518978",
     "geom:latitude":43.518978,
     "geom:longitude":-79.858284,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"872 Anderson Ave",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895533,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f0aa8c84826257c388fd85959c1b1676",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895533,
+            "region_id":85682057,
+            "venue_id":152989953
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895533,
             "region_id":85682057,
             "venue_id":152989953
         }
     ],
     "wof:id":152989953,
-    "wof:lastmodified":1449047692,
+    "wof:lastmodified":1453935418,
     "wof:name":"Compaction Plus",
     "wof:parent_id":85895533,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.858284,43.518978,-79.858284,43.518978],
+  "bbox": [
+    -79.858284,
+    43.518978,
+    -79.858284,
+    43.518978
+],
   "geometry": {"coordinates":[-79.858284,43.518978],"type":"Point"}
 }

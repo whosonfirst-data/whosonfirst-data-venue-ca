@@ -2,13 +2,14 @@
   "id": 203402015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237106,43.499565,-80.237106,43.499565",
     "geom:latitude":43.499565,
     "geom:longitude":-80.237106,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Guelph",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875535,
+        102191575,
         85633041,
-        85682057
+        101735909,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"806b65751f2eb1545dd3903bd79b3681",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735909,
+            "neighbourhood_id":85875535,
+            "region_id":85682057,
+            "venue_id":203402015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875535,
             "region_id":85682057,
             "venue_id":203402015
         }
     ],
     "wof:id":203402015,
-    "wof:lastmodified":1449025520,
+    "wof:lastmodified":1453927518,
     "wof:name":"Morishita, Kevin H MD",
     "wof:parent_id":85875535,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.237106,43.499565,-80.237106,43.499565],
+  "bbox": [
+    -80.237106,
+    43.499565,
+    -80.237106,
+    43.499565
+],
   "geometry": {"coordinates":[-80.237106,43.499565],"type":"Point"}
 }

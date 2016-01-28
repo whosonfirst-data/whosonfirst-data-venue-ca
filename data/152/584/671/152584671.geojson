@@ -2,13 +2,14 @@
   "id": 152584671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.6903,44.409107,-79.6903,44.409107",
     "geom:latitude":44.409107,
     "geom:longitude":-79.6903,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"135 Daphne Cres",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "archaeologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875267,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sKagStdv6ds0yCDqGuDuy_44.409107_-79.690300@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"834c3b3d865c400302c3ca7ed5269fde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875267,
+            "region_id":85682057,
+            "venue_id":152584671
+        }
+    ],
     "wof:id":152584671,
-    "wof:lastmodified":1449044812,
+    "wof:lastmodified":1453933217,
     "wof:name":"Archaeological Assessments Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.6903,44.409107,-79.6903,44.409107],
-  "geometry": {"coordinates":[-79.6903,44.409107],"type":"Point"}
+  "bbox": [
+    -79.6903,
+    44.409107,
+    -79.6903,
+    44.409107
+],
+  "geometry": {"coordinates":[-79.69029999999999,44.409107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152801887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.428902,43.897362,-79.428902,43.897362",
     "geom:latitude":43.897362,
     "geom:longitude":-79.428902,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895003,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"fc40940e35f3960f89dce38f86dd61c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895003,
+            "region_id":85682057,
+            "venue_id":152801887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895003,
             "region_id":85682057,
             "venue_id":152801887
         }
     ],
     "wof:id":152801887,
-    "wof:lastmodified":1449048105,
+    "wof:lastmodified":1453935726,
     "wof:name":"Modular Window Systems Inc",
     "wof:parent_id":85895003,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.428902,43.897362,-79.428902,43.897362],
-  "geometry": {"coordinates":[-79.428902,43.897362],"type":"Point"}
+  "bbox": [
+    -79.428902,
+    43.897362,
+    -79.428902,
+    43.897362
+],
+  "geometry": {"coordinates":[-79.42890199999999,43.897362],"type":"Point"}
 }

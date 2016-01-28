@@ -2,13 +2,14 @@
   "id": 169379269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.658493,44.406803,-79.658493,44.406803",
     "geom:latitude":44.406803,
     "geom:longitude":-79.658493,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2 Mccuaig Crt",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875263,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SUwZlFXXoLRiLEHgaV3T9_44.406803_-79.658493@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"a3e481b338e40cd0e3e43a3157bc7ca8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875263,
+            "region_id":85682057,
+            "venue_id":169379269
+        }
+    ],
     "wof:id":169379269,
-    "wof:lastmodified":1449034606,
+    "wof:lastmodified":1453930810,
     "wof:name":"Cgv Entertainment",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.658493,44.406803,-79.658493,44.406803],
-  "geometry": {"coordinates":[-79.658493,44.406803],"type":"Point"}
+  "bbox": [
+    -79.658493,
+    44.406803,
+    -79.658493,
+    44.406803
+],
+  "geometry": {"coordinates":[-79.65849300000001,44.406803],"type":"Point"}
 }

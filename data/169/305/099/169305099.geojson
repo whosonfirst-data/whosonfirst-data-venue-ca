@@ -2,13 +2,14 @@
   "id": 169305099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.547615,45.575958,-73.547615,45.575958",
     "geom:latitude":45.575958,
     "geom:longitude":-73.547615,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5897 Rue Sherbrooke O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874169,
+        102191575,
         85633041,
-        85874169
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"118ef9d088532ddc8bc5001e222b8505",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
+            "region_id":136251273,
             "venue_id":169305099
         }
     ],
     "wof:id":169305099,
-    "wof:lastmodified":1449033194,
+    "wof:lastmodified":1453929296,
     "wof:name":"International Sun Video",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.547615,45.575958,-73.547615,45.575958],
-  "geometry": {"coordinates":[-73.547615,45.575958],"type":"Point"}
+  "bbox": [
+    -73.547615,
+    45.575958,
+    -73.547615,
+    45.575958
+],
+  "geometry": {"coordinates":[-73.54761499999999,45.575958],"type":"Point"}
 }

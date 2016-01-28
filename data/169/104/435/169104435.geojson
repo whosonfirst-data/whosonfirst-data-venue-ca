@@ -2,13 +2,14 @@
   "id": 169104435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.628143,45.502918,-73.628143,45.502918",
     "geom:latitude":45.502918,
     "geom:longitude":-73.628143,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5945 Rue Souart # 3",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897525,
+        102191575,
         85633041,
-        85897525
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f524aaa4af644c50552289e36ca9cd39",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897525,
+            "region_id":136251273,
             "venue_id":169104435
         }
     ],
     "wof:id":169104435,
-    "wof:lastmodified":1449034041,
+    "wof:lastmodified":1453930223,
     "wof:name":"Action Electrique",
     "wof:parent_id":85897525,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.628143,45.502918,-73.628143,45.502918],
-  "geometry": {"coordinates":[-73.628143,45.502918],"type":"Point"}
+  "bbox": [
+    -73.628143,
+    45.502918,
+    -73.628143,
+    45.502918
+],
+  "geometry": {"coordinates":[-73.62814299999999,45.502918],"type":"Point"}
 }

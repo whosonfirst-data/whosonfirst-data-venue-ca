@@ -2,13 +2,14 @@
   "id": 169174257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.664413,44.351284,-79.664413,44.351284",
     "geom:latitude":44.351284,
     "geom:longitude":-79.664413,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"421 Huronia Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -32,23 +33,43 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864601,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DthYVwJfcERViDawiRWs8_44.351284_-79.664413@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4bdec29f72b3f3ceff2f1fe96ea2717a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85864601,
+            "region_id":85682057,
+            "venue_id":169174257
+        }
+    ],
     "wof:id":169174257,
-    "wof:lastmodified":1449033135,
+    "wof:lastmodified":1453929253,
     "wof:name":"Barrie Carpet & Tile Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864601,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.664413,44.351284,-79.664413,44.351284],
+  "bbox": [
+    -79.664413,
+    44.351284,
+    -79.664413,
+    44.351284
+],
   "geometry": {"coordinates":[-79.664413,44.351284],"type":"Point"}
 }

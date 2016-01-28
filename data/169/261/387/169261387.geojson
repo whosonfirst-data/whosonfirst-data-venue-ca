@@ -2,13 +2,14 @@
   "id": 169261387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.228706,43.019684,-81.228706,43.019684",
     "geom:latitude":43.019684,
     "geom:longitude":-81.228706,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1151 Melsandra Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5Y 4N8",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JFVDFhovZusxfdxKqMq9b_43.019684_-81.228706@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b02c09934424060f43de2735fd9d2262",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":169261387
+        }
+    ],
     "wof:id":169261387,
-    "wof:lastmodified":1449032738,
+    "wof:lastmodified":1453928854,
     "wof:name":"Douglas Paul Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.228706,43.019684,-81.228706,43.019684],
+  "bbox": [
+    -81.228706,
+    43.019684,
+    -81.228706,
+    43.019684
+],
   "geometry": {"coordinates":[-81.228706,43.019684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169050509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.849716,45.487984,-73.849716,45.487984",
     "geom:latitude":45.487984,
     "geom:longitude":-73.849716,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4718 Boul Saint-Jean",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784833,
+        102191575,
         85633041,
-        85784833
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"fc45b078c518665202edb9d5066d4e5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784833,
+            "region_id":136251273,
             "venue_id":169050509
         }
     ],
     "wof:id":169050509,
-    "wof:lastmodified":1449034508,
+    "wof:lastmodified":1453930696,
     "wof:name":"Sticky Grafix",
     "wof:parent_id":85784833,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.849716,45.487984,-73.849716,45.487984],
+  "bbox": [
+    -73.849716,
+    45.487984,
+    -73.849716,
+    45.487984
+],
   "geometry": {"coordinates":[-73.849716,45.487984],"type":"Point"}
 }

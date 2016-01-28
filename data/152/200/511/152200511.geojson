@@ -2,13 +2,14 @@
   "id": 152200511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.70993,44.385864,-79.70993,44.385864",
     "geom:latitude":44.385864,
     "geom:longitude":-79.70993,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0754ruYUKWg5GnjuInDoby_44.385864_-79.709930@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"dc0712be268709ac4325557b8438b796",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":152200511
+        }
+    ],
     "wof:id":152200511,
-    "wof:lastmodified":1449046159,
+    "wof:lastmodified":1453934238,
     "wof:name":"Edgehill Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.70993,44.385864,-79.70993,44.385864],
+  "bbox": [
+    -79.70993,
+    44.385864,
+    -79.70993,
+    44.385864
+],
   "geometry": {"coordinates":[-79.70993,44.385864],"type":"Point"}
 }

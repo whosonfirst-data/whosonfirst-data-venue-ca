@@ -2,13 +2,14 @@
   "id": 169505059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.468124,45.489552,-73.468124,45.489552",
     "geom:latitude":45.489552,
     "geom:longitude":-73.468124,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897549,
+        102191575,
         85633041,
-        85897549
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"740d33783473392865b9fb257e8d3574",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897549,
+            "region_id":136251273,
             "venue_id":169505059
         }
     ],
     "wof:id":169505059,
-    "wof:lastmodified":1449035425,
+    "wof:lastmodified":1453931635,
     "wof:name":"Pavillon St Hubert",
     "wof:parent_id":85897549,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.468124,45.489552,-73.468124,45.489552],
+  "bbox": [
+    -73.468124,
+    45.489552,
+    -73.468124,
+    45.489552
+],
   "geometry": {"coordinates":[-73.468124,45.489552],"type":"Point"}
 }

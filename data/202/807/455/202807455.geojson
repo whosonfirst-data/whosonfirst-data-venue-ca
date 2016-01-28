@@ -2,13 +2,14 @@
   "id": 202807455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.604385,45.554661,-73.604385,45.554661",
     "geom:latitude":45.554661,
     "geom:longitude":-73.604385,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2536 Rue Everett",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871109,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"90394229e2ee9b2ecdb8c7a68814a1e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202807455
         }
     ],
     "wof:id":202807455,
-    "wof:lastmodified":1449060763,
+    "wof:lastmodified":1453937114,
     "wof:name":"Eglise Baptista Sinai",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "church"
     ]
 },
-  "bbox": [-73.604385,45.554661,-73.604385,45.554661],
-  "geometry": {"coordinates":[-73.604385,45.554661],"type":"Point"}
+  "bbox": [
+    -73.604385,
+    45.554661,
+    -73.604385,
+    45.554661
+],
+  "geometry": {"coordinates":[-73.60438499999999,45.554661],"type":"Point"}
 }

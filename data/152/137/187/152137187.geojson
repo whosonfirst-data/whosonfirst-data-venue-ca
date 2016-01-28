@@ -2,13 +2,14 @@
   "id": 152137187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.76915,45.548656,-73.76915,45.548656",
     "geom:latitude":45.548656,
     "geom:longitude":-73.76915,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4385 Boul Saint-Martin O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875061,
+        102191575,
         85633041,
-        85875061
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c89f5270401b0541f1c1eb0521579f5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875061,
+            "region_id":136251273,
             "venue_id":152137187
         }
     ],
     "wof:id":152137187,
-    "wof:lastmodified":1449048283,
+    "wof:lastmodified":1453935853,
     "wof:name":"Boulangerie Patisserie Miguel",
     "wof:parent_id":85875061,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.76915,45.548656,-73.76915,45.548656],
+  "bbox": [
+    -73.76915,
+    45.548656,
+    -73.76915,
+    45.548656
+],
   "geometry": {"coordinates":[-73.76915,45.548656],"type":"Point"}
 }

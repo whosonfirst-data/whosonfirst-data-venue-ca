@@ -2,13 +2,14 @@
   "id": 152868693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.718216,43.721527,-79.718216,43.721527",
     "geom:latitude":43.721527,
     "geom:longitude":-79.718216,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15 Kensington Rd",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d7921127979e4906009f1797099c381e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152868693
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152868693
         }
     ],
     "wof:id":152868693,
-    "wof:lastmodified":1449044503,
+    "wof:lastmodified":1453932980,
     "wof:name":"Peel Condominium Corp",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.718216,43.721527,-79.718216,43.721527],
+  "bbox": [
+    -79.718216,
+    43.721527,
+    -79.718216,
+    43.721527
+],
   "geometry": {"coordinates":[-79.718216,43.721527],"type":"Point"}
 }

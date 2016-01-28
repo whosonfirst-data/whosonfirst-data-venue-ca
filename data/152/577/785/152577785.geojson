@@ -2,13 +2,14 @@
   "id": 152577785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.751396,45.454407,-73.751396,45.454407",
     "geom:latitude":45.454407,
     "geom:longitude":-73.751396,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"700 Place Leigh-Capreol",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        102554351,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,21 +43,29 @@
     "wof:geomhash":"5e7198eda52f6f311013a5f03d117c8c",
     "wof:hierarchy":[
         {
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":152577785
         }
     ],
     "wof:id":152577785,
-    "wof:lastmodified":1449049037,
+    "wof:lastmodified":1453936464,
     "wof:name":"Laliberte & Assoc Inc",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.751396,45.454407,-73.751396,45.454407],
+  "bbox": [
+    -73.751396,
+    45.454407,
+    -73.751396,
+    45.454407
+],
   "geometry": {"coordinates":[-73.751396,45.454407],"type":"Point"}
 }

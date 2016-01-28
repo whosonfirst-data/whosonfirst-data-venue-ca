@@ -2,13 +2,14 @@
   "id": 186210659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.709732,43.434311,-79.709732,43.434311",
     "geom:latitude":43.434311,
     "geom:longitude":-79.709732,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1081 South Service Rd W",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895183,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"f5bf18f27659de6e6c20ecff48c00481",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895183,
+            "region_id":85682057,
+            "venue_id":186210659
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895183,
             "region_id":85682057,
             "venue_id":186210659
         }
     ],
     "wof:id":186210659,
-    "wof:lastmodified":1449051300,
+    "wof:lastmodified":1453936634,
     "wof:name":"NU Air Windows & Doors",
     "wof:parent_id":85895183,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "windows"
     ]
 },
-  "bbox": [-79.709732,43.434311,-79.709732,43.434311],
+  "bbox": [
+    -79.709732,
+    43.434311,
+    -79.709732,
+    43.434311
+],
   "geometry": {"coordinates":[-79.709732,43.434311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185608535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.721893,45.484291,-73.721893,45.484291",
     "geom:latitude":45.484291,
     "geom:longitude":-73.721893,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1405 Rue Saint-Amour",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784727,
+        102191575,
         85633041,
-        101736475
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"bbc422b6493654e9dde1d6c05bdccc6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185608535
         }
     ],
     "wof:id":185608535,
-    "wof:lastmodified":1449007294,
+    "wof:lastmodified":1453927277,
     "wof:name":"Car System Distribution Inc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.721893,45.484291,-73.721893,45.484291],
-  "geometry": {"coordinates":[-73.721893,45.484291],"type":"Point"}
+  "bbox": [
+    -73.721893,
+    45.484291,
+    -73.721893,
+    45.484291
+],
+  "geometry": {"coordinates":[-73.72189299999999,45.484291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152232299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.688591,45.572769,-73.688591,45.572769",
     "geom:latitude":45.572769,
     "geom:longitude":-73.688591,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"102 Boul DE LA Concorde E",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875069,
+        102191575,
         85633041,
-        85875069
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"11d02202d65c78cf7eb36870e1ba209e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
+            "region_id":136251273,
             "venue_id":152232299
         }
     ],
     "wof:id":152232299,
-    "wof:lastmodified":1449045793,
+    "wof:lastmodified":1453933971,
     "wof:name":"France Mode",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.688591,45.572769,-73.688591,45.572769],
+  "bbox": [
+    -73.688591,
+    45.572769,
+    -73.688591,
+    45.572769
+],
   "geometry": {"coordinates":[-73.688591,45.572769],"type":"Point"}
 }

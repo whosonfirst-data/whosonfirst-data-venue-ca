@@ -2,13 +2,14 @@
   "id": 169804007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.511711,46.362976,-72.511711,46.362976",
     "geom:latitude":46.362976,
     "geom:longitude":-72.511711,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"109 Rue Brunelle",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874113,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"1022c9f9215bdce67d34459143153ffd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874113,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169804007
         }
     ],
     "wof:id":169804007,
-    "wof:lastmodified":1449034987,
+    "wof:lastmodified":1453931208,
     "wof:name":"Menagez-Vous Territoire Du",
     "wof:parent_id":85874113,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "janitor"
     ]
 },
-  "bbox": [-72.511711,46.362976,-72.511711,46.362976],
-  "geometry": {"coordinates":[-72.511711,46.362976],"type":"Point"}
+  "bbox": [
+    -72.511711,
+    46.362976,
+    -72.511711,
+    46.362976
+],
+  "geometry": {"coordinates":[-72.51171100000001,46.362976],"type":"Point"}
 }

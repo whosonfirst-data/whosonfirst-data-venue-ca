@@ -2,13 +2,14 @@
   "id": 152155275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.172035,46.807514,-71.172035,46.807514",
     "geom:latitude":46.807514,
     "geom:longitude":-71.172035,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"37 Rue Du Tisserand",
     "sg:city":"Levis",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866517,
+        102191575,
         85633041,
-        85866517
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"4275101581f912e07851def416a84294",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
+            "region_id":136251273,
             "venue_id":152155275
         }
     ],
     "wof:id":152155275,
-    "wof:lastmodified":1449048113,
+    "wof:lastmodified":1453935729,
     "wof:name":"Estampe Claro",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.172035,46.807514,-71.172035,46.807514],
-  "geometry": {"coordinates":[-71.172035,46.807514],"type":"Point"}
+  "bbox": [
+    -71.172035,
+    46.807514,
+    -71.172035,
+    46.807514
+],
+  "geometry": {"coordinates":[-71.17203499999999,46.807514],"type":"Point"}
 }

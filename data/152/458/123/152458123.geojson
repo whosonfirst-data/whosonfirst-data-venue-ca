@@ -2,13 +2,14 @@
   "id": 152458123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.644928,45.451401,-73.644928,45.451401",
     "geom:latitude":45.451401,
     "geom:longitude":-73.644928,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"19 Av Wolseley S",
     "sg:city":"Montreal-Ouest",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736483,
+        85784813,
+        102191575,
         85633041,
-        85784813
+        101736483,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"88b6f4ff49a077215786ca83cf833078",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736483,
             "neighbourhood_id":85784813,
+            "region_id":136251273,
             "venue_id":152458123
         }
     ],
     "wof:id":152458123,
-    "wof:lastmodified":1449047585,
+    "wof:lastmodified":1453935332,
     "wof:name":"Miller, Linda",
     "wof:parent_id":85784813,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.644928,45.451401,-73.644928,45.451401],
-  "geometry": {"coordinates":[-73.644928,45.451401],"type":"Point"}
+  "bbox": [
+    -73.644928,
+    45.451401,
+    -73.644928,
+    45.451401
+],
+  "geometry": {"coordinates":[-73.64492799999999,45.451401],"type":"Point"}
 }

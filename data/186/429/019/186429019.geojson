@@ -2,13 +2,14 @@
   "id": 186429019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.569839,45.503357,-73.569839,45.503357",
     "geom:latitude":45.503357,
     "geom:longitude":-73.569839,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1333 Rue University",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866501,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"aee8ded99500f875dcf772ca3c917f10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186429019
         }
     ],
     "wof:id":186429019,
-    "wof:lastmodified":1449052895,
+    "wof:lastmodified":1453936922,
     "wof:name":"Restaurant Le Parchemin Ltd",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.569839,45.503357,-73.569839,45.503357],
+  "bbox": [
+    -73.569839,
+    45.503357,
+    -73.569839,
+    45.503357
+],
   "geometry": {"coordinates":[-73.569839,45.503357],"type":"Point"}
 }

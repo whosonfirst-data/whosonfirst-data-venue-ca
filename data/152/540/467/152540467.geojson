@@ -2,13 +2,14 @@
   "id": 152540467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.564499,45.525986,-73.564499,45.525986",
     "geom:latitude":45.525986,
     "geom:longitude":-73.564499,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1474 Rue Sherbrooke O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5f8faf410e3829d5bda0d5db5e9b7ebe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":152540467
         }
     ],
     "wof:id":152540467,
-    "wof:lastmodified":1449046129,
+    "wof:lastmodified":1453934216,
     "wof:name":"Galerie Turenne",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.564499,45.525986,-73.564499,45.525986],
+  "bbox": [
+    -73.564499,
+    45.525986,
+    -73.564499,
+    45.525986
+],
   "geometry": {"coordinates":[-73.564499,45.525986],"type":"Point"}
 }

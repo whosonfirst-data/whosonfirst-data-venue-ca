@@ -2,13 +2,14 @@
   "id": 169120417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.462212,43.884472,-79.462212,43.884472",
     "geom:latitude":43.884472,
     "geom:longitude":-79.462212,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Tannery Crt",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895427,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d48ec12b2b23b73861172af0d98335b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895427,
+            "region_id":85682057,
+            "venue_id":169120417
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895427,
             "region_id":85682057,
             "venue_id":169120417
         }
     ],
     "wof:id":169120417,
-    "wof:lastmodified":1449035490,
+    "wof:lastmodified":1453931722,
     "wof:name":"Jido Studios Inc",
     "wof:parent_id":85895427,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.462212,43.884472,-79.462212,43.884472],
-  "geometry": {"coordinates":[-79.462212,43.884472],"type":"Point"}
+  "bbox": [
+    -79.462212,
+    43.884472,
+    -79.462212,
+    43.884472
+],
+  "geometry": {"coordinates":[-79.46221199999999,43.884472],"type":"Point"}
 }

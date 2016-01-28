@@ -2,13 +2,14 @@
   "id": 168911805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.428963,43.881763,-79.428963,43.881763",
     "geom:latitude":43.881763,
     "geom:longitude":-79.428963,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895349,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f5c52d0870e1b33f01c4c52aefdb873c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895349,
+            "region_id":85682057,
+            "venue_id":168911805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895349,
             "region_id":85682057,
             "venue_id":168911805
         }
     ],
     "wof:id":168911805,
-    "wof:lastmodified":1449028454,
+    "wof:lastmodified":1453928541,
     "wof:name":"Pools Plus Svc & Maintenance",
     "wof:parent_id":85895349,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.428963,43.881763,-79.428963,43.881763],
+  "bbox": [
+    -79.428963,
+    43.881763,
+    -79.428963,
+    43.881763
+],
   "geometry": {"coordinates":[-79.428963,43.881763],"type":"Point"}
 }

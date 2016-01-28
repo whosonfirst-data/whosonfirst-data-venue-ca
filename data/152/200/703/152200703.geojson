@@ -2,13 +2,14 @@
   "id": 152200703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.493141,43.782001,-79.493141,43.782001",
     "geom:latitude":43.782001,
     "geom:longitude":-79.493141,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2180 Steeles Ave W # 78",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895133,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"d0ea02129fa15f8b663f3a550cb135fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":152200703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":152200703
         }
     ],
     "wof:id":152200703,
-    "wof:lastmodified":1449046158,
+    "wof:lastmodified":1453934237,
     "wof:name":"IL Tegame Restaurant",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.493141,43.782001,-79.493141,43.782001],
-  "geometry": {"coordinates":[-79.493141,43.782001],"type":"Point"}
+  "bbox": [
+    -79.493141,
+    43.782001,
+    -79.493141,
+    43.782001
+],
+  "geometry": {"coordinates":[-79.49314099999999,43.782001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169495283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.238853,43.194923,-79.238853,43.194923",
     "geom:latitude":43.194923,
     "geom:longitude":-79.238853,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"276 Linwell Rd",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875041,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"cc8a497287790d206ac0eb35f07fe236",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875041,
+            "region_id":85682057,
+            "venue_id":169495283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875041,
             "region_id":85682057,
             "venue_id":169495283
         }
     ],
     "wof:id":169495283,
-    "wof:lastmodified":1449034126,
+    "wof:lastmodified":1453930315,
     "wof:name":"Teodorini, I MD",
     "wof:parent_id":85875041,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.238853,43.194923,-79.238853,43.194923],
-  "geometry": {"coordinates":[-79.238853,43.194923],"type":"Point"}
+  "bbox": [
+    -79.238853,
+    43.194923,
+    -79.238853,
+    43.194923
+],
+  "geometry": {"coordinates":[-79.23885300000001,43.194923],"type":"Point"}
 }

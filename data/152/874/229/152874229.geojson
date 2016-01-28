@@ -2,13 +2,14 @@
   "id": 152874229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.708466,44.368977,-79.708466,44.368977",
     "geom:latitude":44.368977,
     "geom:longitude":-79.708466,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"21 Patterson Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875275,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cjLLZqZps4u5sNx4NWiZf_44.368977_-79.708466@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e6292353da47a1ffcf1660518c9c4c38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875275,
+            "region_id":85682057,
+            "venue_id":152874229
+        }
+    ],
     "wof:id":152874229,
-    "wof:lastmodified":1449048626,
+    "wof:lastmodified":1453936107,
     "wof:name":"Barrie Advance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875275,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.708466,44.368977,-79.708466,44.368977],
+  "bbox": [
+    -79.708466,
+    44.368977,
+    -79.708466,
+    44.368977
+],
   "geometry": {"coordinates":[-79.708466,44.368977],"type":"Point"}
 }

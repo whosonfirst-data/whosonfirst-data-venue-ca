@@ -2,13 +2,14 @@
   "id": 152761683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.500168,43.788677,-79.500168,43.788677",
     "geom:latitude":43.788677,
     "geom:longitude":-79.500168,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"112 Snidercroft Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895133,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d45220a7cd0f0e3d4d16cdad29d657b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":152761683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":152761683
         }
     ],
     "wof:id":152761683,
-    "wof:lastmodified":1449047816,
+    "wof:lastmodified":1453935514,
     "wof:name":"Sts Precision Machine Inc",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.500168,43.788677,-79.500168,43.788677],
+  "bbox": [
+    -79.500168,
+    43.788677,
+    -79.500168,
+    43.788677
+],
   "geometry": {"coordinates":[-79.500168,43.788677],"type":"Point"}
 }

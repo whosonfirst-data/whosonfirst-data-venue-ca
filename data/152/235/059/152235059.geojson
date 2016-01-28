@@ -2,13 +2,14 @@
   "id": 152235059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635963,45.57959,-73.635963,45.57959",
     "geom:latitude":45.57959,
     "geom:longitude":-73.635963,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9993 Av Des Laurentides",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"1d1d08172d11ea8dad05b678860df257",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":152235059
         }
     ],
     "wof:id":152235059,
-    "wof:lastmodified":1449045107,
+    "wof:lastmodified":1453933441,
     "wof:name":"Fougasse & Quignon Inc",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.635963,45.57959,-73.635963,45.57959],
+  "bbox": [
+    -73.635963,
+    45.57959,
+    -73.635963,
+    45.57959
+],
   "geometry": {"coordinates":[-73.635963,45.57959],"type":"Point"}
 }

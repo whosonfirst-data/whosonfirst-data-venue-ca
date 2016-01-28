@@ -2,13 +2,14 @@
   "id": 169202857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.547806,43.800354,-79.547806,43.800354",
     "geom:latitude":43.800354,
     "geom:longitude":-79.547806,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"253 Jevlan Dr",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"155fee21c3650e4a80511b0d47b3d0c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":169202857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":169202857
         }
     ],
     "wof:id":169202857,
-    "wof:lastmodified":1449035527,
+    "wof:lastmodified":1453931768,
     "wof:name":"Panicali, Massimo S",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.547806,43.800354,-79.547806,43.800354],
-  "geometry": {"coordinates":[-79.547806,43.800354],"type":"Point"}
+  "bbox": [
+    -79.547806,
+    43.800354,
+    -79.547806,
+    43.800354
+],
+  "geometry": {"coordinates":[-79.54780599999999,43.800354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169489433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.447235,43.442257,-80.447235,43.442257",
     "geom:latitude":43.442257,
     "geom:longitude":-80.447235,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"317 Franklin St N",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875009,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c100cb25d02b94c5e897f975c74cea72",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875009,
+            "region_id":85682057,
+            "venue_id":169489433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875009,
             "region_id":85682057,
             "venue_id":169489433
         }
     ],
     "wof:id":169489433,
-    "wof:lastmodified":1449034497,
+    "wof:lastmodified":1453930683,
     "wof:name":"St Luke's Lutheran Church",
     "wof:parent_id":85875009,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.447235,43.442257,-80.447235,43.442257],
-  "geometry": {"coordinates":[-80.447235,43.442257],"type":"Point"}
+  "bbox": [
+    -80.447235,
+    43.442257,
+    -80.447235,
+    43.442257
+],
+  "geometry": {"coordinates":[-80.44723500000001,43.442257],"type":"Point"}
 }

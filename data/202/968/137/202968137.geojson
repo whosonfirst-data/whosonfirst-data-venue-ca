@@ -2,13 +2,14 @@
   "id": 202968137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.407295,42.957073,-82.407295,42.957073",
     "geom:latitude":42.957073,
     "geom:longitude":-82.407295,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"512 Vidal St S",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875557,
+        102191575,
         85633041,
-        85682057
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"e49f2330d13f8771f1358093be6806ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875557,
+            "region_id":85682057,
+            "venue_id":202968137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875557,
             "region_id":85682057,
             "venue_id":202968137
         }
     ],
     "wof:id":202968137,
-    "wof:lastmodified":1449060271,
+    "wof:lastmodified":1453937007,
     "wof:name":"Tim Hortons",
     "wof:parent_id":85875557,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "doughnut"
     ]
 },
-  "bbox": [-82.407295,42.957073,-82.407295,42.957073],
+  "bbox": [
+    -82.407295,
+    42.957073,
+    -82.407295,
+    42.957073
+],
   "geometry": {"coordinates":[-82.407295,42.957073],"type":"Point"}
 }

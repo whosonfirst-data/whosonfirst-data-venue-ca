@@ -2,13 +2,14 @@
   "id": 203364965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.437706,43.888931,-79.437706,43.888931",
     "geom:latitude":43.888931,
     "geom:longitude":-79.437706,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"363 Enford Rd",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895349,
+        102191575,
         85633041,
-        85682057
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"949e94fd7d6f31ab10120ab884a360ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895349,
+            "region_id":85682057,
+            "venue_id":203364965
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895349,
             "region_id":85682057,
             "venue_id":203364965
         }
     ],
     "wof:id":203364965,
-    "wof:lastmodified":1449026018,
+    "wof:lastmodified":1453927607,
     "wof:name":"Marble & Granit Art",
     "wof:parent_id":85895349,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "marble"
     ]
 },
-  "bbox": [-79.437706,43.888931,-79.437706,43.888931],
-  "geometry": {"coordinates":[-79.437706,43.888931],"type":"Point"}
+  "bbox": [
+    -79.437706,
+    43.888931,
+    -79.437706,
+    43.888931
+],
+  "geometry": {"coordinates":[-79.43770600000001,43.888931],"type":"Point"}
 }

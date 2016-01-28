@@ -2,13 +2,14 @@
   "id": 152633675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.3116,43.016132,-81.3116,43.016132",
     "geom:latitude":43.016132,
     "geom:longitude":-81.3116,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2115 Aldersbrook Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6G 3X1",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874929,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v1RhVHJrVN1mjRn6TdE3d_43.016132_-81.311600@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5df48ded8f83b72ccb9832db38f9bebc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874929,
+            "region_id":85682057,
+            "venue_id":152633675
+        }
+    ],
     "wof:id":152633675,
-    "wof:lastmodified":1449048871,
+    "wof:lastmodified":1453936311,
     "wof:name":"Future Cuts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.3116,43.016132,-81.3116,43.016132],
+  "bbox": [
+    -81.3116,
+    43.016132,
+    -81.3116,
+    43.016132
+],
   "geometry": {"coordinates":[-81.3116,43.016132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169228877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.699852,45.470676,-73.699852,45.470676",
     "geom:latitude":45.470676,
     "geom:longitude":-73.699852,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5100 Rue Fisher",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cdbe70f6ff7e74e5e715b50b0a7d681b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169228877
         }
     ],
     "wof:id":169228877,
-    "wof:lastmodified":1449033721,
+    "wof:lastmodified":1453929848,
     "wof:name":"Federal Plastics Ltee",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.699852,45.470676,-73.699852,45.470676],
-  "geometry": {"coordinates":[-73.699852,45.470676],"type":"Point"}
+  "bbox": [
+    -73.699852,
+    45.470676,
+    -73.699852,
+    45.470676
+],
+  "geometry": {"coordinates":[-73.69985200000001,45.470676],"type":"Point"}
 }

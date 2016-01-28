@@ -2,13 +2,14 @@
   "id": 168979623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.238495,43.973339,-79.238495,43.973339",
     "geom:latitude":43.973339,
     "geom:longitude":-79.238495,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6528 Main St",
     "sg:city":"Stouffville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895097,
         102191575,
         85633041,
-        85895097
+        101736037,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736037,
             "neighbourhood_id":85895097,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":168979623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895097,
+            "region_id":85682057,
             "venue_id":168979623
         }
     ],
     "wof:id":168979623,
-    "wof:lastmodified":1449028321,
+    "wof:lastmodified":1453928393,
     "wof:name":"Stouffville Mem Christian Ch",
     "wof:parent_id":85895097,
     "wof:placetype":"venue",
@@ -57,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.238495,43.973339,-79.238495,43.973339],
+  "bbox": [
+    -79.238495,
+    43.973339,
+    -79.238495,
+    43.973339
+],
   "geometry": {"coordinates":[-79.238495,43.973339],"type":"Point"}
 }

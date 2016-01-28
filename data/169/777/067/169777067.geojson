@@ -2,13 +2,14 @@
   "id": 169777067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.591766,45.523987,-73.591766,45.523987",
     "geom:latitude":45.523987,
     "geom:longitude":-73.591766,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"116 Av Laurier O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866479,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"ba74d611844e7acfc17d78c0a56b8f29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169777067
         }
     ],
     "wof:id":169777067,
-    "wof:lastmodified":1449034424,
+    "wof:lastmodified":1453930622,
     "wof:name":"Market Fusion",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "counselor"
     ]
 },
-  "bbox": [-73.591766,45.523987,-73.591766,45.523987],
-  "geometry": {"coordinates":[-73.591766,45.523987],"type":"Point"}
+  "bbox": [
+    -73.591766,
+    45.523987,
+    -73.591766,
+    45.523987
+],
+  "geometry": {"coordinates":[-73.59176600000001,45.523987],"type":"Point"}
 }

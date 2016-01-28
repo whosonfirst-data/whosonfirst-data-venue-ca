@@ -2,13 +2,14 @@
   "id": 169449423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.855629,45.642265,-73.855629,45.642265",
     "geom:latitude":45.642265,
     "geom:longitude":-73.855629,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"155 Rue Saint-Charles",
     "sg:city":"Sainte-Therese",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738507,
+        85897563,
+        102191575,
         85633041,
-        85897563
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"212fd8b82f461fb949ce49ae47807eb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
+            "region_id":136251273,
             "venue_id":169449423
         }
     ],
     "wof:id":169449423,
-    "wof:lastmodified":1449035715,
+    "wof:lastmodified":1453931966,
     "wof:name":"Claire Alimentation Inc",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.855629,45.642265,-73.855629,45.642265],
-  "geometry": {"coordinates":[-73.855629,45.642265],"type":"Point"}
+  "bbox": [
+    -73.855629,
+    45.642265,
+    -73.855629,
+    45.642265
+],
+  "geometry": {"coordinates":[-73.85562899999999,45.642265],"type":"Point"}
 }

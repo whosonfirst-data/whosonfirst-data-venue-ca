@@ -2,13 +2,14 @@
   "id": 152257611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.65905,45.49987,-73.65905,45.49987",
     "geom:latitude":45.49987,
     "geom:longitude":-73.65905,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895725,
+        102191575,
         85633041,
-        85895725
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c9c3b8eab5dea8a4e4e5ef4ab4016d7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
+            "region_id":136251273,
             "venue_id":152257611
         }
     ],
     "wof:id":152257611,
-    "wof:lastmodified":1449045668,
+    "wof:lastmodified":1453933873,
     "wof:name":"M S Auto Maintenance",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.65905,45.49987,-73.65905,45.49987],
-  "geometry": {"coordinates":[-73.65905,45.49987],"type":"Point"}
+  "bbox": [
+    -73.65905,
+    45.49987,
+    -73.65905,
+    45.49987
+],
+  "geometry": {"coordinates":[-73.65904999999999,45.49987],"type":"Point"}
 }

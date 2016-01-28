@@ -2,13 +2,14 @@
   "id": 169327891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.972603,45.378529,-71.972603,45.378529",
     "geom:latitude":45.378529,
     "geom:longitude":-71.972603,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"759 Rue Roberge",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874181,
+        102191575,
         85633041,
-        85874181
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"c8093ac678bfc3d5829f66784c8580ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874181,
+            "region_id":136251273,
             "venue_id":169327891
         }
     ],
     "wof:id":169327891,
-    "wof:lastmodified":1449032926,
+    "wof:lastmodified":1453929042,
     "wof:name":"G N Securite",
     "wof:parent_id":85874181,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.972603,45.378529,-71.972603,45.378529],
-  "geometry": {"coordinates":[-71.972603,45.378529],"type":"Point"}
+  "bbox": [
+    -71.972603,
+    45.378529,
+    -71.972603,
+    45.378529
+],
+  "geometry": {"coordinates":[-71.97260300000001,45.378529],"type":"Point"}
 }

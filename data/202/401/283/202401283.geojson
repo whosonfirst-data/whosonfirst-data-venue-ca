@@ -2,13 +2,14 @@
   "id": 202401283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.868362,45.637577,-73.868362,45.637577",
     "geom:latitude":45.637577,
     "geom:longitude":-73.868362,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4065 Rue Alfred-Laliberte",
     "sg:city":"Boisbriand",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897563,
+        102191575,
         85633041,
-        101738507
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"54016d8276172b8e1e4338749f277722",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202401283
         }
     ],
     "wof:id":202401283,
-    "wof:lastmodified":1449062283,
+    "wof:lastmodified":1453937427,
     "wof:name":"Portes Nouvelles Dimensions",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "door"
     ]
 },
-  "bbox": [-73.868362,45.637577,-73.868362,45.637577],
+  "bbox": [
+    -73.868362,
+    45.637577,
+    -73.868362,
+    45.637577
+],
   "geometry": {"coordinates":[-73.868362,45.637577],"type":"Point"}
 }

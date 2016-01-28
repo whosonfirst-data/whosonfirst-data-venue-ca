@@ -2,13 +2,14 @@
   "id": 219383135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.009972,51.134319,-114.009972,51.134319",
     "geom:latitude":51.134319,
     "geom:longitude":-114.009972,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1601 Airport Rd NE",
     "sg:city":"Calgary",
     "sg:classifiers":[
@@ -28,6 +29,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633041,
+        102554947,
+        85874585,
         85682091
     ],
     "wof:breaches":[],
@@ -38,18 +41,17 @@
     "wof:geomhash":"241114ed54ab3785d50924664eaf1f83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554947,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85874585,
             "region_id":85682091,
             "venue_id":219383135
         }
     ],
     "wof:id":219383135,
-    "wof:lastmodified":1449071880,
+    "wof:lastmodified":1453937742,
     "wof:name":"Calgary Police Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":102554947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "department"
     ]
 },
-  "bbox": [-114.009972,51.134319,-114.009972,51.134319],
+  "bbox": [
+    -114.009972,
+    51.134319,
+    -114.009972,
+    51.134319
+],
   "geometry": {"coordinates":[-114.009972,51.134319],"type":"Point"}
 }

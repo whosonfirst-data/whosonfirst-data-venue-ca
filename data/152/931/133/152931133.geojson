@@ -2,13 +2,14 @@
   "id": 152931133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.247948,43.838345,-79.247948,43.838345",
     "geom:latitude":43.838345,
     "geom:longitude":-79.247948,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"38 Holloway Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895357,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"94b3159c5774276080cdb48d7b6d0b20",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895357,
+            "region_id":85682057,
+            "venue_id":152931133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895357,
             "region_id":85682057,
             "venue_id":152931133
         }
     ],
     "wof:id":152931133,
-    "wof:lastmodified":1449048507,
+    "wof:lastmodified":1453936033,
     "wof:name":"Mother's Helper Domestic Svc",
     "wof:parent_id":85895357,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.247948,43.838345,-79.247948,43.838345],
-  "geometry": {"coordinates":[-79.247948,43.838345],"type":"Point"}
+  "bbox": [
+    -79.247948,
+    43.838345,
+    -79.247948,
+    43.838345
+],
+  "geometry": {"coordinates":[-79.24794799999999,43.838345],"type":"Point"}
 }

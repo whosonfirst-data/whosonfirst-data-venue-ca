@@ -2,13 +2,14 @@
   "id": 152682287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.724518,45.371391,-73.724518,45.371391",
     "geom:latitude":45.371391,
     "geom:longitude":-73.724518,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"298 Rue Rideau",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101747739,
+        85895777,
+        102191575,
         85633041,
-        85895777
+        101747739,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"f845525abf8dde71eb0268d1254043dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101747739,
             "neighbourhood_id":85895777,
+            "region_id":136251273,
             "venue_id":152682287
         }
     ],
     "wof:id":152682287,
-    "wof:lastmodified":1449045114,
+    "wof:lastmodified":1453933445,
     "wof:name":"Conseillers Fiscaux S & G",
     "wof:parent_id":85895777,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.724518,45.371391,-73.724518,45.371391],
+  "bbox": [
+    -73.724518,
+    45.371391,
+    -73.724518,
+    45.371391
+],
   "geometry": {"coordinates":[-73.724518,45.371391],"type":"Point"}
 }

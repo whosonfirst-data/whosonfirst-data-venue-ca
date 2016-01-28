@@ -2,13 +2,14 @@
   "id": 185724179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.330223,46.849678,-71.330223,46.849678",
     "geom:latitude":46.849678,
     "geom:longitude":-71.330223,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9623 Rue DE Martigny",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864429,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"2dd31ba3a2f16231d98d5a896cda5c19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864429,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185724179
         }
     ],
     "wof:id":185724179,
-    "wof:lastmodified":1449008155,
+    "wof:lastmodified":1453927383,
     "wof:name":"Cooperative D'Habitation CO-OP",
     "wof:parent_id":85864429,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "cooperative"
     ]
 },
-  "bbox": [-71.330223,46.849678,-71.330223,46.849678],
+  "bbox": [
+    -71.330223,
+    46.849678,
+    -71.330223,
+    46.849678
+],
   "geometry": {"coordinates":[-71.330223,46.849678],"type":"Point"}
 }

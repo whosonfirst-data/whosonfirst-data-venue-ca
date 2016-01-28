@@ -2,13 +2,14 @@
   "id": 152596997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.227631,46.812489,-71.227631,46.812489",
     "geom:latitude":46.812489,
     "geom:longitude":-71.227631,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"210 Boul Charest E",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866509,
+        102191575,
         85633041,
-        85866509
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"71227908a511404efdad4c1616920fde",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
+            "region_id":136251273,
             "venue_id":152596997
         }
     ],
     "wof:id":152596997,
-    "wof:lastmodified":1449046671,
+    "wof:lastmodified":1453934628,
     "wof:name":"Pech",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.227631,46.812489,-71.227631,46.812489],
+  "bbox": [
+    -71.227631,
+    46.812489,
+    -71.227631,
+    46.812489
+],
   "geometry": {"coordinates":[-71.227631,46.812489],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169025149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.506165,43.838543,-79.506165,43.838543",
     "geom:latitude":43.838543,
     "geom:longitude":-79.506165,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"179 Bob O'Link Ave",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895339,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"34925fa12084db1dab6dbbe2c0adba56",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895339,
+            "region_id":85682057,
+            "venue_id":169025149
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895339,
             "region_id":85682057,
             "venue_id":169025149
         }
     ],
     "wof:id":169025149,
-    "wof:lastmodified":1449035421,
+    "wof:lastmodified":1453931628,
     "wof:name":"J C Interlocking Stone",
     "wof:parent_id":85895339,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.506165,43.838543,-79.506165,43.838543],
+  "bbox": [
+    -79.506165,
+    43.838543,
+    -79.506165,
+    43.838543
+],
   "geometry": {"coordinates":[-79.506165,43.838543],"type":"Point"}
 }

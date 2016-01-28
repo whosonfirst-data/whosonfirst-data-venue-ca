@@ -2,13 +2,14 @@
   "id": 169421461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.349182,43.858921,-79.349182,43.858921",
     "geom:latitude":43.858921,
     "geom:longitude":-79.349182,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1380 Rodick Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895015,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"6b8cf110fc2a78a29970b0e6516abf8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895015,
+            "region_id":85682057,
+            "venue_id":169421461
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895015,
             "region_id":85682057,
             "venue_id":169421461
         }
     ],
     "wof:id":169421461,
-    "wof:lastmodified":1449034780,
+    "wof:lastmodified":1453931011,
     "wof:name":"Lucent Technologies Canada Inc",
     "wof:parent_id":85895015,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.349182,43.858921,-79.349182,43.858921],
+  "bbox": [
+    -79.349182,
+    43.858921,
+    -79.349182,
+    43.858921
+],
   "geometry": {"coordinates":[-79.349182,43.858921],"type":"Point"}
 }

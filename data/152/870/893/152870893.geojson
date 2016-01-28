@@ -2,13 +2,14 @@
   "id": 152870893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.579552,45.57819,-73.579552,45.57819",
     "geom:latitude":45.57819,
     "geom:longitude":-73.579552,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7142 Rue DE Lisieux",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784921,
+        102191575,
         85633041,
-        85784921
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"93b7580fcce89bfd197cb87a63476ed7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
+            "region_id":136251273,
             "venue_id":152870893
         }
     ],
     "wof:id":152870893,
-    "wof:lastmodified":1449045513,
+    "wof:lastmodified":1453933758,
     "wof:name":"Big R Express Ltd",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.579552,45.57819,-73.579552,45.57819],
-  "geometry": {"coordinates":[-73.579552,45.57819],"type":"Point"}
+  "bbox": [
+    -73.579552,
+    45.57819,
+    -73.579552,
+    45.57819
+],
+  "geometry": {"coordinates":[-73.57955200000001,45.57819],"type":"Point"}
 }

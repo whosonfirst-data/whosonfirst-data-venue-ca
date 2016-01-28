@@ -2,13 +2,14 @@
   "id": 186222073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.881996,43.542679,-79.881996,43.542679",
     "geom:latitude":43.542679,
     "geom:longitude":-79.881996,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8250 Lawson Rd",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895533,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"7c07fb9beb48dd4d66ee78ea1ff05c77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895533,
+            "region_id":85682057,
+            "venue_id":186222073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895533,
             "region_id":85682057,
             "venue_id":186222073
         }
     ],
     "wof:id":186222073,
-    "wof:lastmodified":1449052159,
+    "wof:lastmodified":1453936792,
     "wof:name":"Look Communications Inc",
     "wof:parent_id":85895533,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "internet"
     ]
 },
-  "bbox": [-79.881996,43.542679,-79.881996,43.542679],
+  "bbox": [
+    -79.881996,
+    43.542679,
+    -79.881996,
+    43.542679
+],
   "geometry": {"coordinates":[-79.881996,43.542679],"type":"Point"}
 }

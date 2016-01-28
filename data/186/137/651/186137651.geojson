@@ -2,13 +2,14 @@
   "id": 186137651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.26371,43.176361,-79.26371,43.176361",
     "geom:latitude":43.176361,
     "geom:longitude":-79.26371,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"34 Scott St W",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864569,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"145e3377346c7a4eecf4afc533f6ec12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864569,
+            "region_id":85682057,
+            "venue_id":186137651
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864569,
             "region_id":85682057,
             "venue_id":186137651
         }
     ],
     "wof:id":186137651,
-    "wof:lastmodified":1449052644,
+    "wof:lastmodified":1453936881,
     "wof:name":"General Contractors Assn",
     "wof:parent_id":85864569,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.26371,43.176361,-79.26371,43.176361],
+  "bbox": [
+    -79.26371,
+    43.176361,
+    -79.26371,
+    43.176361
+],
   "geometry": {"coordinates":[-79.26371,43.176361],"type":"Point"}
 }

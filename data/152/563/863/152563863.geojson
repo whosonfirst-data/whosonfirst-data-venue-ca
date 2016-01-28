@@ -2,13 +2,14 @@
   "id": 152563863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.872246,43.496281,-79.872246,43.496281",
     "geom:latitude":43.496281,
     "geom:longitude":-79.872246,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Milton",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895585,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"7ba9fd2dbe3fb086733943c905646ab5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895585,
+            "region_id":85682057,
+            "venue_id":152563863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895585,
             "region_id":85682057,
             "venue_id":152563863
         }
     ],
     "wof:id":152563863,
-    "wof:lastmodified":1449044365,
+    "wof:lastmodified":1453932876,
     "wof:name":"Milton Physiotherapy & Sports",
     "wof:parent_id":85895585,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.872246,43.496281,-79.872246,43.496281],
+  "bbox": [
+    -79.872246,
+    43.496281,
+    -79.872246,
+    43.496281
+],
   "geometry": {"coordinates":[-79.872246,43.496281],"type":"Point"}
 }

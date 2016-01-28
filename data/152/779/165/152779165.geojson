@@ -2,13 +2,14 @@
   "id": 152779165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.567223,46.34547,-72.567223,46.34547",
     "geom:latitude":46.34547,
     "geom:longitude":-72.567223,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2665 Rue Bourjoly",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874109,
+        102191575,
         85633041,
-        85874109
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"b47a0f1fee84f8a9679f608f2afd239c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874109,
+            "region_id":136251273,
             "venue_id":152779165
         }
     ],
     "wof:id":152779165,
-    "wof:lastmodified":1449045017,
+    "wof:lastmodified":1453933376,
     "wof:name":"Claude Milette Inc",
     "wof:parent_id":85874109,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.567223,46.34547,-72.567223,46.34547],
+  "bbox": [
+    -72.567223,
+    46.34547,
+    -72.567223,
+    46.34547
+],
   "geometry": {"coordinates":[-72.567223,46.34547],"type":"Point"}
 }

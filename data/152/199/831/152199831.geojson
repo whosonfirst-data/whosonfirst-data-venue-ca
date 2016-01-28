@@ -2,13 +2,14 @@
   "id": 152199831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.89624,45.392719,-71.89624,45.392719",
     "geom:latitude":45.392719,
     "geom:longitude":-71.89624,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"905 Rue Belvedere S",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"efba311d087e8985ddbedd7338ef9f1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":152199831
         }
     ],
     "wof:id":152199831,
-    "wof:lastmodified":1449044782,
+    "wof:lastmodified":1453933198,
     "wof:name":"Automobiles Jl",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.89624,45.392719,-71.89624,45.392719],
-  "geometry": {"coordinates":[-71.89624,45.392719],"type":"Point"}
+  "bbox": [
+    -71.89624,
+    45.392719,
+    -71.89624,
+    45.392719
+],
+  "geometry": {"coordinates":[-71.89624000000001,45.392719],"type":"Point"}
 }

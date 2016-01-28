@@ -2,13 +2,14 @@
   "id": 152855961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.395958,43.860634,-79.395958,43.860634",
     "geom:latitude":43.860634,
     "geom:longitude":-79.395958,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894999,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"23cb373b0c5a13979d4bad2cadbb6a43",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85894999,
+            "region_id":85682057,
+            "venue_id":152855961
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85894999,
             "region_id":85682057,
             "venue_id":152855961
         }
     ],
     "wof:id":152855961,
-    "wof:lastmodified":1449047711,
+    "wof:lastmodified":1453935431,
     "wof:name":"Smoke Shop & Gift Plus Dollar",
     "wof:parent_id":85894999,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.395958,43.860634,-79.395958,43.860634],
-  "geometry": {"coordinates":[-79.395958,43.860634],"type":"Point"}
+  "bbox": [
+    -79.395958,
+    43.860634,
+    -79.395958,
+    43.860634
+],
+  "geometry": {"coordinates":[-79.39595799999999,43.860634],"type":"Point"}
 }

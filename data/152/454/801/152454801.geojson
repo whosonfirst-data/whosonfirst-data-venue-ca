@@ -2,13 +2,14 @@
   "id": 152454801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.546211,45.549576,-73.546211,45.549576",
     "geom:latitude":45.549576,
     "geom:longitude":-73.546211,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3915 Rue DE Rouen",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"418411635819f6f4dd01cb3f384d8c7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":152454801
         }
     ],
     "wof:id":152454801,
-    "wof:lastmodified":1449048483,
+    "wof:lastmodified":1453936014,
     "wof:name":"Monsieur Muffler",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.546211,45.549576,-73.546211,45.549576],
+  "bbox": [
+    -73.546211,
+    45.549576,
+    -73.546211,
+    45.549576
+],
   "geometry": {"coordinates":[-73.546211,45.549576],"type":"Point"}
 }

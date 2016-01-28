@@ -2,13 +2,14 @@
   "id": 168866755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.720032,44.377811,-79.720032,44.377811",
     "geom:latitude":44.377811,
     "geom:longitude":-79.720032,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"29 Lennox Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "maker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qCQAsSvF4J8wbiF7VSA5T_44.377811_-79.720032@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ea361a965706399f066d8a915ad9d689",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":168866755
+        }
+    ],
     "wof:id":168866755,
-    "wof:lastmodified":1449028139,
+    "wof:lastmodified":1453928198,
     "wof:name":"Noris Tooling Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.720032,44.377811,-79.720032,44.377811],
+  "bbox": [
+    -79.720032,
+    44.377811,
+    -79.720032,
+    44.377811
+],
   "geometry": {"coordinates":[-79.720032,44.377811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152489661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.284897,43.014015,-81.284897,43.014015",
     "geom:latitude":43.014015,
     "geom:longitude":-81.284897,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"37 Ullswater Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864629,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nQmSScOamFw2ujir9cG9O_43.014015_-81.284897@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b07e300b6d54b0fd210bab148db28938",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864629,
+            "region_id":85682057,
+            "venue_id":152489661
+        }
+    ],
     "wof:id":152489661,
-    "wof:lastmodified":1449046829,
+    "wof:lastmodified":1453934737,
     "wof:name":"Tremco Canada",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864629,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.284897,43.014015,-81.284897,43.014015],
+  "bbox": [
+    -81.284897,
+    43.014015,
+    -81.284897,
+    43.014015
+],
   "geometry": {"coordinates":[-81.284897,43.014015],"type":"Point"}
 }

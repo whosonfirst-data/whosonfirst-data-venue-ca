@@ -2,13 +2,14 @@
   "id": 169227265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.300072,46.759274,-71.300072,46.759274",
     "geom:latitude":46.759274,
     "geom:longitude":-71.300072,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1149 Av Beaupre",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"54af14883ef0254e2c53ed25c677af81",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":169227265
         }
     ],
     "wof:id":169227265,
-    "wof:lastmodified":1449033408,
+    "wof:lastmodified":1453929506,
     "wof:name":"Physiotherapie Ste-Foy",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.300072,46.759274,-71.300072,46.759274],
+  "bbox": [
+    -71.300072,
+    46.759274,
+    -71.300072,
+    46.759274
+],
   "geometry": {"coordinates":[-71.300072,46.759274],"type":"Point"}
 }

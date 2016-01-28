@@ -2,13 +2,14 @@
   "id": 169073367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.225883,43.170906,-79.225883,43.170906",
     "geom:latitude":43.170906,
     "geom:longitude":-79.225883,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"335 Welland Ave",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"2e157059baaf107d7d010b18940a4b14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":169073367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":169073367
         }
     ],
     "wof:id":169073367,
-    "wof:lastmodified":1449033145,
+    "wof:lastmodified":1453929262,
     "wof:name":"Handyman Connection",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.225883,43.170906,-79.225883,43.170906],
+  "bbox": [
+    -79.225883,
+    43.170906,
+    -79.225883,
+    43.170906
+],
   "geometry": {"coordinates":[-79.225883,43.170906],"type":"Point"}
 }

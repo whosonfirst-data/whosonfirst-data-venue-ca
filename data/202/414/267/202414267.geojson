@@ -2,13 +2,14 @@
   "id": 202414267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.797295,43.370159,-79.797295,43.370159",
     "geom:latitude":43.370159,
     "geom:longitude":-79.797295,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3518 Mainway",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895583,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"a3660153fb770da08a672bdbdcfd6af2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895583,
+            "region_id":85682057,
+            "venue_id":202414267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895583,
             "region_id":85682057,
             "venue_id":202414267
         }
     ],
     "wof:id":202414267,
-    "wof:lastmodified":1449061310,
+    "wof:lastmodified":1453937230,
     "wof:name":"Halton Tool & Fabricators",
     "wof:parent_id":85895583,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.797295,43.370159,-79.797295,43.370159],
-  "geometry": {"coordinates":[-79.797295,43.370159],"type":"Point"}
+  "bbox": [
+    -79.797295,
+    43.370159,
+    -79.797295,
+    43.370159
+],
+  "geometry": {"coordinates":[-79.79729500000001,43.370159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152335329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.68087,44.329548,-79.68087,44.329548",
     "geom:latitude":44.329548,
     "geom:longitude":-79.68087,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FMvc9lXj6IpZXcxrviNFZ_44.329548_-79.680870@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0ceae9bf5bdc52218b759d54c1f6a45e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":152335329
+        }
+    ],
     "wof:id":152335329,
-    "wof:lastmodified":1449047346,
+    "wof:lastmodified":1453935134,
     "wof:name":"Suds U Brew",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.68087,44.329548,-79.68087,44.329548],
+  "bbox": [
+    -79.68087,
+    44.329548,
+    -79.68087,
+    44.329548
+],
   "geometry": {"coordinates":[-79.68087,44.329548],"type":"Point"}
 }

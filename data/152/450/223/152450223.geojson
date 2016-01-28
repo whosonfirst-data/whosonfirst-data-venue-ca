@@ -2,13 +2,14 @@
   "id": 152450223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.312531,42.969147,-81.312531,42.969147",
     "geom:latitude":42.969147,
     "geom:longitude":-81.312531,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"528 Everglade Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864587,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lqQRRR3UcR0fkd27LLLJ5_42.969147_-81.312531@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"6e5e8269e5a27891fab0b5d69d54f07c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864587,
+            "region_id":85682057,
+            "venue_id":152450223
+        }
+    ],
     "wof:id":152450223,
-    "wof:lastmodified":1449048207,
+    "wof:lastmodified":1453935796,
     "wof:name":"Amaral Home Improvements",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864587,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.312531,42.969147,-81.312531,42.969147],
-  "geometry": {"coordinates":[-81.312531,42.969147],"type":"Point"}
+  "bbox": [
+    -81.312531,
+    42.969147,
+    -81.312531,
+    42.969147
+],
+  "geometry": {"coordinates":[-81.31253100000001,42.969147],"type":"Point"}
 }

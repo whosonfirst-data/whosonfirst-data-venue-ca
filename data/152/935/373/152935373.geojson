@@ -2,13 +2,14 @@
   "id": 152935373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.255318,43.024151,-81.255318,43.024151",
     "geom:latitude":43.024151,
     "geom:longitude":-81.255318,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1349 Sprucedale Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864629,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fme49dmbqFoIpJYhI3fdx_43.024151_-81.255318@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ef775e61373f00955f8548695fc22099",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864629,
+            "region_id":85682057,
+            "venue_id":152935373
+        }
+    ],
     "wof:id":152935373,
-    "wof:lastmodified":1449048089,
+    "wof:lastmodified":1453935713,
     "wof:name":"Donald J Wolfe Financial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864629,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.255318,43.024151,-81.255318,43.024151],
+  "bbox": [
+    -81.255318,
+    43.024151,
+    -81.255318,
+    43.024151
+],
   "geometry": {"coordinates":[-81.255318,43.024151],"type":"Point"}
 }

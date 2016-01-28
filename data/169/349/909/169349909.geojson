@@ -2,13 +2,14 @@
   "id": 169349909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.358505,46.792526,-71.358505,46.792526",
     "geom:latitude":46.792526,
     "geom:longitude":-71.358505,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1500 Rue LA Feniere",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737245,
+        85874723,
+        102191575,
         85633041,
-        85874723
+        101737245,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"e1851c5dde6cf3f7f77b72ef47c4306b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737245,
             "neighbourhood_id":85874723,
+            "region_id":136251273,
             "venue_id":169349909
         }
     ],
     "wof:id":169349909,
-    "wof:lastmodified":1449033942,
+    "wof:lastmodified":1453930105,
     "wof:name":"Societe Scenographique Sanche",
     "wof:parent_id":85874723,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.358505,46.792526,-71.358505,46.792526],
-  "geometry": {"coordinates":[-71.358505,46.792526],"type":"Point"}
+  "bbox": [
+    -71.358505,
+    46.792526,
+    -71.358505,
+    46.792526
+],
+  "geometry": {"coordinates":[-71.35850499999999,46.792526],"type":"Point"}
 }

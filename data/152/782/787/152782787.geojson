@@ -2,13 +2,14 @@
   "id": 152782787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.238441,46.813538,-71.238441,46.813538",
     "geom:latitude":46.813538,
     "geom:longitude":-71.238441,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"165 Rue DE Carillon",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866509,
+        102191575,
         85633041,
-        85866509
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"84576275efbe420e5d44a63a07fac2ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
+            "region_id":136251273,
             "venue_id":152782787
         }
     ],
     "wof:id":152782787,
-    "wof:lastmodified":1449044269,
+    "wof:lastmodified":1453932802,
     "wof:name":"Joujoutheque Basse-Ville",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.238441,46.813538,-71.238441,46.813538],
-  "geometry": {"coordinates":[-71.238441,46.813538],"type":"Point"}
+  "bbox": [
+    -71.238441,
+    46.813538,
+    -71.238441,
+    46.813538
+],
+  "geometry": {"coordinates":[-71.23844099999999,46.813538],"type":"Point"}
 }

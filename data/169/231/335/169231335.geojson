@@ -2,13 +2,14 @@
   "id": 169231335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.215302,43.170616,-79.215302,43.170616",
     "geom:latitude":43.170616,
     "geom:longitude":-79.215302,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11 Neilson St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"026f3598c4ddf16ef913f5bf49601568",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":169231335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":169231335
         }
     ],
     "wof:id":169231335,
-    "wof:lastmodified":1449034368,
+    "wof:lastmodified":1453930546,
     "wof:name":"Canadian Bearings Ltd",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.215302,43.170616,-79.215302,43.170616],
-  "geometry": {"coordinates":[-79.215302,43.170616],"type":"Point"}
+  "bbox": [
+    -79.215302,
+    43.170616,
+    -79.215302,
+    43.170616
+],
+  "geometry": {"coordinates":[-79.21530199999999,43.170616],"type":"Point"}
 }

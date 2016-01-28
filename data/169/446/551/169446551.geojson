@@ -2,13 +2,14 @@
   "id": 169446551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.60833,43.587486,-79.60833,43.587486",
     "geom:latitude":43.587486,
     "geom:longitude":-79.60833,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"333 Dundas St E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895225,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"8e4d7dbc433dd901a1401f120ae7fe4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":169446551
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":169446551
         }
     ],
     "wof:id":169446551,
-    "wof:lastmodified":1449035679,
+    "wof:lastmodified":1453931913,
     "wof:name":"Jenny Chun Hair Salon",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.60833,43.587486,-79.60833,43.587486],
+  "bbox": [
+    -79.60833,
+    43.587486,
+    -79.60833,
+    43.587486
+],
   "geometry": {"coordinates":[-79.60833,43.587486],"type":"Point"}
 }

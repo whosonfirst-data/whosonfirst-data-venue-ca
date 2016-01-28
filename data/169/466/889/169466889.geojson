@@ -2,13 +2,14 @@
   "id": 169466889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.596764,45.518311,-73.596764,45.518311",
     "geom:latitude":45.518311,
     "geom:longitude":-73.596764,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1025 Av Laurier O",
     "sg:city":"Outremont",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cffa7902ed8a2e5cb67e8a65685cb2fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":169466889
         }
     ],
     "wof:id":169466889,
-    "wof:lastmodified":1449033667,
+    "wof:lastmodified":1453929795,
     "wof:name":"Anjou-Quebec Enrg",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.596764,45.518311,-73.596764,45.518311],
-  "geometry": {"coordinates":[-73.596764,45.518311],"type":"Point"}
+  "bbox": [
+    -73.596764,
+    45.518311,
+    -73.596764,
+    45.518311
+],
+  "geometry": {"coordinates":[-73.59676399999999,45.518311],"type":"Point"}
 }

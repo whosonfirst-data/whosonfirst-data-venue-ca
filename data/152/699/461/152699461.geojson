@@ -2,13 +2,14 @@
   "id": 152699461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.583359,45.523701,-73.583359,45.523701",
     "geom:latitude":45.523701,
     "geom:longitude":-73.583359,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"371 Av Du Mont-Royal E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"d4eb680793b1e665b090709cda39e736",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152699461
         }
     ],
     "wof:id":152699461,
-    "wof:lastmodified":1449044937,
+    "wof:lastmodified":1453933323,
     "wof:name":"Montreal Fripe",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.583359,45.523701,-73.583359,45.523701],
+  "bbox": [
+    -73.583359,
+    45.523701,
+    -73.583359,
+    45.523701
+],
   "geometry": {"coordinates":[-73.583359,45.523701],"type":"Point"}
 }

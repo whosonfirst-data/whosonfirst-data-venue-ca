@@ -2,13 +2,14 @@
   "id": 219701329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.679962,45.507015,-73.679962,45.507015",
     "geom:latitude":45.507015,
     "geom:longitude":-73.679962,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"660 Rue Leduc",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874167,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"fca928a4f11317e8110dc41d9cc793ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874167,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219701329
         }
     ],
     "wof:id":219701329,
-    "wof:lastmodified":1449073189,
+    "wof:lastmodified":1453937920,
     "wof:name":"Clinique Dentaire Lepojka",
     "wof:parent_id":85874167,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.679962,45.507015,-73.679962,45.507015],
+  "bbox": [
+    -73.679962,
+    45.507015,
+    -73.679962,
+    45.507015
+],
   "geometry": {"coordinates":[-73.679962,45.507015],"type":"Point"}
 }

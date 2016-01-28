@@ -2,13 +2,14 @@
   "id": 152832137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.942406,43.879696,-78.942406,43.879696",
     "geom:latitude":43.879696,
     "geom:longitude":-78.942406,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Dundas St W",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895409,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"8e06348714d2e3a41b0e6e9231433361",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":152832137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":152832137
         }
     ],
     "wof:id":152832137,
-    "wof:lastmodified":1449044315,
+    "wof:lastmodified":1453932831,
     "wof:name":"All Ontario Appliance Clinic",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.942406,43.879696,-78.942406,43.879696],
-  "geometry": {"coordinates":[-78.942406,43.879696],"type":"Point"}
+  "bbox": [
+    -78.942406,
+    43.879696,
+    -78.942406,
+    43.879696
+],
+  "geometry": {"coordinates":[-78.94240600000001,43.879696],"type":"Point"}
 }

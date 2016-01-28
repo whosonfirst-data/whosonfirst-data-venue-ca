@@ -2,13 +2,14 @@
   "id": 203323677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656593,45.56284,-73.656593,45.56284",
     "geom:latitude":45.56284,
     "geom:longitude":-73.656593,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1517 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897501,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"12394d3da70f1b6cab9f4a31fd149c95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203323677
         }
     ],
     "wof:id":203323677,
-    "wof:lastmodified":1449025095,
+    "wof:lastmodified":1453927438,
     "wof:name":"Fleury Laveuses Enrg",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "appliance"
     ]
 },
-  "bbox": [-73.656593,45.56284,-73.656593,45.56284],
+  "bbox": [
+    -73.656593,
+    45.56284,
+    -73.656593,
+    45.56284
+],
   "geometry": {"coordinates":[-73.656593,45.56284],"type":"Point"}
 }

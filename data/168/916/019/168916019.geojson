@@ -2,13 +2,14 @@
   "id": 168916019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.849968,45.642338,-73.849968,45.642338",
     "geom:latitude":45.642338,
     "geom:longitude":-73.849968,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"66 Rue Saint-Stanislas",
     "sg:city":"Sainte-Therese",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738507,
+        85897563,
+        102191575,
         85633041,
-        85897563
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"004f782c5331a58d43532f1406da6733",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
+            "region_id":136251273,
             "venue_id":168916019
         }
     ],
     "wof:id":168916019,
-    "wof:lastmodified":1449028192,
+    "wof:lastmodified":1453928251,
     "wof:name":"Sentier Ecole",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.849968,45.642338,-73.849968,45.642338],
+  "bbox": [
+    -73.849968,
+    45.642338,
+    -73.849968,
+    45.642338
+],
   "geometry": {"coordinates":[-73.849968,45.642338],"type":"Point"}
 }

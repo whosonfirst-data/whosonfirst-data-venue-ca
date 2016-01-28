@@ -2,13 +2,14 @@
   "id": 169004419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.203323,46.811642,-71.203323,46.811642",
     "geom:latitude":46.811642,
     "geom:longitude":-71.203323,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"79 Rue Du Petit-Champlain",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866517,
+        102191575,
         85633041,
-        85866517
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2d5b0936e9b243bfc201c79d37d9066f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
+            "region_id":136251273,
             "venue_id":169004419
         }
     ],
     "wof:id":169004419,
-    "wof:lastmodified":1449033897,
+    "wof:lastmodified":1453930058,
     "wof:name":"Temps Libre",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.203323,46.811642,-71.203323,46.811642],
+  "bbox": [
+    -71.203323,
+    46.811642,
+    -71.203323,
+    46.811642
+],
   "geometry": {"coordinates":[-71.203323,46.811642],"type":"Point"}
 }

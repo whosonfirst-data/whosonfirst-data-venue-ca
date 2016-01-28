@@ -2,13 +2,14 @@
   "id": 152698697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.221031,43.553776,-80.221031,43.553776",
     "geom:latitude":43.553776,
     "geom:longitude":-80.221031,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"587 York Rd",
     "sg:city":"Guelph",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875519,
-        85682057
+        102191575,
+        85633041,
+        101735927,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"f5e1b93417e858751fcf6352e87cb945",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735927,
+            "neighbourhood_id":85875519,
+            "region_id":85682057,
+            "venue_id":152698697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875519,
             "region_id":85682057,
             "venue_id":152698697
         }
     ],
     "wof:id":152698697,
-    "wof:lastmodified":1449048638,
+    "wof:lastmodified":1453936118,
     "wof:name":"Maha Motors",
     "wof:parent_id":85875519,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.221031,43.553776,-80.221031,43.553776],
+  "bbox": [
+    -80.221031,
+    43.553776,
+    -80.221031,
+    43.553776
+],
   "geometry": {"coordinates":[-80.221031,43.553776],"type":"Point"}
 }

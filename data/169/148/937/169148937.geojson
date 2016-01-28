@@ -2,13 +2,14 @@
   "id": 169148937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.881859,43.513432,-79.881859,43.513432",
     "geom:latitude":43.513432,
     "geom:longitude":-79.881859,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"207 Mary St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895267,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"df89f1c9a67b1aae31db880e977d59a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895267,
+            "region_id":85682057,
+            "venue_id":169148937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895267,
             "region_id":85682057,
             "venue_id":169148937
         }
     ],
     "wof:id":169148937,
-    "wof:lastmodified":1449035443,
+    "wof:lastmodified":1453931657,
     "wof:name":"Nichols & Servos",
     "wof:parent_id":85895267,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.881859,43.513432,-79.881859,43.513432],
-  "geometry": {"coordinates":[-79.881859,43.513432],"type":"Point"}
+  "bbox": [
+    -79.881859,
+    43.513432,
+    -79.881859,
+    43.513432
+],
+  "geometry": {"coordinates":[-79.88185900000001,43.513432],"type":"Point"}
 }

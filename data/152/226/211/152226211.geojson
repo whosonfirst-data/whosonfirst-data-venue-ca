@@ -2,13 +2,14 @@
   "id": 152226211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.669434,43.68671,-79.669434,43.68671",
     "geom:latitude":43.68671,
     "geom:longitude":-79.669434,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7200 Tranmere Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"eac1b1403e99a221df24f14bfe7993d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152226211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152226211
         }
     ],
     "wof:id":152226211,
-    "wof:lastmodified":1449047648,
+    "wof:lastmodified":1453935382,
     "wof:name":"Amptech Security Ltd",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.669434,43.68671,-79.669434,43.68671],
+  "bbox": [
+    -79.669434,
+    43.68671,
+    -79.669434,
+    43.68671
+],
   "geometry": {"coordinates":[-79.669434,43.68671],"type":"Point"}
 }

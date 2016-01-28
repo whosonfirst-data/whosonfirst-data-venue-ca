@@ -2,13 +2,14 @@
   "id": 152625269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.737305,45.538292,-73.737305,45.538292",
     "geom:latitude":45.538292,
     "geom:longitude":-73.737305,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"435 Boul Cure-Labelle",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875053,
+        102191575,
         85633041,
-        85875053
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8197b00eb3cd5e6b1e98b358401e53d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875053,
+            "region_id":136251273,
             "venue_id":152625269
         }
     ],
     "wof:id":152625269,
-    "wof:lastmodified":1449048968,
+    "wof:lastmodified":1453936408,
     "wof:name":"Bureaux Municipaux DE Loisirs",
     "wof:parent_id":85875053,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.737305,45.538292,-73.737305,45.538292],
-  "geometry": {"coordinates":[-73.737305,45.538292],"type":"Point"}
+  "bbox": [
+    -73.737305,
+    45.538292,
+    -73.737305,
+    45.538292
+],
+  "geometry": {"coordinates":[-73.73730500000001,45.538292],"type":"Point"}
 }

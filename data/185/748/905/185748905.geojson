@@ -2,13 +2,14 @@
   "id": 185748905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.487793,43.815418,-79.487793,43.815418",
     "geom:latitude":43.815418,
     "geom:longitude":-79.487793,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Concord",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895133,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"00c9d0377baedd080f5c5c86cf1ca7d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":185748905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":185748905
         }
     ],
     "wof:id":185748905,
-    "wof:lastmodified":1449007815,
+    "wof:lastmodified":1453927346,
     "wof:name":"Damon Industries Canada Ltd",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "beverage"
     ]
 },
-  "bbox": [-79.487793,43.815418,-79.487793,43.815418],
+  "bbox": [
+    -79.487793,
+    43.815418,
+    -79.487793,
+    43.815418
+],
   "geometry": {"coordinates":[-79.487793,43.815418],"type":"Point"}
 }

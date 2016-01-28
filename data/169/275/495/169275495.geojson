@@ -2,13 +2,14 @@
   "id": 169275495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.218468,46.810925,-71.218468,46.810925",
     "geom:latitude":46.810925,
     "geom:longitude":-71.218468,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"718 Rue Saint-Jean",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866503,
+        102191575,
         85633041,
-        85866503
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"da3b290ddf58d8bcd8fa8b0a6fbc3786",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866503,
+            "region_id":136251273,
             "venue_id":169275495
         }
     ],
     "wof:id":169275495,
-    "wof:lastmodified":1449033749,
+    "wof:lastmodified":1453929881,
     "wof:name":"Lunetterie Du Faubourg",
     "wof:parent_id":85866503,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.218468,46.810925,-71.218468,46.810925],
+  "bbox": [
+    -71.218468,
+    46.810925,
+    -71.218468,
+    46.810925
+],
   "geometry": {"coordinates":[-71.218468,46.810925],"type":"Point"}
 }

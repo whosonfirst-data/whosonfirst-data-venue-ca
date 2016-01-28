@@ -2,13 +2,14 @@
   "id": 152879091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.420975,45.482426,-73.420975,45.482426",
     "geom:latitude":45.482426,
     "geom:longitude":-73.420975,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4035 Rue Forgues",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5d5abf82a59e926246f5926e4eda09e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":152879091
         }
     ],
     "wof:id":152879091,
-    "wof:lastmodified":1449044334,
+    "wof:lastmodified":1453932845,
     "wof:name":"Couvertures Jean & L Plamondon",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.420975,45.482426,-73.420975,45.482426],
+  "bbox": [
+    -73.420975,
+    45.482426,
+    -73.420975,
+    45.482426
+],
   "geometry": {"coordinates":[-73.420975,45.482426],"type":"Point"}
 }

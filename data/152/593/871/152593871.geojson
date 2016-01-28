@@ -2,13 +2,14 @@
   "id": 152593871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.36985,46.810467,-71.36985,46.810467",
     "geom:latitude":46.810467,
     "geom:longitude":-71.36985,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1914 Rue Notre-Dame",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737245,
+        85874723,
+        102191575,
         85633041,
-        85874723
+        101737245,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"5bc195f0204fcc5fb54e14de4c934f67",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737245,
             "neighbourhood_id":85874723,
+            "region_id":136251273,
             "venue_id":152593871
         }
     ],
     "wof:id":152593871,
-    "wof:lastmodified":1449047361,
+    "wof:lastmodified":1453935147,
     "wof:name":"Pizzeria Stratos",
     "wof:parent_id":85874723,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.36985,46.810467,-71.36985,46.810467],
+  "bbox": [
+    -71.36985,
+    46.810467,
+    -71.36985,
+    46.810467
+],
   "geometry": {"coordinates":[-71.36985,46.810467],"type":"Point"}
 }

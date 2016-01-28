@@ -2,13 +2,14 @@
   "id": 152701331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.002823,45.362823,-72.002823,45.362823",
     "geom:latitude":45.362823,
     "geom:longitude":-72.002823,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5548 Boul Bourque",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"cfc8304a1d2870ed06bb247cc67454e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":152701331
         }
     ],
     "wof:id":152701331,
-    "wof:lastmodified":1449047950,
+    "wof:lastmodified":1453935613,
     "wof:name":"Location Rgc Inc",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.002823,45.362823,-72.002823,45.362823],
-  "geometry": {"coordinates":[-72.002823,45.362823],"type":"Point"}
+  "bbox": [
+    -72.002823,
+    45.362823,
+    -72.002823,
+    45.362823
+],
+  "geometry": {"coordinates":[-72.00282300000001,45.362823],"type":"Point"}
 }

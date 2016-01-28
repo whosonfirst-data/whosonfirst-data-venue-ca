@@ -2,13 +2,14 @@
   "id": 169315719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.306274,46.766434,-71.306274,46.766434",
     "geom:latitude":46.766434,
     "geom:longitude":-71.306274,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1000 Rue DE Bar-Le-Duc",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"230e6ae5e8e827900cd496e642fa3b63",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":169315719
         }
     ],
     "wof:id":169315719,
-    "wof:lastmodified":1449035789,
+    "wof:lastmodified":1453932062,
     "wof:name":"Centre DE Loisirs Saint",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.306274,46.766434,-71.306274,46.766434],
+  "bbox": [
+    -71.306274,
+    46.766434,
+    -71.306274,
+    46.766434
+],
   "geometry": {"coordinates":[-71.306274,46.766434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152902587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927261,43.650116,-79.927261,43.650116",
     "geom:latitude":43.650116,
     "geom:longitude":-79.927261,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"36 Main St S",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895315,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8eecc4c81a3065113a83b99e3227b3c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895315,
+            "region_id":85682057,
+            "venue_id":152902587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895315,
             "region_id":85682057,
             "venue_id":152902587
         }
     ],
     "wof:id":152902587,
-    "wof:lastmodified":1449047721,
+    "wof:lastmodified":1453935443,
     "wof:name":"Flamingo Dance Studio",
     "wof:parent_id":85895315,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.927261,43.650116,-79.927261,43.650116],
+  "bbox": [
+    -79.927261,
+    43.650116,
+    -79.927261,
+    43.650116
+],
   "geometry": {"coordinates":[-79.927261,43.650116],"type":"Point"}
 }

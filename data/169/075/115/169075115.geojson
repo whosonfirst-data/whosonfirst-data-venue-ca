@@ -2,13 +2,14 @@
   "id": 169075115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.501564,45.401817,-73.501564,45.401817",
     "geom:latitude":45.401817,
     "geom:longitude":-73.501564,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1302 Boul Taschereau",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875779,
+        102191575,
         85633041,
-        85875779
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"969efcd2f9ec627590d696e46c80826c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875779,
+            "region_id":136251273,
             "venue_id":169075115
         }
     ],
     "wof:id":169075115,
-    "wof:lastmodified":1449034477,
+    "wof:lastmodified":1453930668,
     "wof:name":"G C Petits Moteurs",
     "wof:parent_id":85875779,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.501564,45.401817,-73.501564,45.401817],
+  "bbox": [
+    -73.501564,
+    45.401817,
+    -73.501564,
+    45.401817
+],
   "geometry": {"coordinates":[-73.501564,45.401817],"type":"Point"}
 }

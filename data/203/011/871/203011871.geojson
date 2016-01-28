@@ -2,13 +2,14 @@
   "id": 203011871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.584206,45.49065,-73.584206,45.49065",
     "geom:latitude":45.49065,
     "geom:longitude":-73.584206,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1455 Rue Lambert-Closse",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897631,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"26ef50524991cc9b08dcdba6a6c6661e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897631,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203011871
         }
     ],
     "wof:id":203011871,
-    "wof:lastmodified":1449026488,
+    "wof:lastmodified":1453927689,
     "wof:name":"Corner Snack Bar",
     "wof:parent_id":85897631,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.584206,45.49065,-73.584206,45.49065],
-  "geometry": {"coordinates":[-73.584206,45.49065],"type":"Point"}
+  "bbox": [
+    -73.584206,
+    45.49065,
+    -73.584206,
+    45.49065
+],
+  "geometry": {"coordinates":[-73.58420599999999,45.49065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153026531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.520325,43.461109,-80.520325,43.461109",
     "geom:latitude":43.461109,
     "geom:longitude":-80.520325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"168 King St S",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864657,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"4587c2885d085392f47ee4f16ffb9b0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864657,
+            "region_id":85682057,
+            "venue_id":153026531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85864657,
             "region_id":85682057,
             "venue_id":153026531
         }
     ],
     "wof:id":153026531,
-    "wof:lastmodified":1449040638,
+    "wof:lastmodified":1453932566,
     "wof:name":"Waterloo Regional Credit Union",
     "wof:parent_id":85864657,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.520325,43.461109,-80.520325,43.461109],
+  "bbox": [
+    -80.520325,
+    43.461109,
+    -80.520325,
+    43.461109
+],
   "geometry": {"coordinates":[-80.520325,43.461109],"type":"Point"}
 }

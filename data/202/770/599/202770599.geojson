@@ -2,13 +2,14 @@
   "id": 202770599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.103844,43.840954,-79.103844,43.840954",
     "geom:latitude":43.840954,
     "geom:longitude":-79.103844,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1900 Dixie Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895165,
+        102191575,
         85633041,
-        85682057
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"d44209eb119bd0c546aeb0ef215d7c33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895165,
+            "region_id":85682057,
+            "venue_id":202770599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895165,
             "region_id":85682057,
             "venue_id":202770599
         }
     ],
     "wof:id":202770599,
-    "wof:lastmodified":1449062703,
+    "wof:lastmodified":1453937515,
     "wof:name":"Medoro's Hair Design",
     "wof:parent_id":85895165,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.103844,43.840954,-79.103844,43.840954],
+  "bbox": [
+    -79.103844,
+    43.840954,
+    -79.103844,
+    43.840954
+],
   "geometry": {"coordinates":[-79.103844,43.840954],"type":"Point"}
 }

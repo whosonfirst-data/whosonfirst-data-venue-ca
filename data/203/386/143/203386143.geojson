@@ -2,13 +2,14 @@
   "id": 203386143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.702065,43.433708,-79.702065,43.433708",
     "geom:latitude":43.433708,
     "geom:longitude":-79.702065,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"649 Fourth Line",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895183,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"5156c3f82d25a4f06d9a7d4394bc1b72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895183,
+            "region_id":85682057,
+            "venue_id":203386143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895183,
             "region_id":85682057,
             "venue_id":203386143
         }
     ],
     "wof:id":203386143,
-    "wof:lastmodified":1449025938,
+    "wof:lastmodified":1453927594,
     "wof:name":"Fabutan Sun Tan Studios",
     "wof:parent_id":85895183,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "salon"
     ]
 },
-  "bbox": [-79.702065,43.433708,-79.702065,43.433708],
+  "bbox": [
+    -79.702065,
+    43.433708,
+    -79.702065,
+    43.433708
+],
   "geometry": {"coordinates":[-79.702065,43.433708],"type":"Point"}
 }

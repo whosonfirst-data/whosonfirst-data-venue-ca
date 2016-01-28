@@ -2,13 +2,14 @@
   "id": 202708455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.849342,43.897263,-78.849342,43.897263",
     "geom:latitude":43.897263,
     "geom:longitude":-78.849342,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"110 Verdun Rd",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875143,
+        102191575,
         85633041,
-        85682057
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"20d53e161f4e6ae9f107070935f24317",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875143,
+            "region_id":85682057,
+            "venue_id":202708455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875143,
             "region_id":85682057,
             "venue_id":202708455
         }
     ],
     "wof:id":202708455,
-    "wof:lastmodified":1449060510,
+    "wof:lastmodified":1453937057,
     "wof:name":"Dundas Motors",
     "wof:parent_id":85875143,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.849342,43.897263,-78.849342,43.897263],
-  "geometry": {"coordinates":[-78.849342,43.897263],"type":"Point"}
+  "bbox": [
+    -78.849342,
+    43.897263,
+    -78.849342,
+    43.897263
+],
+  "geometry": {"coordinates":[-78.84934199999999,43.897263],"type":"Point"}
 }

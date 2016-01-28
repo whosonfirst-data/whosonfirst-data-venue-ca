@@ -2,13 +2,14 @@
   "id": 152898785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.468719,45.754333,-73.468719,45.754333",
     "geom:latitude":45.754333,
     "geom:longitude":-73.468719,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"604463afaa42b4fd6f5aad4d66579780",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":152898785
         }
     ],
     "wof:id":152898785,
-    "wof:lastmodified":1449044188,
+    "wof:lastmodified":1453932746,
     "wof:name":"Clinique Medicale Le Gardeur",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.468719,45.754333,-73.468719,45.754333],
-  "geometry": {"coordinates":[-73.468719,45.754333],"type":"Point"}
+  "bbox": [
+    -73.468719,
+    45.754333,
+    -73.468719,
+    45.754333
+],
+  "geometry": {"coordinates":[-73.46871899999999,45.754333],"type":"Point"}
 }

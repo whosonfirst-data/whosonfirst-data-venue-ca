@@ -2,13 +2,14 @@
   "id": 153070513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.25119,46.867344,-71.25119,46.867344",
     "geom:latitude":46.867344,
     "geom:longitude":-71.25119,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1210 Rue DE Chamonix",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874717,
+        102191575,
         85633041,
-        85874717
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"da9d9c7b7bac4ae06a7d47dc36eb3618",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874717,
+            "region_id":136251273,
             "venue_id":153070513
         }
     ],
     "wof:id":153070513,
-    "wof:lastmodified":1449040559,
+    "wof:lastmodified":1453932497,
     "wof:name":"Courrier Expert",
     "wof:parent_id":85874717,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.25119,46.867344,-71.25119,46.867344],
-  "geometry": {"coordinates":[-71.25119,46.867344],"type":"Point"}
+  "bbox": [
+    -71.25119,
+    46.867344,
+    -71.25119,
+    46.867344
+],
+  "geometry": {"coordinates":[-71.25118999999999,46.867344],"type":"Point"}
 }

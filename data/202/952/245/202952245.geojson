@@ -2,13 +2,14 @@
   "id": 202952245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.45816,45.739265,-73.45816,45.739265",
     "geom:latitude":45.739265,
     "geom:longitude":-73.45816,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"31 Rue Devault",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784893,
+        102191575,
         85633041,
-        101737691
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"fd60e5f0a24f6cdc00cf8b052230813a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202952245
         }
     ],
     "wof:id":202952245,
-    "wof:lastmodified":1449061927,
+    "wof:lastmodified":1453937354,
     "wof:name":"Camp St Donat",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "camp"
     ]
 },
-  "bbox": [-73.45816,45.739265,-73.45816,45.739265],
-  "geometry": {"coordinates":[-73.45816,45.739265],"type":"Point"}
+  "bbox": [
+    -73.45816,
+    45.739265,
+    -73.45816,
+    45.739265
+],
+  "geometry": {"coordinates":[-73.45816000000001,45.739265],"type":"Point"}
 }

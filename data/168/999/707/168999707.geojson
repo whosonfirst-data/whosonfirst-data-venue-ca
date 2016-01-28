@@ -2,13 +2,14 @@
   "id": 168999707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.125565,49.277786,-123.125565,49.277786",
     "geom:latitude":49.277786,
     "geom:longitude":-123.125565,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1149 Granville St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85866533,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"d21e61f42259561b33fe68a67905542b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85866533,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":168999707,
-    "wof:lastmodified":1449028496,
+    "wof:lastmodified":1453928587,
     "wof:name":"First on Granville",
     "wof:parent_id":85866533,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.125565,49.277786,-123.125565,49.277786],
-  "geometry": {"coordinates":[-123.125565,49.277786],"type":"Point"}
+  "bbox": [
+    -123.125565,
+    49.277786,
+    -123.125565,
+    49.277786
+],
+  "geometry": {"coordinates":[-123.12556499999999,49.277786],"type":"Point"}
 }

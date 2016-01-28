@@ -2,13 +2,14 @@
   "id": 168878225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.19722,42.998562,-81.19722,42.998562",
     "geom:latitude":42.998562,
     "geom:longitude":-81.19722,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1475 Dundas St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QxTZhxG2VVsJkjEynRcU8_42.998562_-81.197220@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ac1566e54513f4368d4b3da9848a9965",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":168878225
+        }
+    ],
     "wof:id":168878225,
-    "wof:lastmodified":1449028174,
+    "wof:lastmodified":1453928236,
     "wof:name":"St George's Presbyterian Chr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.19722,42.998562,-81.19722,42.998562],
+  "bbox": [
+    -81.19722,
+    42.998562,
+    -81.19722,
+    42.998562
+],
   "geometry": {"coordinates":[-81.19722,42.998562],"type":"Point"}
 }

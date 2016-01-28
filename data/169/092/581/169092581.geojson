@@ -2,13 +2,14 @@
   "id": 169092581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.486984,43.780613,-79.486984,43.780613",
     "geom:latitude":43.780613,
     "geom:longitude":-79.486984,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"228 Limestone Cres",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895133,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ae9eb2c0926683e40bf9c1e9124fac21",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":169092581
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":169092581
         }
     ],
     "wof:id":169092581,
-    "wof:lastmodified":1449035336,
+    "wof:lastmodified":1453931540,
     "wof:name":"Sms Metal Polishing Ltd",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.486984,43.780613,-79.486984,43.780613],
-  "geometry": {"coordinates":[-79.486984,43.780613],"type":"Point"}
+  "bbox": [
+    -79.486984,
+    43.780613,
+    -79.486984,
+    43.780613
+],
+  "geometry": {"coordinates":[-79.48698400000001,43.780613],"type":"Point"}
 }

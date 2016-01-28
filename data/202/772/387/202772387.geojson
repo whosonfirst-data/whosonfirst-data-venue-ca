@@ -2,13 +2,14 @@
   "id": 202772387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.185417,49.246677,-123.185417,49.246677",
     "geom:latitude":49.246677,
     "geom:longitude":-123.185417,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4445 Dunbar St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85865071,
+        102191575,
         85633041,
-        85682117
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"dc3fe4dc59f897c8a1c7617fd7100d52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":202772387
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":202772387
         }
     ],
     "wof:id":202772387,
-    "wof:lastmodified":1449061264,
+    "wof:lastmodified":1453937218,
     "wof:name":"Van City Savings Credit Union",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.185417,49.246677,-123.185417,49.246677],
+  "bbox": [
+    -123.185417,
+    49.246677,
+    -123.185417,
+    49.246677
+],
   "geometry": {"coordinates":[-123.185417,49.246677],"type":"Point"}
 }

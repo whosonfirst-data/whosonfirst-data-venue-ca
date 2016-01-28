@@ -2,13 +2,14 @@
   "id": 185814043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576225,45.499737,-73.576225,45.499737",
     "geom:latitude":45.499737,
     "geom:longitude":-73.576225,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866491,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"fd8dbe6332f6fba775188d8ea32dcb7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185814043
         }
     ],
     "wof:id":185814043,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1453927230,
     "wof:name":"Loumar Courier Inc",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
         "courier"
     ]
 },
-  "bbox": [-73.576225,45.499737,-73.576225,45.499737],
-  "geometry": {"coordinates":[-73.576225,45.499737],"type":"Point"}
+  "bbox": [
+    -73.576225,
+    45.499737,
+    -73.576225,
+    45.499737
+],
+  "geometry": {"coordinates":[-73.57622499999999,45.499737],"type":"Point"}
 }

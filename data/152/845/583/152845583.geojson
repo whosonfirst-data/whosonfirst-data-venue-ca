@@ -2,13 +2,14 @@
   "id": 152845583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.545769,45.577812,-73.545769,45.577812",
     "geom:latitude":45.577812,
     "geom:longitude":-73.545769,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6070 Rue Sherbrooke E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874169,
+        102191575,
         85633041,
-        85874169
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8ee15e7ba2f7ed488b5198a4c1c38d51",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
+            "region_id":136251273,
             "venue_id":152845583
         }
     ],
     "wof:id":152845583,
-    "wof:lastmodified":1449045059,
+    "wof:lastmodified":1453933405,
     "wof:name":"Beaupre, Pierre",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.545769,45.577812,-73.545769,45.577812],
-  "geometry": {"coordinates":[-73.545769,45.577812],"type":"Point"}
+  "bbox": [
+    -73.545769,
+    45.577812,
+    -73.545769,
+    45.577812
+],
+  "geometry": {"coordinates":[-73.54576900000001,45.577812],"type":"Point"}
 }

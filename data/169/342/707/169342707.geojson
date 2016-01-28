@@ -2,13 +2,14 @@
   "id": 169342707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738289,45.569683,-73.738289,45.569683",
     "geom:latitude":45.569683,
     "geom:longitude":-73.738289,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1974 Boul Le Corbusier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897571,
+        102191575,
         85633041,
-        85897571
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"f3b8b40537f76a81ec5c19e0e4231264",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897571,
+            "region_id":136251273,
             "venue_id":169342707
         }
     ],
     "wof:id":169342707,
-    "wof:lastmodified":1449035725,
+    "wof:lastmodified":1453931981,
     "wof:name":"Restaurant Wilfrid Inc",
     "wof:parent_id":85897571,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.738289,45.569683,-73.738289,45.569683],
-  "geometry": {"coordinates":[-73.738289,45.569683],"type":"Point"}
+  "bbox": [
+    -73.738289,
+    45.569683,
+    -73.738289,
+    45.569683
+],
+  "geometry": {"coordinates":[-73.73828899999999,45.569683],"type":"Point"}
 }

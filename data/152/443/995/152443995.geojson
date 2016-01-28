@@ -2,13 +2,14 @@
   "id": 152443995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.263947,42.956337,-81.263947,42.956337",
     "geom:latitude":42.956337,
     "geom:longitude":-81.263947,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"500 Gordon Ave #102",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874933,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lGkqirQ1WKwu3pcoflz70_42.956337_-81.263947@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c3cef4b0601c832243934f1df32a7d70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874933,
+            "region_id":85682057,
+            "venue_id":152443995
+        }
+    ],
     "wof:id":152443995,
-    "wof:lastmodified":1449048068,
+    "wof:lastmodified":1453935700,
     "wof:name":"Brownstone",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.263947,42.956337,-81.263947,42.956337],
+  "bbox": [
+    -81.263947,
+    42.956337,
+    -81.263947,
+    42.956337
+],
   "geometry": {"coordinates":[-81.263947,42.956337],"type":"Point"}
 }

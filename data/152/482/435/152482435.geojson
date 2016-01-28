@@ -2,13 +2,14 @@
   "id": 152482435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.932846,45.386959,-71.932846,45.386959",
     "geom:latitude":45.386959,
     "geom:longitude":-71.932846,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2440 Rue Galt O",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874131,
+        102191575,
         85633041,
-        85874131
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"acfc74740d3f57ca2a8400266a7c495a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
+            "region_id":136251273,
             "venue_id":152482435
         }
     ],
     "wof:id":152482435,
-    "wof:lastmodified":1449045955,
+    "wof:lastmodified":1453934084,
     "wof:name":"Service DE Garde St-Esprit",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.932846,45.386959,-71.932846,45.386959],
+  "bbox": [
+    -71.932846,
+    45.386959,
+    -71.932846,
+    45.386959
+],
   "geometry": {"coordinates":[-71.932846,45.386959],"type":"Point"}
 }

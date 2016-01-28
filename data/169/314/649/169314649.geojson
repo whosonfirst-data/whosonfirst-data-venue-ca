@@ -2,13 +2,14 @@
   "id": 169314649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.183304,42.930157,-81.183304,42.930157",
     "geom:latitude":42.930157,
     "geom:longitude":-81.183304,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1052 Hubrey Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "plating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874921,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nNL7B60Loov3wqEWLwmd2_42.930157_-81.183304@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f247c87ee60399225b4a5979b13490ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874921,
+            "region_id":85682057,
+            "venue_id":169314649
+        }
+    ],
     "wof:id":169314649,
-    "wof:lastmodified":1449035821,
+    "wof:lastmodified":1453932110,
     "wof:name":"Superior Metal Finishing Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874921,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.183304,42.930157,-81.183304,42.930157],
-  "geometry": {"coordinates":[-81.183304,42.930157],"type":"Point"}
+  "bbox": [
+    -81.183304,
+    42.930157,
+    -81.183304,
+    42.930157
+],
+  "geometry": {"coordinates":[-81.18330400000001,42.930157],"type":"Point"}
 }

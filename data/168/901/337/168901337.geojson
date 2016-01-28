@@ -2,13 +2,14 @@
   "id": 168901337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.609306,44.33987,-79.609306,44.33987",
     "geom:latitude":44.33987,
     "geom:longitude":-79.609306,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1987 Lockhart Rd",
     "sg:city":"Innisfil",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864501,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1se428vC3qTifWvRlv1yZU_44.339870_-79.609306@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"8793863a7da33aa8ac7536ee4294932a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85864501,
+            "region_id":85682057,
+            "venue_id":168901337
+        }
+    ],
     "wof:id":168901337,
-    "wof:lastmodified":1449028098,
+    "wof:lastmodified":1453928150,
     "wof:name":"Bruce Webb Builders Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864501,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.609306,44.33987,-79.609306,44.33987],
+  "bbox": [
+    -79.609306,
+    44.33987,
+    -79.609306,
+    44.33987
+],
   "geometry": {"coordinates":[-79.609306,44.33987],"type":"Point"}
 }

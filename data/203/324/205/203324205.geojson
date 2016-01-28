@@ -2,13 +2,14 @@
   "id": 203324205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.714737,44.277149,-76.714737,44.277149",
     "geom:latitude":44.277149,
     "geom:longitude":-76.714737,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"190 Main St",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864679,
+        102191575,
         85633041,
-        85682057
+        101740731,
+        85682057,
+        101735963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"f39b89869408cbbf09457a4f5f9cdf80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740731,
+            "neighbourhood_id":85864679,
+            "region_id":85682057,
+            "venue_id":203324205
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735963,
             "neighbourhood_id":85864679,
             "region_id":85682057,
             "venue_id":203324205
         }
     ],
     "wof:id":203324205,
-    "wof:lastmodified":1449026052,
+    "wof:lastmodified":1453927611,
     "wof:name":"Clemco Insulation Ltd",
     "wof:parent_id":85864679,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.714737,44.277149,-76.714737,44.277149],
+  "bbox": [
+    -76.714737,
+    44.277149,
+    -76.714737,
+    44.277149
+],
   "geometry": {"coordinates":[-76.714737,44.277149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152702789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.789825,43.378258,-79.789825,43.378258",
     "geom:latitude":43.378258,
     "geom:longitude":-79.789825,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4211 Mainway",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895583,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"bb6dfff1ffbb980acff6434107b0da2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895583,
+            "region_id":85682057,
+            "venue_id":152702789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895583,
             "region_id":85682057,
             "venue_id":152702789
         }
     ],
     "wof:id":152702789,
-    "wof:lastmodified":1449046613,
+    "wof:lastmodified":1453934577,
     "wof:name":"Nitrex Metal Technologies Inc",
     "wof:parent_id":85895583,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.789825,43.378258,-79.789825,43.378258],
-  "geometry": {"coordinates":[-79.789825,43.378258],"type":"Point"}
+  "bbox": [
+    -79.789825,
+    43.378258,
+    -79.789825,
+    43.378258
+],
+  "geometry": {"coordinates":[-79.78982499999999,43.378258],"type":"Point"}
 }

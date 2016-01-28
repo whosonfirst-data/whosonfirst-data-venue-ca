@@ -2,13 +2,14 @@
   "id": 169327459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.019844,43.838634,-79.019844,43.838634",
     "geom:latitude":43.838634,
     "geom:longitude":-79.019844,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"75 Centennial Rd",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895635,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f2a99be241ccb3fd3ded4552d134a3bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":169327459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":169327459
         }
     ],
     "wof:id":169327459,
-    "wof:lastmodified":1449032926,
+    "wof:lastmodified":1453929041,
     "wof:name":"Ajax Community Ctr",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.019844,43.838634,-79.019844,43.838634],
-  "geometry": {"coordinates":[-79.019844,43.838634],"type":"Point"}
+  "bbox": [
+    -79.019844,
+    43.838634,
+    -79.019844,
+    43.838634
+],
+  "geometry": {"coordinates":[-79.01984400000001,43.838634],"type":"Point"}
 }

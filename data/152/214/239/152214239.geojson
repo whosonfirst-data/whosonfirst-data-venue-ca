@@ -2,13 +2,14 @@
   "id": 152214239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.283379,43.028454,-81.283379,43.028454",
     "geom:latitude":43.028454,
     "geom:longitude":-81.283379,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1740 Richmond St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "chocolate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864487,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08MdIxRVHkHIyijO9WX7Al_43.028454_-81.283379@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d467ccb99b7bb632e1986f0c695af5d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864487,
+            "region_id":85682057,
+            "venue_id":152214239
+        }
+    ],
     "wof:id":152214239,
-    "wof:lastmodified":1449048771,
+    "wof:lastmodified":1453936229,
     "wof:name":"Sugar & Spice Chocolate London",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.283379,43.028454,-81.283379,43.028454],
+  "bbox": [
+    -81.283379,
+    43.028454,
+    -81.283379,
+    43.028454
+],
   "geometry": {"coordinates":[-81.283379,43.028454],"type":"Point"}
 }

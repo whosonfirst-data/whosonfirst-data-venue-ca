@@ -2,13 +2,14 @@
   "id": 152293413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.560738,43.768208,-79.560738,43.768208",
     "geom:latitude":43.768208,
     "geom:longitude":-79.560738,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"31 Gaudaur Rd # C4",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"b746fc702592e916b60df4a6c0942698",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152293413
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152293413
         }
     ],
     "wof:id":152293413,
-    "wof:lastmodified":1449045209,
+    "wof:lastmodified":1453933519,
     "wof:name":"Domino Disc Jockey Svc Inc",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.560738,43.768208,-79.560738,43.768208],
+  "bbox": [
+    -79.560738,
+    43.768208,
+    -79.560738,
+    43.768208
+],
   "geometry": {"coordinates":[-79.560738,43.768208],"type":"Point"}
 }

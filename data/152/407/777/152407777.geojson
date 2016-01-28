@@ -2,13 +2,14 @@
   "id": 152407777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.234467,43.039276,-81.234467,43.039276",
     "geom:latitude":43.039276,
     "geom:longitude":-81.234467,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"29 Tweed Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874941,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JKuc5YoqZ3kAE6uf9VvRO_43.039276_-81.234467@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c1b2adbe403a0670a498f340a02c3e79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874941,
+            "region_id":85682057,
+            "venue_id":152407777
+        }
+    ],
     "wof:id":152407777,
-    "wof:lastmodified":1449046867,
+    "wof:lastmodified":1453934762,
     "wof:name":"Fairmont United Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.234467,43.039276,-81.234467,43.039276],
+  "bbox": [
+    -81.234467,
+    43.039276,
+    -81.234467,
+    43.039276
+],
   "geometry": {"coordinates":[-81.234467,43.039276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152201825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.43647,45.679974,-73.43647,45.679974",
     "geom:latitude":45.679974,
     "geom:longitude":-73.43647,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2140 Boul Rene-Gaultier",
     "sg:city":"Varennes",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738581,
+        85895719,
+        102191575,
         85633041,
-        85895719
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"18f87ed1a169019406a2142ceb942fb1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
+            "region_id":136251273,
             "venue_id":152201825
         }
     ],
     "wof:id":152201825,
-    "wof:lastmodified":1449048298,
+    "wof:lastmodified":1453935865,
     "wof:name":"Restaurant Baguettes Chinoises",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.43647,45.679974,-73.43647,45.679974],
+  "bbox": [
+    -73.43647,
+    45.679974,
+    -73.43647,
+    45.679974
+],
   "geometry": {"coordinates":[-73.43647,45.679974],"type":"Point"}
 }

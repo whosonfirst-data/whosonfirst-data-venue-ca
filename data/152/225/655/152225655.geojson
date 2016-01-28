@@ -2,13 +2,14 @@
   "id": 152225655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.754906,45.546722,-73.754906,45.546722",
     "geom:latitude":45.546722,
     "geom:longitude":-73.754906,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1276 Boul Cure-Labelle",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5c45082b860c067ff1f92b98293baed1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":152225655
         }
     ],
     "wof:id":152225655,
-    "wof:lastmodified":1449045746,
+    "wof:lastmodified":1453933928,
     "wof:name":"Fournier, Jacques DDS",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.754906,45.546722,-73.754906,45.546722],
-  "geometry": {"coordinates":[-73.754906,45.546722],"type":"Point"}
+  "bbox": [
+    -73.754906,
+    45.546722,
+    -73.754906,
+    45.546722
+],
+  "geometry": {"coordinates":[-73.75490600000001,45.546722],"type":"Point"}
 }

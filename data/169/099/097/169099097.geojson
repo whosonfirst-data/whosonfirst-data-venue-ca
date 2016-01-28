@@ -2,13 +2,14 @@
   "id": 169099097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.19957,43.176266,-79.19957,43.176266",
     "geom:latitude":43.176266,
     "geom:longitude":-79.19957,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"142 Cushman Rd",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"abd3a14dc9ad6e2260f343c4751ce5f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":169099097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":169099097
         }
     ],
     "wof:id":169099097,
-    "wof:lastmodified":1449034832,
+    "wof:lastmodified":1453931068,
     "wof:name":"Robertson Custom Woodworking",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.19957,43.176266,-79.19957,43.176266],
-  "geometry": {"coordinates":[-79.19957,43.176266],"type":"Point"}
+  "bbox": [
+    -79.19957,
+    43.176266,
+    -79.19957,
+    43.176266
+],
+  "geometry": {"coordinates":[-79.19956999999999,43.176266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169081055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.568817,45.5228,-73.568817,45.5228",
     "geom:latitude":45.5228,
     "geom:longitude":-73.568817,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3780 Av Du Parc-Lafontaine",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866475,
+        102191575,
         85633041,
-        85866475
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"bd0c8984342d9a342ecc0f3baab92dbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
+            "region_id":136251273,
             "venue_id":169081055
         }
     ],
     "wof:id":169081055,
-    "wof:lastmodified":1449033713,
+    "wof:lastmodified":1453929834,
     "wof:name":"Gestion Humaine Rma",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.568817,45.5228,-73.568817,45.5228],
+  "bbox": [
+    -73.568817,
+    45.5228,
+    -73.568817,
+    45.5228
+],
   "geometry": {"coordinates":[-73.568817,45.5228],"type":"Point"}
 }

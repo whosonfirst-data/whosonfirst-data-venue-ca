@@ -2,13 +2,14 @@
   "id": 202619559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567734,45.548737,-73.567734,45.548737",
     "geom:latitude":45.548737,
     "geom:longitude":-73.567734,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4835 Place Henri-Valade",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871111,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"e7896177eaff9f4bca4d1eee5c4f6556",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871111,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202619559
         }
     ],
     "wof:id":202619559,
-    "wof:lastmodified":1449060561,
+    "wof:lastmodified":1453937069,
     "wof:name":"Cooperative D'Habitation",
     "wof:parent_id":85871111,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "cooperative"
     ]
 },
-  "bbox": [-73.567734,45.548737,-73.567734,45.548737],
+  "bbox": [
+    -73.567734,
+    45.548737,
+    -73.567734,
+    45.548737
+],
   "geometry": {"coordinates":[-73.567734,45.548737],"type":"Point"}
 }

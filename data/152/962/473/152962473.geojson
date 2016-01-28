@@ -2,13 +2,14 @@
   "id": 152962473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.457481,43.445446,-80.457481,43.445446",
     "geom:latitude":43.445446,
     "geom:longitude":-80.457481,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11 Graber Pl",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875011,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"e078ff63d2a00a8c5ff90b7cc3a8113e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875011,
+            "region_id":85682057,
+            "venue_id":152962473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875011,
             "region_id":85682057,
             "venue_id":152962473
         }
     ],
     "wof:id":152962473,
-    "wof:lastmodified":1449047020,
+    "wof:lastmodified":1453934885,
     "wof:name":"David Alexander Organ Svc",
     "wof:parent_id":85875011,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.457481,43.445446,-80.457481,43.445446],
+  "bbox": [
+    -80.457481,
+    43.445446,
+    -80.457481,
+    43.445446
+],
   "geometry": {"coordinates":[-80.457481,43.445446],"type":"Point"}
 }

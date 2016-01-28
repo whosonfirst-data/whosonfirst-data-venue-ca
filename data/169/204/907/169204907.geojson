@@ -2,13 +2,14 @@
   "id": 169204907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.58271,45.466099,-73.58271,45.466099",
     "geom:latitude":45.466099,
     "geom:longitude":-73.58271,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1475 Rue Gladstone",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866497,
+        102191575,
         85633041,
-        85866497
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a46dec173db204dcaa11214259d6009f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866497,
+            "region_id":136251273,
             "venue_id":169204907
         }
     ],
     "wof:id":169204907,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1453932305,
     "wof:name":"Cms Entrepreneurs Generaux",
     "wof:parent_id":85866497,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.58271,45.466099,-73.58271,45.466099],
-  "geometry": {"coordinates":[-73.58271,45.466099],"type":"Point"}
+  "bbox": [
+    -73.58271,
+    45.466099,
+    -73.58271,
+    45.466099
+],
+  "geometry": {"coordinates":[-73.58271000000001,45.466099],"type":"Point"}
 }

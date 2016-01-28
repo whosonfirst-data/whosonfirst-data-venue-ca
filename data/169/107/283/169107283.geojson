@@ -2,13 +2,14 @@
   "id": 169107283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.023201,45.381081,-74.023201,45.381081",
     "geom:latitude":45.381081,
     "geom:longitude":-74.023201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"436 Rue Valois",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895767,
+        102191575,
         85633041,
-        85895767
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"30873c5ac4b9960f43afecb98cc792ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895767,
+            "region_id":136251273,
             "venue_id":169107283
         }
     ],
     "wof:id":169107283,
-    "wof:lastmodified":1449032700,
+    "wof:lastmodified":1453928810,
     "wof:name":"Distrobel Inc",
     "wof:parent_id":85895767,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.023201,45.381081,-74.023201,45.381081],
+  "bbox": [
+    -74.023201,
+    45.381081,
+    -74.023201,
+    45.381081
+],
   "geometry": {"coordinates":[-74.023201,45.381081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152287783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.746391,45.541496,-73.746391,45.541496",
     "geom:latitude":45.541496,
     "geom:longitude":-73.746391,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3828 Boul Notre-Dame",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"06bcb414187ba099ffddc4777f8d6b9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":152287783
         }
     ],
     "wof:id":152287783,
-    "wof:lastmodified":1449044576,
+    "wof:lastmodified":1453933043,
     "wof:name":"Karellis, Nicolas MD",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.746391,45.541496,-73.746391,45.541496],
+  "bbox": [
+    -73.746391,
+    45.541496,
+    -73.746391,
+    45.541496
+],
   "geometry": {"coordinates":[-73.746391,45.541496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169107851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.695335,45.537991,-73.695335,45.537991",
     "geom:latitude":45.537991,
     "geom:longitude":-73.695335,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11916 Rue Philippe-Hebert",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897495,
+        102191575,
         85633041,
-        85897495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"d01091f16ceab82e0c65cfcf813994cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897495,
+            "region_id":136251273,
             "venue_id":169107851
         }
     ],
     "wof:id":169107851,
-    "wof:lastmodified":1449032699,
+    "wof:lastmodified":1453928813,
     "wof:name":"Voyages Peter Pan Inc",
     "wof:parent_id":85897495,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.695335,45.537991,-73.695335,45.537991],
+  "bbox": [
+    -73.695335,
+    45.537991,
+    -73.695335,
+    45.537991
+],
   "geometry": {"coordinates":[-73.695335,45.537991],"type":"Point"}
 }

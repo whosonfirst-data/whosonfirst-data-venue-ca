@@ -2,13 +2,14 @@
   "id": 152899243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.20977,46.810513,-71.20977,46.810513",
     "geom:latitude":46.810513,
     "geom:longitude":-71.20977,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"86 Rue Saint-Louis",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864435,
+        102191575,
         85633041,
-        85864435
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3080f8a8cdcd773e5f2af266b8f7016b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864435,
+            "region_id":136251273,
             "venue_id":152899243
         }
     ],
     "wof:id":152899243,
-    "wof:lastmodified":1449048686,
+    "wof:lastmodified":1453936159,
     "wof:name":"Alcan Societe D'Electrolyse",
     "wof:parent_id":85864435,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.20977,46.810513,-71.20977,46.810513],
-  "geometry": {"coordinates":[-71.20977,46.810513],"type":"Point"}
+  "bbox": [
+    -71.20977,
+    46.810513,
+    -71.20977,
+    46.810513
+],
+  "geometry": {"coordinates":[-71.20977000000001,46.810513],"type":"Point"}
 }

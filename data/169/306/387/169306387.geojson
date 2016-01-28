@@ -2,13 +2,14 @@
   "id": 169306387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.230179,43.009048,-81.230179,43.009048",
     "geom:latitude":43.009048,
     "geom:longitude":-81.230179,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"800 Cheapside St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MYAqCXWMjzyBMfypTZfjI_43.009048_-81.230179@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"3c4ab5754d5946b9e8732a8e3dfd23b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":169306387
+        }
+    ],
     "wof:id":169306387,
-    "wof:lastmodified":1449035810,
+    "wof:lastmodified":1453932096,
     "wof:name":"Knollwood Park Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.230179,43.009048,-81.230179,43.009048],
-  "geometry": {"coordinates":[-81.230179,43.009048],"type":"Point"}
+  "bbox": [
+    -81.230179,
+    43.009048,
+    -81.230179,
+    43.009048
+],
+  "geometry": {"coordinates":[-81.23017900000001,43.009048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202839535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.704887,45.534016,-73.704887,45.534016",
     "geom:latitude":45.534016,
     "geom:longitude":-73.704887,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4350 Rue DE Salaberry",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897493,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"348315ee0c10665bcc47fb16e08d279f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897493,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202839535
         }
     ],
     "wof:id":202839535,
-    "wof:lastmodified":1449061643,
+    "wof:lastmodified":1453937298,
     "wof:name":"Maison DE LA Famille Pierre",
     "wof:parent_id":85897493,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.704887,45.534016,-73.704887,45.534016],
+  "bbox": [
+    -73.704887,
+    45.534016,
+    -73.704887,
+    45.534016
+],
   "geometry": {"coordinates":[-73.704887,45.534016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169208573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.59137,45.471558,-73.59137,45.471558",
     "geom:latitude":45.471558,
     "geom:longitude":-73.59137,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4865 Rue Dagenais",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897613,
+        102191575,
         85633041,
-        85897613
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4d61fde40cdc134658f3210d233dac3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897613,
+            "region_id":136251273,
             "venue_id":169208573
         }
     ],
     "wof:id":169208573,
-    "wof:lastmodified":1449033067,
+    "wof:lastmodified":1453929191,
     "wof:name":"Alex Davis & Assoc",
     "wof:parent_id":85897613,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.59137,45.471558,-73.59137,45.471558],
+  "bbox": [
+    -73.59137,
+    45.471558,
+    -73.59137,
+    45.471558
+],
   "geometry": {"coordinates":[-73.59137,45.471558],"type":"Point"}
 }

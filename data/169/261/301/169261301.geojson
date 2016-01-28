@@ -2,13 +2,14 @@
   "id": 169261301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.600349,43.542679,-79.600349,43.542679",
     "geom:latitude":43.542679,
     "geom:longitude":-79.600349,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"261 Queen St S",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895089,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"f17895e1a296709e0bc3370d319a8435",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895089,
+            "region_id":85682057,
+            "venue_id":169261301
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895089,
             "region_id":85682057,
             "venue_id":169261301
         }
     ],
     "wof:id":169261301,
-    "wof:lastmodified":1449032735,
+    "wof:lastmodified":1453928849,
     "wof:name":"Salvation Army Family Thrift",
     "wof:parent_id":85895089,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.600349,43.542679,-79.600349,43.542679],
-  "geometry": {"coordinates":[-79.600349,43.542679],"type":"Point"}
+  "bbox": [
+    -79.600349,
+    43.542679,
+    -79.600349,
+    43.542679
+],
+  "geometry": {"coordinates":[-79.60034899999999,43.542679],"type":"Point"}
 }

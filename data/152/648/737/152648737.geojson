@@ -2,13 +2,14 @@
   "id": 152648737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.441116,43.813351,-79.441116,43.813351",
     "geom:latitude":43.813351,
     "geom:longitude":-79.441116,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"78 Binscarth Cres",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895139,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"3aa758b82b0a65942b213f7609663f57",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895139,
+            "region_id":85682057,
+            "venue_id":152648737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895139,
             "region_id":85682057,
             "venue_id":152648737
         }
     ],
     "wof:id":152648737,
-    "wof:lastmodified":1449045559,
+    "wof:lastmodified":1453933792,
     "wof:name":"Zuck, Elaine DC",
     "wof:parent_id":85895139,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.441116,43.813351,-79.441116,43.813351],
-  "geometry": {"coordinates":[-79.441116,43.813351],"type":"Point"}
+  "bbox": [
+    -79.441116,
+    43.813351,
+    -79.441116,
+    43.813351
+],
+  "geometry": {"coordinates":[-79.44111599999999,43.813351],"type":"Point"}
 }

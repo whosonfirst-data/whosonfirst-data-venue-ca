@@ -2,13 +2,14 @@
   "id": 152859239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.695488,43.438435,-79.695488,43.438435",
     "geom:latitude":43.438435,
     "geom:longitude":-79.695488,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"414 Speers Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895183,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"335aceb82c243ae5565c27e2f5d4fd7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895183,
+            "region_id":85682057,
+            "venue_id":152859239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895183,
             "region_id":85682057,
             "venue_id":152859239
         }
     ],
     "wof:id":152859239,
-    "wof:lastmodified":1449047604,
+    "wof:lastmodified":1453935345,
     "wof:name":"Canadian Computer Outlet",
     "wof:parent_id":85895183,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.695488,43.438435,-79.695488,43.438435],
+  "bbox": [
+    -79.695488,
+    43.438435,
+    -79.695488,
+    43.438435
+],
   "geometry": {"coordinates":[-79.695488,43.438435],"type":"Point"}
 }

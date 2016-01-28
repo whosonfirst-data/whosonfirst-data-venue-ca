@@ -2,13 +2,14 @@
   "id": 169087463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.214455,43.150578,-79.214455,43.150578",
     "geom:latitude":43.150578,
     "geom:longitude":-79.214455,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"135 Hartzell Rd",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875033,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101735923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"dd53e97c99314b3e8d87497baf51fc17",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875033,
+            "region_id":85682057,
+            "venue_id":169087463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735923,
             "neighbourhood_id":85875033,
             "region_id":85682057,
             "venue_id":169087463
         }
     ],
     "wof:id":169087463,
-    "wof:lastmodified":1449034201,
+    "wof:lastmodified":1453930393,
     "wof:name":"Midas Auto Svc Experts",
     "wof:parent_id":85875033,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.214455,43.150578,-79.214455,43.150578],
+  "bbox": [
+    -79.214455,
+    43.150578,
+    -79.214455,
+    43.150578
+],
   "geometry": {"coordinates":[-79.214455,43.150578],"type":"Point"}
 }

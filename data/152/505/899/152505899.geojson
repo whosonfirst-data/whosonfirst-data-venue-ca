@@ -2,13 +2,14 @@
   "id": 152505899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630501,45.488567,-73.630501,45.488567",
     "geom:latitude":45.488567,
     "geom:longitude":-73.630501,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4902 Av Lacombe",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897527,
+        102191575,
         85633041,
-        85897527
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bb09c579d6fe62677a91c8f8d9cfd61b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897527,
+            "region_id":136251273,
             "venue_id":152505899
         }
     ],
     "wof:id":152505899,
-    "wof:lastmodified":1449048160,
+    "wof:lastmodified":1453935763,
     "wof:name":"Torah Study Ctr of Montreal",
     "wof:parent_id":85897527,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.630501,45.488567,-73.630501,45.488567],
+  "bbox": [
+    -73.630501,
+    45.488567,
+    -73.630501,
+    45.488567
+],
   "geometry": {"coordinates":[-73.630501,45.488567],"type":"Point"}
 }

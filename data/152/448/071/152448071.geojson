@@ -2,13 +2,14 @@
   "id": 152448071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.226891,46.813576,-71.226891,46.813576",
     "geom:latitude":46.813576,
     "geom:longitude":-71.226891,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"286 Rue Saint-Joseph E",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866509,
+        102191575,
         85633041,
-        85866509
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2b852b9c89fe23229e7e77f587e009d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
+            "region_id":136251273,
             "venue_id":152448071
         }
     ],
     "wof:id":152448071,
-    "wof:lastmodified":1449048698,
+    "wof:lastmodified":1453936169,
     "wof:name":"Librairie Pantoute Inc",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.226891,46.813576,-71.226891,46.813576],
-  "geometry": {"coordinates":[-71.226891,46.813576],"type":"Point"}
+  "bbox": [
+    -71.226891,
+    46.813576,
+    -71.226891,
+    46.813576
+],
+  "geometry": {"coordinates":[-71.22689099999999,46.813576],"type":"Point"}
 }

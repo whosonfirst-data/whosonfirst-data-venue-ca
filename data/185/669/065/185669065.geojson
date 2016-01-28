@@ -2,13 +2,14 @@
   "id": 185669065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.879097,43.886162,-78.879097,43.886162",
     "geom:latitude":43.886162,
     "geom:longitude":-78.879097,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"481 Gibb St",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875155,
+        102191575,
         85633041,
-        85682057
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"59c2bfb23ec1f094a88bcbad29131902",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875155,
+            "region_id":85682057,
+            "venue_id":185669065
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875155,
             "region_id":85682057,
             "venue_id":185669065
         }
     ],
     "wof:id":185669065,
-    "wof:lastmodified":1449006789,
+    "wof:lastmodified":1453927215,
     "wof:name":"Dry Cleaner",
     "wof:parent_id":85875155,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-78.879097,43.886162,-78.879097,43.886162],
+  "bbox": [
+    -78.879097,
+    43.886162,
+    -78.879097,
+    43.886162
+],
   "geometry": {"coordinates":[-78.879097,43.886162],"type":"Point"}
 }

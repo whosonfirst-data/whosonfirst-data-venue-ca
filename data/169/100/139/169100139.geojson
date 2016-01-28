@@ -2,13 +2,14 @@
   "id": 169100139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.791679,45.448444,-73.791679,45.448444",
     "geom:latitude":45.448444,
     "geom:longitude":-73.791679,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875793,
+        102191575,
         85633041,
-        85875793
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"53f9a6d1d7ff6131a3599a940d90d99b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875793,
+            "region_id":136251273,
             "venue_id":169100139
         }
     ],
     "wof:id":169100139,
-    "wof:lastmodified":1449035119,
+    "wof:lastmodified":1453931341,
     "wof:name":"Centre Chiropratique Pt-Claire",
     "wof:parent_id":85875793,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.791679,45.448444,-73.791679,45.448444],
+  "bbox": [
+    -73.791679,
+    45.448444,
+    -73.791679,
+    45.448444
+],
   "geometry": {"coordinates":[-73.791679,45.448444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168850885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043411,43.772667,-80.043411,43.772667",
     "geom:latitude":43.772667,
     "geom:longitude":-80.043411,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Erin",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895075,
-        85682057
+        102191575,
+        85633041,
+        101736161,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7b76ad5ae4fe397e85ad29742cb41b2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736161,
+            "neighbourhood_id":85895075,
+            "region_id":85682057,
+            "venue_id":168850885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85895075,
             "region_id":85682057,
             "venue_id":168850885
         }
     ],
     "wof:id":168850885,
-    "wof:lastmodified":1449028216,
+    "wof:lastmodified":1453928282,
     "wof:name":"Dufferin Aggregates",
     "wof:parent_id":85895075,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.043411,43.772667,-80.043411,43.772667],
-  "geometry": {"coordinates":[-80.043411,43.772667],"type":"Point"}
+  "bbox": [
+    -80.043411,
+    43.772667,
+    -80.043411,
+    43.772667
+],
+  "geometry": {"coordinates":[-80.04341100000001,43.772667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169540145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.659988,43.709435,-79.659988,43.709435",
     "geom:latitude":43.709435,
     "geom:longitude":-79.659988,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894971,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"89e0c19d413b7cab328f95a0d1750414",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894971,
+            "region_id":85682057,
+            "venue_id":169540145
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894971,
             "region_id":85682057,
             "venue_id":169540145
         }
     ],
     "wof:id":169540145,
-    "wof:lastmodified":1449033976,
+    "wof:lastmodified":1453930137,
     "wof:name":"G M Gilmore Distributing Ltd",
     "wof:parent_id":85894971,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.659988,43.709435,-79.659988,43.709435],
+  "bbox": [
+    -79.659988,
+    43.709435,
+    -79.659988,
+    43.709435
+],
   "geometry": {"coordinates":[-79.659988,43.709435],"type":"Point"}
 }

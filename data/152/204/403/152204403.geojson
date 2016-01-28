@@ -2,13 +2,14 @@
   "id": 152204403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.396675,43.824909,-79.396675,43.824909",
     "geom:latitude":43.824909,
     "geom:longitude":-79.396675,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"21 Harlech Crt",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895609,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"042e36025ae515a09ffb856446619529",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895609,
+            "region_id":85682057,
+            "venue_id":152204403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895609,
             "region_id":85682057,
             "venue_id":152204403
         }
     ],
     "wof:id":152204403,
-    "wof:lastmodified":1449049032,
+    "wof:lastmodified":1453936459,
     "wof:name":"A E Auto Plus",
     "wof:parent_id":85895609,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.396675,43.824909,-79.396675,43.824909],
+  "bbox": [
+    -79.396675,
+    43.824909,
+    -79.396675,
+    43.824909
+],
   "geometry": {"coordinates":[-79.396675,43.824909],"type":"Point"}
 }

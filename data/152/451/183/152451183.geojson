@@ -2,13 +2,14 @@
   "id": 152451183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.650902,43.638451,-79.650902,43.638451",
     "geom:latitude":43.638451,
     "geom:longitude":-79.650902,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5750 Timberlea Blvd # 17",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a6974626536fe204dadadb75d82c99ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":152451183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":152451183
         }
     ],
     "wof:id":152451183,
-    "wof:lastmodified":1449046333,
+    "wof:lastmodified":1453934370,
     "wof:name":"North Wales Mechanical Ltd",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.650902,43.638451,-79.650902,43.638451],
+  "bbox": [
+    -79.650902,
+    43.638451,
+    -79.650902,
+    43.638451
+],
   "geometry": {"coordinates":[-79.650902,43.638451],"type":"Point"}
 }

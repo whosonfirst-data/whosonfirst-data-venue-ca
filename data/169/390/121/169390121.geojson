@@ -2,13 +2,14 @@
   "id": 169390121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.886208,43.510071,-79.886208,43.510071",
     "geom:latitude":43.510071,
     "geom:longitude":-79.886208,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"70 Main St E",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895267,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"68d1737c8c8a68d697756cbfd2943d32",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895267,
+            "region_id":85682057,
+            "venue_id":169390121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895267,
             "region_id":85682057,
             "venue_id":169390121
         }
     ],
     "wof:id":169390121,
-    "wof:lastmodified":1449036003,
+    "wof:lastmodified":1453932262,
     "wof:name":"Zak's Pharmacy",
     "wof:parent_id":85895267,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.886208,43.510071,-79.886208,43.510071],
+  "bbox": [
+    -79.886208,
+    43.510071,
+    -79.886208,
+    43.510071
+],
   "geometry": {"coordinates":[-79.886208,43.510071],"type":"Point"}
 }

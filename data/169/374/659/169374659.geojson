@@ -2,13 +2,14 @@
   "id": 169374659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.701706,43.407009,-79.701706,43.407009",
     "geom:latitude":43.407009,
     "geom:longitude":-79.701706,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"156 Third Line",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e3e0c37c3c4a0b38ffdc889636e61c3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":169374659
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":169374659
         }
     ],
     "wof:id":169374659,
-    "wof:lastmodified":1449034106,
+    "wof:lastmodified":1453930283,
     "wof:name":"Hopedale Presbyterian Church",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.701706,43.407009,-79.701706,43.407009],
+  "bbox": [
+    -79.701706,
+    43.407009,
+    -79.701706,
+    43.407009
+],
   "geometry": {"coordinates":[-79.701706,43.407009],"type":"Point"}
 }

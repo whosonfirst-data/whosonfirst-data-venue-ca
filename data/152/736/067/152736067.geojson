@@ -2,13 +2,14 @@
   "id": 152736067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.36644,43.014633,-82.36644,43.014633",
     "geom:latitude":43.014633,
     "geom:longitude":-82.36644,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1142 Lakeshore Rd",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875569,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"0685d3cc7c32c8dc10b238ac3337dcf9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875569,
+            "region_id":85682057,
+            "venue_id":152736067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875569,
             "region_id":85682057,
             "venue_id":152736067
         }
     ],
     "wof:id":152736067,
-    "wof:lastmodified":1449048858,
+    "wof:lastmodified":1453936295,
     "wof:name":"Liquor Control Board of Ont",
     "wof:parent_id":85875569,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.36644,43.014633,-82.36644,43.014633],
+  "bbox": [
+    -82.36644,
+    43.014633,
+    -82.36644,
+    43.014633
+],
   "geometry": {"coordinates":[-82.36644,43.014633],"type":"Point"}
 }

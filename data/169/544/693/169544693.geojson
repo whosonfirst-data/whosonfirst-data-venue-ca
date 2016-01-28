@@ -2,13 +2,14 @@
   "id": 169544693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.201004,43.170151,-79.201004,43.170151",
     "geom:latitude":43.170151,
     "geom:longitude":-79.201004,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"494 Eastchester Ave E",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875033,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101735923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"75fdc3e70927504015c20e926a4811fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875033,
+            "region_id":85682057,
+            "venue_id":169544693
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735923,
             "neighbourhood_id":85875033,
             "region_id":85682057,
             "venue_id":169544693
         }
     ],
     "wof:id":169544693,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1453932223,
     "wof:name":"Carpet Emporium Inc",
     "wof:parent_id":85875033,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.201004,43.170151,-79.201004,43.170151],
+  "bbox": [
+    -79.201004,
+    43.170151,
+    -79.201004,
+    43.170151
+],
   "geometry": {"coordinates":[-79.201004,43.170151],"type":"Point"}
 }

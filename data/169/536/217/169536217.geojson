@@ -2,13 +2,14 @@
   "id": 169536217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.48111,44.057056,-79.48111,44.057056",
     "geom:latitude":44.057056,
     "geom:longitude":-79.48111,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"17600 Yonge St # E30",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895007,
         102191575,
         85633041,
-        85895007
+        101735877,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101735877,
             "neighbourhood_id":85895007,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169536217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895007,
+            "region_id":85682057,
             "venue_id":169536217
         }
     ],
     "wof:id":169536217,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1453930861,
     "wof:name":"English Butler",
     "wof:parent_id":85895007,
     "wof:placetype":"venue",
@@ -57,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.48111,44.057056,-79.48111,44.057056],
+  "bbox": [
+    -79.48111,
+    44.057056,
+    -79.48111,
+    44.057056
+],
   "geometry": {"coordinates":[-79.48111,44.057056],"type":"Point"}
 }

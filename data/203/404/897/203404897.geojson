@@ -2,13 +2,14 @@
   "id": 203404897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.728004,44.325588,-79.728004,44.325588",
     "geom:latitude":44.325588,
     "geom:longitude":-79.728004,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"555 Mapleview Dr W # 201",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875271,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -38,18 +42,18 @@
     "wof:geomhash":"3f9d725bab96ec26c84f1983273487f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875271,
             "region_id":85682057,
             "venue_id":203404897
         }
     ],
     "wof:id":203404897,
-    "wof:lastmodified":1449026240,
+    "wof:lastmodified":1453927642,
     "wof:name":"Mapleview Family Dentistry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875271,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "dentist"
     ]
 },
-  "bbox": [-79.728004,44.325588,-79.728004,44.325588],
+  "bbox": [
+    -79.728004,
+    44.325588,
+    -79.728004,
+    44.325588
+],
   "geometry": {"coordinates":[-79.728004,44.325588],"type":"Point"}
 }

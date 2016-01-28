@@ -2,13 +2,14 @@
   "id": 219170623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.599564,45.547192,-73.599564,45.547192",
     "geom:latitude":45.547192,
     "geom:longitude":-73.599564,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6777 Rue DE Bordeaux",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874357,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"a0a1e3d41443aaf438c1e3ab14a67687",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219170623
         }
     ],
     "wof:id":219170623,
-    "wof:lastmodified":1449070721,
+    "wof:lastmodified":1453937581,
     "wof:name":"Centre D'Aide DE Bourdeaux",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "psychotherapist"
     ]
 },
-  "bbox": [-73.599564,45.547192,-73.599564,45.547192],
+  "bbox": [
+    -73.599564,
+    45.547192,
+    -73.599564,
+    45.547192
+],
   "geometry": {"coordinates":[-73.599564,45.547192],"type":"Point"}
 }

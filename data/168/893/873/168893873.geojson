@@ -2,13 +2,14 @@
   "id": 168893873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.069412,48.418301,-71.069412,48.418301",
     "geom:latitude":48.418301,
     "geom:longitude":-71.069412,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"770 Rue Jolliet",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"db2c2ec9b3a0c8263d4ab34efd803bcf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":168893873
         }
     ],
     "wof:id":168893873,
-    "wof:lastmodified":1449028432,
+    "wof:lastmodified":1453928517,
     "wof:name":"Salon DE Quilles Le Dallo",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.069412,48.418301,-71.069412,48.418301],
+  "bbox": [
+    -71.069412,
+    48.418301,
+    -71.069412,
+    48.418301
+],
   "geometry": {"coordinates":[-71.069412,48.418301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203193757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.439064,43.878311,-79.439064,43.878311",
     "geom:latitude":43.878311,
     "geom:longitude":-79.439064,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10288 Yonge St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895349,
+        102191575,
         85633041,
-        85682057
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"717d0894d8e0d57f51d9bafbc8132da2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895349,
+            "region_id":85682057,
+            "venue_id":203193757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895349,
             "region_id":85682057,
             "venue_id":203193757
         }
     ],
     "wof:id":203193757,
-    "wof:lastmodified":1449025246,
+    "wof:lastmodified":1453927467,
     "wof:name":"Employment Resource Ctr",
     "wof:parent_id":85895349,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-79.439064,43.878311,-79.439064,43.878311],
+  "bbox": [
+    -79.439064,
+    43.878311,
+    -79.439064,
+    43.878311
+],
   "geometry": {"coordinates":[-79.439064,43.878311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152715097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.761131,45.457432,-73.761131,45.457432",
     "geom:latitude":45.457432,
     "geom:longitude":-73.761131,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Dorval",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"76ba2681d51b5c07d271d5d0404b20a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":152715097
         }
     ],
     "wof:id":152715097,
-    "wof:lastmodified":1449047987,
+    "wof:lastmodified":1453935642,
     "wof:name":"Sdv Air Svc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.761131,45.457432,-73.761131,45.457432],
-  "geometry": {"coordinates":[-73.761131,45.457432],"type":"Point"}
+  "bbox": [
+    -73.761131,
+    45.457432,
+    -73.761131,
+    45.457432
+],
+  "geometry": {"coordinates":[-73.76113100000001,45.457432],"type":"Point"}
 }

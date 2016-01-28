@@ -2,13 +2,14 @@
   "id": 152842449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.319595,46.807568,-71.319595,46.807568",
     "geom:latitude":46.807568,
     "geom:longitude":-71.319595,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c753416f483abd5eb1e5b8ef85d97e84",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152842449
         }
     ],
     "wof:id":152842449,
-    "wof:lastmodified":1449044643,
+    "wof:lastmodified":1453933092,
     "wof:name":"CO-Alliance Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.319595,46.807568,-71.319595,46.807568],
-  "geometry": {"coordinates":[-71.319595,46.807568],"type":"Point"}
+  "bbox": [
+    -71.319595,
+    46.807568,
+    -71.319595,
+    46.807568
+],
+  "geometry": {"coordinates":[-71.31959500000001,46.807568],"type":"Point"}
 }

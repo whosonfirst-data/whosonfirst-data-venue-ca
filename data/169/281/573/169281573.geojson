@@ -2,13 +2,14 @@
   "id": 169281573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.220657,46.815559,-71.220657,46.815559",
     "geom:latitude":46.815559,
     "geom:longitude":-71.220657,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"700 Rue Saint-Joseph E",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866509,
+        102191575,
         85633041,
-        85866509
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"c80d2e74809290ae15cdf1010b142c2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
+            "region_id":136251273,
             "venue_id":169281573
         }
     ],
     "wof:id":169281573,
-    "wof:lastmodified":1449035462,
+    "wof:lastmodified":1453931677,
     "wof:name":"Banque Nationale Du Canada",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.220657,46.815559,-71.220657,46.815559],
+  "bbox": [
+    -71.220657,
+    46.815559,
+    -71.220657,
+    46.815559
+],
   "geometry": {"coordinates":[-71.220657,46.815559],"type":"Point"}
 }

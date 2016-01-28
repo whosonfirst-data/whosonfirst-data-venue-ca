@@ -2,13 +2,14 @@
   "id": 152417559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.489792,45.532631,-73.489792,45.532631",
     "geom:latitude":45.532631,
     "geom:longitude":-73.489792,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1152 Ch DE Chambly",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875721,
+        102191575,
         85633041,
-        85875721
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ba31abca5f0e5ff073736d1e032293cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875721,
+            "region_id":136251273,
             "venue_id":152417559
         }
     ],
     "wof:id":152417559,
-    "wof:lastmodified":1449046204,
+    "wof:lastmodified":1453934275,
     "wof:name":"Uniformes & Accessoires Mode",
     "wof:parent_id":85875721,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.489792,45.532631,-73.489792,45.532631],
-  "geometry": {"coordinates":[-73.489792,45.532631],"type":"Point"}
+  "bbox": [
+    -73.489792,
+    45.532631,
+    -73.489792,
+    45.532631
+],
+  "geometry": {"coordinates":[-73.48979199999999,45.532631],"type":"Point"}
 }

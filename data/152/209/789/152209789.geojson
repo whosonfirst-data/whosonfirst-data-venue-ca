@@ -2,13 +2,14 @@
   "id": 152209789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58255,43.843033,-79.58255,43.843033",
     "geom:latitude":43.843033,
     "geom:longitude":-79.58255,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"252 Millwood Pky",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895459,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"3a0a4f50cfc1be22f2a088d1226f7d7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895459,
+            "region_id":85682057,
+            "venue_id":152209789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895459,
             "region_id":85682057,
             "venue_id":152209789
         }
     ],
     "wof:id":152209789,
-    "wof:lastmodified":1449048431,
+    "wof:lastmodified":1453935975,
     "wof:name":"Fama Construction",
     "wof:parent_id":85895459,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.58255,43.843033,-79.58255,43.843033],
+  "bbox": [
+    -79.58255,
+    43.843033,
+    -79.58255,
+    43.843033
+],
   "geometry": {"coordinates":[-79.58255,43.843033],"type":"Point"}
 }

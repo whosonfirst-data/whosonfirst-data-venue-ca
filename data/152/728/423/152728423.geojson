@@ -2,13 +2,14 @@
   "id": 152728423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.659363,45.532761,-73.659363,45.532761",
     "geom:latitude":45.532761,
     "geom:longitude":-73.659363,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1300 Rue Mazurette",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897497,
+        102191575,
         85633041,
-        85897497
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2fbca6c76889e3b16b5f7ffa9ccc5213",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897497,
+            "region_id":136251273,
             "venue_id":152728423
         }
     ],
     "wof:id":152728423,
-    "wof:lastmodified":1449045369,
+    "wof:lastmodified":1453933644,
     "wof:name":"Nordorient Trading Canada Inc",
     "wof:parent_id":85897497,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.659363,45.532761,-73.659363,45.532761],
+  "bbox": [
+    -73.659363,
+    45.532761,
+    -73.659363,
+    45.532761
+],
   "geometry": {"coordinates":[-73.659363,45.532761],"type":"Point"}
 }

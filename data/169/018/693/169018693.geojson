@@ -2,13 +2,14 @@
   "id": 169018693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.29985,43.763622,-79.29985,43.763622",
     "geom:latitude":43.763622,
     "geom:longitude":-79.29985,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"40 Continental Pl",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -33,9 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
         85895465,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -46,6 +48,7 @@
     "wof:geomhash":"986433f3524265e5b10a86413c68cc19",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85895465,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":169018693,
-    "wof:lastmodified":1449034327,
+    "wof:lastmodified":1453930501,
     "wof:name":"Dollies Unlimited Inc",
     "wof:parent_id":85895465,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.29985,43.763622,-79.29985,43.763622],
-  "geometry": {"coordinates":[-79.29985,43.763622],"type":"Point"}
+  "bbox": [
+    -79.29985,
+    43.763622,
+    -79.29985,
+    43.763622
+],
+  "geometry": {"coordinates":[-79.29985000000001,43.763622],"type":"Point"}
 }

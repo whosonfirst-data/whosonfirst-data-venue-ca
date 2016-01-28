@@ -2,13 +2,14 @@
   "id": 168971531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.699051,45.576275,-73.699051,45.576275",
     "geom:latitude":45.576275,
     "geom:longitude":-73.699051,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1070 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875049,
+        102191575,
         85633041,
-        85875049
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ca457c1630304b21397e293876297b4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875049,
+            "region_id":136251273,
             "venue_id":168971531
         }
     ],
     "wof:id":168971531,
-    "wof:lastmodified":1449028163,
+    "wof:lastmodified":1453928223,
     "wof:name":"Groupe Automobile Enr",
     "wof:parent_id":85875049,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.699051,45.576275,-73.699051,45.576275],
+  "bbox": [
+    -73.699051,
+    45.576275,
+    -73.699051,
+    45.576275
+],
   "geometry": {"coordinates":[-73.699051,45.576275],"type":"Point"}
 }

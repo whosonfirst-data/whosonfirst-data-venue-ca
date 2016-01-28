@@ -2,13 +2,14 @@
   "id": 169298837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.203949,45.300453,-74.203949,45.300453",
     "geom:latitude":45.300453,
     "geom:longitude":-74.203949,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Coteau-Du-Lac",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736785,
+        85897645,
+        102191575,
         85633041,
-        85897645
+        101736785,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"3fdf1f2929105ed6c5a6c4e15616773b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736785,
             "neighbourhood_id":85897645,
+            "region_id":136251273,
             "venue_id":169298837
         }
     ],
     "wof:id":169298837,
-    "wof:lastmodified":1449033575,
+    "wof:lastmodified":1453929698,
     "wof:name":"Distributions Marseille Inc",
     "wof:parent_id":85897645,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.203949,45.300453,-74.203949,45.300453],
-  "geometry": {"coordinates":[-74.203949,45.300453],"type":"Point"}
+  "bbox": [
+    -74.203949,
+    45.300453,
+    -74.203949,
+    45.300453
+],
+  "geometry": {"coordinates":[-74.20394899999999,45.300453],"type":"Point"}
 }

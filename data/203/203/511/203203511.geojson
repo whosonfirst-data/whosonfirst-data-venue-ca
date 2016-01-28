@@ -2,13 +2,14 @@
   "id": 203203511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.489723,43.802612,-79.489723,43.802612",
     "geom:latitude":43.802612,
     "geom:longitude":-79.489723,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Concord",
     "sg:classifiers":[
         {
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895133,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"874158b88f1593718e84169cfce8e6c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":203203511
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":203203511
         }
     ],
     "wof:id":203203511,
-    "wof:lastmodified":1449025751,
+    "wof:lastmodified":1453927563,
     "wof:name":"Cnc Ind Plumbing Hardware",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -61,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.489723,43.802612,-79.489723,43.802612],
+  "bbox": [
+    -79.489723,
+    43.802612,
+    -79.489723,
+    43.802612
+],
   "geometry": {"coordinates":[-79.489723,43.802612],"type":"Point"}
 }

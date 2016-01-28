@@ -2,13 +2,14 @@
   "id": 152379501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.144478,49.205013,-123.144478,49.205013",
     "geom:latitude":49.205013,
     "geom:longitude":-123.144478,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1614 75th Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
+        102555307,
+        85894871,
+        102191575,
         85633041,
-        85865017,
+        101741081,
         85682117
     ],
     "wof:breaches":[],
@@ -42,22 +45,29 @@
     "wof:geomhash":"bb1f44a10ddbb95891f6d14102f4255a",
     "wof:hierarchy":[
         {
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741075,
-            "neighbourhood_id":85865017,
+            "locality_id":101741081,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":152379501
         }
     ],
     "wof:id":152379501,
-    "wof:lastmodified":1449046991,
+    "wof:lastmodified":1453934863,
     "wof:name":"Cascade Lead Products Ltd",
-    "wof:parent_id":85865017,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.144478,49.205013,-123.144478,49.205013],
-  "geometry": {"coordinates":[-123.144478,49.205013],"type":"Point"}
+  "bbox": [
+    -123.144478,
+    49.205013,
+    -123.144478,
+    49.205013
+],
+  "geometry": {"coordinates":[-123.14447800000001,49.205013],"type":"Point"}
 }

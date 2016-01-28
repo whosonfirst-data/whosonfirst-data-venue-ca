@@ -2,13 +2,14 @@
   "id": 202631173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.185722,43.021927,-81.185722,43.021927",
     "geom:latitude":43.021927,
     "geom:longitude":-81.185722,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1870 Cheapside St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85864551,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -38,18 +42,18 @@
     "wof:geomhash":"67c434e96d37164cb7fdb94c24004afc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
             "region_id":85682057,
             "venue_id":202631173
         }
     ],
     "wof:id":202631173,
-    "wof:lastmodified":1449060897,
+    "wof:lastmodified":1453937141,
     "wof:name":"Data Imagenet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "printer"
     ]
 },
-  "bbox": [-81.185722,43.021927,-81.185722,43.021927],
+  "bbox": [
+    -81.185722,
+    43.021927,
+    -81.185722,
+    43.021927
+],
   "geometry": {"coordinates":[-81.185722,43.021927],"type":"Point"}
 }

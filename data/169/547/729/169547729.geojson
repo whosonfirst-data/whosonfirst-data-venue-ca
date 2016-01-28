@@ -2,13 +2,14 @@
   "id": 169547729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.63501,43.477448,-79.63501,43.477448",
     "geom:latitude":43.477448,
     "geom:longitude":-79.63501,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2296 Cheverie St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895645,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"afb89b107bdb8d742d8771a1f54f1672",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895645,
+            "region_id":85682057,
+            "venue_id":169547729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895645,
             "region_id":85682057,
             "venue_id":169547729
         }
     ],
     "wof:id":169547729,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1453929135,
     "wof:name":"Valufax Real Estate Appraisals",
     "wof:parent_id":85895645,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.63501,43.477448,-79.63501,43.477448],
-  "geometry": {"coordinates":[-79.63501,43.477448],"type":"Point"}
+  "bbox": [
+    -79.63501,
+    43.477448,
+    -79.63501,
+    43.477448
+],
+  "geometry": {"coordinates":[-79.63500999999999,43.477448],"type":"Point"}
 }

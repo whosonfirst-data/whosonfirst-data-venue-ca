@@ -2,13 +2,14 @@
   "id": 152851927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566055,45.612373,-73.566055,45.612373",
     "geom:latitude":45.612373,
     "geom:longitude":-73.566055,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Anjou",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4e3c59ea3fc989cdb1278a2d831e43f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152851927
         }
     ],
     "wof:id":152851927,
-    "wof:lastmodified":1449047342,
+    "wof:lastmodified":1453935132,
     "wof:name":"Inter Globe Graphique",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566055,45.612373,-73.566055,45.612373],
-  "geometry": {"coordinates":[-73.566055,45.612373],"type":"Point"}
+  "bbox": [
+    -73.566055,
+    45.612373,
+    -73.566055,
+    45.612373
+],
+  "geometry": {"coordinates":[-73.56605500000001,45.612373],"type":"Point"}
 }

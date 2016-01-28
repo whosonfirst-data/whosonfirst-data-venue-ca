@@ -2,13 +2,14 @@
   "id": 152142259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.554497,46.348442,-72.554497,46.348442",
     "geom:latitude":46.348442,
     "geom:longitude":-72.554497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874119,
+        102191575,
         85633041,
-        85874119
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"9602503d9fec5b5f822636fc5ac96fa8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
+            "region_id":136251273,
             "venue_id":152142259
         }
     ],
     "wof:id":152142259,
-    "wof:lastmodified":1449047994,
+    "wof:lastmodified":1453935645,
     "wof:name":"Maison Albatros Trois-Rivieres",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.554497,46.348442,-72.554497,46.348442],
+  "bbox": [
+    -72.554497,
+    46.348442,
+    -72.554497,
+    46.348442
+],
   "geometry": {"coordinates":[-72.554497,46.348442],"type":"Point"}
 }

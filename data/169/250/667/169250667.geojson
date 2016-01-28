@@ -2,13 +2,14 @@
   "id": 169250667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.787811,45.594433,-73.787811,45.594433",
     "geom:latitude":45.594433,
     "geom:longitude":-73.787811,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"379 Boul Cure-Labelle",
     "sg:city":"Sainte-Rose",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871107,
+        102191575,
         85633041,
-        85871107
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"52f21166f8abba82065535df785201ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871107,
+            "region_id":136251273,
             "venue_id":169250667
         }
     ],
     "wof:id":169250667,
-    "wof:lastmodified":1449034570,
+    "wof:lastmodified":1453930783,
     "wof:name":"Motel Ideal",
     "wof:parent_id":85871107,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.787811,45.594433,-73.787811,45.594433],
+  "bbox": [
+    -73.787811,
+    45.594433,
+    -73.787811,
+    45.594433
+],
   "geometry": {"coordinates":[-73.787811,45.594433],"type":"Point"}
 }

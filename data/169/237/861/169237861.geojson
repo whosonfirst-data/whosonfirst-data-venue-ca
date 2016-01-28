@@ -2,13 +2,14 @@
   "id": 169237861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.390549,43.855991,-79.390549,43.855991",
     "geom:latitude":43.855991,
     "geom:longitude":-79.390549,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"40 West Beaver Creek Rd",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895539,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"7d8c2c74ee613fa8aaffb858a4e8d3f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895539,
+            "region_id":85682057,
+            "venue_id":169237861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895539,
             "region_id":85682057,
             "venue_id":169237861
         }
     ],
     "wof:id":169237861,
-    "wof:lastmodified":1449032766,
+    "wof:lastmodified":1453928888,
     "wof:name":"Elco Fine Foods Inc",
     "wof:parent_id":85895539,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.390549,43.855991,-79.390549,43.855991],
-  "geometry": {"coordinates":[-79.390549,43.855991],"type":"Point"}
+  "bbox": [
+    -79.390549,
+    43.855991,
+    -79.390549,
+    43.855991
+],
+  "geometry": {"coordinates":[-79.39054899999999,43.855991],"type":"Point"}
 }

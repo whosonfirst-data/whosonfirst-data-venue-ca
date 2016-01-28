@@ -2,13 +2,14 @@
   "id": 153090147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673248,52.16404,-106.673248,52.16404",
     "geom:latitude":52.16404,
     "geom:longitude":-106.673248,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"502 45th St W",
     "sg:city":"Saskatoon",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"SK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740015,
-        85633041,
+        102555161,
         85784799,
+        102191575,
+        85633041,
+        101740015,
         85682113
     ],
     "wof:breaches":[],
@@ -37,6 +40,8 @@
     "wof:geomhash":"dc5961d48f77f3d12190fd77cc0a8427",
     "wof:hierarchy":[
         {
+            "campus_id":102555161,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740015,
             "neighbourhood_id":85784799,
@@ -45,14 +50,19 @@
         }
     ],
     "wof:id":153090147,
-    "wof:lastmodified":1449040718,
+    "wof:lastmodified":1453932639,
     "wof:name":"Saskatchewan Agrivision Corp",
-    "wof:parent_id":85784799,
+    "wof:parent_id":102555161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.673248,52.16404,-106.673248,52.16404],
+  "bbox": [
+    -106.673248,
+    52.16404,
+    -106.673248,
+    52.16404
+],
   "geometry": {"coordinates":[-106.673248,52.16404],"type":"Point"}
 }

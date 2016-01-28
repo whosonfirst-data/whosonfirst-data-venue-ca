@@ -2,13 +2,14 @@
   "id": 169551879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.555504,45.506226,-73.555504,45.506226",
     "geom:latitude":45.506226,
     "geom:longitude":-73.555504,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"6ebd0ed853eb77e15bd9e7456f4e23ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":169551879
         }
     ],
     "wof:id":169551879,
-    "wof:lastmodified":1449033350,
+    "wof:lastmodified":1453929456,
     "wof:name":"Ebrahim Mac Leod & Gervais",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.555504,45.506226,-73.555504,45.506226],
+  "bbox": [
+    -73.555504,
+    45.506226,
+    -73.555504,
+    45.506226
+],
   "geometry": {"coordinates":[-73.555504,45.506226],"type":"Point"}
 }

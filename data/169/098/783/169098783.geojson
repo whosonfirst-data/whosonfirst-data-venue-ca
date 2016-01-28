@@ -2,13 +2,14 @@
   "id": 169098783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566978,45.502811,-73.566978,45.502811",
     "geom:latitude":45.502811,
     "geom:longitude":-73.566978,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866493,
+        102191575,
         85633041,
-        85866493
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"4ef21c3df675edf49586c6122a50e7ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866493,
+            "region_id":136251273,
             "venue_id":169098783
         }
     ],
     "wof:id":169098783,
-    "wof:lastmodified":1449035605,
+    "wof:lastmodified":1453931851,
     "wof:name":"Demers Conseil Inc",
     "wof:parent_id":85866493,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566978,45.502811,-73.566978,45.502811],
-  "geometry": {"coordinates":[-73.566978,45.502811],"type":"Point"}
+  "bbox": [
+    -73.566978,
+    45.502811,
+    -73.566978,
+    45.502811
+],
+  "geometry": {"coordinates":[-73.56697800000001,45.502811],"type":"Point"}
 }

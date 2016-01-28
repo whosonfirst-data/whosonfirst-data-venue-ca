@@ -2,13 +2,14 @@
   "id": 152435969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.619217,43.577976,-79.619217,43.577976",
     "geom:latitude":43.577976,
     "geom:longitude":-79.619217,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3004 Novar Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895411,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"38d53b7c763ad315b617e43b066d224f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895411,
+            "region_id":85682057,
+            "venue_id":152435969
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895411,
             "region_id":85682057,
             "venue_id":152435969
         }
     ],
     "wof:id":152435969,
-    "wof:lastmodified":1449048490,
+    "wof:lastmodified":1453936021,
     "wof:name":"Hot Cutss Hair Design",
     "wof:parent_id":85895411,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.619217,43.577976,-79.619217,43.577976],
-  "geometry": {"coordinates":[-79.619217,43.577976],"type":"Point"}
+  "bbox": [
+    -79.619217,
+    43.577976,
+    -79.619217,
+    43.577976
+],
+  "geometry": {"coordinates":[-79.61921700000001,43.577976],"type":"Point"}
 }

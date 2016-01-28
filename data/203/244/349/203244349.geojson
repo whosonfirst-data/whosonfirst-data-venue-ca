@@ -2,13 +2,14 @@
   "id": 203244349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.985703,45.372414,-71.985703,45.372414",
     "geom:latitude":45.372414,
     "geom:longitude":-71.985703,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4832 Boul Bourque",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864389,
+        102191575,
         85633041,
-        101738289
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,16 @@
     "wof:geomhash":"100b23635b3a7235f8f6879bfce9aadd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203244349
         }
     ],
     "wof:id":203244349,
-    "wof:lastmodified":1449025669,
+    "wof:lastmodified":1453927546,
     "wof:name":"Pro Shop Audio",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -66,6 +69,11 @@
         "starter"
     ]
 },
-  "bbox": [-71.985703,45.372414,-71.985703,45.372414],
+  "bbox": [
+    -71.985703,
+    45.372414,
+    -71.985703,
+    45.372414
+],
   "geometry": {"coordinates":[-71.985703,45.372414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152686397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.600143,45.572639,-73.600143,45.572639",
     "geom:latitude":45.572639,
     "geom:longitude":-73.600143,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7910 Boul Provencher",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874359,
+        102191575,
         85633041,
-        85874359
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"9d9be7a58037cb5f1176d76f6d264cb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
+            "region_id":136251273,
             "venue_id":152686397
         }
     ],
     "wof:id":152686397,
-    "wof:lastmodified":1449047795,
+    "wof:lastmodified":1453935498,
     "wof:name":"Boutique DE Quilles Buffa Inc",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.600143,45.572639,-73.600143,45.572639],
+  "bbox": [
+    -73.600143,
+    45.572639,
+    -73.600143,
+    45.572639
+],
   "geometry": {"coordinates":[-73.600143,45.572639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152467627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.29483,45.346493,-73.29483,45.346493",
     "geom:latitude":45.346493,
     "geom:longitude":-73.29483,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"65 Rue Du Ble",
     "sg:city":"Saint-Luc",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85864393,
+        102191575,
         85633041,
-        85864393
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"26203f0de1a15b0b2bca88a4940a0e03",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85864393,
+            "region_id":136251273,
             "venue_id":152467627
         }
     ],
     "wof:id":152467627,
-    "wof:lastmodified":1449047932,
+    "wof:lastmodified":1453935600,
     "wof:name":"Zammit, Maya",
     "wof:parent_id":85864393,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.29483,45.346493,-73.29483,45.346493],
+  "bbox": [
+    -73.29483,
+    45.346493,
+    -73.29483,
+    45.346493
+],
   "geometry": {"coordinates":[-73.29483,45.346493],"type":"Point"}
 }

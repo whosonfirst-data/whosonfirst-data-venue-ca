@@ -2,13 +2,14 @@
   "id": 152752063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.582321,45.599762,-73.582321,45.599762",
     "geom:latitude":45.599762,
     "geom:longitude":-73.582321,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8268 Rue Pascal-Gagnon",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[],
@@ -22,9 +23,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897591,
+        102191575,
         85633041,
-        85897591
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,14 +37,16 @@
     "wof:geomhash":"2454f162ecd134dfedf3a1108b90ffca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897591,
+            "region_id":136251273,
             "venue_id":152752063
         }
     ],
     "wof:id":152752063,
-    "wof:lastmodified":1449045079,
+    "wof:lastmodified":1453933422,
     "wof:name":"Demers & Duckett Assoc",
     "wof:parent_id":85897591,
     "wof:placetype":"venue",
@@ -49,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.582321,45.599762,-73.582321,45.599762],
-  "geometry": {"coordinates":[-73.582321,45.599762],"type":"Point"}
+  "bbox": [
+    -73.582321,
+    45.599762,
+    -73.582321,
+    45.599762
+],
+  "geometry": {"coordinates":[-73.58232099999999,45.599762],"type":"Point"}
 }

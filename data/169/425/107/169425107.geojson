@@ -2,13 +2,14 @@
   "id": 169425107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.847,45.555645,-73.847,45.555645",
     "geom:latitude":45.555645,
     "geom:longitude":-73.847,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4504 Boul Dagenais O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875055,
+        102191575,
         85633041,
-        85875055
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bc6aaa268edcedb260d902ba20338ac8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875055,
+            "region_id":136251273,
             "venue_id":169425107
         }
     ],
     "wof:id":169425107,
-    "wof:lastmodified":1449033851,
+    "wof:lastmodified":1453930015,
     "wof:name":"Pierre-Paul Lavoie Les Serres",
     "wof:parent_id":85875055,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.847,45.555645,-73.847,45.555645],
-  "geometry": {"coordinates":[-73.847,45.555645],"type":"Point"}
+  "bbox": [
+    -73.847,
+    45.555645,
+    -73.847,
+    45.555645
+],
+  "geometry": {"coordinates":[-73.84699999999999,45.555645],"type":"Point"}
 }

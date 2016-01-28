@@ -2,13 +2,14 @@
   "id": 152746229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.711411,43.473457,-79.711411,43.473457",
     "geom:latitude":43.473457,
     "geom:longitude":-79.711411,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2171 Castlefield Cres",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895683,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"ca0109b80dfee061596164a4ea820413",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895683,
+            "region_id":85682057,
+            "venue_id":152746229
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895683,
             "region_id":85682057,
             "venue_id":152746229
         }
     ],
     "wof:id":152746229,
-    "wof:lastmodified":1449044248,
+    "wof:lastmodified":1453932792,
     "wof:name":"All Love Home Daycare",
     "wof:parent_id":85895683,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.711411,43.473457,-79.711411,43.473457],
+  "bbox": [
+    -79.711411,
+    43.473457,
+    -79.711411,
+    43.473457
+],
   "geometry": {"coordinates":[-79.711411,43.473457],"type":"Point"}
 }

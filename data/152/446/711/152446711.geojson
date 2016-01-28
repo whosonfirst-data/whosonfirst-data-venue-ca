@@ -2,13 +2,14 @@
   "id": 152446711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.703316,44.383293,-79.703316,44.383293",
     "geom:latitude":44.383293,
     "geom:longitude":-79.703316,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"259 Dunlop St W",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0llfk8rZTxskhQVwqtExRz_44.383293_-79.703316@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"94e6efb8bfb7d5356b2e62bd62fab3d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":152446711
+        }
+    ],
     "wof:id":152446711,
-    "wof:lastmodified":1449048529,
+    "wof:lastmodified":1453936052,
     "wof:name":"Barrie Anne Gardens",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.703316,44.383293,-79.703316,44.383293],
+  "bbox": [
+    -79.703316,
+    44.383293,
+    -79.703316,
+    44.383293
+],
   "geometry": {"coordinates":[-79.703316,44.383293],"type":"Point"}
 }

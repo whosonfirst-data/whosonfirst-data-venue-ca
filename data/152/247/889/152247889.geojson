@@ -2,13 +2,14 @@
   "id": 152247889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.547394,43.797009,-79.547394,43.797009",
     "geom:latitude":43.797009,
     "geom:longitude":-79.547394,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"140 Jevlan Dr",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"fdfeb8382f397f1484bab8badd5307e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152247889
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152247889
         }
     ],
     "wof:id":152247889,
-    "wof:lastmodified":1449047009,
+    "wof:lastmodified":1453934878,
     "wof:name":"Montecassino Place Banquet",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.547394,43.797009,-79.547394,43.797009],
+  "bbox": [
+    -79.547394,
+    43.797009,
+    -79.547394,
+    43.797009
+],
   "geometry": {"coordinates":[-79.547394,43.797009],"type":"Point"}
 }

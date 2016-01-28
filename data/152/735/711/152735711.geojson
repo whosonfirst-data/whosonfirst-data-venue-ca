@@ -2,13 +2,14 @@
   "id": 152735711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.450356,43.84964,-79.450356,43.84964",
     "geom:latitude":43.84964,
     "geom:longitude":-79.450356,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"528 Carrville Rd",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895707,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"71a5988f819a8538a0c715c2ae1ef3cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895707,
+            "region_id":85682057,
+            "venue_id":152735711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895707,
             "region_id":85682057,
             "venue_id":152735711
         }
     ],
     "wof:id":152735711,
-    "wof:lastmodified":1449048804,
+    "wof:lastmodified":1453936257,
     "wof:name":"Burr House Crafts Gallery",
     "wof:parent_id":85895707,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.450356,43.84964,-79.450356,43.84964],
+  "bbox": [
+    -79.450356,
+    43.84964,
+    -79.450356,
+    43.84964
+],
   "geometry": {"coordinates":[-79.450356,43.84964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152579089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.105263,49.319149,-123.105263,49.319149",
     "geom:latitude":49.319149,
     "geom:longitude":-123.105263,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"221 Lloyd Ave",
     "sg:city":"North Vancouver",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741057,
-        85633041,
         85894913,
+        102191575,
+        85633041,
+        101741057,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"93a184974e547f77b7e82ad385169cf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741057,
             "neighbourhood_id":85894913,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":152579089,
-    "wof:lastmodified":1449045771,
+    "wof:lastmodified":1453933954,
     "wof:name":"West Vancouver Municipal Trnst",
     "wof:parent_id":85894913,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.105263,49.319149,-123.105263,49.319149],
-  "geometry": {"coordinates":[-123.105263,49.319149],"type":"Point"}
+  "bbox": [
+    -123.105263,
+    49.319149,
+    -123.105263,
+    49.319149
+],
+  "geometry": {"coordinates":[-123.10526299999999,49.319149],"type":"Point"}
 }

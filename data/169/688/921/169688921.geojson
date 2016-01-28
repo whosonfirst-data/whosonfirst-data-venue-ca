@@ -2,13 +2,14 @@
   "id": 169688921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.587212,43.788906,-79.587212,43.788906",
     "geom:latitude":43.788906,
     "geom:longitude":-79.587212,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8077 Islington Ave #101A",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894991,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"bf52c6b8c8c7c09ad68250d34cd9c2f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85894991,
+            "region_id":85682057,
+            "venue_id":169688921
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85894991,
             "region_id":85682057,
             "venue_id":169688921
         }
     ],
     "wof:id":169688921,
-    "wof:lastmodified":1449033923,
+    "wof:lastmodified":1453930078,
     "wof:name":"Pine Grove Pharmacy",
     "wof:parent_id":85894991,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.587212,43.788906,-79.587212,43.788906],
-  "geometry": {"coordinates":[-79.587212,43.788906],"type":"Point"}
+  "bbox": [
+    -79.587212,
+    43.788906,
+    -79.587212,
+    43.788906
+],
+  "geometry": {"coordinates":[-79.58721199999999,43.788906],"type":"Point"}
 }

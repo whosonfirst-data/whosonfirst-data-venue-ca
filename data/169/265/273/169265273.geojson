@@ -2,13 +2,14 @@
   "id": 169265273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.917686,43.519512,-79.917686,43.519512",
     "geom:latitude":43.519512,
     "geom:longitude":-79.917686,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"79 Peru Rd",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895323,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e4173baf4eac65669a0b288a4d83e8b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895323,
+            "region_id":85682057,
+            "venue_id":169265273
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895323,
             "region_id":85682057,
             "venue_id":169265273
         }
     ],
     "wof:id":169265273,
-    "wof:lastmodified":1449033812,
+    "wof:lastmodified":1453929968,
     "wof:name":"Fresh As A Rose Cleaning Svc",
     "wof:parent_id":85895323,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.917686,43.519512,-79.917686,43.519512],
+  "bbox": [
+    -79.917686,
+    43.519512,
+    -79.917686,
+    43.519512
+],
   "geometry": {"coordinates":[-79.917686,43.519512],"type":"Point"}
 }

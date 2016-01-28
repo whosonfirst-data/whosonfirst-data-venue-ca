@@ -2,13 +2,14 @@
   "id": 202726065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.096512,43.919327,-80.096512,43.919327",
     "geom:latitude":43.919327,
     "geom:longitude":-80.096512,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"162 Broadway",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895287,
+        102191575,
         85633041,
-        85682057
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"1db7ad3fb6fb1ce0b1520eb2661538bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895287,
+            "region_id":85682057,
+            "venue_id":202726065
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895287,
             "region_id":85682057,
             "venue_id":202726065
         }
     ],
     "wof:id":202726065,
-    "wof:lastmodified":1449061830,
+    "wof:lastmodified":1453937336,
     "wof:name":"Salvation Army Thrift Store",
     "wof:parent_id":85895287,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "thrift"
     ]
 },
-  "bbox": [-80.096512,43.919327,-80.096512,43.919327],
+  "bbox": [
+    -80.096512,
+    43.919327,
+    -80.096512,
+    43.919327
+],
   "geometry": {"coordinates":[-80.096512,43.919327],"type":"Point"}
 }

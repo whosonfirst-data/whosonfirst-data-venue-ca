@@ -2,13 +2,14 @@
   "id": 152165513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.767349,45.450001,-73.767349,45.450001",
     "geom:latitude":45.450001,
     "geom:longitude":-73.767349,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1751 Av Cardinal",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85897651,
+        102191575,
         85633041,
-        85897651
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"27062f4a67bc7541539228d48ab7c7db",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85897651,
+            "region_id":136251273,
             "venue_id":152165513
         }
     ],
     "wof:id":152165513,
-    "wof:lastmodified":1449048907,
+    "wof:lastmodified":1453936351,
     "wof:name":"Depanneur Super Cardinal",
     "wof:parent_id":85897651,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.767349,45.450001,-73.767349,45.450001],
+  "bbox": [
+    -73.767349,
+    45.450001,
+    -73.767349,
+    45.450001
+],
   "geometry": {"coordinates":[-73.767349,45.450001],"type":"Point"}
 }

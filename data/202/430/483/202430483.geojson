@@ -2,13 +2,14 @@
   "id": 202430483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.021851,45.393208,-74.021851,45.393208",
     "geom:latitude":45.393208,
     "geom:longitude":-74.021851,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"380 Av Saint-Charles",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895781,
+        102191575,
         85633041,
-        101736869
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"3fc576afc13cedc1ebaf745a8477c734",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895781,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202430483
         }
     ],
     "wof:id":202430483,
-    "wof:lastmodified":1449061706,
+    "wof:lastmodified":1453937309,
     "wof:name":"Chartrand & Chartrand Inc",
     "wof:parent_id":85895781,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-74.021851,45.393208,-74.021851,45.393208],
+  "bbox": [
+    -74.021851,
+    45.393208,
+    -74.021851,
+    45.393208
+],
   "geometry": {"coordinates":[-74.021851,45.393208],"type":"Point"}
 }

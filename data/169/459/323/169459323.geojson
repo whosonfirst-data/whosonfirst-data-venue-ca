@@ -2,13 +2,14 @@
   "id": 169459323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.712082,45.493309,-73.712082,45.493309",
     "geom:latitude":45.493309,
     "geom:longitude":-73.712082,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1150 Rue Begin",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4080a629d37fd5307c03337ea2f4b607",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169459323
         }
     ],
     "wof:id":169459323,
-    "wof:lastmodified":1449034022,
+    "wof:lastmodified":1453930192,
     "wof:name":"Club Matelas",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.712082,45.493309,-73.712082,45.493309],
+  "bbox": [
+    -73.712082,
+    45.493309,
+    -73.712082,
+    45.493309
+],
   "geometry": {"coordinates":[-73.712082,45.493309],"type":"Point"}
 }

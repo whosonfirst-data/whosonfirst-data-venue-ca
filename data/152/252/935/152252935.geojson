@@ -2,13 +2,14 @@
   "id": 152252935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.953156,43.871387,-78.953156,43.871387",
     "geom:latitude":43.871387,
     "geom:longitude":-78.953156,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"251 Michael Blvd",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895409,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ba62dedaad48f61f4cea8e3471370979",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":152252935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":152252935
         }
     ],
     "wof:id":152252935,
-    "wof:lastmodified":1449044912,
+    "wof:lastmodified":1453933301,
     "wof:name":"Lamiver Inc",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.953156,43.871387,-78.953156,43.871387],
-  "geometry": {"coordinates":[-78.953156,43.871387],"type":"Point"}
+  "bbox": [
+    -78.953156,
+    43.871387,
+    -78.953156,
+    43.871387
+],
+  "geometry": {"coordinates":[-78.95315600000001,43.871387],"type":"Point"}
 }

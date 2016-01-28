@@ -2,13 +2,14 @@
   "id": 152407877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.64785,45.444004,-73.64785,45.444004",
     "geom:latitude":45.444004,
     "geom:longitude":-73.64785,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"301 Rue Saint-Jacques",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736483,
+        85784813,
+        102191575,
         85633041,
-        85784813
+        101736483,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2d3ca9934af637f55d2685b70df7b77e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736483,
             "neighbourhood_id":85784813,
+            "region_id":136251273,
             "venue_id":152407877
         }
     ],
     "wof:id":152407877,
-    "wof:lastmodified":1449046872,
+    "wof:lastmodified":1453934763,
     "wof:name":"Poste D'Essence Lachine",
     "wof:parent_id":85784813,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.64785,45.444004,-73.64785,45.444004],
-  "geometry": {"coordinates":[-73.64785,45.444004],"type":"Point"}
+  "bbox": [
+    -73.64785,
+    45.444004,
+    -73.64785,
+    45.444004
+],
+  "geometry": {"coordinates":[-73.64785000000001,45.444004],"type":"Point"}
 }

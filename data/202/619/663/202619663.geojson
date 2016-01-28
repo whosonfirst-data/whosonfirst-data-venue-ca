@@ -2,13 +2,14 @@
   "id": 202619663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.248917,46.820389,-71.248917,46.820389",
     "geom:latitude":46.820389,
     "geom:longitude":-71.248917,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -27,8 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864413,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,16 @@
     "wof:geomhash":"07f7c4b018eb346232408245286524a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864413,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202619663
         }
     ],
     "wof:id":202619663,
-    "wof:lastmodified":1449060561,
+    "wof:lastmodified":1453937068,
     "wof:name":"Lunetterie New Look",
     "wof:parent_id":85864413,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
         "optician"
     ]
 },
-  "bbox": [-71.248917,46.820389,-71.248917,46.820389],
-  "geometry": {"coordinates":[-71.248917,46.820389],"type":"Point"}
+  "bbox": [
+    -71.248917,
+    46.820389,
+    -71.248917,
+    46.820389
+],
+  "geometry": {"coordinates":[-71.24891700000001,46.820389],"type":"Point"}
 }

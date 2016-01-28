@@ -2,13 +2,14 @@
   "id": 152241385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.639778,45.570339,-73.639778,45.570339",
     "geom:latitude":45.570339,
     "geom:longitude":-73.639778,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2370 Av Charland",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a951d514851254b7a64bcc8fef1bf091",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":152241385
         }
     ],
     "wof:id":152241385,
-    "wof:lastmodified":1449048792,
+    "wof:lastmodified":1453936245,
     "wof:name":"Clinique Veterinaire DE Lille",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.639778,45.570339,-73.639778,45.570339],
-  "geometry": {"coordinates":[-73.639778,45.570339],"type":"Point"}
+  "bbox": [
+    -73.639778,
+    45.570339,
+    -73.639778,
+    45.570339
+],
+  "geometry": {"coordinates":[-73.63977800000001,45.570339],"type":"Point"}
 }

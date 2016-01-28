@@ -2,13 +2,14 @@
   "id": 203343703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.73735,43.737152,-79.73735,43.737152",
     "geom:latitude":43.737152,
     "geom:longitude":-79.73735,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"13 Manorcrest St",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895229,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"a29727bdc87d871e9a0d5e7bca349247",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":203343703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":203343703
         }
     ],
     "wof:id":203343703,
-    "wof:lastmodified":1449026311,
+    "wof:lastmodified":1453927655,
     "wof:name":"Shines Carpet Cleaning",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "carpet"
     ]
 },
-  "bbox": [-79.73735,43.737152,-79.73735,43.737152],
-  "geometry": {"coordinates":[-79.73735,43.737152],"type":"Point"}
+  "bbox": [
+    -79.73735,
+    43.737152,
+    -79.73735,
+    43.737152
+],
+  "geometry": {"coordinates":[-79.73735000000001,43.737152],"type":"Point"}
 }

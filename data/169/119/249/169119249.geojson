@@ -2,13 +2,14 @@
   "id": 169119249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.362236,43.857845,-79.362236,43.857845",
     "geom:latitude":43.857845,
     "geom:longitude":-79.362236,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"60 Renfrew Dr # 248",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895015,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"bb4be68188f2312131e2265df97748b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895015,
+            "region_id":85682057,
+            "venue_id":169119249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895015,
             "region_id":85682057,
             "venue_id":169119249
         }
     ],
     "wof:id":169119249,
-    "wof:lastmodified":1449035038,
+    "wof:lastmodified":1453931259,
     "wof:name":"Chu, George CA",
     "wof:parent_id":85895015,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.362236,43.857845,-79.362236,43.857845],
+  "bbox": [
+    -79.362236,
+    43.857845,
+    -79.362236,
+    43.857845
+],
   "geometry": {"coordinates":[-79.362236,43.857845],"type":"Point"}
 }

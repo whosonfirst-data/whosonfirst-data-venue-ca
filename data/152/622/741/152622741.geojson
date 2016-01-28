@@ -2,13 +2,14 @@
   "id": 152622741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.283371,43.027691,-81.283371,43.027691",
     "geom:latitude":43.027691,
     "geom:longitude":-81.283371,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1735 Richmond St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "cruise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864487,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UjbfOLvnj2QBhilSmDgMo_43.027691_-81.283371@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ee5b8cd50e8a857cfe12d165d2c3fb16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864487,
+            "region_id":85682057,
+            "venue_id":152622741
+        }
+    ],
     "wof:id":152622741,
-    "wof:lastmodified":1449048075,
+    "wof:lastmodified":1453935705,
     "wof:name":"Cruise Ship Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.283371,43.027691,-81.283371,43.027691],
+  "bbox": [
+    -81.283371,
+    43.027691,
+    -81.283371,
+    43.027691
+],
   "geometry": {"coordinates":[-81.283371,43.027691],"type":"Point"}
 }

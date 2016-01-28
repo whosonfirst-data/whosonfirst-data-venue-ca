@@ -2,13 +2,14 @@
   "id": 202592767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.283363,46.877277,-71.283363,46.877277",
     "geom:latitude":46.877277,
     "geom:longitude":-71.283363,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
         {
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785121,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"7358256863592e78f485aaaf69fd7645",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202592767
         }
     ],
     "wof:id":202592767,
-    "wof:lastmodified":1449061556,
+    "wof:lastmodified":1453937281,
     "wof:name":"Vitroplus Ziebart",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -65,6 +68,11 @@
         "car"
     ]
 },
-  "bbox": [-71.283363,46.877277,-71.283363,46.877277],
-  "geometry": {"coordinates":[-71.283363,46.877277],"type":"Point"}
+  "bbox": [
+    -71.283363,
+    46.877277,
+    -71.283363,
+    46.877277
+],
+  "geometry": {"coordinates":[-71.28336299999999,46.877277],"type":"Point"}
 }

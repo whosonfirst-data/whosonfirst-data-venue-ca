@@ -2,13 +2,14 @@
   "id": 169416185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.185341,49.247807,-123.185341,49.247807",
     "geom:latitude":49.247807,
     "geom:longitude":-123.185341,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4321 Dunbar St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865071,
-        85682117
+        102191575,
+        85633041,
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2e219766769c2e80e86b10b6b16f2d62",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":169416185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":169416185
         }
     ],
     "wof:id":169416185,
-    "wof:lastmodified":1449034154,
+    "wof:lastmodified":1453930338,
     "wof:name":"Ideal Bakery",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.185341,49.247807,-123.185341,49.247807],
-  "geometry": {"coordinates":[-123.185341,49.247807],"type":"Point"}
+  "bbox": [
+    -123.185341,
+    49.247807,
+    -123.185341,
+    49.247807
+],
+  "geometry": {"coordinates":[-123.18534099999999,49.247807],"type":"Point"}
 }

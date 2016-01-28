@@ -2,13 +2,14 @@
   "id": 219539333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.694199,44.388496,-79.694199,44.388496",
     "geom:latitude":44.388496,
     "geom:longitude":-79.694199,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"66 Toronto St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -29,7 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875269,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -40,18 +44,18 @@
     "wof:geomhash":"665710a9413bdc8c97d54541aa846b50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
             "region_id":85682057,
             "venue_id":219539333
         }
     ],
     "wof:id":219539333,
-    "wof:lastmodified":1449074003,
+    "wof:lastmodified":1453938025,
     "wof:name":"Apple Auto Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "plate"
     ]
 },
-  "bbox": [-79.694199,44.388496,-79.694199,44.388496],
+  "bbox": [
+    -79.694199,
+    44.388496,
+    -79.694199,
+    44.388496
+],
   "geometry": {"coordinates":[-79.694199,44.388496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169276735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.680275,45.489391,-73.680275,45.489391",
     "geom:latitude":45.489391,
     "geom:longitude":-73.680275,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8465 Ch Darnley",
     "sg:city":"Mont-Royal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"af3c955ebc0be5b35e5df8f2af1a9a33",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169276735
         }
     ],
     "wof:id":169276735,
-    "wof:lastmodified":1449032812,
+    "wof:lastmodified":1453928943,
     "wof:name":"Glen Argyle Inc",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.680275,45.489391,-73.680275,45.489391],
-  "geometry": {"coordinates":[-73.680275,45.489391],"type":"Point"}
+  "bbox": [
+    -73.680275,
+    45.489391,
+    -73.680275,
+    45.489391
+],
+  "geometry": {"coordinates":[-73.68027499999999,45.489391],"type":"Point"}
 }

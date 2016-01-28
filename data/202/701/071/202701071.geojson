@@ -2,13 +2,14 @@
   "id": 202701071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.595779,45.47908,-73.595779,45.47908",
     "geom:latitude":45.47908,
     "geom:longitude":-73.595779,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4675 Rue Sainte-Catherine O",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897627,
+        102191575,
         85633041,
-        101736451
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"c8a649d9b5001c942cc692ef72ecb8f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897627,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202701071
         }
     ],
     "wof:id":202701071,
-    "wof:lastmodified":1449062132,
+    "wof:lastmodified":1453937397,
     "wof:name":"Westmount Parcs & Loisirs",
     "wof:parent_id":85897627,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-73.595779,45.47908,-73.595779,45.47908],
-  "geometry": {"coordinates":[-73.595779,45.47908],"type":"Point"}
+  "bbox": [
+    -73.595779,
+    45.47908,
+    -73.595779,
+    45.47908
+],
+  "geometry": {"coordinates":[-73.59577899999999,45.47908],"type":"Point"}
 }

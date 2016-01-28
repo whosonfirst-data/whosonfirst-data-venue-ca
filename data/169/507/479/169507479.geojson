@@ -2,13 +2,14 @@
   "id": 169507479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101074,43.933403,-80.101074,43.933403",
     "geom:latitude":43.933403,
     "geom:longitude":-80.101074,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"220 First St",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895287,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"ff2fa354a99f5d029c78195fd21c19c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895287,
+            "region_id":85682057,
+            "venue_id":169507479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895287,
             "region_id":85682057,
             "venue_id":169507479
         }
     ],
     "wof:id":169507479,
-    "wof:lastmodified":1449034376,
+    "wof:lastmodified":1453930552,
     "wof:name":"Fred's Tire Svc",
     "wof:parent_id":85895287,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.101074,43.933403,-80.101074,43.933403],
+  "bbox": [
+    -80.101074,
+    43.933403,
+    -80.101074,
+    43.933403
+],
   "geometry": {"coordinates":[-80.101074,43.933403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152535453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.744171,45.584145,-73.744171,45.584145",
     "geom:latitude":45.584145,
     "geom:longitude":-73.744171,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1690 Rue Berlier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875067,
+        102191575,
         85633041,
-        85875067
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9cc5ea81b5620d7756611a023609ecb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
+            "region_id":136251273,
             "venue_id":152535453
         }
     ],
     "wof:id":152535453,
-    "wof:lastmodified":1449045148,
+    "wof:lastmodified":1453933471,
     "wof:name":"Emballages Sara",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.744171,45.584145,-73.744171,45.584145],
-  "geometry": {"coordinates":[-73.744171,45.584145],"type":"Point"}
+  "bbox": [
+    -73.744171,
+    45.584145,
+    -73.744171,
+    45.584145
+],
+  "geometry": {"coordinates":[-73.74417099999999,45.584145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152825539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572212,45.502804,-73.572212,45.502804",
     "geom:latitude":45.502804,
     "geom:longitude":-73.572212,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"92ee69826545ccdcf3ef1bfde694823e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":152825539
         }
     ],
     "wof:id":152825539,
-    "wof:lastmodified":1449044477,
+    "wof:lastmodified":1453932959,
     "wof:name":"Producteurs Laitiers Du Canada",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572212,45.502804,-73.572212,45.502804],
-  "geometry": {"coordinates":[-73.572212,45.502804],"type":"Point"}
+  "bbox": [
+    -73.572212,
+    45.502804,
+    -73.572212,
+    45.502804
+],
+  "geometry": {"coordinates":[-73.57221199999999,45.502804],"type":"Point"}
 }

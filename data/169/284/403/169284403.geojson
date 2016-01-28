@@ -2,13 +2,14 @@
   "id": 169284403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.887321,43.50906,-79.887321,43.50906",
     "geom:latitude":43.50906,
     "geom:longitude":-79.887321,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"26 Main St E",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895267,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"aef804d6f86b27b60214795240924b4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895267,
+            "region_id":85682057,
+            "venue_id":169284403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895267,
             "region_id":85682057,
             "venue_id":169284403
         }
     ],
     "wof:id":169284403,
-    "wof:lastmodified":1449034736,
+    "wof:lastmodified":1453930948,
     "wof:name":"Needfull Things Emporium",
     "wof:parent_id":85895267,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.887321,43.50906,-79.887321,43.50906],
+  "bbox": [
+    -79.887321,
+    43.50906,
+    -79.887321,
+    43.50906
+],
   "geometry": {"coordinates":[-79.887321,43.50906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186117815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.890411,48.336571,-70.890411,48.336571",
     "geom:latitude":48.336571,
     "geom:longitude":-70.890411,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1692 Rue Bagot",
     "sg:city":"LA Baie",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785011,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"5d4b492f17ad89c898b19eb830288c66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186117815
         }
     ],
     "wof:id":186117815,
-    "wof:lastmodified":1449052194,
+    "wof:lastmodified":1453936799,
     "wof:name":"Marche St-Marc",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "butchering"
     ]
 },
-  "bbox": [-70.890411,48.336571,-70.890411,48.336571],
+  "bbox": [
+    -70.890411,
+    48.336571,
+    -70.890411,
+    48.336571
+],
   "geometry": {"coordinates":[-70.890411,48.336571],"type":"Point"}
 }

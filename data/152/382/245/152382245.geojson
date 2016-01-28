@@ -2,13 +2,14 @@
   "id": 152382245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.235764,46.756721,-71.235764,46.756721",
     "geom:latitude":46.756721,
     "geom:longitude":-71.235764,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2233 Rue Dollard",
     "sg:city":"Saint-Romuald",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"8e33133e099e354eac349be986cd6be6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":152382245
         }
     ],
     "wof:id":152382245,
-    "wof:lastmodified":1449045526,
+    "wof:lastmodified":1453933771,
     "wof:name":"Notre-Dame D'Etchemin Ecoles",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.235764,46.756721,-71.235764,46.756721],
+  "bbox": [
+    -71.235764,
+    46.756721,
+    -71.235764,
+    46.756721
+],
   "geometry": {"coordinates":[-71.235764,46.756721],"type":"Point"}
 }

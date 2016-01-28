@@ -2,13 +2,14 @@
   "id": 169255273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.603134,45.567219,-73.603134,45.567219",
     "geom:latitude":45.567219,
     "geom:longitude":-73.603134,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874359,
+        102191575,
         85633041,
-        85874359
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"fc26cb72434260a05349155fc6a0c08e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
+            "region_id":136251273,
             "venue_id":169255273
         }
     ],
     "wof:id":169255273,
-    "wof:lastmodified":1449034175,
+    "wof:lastmodified":1453930354,
     "wof:name":"App Inc",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.603134,45.567219,-73.603134,45.567219],
+  "bbox": [
+    -73.603134,
+    45.567219,
+    -73.603134,
+    45.567219
+],
   "geometry": {"coordinates":[-73.603134,45.567219],"type":"Point"}
 }

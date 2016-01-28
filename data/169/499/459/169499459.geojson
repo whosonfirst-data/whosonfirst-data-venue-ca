@@ -2,13 +2,14 @@
   "id": 169499459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803436,43.321114,-79.803436,43.321114",
     "geom:latitude":43.321114,
     "geom:longitude":-79.803436,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895035,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"0e116b47f7d3fe3202d8561a2af40b88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895035,
+            "region_id":85682057,
+            "venue_id":169499459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895035,
             "region_id":85682057,
             "venue_id":169499459
         }
     ],
     "wof:id":169499459,
-    "wof:lastmodified":1449033318,
+    "wof:lastmodified":1453929416,
     "wof:name":"Berta Property Svc",
     "wof:parent_id":85895035,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.803436,43.321114,-79.803436,43.321114],
+  "bbox": [
+    -79.803436,
+    43.321114,
+    -79.803436,
+    43.321114
+],
   "geometry": {"coordinates":[-79.803436,43.321114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153063123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.375076,43.841637,-79.375076,43.841637",
     "geom:latitude":43.841637,
     "geom:longitude":-79.375076,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Thornhill",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895135,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e49430a3efc94d8976fd59970203cb6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895135,
+            "region_id":85682057,
+            "venue_id":153063123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895135,
             "region_id":85682057,
             "venue_id":153063123
         }
     ],
     "wof:id":153063123,
-    "wof:lastmodified":1449040367,
+    "wof:lastmodified":1453932326,
     "wof:name":"Trillion Capital Corp",
     "wof:parent_id":85895135,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.375076,43.841637,-79.375076,43.841637],
-  "geometry": {"coordinates":[-79.375076,43.841637],"type":"Point"}
+  "bbox": [
+    -79.375076,
+    43.841637,
+    -79.375076,
+    43.841637
+],
+  "geometry": {"coordinates":[-79.37507600000001,43.841637],"type":"Point"}
 }

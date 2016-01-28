@@ -2,13 +2,14 @@
   "id": 169480339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.506149,46.365948,-72.506149,46.365948",
     "geom:latitude":46.365948,
     "geom:longitude":-72.506149,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"166 Rue Loranger",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874113,
+        102191575,
         85633041,
-        85874113
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,16 @@
     "wof:geomhash":"e019603c81c7c8a7be8159e836d1f704",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874113,
+            "region_id":136251273,
             "venue_id":169480339
         }
     ],
     "wof:id":169480339,
-    "wof:lastmodified":1449033766,
+    "wof:lastmodified":1453929907,
     "wof:name":"Maison Jean Lepage Inc",
     "wof:parent_id":85874113,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.506149,46.365948,-72.506149,46.365948],
-  "geometry": {"coordinates":[-72.506149,46.365948],"type":"Point"}
+  "bbox": [
+    -72.506149,
+    46.365948,
+    -72.506149,
+    46.365948
+],
+  "geometry": {"coordinates":[-72.50614899999999,46.365948],"type":"Point"}
 }

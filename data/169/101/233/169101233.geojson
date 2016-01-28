@@ -2,13 +2,14 @@
   "id": 169101233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.445457,45.753326,-73.445457,45.753326",
     "geom:latitude":45.753326,
     "geom:longitude":-73.445457,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"100 Rue DE Normandie",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"34a56c84c84e307951092801619b96bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169101233
         }
     ],
     "wof:id":169101233,
-    "wof:lastmodified":1449034422,
+    "wof:lastmodified":1453930615,
     "wof:name":"Entreposage Extreme",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.445457,45.753326,-73.445457,45.753326],
+  "bbox": [
+    -73.445457,
+    45.753326,
+    -73.445457,
+    45.753326
+],
   "geometry": {"coordinates":[-73.445457,45.753326],"type":"Point"}
 }

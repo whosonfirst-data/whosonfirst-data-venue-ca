@@ -2,13 +2,14 @@
   "id": 202630043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.602943,45.479198,-73.602943,45.479198",
     "geom:latitude":45.479198,
     "geom:longitude":-73.602943,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4826 Rue Sherbrooke O",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897633,
+        102191575,
         85633041,
-        101736451
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"aa01ec1a567e88501355763720971556",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897633,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202630043
         }
     ],
     "wof:id":202630043,
-    "wof:lastmodified":1449061015,
+    "wof:lastmodified":1453937169,
     "wof:name":"Fruits Mont Victoria",
     "wof:parent_id":85897633,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "produce"
     ]
 },
-  "bbox": [-73.602943,45.479198,-73.602943,45.479198],
+  "bbox": [
+    -73.602943,
+    45.479198,
+    -73.602943,
+    45.479198
+],
   "geometry": {"coordinates":[-73.602943,45.479198],"type":"Point"}
 }

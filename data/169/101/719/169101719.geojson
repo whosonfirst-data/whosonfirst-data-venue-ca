@@ -2,13 +2,14 @@
   "id": 169101719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.446892,43.417263,-80.446892,43.417263",
     "geom:latitude":43.417263,
     "geom:longitude":-80.446892,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"160 Webster Rd",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875009,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"c252b6ced4d5e155e9c6cc47984d0a06",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875009,
+            "region_id":85682057,
+            "venue_id":169101719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875009,
             "region_id":85682057,
             "venue_id":169101719
         }
     ],
     "wof:id":169101719,
-    "wof:lastmodified":1449034419,
+    "wof:lastmodified":1453930610,
     "wof:name":"Praxair",
     "wof:parent_id":85875009,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.446892,43.417263,-80.446892,43.417263],
-  "geometry": {"coordinates":[-80.446892,43.417263],"type":"Point"}
+  "bbox": [
+    -80.446892,
+    43.417263,
+    -80.446892,
+    43.417263
+],
+  "geometry": {"coordinates":[-80.44689200000001,43.417263],"type":"Point"}
 }

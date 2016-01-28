@@ -2,13 +2,14 @@
   "id": 153028013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.14595,49.274727,-123.14595,49.274727",
     "geom:latitude":49.274727,
     "geom:longitude":-123.14595,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1270 Chestnut St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85866529,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"0627a38d1bf788abe3341b13577457f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85866529,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":153028013,
-    "wof:lastmodified":1449040615,
+    "wof:lastmodified":1453932546,
     "wof:name":"Vancouver Academy of Music",
     "wof:parent_id":85866529,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.14595,49.274727,-123.14595,49.274727],
+  "bbox": [
+    -123.14595,
+    49.274727,
+    -123.14595,
+    49.274727
+],
   "geometry": {"coordinates":[-123.14595,49.274727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186099181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803696,43.364056,-79.803696,43.364056",
     "geom:latitude":43.364056,
     "geom:longitude":-79.803696,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3267 Mainway",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -31,8 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895639,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,24 @@
     "wof:geomhash":"8d702639e329bb66e90cbaa9e07fbc39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895639,
+            "region_id":85682057,
+            "venue_id":186099181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895639,
             "region_id":85682057,
             "venue_id":186099181
         }
     ],
     "wof:id":186099181,
-    "wof:lastmodified":1449052119,
+    "wof:lastmodified":1453936783,
     "wof:name":"Burlington Technologies Inc",
     "wof:parent_id":85895639,
     "wof:placetype":"venue",
@@ -64,6 +76,11 @@
         "alum"
     ]
 },
-  "bbox": [-79.803696,43.364056,-79.803696,43.364056],
+  "bbox": [
+    -79.803696,
+    43.364056,
+    -79.803696,
+    43.364056
+],
   "geometry": {"coordinates":[-79.803696,43.364056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169446077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.56131,45.381275,-73.56131,45.381275",
     "geom:latitude":45.381275,
     "geom:longitude":-73.56131,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"49 Rue Saint-Pierre #A",
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"bd31e605fd11be250795319b5dc8df0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":169446077
         }
     ],
     "wof:id":169446077,
-    "wof:lastmodified":1449035678,
+    "wof:lastmodified":1453931913,
     "wof:name":"Pre-Maternelle Petits Touche",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.56131,45.381275,-73.56131,45.381275],
-  "geometry": {"coordinates":[-73.56131,45.381275],"type":"Point"}
+  "bbox": [
+    -73.56131,
+    45.381275,
+    -73.56131,
+    45.381275
+],
+  "geometry": {"coordinates":[-73.56131000000001,45.381275],"type":"Point"}
 }

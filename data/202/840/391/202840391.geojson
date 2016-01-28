@@ -2,13 +2,14 @@
   "id": 202840391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.449989,45.56884,-73.449989,45.56884",
     "geom:latitude":45.56884,
     "geom:longitude":-73.449989,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"942 Rue Trans-Canada",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875753,
+        102191575,
         85633041,
-        101738135
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"ad1eacfa160ff7fe0a0edf20938266b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202840391
         }
     ],
     "wof:id":202840391,
-    "wof:lastmodified":1449062089,
+    "wof:lastmodified":1453937386,
     "wof:name":"Gelair Inc",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-73.449989,45.56884,-73.449989,45.56884],
+  "bbox": [
+    -73.449989,
+    45.56884,
+    -73.449989,
+    45.56884
+],
   "geometry": {"coordinates":[-73.449989,45.56884],"type":"Point"}
 }

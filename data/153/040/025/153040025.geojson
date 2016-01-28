@@ -2,13 +2,14 @@
   "id": 153040025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.065514,43.835331,-79.065514,43.835331",
     "geom:latitude":43.835331,
     "geom:longitude":-79.065514,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1033 Toy Ave",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895457,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"14cd2e52662322e6dcdc45542aba330d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895457,
+            "region_id":85682057,
+            "venue_id":153040025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895457,
             "region_id":85682057,
             "venue_id":153040025
         }
     ],
     "wof:id":153040025,
-    "wof:lastmodified":1449040803,
+    "wof:lastmodified":1453932714,
     "wof:name":"Randy's Painting Contracting",
     "wof:parent_id":85895457,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.065514,43.835331,-79.065514,43.835331],
-  "geometry": {"coordinates":[-79.065514,43.835331],"type":"Point"}
+  "bbox": [
+    -79.065514,
+    43.835331,
+    -79.065514,
+    43.835331
+],
+  "geometry": {"coordinates":[-79.06551399999999,43.835331],"type":"Point"}
 }

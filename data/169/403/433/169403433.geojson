@@ -2,13 +2,14 @@
   "id": 169403433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.261322,43.879353,-79.261322,43.879353",
     "geom:latitude":43.879353,
     "geom:longitude":-79.261322,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Markham",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895435,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"a82124872907f1607cfe7dd51b89e4c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895435,
+            "region_id":85682057,
+            "venue_id":169403433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895435,
             "region_id":85682057,
             "venue_id":169403433
         }
     ],
     "wof:id":169403433,
-    "wof:lastmodified":1449035499,
+    "wof:lastmodified":1453931733,
     "wof:name":"A & F Property Management",
     "wof:parent_id":85895435,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.261322,43.879353,-79.261322,43.879353],
-  "geometry": {"coordinates":[-79.261322,43.879353],"type":"Point"}
+  "bbox": [
+    -79.261322,
+    43.879353,
+    -79.261322,
+    43.879353
+],
+  "geometry": {"coordinates":[-79.26132200000001,43.879353],"type":"Point"}
 }

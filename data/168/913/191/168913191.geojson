@@ -2,13 +2,14 @@
   "id": 168913191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.478561,45.575886,-73.478561,45.575886",
     "geom:latitude":45.575886,
     "geom:longitude":-73.478561,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2292 Boul Marie-Victorin",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875745,
+        102191575,
         85633041,
-        85875745
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e83f7a99bea5c6f87940cc3e54610b60",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875745,
+            "region_id":136251273,
             "venue_id":168913191
         }
     ],
     "wof:id":168913191,
-    "wof:lastmodified":1449028065,
+    "wof:lastmodified":1453928113,
     "wof:name":"Belco Acces DE Camping Inc",
     "wof:parent_id":85875745,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.478561,45.575886,-73.478561,45.575886],
+  "bbox": [
+    -73.478561,
+    45.575886,
+    -73.478561,
+    45.575886
+],
   "geometry": {"coordinates":[-73.478561,45.575886],"type":"Point"}
 }

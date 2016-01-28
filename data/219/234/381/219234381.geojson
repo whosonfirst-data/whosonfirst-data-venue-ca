@@ -2,13 +2,14 @@
   "id": 219234381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.626373,45.545368,-73.626373,45.545368",
     "geom:latitude":45.545368,
     "geom:longitude":-73.626373,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"660 Rue Saint-Elie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866495,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"32b9e8576c3e1be638eb5e3d2102ca41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866495,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219234381
         }
     ],
     "wof:id":219234381,
-    "wof:lastmodified":1449073712,
+    "wof:lastmodified":1453937991,
     "wof:name":"Garage Fernand Comtois Inc",
     "wof:parent_id":85866495,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.626373,45.545368,-73.626373,45.545368],
+  "bbox": [
+    -73.626373,
+    45.545368,
+    -73.626373,
+    45.545368
+],
   "geometry": {"coordinates":[-73.626373,45.545368],"type":"Point"}
 }

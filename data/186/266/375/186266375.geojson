@@ -2,13 +2,14 @@
   "id": 186266375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574318,45.502625,-73.574318,45.502625",
     "geom:latitude":45.502625,
     "geom:longitude":-73.574318,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2050 Rue Mansfield",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866501,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"c69da46e4c4e0dcb5425ce68a176272e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186266375
         }
     ],
     "wof:id":186266375,
-    "wof:lastmodified":1449050351,
+    "wof:lastmodified":1453936499,
     "wof:name":"Hotel Le Germain",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574318,45.502625,-73.574318,45.502625],
-  "geometry": {"coordinates":[-73.574318,45.502625],"type":"Point"}
+  "bbox": [
+    -73.574318,
+    45.502625,
+    -73.574318,
+    45.502625
+],
+  "geometry": {"coordinates":[-73.57431800000001,45.502625],"type":"Point"}
 }

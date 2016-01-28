@@ -2,13 +2,14 @@
   "id": 169501795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.611549,45.579674,-73.611549,45.579674",
     "geom:latitude":45.579674,
     "geom:longitude":-73.611549,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4397 Rue Denis-Papin",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874359,
+        102191575,
         85633041,
-        85874359
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"790bd31920d4b04fdced57d1f0200849",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
+            "region_id":136251273,
             "venue_id":169501795
         }
     ],
     "wof:id":169501795,
-    "wof:lastmodified":1449036000,
+    "wof:lastmodified":1453932254,
     "wof:name":"Buffet Marina Inc",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.611549,45.579674,-73.611549,45.579674],
+  "bbox": [
+    -73.611549,
+    45.579674,
+    -73.611549,
+    45.579674
+],
   "geometry": {"coordinates":[-73.611549,45.579674],"type":"Point"}
 }

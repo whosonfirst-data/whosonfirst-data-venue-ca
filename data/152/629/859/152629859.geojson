@@ -2,13 +2,14 @@
   "id": 152629859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.994316,43.832905,-78.994316,43.832905",
     "geom:latitude":43.832905,
     "geom:longitude":-78.994316,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"70 Spiers Cres",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895221,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1c7ed5c3bcfd1a16aeb95c747c0bbfa9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895221,
+            "region_id":85682057,
+            "venue_id":152629859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895221,
             "region_id":85682057,
             "venue_id":152629859
         }
     ],
     "wof:id":152629859,
-    "wof:lastmodified":1449047835,
+    "wof:lastmodified":1453935528,
     "wof:name":"Caldwell Design Svc",
     "wof:parent_id":85895221,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.994316,43.832905,-78.994316,43.832905],
+  "bbox": [
+    -78.994316,
+    43.832905,
+    -78.994316,
+    43.832905
+],
   "geometry": {"coordinates":[-78.994316,43.832905],"type":"Point"}
 }

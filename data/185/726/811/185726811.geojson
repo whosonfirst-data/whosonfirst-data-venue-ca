@@ -2,13 +2,14 @@
   "id": 185726811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.653419,45.568565,-73.653419,45.568565",
     "geom:latitude":45.568565,
     "geom:longitude":-73.653419,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1825 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897501,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"a97575ebc63e80bb209d2c96136ba44e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185726811
         }
     ],
     "wof:id":185726811,
-    "wof:lastmodified":1449007689,
+    "wof:lastmodified":1453927330,
     "wof:name":"Video Super Choix",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.653419,45.568565,-73.653419,45.568565],
+  "bbox": [
+    -73.653419,
+    45.568565,
+    -73.653419,
+    45.568565
+],
   "geometry": {"coordinates":[-73.653419,45.568565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152267469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.559662,45.485943,-73.559662,45.485943",
     "geom:latitude":45.485943,
     "geom:longitude":-73.559662,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1280 Rue DE Conde",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897619,
+        102191575,
         85633041,
-        85897619
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"9efac173282fcbf4a91bf44330eb3c2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897619,
+            "region_id":136251273,
             "venue_id":152267469
         }
     ],
     "wof:id":152267469,
-    "wof:lastmodified":1449048505,
+    "wof:lastmodified":1453936029,
     "wof:name":"Neon Metropolitain Ltee",
     "wof:parent_id":85897619,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.559662,45.485943,-73.559662,45.485943],
+  "bbox": [
+    -73.559662,
+    45.485943,
+    -73.559662,
+    45.485943
+],
   "geometry": {"coordinates":[-73.559662,45.485943],"type":"Point"}
 }

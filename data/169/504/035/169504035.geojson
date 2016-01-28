@@ -2,13 +2,14 @@
   "id": 169504035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.438797,44.048298,-79.438797,44.048298",
     "geom:latitude":44.048298,
     "geom:longitude":-79.438797,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"855 College Manor Dr",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895147,
         102191575,
         85633041,
-        85895147
+        101736295,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736295,
             "neighbourhood_id":85895147,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169504035
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895147,
+            "region_id":85682057,
             "venue_id":169504035
         }
     ],
     "wof:id":169504035,
-    "wof:lastmodified":1449033272,
+    "wof:lastmodified":1453929381,
     "wof:name":"Bogart Public School",
     "wof:parent_id":85895147,
     "wof:placetype":"venue",
@@ -54,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.438797,44.048298,-79.438797,44.048298],
-  "geometry": {"coordinates":[-79.438797,44.048298],"type":"Point"}
+  "bbox": [
+    -79.438797,
+    44.048298,
+    -79.438797,
+    44.048298
+],
+  "geometry": {"coordinates":[-79.43879699999999,44.048298],"type":"Point"}
 }

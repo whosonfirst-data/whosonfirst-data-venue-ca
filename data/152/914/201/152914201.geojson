@@ -2,13 +2,14 @@
   "id": 152914201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.841591,45.479523,-73.841591,45.479523",
     "geom:latitude":45.479523,
     "geom:longitude":-73.841591,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4216 Boul Saint-Jean",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784833,
+        102191575,
         85633041,
-        85784833
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"58f0f8b3d85633354484b7a1f58a6a65",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784833,
+            "region_id":136251273,
             "venue_id":152914201
         }
     ],
     "wof:id":152914201,
-    "wof:lastmodified":1449046072,
+    "wof:lastmodified":1453934173,
     "wof:name":"Steve's Car Wash",
     "wof:parent_id":85784833,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.841591,45.479523,-73.841591,45.479523],
-  "geometry": {"coordinates":[-73.841591,45.479523],"type":"Point"}
+  "bbox": [
+    -73.841591,
+    45.479523,
+    -73.841591,
+    45.479523
+],
+  "geometry": {"coordinates":[-73.84159099999999,45.479523],"type":"Point"}
 }

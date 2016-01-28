@@ -2,13 +2,14 @@
   "id": 168944019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.252068,42.98521,-81.252068,42.98521",
     "geom:latitude":42.98521,
     "geom:longitude":-81.252068,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"140 Fullarton St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UycWUNQyCajz3eBzqCkTt_42.985210_-81.252068@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"21100e9e3ed9276e9af5fea12f69fee0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":168944019
+        }
+    ],
     "wof:id":168944019,
-    "wof:lastmodified":1449028158,
+    "wof:lastmodified":1453928214,
     "wof:name":"Discount Car & Truck Rentals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.252068,42.98521,-81.252068,42.98521],
-  "geometry": {"coordinates":[-81.252068,42.98521],"type":"Point"}
+  "bbox": [
+    -81.252068,
+    42.98521,
+    -81.252068,
+    42.98521
+],
+  "geometry": {"coordinates":[-81.25206799999999,42.98521],"type":"Point"}
 }

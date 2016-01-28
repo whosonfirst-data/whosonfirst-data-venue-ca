@@ -2,13 +2,14 @@
   "id": 168981389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.711555,43.394775,-79.711555,43.394775",
     "geom:latitude":43.394775,
     "geom:longitude":-79.711555,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2441 Lakeshore Rd W",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"705f0aa58d4c069c59e9a14cbe692c48",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":168981389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":168981389
         }
     ],
     "wof:id":168981389,
-    "wof:lastmodified":1449028604,
+    "wof:lastmodified":1453928701,
     "wof:name":"Wine Rack",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.711555,43.394775,-79.711555,43.394775],
+  "bbox": [
+    -79.711555,
+    43.394775,
+    -79.711555,
+    43.394775
+],
   "geometry": {"coordinates":[-79.711555,43.394775],"type":"Point"}
 }

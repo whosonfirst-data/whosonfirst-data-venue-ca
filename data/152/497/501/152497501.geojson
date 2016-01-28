@@ -2,13 +2,14 @@
   "id": 152497501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.430199,43.904282,-79.430199,43.904282",
     "geom:latitude":43.904282,
     "geom:longitude":-79.430199,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"110 Summitcrest Dr",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895701,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"cf9cd122223ae1226d782c5f4c0bb53a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895701,
+            "region_id":85682057,
+            "venue_id":152497501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895701,
             "region_id":85682057,
             "venue_id":152497501
         }
     ],
     "wof:id":152497501,
-    "wof:lastmodified":1449048847,
+    "wof:lastmodified":1453936290,
     "wof:name":"Supreme Towing",
     "wof:parent_id":85895701,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.430199,43.904282,-79.430199,43.904282],
+  "bbox": [
+    -79.430199,
+    43.904282,
+    -79.430199,
+    43.904282
+],
   "geometry": {"coordinates":[-79.430199,43.904282],"type":"Point"}
 }

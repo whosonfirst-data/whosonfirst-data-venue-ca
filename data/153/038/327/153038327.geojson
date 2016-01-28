@@ -2,13 +2,14 @@
   "id": 153038327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.759529,45.635731,-73.759529,45.635731",
     "geom:latitude":45.635731,
     "geom:longitude":-73.759529,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"260 Rue Sackville",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784663,
+        102191575,
         85633041,
-        85784663
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f95db6e7828ce0de1b7301c8331d8ac3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784663,
+            "region_id":136251273,
             "venue_id":153038327
         }
     ],
     "wof:id":153038327,
-    "wof:lastmodified":1449040671,
+    "wof:lastmodified":1453932592,
     "wof:name":"Residence Johanne Methot",
     "wof:parent_id":85784663,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.759529,45.635731,-73.759529,45.635731],
+  "bbox": [
+    -73.759529,
+    45.635731,
+    -73.759529,
+    45.635731
+],
   "geometry": {"coordinates":[-73.759529,45.635731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169175967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.262543,42.971203,-81.262543,42.971203",
     "geom:latitude":42.971203,
     "geom:longitude":-81.262543,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"23 Erie Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -29,23 +30,43 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864623,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DWUvDm8bETQdctf5ADeja_42.971203_-81.262543@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0612aaf512f877144dea1971ca8be549",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864623,
+            "region_id":85682057,
+            "venue_id":169175967
+        }
+    ],
     "wof:id":169175967,
-    "wof:lastmodified":1449034979,
+    "wof:lastmodified":1453931199,
     "wof:name":"Benjamin's Chimney Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.262543,42.971203,-81.262543,42.971203],
-  "geometry": {"coordinates":[-81.262543,42.971203],"type":"Point"}
+  "bbox": [
+    -81.262543,
+    42.971203,
+    -81.262543,
+    42.971203
+],
+  "geometry": {"coordinates":[-81.26254299999999,42.971203],"type":"Point"}
 }

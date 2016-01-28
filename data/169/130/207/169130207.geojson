@@ -2,13 +2,14 @@
   "id": 169130207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.750984,45.495564,-73.750984,45.495564",
     "geom:latitude":45.495564,
     "geom:longitude":-73.750984,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2945 Rue DE Miniac",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ec4cf0d55b04e0095858fa724ad4c554",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169130207
         }
     ],
     "wof:id":169130207,
-    "wof:lastmodified":1449033826,
+    "wof:lastmodified":1453929983,
     "wof:name":"Planchers Jan Andre Inc",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.750984,45.495564,-73.750984,45.495564],
+  "bbox": [
+    -73.750984,
+    45.495564,
+    -73.750984,
+    45.495564
+],
   "geometry": {"coordinates":[-73.750984,45.495564],"type":"Point"}
 }

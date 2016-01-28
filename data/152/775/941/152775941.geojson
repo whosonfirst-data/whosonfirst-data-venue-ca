@@ -2,13 +2,14 @@
   "id": 152775941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588676,45.719299,-73.588676,45.719299",
     "geom:latitude":45.719299,
     "geom:longitude":-73.588676,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300C Rue DE L'Aeroport",
     "sg:city":"Mascouche",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        102555511,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,21 +43,29 @@
     "wof:geomhash":"5cde85d9dd79120eb406c7c88c1d2905",
     "wof:hierarchy":[
         {
+            "campus_id":102555511,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":152775941
         }
     ],
     "wof:id":152775941,
-    "wof:lastmodified":1449047719,
+    "wof:lastmodified":1453935439,
     "wof:name":"Groupe Select Imagerie Inc",
-    "wof:parent_id":85897643,
+    "wof:parent_id":102555511,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.588676,45.719299,-73.588676,45.719299],
-  "geometry": {"coordinates":[-73.588676,45.719299],"type":"Point"}
+  "bbox": [
+    -73.588676,
+    45.719299,
+    -73.588676,
+    45.719299
+],
+  "geometry": {"coordinates":[-73.58867600000001,45.719299],"type":"Point"}
 }

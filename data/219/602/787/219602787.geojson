@@ -2,13 +2,14 @@
   "id": 219602787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.831192,43.323025,-79.831192,43.323025",
     "geom:latitude":43.323025,
     "geom:longitude":-79.831192,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895581,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"1a913094daf6196a0fb999dc1921008b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895581,
+            "region_id":85682057,
+            "venue_id":219602787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895581,
             "region_id":85682057,
             "venue_id":219602787
         }
     ],
     "wof:id":219602787,
-    "wof:lastmodified":1449072051,
+    "wof:lastmodified":1453937766,
     "wof:name":"Prima Tan",
     "wof:parent_id":85895581,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "salon"
     ]
 },
-  "bbox": [-79.831192,43.323025,-79.831192,43.323025],
+  "bbox": [
+    -79.831192,
+    43.323025,
+    -79.831192,
+    43.323025
+],
   "geometry": {"coordinates":[-79.831192,43.323025],"type":"Point"}
 }

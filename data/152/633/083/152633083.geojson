@@ -2,13 +2,14 @@
   "id": 152633083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.86998,43.927258,-78.86998,43.927258",
     "geom:latitude":43.927258,
     "geom:longitude":-78.86998,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"160 Spirea Crt",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875145,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"6fbeb82197ac20d54cce7b4e5e75273b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875145,
+            "region_id":85682057,
+            "venue_id":152633083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875145,
             "region_id":85682057,
             "venue_id":152633083
         }
     ],
     "wof:id":152633083,
-    "wof:lastmodified":1449048871,
+    "wof:lastmodified":1453936311,
     "wof:name":"Ciceri, Kate",
     "wof:parent_id":85875145,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.86998,43.927258,-78.86998,43.927258],
+  "bbox": [
+    -78.86998,
+    43.927258,
+    -78.86998,
+    43.927258
+],
   "geometry": {"coordinates":[-78.86998,43.927258],"type":"Point"}
 }

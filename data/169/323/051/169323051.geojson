@@ -2,13 +2,14 @@
   "id": 169323051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574661,45.511147,-73.574661,45.511147",
     "geom:latitude":45.511147,
     "geom:longitude":-73.574661,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3597 Rue Jeanne-Mance",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"38702a200977853967859e32e3f2b5b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":169323051
         }
     ],
     "wof:id":169323051,
-    "wof:lastmodified":1449032959,
+    "wof:lastmodified":1453929095,
     "wof:name":"Ensemble Du Carre St-Louis",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574661,45.511147,-73.574661,45.511147],
-  "geometry": {"coordinates":[-73.574661,45.511147],"type":"Point"}
+  "bbox": [
+    -73.574661,
+    45.511147,
+    -73.574661,
+    45.511147
+],
+  "geometry": {"coordinates":[-73.57466100000001,45.511147],"type":"Point"}
 }

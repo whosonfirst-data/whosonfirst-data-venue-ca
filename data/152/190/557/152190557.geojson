@@ -2,13 +2,14 @@
   "id": 152190557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619347,45.605427,-73.619347,45.605427",
     "geom:latitude":45.605427,
     "geom:longitude":-73.619347,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5041 Rue D'Amos",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"e46ff3579b428171a530ec07364dba28",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":152190557
         }
     ],
     "wof:id":152190557,
-    "wof:lastmodified":1449048628,
+    "wof:lastmodified":1453936112,
     "wof:name":"Depanneur Nathalie",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.619347,45.605427,-73.619347,45.605427],
+  "bbox": [
+    -73.619347,
+    45.605427,
+    -73.619347,
+    45.605427
+],
   "geometry": {"coordinates":[-73.619347,45.605427],"type":"Point"}
 }

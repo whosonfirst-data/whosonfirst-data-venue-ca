@@ -2,13 +2,14 @@
   "id": 169470723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.23156,42.979069,-81.23156,42.979069",
     "geom:latitude":42.979069,
     "geom:longitude":-81.23156,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"499 Hill St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6B 1E8",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30n1r7EbNKTwqc4HdQaTlC_42.979069_-81.231560@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"76388b5178932a3f1bb66afd5f893ba6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":169470723
+        }
+    ],
     "wof:id":169470723,
-    "wof:lastmodified":1449033490,
+    "wof:lastmodified":1453929600,
     "wof:name":"Royal Canadian Legion",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.23156,42.979069,-81.23156,42.979069],
+  "bbox": [
+    -81.23156,
+    42.979069,
+    -81.23156,
+    42.979069
+],
   "geometry": {"coordinates":[-81.23156,42.979069],"type":"Point"}
 }

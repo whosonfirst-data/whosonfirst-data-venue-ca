@@ -2,13 +2,14 @@
   "id": 152670125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20575,43.539104,-80.20575,43.539104",
     "geom:latitude":43.539104,
     "geom:longitude":-80.20575,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"728 Victoria Rd S",
     "sg:city":"Guelph",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875519,
-        85682057
+        102191575,
+        85633041,
+        101735927,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c096e1d5b7932d1dde39363d32fe6441",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735927,
+            "neighbourhood_id":85875519,
+            "region_id":85682057,
+            "venue_id":152670125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875519,
             "region_id":85682057,
             "venue_id":152670125
         }
     ],
     "wof:id":152670125,
-    "wof:lastmodified":1449045004,
+    "wof:lastmodified":1453933364,
     "wof:name":"Ron Marshall Construction",
     "wof:parent_id":85875519,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.20575,43.539104,-80.20575,43.539104],
-  "geometry": {"coordinates":[-80.20575,43.539104],"type":"Point"}
+  "bbox": [
+    -80.20575,
+    43.539104,
+    -80.20575,
+    43.539104
+],
+  "geometry": {"coordinates":[-80.20574999999999,43.539104],"type":"Point"}
 }

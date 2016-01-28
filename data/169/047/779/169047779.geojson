@@ -2,13 +2,14 @@
   "id": 169047779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.460709,45.76561,-73.460709,45.76561",
     "geom:latitude":45.76561,
     "geom:longitude":-73.460709,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"139 Rue Villandre",
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"23b2fd247e8c8ce43bb2247c211c364f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169047779
         }
     ],
     "wof:id":169047779,
-    "wof:lastmodified":1449034810,
+    "wof:lastmodified":1453931043,
     "wof:name":"Climatisation Gelois Inc",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.460709,45.76561,-73.460709,45.76561],
-  "geometry": {"coordinates":[-73.460709,45.76561],"type":"Point"}
+  "bbox": [
+    -73.460709,
+    45.76561,
+    -73.460709,
+    45.76561
+],
+  "geometry": {"coordinates":[-73.46070899999999,45.76561],"type":"Point"}
 }

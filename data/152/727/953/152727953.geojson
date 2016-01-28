@@ -2,13 +2,14 @@
   "id": 152727953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.581924,45.524986,-73.581924,45.524986",
     "geom:latitude":45.524986,
     "geom:longitude":-73.581924,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"a78b125ab2695cba25141043231e315e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152727953
         }
     ],
     "wof:id":152727953,
-    "wof:lastmodified":1449045006,
+    "wof:lastmodified":1453933367,
     "wof:name":"Sanctuaire Du St-Sacrement",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.581924,45.524986,-73.581924,45.524986],
+  "bbox": [
+    -73.581924,
+    45.524986,
+    -73.581924,
+    45.524986
+],
   "geometry": {"coordinates":[-73.581924,45.524986],"type":"Point"}
 }

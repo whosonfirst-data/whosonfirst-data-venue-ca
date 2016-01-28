@@ -2,13 +2,14 @@
   "id": 152859617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.461006,45.51627,-73.461006,45.51627",
     "geom:latitude":45.51627,
     "geom:longitude":-73.461006,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"436 Rue Darveau",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"d0b3d944c7e2d173a188ada98f4ef3ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":152859617
         }
     ],
     "wof:id":152859617,
-    "wof:lastmodified":1449047604,
+    "wof:lastmodified":1453935345,
     "wof:name":"Couvertures Vaillancourt Inc",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.461006,45.51627,-73.461006,45.51627],
+  "bbox": [
+    -73.461006,
+    45.51627,
+    -73.461006,
+    45.51627
+],
   "geometry": {"coordinates":[-73.461006,45.51627],"type":"Point"}
 }

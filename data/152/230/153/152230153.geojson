@@ -2,13 +2,14 @@
   "id": 152230153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.766556,43.565842,-79.766556,43.565842",
     "geom:latitude":43.565842,
     "geom:longitude":-79.766556,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3634 Forest Bluff Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894973,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"d33d736c6ff7ac63d4afbea7ea4eb5f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894973,
+            "region_id":85682057,
+            "venue_id":152230153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894973,
             "region_id":85682057,
             "venue_id":152230153
         }
     ],
     "wof:id":152230153,
-    "wof:lastmodified":1449047734,
+    "wof:lastmodified":1453935448,
     "wof:name":"Duffy's Contracting",
     "wof:parent_id":85894973,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.766556,43.565842,-79.766556,43.565842],
-  "geometry": {"coordinates":[-79.766556,43.565842],"type":"Point"}
+  "bbox": [
+    -79.766556,
+    43.565842,
+    -79.766556,
+    43.565842
+],
+  "geometry": {"coordinates":[-79.76655599999999,43.565842],"type":"Point"}
 }

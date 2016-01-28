@@ -2,13 +2,14 @@
   "id": 152325235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.633324,45.60392,-73.633324,45.60392",
     "geom:latitude":45.60392,
     "geom:longitude":-73.633324,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5009 Rue Des Ardennes",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784809,
+        102191575,
         85633041,
-        85784809
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"10b2aec88369a8811b48d8fa6d8e56ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
+            "region_id":136251273,
             "venue_id":152325235
         }
     ],
     "wof:id":152325235,
-    "wof:lastmodified":1449046123,
+    "wof:lastmodified":1453934210,
     "wof:name":"Centre Louis Frechette",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.633324,45.60392,-73.633324,45.60392],
+  "bbox": [
+    -73.633324,
+    45.60392,
+    -73.633324,
+    45.60392
+],
   "geometry": {"coordinates":[-73.633324,45.60392],"type":"Point"}
 }

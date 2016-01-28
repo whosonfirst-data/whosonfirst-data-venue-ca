@@ -2,13 +2,14 @@
   "id": 202638665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566521,45.466125,-73.566521,45.466125",
     "geom:latitude":45.466125,
     "geom:longitude":-73.566521,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3770 Rue Wellington",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874363,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"da9d29d261999890778d1158e945ee58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202638665
         }
     ],
     "wof:id":202638665,
-    "wof:lastmodified":1449060242,
+    "wof:lastmodified":1453937001,
     "wof:name":"Nuart Cafe",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566521,45.466125,-73.566521,45.466125],
-  "geometry": {"coordinates":[-73.566521,45.466125],"type":"Point"}
+  "bbox": [
+    -73.566521,
+    45.466125,
+    -73.566521,
+    45.466125
+],
+  "geometry": {"coordinates":[-73.56652099999999,45.466125],"type":"Point"}
 }

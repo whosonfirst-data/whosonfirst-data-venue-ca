@@ -2,13 +2,14 @@
   "id": 219605711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.736534,43.690971,-79.736534,43.690971",
     "geom:latitude":43.690971,
     "geom:longitude":-79.736534,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895229,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"578a24588409c6c1de73b35aeb40f274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":219605711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":219605711
         }
     ],
     "wof:id":219605711,
-    "wof:lastmodified":1449072111,
+    "wof:lastmodified":1453937775,
     "wof:name":"Canadian Mental Health Assn",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "mental"
     ]
 },
-  "bbox": [-79.736534,43.690971,-79.736534,43.690971],
-  "geometry": {"coordinates":[-79.736534,43.690971],"type":"Point"}
+  "bbox": [
+    -79.736534,
+    43.690971,
+    -79.736534,
+    43.690971
+],
+  "geometry": {"coordinates":[-79.73653400000001,43.690971],"type":"Point"}
 }

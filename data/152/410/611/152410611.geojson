@@ -2,13 +2,14 @@
   "id": 152410611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572578,45.462284,-73.572578,45.462284",
     "geom:latitude":45.462284,
     "geom:longitude":-73.572578,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"667 Rue Galt",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874363,
+        102191575,
         85633041,
-        85874363
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cf410e40720db6c00629f098ca23798a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
+            "region_id":136251273,
             "venue_id":152410611
         }
     ],
     "wof:id":152410611,
-    "wof:lastmodified":1449044360,
+    "wof:lastmodified":1453932872,
     "wof:name":"Pamco International",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572578,45.462284,-73.572578,45.462284],
-  "geometry": {"coordinates":[-73.572578,45.462284],"type":"Point"}
+  "bbox": [
+    -73.572578,
+    45.462284,
+    -73.572578,
+    45.462284
+],
+  "geometry": {"coordinates":[-73.57257799999999,45.462284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153046689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.739159,45.494247,-73.739159,45.494247",
     "geom:latitude":45.494247,
     "geom:longitude":-73.739159,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5055 Rue Levy",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bb698f385ea70c16dcb35424da834bb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":153046689
         }
     ],
     "wof:id":153046689,
-    "wof:lastmodified":1449040630,
+    "wof:lastmodified":1453932559,
     "wof:name":"Titanium Limited",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.739159,45.494247,-73.739159,45.494247],
+  "bbox": [
+    -73.739159,
+    45.494247,
+    -73.739159,
+    45.494247
+],
   "geometry": {"coordinates":[-73.739159,45.494247],"type":"Point"}
 }

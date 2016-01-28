@@ -2,13 +2,14 @@
   "id": 169342951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.720375,44.376553,-79.720375,44.376553",
     "geom:latitude":44.376553,
     "geom:longitude":-79.720375,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"125 Ferndale Dr N",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PWFA1eYQsgeFIqmXhVjK7_44.376553_-79.720375@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"509ba729d3a2ee574fa97b736eb5b689",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":169342951
+        }
+    ],
     "wof:id":169342951,
-    "wof:lastmodified":1449035724,
+    "wof:lastmodified":1453931976,
     "wof:name":"Arnott Construction Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.720375,44.376553,-79.720375,44.376553],
+  "bbox": [
+    -79.720375,
+    44.376553,
+    -79.720375,
+    44.376553
+],
   "geometry": {"coordinates":[-79.720375,44.376553],"type":"Point"}
 }

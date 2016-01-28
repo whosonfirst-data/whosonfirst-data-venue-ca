@@ -2,13 +2,14 @@
   "id": 219497955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.734108,45.580948,-73.734108,45.580948",
     "geom:latitude":45.580948,
     "geom:longitude":-73.734108,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1450 Rue Cunard",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875067,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"25e4f7bfe0aa2fd312620fc716924695",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219497955
         }
     ],
     "wof:id":219497955,
-    "wof:lastmodified":1449073860,
+    "wof:lastmodified":1453938011,
     "wof:name":"Engineered Air",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.734108,45.580948,-73.734108,45.580948],
-  "geometry": {"coordinates":[-73.734108,45.580948],"type":"Point"}
+  "bbox": [
+    -73.734108,
+    45.580948,
+    -73.734108,
+    45.580948
+],
+  "geometry": {"coordinates":[-73.73410800000001,45.580948],"type":"Point"}
 }

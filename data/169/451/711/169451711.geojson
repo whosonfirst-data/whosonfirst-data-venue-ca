@@ -2,13 +2,14 @@
   "id": 169451711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.730881,43.415333,-79.730881,43.415333",
     "geom:latitude":43.415333,
     "geom:longitude":-79.730881,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"768 Westgate Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895687,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a7c0fa200a4926475614bce2649c3aa2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895687,
+            "region_id":85682057,
+            "venue_id":169451711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895687,
             "region_id":85682057,
             "venue_id":169451711
         }
     ],
     "wof:id":169451711,
-    "wof:lastmodified":1449034112,
+    "wof:lastmodified":1453930297,
     "wof:name":"Lalonde & Assoc Inc",
     "wof:parent_id":85895687,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.730881,43.415333,-79.730881,43.415333],
+  "bbox": [
+    -79.730881,
+    43.415333,
+    -79.730881,
+    43.415333
+],
   "geometry": {"coordinates":[-79.730881,43.415333],"type":"Point"}
 }

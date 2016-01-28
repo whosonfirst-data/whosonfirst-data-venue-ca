@@ -2,13 +2,14 @@
   "id": 169458365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.46106,43.453835,-80.46106,43.453835",
     "geom:latitude":43.453835,
     "geom:longitude":-80.46106,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Belleview Ave",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875011,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"70cc20ca127cb4fc534dad0f9844317a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875011,
+            "region_id":85682057,
+            "venue_id":169458365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875011,
             "region_id":85682057,
             "venue_id":169458365
         }
     ],
     "wof:id":169458365,
-    "wof:lastmodified":1449035027,
+    "wof:lastmodified":1453931243,
     "wof:name":"Smithson Public School",
     "wof:parent_id":85875011,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.46106,43.453835,-80.46106,43.453835],
+  "bbox": [
+    -80.46106,
+    43.453835,
+    -80.46106,
+    43.453835
+],
   "geometry": {"coordinates":[-80.46106,43.453835],"type":"Point"}
 }

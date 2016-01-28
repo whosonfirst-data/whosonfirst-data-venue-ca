@@ -2,13 +2,14 @@
   "id": 152394157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.595779,45.554993,-73.595779,45.554993",
     "geom:latitude":45.554993,
     "geom:longitude":-73.595779,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"faa01c29b111684db58654c2cfd72c27",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152394157
         }
     ],
     "wof:id":152394157,
-    "wof:lastmodified":1449045201,
+    "wof:lastmodified":1453933514,
     "wof:name":"Services Radiologiques Ville",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.595779,45.554993,-73.595779,45.554993],
-  "geometry": {"coordinates":[-73.595779,45.554993],"type":"Point"}
+  "bbox": [
+    -73.595779,
+    45.554993,
+    -73.595779,
+    45.554993
+],
+  "geometry": {"coordinates":[-73.59577899999999,45.554993],"type":"Point"}
 }

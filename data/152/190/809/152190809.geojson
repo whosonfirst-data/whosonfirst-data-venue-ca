@@ -2,13 +2,14 @@
   "id": 152190809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.950043,49.170937,-123.950043,49.170937",
     "geom:latitude":49.170937,
     "geom:longitude":-123.950043,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"106 Wall St",
     "sg:city":"Nanaimo",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741011,
-        85633041,
         85875635,
+        102191575,
+        85633041,
+        101741011,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"3ee3b4c9ecfdb49d1c08b145f7ca80fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741011,
             "neighbourhood_id":85875635,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":152190809,
-    "wof:lastmodified":1449048629,
+    "wof:lastmodified":1453936113,
     "wof:name":"Nanaimo Curling Club",
     "wof:parent_id":85875635,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.950043,49.170937,-123.950043,49.170937],
-  "geometry": {"coordinates":[-123.950043,49.170937],"type":"Point"}
+  "bbox": [
+    -123.950043,
+    49.170937,
+    -123.950043,
+    49.170937
+],
+  "geometry": {"coordinates":[-123.95004299999999,49.170937],"type":"Point"}
 }

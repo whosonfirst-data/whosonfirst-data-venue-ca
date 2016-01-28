@@ -2,13 +2,14 @@
   "id": 152805749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.562805,45.514656,-73.562805,45.514656",
     "geom:latitude":45.514656,
     "geom:longitude":-73.562805,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1610 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"376c27c43c1cbcabcdbe5d84f07a0af1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":152805749
         }
     ],
     "wof:id":152805749,
-    "wof:lastmodified":1449045849,
+    "wof:lastmodified":1453934011,
     "wof:name":"Aventurier",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.562805,45.514656,-73.562805,45.514656],
+  "bbox": [
+    -73.562805,
+    45.514656,
+    -73.562805,
+    45.514656
+],
   "geometry": {"coordinates":[-73.562805,45.514656],"type":"Point"}
 }

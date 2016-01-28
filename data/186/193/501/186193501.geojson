@@ -2,13 +2,14 @@
   "id": 186193501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.608932,45.516811,-73.608932,45.516811",
     "geom:latitude":45.516811,
     "geom:longitude":-73.608932,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"501 Av Stuart",
     "sg:city":"Outremont",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784831,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,16 @@
     "wof:geomhash":"ae01a47b316403d5b0a2e5b7394ef361",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186193501
         }
     ],
     "wof:id":186193501,
-    "wof:lastmodified":1449050849,
+    "wof:lastmodified":1453936554,
     "wof:name":"Sogitec",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -66,6 +69,11 @@
         "co"
     ]
 },
-  "bbox": [-73.608932,45.516811,-73.608932,45.516811],
+  "bbox": [
+    -73.608932,
+    45.516811,
+    -73.608932,
+    45.516811
+],
   "geometry": {"coordinates":[-73.608932,45.516811],"type":"Point"}
 }

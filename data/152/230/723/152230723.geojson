@@ -2,13 +2,14 @@
   "id": 152230723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.470284,44.009003,-79.470284,44.009003",
     "geom:latitude":44.009003,
     "geom:longitude":-79.470284,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2 Orchard Heights Blvd #8",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895191,
         102191575,
         85633041,
-        85895191
+        101736049,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736049,
             "neighbourhood_id":85895191,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152230723
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895191,
+            "region_id":85682057,
             "venue_id":152230723
         }
     ],
     "wof:id":152230723,
-    "wof:lastmodified":1449047733,
+    "wof:lastmodified":1453935448,
     "wof:name":"Petticoat Lane Lingerie",
     "wof:parent_id":85895191,
     "wof:placetype":"venue",
@@ -57,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.470284,44.009003,-79.470284,44.009003],
-  "geometry": {"coordinates":[-79.470284,44.009003],"type":"Point"}
+  "bbox": [
+    -79.470284,
+    44.009003,
+    -79.470284,
+    44.009003
+],
+  "geometry": {"coordinates":[-79.47028400000001,44.009003],"type":"Point"}
 }

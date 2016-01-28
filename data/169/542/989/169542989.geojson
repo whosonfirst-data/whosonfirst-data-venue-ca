@@ -2,13 +2,14 @@
   "id": 169542989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.609604,45.428379,-73.609604,45.428379",
     "geom:latitude":45.428379,
     "geom:longitude":-73.609604,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7860 Boul Champlain",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866477,
+        102191575,
         85633041,
-        85866477
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"9808c9aae1d6b652d97880fa7a55b750",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866477,
+            "region_id":136251273,
             "venue_id":169542989
         }
     ],
     "wof:id":169542989,
-    "wof:lastmodified":1449035223,
+    "wof:lastmodified":1453931419,
     "wof:name":"Laura Secord",
     "wof:parent_id":85866477,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.609604,45.428379,-73.609604,45.428379],
+  "bbox": [
+    -73.609604,
+    45.428379,
+    -73.609604,
+    45.428379
+],
   "geometry": {"coordinates":[-73.609604,45.428379],"type":"Point"}
 }

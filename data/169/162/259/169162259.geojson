@@ -2,13 +2,14 @@
   "id": 169162259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.497536,45.521935,-73.497536,45.521935",
     "geom:latitude":45.521935,
     "geom:longitude":-73.497536,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"891 Boul Sainte-Foy",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875719,
+        102191575,
         85633041,
-        85875719
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"cbdf55a33e5230539ab169abd3aef286",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875719,
+            "region_id":136251273,
             "venue_id":169162259
         }
     ],
     "wof:id":169162259,
-    "wof:lastmodified":1449035481,
+    "wof:lastmodified":1453931710,
     "wof:name":"Piscines Perrin Inc",
     "wof:parent_id":85875719,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.497536,45.521935,-73.497536,45.521935],
+  "bbox": [
+    -73.497536,
+    45.521935,
+    -73.497536,
+    45.521935
+],
   "geometry": {"coordinates":[-73.497536,45.521935],"type":"Point"}
 }

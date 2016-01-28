@@ -2,13 +2,14 @@
   "id": 153007967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.887993,43.932995,-78.887993,43.932995",
     "geom:latitude":43.932995,
     "geom:longitude":-78.887993,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"220 Cedar Valley Crt",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875145,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"75239d594fc0c7d89c4803ff096d34d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875145,
+            "region_id":85682057,
+            "venue_id":153007967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875145,
             "region_id":85682057,
             "venue_id":153007967
         }
     ],
     "wof:id":153007967,
-    "wof:lastmodified":1449040745,
+    "wof:lastmodified":1453932661,
     "wof:name":"Shaheen Peaker Thompson Ltd",
     "wof:parent_id":85875145,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.887993,43.932995,-78.887993,43.932995],
-  "geometry": {"coordinates":[-78.887993,43.932995],"type":"Point"}
+  "bbox": [
+    -78.887993,
+    43.932995,
+    -78.887993,
+    43.932995
+],
+  "geometry": {"coordinates":[-78.88799299999999,43.932995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152972375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.397118,42.985374,-82.397118,42.985374",
     "geom:latitude":42.985374,
     "geom:longitude":-82.397118,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"291 Exmouth St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875563,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"33073bc696e463ff713ea5e3658ce598",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875563,
+            "region_id":85682057,
+            "venue_id":152972375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875563,
             "region_id":85682057,
             "venue_id":152972375
         }
     ],
     "wof:id":152972375,
-    "wof:lastmodified":1449046620,
+    "wof:lastmodified":1453934585,
     "wof:name":"Stoesser Law Office",
     "wof:parent_id":85875563,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.397118,42.985374,-82.397118,42.985374],
-  "geometry": {"coordinates":[-82.397118,42.985374],"type":"Point"}
+  "bbox": [
+    -82.397118,
+    42.985374,
+    -82.397118,
+    42.985374
+],
+  "geometry": {"coordinates":[-82.39711800000001,42.985374],"type":"Point"}
 }

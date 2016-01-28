@@ -2,13 +2,14 @@
   "id": 152380709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.20446,42.933498,-81.20446,42.933498",
     "geom:latitude":42.933498,
     "geom:longitude":-81.20446,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"409 Consortium Crt",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "courier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874921,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I4mEEAbt8NsanH3Qgx6nx_42.933498_-81.204460@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5d8478cfe795e5f978bff98a3727f226",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874921,
+            "region_id":85682057,
+            "venue_id":152380709
+        }
+    ],
     "wof:id":152380709,
-    "wof:lastmodified":1449046449,
+    "wof:lastmodified":1453934466,
     "wof:name":"Dynamex",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874921,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.20446,42.933498,-81.20446,42.933498],
+  "bbox": [
+    -81.20446,
+    42.933498,
+    -81.20446,
+    42.933498
+],
   "geometry": {"coordinates":[-81.20446,42.933498],"type":"Point"}
 }

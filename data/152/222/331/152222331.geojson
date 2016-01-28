@@ -2,13 +2,14 @@
   "id": 152222331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.254997,43.205647,-79.254997,43.205647",
     "geom:latitude":43.205647,
     "geom:longitude":-79.254997,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9 Summerton Pl",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875045,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5c2754a3c8d0230156207e1382712bea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875045,
+            "region_id":85682057,
+            "venue_id":152222331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875045,
             "region_id":85682057,
             "venue_id":152222331
         }
     ],
     "wof:id":152222331,
-    "wof:lastmodified":1449047391,
+    "wof:lastmodified":1453935170,
     "wof:name":"Hancock Plumbing & Heating",
     "wof:parent_id":85875045,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.254997,43.205647,-79.254997,43.205647],
+  "bbox": [
+    -79.254997,
+    43.205647,
+    -79.254997,
+    43.205647
+],
   "geometry": {"coordinates":[-79.254997,43.205647],"type":"Point"}
 }

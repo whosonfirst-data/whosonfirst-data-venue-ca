@@ -2,13 +2,14 @@
   "id": 169239791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.881783,43.543949,-79.881783,43.543949",
     "geom:latitude":43.543949,
     "geom:longitude":-79.881783,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8215 Lawson Rd",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895533,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"62add5c767a3bc7d997fcb2f7f92af38",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895533,
+            "region_id":85682057,
+            "venue_id":169239791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895533,
             "region_id":85682057,
             "venue_id":169239791
         }
     ],
     "wof:id":169239791,
-    "wof:lastmodified":1449032987,
+    "wof:lastmodified":1453929120,
     "wof:name":"Country Fare Automotive",
     "wof:parent_id":85895533,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.881783,43.543949,-79.881783,43.543949],
+  "bbox": [
+    -79.881783,
+    43.543949,
+    -79.881783,
+    43.543949
+],
   "geometry": {"coordinates":[-79.881783,43.543949],"type":"Point"}
 }

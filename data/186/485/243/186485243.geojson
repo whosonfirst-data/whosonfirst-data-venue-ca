@@ -2,13 +2,14 @@
   "id": 186485243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.56144,45.512306,-73.56144,45.512306",
     "geom:latitude":45.512306,
     "geom:longitude":-73.56144,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"262 Rue Sainte-Catherine E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866483,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"76f76be30c8d7051357b963c6af5968e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186485243
         }
     ],
     "wof:id":186485243,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1453936761,
     "wof:name":"Librairie Zone Libre",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.56144,45.512306,-73.56144,45.512306],
+  "bbox": [
+    -73.56144,
+    45.512306,
+    -73.56144,
+    45.512306
+],
   "geometry": {"coordinates":[-73.56144,45.512306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169225711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249901,42.923183,-81.249901,42.923183",
     "geom:latitude":42.923183,
     "geom:longitude":-81.249901,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"320 Exeter Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874953,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gwrIE93au9XEI2VwM08rp_42.923183_-81.249901@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"bd8541d151f44a035943793ed97f8bd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874953,
+            "region_id":85682057,
+            "venue_id":169225711
+        }
+    ],
     "wof:id":169225711,
-    "wof:lastmodified":1449033719,
+    "wof:lastmodified":1453929842,
     "wof:name":"Simpson's Fence Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874953,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.249901,42.923183,-81.249901,42.923183],
-  "geometry": {"coordinates":[-81.249901,42.923183],"type":"Point"}
+  "bbox": [
+    -81.249901,
+    42.923183,
+    -81.249901,
+    42.923183
+],
+  "geometry": {"coordinates":[-81.24990099999999,42.923183],"type":"Point"}
 }

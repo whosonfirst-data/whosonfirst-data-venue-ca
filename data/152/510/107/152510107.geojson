@@ -2,13 +2,14 @@
   "id": 152510107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.403633,43.8578,-79.403633,43.8578",
     "geom:latitude":43.8578,
     "geom:longitude":-79.403633,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3 Kevi Cres",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895539,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b7bb988da4dba83bdb73a4f7b9ed802e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895539,
+            "region_id":85682057,
+            "venue_id":152510107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895539,
             "region_id":85682057,
             "venue_id":152510107
         }
     ],
     "wof:id":152510107,
-    "wof:lastmodified":1449047077,
+    "wof:lastmodified":1453934937,
     "wof:name":"Nashid Construction Corp",
     "wof:parent_id":85895539,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.403633,43.8578,-79.403633,43.8578],
+  "bbox": [
+    -79.403633,
+    43.8578,
+    -79.403633,
+    43.8578
+],
   "geometry": {"coordinates":[-79.403633,43.8578],"type":"Point"}
 }

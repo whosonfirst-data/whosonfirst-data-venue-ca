@@ -2,13 +2,14 @@
   "id": 219350335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795036,43.358513,-79.795036,43.358513",
     "geom:latitude":43.358513,
     "geom:longitude":-79.795036,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"986 Cumberland Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895639,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"eade231d1f03b49b17902a70c80cb521",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895639,
+            "region_id":85682057,
+            "venue_id":219350335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895639,
             "region_id":85682057,
             "venue_id":219350335
         }
     ],
     "wof:id":219350335,
-    "wof:lastmodified":1449072184,
+    "wof:lastmodified":1453937782,
     "wof:name":"Ira Mc Donald Construction Ltd",
     "wof:parent_id":85895639,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.795036,43.358513,-79.795036,43.358513],
+  "bbox": [
+    -79.795036,
+    43.358513,
+    -79.795036,
+    43.358513
+],
   "geometry": {"coordinates":[-79.795036,43.358513],"type":"Point"}
 }

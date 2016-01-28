@@ -2,13 +2,14 @@
   "id": 169215349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.878899,45.44986,-73.878899,45.44986",
     "geom:latitude":45.44986,
     "geom:longitude":-73.878899,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"75 Rue Charlevoix",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736461,
+        85864411,
+        102191575,
         85633041,
-        85864411
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5d72c52b6dcbfb3c026085fb5f2cbea3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85864411,
+            "region_id":136251273,
             "venue_id":169215349
         }
     ],
     "wof:id":169215349,
-    "wof:lastmodified":1449035385,
+    "wof:lastmodified":1453931587,
     "wof:name":"Holleuffer Parc",
     "wof:parent_id":85864411,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.878899,45.44986,-73.878899,45.44986],
+  "bbox": [
+    -73.878899,
+    45.44986,
+    -73.878899,
+    45.44986
+],
   "geometry": {"coordinates":[-73.878899,45.44986],"type":"Point"}
 }

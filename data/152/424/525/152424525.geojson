@@ -2,13 +2,14 @@
   "id": 152424525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.69062,44.372566,-79.69062,44.372566",
     "geom:latitude":44.372566,
     "geom:longitude":-79.69062,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"14 Cumberland St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875277,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KFVqCpU7tJooyoPPkfovF_44.372566_-79.690620@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5fc0cc0f92b82ad3d9d32b49a230504a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
+            "region_id":85682057,
+            "venue_id":152424525
+        }
+    ],
     "wof:id":152424525,
-    "wof:lastmodified":1449048632,
+    "wof:lastmodified":1453936116,
     "wof:name":"Gateway Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.69062,44.372566,-79.69062,44.372566],
+  "bbox": [
+    -79.69062,
+    44.372566,
+    -79.69062,
+    44.372566
+],
   "geometry": {"coordinates":[-79.69062,44.372566],"type":"Point"}
 }

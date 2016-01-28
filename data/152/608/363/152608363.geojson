@@ -2,13 +2,14 @@
   "id": 152608363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.600136,45.482098,-73.600136,45.482098",
     "geom:latitude":45.482098,
     "geom:longitude":-73.600136,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4585 Rue Sherbrooke O",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85784969,
+        102191575,
         85633041,
-        85784969
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"636f2e172a4e2eaff1a59c78cc882238",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85784969,
+            "region_id":136251273,
             "venue_id":152608363
         }
     ],
     "wof:id":152608363,
-    "wof:lastmodified":1449046290,
+    "wof:lastmodified":1453934339,
     "wof:name":"Ymca of Montreal",
     "wof:parent_id":85784969,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.600136,45.482098,-73.600136,45.482098],
-  "geometry": {"coordinates":[-73.600136,45.482098],"type":"Point"}
+  "bbox": [
+    -73.600136,
+    45.482098,
+    -73.600136,
+    45.482098
+],
+  "geometry": {"coordinates":[-73.60013600000001,45.482098],"type":"Point"}
 }

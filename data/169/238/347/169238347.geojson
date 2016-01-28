@@ -2,13 +2,14 @@
   "id": 169238347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.242599,42.980099,-81.242599,42.980099",
     "geom:latitude":42.980099,
     "geom:longitude":-81.242599,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -27,23 +28,43 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hqbPHfRyaQpE6O1oYiAWn_42.980099_-81.242599@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"33188fbad60d714b02f3dc191c511640",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":169238347
+        }
+    ],
     "wof:id":169238347,
-    "wof:lastmodified":1449033929,
+    "wof:lastmodified":1453930082,
     "wof:name":"Central Park Lodges",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.242599,42.980099,-81.242599,42.980099],
+  "bbox": [
+    -81.242599,
+    42.980099,
+    -81.242599,
+    42.980099
+],
   "geometry": {"coordinates":[-81.242599,42.980099],"type":"Point"}
 }

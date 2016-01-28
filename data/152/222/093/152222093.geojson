@@ -2,13 +2,14 @@
   "id": 152222093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.373924,42.958263,-82.373924,42.958263",
     "geom:latitude":42.958263,
     "geom:longitude":-82.373924,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sarnia",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875565,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"af7fdb70f8e5d77b1e398c7452b1f493",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875565,
+            "region_id":85682057,
+            "venue_id":152222093
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875565,
             "region_id":85682057,
             "venue_id":152222093
         }
     ],
     "wof:id":152222093,
-    "wof:lastmodified":1449047388,
+    "wof:lastmodified":1453935168,
     "wof:name":"Aitec Inc",
     "wof:parent_id":85875565,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.373924,42.958263,-82.373924,42.958263],
+  "bbox": [
+    -82.373924,
+    42.958263,
+    -82.373924,
+    42.958263
+],
   "geometry": {"coordinates":[-82.373924,42.958263],"type":"Point"}
 }

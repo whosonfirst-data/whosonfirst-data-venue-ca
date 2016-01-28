@@ -2,13 +2,14 @@
   "id": 186418579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.607887,45.541302,-73.607887,45.541302",
     "geom:latitude":45.541302,
     "geom:longitude":-73.607887,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1160 Rue Belanger",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874369,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"b6483c94a0b55245b68ffb004122846a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186418579
         }
     ],
     "wof:id":186418579,
-    "wof:lastmodified":1449052423,
+    "wof:lastmodified":1453936844,
     "wof:name":"Expres-Tv Video",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.607887,45.541302,-73.607887,45.541302],
-  "geometry": {"coordinates":[-73.607887,45.541302],"type":"Point"}
+  "bbox": [
+    -73.607887,
+    45.541302,
+    -73.607887,
+    45.541302
+],
+  "geometry": {"coordinates":[-73.60788700000001,45.541302],"type":"Point"}
 }

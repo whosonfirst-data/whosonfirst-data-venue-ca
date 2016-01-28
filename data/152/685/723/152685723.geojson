@@ -2,13 +2,14 @@
   "id": 152685723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.082687,43.818657,-79.082687,43.818657",
     "geom:latitude":43.818657,
     "geom:longitude":-79.082687,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"715 Liverpool Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895513,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"6981cbbd92f263d725fd239e18437bd8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895513,
+            "region_id":85682057,
+            "venue_id":152685723
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895513,
             "region_id":85682057,
             "venue_id":152685723
         }
     ],
     "wof:id":152685723,
-    "wof:lastmodified":1449048799,
+    "wof:lastmodified":1453936252,
     "wof:name":"A K Cameron & Assoc",
     "wof:parent_id":85895513,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.082687,43.818657,-79.082687,43.818657],
-  "geometry": {"coordinates":[-79.082687,43.818657],"type":"Point"}
+  "bbox": [
+    -79.082687,
+    43.818657,
+    -79.082687,
+    43.818657
+],
+  "geometry": {"coordinates":[-79.08268700000001,43.818657],"type":"Point"}
 }

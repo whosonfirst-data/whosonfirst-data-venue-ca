@@ -2,13 +2,14 @@
   "id": 152882175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.532509,45.553383,-73.532509,45.553383",
     "geom:latitude":45.553383,
     "geom:longitude":-73.532509,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4573 Rue Sainte-Catherine E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"f6c50a4cc98df808dd5ddf86b4d330df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":152882175
         }
     ],
     "wof:id":152882175,
-    "wof:lastmodified":1449045136,
+    "wof:lastmodified":1453933463,
     "wof:name":"Video Ste-Catherine",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.532509,45.553383,-73.532509,45.553383],
+  "bbox": [
+    -73.532509,
+    45.553383,
+    -73.532509,
+    45.553383
+],
   "geometry": {"coordinates":[-73.532509,45.553383],"type":"Point"}
 }

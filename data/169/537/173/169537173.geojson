@@ -2,13 +2,14 @@
   "id": 169537173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.260384,43.8769,-79.260384,43.8769",
     "geom:latitude":43.8769,
     "geom:longitude":-79.260384,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"81 Main St N",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895435,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"3f9da1637a41f54723aa7b6443e3ed3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895435,
+            "region_id":85682057,
+            "venue_id":169537173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895435,
             "region_id":85682057,
             "venue_id":169537173
         }
     ],
     "wof:id":169537173,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1453929604,
     "wof:name":"Vereshchak, Oleh P",
     "wof:parent_id":85895435,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.260384,43.8769,-79.260384,43.8769],
+  "bbox": [
+    -79.260384,
+    43.8769,
+    -79.260384,
+    43.8769
+],
   "geometry": {"coordinates":[-79.260384,43.8769],"type":"Point"}
 }

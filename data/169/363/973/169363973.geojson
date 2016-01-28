@@ -2,13 +2,14 @@
   "id": 169363973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.729614,45.430573,-75.729614,45.430573",
     "geom:latitude":45.430573,
     "geom:longitude":-75.729614,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Hull",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"d9126f21994bd5ec083e863edbcf10a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":169363973
         }
     ],
     "wof:id":169363973,
-    "wof:lastmodified":1449035555,
+    "wof:lastmodified":1453931804,
     "wof:name":"Dufour Isabelle Le Duc",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.729614,45.430573,-75.729614,45.430573],
+  "bbox": [
+    -75.729614,
+    45.430573,
+    -75.729614,
+    45.430573
+],
   "geometry": {"coordinates":[-75.729614,45.430573],"type":"Point"}
 }

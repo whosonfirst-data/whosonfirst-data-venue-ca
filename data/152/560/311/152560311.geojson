@@ -2,13 +2,14 @@
   "id": 152560311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.548988,43.609684,-79.548988,43.609684",
     "geom:latitude":43.609684,
     "geom:longitude":-79.548988,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"856 Browns Line",
     "sg:city":"Etobicoke",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"74ff43c4cd22c4542e79e4821a013054",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":152560311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":152560311
         }
     ],
     "wof:id":152560311,
-    "wof:lastmodified":1449047823,
+    "wof:lastmodified":1453935518,
     "wof:name":"Chesterfield Furniture Factory",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.548988,43.609684,-79.548988,43.609684],
-  "geometry": {"coordinates":[-79.548988,43.609684],"type":"Point"}
+  "bbox": [
+    -79.548988,
+    43.609684,
+    -79.548988,
+    43.609684
+],
+  "geometry": {"coordinates":[-79.54898799999999,43.609684],"type":"Point"}
 }

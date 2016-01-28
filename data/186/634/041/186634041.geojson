@@ -2,13 +2,14 @@
   "id": 186634041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.609726,45.576317,-73.609726,45.576317",
     "geom:latitude":45.576317,
     "geom:longitude":-73.609726,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4201 Boul Robert # 4",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874359,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"4d518cb10ae494c5a132a17d7aedadfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186634041
         }
     ],
     "wof:id":186634041,
-    "wof:lastmodified":1449051660,
+    "wof:lastmodified":1453936700,
     "wof:name":"Habitations Terrasses Ltee",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-73.609726,45.576317,-73.609726,45.576317],
-  "geometry": {"coordinates":[-73.609726,45.576317],"type":"Point"}
+  "bbox": [
+    -73.609726,
+    45.576317,
+    -73.609726,
+    45.576317
+],
+  "geometry": {"coordinates":[-73.60972599999999,45.576317],"type":"Point"}
 }

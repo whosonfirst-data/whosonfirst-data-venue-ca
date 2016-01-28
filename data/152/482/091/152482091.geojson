@@ -2,13 +2,14 @@
   "id": 152482091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.708351,43.539505,-79.708351,43.539505",
     "geom:latitude":43.539505,
     "geom:longitude":-79.708351,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3131 Pepper Mill Crt # 1",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895311,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"17643a8142f78a02f79c30d4e3aa9f3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895311,
+            "region_id":85682057,
+            "venue_id":152482091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895311,
             "region_id":85682057,
             "venue_id":152482091
         }
     ],
     "wof:id":152482091,
-    "wof:lastmodified":1449045953,
+    "wof:lastmodified":1453934081,
     "wof:name":"Techspan Industries Inc",
     "wof:parent_id":85895311,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.708351,43.539505,-79.708351,43.539505],
-  "geometry": {"coordinates":[-79.708351,43.539505],"type":"Point"}
+  "bbox": [
+    -79.708351,
+    43.539505,
+    -79.708351,
+    43.539505
+],
+  "geometry": {"coordinates":[-79.70835099999999,43.539505],"type":"Point"}
 }

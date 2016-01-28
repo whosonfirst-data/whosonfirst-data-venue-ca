@@ -2,13 +2,14 @@
   "id": 152970159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567558,45.456005,-73.567558,45.456005",
     "geom:latitude":45.456005,
     "geom:longitude":-73.567558,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5002 Rue Wellington",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784961,
+        102191575,
         85633041,
-        85784961
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"419a9a6529a58ff09554eca8a9412cb1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784961,
+            "region_id":136251273,
             "venue_id":152970159
         }
     ],
     "wof:id":152970159,
-    "wof:lastmodified":1449048828,
+    "wof:lastmodified":1453936276,
     "wof:name":"Atelier Floral Les 4 Saisons",
     "wof:parent_id":85784961,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.567558,45.456005,-73.567558,45.456005],
-  "geometry": {"coordinates":[-73.567558,45.456005],"type":"Point"}
+  "bbox": [
+    -73.567558,
+    45.456005,
+    -73.567558,
+    45.456005
+],
+  "geometry": {"coordinates":[-73.56755800000001,45.456005],"type":"Point"}
 }

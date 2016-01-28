@@ -2,13 +2,14 @@
   "id": 168849953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.57151,45.362835,-73.57151,45.362835",
     "geom:latitude":45.362835,
     "geom:longitude":-73.57151,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"271 Rue Saint-Pierre",
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d5df9cb84bf3d1221b56524a4aca853a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":168849953
         }
     ],
     "wof:id":168849953,
-    "wof:lastmodified":1449027914,
+    "wof:lastmodified":1453927947,
     "wof:name":"Club Des 20",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.57151,45.362835,-73.57151,45.362835],
+  "bbox": [
+    -73.57151,
+    45.362835,
+    -73.57151,
+    45.362835
+],
   "geometry": {"coordinates":[-73.57151,45.362835],"type":"Point"}
 }

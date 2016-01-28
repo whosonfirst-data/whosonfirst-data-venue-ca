@@ -2,13 +2,14 @@
   "id": 169340421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.251289,46.845665,-71.251289,46.845665",
     "geom:latitude":46.845665,
     "geom:longitude":-71.251289,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"200 64E Rue O",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"1a6f9ef242f7f323f8479f25cb134c55",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169340421
         }
     ],
     "wof:id":169340421,
-    "wof:lastmodified":1449035208,
+    "wof:lastmodified":1453931412,
     "wof:name":"Bellemare & Bellemare Inc",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.251289,46.845665,-71.251289,46.845665],
+  "bbox": [
+    -71.251289,
+    46.845665,
+    -71.251289,
+    46.845665
+],
   "geometry": {"coordinates":[-71.251289,46.845665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168876583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.664253,45.524284,-73.664253,45.524284",
     "geom:latitude":45.524284,
     "geom:longitude":-73.664253,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"473 Rue Deslauriers",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895725,
+        102191575,
         85633041,
-        85895725
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"b36fdd799cc7df884ce0e60d4cfaac7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
+            "region_id":136251273,
             "venue_id":168876583
         }
     ],
     "wof:id":168876583,
-    "wof:lastmodified":1449027926,
+    "wof:lastmodified":1453927957,
     "wof:name":"Rideau Orders Decorations",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.664253,45.524284,-73.664253,45.524284],
+  "bbox": [
+    -73.664253,
+    45.524284,
+    -73.664253,
+    45.524284
+],
   "geometry": {"coordinates":[-73.664253,45.524284],"type":"Point"}
 }

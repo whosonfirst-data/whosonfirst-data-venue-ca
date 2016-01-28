@@ -2,13 +2,14 @@
   "id": 152388665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.557854,43.784103,-79.557854,43.784103",
     "geom:latitude":43.784103,
     "geom:longitude":-79.557854,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"61 Caster Ave",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"c536e8d6e5d5c2b42548a93e247d2ed9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152388665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152388665
         }
     ],
     "wof:id":152388665,
-    "wof:lastmodified":1449044466,
+    "wof:lastmodified":1453932952,
     "wof:name":"Tony & Vito Garage",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.557854,43.784103,-79.557854,43.784103],
-  "geometry": {"coordinates":[-79.557854,43.784103],"type":"Point"}
+  "bbox": [
+    -79.557854,
+    43.784103,
+    -79.557854,
+    43.784103
+],
+  "geometry": {"coordinates":[-79.55785400000001,43.784103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169312561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.934616,45.398777,-71.934616,45.398777",
     "geom:latitude":45.398777,
     "geom:longitude":-71.934616,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Rue DE Carillon",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874131,
+        102191575,
         85633041,
-        85874131
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"322821e0be6e2881d1b7004c9a284cce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
+            "region_id":136251273,
             "venue_id":169312561
         }
     ],
     "wof:id":169312561,
-    "wof:lastmodified":1449034351,
+    "wof:lastmodified":1453930525,
     "wof:name":"Mongeau, Laurent MD",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.934616,45.398777,-71.934616,45.398777],
-  "geometry": {"coordinates":[-71.934616,45.398777],"type":"Point"}
+  "bbox": [
+    -71.934616,
+    45.398777,
+    -71.934616,
+    45.398777
+],
+  "geometry": {"coordinates":[-71.93461600000001,45.398777],"type":"Point"}
 }

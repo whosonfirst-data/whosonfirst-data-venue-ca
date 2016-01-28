@@ -2,13 +2,14 @@
   "id": 152261789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.512733,45.529537,-73.512733,45.529537",
     "geom:latitude":45.529537,
     "geom:longitude":-73.512733,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"753 Rue Saint-Laurent O",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875717,
+        102191575,
         85633041,
-        85875717
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"15fa4cac41aba30ee9a045c290ab4e35",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875717,
+            "region_id":136251273,
             "venue_id":152261789
         }
     ],
     "wof:id":152261789,
-    "wof:lastmodified":1449044372,
+    "wof:lastmodified":1453932879,
     "wof:name":"Restaurant Chez Lien",
     "wof:parent_id":85875717,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.512733,45.529537,-73.512733,45.529537],
+  "bbox": [
+    -73.512733,
+    45.529537,
+    -73.512733,
+    45.529537
+],
   "geometry": {"coordinates":[-73.512733,45.529537],"type":"Point"}
 }

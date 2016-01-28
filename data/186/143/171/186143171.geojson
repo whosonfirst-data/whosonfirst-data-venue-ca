@@ -2,13 +2,14 @@
   "id": 186143171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.593742,43.600124,-79.593742,43.600124",
     "geom:latitude":43.600124,
     "geom:longitude":-79.593742,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895479,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"46934eec5858193b3dfbf84e873bd7a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":186143171
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":186143171
         }
     ],
     "wof:id":186143171,
-    "wof:lastmodified":1449052555,
+    "wof:lastmodified":1453936865,
     "wof:name":"Single Source Medical Products",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [-79.593742,43.600124,-79.593742,43.600124],
-  "geometry": {"coordinates":[-79.593742,43.600124],"type":"Point"}
+  "bbox": [
+    -79.593742,
+    43.600124,
+    -79.593742,
+    43.600124
+],
+  "geometry": {"coordinates":[-79.59374200000001,43.600124],"type":"Point"}
 }

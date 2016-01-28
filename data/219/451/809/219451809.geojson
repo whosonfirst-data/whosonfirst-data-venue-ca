@@ -2,13 +2,14 @@
   "id": 219451809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49041,43.4561,-80.49041,43.4561",
     "geom:latitude":43.4561,
     "geom:longitude":-80.49041,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"176 Victoria St N",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874983,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"c7d9bc0db4117a43a46de7cabb6d1055",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874983,
+            "region_id":85682057,
+            "venue_id":219451809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85874983,
             "region_id":85682057,
             "venue_id":219451809
         }
     ],
     "wof:id":219451809,
-    "wof:lastmodified":1449071933,
+    "wof:lastmodified":1453937749,
     "wof:name":"Wsib Claims Consultants Inc",
     "wof:parent_id":85874983,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "paralegal"
     ]
 },
-  "bbox": [-80.49041,43.4561,-80.49041,43.4561],
+  "bbox": [
+    -80.49041,
+    43.4561,
+    -80.49041,
+    43.4561
+],
   "geometry": {"coordinates":[-80.49041,43.4561],"type":"Point"}
 }

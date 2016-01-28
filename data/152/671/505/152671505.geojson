@@ -2,13 +2,14 @@
   "id": 152671505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.10537,49.263165,-123.10537,49.263165",
     "geom:latitude":49.263165,
     "geom:longitude":-123.10537,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"17 Broadway W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -30,9 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865019,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -43,6 +45,7 @@
     "wof:geomhash":"73a2d8dcd81ab54496b2a2b40b4a5f1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865019,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":152671505,
-    "wof:lastmodified":1449045361,
+    "wof:lastmodified":1453933637,
     "wof:name":"Scrape Records",
     "wof:parent_id":85865019,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.10537,49.263165,-123.10537,49.263165],
-  "geometry": {"coordinates":[-123.10537,49.263165],"type":"Point"}
+  "bbox": [
+    -123.10537,
+    49.263165,
+    -123.10537,
+    49.263165
+],
+  "geometry": {"coordinates":[-123.10536999999999,49.263165],"type":"Point"}
 }

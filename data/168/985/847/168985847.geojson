@@ -2,13 +2,14 @@
   "id": 168985847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.656013,44.397335,-79.656013,44.397335",
     "geom:latitude":44.397335,
     "geom:longitude":-79.656013,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875263,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XKdtPZbY3ubNTFpksaqgi_44.397335_-79.656013@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"21b930eb2399f31839117096f48f2a93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875263,
+            "region_id":85682057,
+            "venue_id":168985847
+        }
+    ],
     "wof:id":168985847,
-    "wof:lastmodified":1449028150,
+    "wof:lastmodified":1453928209,
     "wof:name":"Mississauga Court",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.656013,44.397335,-79.656013,44.397335],
+  "bbox": [
+    -79.656013,
+    44.397335,
+    -79.656013,
+    44.397335
+],
   "geometry": {"coordinates":[-79.656013,44.397335],"type":"Point"}
 }

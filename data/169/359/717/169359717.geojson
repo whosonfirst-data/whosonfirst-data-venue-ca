@@ -2,13 +2,14 @@
   "id": 169359717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.781593,45.627796,-73.781593,45.627796",
     "geom:latitude":45.627796,
     "geom:longitude":-73.781593,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"30 Rue Jacques-Cartier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897567,
+        102191575,
         85633041,
-        85897567
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"96e686860790766a693354c16d7b16bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897567,
+            "region_id":136251273,
             "venue_id":169359717
         }
     ],
     "wof:id":169359717,
-    "wof:lastmodified":1449032631,
+    "wof:lastmodified":1453928743,
     "wof:name":"Transport S & L Inc",
     "wof:parent_id":85897567,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.781593,45.627796,-73.781593,45.627796],
+  "bbox": [
+    -73.781593,
+    45.627796,
+    -73.781593,
+    45.627796
+],
   "geometry": {"coordinates":[-73.781593,45.627796],"type":"Point"}
 }

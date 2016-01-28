@@ -2,13 +2,14 @@
   "id": 152544365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.029198,48.429596,-71.029198,48.429596",
     "geom:latitude":48.429596,
     "geom:longitude":-71.029198,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1287 Boul Du Saguenay E",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"26618d1957b88cd422699272ee058296",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152544365
         }
     ],
     "wof:id":152544365,
-    "wof:lastmodified":1449048895,
+    "wof:lastmodified":1453936335,
     "wof:name":"Escale Au Soleil Enr",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.029198,48.429596,-71.029198,48.429596],
-  "geometry": {"coordinates":[-71.029198,48.429596],"type":"Point"}
+  "bbox": [
+    -71.029198,
+    48.429596,
+    -71.029198,
+    48.429596
+],
+  "geometry": {"coordinates":[-71.02919799999999,48.429596],"type":"Point"}
 }

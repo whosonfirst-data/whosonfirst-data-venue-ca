@@ -2,13 +2,14 @@
   "id": 169501067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.029915,43.637035,-80.029915,43.637035",
     "geom:latitude":43.637035,
     "geom:longitude":-80.029915,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"344 Peel St",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895185,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"95b2a9128d0278f4f69435ccacd36abf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895185,
+            "region_id":85682057,
+            "venue_id":169501067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895185,
             "region_id":85682057,
             "venue_id":169501067
         }
     ],
     "wof:id":169501067,
-    "wof:lastmodified":1449035998,
+    "wof:lastmodified":1453932250,
     "wof:name":"Haefner Siding & Roofing",
     "wof:parent_id":85895185,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.029915,43.637035,-80.029915,43.637035],
+  "bbox": [
+    -80.029915,
+    43.637035,
+    -80.029915,
+    43.637035
+],
   "geometry": {"coordinates":[-80.029915,43.637035],"type":"Point"}
 }

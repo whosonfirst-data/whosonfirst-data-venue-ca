@@ -2,13 +2,14 @@
   "id": 169458971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22406,43.022476,-81.22406,43.022476",
     "geom:latitude":43.022476,
     "geom:longitude":-81.22406,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1231 Fuller St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5Y 4P7",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZEYGCnPF9RFRRC4MGjYtr_43.022476_-81.224060@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"63bc2f45ce94d751d58008212f60ba70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":169458971
+        }
+    ],
     "wof:id":169458971,
-    "wof:lastmodified":1449035027,
+    "wof:lastmodified":1453931246,
     "wof:name":"Hillcrest Public School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.22406,43.022476,-81.22406,43.022476],
-  "geometry": {"coordinates":[-81.22406,43.022476],"type":"Point"}
+  "bbox": [
+    -81.22406,
+    43.022476,
+    -81.22406,
+    43.022476
+],
+  "geometry": {"coordinates":[-81.22405999999999,43.022476],"type":"Point"}
 }

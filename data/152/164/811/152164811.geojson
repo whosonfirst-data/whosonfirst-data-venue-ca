@@ -2,13 +2,14 @@
   "id": 152164811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.288383,43.03804,-81.288383,43.03804",
     "geom:latitude":43.03804,
     "geom:longitude":-81.288383,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2090 Richmond St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "arbitration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874929,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03ciHZQpAZ66Y7QT3TFQf2_43.038040_-81.288383@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"871549d83c16936bc7f16157349e106a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874929,
+            "region_id":85682057,
+            "venue_id":152164811
+        }
+    ],
     "wof:id":152164811,
-    "wof:lastmodified":1449044855,
+    "wof:lastmodified":1453933253,
     "wof:name":"Munn Conflict Resolution Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.288383,43.03804,-81.288383,43.03804],
+  "bbox": [
+    -81.288383,
+    43.03804,
+    -81.288383,
+    43.03804
+],
   "geometry": {"coordinates":[-81.288383,43.03804],"type":"Point"}
 }

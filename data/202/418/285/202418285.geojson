@@ -2,13 +2,14 @@
   "id": 202418285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.167923,49.177418,-123.167923,49.177418",
     "geom:latitude":49.177418,
     "geom:longitude":-123.167923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4760 Inglis Dr",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -29,7 +30,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85894889,
+        102555307,
+        85894871,
+        102191575,
         85633041,
         101741081,
         85682117
@@ -42,18 +45,19 @@
     "wof:geomhash":"48e6ad117e29350129d56478dea55bee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741081,
-            "neighbourhood_id":85894889,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":202418285
         }
     ],
     "wof:id":202418285,
-    "wof:lastmodified":1449062105,
+    "wof:lastmodified":1453937393,
     "wof:name":"Harbour Air Ltd",
-    "wof:parent_id":85894889,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +67,11 @@
         "air"
     ]
 },
-  "bbox": [-123.167923,49.177418,-123.167923,49.177418],
+  "bbox": [
+    -123.167923,
+    49.177418,
+    -123.167923,
+    49.177418
+],
   "geometry": {"coordinates":[-123.167923,49.177418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169201345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.486443,45.415257,-73.486443,45.415257",
     "geom:latitude":45.415257,
     "geom:longitude":-73.486443,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"622 Ch DE Saint-Jean",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875773,
+        102191575,
         85633041,
-        85875773
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"dc2add3a01a37c6b5ee377559844f5ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875773,
+            "region_id":136251273,
             "venue_id":169201345
         }
     ],
     "wof:id":169201345,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1453931764,
     "wof:name":"Coiffure Design",
     "wof:parent_id":85875773,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.486443,45.415257,-73.486443,45.415257],
-  "geometry": {"coordinates":[-73.486443,45.415257],"type":"Point"}
+  "bbox": [
+    -73.486443,
+    45.415257,
+    -73.486443,
+    45.415257
+],
+  "geometry": {"coordinates":[-73.48644299999999,45.415257],"type":"Point"}
 }

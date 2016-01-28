@@ -2,13 +2,14 @@
   "id": 169193723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.877327,48.329704,-70.877327,48.329704",
     "geom:latitude":48.329704,
     "geom:longitude":-70.877327,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1008 4E Av",
     "sg:city":"Val-D'Or",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785011,
+        102191575,
         85633041,
-        85785011
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ed22388ffee84088e61ffeb08ca8a5ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
+            "region_id":136251273,
             "venue_id":169193723
         }
     ],
     "wof:id":169193723,
-    "wof:lastmodified":1449033229,
+    "wof:lastmodified":1453929332,
     "wof:name":"Viterie St-G Inc",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.877327,48.329704,-70.877327,48.329704],
-  "geometry": {"coordinates":[-70.877327,48.329704],"type":"Point"}
+  "bbox": [
+    -70.877327,
+    48.329704,
+    -70.877327,
+    48.329704
+],
+  "geometry": {"coordinates":[-70.87732699999999,48.329704],"type":"Point"}
 }

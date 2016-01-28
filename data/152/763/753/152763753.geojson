@@ -2,13 +2,14 @@
   "id": 152763753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.591293,45.581993,-73.591293,45.581993",
     "geom:latitude":45.581993,
     "geom:longitude":-73.591293,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7860 Rue Fleuricourt",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784921,
+        102191575,
         85633041,
-        85784921
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"616763de6954e6b18df54e1cd5fa4ef8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
+            "region_id":136251273,
             "venue_id":152763753
         }
     ],
     "wof:id":152763753,
-    "wof:lastmodified":1449048886,
+    "wof:lastmodified":1453936325,
     "wof:name":"Ropar Inc",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.591293,45.581993,-73.591293,45.581993],
-  "geometry": {"coordinates":[-73.591293,45.581993],"type":"Point"}
+  "bbox": [
+    -73.591293,
+    45.581993,
+    -73.591293,
+    45.581993
+],
+  "geometry": {"coordinates":[-73.59129299999999,45.581993],"type":"Point"}
 }

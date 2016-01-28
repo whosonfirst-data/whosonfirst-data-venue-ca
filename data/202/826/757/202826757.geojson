@@ -2,13 +2,14 @@
   "id": 202826757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.442986,43.895149,-79.442986,43.895149",
     "geom:latitude":43.895149,
     "geom:longitude":-79.442986,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11000 Yonge St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895003,
+        102191575,
         85633041,
-        85682057
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"b98620bc21ebfb927179ee8260df343c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895003,
+            "region_id":85682057,
+            "venue_id":202826757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895003,
             "region_id":85682057,
             "venue_id":202826757
         }
     ],
     "wof:id":202826757,
-    "wof:lastmodified":1449061943,
+    "wof:lastmodified":1453937358,
     "wof:name":"Canyon Hill Animal Hospital",
     "wof:parent_id":85895003,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-79.442986,43.895149,-79.442986,43.895149],
+  "bbox": [
+    -79.442986,
+    43.895149,
+    -79.442986,
+    43.895149
+],
   "geometry": {"coordinates":[-79.442986,43.895149],"type":"Point"}
 }

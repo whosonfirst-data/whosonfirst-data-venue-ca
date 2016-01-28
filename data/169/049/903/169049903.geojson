@@ -2,13 +2,14 @@
   "id": 169049903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.253548,48.408939,-71.253548,48.408939",
     "geom:latitude":48.408939,
     "geom:longitude":-71.253548,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2315 Rue Pelletier",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"c48320e505c8e9e44a54129f7ce0eb70",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":169049903
         }
     ],
     "wof:id":169049903,
-    "wof:lastmodified":1449034320,
+    "wof:lastmodified":1453930491,
     "wof:name":"Jonquiere Palais Des Sports",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.253548,48.408939,-71.253548,48.408939],
-  "geometry": {"coordinates":[-71.253548,48.408939],"type":"Point"}
+  "bbox": [
+    -71.253548,
+    48.408939,
+    -71.253548,
+    48.408939
+],
+  "geometry": {"coordinates":[-71.25354799999999,48.408939],"type":"Point"}
 }

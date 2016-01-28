@@ -2,13 +2,14 @@
   "id": 186638863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824265,43.729183,-79.824265,43.729183",
     "geom:latitude":43.729183,
     "geom:longitude":-79.824265,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"66 National Cres",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895445,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"66fa013c590ad157b85542357a0122d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895445,
+            "region_id":85682057,
+            "venue_id":186638863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895445,
             "region_id":85682057,
             "venue_id":186638863
         }
     ],
     "wof:id":186638863,
-    "wof:lastmodified":1449050415,
+    "wof:lastmodified":1453936511,
     "wof:name":"Always Beautiful By Albina",
     "wof:parent_id":85895445,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.824265,43.729183,-79.824265,43.729183],
+  "bbox": [
+    -79.824265,
+    43.729183,
+    -79.824265,
+    43.729183
+],
   "geometry": {"coordinates":[-79.824265,43.729183],"type":"Point"}
 }

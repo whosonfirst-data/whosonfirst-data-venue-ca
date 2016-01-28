@@ -2,13 +2,14 @@
   "id": 202697233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.722427,45.597561,-73.722427,45.597561",
     "geom:latitude":45.597561,
     "geom:longitude":-73.722427,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1725 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864417,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"f5008f74c75818a4b294d3cc49ba3727",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202697233
         }
     ],
     "wof:id":202697233,
-    "wof:lastmodified":1449061696,
+    "wof:lastmodified":1453937307,
     "wof:name":"Brasserie LA Choppe",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-73.722427,45.597561,-73.722427,45.597561],
+  "bbox": [
+    -73.722427,
+    45.597561,
+    -73.722427,
+    45.597561
+],
   "geometry": {"coordinates":[-73.722427,45.597561],"type":"Point"}
 }

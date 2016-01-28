@@ -2,13 +2,14 @@
   "id": 169460061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.694252,44.390907,-79.694252,44.390907",
     "geom:latitude":44.390907,
     "geom:longitude":-79.694252,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -26,23 +27,43 @@
         "org"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zhJGcGfzne7HPUzjmcFI3_44.390907_-79.694252@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d95d4c434b787b553d06c4545e0e1e08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":169460061
+        }
+    ],
     "wof:id":169460061,
-    "wof:lastmodified":1449035772,
+    "wof:lastmodified":1453932045,
     "wof:name":"Environmental Action Barrie",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.694252,44.390907,-79.694252,44.390907],
-  "geometry": {"coordinates":[-79.694252,44.390907],"type":"Point"}
+  "bbox": [
+    -79.694252,
+    44.390907,
+    -79.694252,
+    44.390907
+],
+  "geometry": {"coordinates":[-79.69425200000001,44.390907],"type":"Point"}
 }

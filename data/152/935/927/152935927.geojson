@@ -2,13 +2,14 @@
   "id": 152935927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.641167,43.571957,-79.641167,43.571957",
     "geom:latitude":43.571957,
     "geom:longitude":-79.641167,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3285 Mavis Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895113,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"6d04da398f919e41d1e6dac351e3f3ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895113,
+            "region_id":85682057,
+            "venue_id":152935927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895113,
             "region_id":85682057,
             "venue_id":152935927
         }
     ],
     "wof:id":152935927,
-    "wof:lastmodified":1449048089,
+    "wof:lastmodified":1453935714,
     "wof:name":"Whiteoak Ford Lincoln Sales",
     "wof:parent_id":85895113,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.641167,43.571957,-79.641167,43.571957],
+  "bbox": [
+    -79.641167,
+    43.571957,
+    -79.641167,
+    43.571957
+],
   "geometry": {"coordinates":[-79.641167,43.571957],"type":"Point"}
 }

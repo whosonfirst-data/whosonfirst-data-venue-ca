@@ -2,13 +2,14 @@
   "id": 186204935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.496109,45.42131,-73.496109,45.42131",
     "geom:latitude":45.42131,
     "geom:longitude":-73.496109,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"151 Rue Emilie-Gamelin",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875781,
+        102191575,
         85633041,
-        101736521
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"8d9549162b7f5886601a35da3282164c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875781,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186204935
         }
     ],
     "wof:id":186204935,
-    "wof:lastmodified":1449053099,
+    "wof:lastmodified":1453936959,
     "wof:name":"Residence LA Belle Epoque",
     "wof:parent_id":85875781,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-73.496109,45.42131,-73.496109,45.42131],
+  "bbox": [
+    -73.496109,
+    45.42131,
+    -73.496109,
+    45.42131
+],
   "geometry": {"coordinates":[-73.496109,45.42131],"type":"Point"}
 }

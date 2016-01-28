@@ -2,13 +2,14 @@
   "id": 152988209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688461,43.71273,-79.688461,43.71273",
     "geom:latitude":43.71273,
     "geom:longitude":-79.688461,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"157 East Dr",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"19a54c6212f656897d60d2d0b6cbcace",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152988209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152988209
         }
     ],
     "wof:id":152988209,
-    "wof:lastmodified":1449045905,
+    "wof:lastmodified":1453934052,
     "wof:name":"Reale's Metro Tire",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688461,43.71273,-79.688461,43.71273],
+  "bbox": [
+    -79.688461,
+    43.71273,
+    -79.688461,
+    43.71273
+],
   "geometry": {"coordinates":[-79.688461,43.71273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152935135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.280701,43.035603,-81.280701,43.035603",
     "geom:latitude":43.035603,
     "geom:longitude":-81.280701,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"55 Northcrest Dr",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "project"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864487,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FLUCqEfZeiAXupFeI8VmO_43.035603_-81.280701@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"175a7e133a05782325285f19ef0daad2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864487,
+            "region_id":85682057,
+            "venue_id":152935135
+        }
+    ],
     "wof:id":152935135,
-    "wof:lastmodified":1449048089,
+    "wof:lastmodified":1453935712,
     "wof:name":"Success Diversified Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.280701,43.035603,-81.280701,43.035603],
-  "geometry": {"coordinates":[-81.280701,43.035603],"type":"Point"}
+  "bbox": [
+    -81.280701,
+    43.035603,
+    -81.280701,
+    43.035603
+],
+  "geometry": {"coordinates":[-81.28070099999999,43.035603],"type":"Point"}
 }

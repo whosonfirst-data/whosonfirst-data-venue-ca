@@ -2,13 +2,14 @@
   "id": 169003109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.154312,43.002209,-81.154312,43.002209",
     "geom:latitude":43.002209,
     "geom:longitude":-81.154312,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"34 Bonaparte Lane",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "word"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864669,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YKZ4eQvIU93bqQSwLXl5a_43.002209_-81.154312@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"15cbf04767cb16f9b18ea668c215593a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864669,
+            "region_id":85682057,
+            "venue_id":169003109
+        }
+    ],
     "wof:id":169003109,
-    "wof:lastmodified":1449035702,
+    "wof:lastmodified":1453931953,
     "wof:name":"Expressions Unlimited Word",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.154312,43.002209,-81.154312,43.002209],
+  "bbox": [
+    -81.154312,
+    43.002209,
+    -81.154312,
+    43.002209
+],
   "geometry": {"coordinates":[-81.154312,43.002209],"type":"Point"}
 }

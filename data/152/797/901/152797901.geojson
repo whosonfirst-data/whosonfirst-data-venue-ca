@@ -2,13 +2,14 @@
   "id": 152797901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.816154,45.445621,-73.816154,45.445621",
     "geom:latitude":45.445621,
     "geom:longitude":-73.816154,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"269 Boul Saint-Jean #208A",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85784843,
+        102191575,
         85633041,
-        85784843
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"8ac6637507bbaa3413cec7f7711cbfc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85784843,
+            "region_id":136251273,
             "venue_id":152797901
         }
     ],
     "wof:id":152797901,
-    "wof:lastmodified":1449048465,
+    "wof:lastmodified":1453935999,
     "wof:name":"Clinique DE Varices",
     "wof:parent_id":85784843,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.816154,45.445621,-73.816154,45.445621],
+  "bbox": [
+    -73.816154,
+    45.445621,
+    -73.816154,
+    45.445621
+],
   "geometry": {"coordinates":[-73.816154,45.445621],"type":"Point"}
 }

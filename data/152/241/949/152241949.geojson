@@ -2,13 +2,14 @@
   "id": 152241949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.806046,45.626598,-73.806046,45.626598",
     "geom:latitude":45.626598,
     "geom:longitude":-73.806046,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Rosemere",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871107,
+        102191575,
         85633041,
-        85871107
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"1b2cc8fb0fcc347aa3a723de22fbfe59",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871107,
+            "region_id":136251273,
             "venue_id":152241949
         }
     ],
     "wof:id":152241949,
-    "wof:lastmodified":1449048794,
+    "wof:lastmodified":1453936245,
     "wof:name":"Service D'Art Royal",
     "wof:parent_id":85871107,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.806046,45.626598,-73.806046,45.626598],
-  "geometry": {"coordinates":[-73.806046,45.626598],"type":"Point"}
+  "bbox": [
+    -73.806046,
+    45.626598,
+    -73.806046,
+    45.626598
+],
+  "geometry": {"coordinates":[-73.80604599999999,45.626598],"type":"Point"}
 }

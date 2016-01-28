@@ -2,13 +2,14 @@
   "id": 152951509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.724854,45.599827,-73.724854,45.599827",
     "geom:latitude":45.599827,
     "geom:longitude":-73.724854,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1793 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864417,
+        102191575,
         85633041,
-        85864417
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7cd9f9b91364b0cfe7fd84ed1688491d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
+            "region_id":136251273,
             "venue_id":152951509
         }
     ],
     "wof:id":152951509,
-    "wof:lastmodified":1449044499,
+    "wof:lastmodified":1453932976,
     "wof:name":"Clinique Medicale Du Boulevard",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.724854,45.599827,-73.724854,45.599827],
-  "geometry": {"coordinates":[-73.724854,45.599827],"type":"Point"}
+  "bbox": [
+    -73.724854,
+    45.599827,
+    -73.724854,
+    45.599827
+],
+  "geometry": {"coordinates":[-73.72485399999999,45.599827],"type":"Point"}
 }

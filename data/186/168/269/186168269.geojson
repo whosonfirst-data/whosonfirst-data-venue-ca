@@ -2,13 +2,14 @@
   "id": 186168269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.382507,49.022964,-122.382507,49.022964",
     "geom:latitude":49.022964,
     "geom:longitude":-122.382507,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1172 Aviator Dr",
     "sg:city":"Abbotsford",
     "sg:classifiers":[
@@ -28,6 +29,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102554903,
+        85865037,
+        102191575,
         85633041,
         101740961,
         85682117
@@ -40,18 +44,19 @@
     "wof:geomhash":"f8d8d0716bfcc2b091cd2c67854723b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554903,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740961,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865037,
             "region_id":85682117,
             "venue_id":186168269
         }
     ],
     "wof:id":186168269,
-    "wof:lastmodified":1449051773,
+    "wof:lastmodified":1453936718,
     "wof:name":"Bakerview Aviation Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":102554903,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-122.382507,49.022964,-122.382507,49.022964],
+  "bbox": [
+    -122.382507,
+    49.022964,
+    -122.382507,
+    49.022964
+],
   "geometry": {"coordinates":[-122.382507,49.022964],"type":"Point"}
 }

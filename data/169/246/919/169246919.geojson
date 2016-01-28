@@ -2,13 +2,14 @@
   "id": 169246919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.692154,44.388271,-79.692154,44.388271",
     "geom:latitude":44.388271,
     "geom:longitude":-79.692154,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"67 Dunlop St W",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4N 1A3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IBjxMiE9BRO5qj4ja6RZ7_44.388271_-79.692154@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4cd44d1e3b5620d966778e55a313f69a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":169246919
+        }
+    ],
     "wof:id":169246919,
-    "wof:lastmodified":1449032901,
+    "wof:lastmodified":1453929025,
     "wof:name":"Pharaoh's Pita",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.692154,44.388271,-79.692154,44.388271],
+  "bbox": [
+    -79.692154,
+    44.388271,
+    -79.692154,
+    44.388271
+],
   "geometry": {"coordinates":[-79.692154,44.388271],"type":"Point"}
 }

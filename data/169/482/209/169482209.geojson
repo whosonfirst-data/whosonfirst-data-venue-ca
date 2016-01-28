@@ -2,13 +2,14 @@
   "id": 169482209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.629036,43.844223,-79.629036,43.844223",
     "geom:latitude":43.844223,
     "geom:longitude":-79.629036,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8 Nashville Rd",
     "sg:city":"Kleinburg",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895459,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"492a3774be078c42f2eb61d42f3c0b25",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895459,
+            "region_id":85682057,
+            "venue_id":169482209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895459,
             "region_id":85682057,
             "venue_id":169482209
         }
     ],
     "wof:id":169482209,
-    "wof:lastmodified":1449033862,
+    "wof:lastmodified":1453930038,
     "wof:name":"Kleinburg Binder Twine",
     "wof:parent_id":85895459,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.629036,43.844223,-79.629036,43.844223],
+  "bbox": [
+    -79.629036,
+    43.844223,
+    -79.629036,
+    43.844223
+],
   "geometry": {"coordinates":[-79.629036,43.844223],"type":"Point"}
 }

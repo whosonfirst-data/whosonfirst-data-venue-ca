@@ -2,13 +2,14 @@
   "id": 169358107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.85244,45.445629,-73.85244,45.445629",
     "geom:latitude":45.445629,
     "geom:longitude":-73.85244,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2738 Boul Saint-Charles",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736461,
+        85864411,
+        102191575,
         85633041,
-        85864411
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"eb2a7b14db6127bb437ae26edf458c1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85864411,
+            "region_id":136251273,
             "venue_id":169358107
         }
     ],
     "wof:id":169358107,
-    "wof:lastmodified":1449034055,
+    "wof:lastmodified":1453930245,
     "wof:name":"Maurizio Cafe",
     "wof:parent_id":85864411,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.85244,45.445629,-73.85244,45.445629],
+  "bbox": [
+    -73.85244,
+    45.445629,
+    -73.85244,
+    45.445629
+],
   "geometry": {"coordinates":[-73.85244,45.445629],"type":"Point"}
 }

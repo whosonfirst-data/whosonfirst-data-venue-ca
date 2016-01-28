@@ -2,13 +2,14 @@
   "id": 152264369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.532707,45.552505,-73.532707,45.552505",
     "geom:latitude":45.552505,
     "geom:longitude":-73.532707,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4480 Rue Sainte-Catherine E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"207823178055f4fd3835c2864c5afabf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":152264369
         }
     ],
     "wof:id":152264369,
-    "wof:lastmodified":1449047302,
+    "wof:lastmodified":1453935100,
     "wof:name":"Depanneur Nicolina",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.532707,45.552505,-73.532707,45.552505],
+  "bbox": [
+    -73.532707,
+    45.552505,
+    -73.532707,
+    45.552505
+],
   "geometry": {"coordinates":[-73.532707,45.552505],"type":"Point"}
 }

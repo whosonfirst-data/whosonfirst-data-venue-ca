@@ -2,13 +2,14 @@
   "id": 152864589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.22242,43.221542,-79.22242,43.221542",
     "geom:latitude":43.221542,
     "geom:longitude":-79.22242,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"108 Arthur St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85784889,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"ecbe10be17de66310f6497f331d7a1ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85784889,
+            "region_id":85682057,
+            "venue_id":152864589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85784889,
             "region_id":85682057,
             "venue_id":152864589
         }
     ],
     "wof:id":152864589,
-    "wof:lastmodified":1449048952,
+    "wof:lastmodified":1453936395,
     "wof:name":"Tropicana Ice Cream Parlour",
     "wof:parent_id":85784889,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.22242,43.221542,-79.22242,43.221542],
+  "bbox": [
+    -79.22242,
+    43.221542,
+    -79.22242,
+    43.221542
+],
   "geometry": {"coordinates":[-79.22242,43.221542],"type":"Point"}
 }

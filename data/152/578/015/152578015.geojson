@@ -2,13 +2,14 @@
   "id": 152578015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.152267,49.268291,-123.152267,49.268291",
     "geom:latitude":49.268291,
     "geom:longitude":-123.152267,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2089 4th Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865011,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"c580485a27955b3ee7e1ddab61d6ae02",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865011,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":152578015,
-    "wof:lastmodified":1449045455,
+    "wof:lastmodified":1453933714,
     "wof:name":"Comicshop",
     "wof:parent_id":85865011,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.152267,49.268291,-123.152267,49.268291],
-  "geometry": {"coordinates":[-123.152267,49.268291],"type":"Point"}
+  "bbox": [
+    -123.152267,
+    49.268291,
+    -123.152267,
+    49.268291
+],
+  "geometry": {"coordinates":[-123.15226699999999,49.268291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152245229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574944,45.602722,-73.574944,45.602722",
     "geom:latitude":45.602722,
     "geom:longitude":-73.574944,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7177 Rue Jarry E",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897591,
+        102191575,
         85633041,
-        85897591
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"32607b742dd9e1319089079c030c2770",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897591,
+            "region_id":136251273,
             "venue_id":152245229
         }
     ],
     "wof:id":152245229,
-    "wof:lastmodified":1449048766,
+    "wof:lastmodified":1453936228,
     "wof:name":"Georges Sudjian Enr",
     "wof:parent_id":85897591,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574944,45.602722,-73.574944,45.602722],
+  "bbox": [
+    -73.574944,
+    45.602722,
+    -73.574944,
+    45.602722
+],
   "geometry": {"coordinates":[-73.574944,45.602722],"type":"Point"}
 }

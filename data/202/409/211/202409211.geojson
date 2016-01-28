@@ -2,13 +2,14 @@
   "id": 202409211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.255119,46.794186,-71.255119,46.794186",
     "geom:latitude":46.794186,
     "geom:longitude":-71.255119,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1379 Ch Sainte-Foy # 206",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864431,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"034c3c8eb6e23f37470911857d9ca547",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864431,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202409211
         }
     ],
     "wof:id":202409211,
-    "wof:lastmodified":1449061153,
+    "wof:lastmodified":1453937194,
     "wof:name":"Formation Soins Sante",
     "wof:parent_id":85864431,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "academic"
     ]
 },
-  "bbox": [-71.255119,46.794186,-71.255119,46.794186],
-  "geometry": {"coordinates":[-71.255119,46.794186],"type":"Point"}
+  "bbox": [
+    -71.255119,
+    46.794186,
+    -71.255119,
+    46.794186
+],
+  "geometry": {"coordinates":[-71.25511899999999,46.794186],"type":"Point"}
 }

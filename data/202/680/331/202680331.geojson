@@ -2,13 +2,14 @@
   "id": 202680331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.69371,44.378429,-79.69371,44.378429",
     "geom:latitude":44.378429,
     "geom:longitude":-79.69371,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"178 Bradford St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,7 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875277,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -39,18 +43,18 @@
     "wof:geomhash":"4d4b2c39f0b44354035821e2a33e22e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
             "region_id":85682057,
             "venue_id":202680331
         }
     ],
     "wof:id":202680331,
-    "wof:lastmodified":1449061873,
+    "wof:lastmodified":1453937344,
     "wof:name":"Bay City Kia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.69371,44.378429,-79.69371,44.378429],
+  "bbox": [
+    -79.69371,
+    44.378429,
+    -79.69371,
+    44.378429
+],
   "geometry": {"coordinates":[-79.69371,44.378429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152731211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.01226,43.824471,-79.01226,43.824471",
     "geom:latitude":43.824471,
     "geom:longitude":-79.01226,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"38 Andrea Rd",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895475,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"180a7ff09774fc779ec20d9339f5b448",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895475,
+            "region_id":85682057,
+            "venue_id":152731211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895475,
             "region_id":85682057,
             "venue_id":152731211
         }
     ],
     "wof:id":152731211,
-    "wof:lastmodified":1449048404,
+    "wof:lastmodified":1453935954,
     "wof:name":"M & M Pools",
     "wof:parent_id":85895475,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.01226,43.824471,-79.01226,43.824471],
+  "bbox": [
+    -79.01226,
+    43.824471,
+    -79.01226,
+    43.824471
+],
   "geometry": {"coordinates":[-79.01226,43.824471],"type":"Point"}
 }

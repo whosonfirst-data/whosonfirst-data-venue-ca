@@ -2,13 +2,14 @@
   "id": 169221197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.158836,49.189655,-123.158836,49.189655",
     "geom:latitude":49.189655,
     "geom:longitude":-123.158836,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3611 Jericho Rd",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741081,
+        102555307,
+        85894871,
+        102191575,
         85633041,
-        85894881,
+        101741081,
         85682117
     ],
     "wof:breaches":[],
@@ -41,22 +44,29 @@
     "wof:geomhash":"941c1042b1d72ae70cef282b94512bbf",
     "wof:hierarchy":[
         {
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741081,
-            "neighbourhood_id":85894881,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":169221197
         }
     ],
     "wof:id":169221197,
-    "wof:lastmodified":1449034123,
+    "wof:lastmodified":1453930311,
     "wof:name":"Els Markerting",
-    "wof:parent_id":85894881,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.158836,49.189655,-123.158836,49.189655],
-  "geometry": {"coordinates":[-123.158836,49.189655],"type":"Point"}
+  "bbox": [
+    -123.158836,
+    49.189655,
+    -123.158836,
+    49.189655
+],
+  "geometry": {"coordinates":[-123.15883599999999,49.189655],"type":"Point"}
 }

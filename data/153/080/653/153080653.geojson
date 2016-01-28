@@ -2,13 +2,14 @@
   "id": 153080653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.713326,43.422615,-79.713326,43.422615",
     "geom:latitude":43.422615,
     "geom:longitude":-79.713326,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oakville",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895687,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"463cfdca6ed523d6fe82ceadcaea98d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895687,
+            "region_id":85682057,
+            "venue_id":153080653
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895687,
             "region_id":85682057,
             "venue_id":153080653
         }
     ],
     "wof:id":153080653,
-    "wof:lastmodified":1449040809,
+    "wof:lastmodified":1453932715,
     "wof:name":"House of Foil",
     "wof:parent_id":85895687,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.713326,43.422615,-79.713326,43.422615],
+  "bbox": [
+    -79.713326,
+    43.422615,
+    -79.713326,
+    43.422615
+],
   "geometry": {"coordinates":[-79.713326,43.422615],"type":"Point"}
 }

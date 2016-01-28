@@ -2,13 +2,14 @@
   "id": 152409153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563011,45.45974,-73.563011,45.45974",
     "geom:latitude":45.45974,
     "geom:longitude":-73.563011,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4398 Boul Lasalle",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874363,
+        102191575,
         85633041,
-        85874363
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fb7262337de4a6de00b4ed7d73a2ace9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
+            "region_id":136251273,
             "venue_id":152409153
         }
     ],
     "wof:id":152409153,
-    "wof:lastmodified":1449046205,
+    "wof:lastmodified":1453934278,
     "wof:name":"Verdun Fire Prevention Dept",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.563011,45.45974,-73.563011,45.45974],
+  "bbox": [
+    -73.563011,
+    45.45974,
+    -73.563011,
+    45.45974
+],
   "geometry": {"coordinates":[-73.563011,45.45974],"type":"Point"}
 }

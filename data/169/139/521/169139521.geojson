@@ -2,13 +2,14 @@
   "id": 169139521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.539665,45.580109,-73.539665,45.580109",
     "geom:latitude":45.580109,
     "geom:longitude":-73.539665,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2990 Av DE Granby # 2",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874169,
+        102191575,
         85633041,
-        85874169
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"280190563ec88433f9f0745d9d0d58ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
+            "region_id":136251273,
             "venue_id":169139521
         }
     ],
     "wof:id":169139521,
-    "wof:lastmodified":1449032985,
+    "wof:lastmodified":1453929114,
     "wof:name":"Habitations Le Domaine",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.539665,45.580109,-73.539665,45.580109],
+  "bbox": [
+    -73.539665,
+    45.580109,
+    -73.539665,
+    45.580109
+],
   "geometry": {"coordinates":[-73.539665,45.580109],"type":"Point"}
 }

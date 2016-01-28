@@ -2,13 +2,14 @@
   "id": 169797291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.59803,45.527832,-73.59803,45.527832",
     "geom:latitude":45.527832,
     "geom:longitude":-73.59803,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5600 Av DE Gaspe",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866479,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"114b270bee39b77e7a2098f9c1904cbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169797291
         }
     ],
     "wof:id":169797291,
-    "wof:lastmodified":1449035626,
+    "wof:lastmodified":1453931873,
     "wof:name":"Aluminium St Viateur Ltee",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "door"
     ]
 },
-  "bbox": [-73.59803,45.527832,-73.59803,45.527832],
-  "geometry": {"coordinates":[-73.59803,45.527832],"type":"Point"}
+  "bbox": [
+    -73.59803,
+    45.527832,
+    -73.59803,
+    45.527832
+],
+  "geometry": {"coordinates":[-73.59802999999999,45.527832],"type":"Point"}
 }

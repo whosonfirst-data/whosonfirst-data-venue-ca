@@ -2,13 +2,14 @@
   "id": 186475845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.562904,43.572769,-79.562904,43.572769",
     "geom:latitude":43.572769,
     "geom:longitude":-79.562904,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"832 Lakeshore Rd E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895227,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"3d0c389c7ed8db258fe9db0720108fc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895227,
+            "region_id":85682057,
+            "venue_id":186475845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895227,
             "region_id":85682057,
             "venue_id":186475845
         }
     ],
     "wof:id":186475845,
-    "wof:lastmodified":1449051490,
+    "wof:lastmodified":1453936669,
     "wof:name":"Las Americas Craft Importers",
     "wof:parent_id":85895227,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.562904,43.572769,-79.562904,43.572769],
+  "bbox": [
+    -79.562904,
+    43.572769,
+    -79.562904,
+    43.572769
+],
   "geometry": {"coordinates":[-79.562904,43.572769],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219326593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.205414,46.813011,-71.205414,46.813011",
     "geom:latitude":46.813011,
     "geom:longitude":-71.205414,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12 Rue Sainte-Anne",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866515,
+        102191575,
         85633041,
-        101737987
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"698829f012e70bfe4ed00babafce4e8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866515,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219326593
         }
     ],
     "wof:id":219326593,
-    "wof:lastmodified":1449071889,
+    "wof:lastmodified":1453937743,
     "wof:name":"Quebec Bibliotheque",
     "wof:parent_id":85866515,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "government"
     ]
 },
-  "bbox": [-71.205414,46.813011,-71.205414,46.813011],
+  "bbox": [
+    -71.205414,
+    46.813011,
+    -71.205414,
+    46.813011
+],
   "geometry": {"coordinates":[-71.205414,46.813011],"type":"Point"}
 }

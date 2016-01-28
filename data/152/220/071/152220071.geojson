@@ -2,13 +2,14 @@
   "id": 152220071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.583237,43.59663,-79.583237,43.59663",
     "geom:latitude":43.59663,
     "geom:longitude":-79.583237,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"cc7b0af2fb48a855b051e7f17513a04b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":152220071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":152220071
         }
     ],
     "wof:id":152220071,
-    "wof:lastmodified":1449048752,
+    "wof:lastmodified":1453936220,
     "wof:name":"Dundas Doors Inc",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.583237,43.59663,-79.583237,43.59663],
+  "bbox": [
+    -79.583237,
+    43.59663,
+    -79.583237,
+    43.59663
+],
   "geometry": {"coordinates":[-79.583237,43.59663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153008195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.865479,45.479729,-73.865479,45.479729",
     "geom:latitude":45.479729,
     "geom:longitude":-73.865479,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15700 Boul DE Pierrefonds",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897599,
+        102191575,
         85633041,
-        85897599
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"7b20ea2d2fe07dd65f2f3991b81e8b61",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897599,
+            "region_id":136251273,
             "venue_id":153008195
         }
     ],
     "wof:id":153008195,
-    "wof:lastmodified":1449040482,
+    "wof:lastmodified":1453932431,
     "wof:name":"Vitrerie Pierrefonds Inc",
     "wof:parent_id":85897599,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.865479,45.479729,-73.865479,45.479729],
-  "geometry": {"coordinates":[-73.865479,45.479729],"type":"Point"}
+  "bbox": [
+    -73.865479,
+    45.479729,
+    -73.865479,
+    45.479729
+],
+  "geometry": {"coordinates":[-73.86547899999999,45.479729],"type":"Point"}
 }

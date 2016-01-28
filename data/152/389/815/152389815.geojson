@@ -2,13 +2,14 @@
   "id": 152389815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.498291,45.496487,-73.498291,45.496487",
     "geom:latitude":45.496487,
     "geom:longitude":-73.498291,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Lemoyne",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85784759,
+        102191575,
         85633041,
-        85784759
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"796c7f6b214cdd12b7c14d41b9f2b0e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85784759,
+            "region_id":136251273,
             "venue_id":152389815
         }
     ],
     "wof:id":152389815,
-    "wof:lastmodified":1449047974,
+    "wof:lastmodified":1453935635,
     "wof:name":"Aluminium Pierre Enrg",
     "wof:parent_id":85784759,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.498291,45.496487,-73.498291,45.496487],
-  "geometry": {"coordinates":[-73.498291,45.496487],"type":"Point"}
+  "bbox": [
+    -73.498291,
+    45.496487,
+    -73.498291,
+    45.496487
+],
+  "geometry": {"coordinates":[-73.49829099999999,45.496487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185769761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585983,45.490345,-73.585983,45.490345",
     "geom:latitude":45.490345,
     "geom:longitude":-73.585983,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2021 Av Atwater",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897631,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"3d7069293eb8d135a5212abe545e1843",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897631,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185769761
         }
     ],
     "wof:id":185769761,
-    "wof:lastmodified":1449007129,
+    "wof:lastmodified":1453927259,
     "wof:name":"Services Gloire DE Dieu Log",
     "wof:parent_id":85897631,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "hospital"
     ]
 },
-  "bbox": [-73.585983,45.490345,-73.585983,45.490345],
+  "bbox": [
+    -73.585983,
+    45.490345,
+    -73.585983,
+    45.490345
+],
   "geometry": {"coordinates":[-73.585983,45.490345],"type":"Point"}
 }

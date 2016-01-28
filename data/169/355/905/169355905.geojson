@@ -2,13 +2,14 @@
   "id": 169355905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.505325,45.677654,-73.505325,45.677654",
     "geom:latitude":45.677654,
     "geom:longitude":-73.505325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3464 Rue Marie-Le Franc",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784837,
+        102191575,
         85633041,
-        85784837
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"252cff47eb45ce1f2f6f2306796457eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
+            "region_id":136251273,
             "venue_id":169355905
         }
     ],
     "wof:id":169355905,
-    "wof:lastmodified":1449033605,
+    "wof:lastmodified":1453929731,
     "wof:name":"Semelles Thermosol Inc",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.505325,45.677654,-73.505325,45.677654],
+  "bbox": [
+    -73.505325,
+    45.677654,
+    -73.505325,
+    45.677654
+],
   "geometry": {"coordinates":[-73.505325,45.677654],"type":"Point"}
 }

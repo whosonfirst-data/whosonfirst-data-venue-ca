@@ -2,13 +2,14 @@
   "id": 152503037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616455,45.567047,-73.616455,45.567047",
     "geom:latitude":45.567047,
     "geom:longitude":-73.616455,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8501 Boul Saint-Michel",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cc9fc9f876d34dd27d1a78aa9236d264",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":152503037
         }
     ],
     "wof:id":152503037,
-    "wof:lastmodified":1449048912,
+    "wof:lastmodified":1453936356,
     "wof:name":"Patisserie L'Irreductible",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.616455,45.567047,-73.616455,45.567047],
+  "bbox": [
+    -73.616455,
+    45.567047,
+    -73.616455,
+    45.567047
+],
   "geometry": {"coordinates":[-73.616455,45.567047],"type":"Point"}
 }

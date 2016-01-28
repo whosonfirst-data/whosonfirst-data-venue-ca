@@ -2,13 +2,14 @@
   "id": 152833243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838219,45.457832,-73.838219,45.457832",
     "geom:latitude":45.457832,
     "geom:longitude":-73.838219,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6801 Aut Transcanadienne",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875799,
+        102191575,
         85633041,
-        85875799
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3dca3075f422e35452d856f71229066b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875799,
+            "region_id":136251273,
             "venue_id":152833243
         }
     ],
     "wof:id":152833243,
-    "wof:lastmodified":1449044899,
+    "wof:lastmodified":1453933285,
     "wof:name":"Espace Bell",
     "wof:parent_id":85875799,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.838219,45.457832,-73.838219,45.457832],
+  "bbox": [
+    -73.838219,
+    45.457832,
+    -73.838219,
+    45.457832
+],
   "geometry": {"coordinates":[-73.838219,45.457832],"type":"Point"}
 }

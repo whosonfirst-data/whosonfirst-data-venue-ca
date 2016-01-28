@@ -2,13 +2,14 @@
   "id": 203357235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.241447,43.009178,-81.241447,43.009178",
     "geom:latitude":43.009178,
     "geom:longitude":-81.241447,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1062 Adelaide St N",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874939,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -38,18 +42,18 @@
     "wof:geomhash":"4adc86c589d156104e1a9930e78eac48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
             "region_id":85682057,
             "venue_id":203357235
         }
     ],
     "wof:id":203357235,
-    "wof:lastmodified":1449026631,
+    "wof:lastmodified":1453927717,
     "wof:name":"Brunswick Huron Bowl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "center"
     ]
 },
-  "bbox": [-81.241447,43.009178,-81.241447,43.009178],
-  "geometry": {"coordinates":[-81.241447,43.009178],"type":"Point"}
+  "bbox": [
+    -81.241447,
+    43.009178,
+    -81.241447,
+    43.009178
+],
+  "geometry": {"coordinates":[-81.24144699999999,43.009178],"type":"Point"}
 }

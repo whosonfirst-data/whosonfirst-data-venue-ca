@@ -2,13 +2,14 @@
   "id": 152911021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.848686,43.93961,-78.848686,43.93961",
     "geom:latitude":43.93961,
     "geom:longitude":-78.848686,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"839 Taunton Rd E",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864695,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"878a10b88d5bea7d3b8b1473646fdbab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85864695,
+            "region_id":85682057,
+            "venue_id":152911021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85864695,
             "region_id":85682057,
             "venue_id":152911021
         }
     ],
     "wof:id":152911021,
-    "wof:lastmodified":1449048163,
+    "wof:lastmodified":1453935766,
     "wof:name":"Canadian Alliance For Roadway",
     "wof:parent_id":85864695,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.848686,43.93961,-78.848686,43.93961],
+  "bbox": [
+    -78.848686,
+    43.93961,
+    -78.848686,
+    43.93961
+],
   "geometry": {"coordinates":[-78.848686,43.93961],"type":"Point"}
 }

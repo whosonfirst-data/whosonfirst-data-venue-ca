@@ -2,13 +2,14 @@
   "id": 152323521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.617294,45.440521,-73.617294,45.440521",
     "geom:latitude":45.440521,
     "geom:longitude":-73.617294,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2140 Rue Leger",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897535,
+        102191575,
         85633041,
-        85897535
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bc4bedce377ba752083376df161ce0cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897535,
+            "region_id":136251273,
             "venue_id":152323521
         }
     ],
     "wof:id":152323521,
-    "wof:lastmodified":1449044701,
+    "wof:lastmodified":1453933140,
     "wof:name":"Distributions Mel-Marq Inc",
     "wof:parent_id":85897535,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.617294,45.440521,-73.617294,45.440521],
+  "bbox": [
+    -73.617294,
+    45.440521,
+    -73.617294,
+    45.440521
+],
   "geometry": {"coordinates":[-73.617294,45.440521],"type":"Point"}
 }

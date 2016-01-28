@@ -2,13 +2,14 @@
   "id": 153029363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.745323,45.377281,-73.745323,45.377281",
     "geom:latitude":45.377281,
     "geom:longitude":-73.745323,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"39 Rue Gilmour",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738001,
+        85895759,
+        102191575,
         85633041,
-        85895759
+        101738001,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"79af5f87f564015e0a1b1e8ded018307",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738001,
             "neighbourhood_id":85895759,
+            "region_id":136251273,
             "venue_id":153029363
         }
     ],
     "wof:id":153029363,
-    "wof:lastmodified":1449040525,
+    "wof:lastmodified":1453932465,
     "wof:name":"Royal Canadian Legion Que",
     "wof:parent_id":85895759,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.745323,45.377281,-73.745323,45.377281],
+  "bbox": [
+    -73.745323,
+    45.377281,
+    -73.745323,
+    45.377281
+],
   "geometry": {"coordinates":[-73.745323,45.377281],"type":"Point"}
 }

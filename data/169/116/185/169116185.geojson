@@ -2,13 +2,14 @@
   "id": 169116185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.322609,43.830765,-79.322609,43.830765",
     "geom:latitude":43.830765,
     "geom:longitude":-79.322609,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1211 Denison St",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895023,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"d40e9ac098daeaf976ec3f7bdaf3c259",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":169116185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":169116185
         }
     ],
     "wof:id":169116185,
-    "wof:lastmodified":1449033172,
+    "wof:lastmodified":1453929274,
     "wof:name":"Nordson Canada Ltd",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.322609,43.830765,-79.322609,43.830765],
+  "bbox": [
+    -79.322609,
+    43.830765,
+    -79.322609,
+    43.830765
+],
   "geometry": {"coordinates":[-79.322609,43.830765],"type":"Point"}
 }

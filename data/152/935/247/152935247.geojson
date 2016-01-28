@@ -2,13 +2,14 @@
   "id": 152935247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.624413,45.461536,-73.624413,45.461536",
     "geom:latitude":45.461536,
     "geom:longitude":-73.624413,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6511 Rue Saint-Jacques",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871117,
+        102191575,
         85633041,
-        85871117
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"16c69a48ec7c5c71ffb675d0761b6e86",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871117,
+            "region_id":136251273,
             "venue_id":152935247
         }
     ],
     "wof:id":152935247,
-    "wof:lastmodified":1449048088,
+    "wof:lastmodified":1453935713,
     "wof:name":"National Location D'Autos",
     "wof:parent_id":85871117,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.624413,45.461536,-73.624413,45.461536],
+  "bbox": [
+    -73.624413,
+    45.461536,
+    -73.624413,
+    45.461536
+],
   "geometry": {"coordinates":[-73.624413,45.461536],"type":"Point"}
 }

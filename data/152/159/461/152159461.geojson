@@ -2,13 +2,14 @@
   "id": 152159461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.71151,44.383175,-79.71151,44.383175",
     "geom:latitude":44.383175,
     "geom:longitude":-79.71151,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -22,23 +23,43 @@
     "sg:postcode":"L4N 5R7",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02qaos8L8hPgaf3C7S1yhf_44.383175_-79.711510@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c69a2fe092e53fbc15a63b3d9866c9b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":152159461
+        }
+    ],
     "wof:id":152159461,
-    "wof:lastmodified":1449044857,
+    "wof:lastmodified":1453933258,
     "wof:name":"Wawanesa Mutual Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.71151,44.383175,-79.71151,44.383175],
+  "bbox": [
+    -79.71151,
+    44.383175,
+    -79.71151,
+    44.383175
+],
   "geometry": {"coordinates":[-79.71151,44.383175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152859551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.565536,45.531303,-73.565536,45.531303",
     "geom:latitude":45.531303,
     "geom:longitude":-73.565536,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2020 Rue Gauthier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5a0ef3615e4f189447ef409b4ab99f4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":152859551
         }
     ],
     "wof:id":152859551,
-    "wof:lastmodified":1449047604,
+    "wof:lastmodified":1453935346,
     "wof:name":"Cabana A Pain",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.565536,45.531303,-73.565536,45.531303],
-  "geometry": {"coordinates":[-73.565536,45.531303],"type":"Point"}
+  "bbox": [
+    -73.565536,
+    45.531303,
+    -73.565536,
+    45.531303
+],
+  "geometry": {"coordinates":[-73.56553599999999,45.531303],"type":"Point"}
 }

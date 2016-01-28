@@ -2,13 +2,14 @@
   "id": 219475775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.490837,43.450584,-80.490837,43.450584",
     "geom:latitude":43.450584,
     "geom:longitude":-80.490837,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"86 King St W",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874171,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"45ccf8e7ac358bf7bde6251f00691c5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874171,
+            "region_id":85682057,
+            "venue_id":219475775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874171,
             "region_id":85682057,
             "venue_id":219475775
         }
     ],
     "wof:id":219475775,
-    "wof:lastmodified":1449071852,
+    "wof:lastmodified":1453937738,
     "wof:name":"Carmello's",
     "wof:parent_id":85874171,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.490837,43.450584,-80.490837,43.450584],
+  "bbox": [
+    -80.490837,
+    43.450584,
+    -80.490837,
+    43.450584
+],
   "geometry": {"coordinates":[-80.490837,43.450584],"type":"Point"}
 }

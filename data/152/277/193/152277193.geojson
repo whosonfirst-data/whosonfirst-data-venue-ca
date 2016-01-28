@@ -2,13 +2,14 @@
   "id": 152277193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.639107,45.544491,-73.639107,45.544491",
     "geom:latitude":45.544491,
     "geom:longitude":-73.639107,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"340 Boul Cremazie O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"0c37bb687babffbb0ab43426c69595ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152277193
         }
     ],
     "wof:id":152277193,
-    "wof:lastmodified":1449044830,
+    "wof:lastmodified":1453933231,
     "wof:name":"Atelier Europro",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.639107,45.544491,-73.639107,45.544491],
+  "bbox": [
+    -73.639107,
+    45.544491,
+    -73.639107,
+    45.544491
+],
   "geometry": {"coordinates":[-73.639107,45.544491],"type":"Point"}
 }

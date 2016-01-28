@@ -2,13 +2,14 @@
   "id": 152488141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.17704,45.571915,-73.17704,45.571915",
     "geom:latitude":45.571915,
     "geom:longitude":-73.17704,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mont-Saint-Hilaire",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737201,
+        85894597,
+        102191575,
         85633041,
-        85894597
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"55ec554292977ca706382ca688130d4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894597,
+            "region_id":136251273,
             "venue_id":152488141
         }
     ],
     "wof:id":152488141,
-    "wof:lastmodified":1449048795,
+    "wof:lastmodified":1453936247,
     "wof:name":"Pneus Bernard Inc",
     "wof:parent_id":85894597,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.17704,45.571915,-73.17704,45.571915],
-  "geometry": {"coordinates":[-73.17704,45.571915],"type":"Point"}
+  "bbox": [
+    -73.17704,
+    45.571915,
+    -73.17704,
+    45.571915
+],
+  "geometry": {"coordinates":[-73.17704000000001,45.571915],"type":"Point"}
 }

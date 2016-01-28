@@ -2,13 +2,14 @@
   "id": 152378935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.132271,45.271938,-74.132271,45.271938",
     "geom:latitude":45.271938,
     "geom:longitude":-74.132271,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"507 Imp Ladouceur",
     "sg:city":"Grande-Ile",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"abaa5151cc5913ac4fd00ed52c156e05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":152378935
         }
     ],
     "wof:id":152378935,
-    "wof:lastmodified":1449047423,
+    "wof:lastmodified":1453935192,
     "wof:name":"Centre DE Marine Grande-Ile",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.132271,45.271938,-74.132271,45.271938],
+  "bbox": [
+    -74.132271,
+    45.271938,
+    -74.132271,
+    45.271938
+],
   "geometry": {"coordinates":[-74.132271,45.271938],"type":"Point"}
 }

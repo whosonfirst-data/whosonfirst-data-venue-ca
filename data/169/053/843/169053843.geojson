@@ -2,13 +2,14 @@
   "id": 169053843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.680344,45.734509,-73.680344,45.734509",
     "geom:latitude":45.734509,
     "geom:longitude":-73.680344,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3405 Ch Gascon",
     "sg:city":"Mascouche",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b9622b12f295072f521f8c50ffe624e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169053843
         }
     ],
     "wof:id":169053843,
-    "wof:lastmodified":1449033312,
+    "wof:lastmodified":1453929410,
     "wof:name":"Pret Draco",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.680344,45.734509,-73.680344,45.734509],
-  "geometry": {"coordinates":[-73.680344,45.734509],"type":"Point"}
+  "bbox": [
+    -73.680344,
+    45.734509,
+    -73.680344,
+    45.734509
+],
+  "geometry": {"coordinates":[-73.68034400000001,45.734509],"type":"Point"}
 }

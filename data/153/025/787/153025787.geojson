@@ -2,13 +2,14 @@
   "id": 153025787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.149391,43.004112,-81.149391,43.004112",
     "geom:latitude":43.004112,
     "geom:longitude":-81.149391,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"555 Admiral Dr",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864669,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jXDDgUIh2PqlxJr0OvlGv_43.004112_-81.149391@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c556ba3f618eb778c8a76718b2092a5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864669,
+            "region_id":85682057,
+            "venue_id":153025787
+        }
+    ],
     "wof:id":153025787,
-    "wof:lastmodified":1449040753,
+    "wof:lastmodified":1453932668,
     "wof:name":"Above & Beyond Promotions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.149391,43.004112,-81.149391,43.004112],
-  "geometry": {"coordinates":[-81.149391,43.004112],"type":"Point"}
+  "bbox": [
+    -81.149391,
+    43.004112,
+    -81.149391,
+    43.004112
+],
+  "geometry": {"coordinates":[-81.14939099999999,43.004112],"type":"Point"}
 }

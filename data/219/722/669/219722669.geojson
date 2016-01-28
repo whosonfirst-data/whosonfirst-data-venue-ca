@@ -2,13 +2,14 @@
   "id": 219722669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.514908,45.653629,-73.514908,45.653629",
     "geom:latitude":45.653629,
     "geom:longitude":-73.514908,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3655 Boul Du Tricentenaire",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784837,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"af0243b6f536ca03cb1eaf14abdbe446",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219722669
         }
     ],
     "wof:id":219722669,
-    "wof:lastmodified":1449071630,
+    "wof:lastmodified":1453937711,
     "wof:name":"Salon DE Quilles Excellence",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "center"
     ]
 },
-  "bbox": [-73.514908,45.653629,-73.514908,45.653629],
-  "geometry": {"coordinates":[-73.514908,45.653629],"type":"Point"}
+  "bbox": [
+    -73.514908,
+    45.653629,
+    -73.514908,
+    45.653629
+],
+  "geometry": {"coordinates":[-73.51490800000001,45.653629],"type":"Point"}
 }

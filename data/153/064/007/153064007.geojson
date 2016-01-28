@@ -2,13 +2,14 @@
   "id": 153064007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.691994,44.387627,-79.691994,44.387627",
     "geom:latitude":44.387627,
     "geom:longitude":-79.691994,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"30 Mary St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4N 1S8",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LtILLSlvFVXxSIPsV4CFt_44.387627_-79.691994@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"991f04ee49fff68740d280066e92f30f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":153064007
+        }
+    ],
     "wof:id":153064007,
-    "wof:lastmodified":1449040499,
+    "wof:lastmodified":1453932444,
     "wof:name":"Barrie & District Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.691994,44.387627,-79.691994,44.387627],
-  "geometry": {"coordinates":[-79.691994,44.387627],"type":"Point"}
+  "bbox": [
+    -79.691994,
+    44.387627,
+    -79.691994,
+    44.387627
+],
+  "geometry": {"coordinates":[-79.69199399999999,44.387627],"type":"Point"}
 }

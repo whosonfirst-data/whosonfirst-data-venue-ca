@@ -2,13 +2,14 @@
   "id": 152685975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.45462,45.580978,-73.45462,45.580978",
     "geom:latitude":45.580978,
     "geom:longitude":-73.45462,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"180 Boul Industriel",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875753,
+        102191575,
         85633041,
-        85875753
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"223fc9e3949b3521f29910baa3f93820",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
+            "region_id":136251273,
             "venue_id":152685975
         }
     ],
     "wof:id":152685975,
-    "wof:lastmodified":1449048803,
+    "wof:lastmodified":1453936253,
     "wof:name":"Sofab Structural Steel Inc",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.45462,45.580978,-73.45462,45.580978],
-  "geometry": {"coordinates":[-73.45462,45.580978],"type":"Point"}
+  "bbox": [
+    -73.45462,
+    45.580978,
+    -73.45462,
+    45.580978
+],
+  "geometry": {"coordinates":[-73.45462000000001,45.580978],"type":"Point"}
 }

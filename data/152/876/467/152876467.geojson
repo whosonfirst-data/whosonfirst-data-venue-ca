@@ -2,13 +2,14 @@
   "id": 152876467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.294609,45.359917,-73.294609,45.359917",
     "geom:latitude":45.359917,
     "geom:longitude":-73.294609,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"301 Rue Louis-Pasteur",
     "sg:city":"Saint-Luc",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85864393,
+        102191575,
         85633041,
-        85864393
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"59bc1dcb6aafdcfd4d68cb9f139609ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85864393,
+            "region_id":136251273,
             "venue_id":152876467
         }
     ],
     "wof:id":152876467,
-    "wof:lastmodified":1449045240,
+    "wof:lastmodified":1453933539,
     "wof:name":"Ventilation Quebec Air",
     "wof:parent_id":85864393,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.294609,45.359917,-73.294609,45.359917],
-  "geometry": {"coordinates":[-73.294609,45.359917],"type":"Point"}
+  "bbox": [
+    -73.294609,
+    45.359917,
+    -73.294609,
+    45.359917
+],
+  "geometry": {"coordinates":[-73.29460899999999,45.359917],"type":"Point"}
 }

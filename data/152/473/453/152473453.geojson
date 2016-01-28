@@ -2,13 +2,14 @@
   "id": 152473453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.641617,45.60128,-73.641617,45.60128",
     "geom:latitude":45.60128,
     "geom:longitude":-73.641617,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4525 Boul Gouin E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"af311631c6c1d95d3da6d22b2743a60f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":152473453
         }
     ],
     "wof:id":152473453,
-    "wof:lastmodified":1449045265,
+    "wof:lastmodified":1453933557,
     "wof:name":"Entreprises Sicot",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.641617,45.60128,-73.641617,45.60128],
+  "bbox": [
+    -73.641617,
+    45.60128,
+    -73.641617,
+    45.60128
+],
   "geometry": {"coordinates":[-73.641617,45.60128],"type":"Point"}
 }

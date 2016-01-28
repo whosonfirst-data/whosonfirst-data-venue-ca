@@ -2,13 +2,14 @@
   "id": 169327637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.895912,45.395824,-71.895912,45.395824",
     "geom:latitude":45.395824,
     "geom:longitude":-71.895912,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"350 Rue Belvedere S",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"209293c1a7c12d65a4c88fb2e0b3496d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":169327637
         }
     ],
     "wof:id":169327637,
-    "wof:lastmodified":1449032924,
+    "wof:lastmodified":1453929039,
     "wof:name":"Clinique DE Physiotherapie",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.895912,45.395824,-71.895912,45.395824],
+  "bbox": [
+    -71.895912,
+    45.395824,
+    -71.895912,
+    45.395824
+],
   "geometry": {"coordinates":[-71.895912,45.395824],"type":"Point"}
 }

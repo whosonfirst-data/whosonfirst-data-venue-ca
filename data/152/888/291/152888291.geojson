@@ -2,13 +2,14 @@
   "id": 152888291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.594948,43.58588,-79.594948,43.58588",
     "geom:latitude":43.58588,
     "geom:longitude":-79.594948,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"3491ef6e8b82ecbcb1a924c890eddb67",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":152888291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":152888291
         }
     ],
     "wof:id":152888291,
-    "wof:lastmodified":1449047180,
+    "wof:lastmodified":1453935018,
     "wof:name":"Metals For Industry Ltd",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.594948,43.58588,-79.594948,43.58588],
+  "bbox": [
+    -79.594948,
+    43.58588,
+    -79.594948,
+    43.58588
+],
   "geometry": {"coordinates":[-79.594948,43.58588],"type":"Point"}
 }

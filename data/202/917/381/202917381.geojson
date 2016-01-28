@@ -2,13 +2,14 @@
   "id": 202917381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.174721,45.570267,-73.174721,45.570267",
     "geom:latitude":45.570267,
     "geom:longitude":-73.174721,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"707 Rue Lavoie",
     "sg:city":"Mont-Saint-Hilaire",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894599,
+        102191575,
         85633041,
-        101737201
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"d04d788776a47e6f5a9c1f3c73d375d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894599,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202917381
         }
     ],
     "wof:id":202917381,
-    "wof:lastmodified":1449062318,
+    "wof:lastmodified":1453937436,
     "wof:name":"R L Racing Engines",
     "wof:parent_id":85894599,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.174721,45.570267,-73.174721,45.570267],
-  "geometry": {"coordinates":[-73.174721,45.570267],"type":"Point"}
+  "bbox": [
+    -73.174721,
+    45.570267,
+    -73.174721,
+    45.570267
+],
+  "geometry": {"coordinates":[-73.17472100000001,45.570267],"type":"Point"}
 }

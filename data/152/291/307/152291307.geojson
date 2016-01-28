@@ -2,13 +2,14 @@
   "id": 152291307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.736137,45.668083,-73.736137,45.668083",
     "geom:latitude":45.668083,
     "geom:longitude":-73.736137,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"646 Boul Des Mille-Iles",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"f0eef2b7cba4888903e4e76ec86505d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":152291307
         }
     ],
     "wof:id":152291307,
-    "wof:lastmodified":1449045724,
+    "wof:lastmodified":1453933919,
     "wof:name":"Centre Equestre Des Milles Ile",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.736137,45.668083,-73.736137,45.668083],
+  "bbox": [
+    -73.736137,
+    45.668083,
+    -73.736137,
+    45.668083
+],
   "geometry": {"coordinates":[-73.736137,45.668083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152740767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.442146,43.893219,-79.442146,43.893219",
     "geom:latitude":43.893219,
     "geom:longitude":-79.442146,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895003,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"e67ad033505379e556796fc99b77e401",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895003,
+            "region_id":85682057,
+            "venue_id":152740767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895003,
             "region_id":85682057,
             "venue_id":152740767
         }
     ],
     "wof:id":152740767,
-    "wof:lastmodified":1449046405,
+    "wof:lastmodified":1453934436,
     "wof:name":"York Physiotherapy Assoc",
     "wof:parent_id":85895003,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.442146,43.893219,-79.442146,43.893219],
-  "geometry": {"coordinates":[-79.442146,43.893219],"type":"Point"}
+  "bbox": [
+    -79.442146,
+    43.893219,
+    -79.442146,
+    43.893219
+],
+  "geometry": {"coordinates":[-79.44214599999999,43.893219],"type":"Point"}
 }

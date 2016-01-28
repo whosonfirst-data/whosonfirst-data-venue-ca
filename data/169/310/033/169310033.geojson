@@ -2,13 +2,14 @@
   "id": 169310033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.251427,46.793591,-71.251427,46.793591",
     "geom:latitude":46.793591,
     "geom:longitude":-71.251427,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"868 Av Holland",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864431,
+        102191575,
         85633041,
-        85864431
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"485cb4612f36afb5c0b7ef138c3b0d73",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864431,
+            "region_id":136251273,
             "venue_id":169310033
         }
     ],
     "wof:id":169310033,
-    "wof:lastmodified":1449034717,
+    "wof:lastmodified":1453930920,
     "wof:name":"Boucher, Bertrand MD",
     "wof:parent_id":85864431,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.251427,46.793591,-71.251427,46.793591],
-  "geometry": {"coordinates":[-71.251427,46.793591],"type":"Point"}
+  "bbox": [
+    -71.251427,
+    46.793591,
+    -71.251427,
+    46.793591
+],
+  "geometry": {"coordinates":[-71.25142700000001,46.793591],"type":"Point"}
 }

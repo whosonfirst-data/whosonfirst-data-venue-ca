@@ -2,13 +2,14 @@
   "id": 169335113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.243126,48.41993,-71.243126,48.41993",
     "geom:latitude":48.41993,
     "geom:longitude":-71.243126,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2116 Rue Saint-Hubert",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3ad52a5fc97a425adcaa12ee4be5ee0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":169335113
         }
     ],
     "wof:id":169335113,
-    "wof:lastmodified":1449034865,
+    "wof:lastmodified":1453931098,
     "wof:name":"Service Industriel Saguenay",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.243126,48.41993,-71.243126,48.41993],
+  "bbox": [
+    -71.243126,
+    48.41993,
+    -71.243126,
+    48.41993
+],
   "geometry": {"coordinates":[-71.243126,48.41993],"type":"Point"}
 }

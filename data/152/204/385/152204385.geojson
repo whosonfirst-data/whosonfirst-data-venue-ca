@@ -2,13 +2,14 @@
   "id": 152204385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.557274,45.51244,-73.557274,45.51244",
     "geom:latitude":45.51244,
     "geom:longitude":-73.557274,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1081 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"893c8713a782d407885c51d671618f2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":152204385
         }
     ],
     "wof:id":152204385,
-    "wof:lastmodified":1449049030,
+    "wof:lastmodified":1453936458,
     "wof:name":"Beau Centre Dentaire Monat",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.557274,45.51244,-73.557274,45.51244],
-  "geometry": {"coordinates":[-73.557274,45.51244],"type":"Point"}
+  "bbox": [
+    -73.557274,
+    45.51244,
+    -73.557274,
+    45.51244
+],
+  "geometry": {"coordinates":[-73.55727400000001,45.51244],"type":"Point"}
 }

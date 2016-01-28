@@ -2,13 +2,14 @@
   "id": 203130413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.624825,45.497326,-73.624825,45.497326",
     "geom:latitude":45.497326,
     "geom:longitude":-73.624825,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5538 Ch DE LA Cote-Des-Neiges",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897529,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"e0489f49d81c2d251d9f801cad92aea0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897529,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203130413
         }
     ],
     "wof:id":203130413,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1453927528,
     "wof:name":"Epicerie Mekong",
     "wof:parent_id":85897529,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.624825,45.497326,-73.624825,45.497326],
+  "bbox": [
+    -73.624825,
+    45.497326,
+    -73.624825,
+    45.497326
+],
   "geometry": {"coordinates":[-73.624825,45.497326],"type":"Point"}
 }

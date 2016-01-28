@@ -2,13 +2,14 @@
   "id": 203221209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488686,45.474503,-73.488686,45.474503",
     "geom:latitude":45.474503,
     "geom:longitude":-73.488686,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brossard",
     "sg:classifiers":[
         {
@@ -27,8 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875769,
+        102191575,
         85633041,
-        101736449
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,16 @@
     "wof:geomhash":"da8920cbe8292f936f9e4b294717666a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875769,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203221209
         }
     ],
     "wof:id":203221209,
-    "wof:lastmodified":1449025749,
+    "wof:lastmodified":1453927562,
     "wof:name":"Sentiers DE Brossard",
     "wof:parent_id":85875769,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
         "condominium"
     ]
 },
-  "bbox": [-73.488686,45.474503,-73.488686,45.474503],
+  "bbox": [
+    -73.488686,
+    45.474503,
+    -73.488686,
+    45.474503
+],
   "geometry": {"coordinates":[-73.488686,45.474503],"type":"Point"}
 }

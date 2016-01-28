@@ -2,13 +2,14 @@
   "id": 152745719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.025543,43.836338,-79.025543,43.836338",
     "geom:latitude":43.836338,
     "geom:longitude":-79.025543,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"595 Mackenzie Ave",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895635,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"32ab81ee9d6b6386504f818a8d1a306e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":152745719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":152745719
         }
     ],
     "wof:id":152745719,
-    "wof:lastmodified":1449048709,
+    "wof:lastmodified":1453936181,
     "wof:name":"Ajax Lbw Tooling",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.025543,43.836338,-79.025543,43.836338],
+  "bbox": [
+    -79.025543,
+    43.836338,
+    -79.025543,
+    43.836338
+],
   "geometry": {"coordinates":[-79.025543,43.836338],"type":"Point"}
 }

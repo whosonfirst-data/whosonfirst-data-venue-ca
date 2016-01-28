@@ -2,13 +2,14 @@
   "id": 152213037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.24353,46.798302,-71.24353,46.798302",
     "geom:latitude":46.798302,
     "geom:longitude":-71.24353,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"840 Av Begin",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864431,
+        102191575,
         85633041,
-        85864431
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"aedd739b13fd01d82dadc66731495150",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864431,
+            "region_id":136251273,
             "venue_id":152213037
         }
     ],
     "wof:id":152213037,
-    "wof:lastmodified":1449044350,
+    "wof:lastmodified":1453932862,
     "wof:name":"Agence D'Assurances Montcalm",
     "wof:parent_id":85864431,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.24353,46.798302,-71.24353,46.798302],
-  "geometry": {"coordinates":[-71.24353,46.798302],"type":"Point"}
+  "bbox": [
+    -71.24353,
+    46.798302,
+    -71.24353,
+    46.798302
+],
+  "geometry": {"coordinates":[-71.24353000000001,46.798302],"type":"Point"}
 }

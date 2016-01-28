@@ -2,13 +2,14 @@
   "id": 152359321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.69252,44.371086,-79.69252,44.371086",
     "geom:latitude":44.371086,
     "geom:longitude":-79.69252,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"92 Essa Rd #1",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875277,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gXbSX8ehzYxIpfGdBWlFf_44.371086_-79.692520@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f4ae6eb28d52a4f93c2f4e44a33a589c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
+            "region_id":85682057,
+            "venue_id":152359321
+        }
+    ],
     "wof:id":152359321,
-    "wof:lastmodified":1449044213,
+    "wof:lastmodified":1453932766,
     "wof:name":"Tax Wright Financial Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.69252,44.371086,-79.69252,44.371086],
+  "bbox": [
+    -79.69252,
+    44.371086,
+    -79.69252,
+    44.371086
+],
   "geometry": {"coordinates":[-79.69252,44.371086],"type":"Point"}
 }

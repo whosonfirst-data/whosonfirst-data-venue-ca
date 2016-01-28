@@ -2,13 +2,14 @@
   "id": 185635941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.680405,43.517658,-79.680405,43.517658",
     "geom:latitude":43.517658,
     "geom:longitude":-79.680405,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2923 Portland Dr",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895111,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"8fce2a1545e7f68da8a91350246ee203",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":185635941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":185635941
         }
     ],
     "wof:id":185635941,
-    "wof:lastmodified":1449007315,
+    "wof:lastmodified":1453927280,
     "wof:name":"Draught Equipment Svc",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "dispensing"
     ]
 },
-  "bbox": [-79.680405,43.517658,-79.680405,43.517658],
-  "geometry": {"coordinates":[-79.680405,43.517658],"type":"Point"}
+  "bbox": [
+    -79.680405,
+    43.517658,
+    -79.680405,
+    43.517658
+],
+  "geometry": {"coordinates":[-79.68040499999999,43.517658],"type":"Point"}
 }

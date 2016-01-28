@@ -2,13 +2,14 @@
   "id": 169054703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.18779,43.024178,-81.18779,43.024178",
     "geom:latitude":43.024178,
     "geom:longitude":-81.18779,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"172 Stronach Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23DGdLmsONBurX5d9EhxT5_43.024178_-81.187790@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"30ecaef496b0a1b9a5f40458d6be09b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":169054703
+        }
+    ],
     "wof:id":169054703,
-    "wof:lastmodified":1449034230,
+    "wof:lastmodified":1453930420,
     "wof:name":"Industrial Machines Works Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.18779,43.024178,-81.18779,43.024178],
-  "geometry": {"coordinates":[-81.18779,43.024178],"type":"Point"}
+  "bbox": [
+    -81.18779,
+    43.024178,
+    -81.18779,
+    43.024178
+],
+  "geometry": {"coordinates":[-81.18779000000001,43.024178],"type":"Point"}
 }

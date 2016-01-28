@@ -2,13 +2,14 @@
   "id": 152698323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.518959,53.566978,-113.518959,53.566978",
     "geom:latitude":53.566978,
     "geom:longitude":-113.518959,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"26 Airport Rd NW",
     "sg:city":"Edmonton",
     "sg:classifiers":[
@@ -32,6 +33,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633041,
+        102554483,
         85874655,
         85682091
     ],
@@ -43,6 +45,7 @@
     "wof:geomhash":"79859ae237037226a1f3597609572a4f",
     "wof:hierarchy":[
         {
+            "campus_id":102554483,
             "country_id":85633041,
             "neighbourhood_id":85874655,
             "region_id":85682091,
@@ -50,14 +53,19 @@
         }
     ],
     "wof:id":152698323,
-    "wof:lastmodified":1449048637,
+    "wof:lastmodified":1453936117,
     "wof:name":"National Refrigeration Heating",
-    "wof:parent_id":85874655,
+    "wof:parent_id":102554483,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.518959,53.566978,-113.518959,53.566978],
+  "bbox": [
+    -113.518959,
+    53.566978,
+    -113.518959,
+    53.566978
+],
   "geometry": {"coordinates":[-113.518959,53.566978],"type":"Point"}
 }

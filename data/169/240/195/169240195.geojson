@@ -2,13 +2,14 @@
   "id": 169240195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.721992,43.976204,-79.721992,43.976204",
     "geom:latitude":43.976204,
     "geom:longitude":-79.721992,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16540 Conc 11",
     "sg:city":"Schomberg",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895653,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101736249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"fc940c11e6fb41ca5d52301a38fe647e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895653,
+            "region_id":85682057,
+            "venue_id":169240195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736249,
             "neighbourhood_id":85895653,
             "region_id":85682057,
             "venue_id":169240195
         }
     ],
     "wof:id":169240195,
-    "wof:lastmodified":1449033018,
+    "wof:lastmodified":1453929145,
     "wof:name":"Puck's Farm It's Fun",
     "wof:parent_id":85895653,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.721992,43.976204,-79.721992,43.976204],
+  "bbox": [
+    -79.721992,
+    43.976204,
+    -79.721992,
+    43.976204
+],
   "geometry": {"coordinates":[-79.721992,43.976204],"type":"Point"}
 }

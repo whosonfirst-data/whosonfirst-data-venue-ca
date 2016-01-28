@@ -2,13 +2,14 @@
   "id": 169018819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.513,45.499218,-73.513,45.499218",
     "geom:latitude":45.499218,
     "geom:longitude":-73.513,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"115 Av Saint-Denis",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3401a384d9996db8f6bf01ea822ba474",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":169018819
         }
     ],
     "wof:id":169018819,
-    "wof:lastmodified":1449034327,
+    "wof:lastmodified":1453930502,
     "wof:name":"Covimex 2000 Ltee",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.513,45.499218,-73.513,45.499218],
-  "geometry": {"coordinates":[-73.513,45.499218],"type":"Point"}
+  "bbox": [
+    -73.513,
+    45.499218,
+    -73.513,
+    45.499218
+],
+  "geometry": {"coordinates":[-73.51300000000001,45.499218],"type":"Point"}
 }

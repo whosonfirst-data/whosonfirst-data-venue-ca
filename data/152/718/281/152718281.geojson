@@ -2,13 +2,14 @@
   "id": 152718281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.363167,43.822624,-79.363167,43.822624",
     "geom:latitude":43.822624,
     "geom:longitude":-79.363167,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"193 Snowshoe Cres",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895483,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"1f20a1ae6b8afbf191a815d6396673b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":152718281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":152718281
         }
     ],
     "wof:id":152718281,
-    "wof:lastmodified":1449045301,
+    "wof:lastmodified":1453933587,
     "wof:name":"Deck Doctors",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.363167,43.822624,-79.363167,43.822624],
+  "bbox": [
+    -79.363167,
+    43.822624,
+    -79.363167,
+    43.822624
+],
   "geometry": {"coordinates":[-79.363167,43.822624],"type":"Point"}
 }

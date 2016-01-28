@@ -2,13 +2,14 @@
   "id": 169199961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.99543,45.367455,-71.99543,45.367455",
     "geom:latitude":45.367455,
     "geom:longitude":-71.99543,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5215 Boul Bourque",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"114293cc7d836aa6784a178a00623497",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":169199961
         }
     ],
     "wof:id":169199961,
-    "wof:lastmodified":1449033014,
+    "wof:lastmodified":1453929141,
     "wof:name":"Meubles Chez Pierre",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.99543,45.367455,-71.99543,45.367455],
+  "bbox": [
+    -71.99543,
+    45.367455,
+    -71.99543,
+    45.367455
+],
   "geometry": {"coordinates":[-71.99543,45.367455],"type":"Point"}
 }

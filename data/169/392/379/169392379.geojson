@@ -2,13 +2,14 @@
   "id": 169392379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.36985,46.764194,-71.36985,46.764194",
     "geom:latitude":46.764194,
     "geom:longitude":-71.36985,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"811 Rte Jean-Gauvin",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85784683,
+        102191575,
         85633041,
-        85784683
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"956277605a1392124e3069db8642ec38",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784683,
+            "region_id":136251273,
             "venue_id":169392379
         }
     ],
     "wof:id":169392379,
-    "wof:lastmodified":1449035307,
+    "wof:lastmodified":1453931516,
     "wof:name":"Jardin Mobile",
     "wof:parent_id":85784683,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.36985,46.764194,-71.36985,46.764194],
+  "bbox": [
+    -71.36985,
+    46.764194,
+    -71.36985,
+    46.764194
+],
   "geometry": {"coordinates":[-71.36985,46.764194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152215163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.745514,43.713245,-79.745514,43.713245",
     "geom:latitude":43.713245,
     "geom:longitude":-79.745514,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"86ce86cfc4601bba8536bcefcd5649ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152215163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152215163
         }
     ],
     "wof:id":152215163,
-    "wof:lastmodified":1449048116,
+    "wof:lastmodified":1453935737,
     "wof:name":"Koven, David DDS",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.745514,43.713245,-79.745514,43.713245],
+  "bbox": [
+    -79.745514,
+    43.713245,
+    -79.745514,
+    43.713245
+],
   "geometry": {"coordinates":[-79.745514,43.713245],"type":"Point"}
 }

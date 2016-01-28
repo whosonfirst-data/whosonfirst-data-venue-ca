@@ -2,13 +2,14 @@
   "id": 169271749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.268448,42.930717,-81.268448,42.930717",
     "geom:latitude":42.930717,
     "geom:longitude":-81.268448,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1350 Wharncliffe Rd S",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "stair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874933,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Kb3DeunDMOt46OtfcY33U_42.930717_-81.268448@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5032e5bf33d882f093a37c755399c8f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874933,
+            "region_id":85682057,
+            "venue_id":169271749
+        }
+    ],
     "wof:id":169271749,
-    "wof:lastmodified":1449034413,
+    "wof:lastmodified":1453930597,
     "wof:name":"James Wilcox Stair & Rail",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.268448,42.930717,-81.268448,42.930717],
-  "geometry": {"coordinates":[-81.268448,42.930717],"type":"Point"}
+  "bbox": [
+    -81.268448,
+    42.930717,
+    -81.268448,
+    42.930717
+],
+  "geometry": {"coordinates":[-81.26844800000001,42.930717],"type":"Point"}
 }

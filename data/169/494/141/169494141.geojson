@@ -2,13 +2,14 @@
   "id": 169494141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250565,43.049816,-81.250565,43.049816",
     "geom:latitude":43.049816,
     "geom:longitude":-81.250565,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1140 Sunningdale Rd E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5X 3Y6",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874941,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34ijs9MxzP0seArrEC5aYv_43.049816_-81.250565@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e46a5316a73620affb891bc84bb5eed5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874941,
+            "region_id":85682057,
+            "venue_id":169494141
+        }
+    ],
     "wof:id":169494141,
-    "wof:lastmodified":1449035590,
+    "wof:lastmodified":1453931831,
     "wof:name":"Springhill Flowers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.250565,43.049816,-81.250565,43.049816],
-  "geometry": {"coordinates":[-81.250565,43.049816],"type":"Point"}
+  "bbox": [
+    -81.250565,
+    43.049816,
+    -81.250565,
+    43.049816
+],
+  "geometry": {"coordinates":[-81.25056499999999,43.049816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186273699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.136932,49.186718,-123.136932,49.186718",
     "geom:latitude":49.186718,
     "geom:longitude":-123.136932,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7860 River Rd",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -28,7 +29,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85894881,
+        102555307,
+        85894871,
+        102191575,
         85633041,
         101741081,
         85682117
@@ -41,18 +44,19 @@
     "wof:geomhash":"697f3998c5d8a026996389efd67e14f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741081,
-            "neighbourhood_id":85894881,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":186273699
         }
     ],
     "wof:id":186273699,
-    "wof:lastmodified":1449051758,
+    "wof:lastmodified":1453936716,
     "wof:name":"Richmond Academy of Dance",
-    "wof:parent_id":85894881,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-123.136932,49.186718,-123.136932,49.186718],
+  "bbox": [
+    -123.136932,
+    49.186718,
+    -123.136932,
+    49.186718
+],
   "geometry": {"coordinates":[-123.136932,49.186718],"type":"Point"}
 }

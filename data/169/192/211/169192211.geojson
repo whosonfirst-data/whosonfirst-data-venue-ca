@@ -2,13 +2,14 @@
   "id": 169192211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.027626,45.39827,-74.027626,45.39827",
     "geom:latitude":45.39827,
     "geom:longitude":-74.027626,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11 Rue Jeannotte",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895781,
+        102191575,
         85633041,
-        85895781
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e93e9bc658408debb5999126a35f1f47",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895781,
+            "region_id":136251273,
             "venue_id":169192211
         }
     ],
     "wof:id":169192211,
-    "wof:lastmodified":1449035015,
+    "wof:lastmodified":1453931230,
     "wof:name":"Vaudreuil Feu Dept",
     "wof:parent_id":85895781,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.027626,45.39827,-74.027626,45.39827],
+  "bbox": [
+    -74.027626,
+    45.39827,
+    -74.027626,
+    45.39827
+],
   "geometry": {"coordinates":[-74.027626,45.39827],"type":"Point"}
 }

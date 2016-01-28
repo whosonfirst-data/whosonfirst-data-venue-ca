@@ -2,13 +2,14 @@
   "id": 169016385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.240646,42.980633,-81.240646,42.980633",
     "geom:latitude":42.980633,
     "geom:longitude":-81.240646,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"323 Horton St E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "t"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zeOsft2IXk0ThxdrMY07e_42.980633_-81.240646@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"731c0fd794f0a1e2c86a3a91b2b6ce80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":169016385
+        }
+    ],
     "wof:id":169016385,
-    "wof:lastmodified":1449033265,
+    "wof:lastmodified":1453929374,
     "wof:name":"Nothers Awards & ID Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.240646,42.980633,-81.240646,42.980633],
+  "bbox": [
+    -81.240646,
+    42.980633,
+    -81.240646,
+    42.980633
+],
   "geometry": {"coordinates":[-81.240646,42.980633],"type":"Point"}
 }

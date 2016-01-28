@@ -2,13 +2,14 @@
   "id": 152526097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.109909,49.323685,-123.109909,49.323685",
     "geom:latitude":49.323685,
     "geom:longitude":-123.109909,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1285 Marine Dr",
     "sg:city":"North Vancouver",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865021,
-        85682117
+        102191575,
+        85633041,
+        101741069,
+        85682117,
+        101744669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"c66003af5de3b6356bdf55d567ab1f37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":152526097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":152526097
         }
     ],
     "wof:id":152526097,
-    "wof:lastmodified":1449045722,
+    "wof:lastmodified":1453933915,
     "wof:name":"Cgm Electronics Ltd",
     "wof:parent_id":85865021,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.109909,49.323685,-123.109909,49.323685],
+  "bbox": [
+    -123.109909,
+    49.323685,
+    -123.109909,
+    49.323685
+],
   "geometry": {"coordinates":[-123.109909,49.323685],"type":"Point"}
 }

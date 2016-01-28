@@ -2,13 +2,14 @@
   "id": 186376205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.027611,43.821968,-79.027611,43.821968",
     "geom:latitude":43.821968,
     "geom:longitude":-79.027611,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"19 Parkes Dr",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895475,
+        102191575,
         85633041,
-        85682057
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"45497bb128314afe3b75849f120f7922",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895475,
+            "region_id":85682057,
+            "venue_id":186376205
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895475,
             "region_id":85682057,
             "venue_id":186376205
         }
     ],
     "wof:id":186376205,
-    "wof:lastmodified":1449051309,
+    "wof:lastmodified":1453936636,
     "wof:name":"Cleaning Concern",
     "wof:parent_id":85895475,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "janitor"
     ]
 },
-  "bbox": [-79.027611,43.821968,-79.027611,43.821968],
-  "geometry": {"coordinates":[-79.027611,43.821968],"type":"Point"}
+  "bbox": [
+    -79.027611,
+    43.821968,
+    -79.027611,
+    43.821968
+],
+  "geometry": {"coordinates":[-79.02761099999999,43.821968],"type":"Point"}
 }

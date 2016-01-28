@@ -2,13 +2,14 @@
   "id": 169477729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.056046,48.427887,-71.056046,48.427887",
     "geom:latitude":48.427887,
     "geom:longitude":-71.056046,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"406 Rue Racine E",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"8a3989b659beecb7a34d2c7c1c81befc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169477729
         }
     ],
     "wof:id":169477729,
-    "wof:lastmodified":1449033257,
+    "wof:lastmodified":1453929364,
     "wof:name":"Cafe Croissant Chicoutimi Inc",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.056046,48.427887,-71.056046,48.427887],
-  "geometry": {"coordinates":[-71.056046,48.427887],"type":"Point"}
+  "bbox": [
+    -71.056046,
+    48.427887,
+    -71.056046,
+    48.427887
+],
+  "geometry": {"coordinates":[-71.05604599999999,48.427887],"type":"Point"}
 }

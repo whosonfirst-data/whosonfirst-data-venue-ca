@@ -2,13 +2,14 @@
   "id": 152946445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.663811,45.524216,-73.663811,45.524216",
     "geom:latitude":45.524216,
     "geom:longitude":-73.663811,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895725,
+        102191575,
         85633041,
-        85895725
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"0a4550636c40312fe2c9510b07435404",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
+            "region_id":136251273,
             "venue_id":152946445
         }
     ],
     "wof:id":152946445,
-    "wof:lastmodified":1449048364,
+    "wof:lastmodified":1453935923,
     "wof:name":"Magipac",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.663811,45.524216,-73.663811,45.524216],
+  "bbox": [
+    -73.663811,
+    45.524216,
+    -73.663811,
+    45.524216
+],
   "geometry": {"coordinates":[-73.663811,45.524216],"type":"Point"}
 }

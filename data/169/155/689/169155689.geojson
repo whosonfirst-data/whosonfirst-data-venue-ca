@@ -2,13 +2,14 @@
   "id": 169155689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.485497,45.540096,-73.485497,45.540096",
     "geom:latitude":45.540096,
     "geom:longitude":-73.485497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1125 Boul Roland-Therrien",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875721,
+        102191575,
         85633041,
-        85875721
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"fafa115a48a1f4833a6f34e52548938c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875721,
+            "region_id":136251273,
             "venue_id":169155689
         }
     ],
     "wof:id":169155689,
-    "wof:lastmodified":1449035382,
+    "wof:lastmodified":1453931584,
     "wof:name":"Labillois Electrique Inc",
     "wof:parent_id":85875721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.485497,45.540096,-73.485497,45.540096],
+  "bbox": [
+    -73.485497,
+    45.540096,
+    -73.485497,
+    45.540096
+],
   "geometry": {"coordinates":[-73.485497,45.540096],"type":"Point"}
 }

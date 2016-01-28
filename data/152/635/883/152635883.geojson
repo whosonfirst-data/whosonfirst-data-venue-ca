@@ -2,13 +2,14 @@
   "id": 152635883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572304,45.506336,-73.572304,45.506336",
     "geom:latitude":45.506336,
     "geom:longitude":-73.572304,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"472c10461626d5be0f1d45e5c33ecded",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":152635883
         }
     ],
     "wof:id":152635883,
-    "wof:lastmodified":1449046314,
+    "wof:lastmodified":1453934359,
     "wof:name":"Nettoyeur Le 500",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572304,45.506336,-73.572304,45.506336],
+  "bbox": [
+    -73.572304,
+    45.506336,
+    -73.572304,
+    45.506336
+],
   "geometry": {"coordinates":[-73.572304,45.506336],"type":"Point"}
 }

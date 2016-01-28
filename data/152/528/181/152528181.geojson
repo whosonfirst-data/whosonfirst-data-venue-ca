@@ -2,13 +2,14 @@
   "id": 152528181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.503059,45.483612,-73.503059,45.483612",
     "geom:latitude":45.483612,
     "geom:longitude":-73.503059,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"108 Av DE Picardie",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875769,
+        102191575,
         85633041,
-        85875769
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f084f03c2ed93365cc87d860140f96cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875769,
+            "region_id":136251273,
             "venue_id":152528181
         }
     ],
     "wof:id":152528181,
-    "wof:lastmodified":1449045537,
+    "wof:lastmodified":1453933777,
     "wof:name":"Photographie Alain Rheaume",
     "wof:parent_id":85875769,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.503059,45.483612,-73.503059,45.483612],
-  "geometry": {"coordinates":[-73.503059,45.483612],"type":"Point"}
+  "bbox": [
+    -73.503059,
+    45.483612,
+    -73.503059,
+    45.483612
+],
+  "geometry": {"coordinates":[-73.50305899999999,45.483612],"type":"Point"}
 }

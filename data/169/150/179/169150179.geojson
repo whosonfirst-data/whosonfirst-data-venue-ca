@@ -2,13 +2,14 @@
   "id": 169150179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.19416,46.872009,-71.19416,46.872009",
     "geom:latitude":46.872009,
     "geom:longitude":-71.19416,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"220 Rue Seigneuriale",
     "sg:city":"Beauport",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85784675,
+        102191575,
         85633041,
-        85784675
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"a8008ed6748efc663253092e0f19d5e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784675,
+            "region_id":136251273,
             "venue_id":169150179
         }
     ],
     "wof:id":169150179,
-    "wof:lastmodified":1449032726,
+    "wof:lastmodified":1453928839,
     "wof:name":"Video Eclair Inc",
     "wof:parent_id":85784675,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.19416,46.872009,-71.19416,46.872009],
+  "bbox": [
+    -71.19416,
+    46.872009,
+    -71.19416,
+    46.872009
+],
   "geometry": {"coordinates":[-71.19416,46.872009],"type":"Point"}
 }

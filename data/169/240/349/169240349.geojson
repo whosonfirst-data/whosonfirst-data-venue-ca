@@ -2,13 +2,14 @@
   "id": 169240349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.305077,46.806343,-71.305077,46.806343",
     "geom:latitude":46.806343,
     "geom:longitude":-71.305077,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3055 Boul Wilfrid-Hamel # 114",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"c4cb1e2555c9eee1cad3e9d0c182172c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169240349
         }
     ],
     "wof:id":169240349,
-    "wof:lastmodified":1449033015,
+    "wof:lastmodified":1453929144,
     "wof:name":"Armoires G Baron Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.305077,46.806343,-71.305077,46.806343],
+  "bbox": [
+    -71.305077,
+    46.806343,
+    -71.305077,
+    46.806343
+],
   "geometry": {"coordinates":[-71.305077,46.806343],"type":"Point"}
 }

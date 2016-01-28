@@ -2,13 +2,14 @@
   "id": 169451171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.559937,45.581139,-73.559937,45.581139",
     "geom:latitude":45.581139,
     "geom:longitude":-73.559937,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6120 Rue DE Cadillac",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874169,
+        102191575,
         85633041,
-        85874169
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"8182eca1fcea24bec94446ded50b40e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
+            "region_id":136251273,
             "venue_id":169451171
         }
     ],
     "wof:id":169451171,
-    "wof:lastmodified":1449034112,
+    "wof:lastmodified":1453930298,
     "wof:name":"Tapis Andre Papillon & Fils",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.559937,45.581139,-73.559937,45.581139],
-  "geometry": {"coordinates":[-73.559937,45.581139],"type":"Point"}
+  "bbox": [
+    -73.559937,
+    45.581139,
+    -73.559937,
+    45.581139
+],
+  "geometry": {"coordinates":[-73.55993700000001,45.581139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169407019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.122772,43.81385,-79.122772,43.81385",
     "geom:latitude":43.81385,
     "geom:longitude":-79.122772,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"512 Kingston Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895621,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"38ec700165a591bc59fcb0769a08df6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895621,
+            "region_id":85682057,
+            "venue_id":169407019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895621,
             "region_id":85682057,
             "venue_id":169407019
         }
     ],
     "wof:id":169407019,
-    "wof:lastmodified":1449034524,
+    "wof:lastmodified":1453930717,
     "wof:name":"Coldwell Bankers Case Realty",
     "wof:parent_id":85895621,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.122772,43.81385,-79.122772,43.81385],
+  "bbox": [
+    -79.122772,
+    43.81385,
+    -79.122772,
+    43.81385
+],
   "geometry": {"coordinates":[-79.122772,43.81385],"type":"Point"}
 }

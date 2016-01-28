@@ -2,13 +2,14 @@
   "id": 152282825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.561523,43.202068,-79.561523,43.202068",
     "geom:latitude":43.202068,
     "geom:longitude":-79.561523,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Cherry Ave",
     "sg:city":"Grimsby",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895027,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101735899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"cfec4c4b3c117c6cf290ef7141d6564e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85895027,
+            "region_id":85682057,
+            "venue_id":152282825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735899,
             "neighbourhood_id":85895027,
             "region_id":85682057,
             "venue_id":152282825
         }
     ],
     "wof:id":152282825,
-    "wof:lastmodified":1449047189,
+    "wof:lastmodified":1453935021,
     "wof:name":"Fruit of the Vine Catering",
     "wof:parent_id":85895027,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.561523,43.202068,-79.561523,43.202068],
-  "geometry": {"coordinates":[-79.561523,43.202068],"type":"Point"}
+  "bbox": [
+    -79.561523,
+    43.202068,
+    -79.561523,
+    43.202068
+],
+  "geometry": {"coordinates":[-79.56152299999999,43.202068],"type":"Point"}
 }

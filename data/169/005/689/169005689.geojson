@@ -2,13 +2,14 @@
   "id": 169005689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.257698,43.145664,-79.257698,43.145664",
     "geom:latitude":43.145664,
     "geom:longitude":-79.257698,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"215 St. Paul St W",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864651,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1bbbe51a0beac4d01e53288a1e51cb05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864651,
+            "region_id":85682057,
+            "venue_id":169005689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864651,
             "region_id":85682057,
             "venue_id":169005689
         }
     ],
     "wof:id":169005689,
-    "wof:lastmodified":1449035696,
+    "wof:lastmodified":1453931942,
     "wof:name":"Abruzzi Caffe Deli Subs & More",
     "wof:parent_id":85864651,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.257698,43.145664,-79.257698,43.145664],
+  "bbox": [
+    -79.257698,
+    43.145664,
+    -79.257698,
+    43.145664
+],
   "geometry": {"coordinates":[-79.257698,43.145664],"type":"Point"}
 }

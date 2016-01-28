@@ -2,13 +2,14 @@
   "id": 169405459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.435143,43.473747,-80.435143,43.473747",
     "geom:latitude":43.473747,
     "geom:longitude":-80.435143,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1601 Victoria St N",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874981,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5e5bee34a538719108c6e0506c54ab50",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874981,
+            "region_id":85682057,
+            "venue_id":169405459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874981,
             "region_id":85682057,
             "venue_id":169405459
         }
     ],
     "wof:id":169405459,
-    "wof:lastmodified":1449035682,
+    "wof:lastmodified":1453931924,
     "wof:name":"P J Automotive",
     "wof:parent_id":85874981,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.435143,43.473747,-80.435143,43.473747],
+  "bbox": [
+    -80.435143,
+    43.473747,
+    -80.435143,
+    43.473747
+],
   "geometry": {"coordinates":[-80.435143,43.473747],"type":"Point"}
 }

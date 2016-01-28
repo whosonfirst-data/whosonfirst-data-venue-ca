@@ -2,13 +2,14 @@
   "id": 152202471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567497,45.482529,-73.567497,45.482529",
     "geom:latitude":45.482529,
     "geom:longitude":-73.567497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2172 Rue Saint-Patrick",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897609,
+        102191575,
         85633041,
-        85897609
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"b25ccdd0ac095fabefa770893af0f806",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897609,
+            "region_id":136251273,
             "venue_id":152202471
         }
     ],
     "wof:id":152202471,
-    "wof:lastmodified":1449048319,
+    "wof:lastmodified":1453935885,
     "wof:name":"Brasserie Capri",
     "wof:parent_id":85897609,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.567497,45.482529,-73.567497,45.482529],
+  "bbox": [
+    -73.567497,
+    45.482529,
+    -73.567497,
+    45.482529
+],
   "geometry": {"coordinates":[-73.567497,45.482529],"type":"Point"}
 }

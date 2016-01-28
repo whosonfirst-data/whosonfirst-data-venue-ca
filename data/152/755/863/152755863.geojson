@@ -2,13 +2,14 @@
   "id": 152755863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.514786,45.502487,-73.514786,45.502487",
     "geom:latitude":45.502487,
     "geom:longitude":-73.514786,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"371 Av Victoria",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1a5c94fc99d787670ab9e0cb26a491d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":152755863
         }
     ],
     "wof:id":152755863,
-    "wof:lastmodified":1449045606,
+    "wof:lastmodified":1453933830,
     "wof:name":"Marche Louise Menard",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.514786,45.502487,-73.514786,45.502487],
+  "bbox": [
+    -73.514786,
+    45.502487,
+    -73.514786,
+    45.502487
+],
   "geometry": {"coordinates":[-73.514786,45.502487],"type":"Point"}
 }

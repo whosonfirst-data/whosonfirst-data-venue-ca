@@ -2,13 +2,14 @@
   "id": 202504291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.657677,43.698128,-79.657677,43.698128",
     "geom:latitude":43.698128,
     "geom:longitude":-79.657677,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -29,8 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895633,
+        102555091,
+        85866433,
+        102191575,
         85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -41,18 +45,19 @@
     "wof:geomhash":"89e5815d55e3b78070834fe1d480dd22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":85895633,
+            "locality_id":101735835,
+            "neighbourhood_id":85866433,
             "region_id":85682057,
             "venue_id":202504291
         }
     ],
     "wof:id":202504291,
-    "wof:lastmodified":1449060545,
+    "wof:lastmodified":1453937065,
     "wof:name":"Aero Supplies Inc",
-    "wof:parent_id":85895633,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.657677,43.698128,-79.657677,43.698128],
-  "geometry": {"coordinates":[-79.657677,43.698128],"type":"Point"}
+  "bbox": [
+    -79.657677,
+    43.698128,
+    -79.657677,
+    43.698128
+],
+  "geometry": {"coordinates":[-79.65767700000001,43.698128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152809719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.663177,45.501678,-73.663177,45.501678",
     "geom:latitude":45.501678,
     "geom:longitude":-73.663177,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8525 Boul Decarie",
     "sg:city":"Mont-Royal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895725,
+        102191575,
         85633041,
-        85895725
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"8729d7f0c2c4faf93497fc7056b55d31",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
+            "region_id":136251273,
             "venue_id":152809719
         }
     ],
     "wof:id":152809719,
-    "wof:lastmodified":1449048079,
+    "wof:lastmodified":1453935708,
     "wof:name":"Holand Leasing Ltd",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.663177,45.501678,-73.663177,45.501678],
+  "bbox": [
+    -73.663177,
+    45.501678,
+    -73.663177,
+    45.501678
+],
   "geometry": {"coordinates":[-73.663177,45.501678],"type":"Point"}
 }

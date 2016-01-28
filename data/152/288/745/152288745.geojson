@@ -2,13 +2,14 @@
   "id": 152288745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.669067,44.35239,-79.669067,44.35239",
     "geom:latitude":44.35239,
     "geom:longitude":-79.669067,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"120 Big Bay Point Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "stadium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864601,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D7y0osa2QNv8WzgcMz1cs_44.352390_-79.669067@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"a6dee1e2b5127afdee5e689f9b78a1b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85864601,
+            "region_id":85682057,
+            "venue_id":152288745
+        }
+    ],
     "wof:id":152288745,
-    "wof:lastmodified":1449044796,
+    "wof:lastmodified":1453933208,
     "wof:name":"National Training Rinks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864601,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.669067,44.35239,-79.669067,44.35239],
+  "bbox": [
+    -79.669067,
+    44.35239,
+    -79.669067,
+    44.35239
+],
   "geometry": {"coordinates":[-79.669067,44.35239],"type":"Point"}
 }

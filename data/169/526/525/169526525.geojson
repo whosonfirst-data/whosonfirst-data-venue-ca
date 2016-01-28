@@ -2,13 +2,14 @@
   "id": 169526525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554359,45.51231,-73.554359,45.51231",
     "geom:latitude":45.51231,
     "geom:longitude":-73.554359,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3344 Rue D'Herelle",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"77d06518be5365f2a8c73f5c3965ae30",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":169526525
         }
     ],
     "wof:id":169526525,
-    "wof:lastmodified":1449033703,
+    "wof:lastmodified":1453929827,
     "wof:name":"Service Comptables Queric",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.554359,45.51231,-73.554359,45.51231],
-  "geometry": {"coordinates":[-73.554359,45.51231],"type":"Point"}
+  "bbox": [
+    -73.554359,
+    45.51231,
+    -73.554359,
+    45.51231
+],
+  "geometry": {"coordinates":[-73.55435900000001,45.51231],"type":"Point"}
 }

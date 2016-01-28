@@ -2,13 +2,14 @@
   "id": 169000673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.610161,43.572289,-79.610161,43.572289",
     "geom:latitude":43.572289,
     "geom:longitude":-79.610161,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895411,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"91b34189f616e2c354cac232d3f5fb48",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895411,
+            "region_id":85682057,
+            "venue_id":169000673
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895411,
             "region_id":85682057,
             "venue_id":169000673
         }
     ],
     "wof:id":169000673,
-    "wof:lastmodified":1449033222,
+    "wof:lastmodified":1453929316,
     "wof:name":"Csik, F D DDS",
     "wof:parent_id":85895411,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.610161,43.572289,-79.610161,43.572289],
-  "geometry": {"coordinates":[-79.610161,43.572289],"type":"Point"}
+  "bbox": [
+    -79.610161,
+    43.572289,
+    -79.610161,
+    43.572289
+],
+  "geometry": {"coordinates":[-79.61016100000001,43.572289],"type":"Point"}
 }

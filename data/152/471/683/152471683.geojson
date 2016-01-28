@@ -2,13 +2,14 @@
   "id": 152471683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.275642,42.971958,-81.275642,42.971958",
     "geom:latitude":42.971958,
     "geom:longitude":-81.275642,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"250 Springbank Dr",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864623,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mtiBCNJjXmSn0jNuhBUFX_42.971958_-81.275642@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"9643b98a7568111ceb18774e76f62fed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864623,
+            "region_id":85682057,
+            "venue_id":152471683
+        }
+    ],
     "wof:id":152471683,
-    "wof:lastmodified":1449046161,
+    "wof:lastmodified":1453934241,
     "wof:name":"Gabie's Paint & Auto Sale",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.275642,42.971958,-81.275642,42.971958],
+  "bbox": [
+    -81.275642,
+    42.971958,
+    -81.275642,
+    42.971958
+],
   "geometry": {"coordinates":[-81.275642,42.971958],"type":"Point"}
 }

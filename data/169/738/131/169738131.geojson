@@ -2,13 +2,14 @@
   "id": 169738131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.665344,43.447418,-79.665344,43.447418",
     "geom:latitude":43.447418,
     "geom:longitude":-79.665344,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"303 Robinson St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895269,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"465a6bb0da4da5ff55dcb25728a2e3cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895269,
+            "region_id":85682057,
+            "venue_id":169738131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895269,
             "region_id":85682057,
             "venue_id":169738131
         }
     ],
     "wof:id":169738131,
-    "wof:lastmodified":1449035096,
+    "wof:lastmodified":1453931335,
     "wof:name":"Barichello, Daniel C",
     "wof:parent_id":85895269,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "attorney"
     ]
 },
-  "bbox": [-79.665344,43.447418,-79.665344,43.447418],
+  "bbox": [
+    -79.665344,
+    43.447418,
+    -79.665344,
+    43.447418
+],
   "geometry": {"coordinates":[-79.665344,43.447418],"type":"Point"}
 }

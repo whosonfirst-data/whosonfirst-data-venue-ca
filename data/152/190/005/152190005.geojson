@@ -2,13 +2,14 @@
   "id": 152190005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.633026,43.508343,-79.633026,43.508343",
     "geom:latitude":43.508343,
     "geom:longitude":-79.633026,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2133 Royal Windsor Dr # 14",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894979,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"51244ff87a43853a98d74ee6a4fd7e10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894979,
+            "region_id":85682057,
+            "venue_id":152190005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894979,
             "region_id":85682057,
             "venue_id":152190005
         }
     ],
     "wof:id":152190005,
-    "wof:lastmodified":1449048630,
+    "wof:lastmodified":1453936113,
     "wof:name":"Gemsys Money Handling Systems",
     "wof:parent_id":85894979,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.633026,43.508343,-79.633026,43.508343],
+  "bbox": [
+    -79.633026,
+    43.508343,
+    -79.633026,
+    43.508343
+],
   "geometry": {"coordinates":[-79.633026,43.508343],"type":"Point"}
 }

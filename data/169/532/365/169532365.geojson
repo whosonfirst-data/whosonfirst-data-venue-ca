@@ -2,13 +2,14 @@
   "id": 169532365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.503593,43.817951,-79.503593,43.817951",
     "geom:latitude":43.817951,
     "geom:longitude":-79.503593,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Concord",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895125,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ab7879d59d157c8197c81e4bbb0a1f9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895125,
+            "region_id":85682057,
+            "venue_id":169532365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895125,
             "region_id":85682057,
             "venue_id":169532365
         }
     ],
     "wof:id":169532365,
-    "wof:lastmodified":1449033794,
+    "wof:lastmodified":1453929941,
     "wof:name":"Maple Drapery & Carpet Ltd",
     "wof:parent_id":85895125,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.503593,43.817951,-79.503593,43.817951],
+  "bbox": [
+    -79.503593,
+    43.817951,
+    -79.503593,
+    43.817951
+],
   "geometry": {"coordinates":[-79.503593,43.817951],"type":"Point"}
 }

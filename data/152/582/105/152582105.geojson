@@ -2,13 +2,14 @@
   "id": 152582105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720078,45.490967,-73.720078,45.490967",
     "geom:latitude":45.490967,
     "geom:longitude":-73.720078,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1405 Rue Pomba",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"e1e914151f19304ebdddde8446d3bbeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152582105
         }
     ],
     "wof:id":152582105,
-    "wof:lastmodified":1449046789,
+    "wof:lastmodified":1453934716,
     "wof:name":"Distribution Select",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.720078,45.490967,-73.720078,45.490967],
+  "bbox": [
+    -73.720078,
+    45.490967,
+    -73.720078,
+    45.490967
+],
   "geometry": {"coordinates":[-73.720078,45.490967],"type":"Point"}
 }

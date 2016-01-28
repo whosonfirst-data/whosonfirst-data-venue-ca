@@ -2,13 +2,14 @@
   "id": 169112631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.59507,45.606064,-73.59507,45.606064",
     "geom:latitude":45.606064,
     "geom:longitude":-73.59507,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6850 Boul Couture",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874367,
+        102191575,
         85633041,
-        85874367
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5b7482770b14e35d6488c235cb4e40c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874367,
+            "region_id":136251273,
             "venue_id":169112631
         }
     ],
     "wof:id":169112631,
-    "wof:lastmodified":1449034192,
+    "wof:lastmodified":1453930379,
     "wof:name":"Spanish Iron Works Ltd",
     "wof:parent_id":85874367,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.59507,45.606064,-73.59507,45.606064],
-  "geometry": {"coordinates":[-73.59507,45.606064],"type":"Point"}
+  "bbox": [
+    -73.59507,
+    45.606064,
+    -73.59507,
+    45.606064
+],
+  "geometry": {"coordinates":[-73.59507000000001,45.606064],"type":"Point"}
 }

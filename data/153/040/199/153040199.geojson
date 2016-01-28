@@ -2,13 +2,14 @@
   "id": 153040199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.960838,45.411549,-71.960838,45.411549",
     "geom:latitude":45.411549,
     "geom:longitude":-71.960838,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3871 Rue Auguste-Dubuc",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874133,
+        102191575,
         85633041,
-        85874133
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a0b9535b243b698e57056f5c904d1286",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874133,
+            "region_id":136251273,
             "venue_id":153040199
         }
     ],
     "wof:id":153040199,
-    "wof:lastmodified":1449040801,
+    "wof:lastmodified":1453932709,
     "wof:name":"Expert Hygiene Enr",
     "wof:parent_id":85874133,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.960838,45.411549,-71.960838,45.411549],
+  "bbox": [
+    -71.960838,
+    45.411549,
+    -71.960838,
+    45.411549
+],
   "geometry": {"coordinates":[-71.960838,45.411549],"type":"Point"}
 }

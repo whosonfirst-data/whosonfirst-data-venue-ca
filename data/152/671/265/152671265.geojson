@@ -2,13 +2,14 @@
   "id": 152671265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.870583,43.925327,-78.870583,43.925327",
     "geom:latitude":43.925327,
     "geom:longitude":-78.870583,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"121 Marica Ave",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875145,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8d7ece9f47426ef35dbef39f9e3ec795",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875145,
+            "region_id":85682057,
+            "venue_id":152671265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875145,
             "region_id":85682057,
             "venue_id":152671265
         }
     ],
     "wof:id":152671265,
-    "wof:lastmodified":1449045361,
+    "wof:lastmodified":1453933635,
     "wof:name":"William Tonno Construction Ltd",
     "wof:parent_id":85875145,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.870583,43.925327,-78.870583,43.925327],
+  "bbox": [
+    -78.870583,
+    43.925327,
+    -78.870583,
+    43.925327
+],
   "geometry": {"coordinates":[-78.870583,43.925327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169436433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.280434,46.769745,-71.280434,46.769745",
     "geom:latitude":46.769745,
     "geom:longitude":-71.280434,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2613 Rue Lapointe",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"92373399657e52efb3b8beb014155d15",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":169436433
         }
     ],
     "wof:id":169436433,
-    "wof:lastmodified":1449035641,
+    "wof:lastmodified":1453931878,
     "wof:name":"Maison Leclerc",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.280434,46.769745,-71.280434,46.769745],
+  "bbox": [
+    -71.280434,
+    46.769745,
+    -71.280434,
+    46.769745
+],
   "geometry": {"coordinates":[-71.280434,46.769745],"type":"Point"}
 }

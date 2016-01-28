@@ -2,13 +2,14 @@
   "id": 152541795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.887054,45.396099,-71.887054,45.396099",
     "geom:latitude":45.396099,
     "geom:longitude":-71.887054,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"470 Rue Wellington S",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874135,
+        102191575,
         85633041,
-        85874135
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"08a2f218cf86b057d03a3730531cac91",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874135,
+            "region_id":136251273,
             "venue_id":152541795
         }
     ],
     "wof:id":152541795,
-    "wof:lastmodified":1449044819,
+    "wof:lastmodified":1453933222,
     "wof:name":"Presto Les Entrepots",
     "wof:parent_id":85874135,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.887054,45.396099,-71.887054,45.396099],
-  "geometry": {"coordinates":[-71.887054,45.396099],"type":"Point"}
+  "bbox": [
+    -71.887054,
+    45.396099,
+    -71.887054,
+    45.396099
+],
+  "geometry": {"coordinates":[-71.88705400000001,45.396099],"type":"Point"}
 }

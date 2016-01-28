@@ -2,13 +2,14 @@
   "id": 186276293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.675621,52.164837,-106.675621,52.164837",
     "geom:latitude":52.164837,
     "geom:longitude":-106.675621,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saskatoon",
     "sg:classifiers":[
         {
@@ -26,7 +27,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102555161,
         85784799,
+        102191575,
         85633041,
         101740015,
         85682113
@@ -39,7 +42,8 @@
     "wof:geomhash":"4fa9dd95c96e1a89ecfccbe26093db0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555161,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740015,
             "neighbourhood_id":85784799,
@@ -48,9 +52,9 @@
         }
     ],
     "wof:id":186276293,
-    "wof:lastmodified":1449050367,
+    "wof:lastmodified":1453936502,
     "wof:name":"Coutts Courier CO",
-    "wof:parent_id":85784799,
+    "wof:parent_id":102555161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +62,11 @@
         "courier"
     ]
 },
-  "bbox": [-106.675621,52.164837,-106.675621,52.164837],
-  "geometry": {"coordinates":[-106.675621,52.164837],"type":"Point"}
+  "bbox": [
+    -106.675621,
+    52.164837,
+    -106.675621,
+    52.164837
+],
+  "geometry": {"coordinates":[-106.67562100000001,52.164837],"type":"Point"}
 }

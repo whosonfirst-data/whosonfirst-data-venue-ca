@@ -2,13 +2,14 @@
   "id": 152328935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.869537,43.92075,-78.869537,43.92075",
     "geom:latitude":43.92075,
     "geom:longitude":-78.869537,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"879 Grierson St",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875153,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5f01bdc7d2a5d6dd6ff64644473e2f4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875153,
+            "region_id":85682057,
+            "venue_id":152328935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875153,
             "region_id":85682057,
             "venue_id":152328935
         }
     ],
     "wof:id":152328935,
-    "wof:lastmodified":1449047025,
+    "wof:lastmodified":1453934891,
     "wof:name":"Canadian Roofing Systems",
     "wof:parent_id":85875153,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.869537,43.92075,-78.869537,43.92075],
-  "geometry": {"coordinates":[-78.869537,43.92075],"type":"Point"}
+  "bbox": [
+    -78.869537,
+    43.92075,
+    -78.869537,
+    43.92075
+],
+  "geometry": {"coordinates":[-78.86953699999999,43.92075],"type":"Point"}
 }

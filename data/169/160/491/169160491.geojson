@@ -2,13 +2,14 @@
   "id": 169160491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.250404,48.417767,-71.250404,48.417767",
     "geom:latitude":48.417767,
     "geom:longitude":-71.250404,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2211 Rue Saint-Dominique",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d4ed70a4e59873da0aa96cabd2863713",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":169160491
         }
     ],
     "wof:id":169160491,
-    "wof:lastmodified":1449035435,
+    "wof:lastmodified":1453931647,
     "wof:name":"Services Financiers Plani-Vie",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.250404,48.417767,-71.250404,48.417767],
+  "bbox": [
+    -71.250404,
+    48.417767,
+    -71.250404,
+    48.417767
+],
   "geometry": {"coordinates":[-71.250404,48.417767],"type":"Point"}
 }

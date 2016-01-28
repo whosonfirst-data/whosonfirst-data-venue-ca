@@ -2,13 +2,14 @@
   "id": 169336247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.404587,42.974876,-82.404587,42.974876",
     "geom:latitude":42.974876,
     "geom:longitude":-82.404587,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"230 Vidal St N",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875555,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"0f9893ae634dda42650cc1f1a29f144e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875555,
+            "region_id":85682057,
+            "venue_id":169336247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875555,
             "region_id":85682057,
             "venue_id":169336247
         }
     ],
     "wof:id":169336247,
-    "wof:lastmodified":1449032620,
+    "wof:lastmodified":1453928726,
     "wof:name":"Kupinski, Richard DDS",
     "wof:parent_id":85875555,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.404587,42.974876,-82.404587,42.974876],
-  "geometry": {"coordinates":[-82.404587,42.974876],"type":"Point"}
+  "bbox": [
+    -82.404587,
+    42.974876,
+    -82.404587,
+    42.974876
+],
+  "geometry": {"coordinates":[-82.40458700000001,42.974876],"type":"Point"}
 }

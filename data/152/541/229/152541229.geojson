@@ -2,13 +2,14 @@
   "id": 152541229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619232,45.478867,-73.619232,45.478867",
     "geom:latitude":45.478867,
     "geom:longitude":-73.619232,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4242 Boul Decarie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85897633,
+        102191575,
         85633041,
-        85897633
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"bd86900de7a01cfb0f3f06c069568069",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897633,
+            "region_id":136251273,
             "venue_id":152541229
         }
     ],
     "wof:id":152541229,
-    "wof:lastmodified":1449044821,
+    "wof:lastmodified":1453933225,
     "wof:name":"Village Szechuan",
     "wof:parent_id":85897633,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.619232,45.478867,-73.619232,45.478867],
+  "bbox": [
+    -73.619232,
+    45.478867,
+    -73.619232,
+    45.478867
+],
   "geometry": {"coordinates":[-73.619232,45.478867],"type":"Point"}
 }

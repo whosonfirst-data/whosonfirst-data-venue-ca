@@ -2,13 +2,14 @@
   "id": 169069649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.852623,45.445915,-73.852623,45.445915",
     "geom:latitude":45.445915,
     "geom:longitude":-73.852623,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2756 Boul Saint-Charles",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736461,
+        85864411,
+        102191575,
         85633041,
-        85864411
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"0e5058bf57bce215d623257f636a1b80",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85864411,
+            "region_id":136251273,
             "venue_id":169069649
         }
     ],
     "wof:id":169069649,
-    "wof:lastmodified":1449034771,
+    "wof:lastmodified":1453930995,
     "wof:name":"Rotisserie Bbq Hut",
     "wof:parent_id":85864411,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.852623,45.445915,-73.852623,45.445915],
-  "geometry": {"coordinates":[-73.852623,45.445915],"type":"Point"}
+  "bbox": [
+    -73.852623,
+    45.445915,
+    -73.852623,
+    45.445915
+],
+  "geometry": {"coordinates":[-73.85262299999999,45.445915],"type":"Point"}
 }

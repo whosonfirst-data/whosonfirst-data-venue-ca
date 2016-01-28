@@ -2,13 +2,14 @@
   "id": 169460049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.627693,45.48259,-73.627693,45.48259",
     "geom:latitude":45.48259,
     "geom:longitude":-73.627693,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4952 Boul Decarie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897527,
+        102191575,
         85633041,
-        85897527
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"624c76bab2f5d0da05637d308d011d71",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897527,
+            "region_id":136251273,
             "venue_id":169460049
         }
     ],
     "wof:id":169460049,
-    "wof:lastmodified":1449035771,
+    "wof:lastmodified":1453932044,
     "wof:name":"Hair Play Salon DE Coiffure",
     "wof:parent_id":85897527,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.627693,45.48259,-73.627693,45.48259],
-  "geometry": {"coordinates":[-73.627693,45.48259],"type":"Point"}
+  "bbox": [
+    -73.627693,
+    45.48259,
+    -73.627693,
+    45.48259
+],
+  "geometry": {"coordinates":[-73.62769299999999,45.48259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202392259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.79261,43.37524,-79.79261,43.37524",
     "geom:latitude":43.37524,
     "geom:longitude":-79.79261,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4034 Mainway",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -31,8 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895583,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,24 @@
     "wof:geomhash":"bd13c24baad6b11ae82aa074f858c846",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895583,
+            "region_id":85682057,
+            "venue_id":202392259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895583,
             "region_id":85682057,
             "venue_id":202392259
         }
     ],
     "wof:id":202392259,
-    "wof:lastmodified":1449062157,
+    "wof:lastmodified":1453937402,
     "wof:name":"Custom Woodworking & Design",
     "wof:parent_id":85895583,
     "wof:placetype":"venue",
@@ -64,6 +76,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.79261,43.37524,-79.79261,43.37524],
+  "bbox": [
+    -79.79261,
+    43.37524,
+    -79.79261,
+    43.37524
+],
   "geometry": {"coordinates":[-79.79261,43.37524],"type":"Point"}
 }

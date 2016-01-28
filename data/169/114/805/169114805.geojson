@@ -2,13 +2,14 @@
   "id": 169114805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.732506,45.565598,-73.732506,45.565598",
     "geom:latitude":45.565598,
     "geom:longitude":-73.732506,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897571,
+        102191575,
         85633041,
-        85897571
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"8b710a67994384bd41c5d249d372b92e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897571,
+            "region_id":136251273,
             "venue_id":169114805
         }
     ],
     "wof:id":169114805,
-    "wof:lastmodified":1449034049,
+    "wof:lastmodified":1453930239,
     "wof:name":"St Laurent Coiffure",
     "wof:parent_id":85897571,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.732506,45.565598,-73.732506,45.565598],
+  "bbox": [
+    -73.732506,
+    45.565598,
+    -73.732506,
+    45.565598
+],
   "geometry": {"coordinates":[-73.732506,45.565598],"type":"Point"}
 }

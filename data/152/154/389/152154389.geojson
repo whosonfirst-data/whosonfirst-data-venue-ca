@@ -2,13 +2,14 @@
   "id": 152154389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.578438,43.620396,-79.578438,43.620396",
     "geom:latitude":43.620396,
     "geom:longitude":-79.578438,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9 Main St",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8a18f3f77a486bc1b2194d88d2e8176d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":152154389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":152154389
         }
     ],
     "wof:id":152154389,
-    "wof:lastmodified":1449048957,
+    "wof:lastmodified":1453936400,
     "wof:name":"Arora, Rajeev MD",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.578438,43.620396,-79.578438,43.620396],
-  "geometry": {"coordinates":[-79.578438,43.620396],"type":"Point"}
+  "bbox": [
+    -79.578438,
+    43.620396,
+    -79.578438,
+    43.620396
+],
+  "geometry": {"coordinates":[-79.57843800000001,43.620396],"type":"Point"}
 }

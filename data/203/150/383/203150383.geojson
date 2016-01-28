@@ -2,13 +2,14 @@
   "id": 203150383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572029,45.489037,-73.572029,45.489037",
     "geom:latitude":45.489037,
     "geom:longitude":-73.572029,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"700 Rue Des Seigneurs",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897609,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"3b6089068373a8132ccb6c458c57c5d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897609,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203150383
         }
     ],
     "wof:id":203150383,
-    "wof:lastmodified":1449024966,
+    "wof:lastmodified":1453927411,
     "wof:name":"Solutions Micro-Plus Data-Lan",
     "wof:parent_id":85897609,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.572029,45.489037,-73.572029,45.489037],
+  "bbox": [
+    -73.572029,
+    45.489037,
+    -73.572029,
+    45.489037
+],
   "geometry": {"coordinates":[-73.572029,45.489037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152981539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.683418,44.389481,-79.683418,44.389481",
     "geom:latitude":44.389481,
     "geom:longitude":-79.683418,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"158 Dunlop St E",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hTbMCZ9HdsOcW5jVNriKk_44.389481_-79.683418@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"7444e201f7b14a1043d697b73100dfc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":152981539
+        }
+    ],
     "wof:id":152981539,
-    "wof:lastmodified":1449048978,
+    "wof:lastmodified":1453936417,
     "wof:name":"Mortgage Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.683418,44.389481,-79.683418,44.389481],
+  "bbox": [
+    -79.683418,
+    44.389481,
+    -79.683418,
+    44.389481
+],
   "geometry": {"coordinates":[-79.683418,44.389481],"type":"Point"}
 }

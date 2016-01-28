@@ -2,13 +2,14 @@
   "id": 152462065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.549545,46.332756,-72.549545,46.332756",
     "geom:latitude":46.332756,
     "geom:longitude":-72.549545,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2555 Rue Saint-Philippe",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874115,
+        102191575,
         85633041,
-        85874115
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"1a5e0c8e71fce00cef37535f78473e5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874115,
+            "region_id":136251273,
             "venue_id":152462065
         }
     ],
     "wof:id":152462065,
-    "wof:lastmodified":1449048739,
+    "wof:lastmodified":1453936208,
     "wof:name":"Garage Daniel Ouellette Enr",
     "wof:parent_id":85874115,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.549545,46.332756,-72.549545,46.332756],
-  "geometry": {"coordinates":[-72.549545,46.332756],"type":"Point"}
+  "bbox": [
+    -72.549545,
+    46.332756,
+    -72.549545,
+    46.332756
+],
+  "geometry": {"coordinates":[-72.54954499999999,46.332756],"type":"Point"}
 }

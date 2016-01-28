@@ -2,13 +2,14 @@
   "id": 219630089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.4077,42.961384,-82.4077,42.961384",
     "geom:latitude":42.961384,
     "geom:longitude":-82.4077,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"337 Queen St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875557,
+        102191575,
         85633041,
-        85682057
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"9a435778960b6bd923594c6d8cf05ac4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875557,
+            "region_id":85682057,
+            "venue_id":219630089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875557,
             "region_id":85682057,
             "venue_id":219630089
         }
     ],
     "wof:id":219630089,
-    "wof:lastmodified":1449071651,
+    "wof:lastmodified":1453937715,
     "wof:name":"Artwear Plus",
     "wof:parent_id":85875557,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-82.4077,42.961384,-82.4077,42.961384],
-  "geometry": {"coordinates":[-82.4077,42.961384],"type":"Point"}
+  "bbox": [
+    -82.4077,
+    42.961384,
+    -82.4077,
+    42.961384
+],
+  "geometry": {"coordinates":[-82.40770000000001,42.961384],"type":"Point"}
 }

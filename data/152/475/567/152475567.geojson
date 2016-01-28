@@ -2,13 +2,14 @@
   "id": 152475567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.64463,45.582832,-73.64463,45.582832",
     "geom:latitude":45.582832,
     "geom:longitude":-73.64463,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3375 Rue Prieur E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"aa37b8737ee387ef10e518463cd89cb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":152475567
         }
     ],
     "wof:id":152475567,
-    "wof:lastmodified":1449046234,
+    "wof:lastmodified":1453934296,
     "wof:name":"Manoir Guy Dore",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.64463,45.582832,-73.64463,45.582832],
-  "geometry": {"coordinates":[-73.64463,45.582832],"type":"Point"}
+  "bbox": [
+    -73.64463,
+    45.582832,
+    -73.64463,
+    45.582832
+],
+  "geometry": {"coordinates":[-73.64463000000001,45.582832],"type":"Point"}
 }

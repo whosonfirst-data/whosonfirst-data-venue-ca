@@ -2,13 +2,14 @@
   "id": 169357291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.670624,44.348518,-79.670624,44.348518",
     "geom:latitude":44.348518,
     "geom:longitude":-79.670624,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"91 Ellis Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875279,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R0d4VIwonXpbpXJ0MByy5_44.348518_-79.670624@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"11f12bdfb591b4cd8dadff55c715528f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875279,
+            "region_id":85682057,
+            "venue_id":169357291
+        }
+    ],
     "wof:id":169357291,
-    "wof:lastmodified":1449035551,
+    "wof:lastmodified":1453931796,
     "wof:name":"First Transport Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.670624,44.348518,-79.670624,44.348518],
+  "bbox": [
+    -79.670624,
+    44.348518,
+    -79.670624,
+    44.348518
+],
   "geometry": {"coordinates":[-79.670624,44.348518],"type":"Point"}
 }

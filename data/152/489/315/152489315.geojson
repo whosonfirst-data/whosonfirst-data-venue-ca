@@ -2,13 +2,14 @@
   "id": 152489315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.803558,45.46772,-73.803558,45.46772",
     "geom:latitude":45.46772,
     "geom:longitude":-73.803558,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"515 Av Delmar",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875789,
+        102191575,
         85633041,
-        85875789
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2574abfc7514a7ec8b57a8915c3ddab6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875789,
+            "region_id":136251273,
             "venue_id":152489315
         }
     ],
     "wof:id":152489315,
-    "wof:lastmodified":1449046828,
+    "wof:lastmodified":1453934737,
     "wof:name":"Imprimerie Litho Excel",
     "wof:parent_id":85875789,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.803558,45.46772,-73.803558,45.46772],
+  "bbox": [
+    -73.803558,
+    45.46772,
+    -73.803558,
+    45.46772
+],
   "geometry": {"coordinates":[-73.803558,45.46772],"type":"Point"}
 }

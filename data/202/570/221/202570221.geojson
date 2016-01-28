@@ -2,13 +2,14 @@
   "id": 202570221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.308678,46.825417,-71.308678,46.825417",
     "geom:latitude":46.825417,
     "geom:longitude":-71.308678,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2360 Rue DE Celles",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874721,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"5adc9dbf131d3090566c97cdd6b99615",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202570221
         }
     ],
     "wof:id":202570221,
-    "wof:lastmodified":1449061616,
+    "wof:lastmodified":1453937291,
     "wof:name":"Patissier Boulanger E Borderon",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "baker"
     ]
 },
-  "bbox": [-71.308678,46.825417,-71.308678,46.825417],
+  "bbox": [
+    -71.308678,
+    46.825417,
+    -71.308678,
+    46.825417
+],
   "geometry": {"coordinates":[-71.308678,46.825417],"type":"Point"}
 }

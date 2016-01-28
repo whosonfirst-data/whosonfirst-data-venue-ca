@@ -2,13 +2,14 @@
   "id": 168834313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.055672,43.855137,-79.055672,43.855137",
     "geom:latitude":43.855137,
     "geom:longitude":-79.055672,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"21 Church St N",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895697,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"a1ac17dae1560d0dc0bb9867aac20242",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895697,
+            "region_id":85682057,
+            "venue_id":168834313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895697,
             "region_id":85682057,
             "venue_id":168834313
         }
     ],
     "wof:id":168834313,
-    "wof:lastmodified":1449027849,
+    "wof:lastmodified":1453927868,
     "wof:name":"Village Hair",
     "wof:parent_id":85895697,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.055672,43.855137,-79.055672,43.855137],
+  "bbox": [
+    -79.055672,
+    43.855137,
+    -79.055672,
+    43.855137
+],
   "geometry": {"coordinates":[-79.055672,43.855137],"type":"Point"}
 }

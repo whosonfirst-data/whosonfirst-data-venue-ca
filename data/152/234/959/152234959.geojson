@@ -2,13 +2,14 @@
   "id": 152234959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.480011,43.828743,-79.480011,43.828743",
     "geom:latitude":43.828743,
     "geom:longitude":-79.480011,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8700 Dufferin St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895607,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"c554c2201b1fb06a32a250787393d395",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895607,
+            "region_id":85682057,
+            "venue_id":152234959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895607,
             "region_id":85682057,
             "venue_id":152234959
         }
     ],
     "wof:id":152234959,
-    "wof:lastmodified":1449048672,
+    "wof:lastmodified":1453936143,
     "wof:name":"Greenpark Homes",
     "wof:parent_id":85895607,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.480011,43.828743,-79.480011,43.828743],
+  "bbox": [
+    -79.480011,
+    43.828743,
+    -79.480011,
+    43.828743
+],
   "geometry": {"coordinates":[-79.480011,43.828743],"type":"Point"}
 }

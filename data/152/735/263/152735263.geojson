@@ -2,13 +2,14 @@
   "id": 152735263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.669312,43.444519,-79.669312,43.444519",
     "geom:latitude":43.444519,
     "geom:longitude":-79.669312,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"146 Lakeshore Rd E",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895269,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b7b563cf80d19bc1f718e8e0f4585062",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895269,
+            "region_id":85682057,
+            "venue_id":152735263
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895269,
             "region_id":85682057,
             "venue_id":152735263
         }
     ],
     "wof:id":152735263,
-    "wof:lastmodified":1449048806,
+    "wof:lastmodified":1453936257,
     "wof:name":"Southern Ontario Chamber Music",
     "wof:parent_id":85895269,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.669312,43.444519,-79.669312,43.444519],
-  "geometry": {"coordinates":[-79.669312,43.444519],"type":"Point"}
+  "bbox": [
+    -79.669312,
+    43.444519,
+    -79.669312,
+    43.444519
+],
+  "geometry": {"coordinates":[-79.66931200000001,43.444519],"type":"Point"}
 }

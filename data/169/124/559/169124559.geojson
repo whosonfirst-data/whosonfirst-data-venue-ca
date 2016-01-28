@@ -2,13 +2,14 @@
   "id": 169124559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.487679,45.511589,-73.487679,45.511589",
     "geom:latitude":45.511589,
     "geom:longitude":-73.487679,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2100 Rue LA Salle",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ead67ea4ddb542e1033728965f47ac90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":169124559
         }
     ],
     "wof:id":169124559,
-    "wof:lastmodified":1449035709,
+    "wof:lastmodified":1453931959,
     "wof:name":"Garderie Pomme-Soleil Inc",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.487679,45.511589,-73.487679,45.511589],
+  "bbox": [
+    -73.487679,
+    45.511589,
+    -73.487679,
+    45.511589
+],
   "geometry": {"coordinates":[-73.487679,45.511589],"type":"Point"}
 }

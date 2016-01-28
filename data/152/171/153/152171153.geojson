@@ -2,13 +2,14 @@
   "id": 152171153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.892242,43.325428,-79.892242,43.325428",
     "geom:latitude":43.325428,
     "geom:longitude":-79.892242,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Carl Cres",
     "sg:city":"Waterdown",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895367,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"760fa5ee00ed78d6ffe5876db47a0ea3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895367,
+            "region_id":85682057,
+            "venue_id":152171153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895367,
             "region_id":85682057,
             "venue_id":152171153
         }
     ],
     "wof:id":152171153,
-    "wof:lastmodified":1449048916,
+    "wof:lastmodified":1453936360,
     "wof:name":"Pollex Enterprises Inc",
     "wof:parent_id":85895367,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.892242,43.325428,-79.892242,43.325428],
+  "bbox": [
+    -79.892242,
+    43.325428,
+    -79.892242,
+    43.325428
+],
   "geometry": {"coordinates":[-79.892242,43.325428],"type":"Point"}
 }

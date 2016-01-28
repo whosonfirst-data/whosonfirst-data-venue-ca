@@ -2,13 +2,14 @@
   "id": 169066193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.50528,43.824593,-79.50528,43.824593",
     "geom:latitude":43.824593,
     "geom:longitude":-79.50528,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8733 Keele St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895125,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"05b02e281056df38bc9e58598a66dae5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895125,
+            "region_id":85682057,
+            "venue_id":169066193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895125,
             "region_id":85682057,
             "venue_id":169066193
         }
     ],
     "wof:id":169066193,
-    "wof:lastmodified":1449033648,
+    "wof:lastmodified":1453929763,
     "wof:name":"Maple Garden Ctr",
     "wof:parent_id":85895125,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.50528,43.824593,-79.50528,43.824593],
+  "bbox": [
+    -79.50528,
+    43.824593,
+    -79.50528,
+    43.824593
+],
   "geometry": {"coordinates":[-79.50528,43.824593],"type":"Point"}
 }

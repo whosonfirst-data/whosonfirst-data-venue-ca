@@ -2,13 +2,14 @@
   "id": 168852001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.639954,45.484482,-75.639954,45.484482",
     "geom:latitude":45.484482,
     "geom:longitude":-75.639954,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"400 Boul Maloney E",
     "sg:city":"Gatineau",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874487,
+        102191575,
         85633041,
-        85874487
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ebaff14e4a96a96e58d167a72f033f6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874487,
+            "region_id":136251273,
             "venue_id":168852001
         }
     ],
     "wof:id":168852001,
-    "wof:lastmodified":1449028448,
+    "wof:lastmodified":1453928535,
     "wof:name":"Impots Plus",
     "wof:parent_id":85874487,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.639954,45.484482,-75.639954,45.484482],
+  "bbox": [
+    -75.639954,
+    45.484482,
+    -75.639954,
+    45.484482
+],
   "geometry": {"coordinates":[-75.639954,45.484482],"type":"Point"}
 }

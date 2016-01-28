@@ -2,13 +2,14 @@
   "id": 203367061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.716431,44.277157,-76.716431,44.277157",
     "geom:latitude":44.277157,
     "geom:longitude":-76.716431,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"178 Main St",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864679,
+        102191575,
         85633041,
-        85682057
+        101740731,
+        85682057,
+        101735963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"4c8ddd3406ea4886b17e6f2f25792223",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740731,
+            "neighbourhood_id":85864679,
+            "region_id":85682057,
+            "venue_id":203367061
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735963,
             "neighbourhood_id":85864679,
             "region_id":85682057,
             "venue_id":203367061
         }
     ],
     "wof:id":203367061,
-    "wof:lastmodified":1449026069,
+    "wof:lastmodified":1453927614,
     "wof:name":"Campbell Monument CO Ltd",
     "wof:parent_id":85864679,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "monument"
     ]
 },
-  "bbox": [-76.716431,44.277157,-76.716431,44.277157],
+  "bbox": [
+    -76.716431,
+    44.277157,
+    -76.716431,
+    44.277157
+],
   "geometry": {"coordinates":[-76.716431,44.277157],"type":"Point"}
 }

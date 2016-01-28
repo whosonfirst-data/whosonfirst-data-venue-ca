@@ -2,13 +2,14 @@
   "id": 169370401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.612419,45.520725,-73.612419,45.520725",
     "geom:latitude":45.520725,
     "geom:longitude":-73.612419,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Outremont",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784831,
+        102191575,
         85633041,
-        85784831
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6afef7cd6b0ec12d6aec9c67a6371258",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
+            "region_id":136251273,
             "venue_id":169370401
         }
     ],
     "wof:id":169370401,
-    "wof:lastmodified":1449034495,
+    "wof:lastmodified":1453930680,
     "wof:name":"Movac Gsm Inc",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.612419,45.520725,-73.612419,45.520725],
+  "bbox": [
+    -73.612419,
+    45.520725,
+    -73.612419,
+    45.520725
+],
   "geometry": {"coordinates":[-73.612419,45.520725],"type":"Point"}
 }

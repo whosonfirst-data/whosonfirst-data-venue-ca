@@ -2,13 +2,14 @@
   "id": 153069907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.377769,43.944687,-79.377769,43.944687",
     "geom:latitude":43.944687,
     "geom:longitude":-79.377769,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15 Gormley Industrial Ave",
     "sg:city":"Gormley",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895629,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"4fa08ae26ac954eacfed3e3009fa6186",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895629,
+            "region_id":85682057,
+            "venue_id":153069907
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895629,
             "region_id":85682057,
             "venue_id":153069907
         }
     ],
     "wof:id":153069907,
-    "wof:lastmodified":1449040664,
+    "wof:lastmodified":1453932592,
     "wof:name":"Artel Packaging Systems Ltd",
     "wof:parent_id":85895629,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.377769,43.944687,-79.377769,43.944687],
+  "bbox": [
+    -79.377769,
+    43.944687,
+    -79.377769,
+    43.944687
+],
   "geometry": {"coordinates":[-79.377769,43.944687],"type":"Point"}
 }

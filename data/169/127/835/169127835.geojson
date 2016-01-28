@@ -2,13 +2,14 @@
   "id": 169127835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.819984,45.521969,-73.819984,45.521969",
     "geom:latitude":45.521969,
     "geom:longitude":-73.819984,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"767 Rue Dautry",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784909,
+        102191575,
         85633041,
-        85784909
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fb6526c68988f2f374763835fde8b155",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784909,
+            "region_id":136251273,
             "venue_id":169127835
         }
     ],
     "wof:id":169127835,
-    "wof:lastmodified":1449035688,
+    "wof:lastmodified":1453931933,
     "wof:name":"Entreprises Raymond Sauriol",
     "wof:parent_id":85784909,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.819984,45.521969,-73.819984,45.521969],
-  "geometry": {"coordinates":[-73.819984,45.521969],"type":"Point"}
+  "bbox": [
+    -73.819984,
+    45.521969,
+    -73.819984,
+    45.521969
+],
+  "geometry": {"coordinates":[-73.81998400000001,45.521969],"type":"Point"}
 }

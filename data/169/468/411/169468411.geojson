@@ -2,13 +2,14 @@
   "id": 169468411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.88768,43.649269,-79.88768,43.649269",
     "geom:latitude":43.649269,
     "geom:longitude":-79.88768,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"332 Guelph St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895565,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2943c18a5039293dd3c8deb3bb936320",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895565,
+            "region_id":85682057,
+            "venue_id":169468411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895565,
             "region_id":85682057,
             "venue_id":169468411
         }
     ],
     "wof:id":169468411,
-    "wof:lastmodified":1449035045,
+    "wof:lastmodified":1453931267,
     "wof:name":"Barrager's Cleaners",
     "wof:parent_id":85895565,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.88768,43.649269,-79.88768,43.649269],
+  "bbox": [
+    -79.88768,
+    43.649269,
+    -79.88768,
+    43.649269
+],
   "geometry": {"coordinates":[-79.88768,43.649269],"type":"Point"}
 }

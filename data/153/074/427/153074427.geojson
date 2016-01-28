@@ -2,13 +2,14 @@
   "id": 153074427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.645775,43.575611,-79.645775,43.575611",
     "geom:latitude":43.575611,
     "geom:longitude":-79.645775,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"719 Central Pky W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895473,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"1f560800a77cdb9a02bb807f002fd9c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895473,
+            "region_id":85682057,
+            "venue_id":153074427
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895473,
             "region_id":85682057,
             "venue_id":153074427
         }
     ],
     "wof:id":153074427,
-    "wof:lastmodified":1449040608,
+    "wof:lastmodified":1453932539,
     "wof:name":"Pham, Chien MD",
     "wof:parent_id":85895473,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.645775,43.575611,-79.645775,43.575611],
+  "bbox": [
+    -79.645775,
+    43.575611,
+    -79.645775,
+    43.575611
+],
   "geometry": {"coordinates":[-79.645775,43.575611],"type":"Point"}
 }

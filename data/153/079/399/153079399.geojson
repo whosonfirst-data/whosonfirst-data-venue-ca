@@ -2,13 +2,14 @@
   "id": 153079399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.508728,45.501209,-73.508728,45.501209",
     "geom:latitude":45.501209,
     "geom:longitude":-73.508728,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"581 Av Notre-Dame",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"69c4aac1e1319c12a86ce9d380ee0fbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":153079399
         }
     ],
     "wof:id":153079399,
-    "wof:lastmodified":1449040746,
+    "wof:lastmodified":1453932662,
     "wof:name":"Centre Dentaire Max Peltier",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.508728,45.501209,-73.508728,45.501209],
+  "bbox": [
+    -73.508728,
+    45.501209,
+    -73.508728,
+    45.501209
+],
   "geometry": {"coordinates":[-73.508728,45.501209],"type":"Point"}
 }

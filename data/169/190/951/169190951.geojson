@@ -2,13 +2,14 @@
   "id": 169190951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.638863,45.541336,-73.638863,45.541336",
     "geom:latitude":45.541336,
     "geom:longitude":-73.638863,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8595 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"fad7f8a8fcf5775edcbd4de21b4f83da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":169190951
         }
     ],
     "wof:id":169190951,
-    "wof:lastmodified":1449035746,
+    "wof:lastmodified":1453932013,
     "wof:name":"Banque Nationale Du Canada",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.638863,45.541336,-73.638863,45.541336],
+  "bbox": [
+    -73.638863,
+    45.541336,
+    -73.638863,
+    45.541336
+],
   "geometry": {"coordinates":[-73.638863,45.541336],"type":"Point"}
 }

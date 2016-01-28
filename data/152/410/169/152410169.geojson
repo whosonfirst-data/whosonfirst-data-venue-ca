@@ -2,13 +2,14 @@
   "id": 152410169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.552948,45.508064,-73.552948,45.508064",
     "geom:latitude":45.508064,
     "geom:longitude":-73.552948,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"433 Place Jacques-Cartier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"96ae4d5c07cc3929c4527035b661310b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":152410169
         }
     ],
     "wof:id":152410169,
-    "wof:lastmodified":1449044359,
+    "wof:lastmodified":1453932871,
     "wof:name":"Ben & Jerry's",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.552948,45.508064,-73.552948,45.508064],
+  "bbox": [
+    -73.552948,
+    45.508064,
+    -73.552948,
+    45.508064
+],
   "geometry": {"coordinates":[-73.552948,45.508064],"type":"Point"}
 }

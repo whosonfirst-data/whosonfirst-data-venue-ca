@@ -2,13 +2,14 @@
   "id": 152895025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589012,45.543125,-73.589012,45.543125",
     "geom:latitude":45.543125,
     "geom:longitude":-73.589012,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2106 Boul Rosemont",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"e46fcd4c3b53d81f194c5d737a9eeb00",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152895025
         }
     ],
     "wof:id":152895025,
-    "wof:lastmodified":1449046275,
+    "wof:lastmodified":1453934327,
     "wof:name":"Royal Photo Svc Inc",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.589012,45.543125,-73.589012,45.543125],
+  "bbox": [
+    -73.589012,
+    45.543125,
+    -73.589012,
+    45.543125
+],
   "geometry": {"coordinates":[-73.589012,45.543125],"type":"Point"}
 }

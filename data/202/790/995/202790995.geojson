@@ -2,13 +2,14 @@
   "id": 202790995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.426575,43.825966,-79.426575,43.825966",
     "geom:latitude":43.825966,
     "geom:longitude":-79.426575,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8135 Yonge St",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895421,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"9352bee7dcf9bed20f1a0b24c2cc6e65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895421,
+            "region_id":85682057,
+            "venue_id":202790995
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895421,
             "region_id":85682057,
             "venue_id":202790995
         }
     ],
     "wof:id":202790995,
-    "wof:lastmodified":1449062071,
+    "wof:lastmodified":1453937383,
     "wof:name":"Uniglobe Intrigue Travel",
     "wof:parent_id":85895421,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "bureau"
     ]
 },
-  "bbox": [-79.426575,43.825966,-79.426575,43.825966],
+  "bbox": [
+    -79.426575,
+    43.825966,
+    -79.426575,
+    43.825966
+],
   "geometry": {"coordinates":[-79.426575,43.825966],"type":"Point"}
 }

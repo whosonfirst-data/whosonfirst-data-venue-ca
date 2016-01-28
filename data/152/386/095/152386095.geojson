@@ -2,13 +2,14 @@
   "id": 152386095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.671913,43.641415,-79.671913,43.641415",
     "geom:latitude":43.641415,
     "geom:longitude":-79.671913,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6175 Danville Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"276db97f3ef94897d54ecea314c855a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":152386095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":152386095
         }
     ],
     "wof:id":152386095,
-    "wof:lastmodified":1449046727,
+    "wof:lastmodified":1453934671,
     "wof:name":"Dominion Sure Seal Ltd",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.671913,43.641415,-79.671913,43.641415],
+  "bbox": [
+    -79.671913,
+    43.641415,
+    -79.671913,
+    43.641415
+],
   "geometry": {"coordinates":[-79.671913,43.641415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168948425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.503349,43.492062,-80.503349,43.492062",
     "geom:latitude":43.492062,
     "geom:longitude":-80.503349,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"357 Boxbury Dr",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874975,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"85026fa94f8dab4e665901c1acb7bcb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874975,
+            "region_id":85682057,
+            "venue_id":168948425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736239,
             "neighbourhood_id":85874975,
             "region_id":85682057,
             "venue_id":168948425
         }
     ],
     "wof:id":168948425,
-    "wof:lastmodified":1449028418,
+    "wof:lastmodified":1453928498,
     "wof:name":"Heedma Management Svc",
     "wof:parent_id":85874975,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.503349,43.492062,-80.503349,43.492062],
+  "bbox": [
+    -80.503349,
+    43.492062,
+    -80.503349,
+    43.492062
+],
   "geometry": {"coordinates":[-80.503349,43.492062],"type":"Point"}
 }

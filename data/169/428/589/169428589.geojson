@@ -2,13 +2,14 @@
   "id": 169428589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.237625,43.176376,-79.237625,43.176376",
     "geom:latitude":43.176376,
     "geom:longitude":-79.237625,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"267 Carlton St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"b50cbd38d6469d5ec6896842f0b07b2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":169428589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":169428589
         }
     ],
     "wof:id":169428589,
-    "wof:lastmodified":1449035738,
+    "wof:lastmodified":1453932001,
     "wof:name":"Target Internet Development",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.237625,43.176376,-79.237625,43.176376],
-  "geometry": {"coordinates":[-79.237625,43.176376],"type":"Point"}
+  "bbox": [
+    -79.237625,
+    43.176376,
+    -79.237625,
+    43.176376
+],
+  "geometry": {"coordinates":[-79.23762499999999,43.176376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168890757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.234566,43.163483,-79.234566,43.163483",
     "geom:latitude":43.163483,
     "geom:longitude":-79.234566,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"96 Queenston St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"1f25d47698e0a9b14386d5d7585d9bf1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":168890757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":168890757
         }
     ],
     "wof:id":168890757,
-    "wof:lastmodified":1449027947,
+    "wof:lastmodified":1453927984,
     "wof:name":"Ahluwalia, A K MD",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.234566,43.163483,-79.234566,43.163483],
+  "bbox": [
+    -79.234566,
+    43.163483,
+    -79.234566,
+    43.163483
+],
   "geometry": {"coordinates":[-79.234566,43.163483],"type":"Point"}
 }

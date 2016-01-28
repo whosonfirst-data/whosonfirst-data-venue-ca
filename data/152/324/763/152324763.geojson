@@ -2,13 +2,14 @@
   "id": 152324763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.659637,45.552608,-73.659637,45.552608",
     "geom:latitude":45.552608,
     "geom:longitude":-73.659637,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10134 Rue Lajeunesse",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85864445,
+        102191575,
         85633041,
-        85864445
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d57441de9151b4417007a0b5399e1253",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85864445,
+            "region_id":136251273,
             "venue_id":152324763
         }
     ],
     "wof:id":152324763,
-    "wof:lastmodified":1449047002,
+    "wof:lastmodified":1453934873,
     "wof:name":"Salon Belmonte Haute Coiffure",
     "wof:parent_id":85864445,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.659637,45.552608,-73.659637,45.552608],
+  "bbox": [
+    -73.659637,
+    45.552608,
+    -73.659637,
+    45.552608
+],
   "geometry": {"coordinates":[-73.659637,45.552608],"type":"Point"}
 }

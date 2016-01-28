@@ -2,13 +2,14 @@
   "id": 169345759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.237633,42.994488,-81.237633,42.994488",
     "geom:latitude":42.994488,
     "geom:longitude":-81.237633,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q6DcaDUJyZtwGkfkcebMk_42.994488_-81.237633@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"017c5bb4264c1e5836fd32f3c8cc8acc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":169345759
+        }
+    ],
     "wof:id":169345759,
-    "wof:lastmodified":1449035700,
+    "wof:lastmodified":1453931952,
     "wof:name":"Stonehedge Towers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.237633,42.994488,-81.237633,42.994488],
+  "bbox": [
+    -81.237633,
+    42.994488,
+    -81.237633,
+    42.994488
+],
   "geometry": {"coordinates":[-81.237633,42.994488],"type":"Point"}
 }

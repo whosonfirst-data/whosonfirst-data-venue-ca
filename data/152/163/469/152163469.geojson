@@ -2,13 +2,14 @@
   "id": 152163469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.645172,43.66914,-79.645172,43.66914",
     "geom:latitude":43.66914,
     "geom:longitude":-79.645172,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8e0086a7801be24be823df9b9ac8bd48",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152163469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152163469
         }
     ],
     "wof:id":152163469,
-    "wof:lastmodified":1449048813,
+    "wof:lastmodified":1453936261,
     "wof:name":"Northline Coupling Systems Ltd",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.645172,43.66914,-79.645172,43.66914],
+  "bbox": [
+    -79.645172,
+    43.66914,
+    -79.645172,
+    43.66914
+],
   "geometry": {"coordinates":[-79.645172,43.66914],"type":"Point"}
 }

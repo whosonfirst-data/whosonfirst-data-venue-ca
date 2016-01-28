@@ -2,13 +2,14 @@
   "id": 169473183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.133926,45.254223,-74.133926,45.254223",
     "geom:latitude":45.254223,
     "geom:longitude":-74.133926,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"57 Rue Du Marche",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cb503a562a592bdb75bcb9df7e7cef31",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":169473183
         }
     ],
     "wof:id":169473183,
-    "wof:lastmodified":1449033374,
+    "wof:lastmodified":1453929482,
     "wof:name":"Clinique DE Sante Valleyfield",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.133926,45.254223,-74.133926,45.254223],
+  "bbox": [
+    -74.133926,
+    45.254223,
+    -74.133926,
+    45.254223
+],
   "geometry": {"coordinates":[-74.133926,45.254223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152541221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.020638,43.848694,-79.020638,43.848694",
     "geom:latitude":43.848694,
     "geom:longitude":-79.020638,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"224 Harwood Ave S",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895635,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"a04e1cd92c064b69b16970aadd241f7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":152541221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":152541221
         }
     ],
     "wof:id":152541221,
-    "wof:lastmodified":1449044820,
+    "wof:lastmodified":1453933221,
     "wof:name":"Hair Fashion 3000 Ltd",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.020638,43.848694,-79.020638,43.848694],
-  "geometry": {"coordinates":[-79.020638,43.848694],"type":"Point"}
+  "bbox": [
+    -79.020638,
+    43.848694,
+    -79.020638,
+    43.848694
+],
+  "geometry": {"coordinates":[-79.02063800000001,43.848694],"type":"Point"}
 }

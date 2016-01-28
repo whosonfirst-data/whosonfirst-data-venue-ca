@@ -2,13 +2,14 @@
   "id": 169418653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.886368,45.44239,-73.886368,45.44239",
     "geom:latitude":45.44239,
     "geom:longitude":-73.886368,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18190 Boul Elkas",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736461,
+        85897589,
+        102191575,
         85633041,
-        85897589
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3061b9ba7f1c318f456b58cd7a87eb69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85897589,
+            "region_id":136251273,
             "venue_id":169418653
         }
     ],
     "wof:id":169418653,
-    "wof:lastmodified":1449035244,
+    "wof:lastmodified":1453931445,
     "wof:name":"Academie Marie-Claire",
     "wof:parent_id":85897589,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.886368,45.44239,-73.886368,45.44239],
+  "bbox": [
+    -73.886368,
+    45.44239,
+    -73.886368,
+    45.44239
+],
   "geometry": {"coordinates":[-73.886368,45.44239],"type":"Point"}
 }

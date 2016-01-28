@@ -2,13 +2,14 @@
   "id": 152482615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.877159,48.326824,-70.877159,48.326824",
     "geom:latitude":48.326824,
     "geom:longitude":-70.877159,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1171 1E Rue",
     "sg:city":"LA Baie",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785011,
+        102191575,
         85633041,
-        85785011
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"2d5d7d73b100c9b2fad9cfc78281f931",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
+            "region_id":136251273,
             "venue_id":152482615
         }
     ],
     "wof:id":152482615,
-    "wof:lastmodified":1449045952,
+    "wof:lastmodified":1453934082,
     "wof:name":"Maison Des Notres Inc",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.877159,48.326824,-70.877159,48.326824],
-  "geometry": {"coordinates":[-70.877159,48.326824],"type":"Point"}
+  "bbox": [
+    -70.877159,
+    48.326824,
+    -70.877159,
+    48.326824
+],
+  "geometry": {"coordinates":[-70.87715900000001,48.326824],"type":"Point"}
 }

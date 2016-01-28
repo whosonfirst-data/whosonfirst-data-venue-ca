@@ -2,13 +2,14 @@
   "id": 202530751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.120888,43.830666,-79.120888,43.830666",
     "geom:latitude":43.830666,
     "geom:longitude":-79.120888,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1820 Whites Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895393,
+        102191575,
         85633041,
-        85682057
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"c1d3ad639d49500cfc7b632ec1dc49bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895393,
+            "region_id":85682057,
+            "venue_id":202530751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895393,
             "region_id":85682057,
             "venue_id":202530751
         }
     ],
     "wof:id":202530751,
-    "wof:lastmodified":1449061462,
+    "wof:lastmodified":1453937262,
     "wof:name":"Amberlea Presbyterian Church",
     "wof:parent_id":85895393,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "church"
     ]
 },
-  "bbox": [-79.120888,43.830666,-79.120888,43.830666],
-  "geometry": {"coordinates":[-79.120888,43.830666],"type":"Point"}
+  "bbox": [
+    -79.120888,
+    43.830666,
+    -79.120888,
+    43.830666
+],
+  "geometry": {"coordinates":[-79.12088799999999,43.830666],"type":"Point"}
 }

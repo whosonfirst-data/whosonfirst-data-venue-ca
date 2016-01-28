@@ -2,13 +2,14 @@
   "id": 186403355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.677231,43.533577,-79.677231,43.533577",
     "geom:latitude":43.533577,
     "geom:longitude":-79.677231,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3105 Glen Erin Dr # 4",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895111,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"8f7eed636d96a395103cd7704d1a3823",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":186403355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":186403355
         }
     ],
     "wof:id":186403355,
-    "wof:lastmodified":1449052643,
+    "wof:lastmodified":1453936880,
     "wof:name":"Erin Mills Physiotherapy Clnc",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "clinic"
     ]
 },
-  "bbox": [-79.677231,43.533577,-79.677231,43.533577],
-  "geometry": {"coordinates":[-79.677231,43.533577],"type":"Point"}
+  "bbox": [
+    -79.677231,
+    43.533577,
+    -79.677231,
+    43.533577
+],
+  "geometry": {"coordinates":[-79.67723100000001,43.533577],"type":"Point"}
 }

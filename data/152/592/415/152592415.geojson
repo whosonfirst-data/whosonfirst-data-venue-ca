@@ -2,13 +2,14 @@
   "id": 152592415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.469582,45.486729,-73.469582,45.486729",
     "geom:latitude":45.486729,
     "geom:longitude":-73.469582,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3860 Boul Taschereau # A",
     "sg:city":"Greenfield Park",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875767,
+        102191575,
         85633041,
-        85875767
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"15cf33016514d2f2c4df07df01417263",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875767,
+            "region_id":136251273,
             "venue_id":152592415
         }
     ],
     "wof:id":152592415,
-    "wof:lastmodified":1449046956,
+    "wof:lastmodified":1453934834,
     "wof:name":"Village Valeurs Ltd",
     "wof:parent_id":85875767,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.469582,45.486729,-73.469582,45.486729],
+  "bbox": [
+    -73.469582,
+    45.486729,
+    -73.469582,
+    45.486729
+],
   "geometry": {"coordinates":[-73.469582,45.486729],"type":"Point"}
 }

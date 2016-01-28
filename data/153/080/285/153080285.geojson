@@ -2,13 +2,14 @@
   "id": 153080285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.796257,45.579117,-73.796257,45.579117",
     "geom:latitude":45.579117,
     "geom:longitude":-73.796257,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3161 Boul Dagenais O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c196ae108af285bf1c69c3a8fab41c43",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":153080285
         }
     ],
     "wof:id":153080285,
-    "wof:lastmodified":1449040809,
+    "wof:lastmodified":1453932715,
     "wof:name":"Boite Abd DE Laval Inc",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.796257,45.579117,-73.796257,45.579117],
+  "bbox": [
+    -73.796257,
+    45.579117,
+    -73.796257,
+    45.579117
+],
   "geometry": {"coordinates":[-73.796257,45.579117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185798181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.239395,43.162518,-79.239395,43.162518",
     "geom:latitude":43.162518,
     "geom:longitude":-79.239395,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Niagara St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875047,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"2be442f4aa2f357e1b30aec668616786",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":185798181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":185798181
         }
     ],
     "wof:id":185798181,
-    "wof:lastmodified":1449006920,
+    "wof:lastmodified":1453927231,
     "wof:name":"Mc Gee Marking Devices",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "engraver"
     ]
 },
-  "bbox": [-79.239395,43.162518,-79.239395,43.162518],
+  "bbox": [
+    -79.239395,
+    43.162518,
+    -79.239395,
+    43.162518
+],
   "geometry": {"coordinates":[-79.239395,43.162518],"type":"Point"}
 }

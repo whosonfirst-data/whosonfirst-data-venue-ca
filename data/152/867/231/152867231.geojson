@@ -2,13 +2,14 @@
   "id": 152867231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.247887,43.042152,-81.247887,43.042152",
     "geom:latitude":43.042152,
     "geom:longitude":-81.247887,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15 Imperial Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874941,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C5uB6A7DVFG5GToIaxwVQ_43.042152_-81.247887@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"820925de7282084df8926f32397c7b12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874941,
+            "region_id":85682057,
+            "venue_id":152867231
+        }
+    ],
     "wof:id":152867231,
-    "wof:lastmodified":1449046309,
+    "wof:lastmodified":1453934353,
     "wof:name":"A J the Dj",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.247887,43.042152,-81.247887,43.042152],
-  "geometry": {"coordinates":[-81.247887,43.042152],"type":"Point"}
+  "bbox": [
+    -81.247887,
+    43.042152,
+    -81.247887,
+    43.042152
+],
+  "geometry": {"coordinates":[-81.24788700000001,43.042152],"type":"Point"}
 }

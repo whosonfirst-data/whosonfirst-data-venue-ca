@@ -2,13 +2,14 @@
   "id": 152430979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.510193,45.537758,-73.510193,45.537758",
     "geom:latitude":45.537758,
     "geom:longitude":-73.510193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"226 Rue Saint-Charles O",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875717,
+        102191575,
         85633041,
-        85875717
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"1c81b21f34960c456c4a345c140fb475",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875717,
+            "region_id":136251273,
             "venue_id":152430979
         }
     ],
     "wof:id":152430979,
-    "wof:lastmodified":1449047243,
+    "wof:lastmodified":1453935056,
     "wof:name":"Restaurant Etoile DE Wong Inc",
     "wof:parent_id":85875717,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.510193,45.537758,-73.510193,45.537758],
+  "bbox": [
+    -73.510193,
+    45.537758,
+    -73.510193,
+    45.537758
+],
   "geometry": {"coordinates":[-73.510193,45.537758],"type":"Point"}
 }

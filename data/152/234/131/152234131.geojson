@@ -2,13 +2,14 @@
   "id": 152234131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.538673,45.612267,-73.538673,45.612267",
     "geom:latitude":45.612267,
     "geom:longitude":-73.538673,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Anjou",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e95114fc183f857cc9ff96cedaaaa66d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152234131
         }
     ],
     "wof:id":152234131,
-    "wof:lastmodified":1449048666,
+    "wof:lastmodified":1453936141,
     "wof:name":"DE Fil En Aiguille",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.538673,45.612267,-73.538673,45.612267],
+  "bbox": [
+    -73.538673,
+    45.612267,
+    -73.538673,
+    45.612267
+],
   "geometry": {"coordinates":[-73.538673,45.612267],"type":"Point"}
 }

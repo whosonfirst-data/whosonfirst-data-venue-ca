@@ -2,13 +2,14 @@
   "id": 186491725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.413185,48.642307,-123.413185,48.642307",
     "geom:latitude":48.642307,
     "geom:longitude":-123.413185,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sidney",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102555149,
+        85682117,
+        102191575,
         85633041,
-        101740881,
-        85682117
+        101740883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,18 @@
     "wof:geomhash":"d4bb2f30c5c9d4f7a312980df429f2cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555149,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740881,
-            "neighbourhood_id":-1,
+            "locality_id":101740883,
             "region_id":85682117,
             "venue_id":186491725
         }
     ],
     "wof:id":186491725,
-    "wof:lastmodified":1449050191,
+    "wof:lastmodified":1453936472,
     "wof:name":"Mei",
-    "wof:parent_id":-1,
+    "wof:parent_id":102555149,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +60,11 @@
         "sprinkler"
     ]
 },
-  "bbox": [-123.413185,48.642307,-123.413185,48.642307],
+  "bbox": [
+    -123.413185,
+    48.642307,
+    -123.413185,
+    48.642307
+],
   "geometry": {"coordinates":[-123.413185,48.642307],"type":"Point"}
 }

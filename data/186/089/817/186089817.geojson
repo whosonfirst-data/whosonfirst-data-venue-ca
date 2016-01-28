@@ -2,13 +2,14 @@
   "id": 186089817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.57962,45.628654,-73.57962,45.628654",
     "geom:latitude":45.628654,
     "geom:longitude":-73.57962,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8250 Av Marco-Polo",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784925,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"e23d3edbced13125e95964bc85e07100",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186089817
         }
     ],
     "wof:id":186089817,
-    "wof:lastmodified":1449050950,
+    "wof:lastmodified":1453936570,
     "wof:name":"Bonneau Manufacturier Inc",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "crane"
     ]
 },
-  "bbox": [-73.57962,45.628654,-73.57962,45.628654],
-  "geometry": {"coordinates":[-73.57962,45.628654],"type":"Point"}
+  "bbox": [
+    -73.57962,
+    45.628654,
+    -73.57962,
+    45.628654
+],
+  "geometry": {"coordinates":[-73.57962000000001,45.628654],"type":"Point"}
 }

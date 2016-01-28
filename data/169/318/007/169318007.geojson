@@ -2,13 +2,14 @@
   "id": 169318007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.438354,43.805225,-79.438354,43.805225",
     "geom:latitude":43.805225,
     "geom:longitude":-79.438354,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"441 Clarke Ave W",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895131,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"79ed34fab2612de9160417366b4a5742",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895131,
+            "region_id":85682057,
+            "venue_id":169318007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895131,
             "region_id":85682057,
             "venue_id":169318007
         }
     ],
     "wof:id":169318007,
-    "wof:lastmodified":1449033413,
+    "wof:lastmodified":1453929516,
     "wof:name":"Shoppers Drug Mart",
     "wof:parent_id":85895131,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.438354,43.805225,-79.438354,43.805225],
+  "bbox": [
+    -79.438354,
+    43.805225,
+    -79.438354,
+    43.805225
+],
   "geometry": {"coordinates":[-79.438354,43.805225],"type":"Point"}
 }

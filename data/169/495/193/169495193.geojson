@@ -2,13 +2,14 @@
   "id": 169495193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.266724,46.861713,-71.266724,46.861713",
     "geom:latitude":46.861713,
     "geom:longitude":-71.266724,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7860 Boul Henri-Bourassa",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3aed300981d3fb12aa0ba81e07942424",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169495193
         }
     ],
     "wof:id":169495193,
-    "wof:lastmodified":1449034125,
+    "wof:lastmodified":1453930314,
     "wof:name":"Atelier Du Fleuriste Dumont",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.266724,46.861713,-71.266724,46.861713],
+  "bbox": [
+    -71.266724,
+    46.861713,
+    -71.266724,
+    46.861713
+],
   "geometry": {"coordinates":[-71.266724,46.861713],"type":"Point"}
 }

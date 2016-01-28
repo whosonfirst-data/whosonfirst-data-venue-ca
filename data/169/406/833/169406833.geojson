@@ -2,13 +2,14 @@
   "id": 169406833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.432465,43.436687,-80.432465,43.436687",
     "geom:latitude":43.436687,
     "geom:longitude":-80.432465,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Burgetz Ave",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864465,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"0a93fa1d995546622d7821ca006f3229",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864465,
+            "region_id":85682057,
+            "venue_id":169406833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864465,
             "region_id":85682057,
             "venue_id":169406833
         }
     ],
     "wof:id":169406833,
-    "wof:lastmodified":1449034454,
+    "wof:lastmodified":1453930647,
     "wof:name":"St Patrick School",
     "wof:parent_id":85864465,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.432465,43.436687,-80.432465,43.436687],
-  "geometry": {"coordinates":[-80.432465,43.436687],"type":"Point"}
+  "bbox": [
+    -80.432465,
+    43.436687,
+    -80.432465,
+    43.436687
+],
+  "geometry": {"coordinates":[-80.43246499999999,43.436687],"type":"Point"}
 }

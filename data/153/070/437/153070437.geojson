@@ -2,13 +2,14 @@
   "id": 153070437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.679771,44.331772,-79.679771,44.331772",
     "geom:latitude":44.331772,
     "geom:longitude":-79.679771,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -26,23 +27,43 @@
         "trade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mADMdWJu5mCOqbVADpxVf_44.331772_-79.679771@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"cec4786e82d91cf679d9d7375d7514fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":153070437
+        }
+    ],
     "wof:id":153070437,
-    "wof:lastmodified":1449040558,
+    "wof:lastmodified":1453932498,
     "wof:name":"Northern Ontario Welding Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.679771,44.331772,-79.679771,44.331772],
+  "bbox": [
+    -79.679771,
+    44.331772,
+    -79.679771,
+    44.331772
+],
   "geometry": {"coordinates":[-79.679771,44.331772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152526189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.655029,45.552464,-73.655029,45.552464",
     "geom:latitude":45.552464,
     "geom:longitude":-73.655029,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"634 Rue Sauve E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897505,
+        102191575,
         85633041,
-        85897505
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4c26ad483ba98f2ecad410ec88d3cfd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897505,
+            "region_id":136251273,
             "venue_id":152526189
         }
     ],
     "wof:id":152526189,
-    "wof:lastmodified":1449045722,
+    "wof:lastmodified":1453933916,
     "wof:name":"Boite A Bulle",
     "wof:parent_id":85897505,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.655029,45.552464,-73.655029,45.552464],
+  "bbox": [
+    -73.655029,
+    45.552464,
+    -73.655029,
+    45.552464
+],
   "geometry": {"coordinates":[-73.655029,45.552464],"type":"Point"}
 }

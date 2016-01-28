@@ -2,13 +2,14 @@
   "id": 169323421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.370117,42.972046,-82.370117,42.972046",
     "geom:latitude":42.972046,
     "geom:longitude":-82.370117,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"140 Lansdowne Ave N",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875565,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c24d2c73ade999cd8140ec3eee2f857f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875565,
+            "region_id":85682057,
+            "venue_id":169323421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875565,
             "region_id":85682057,
             "venue_id":169323421
         }
     ],
     "wof:id":169323421,
-    "wof:lastmodified":1449032960,
+    "wof:lastmodified":1453929095,
     "wof:name":"St James the Apostle Anglican",
     "wof:parent_id":85875565,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.370117,42.972046,-82.370117,42.972046],
-  "geometry": {"coordinates":[-82.370117,42.972046],"type":"Point"}
+  "bbox": [
+    -82.370117,
+    42.972046,
+    -82.370117,
+    42.972046
+],
+  "geometry": {"coordinates":[-82.37011699999999,42.972046],"type":"Point"}
 }

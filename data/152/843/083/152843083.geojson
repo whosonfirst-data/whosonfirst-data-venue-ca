@@ -2,13 +2,14 @@
   "id": 152843083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.222,46.810757,-71.222,46.810757",
     "geom:latitude":46.810757,
     "geom:longitude":-71.222,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"725 Rue Sainte-Claire",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866503,
+        102191575,
         85633041,
-        85866503
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3829ced4b4c65230f3a56429d19c92d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866503,
+            "region_id":136251273,
             "venue_id":152843083
         }
     ],
     "wof:id":152843083,
-    "wof:lastmodified":1449044712,
+    "wof:lastmodified":1453933143,
     "wof:name":"Epicerie Ste-Claire Enr",
     "wof:parent_id":85866503,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.222,46.810757,-71.222,46.810757],
-  "geometry": {"coordinates":[-71.222,46.810757],"type":"Point"}
+  "bbox": [
+    -71.222,
+    46.810757,
+    -71.222,
+    46.810757
+],
+  "geometry": {"coordinates":[-71.22199999999999,46.810757],"type":"Point"}
 }

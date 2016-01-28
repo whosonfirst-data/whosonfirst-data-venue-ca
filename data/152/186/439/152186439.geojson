@@ -2,13 +2,14 @@
   "id": 152186439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.27124,42.987511,-81.27124,42.987511",
     "geom:latitude":42.987511,
     "geom:longitude":-81.27124,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -27,23 +28,43 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874923,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05mi4yNiYxsVYqTSYu7M1N_42.987511_-81.271240@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b9d5e4fd0347d89f5fd7cf0ca868eb3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874923,
+            "region_id":85682057,
+            "venue_id":152186439
+        }
+    ],
     "wof:id":152186439,
-    "wof:lastmodified":1449047915,
+    "wof:lastmodified":1453935588,
     "wof:name":"Midway Carpet Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874923,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.27124,42.987511,-81.27124,42.987511],
-  "geometry": {"coordinates":[-81.27124,42.987511],"type":"Point"}
+  "bbox": [
+    -81.27124,
+    42.987511,
+    -81.27124,
+    42.987511
+],
+  "geometry": {"coordinates":[-81.27124000000001,42.987511],"type":"Point"}
 }

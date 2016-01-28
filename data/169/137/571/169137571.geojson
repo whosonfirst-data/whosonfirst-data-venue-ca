@@ -2,13 +2,14 @@
   "id": 169137571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.833504,45.472198,-73.833504,45.472198",
     "geom:latitude":45.472198,
     "geom:longitude":-73.833504,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3701 Boul Saint-Jean",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85897519,
+        102191575,
         85633041,
-        85897519
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5a2af3b8afbcd03e08ab195fe6ffdfc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85897519,
+            "region_id":136251273,
             "venue_id":169137571
         }
     ],
     "wof:id":169137571,
-    "wof:lastmodified":1449035506,
+    "wof:lastmodified":1453931742,
     "wof:name":"Norman S Kessner Avocats",
     "wof:parent_id":85897519,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.833504,45.472198,-73.833504,45.472198],
+  "bbox": [
+    -73.833504,
+    45.472198,
+    -73.833504,
+    45.472198
+],
   "geometry": {"coordinates":[-73.833504,45.472198],"type":"Point"}
 }

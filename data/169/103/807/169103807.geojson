@@ -2,13 +2,14 @@
   "id": 169103807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658463,45.502258,-73.658463,45.502258",
     "geom:latitude":45.502258,
     "geom:longitude":-73.658463,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8425 Av Mountain Sights",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895725,
+        102191575,
         85633041,
-        85895725
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ee24078ae42e2b35eee216b1faf80659",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
+            "region_id":136251273,
             "venue_id":169103807
         }
     ],
     "wof:id":169103807,
-    "wof:lastmodified":1449034743,
+    "wof:lastmodified":1453930956,
     "wof:name":"L & T Instruments Inc",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.658463,45.502258,-73.658463,45.502258],
+  "bbox": [
+    -73.658463,
+    45.502258,
+    -73.658463,
+    45.502258
+],
   "geometry": {"coordinates":[-73.658463,45.502258],"type":"Point"}
 }

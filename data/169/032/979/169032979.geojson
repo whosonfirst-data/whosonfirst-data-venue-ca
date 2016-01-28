@@ -2,13 +2,14 @@
   "id": 169032979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.254265,42.987217,-81.254265,42.987217",
     "geom:latitude":42.987217,
     "geom:longitude":-81.254265,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"106 Kent St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6A 1L1",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20pGq1qOIL7zfKuXzHCWxc_42.987217_-81.254265@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e14158432cb89898e04bb756b7f60e37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":169032979
+        }
+    ],
     "wof:id":169032979,
-    "wof:lastmodified":1449034302,
+    "wof:lastmodified":1453930474,
     "wof:name":"Islamic Call Society of London",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.254265,42.987217,-81.254265,42.987217],
+  "bbox": [
+    -81.254265,
+    42.987217,
+    -81.254265,
+    42.987217
+],
   "geometry": {"coordinates":[-81.254265,42.987217],"type":"Point"}
 }

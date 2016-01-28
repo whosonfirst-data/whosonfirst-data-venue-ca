@@ -2,13 +2,14 @@
   "id": 152699937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.743538,45.594654,-73.743538,45.594654",
     "geom:latitude":45.594654,
     "geom:longitude":-73.743538,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"910 Rue Bergar",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897565,
+        102191575,
         85633041,
-        85897565
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d8abcfa02505d25ec1b88b95ded987fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897565,
+            "region_id":136251273,
             "venue_id":152699937
         }
     ],
     "wof:id":152699937,
-    "wof:lastmodified":1449044936,
+    "wof:lastmodified":1453933322,
     "wof:name":"Aero-Chem Inc",
     "wof:parent_id":85897565,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.743538,45.594654,-73.743538,45.594654],
+  "bbox": [
+    -73.743538,
+    45.594654,
+    -73.743538,
+    45.594654
+],
   "geometry": {"coordinates":[-73.743538,45.594654],"type":"Point"}
 }

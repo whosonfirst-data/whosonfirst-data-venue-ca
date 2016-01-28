@@ -2,13 +2,14 @@
   "id": 152737971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.132675,43.828354,-79.132675,43.828354",
     "geom:latitude":43.828354,
     "geom:longitude":-79.132675,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"405 Woodsmere Cres",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895393,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"2b74e8df4ce98eff83a8fd769d2a9c82",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895393,
+            "region_id":85682057,
+            "venue_id":152737971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895393,
             "region_id":85682057,
             "venue_id":152737971
         }
     ],
     "wof:id":152737971,
-    "wof:lastmodified":1449045336,
+    "wof:lastmodified":1453933619,
     "wof:name":"School House Playcare",
     "wof:parent_id":85895393,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.132675,43.828354,-79.132675,43.828354],
-  "geometry": {"coordinates":[-79.132675,43.828354],"type":"Point"}
+  "bbox": [
+    -79.132675,
+    43.828354,
+    -79.132675,
+    43.828354
+],
+  "geometry": {"coordinates":[-79.13267500000001,43.828354],"type":"Point"}
 }

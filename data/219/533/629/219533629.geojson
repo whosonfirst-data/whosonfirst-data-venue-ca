@@ -2,13 +2,14 @@
   "id": 219533629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.734764,43.575695,-79.734764,43.575695",
     "geom:latitude":43.575695,
     "geom:longitude":-79.734764,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6082 Leeside Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[],
@@ -22,8 +23,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895103,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,16 +37,24 @@
     "wof:geomhash":"8ae61bfb200f1cde0b9ffb8dcc92b86b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895103,
+            "region_id":85682057,
+            "venue_id":219533629
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895103,
             "region_id":85682057,
             "venue_id":219533629
         }
     ],
     "wof:id":219533629,
-    "wof:lastmodified":1449070340,
+    "wof:lastmodified":1453937529,
     "wof:name":"Gavtt Precision Balances",
     "wof:parent_id":85895103,
     "wof:placetype":"venue",
@@ -52,6 +64,11 @@
         "scale"
     ]
 },
-  "bbox": [-79.734764,43.575695,-79.734764,43.575695],
+  "bbox": [
+    -79.734764,
+    43.575695,
+    -79.734764,
+    43.575695
+],
   "geometry": {"coordinates":[-79.734764,43.575695],"type":"Point"}
 }

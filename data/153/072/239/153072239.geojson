@@ -2,13 +2,14 @@
   "id": 153072239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.71183,43.394203,-79.71183,43.394203",
     "geom:latitude":43.394203,
     "geom:longitude":-79.71183,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"99 Bronte Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"61eb5c729d67b7bb9dc9b0ed6d037afb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":153072239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":153072239
         }
     ],
     "wof:id":153072239,
-    "wof:lastmodified":1449040598,
+    "wof:lastmodified":1453932530,
     "wof:name":"Balloon Express CO",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.71183,43.394203,-79.71183,43.394203],
-  "geometry": {"coordinates":[-79.71183,43.394203],"type":"Point"}
+  "bbox": [
+    -79.71183,
+    43.394203,
+    -79.71183,
+    43.394203
+],
+  "geometry": {"coordinates":[-79.71183000000001,43.394203],"type":"Point"}
 }

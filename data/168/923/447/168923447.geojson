@@ -2,13 +2,14 @@
   "id": 168923447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630257,45.540615,-73.630257,45.540615",
     "geom:latitude":45.540615,
     "geom:longitude":-73.630257,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"196 Rue Jarry E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"79dea4d538f3dd27bdf3056c2577e7e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":168923447
         }
     ],
     "wof:id":168923447,
-    "wof:lastmodified":1449028561,
+    "wof:lastmodified":1453928654,
     "wof:name":"Maxi Voyages",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.630257,45.540615,-73.630257,45.540615],
+  "bbox": [
+    -73.630257,
+    45.540615,
+    -73.630257,
+    45.540615
+],
   "geometry": {"coordinates":[-73.630257,45.540615],"type":"Point"}
 }

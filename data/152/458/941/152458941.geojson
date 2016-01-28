@@ -2,13 +2,14 @@
   "id": 152458941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.583366,45.525459,-73.583366,45.525459",
     "geom:latitude":45.525459,
     "geom:longitude":-73.583366,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4574 Rue Berri",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"aa80d54d1b6d6b3121d97caa2247702e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152458941
         }
     ],
     "wof:id":152458941,
-    "wof:lastmodified":1449047587,
+    "wof:lastmodified":1453935333,
     "wof:name":"Centre Vivre Mieux Sans Fumer",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.583366,45.525459,-73.583366,45.525459],
+  "bbox": [
+    -73.583366,
+    45.525459,
+    -73.583366,
+    45.525459
+],
   "geometry": {"coordinates":[-73.583366,45.525459],"type":"Point"}
 }

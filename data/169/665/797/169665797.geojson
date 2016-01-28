@@ -2,13 +2,14 @@
   "id": 169665797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.703339,45.461536,-75.703339,45.461536",
     "geom:latitude":45.461536,
     "geom:longitude":-75.703339,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"44 Rue Marengere",
     "sg:city":"Gatineau",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874503,
+        102191575,
         85633041,
-        101738041
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"c4632dcac8cdda3a642b9bd3722f0f3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169665797
         }
     ],
     "wof:id":169665797,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1453929825,
     "wof:name":"Aeropro",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-75.703339,45.461536,-75.703339,45.461536],
+  "bbox": [
+    -75.703339,
+    45.461536,
+    -75.703339,
+    45.461536
+],
   "geometry": {"coordinates":[-75.703339,45.461536],"type":"Point"}
 }

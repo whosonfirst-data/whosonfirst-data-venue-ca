@@ -2,13 +2,14 @@
   "id": 169393097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.601295,45.622704,-73.601295,45.622704",
     "geom:latitude":45.622704,
     "geom:longitude":-73.601295,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11770 5E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"cbc699a74522ce2127570cfaca2b365c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":169393097
         }
     ],
     "wof:id":169393097,
-    "wof:lastmodified":1449033731,
+    "wof:lastmodified":1453929857,
     "wof:name":"Centre D'Auto Picci Enr",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.601295,45.622704,-73.601295,45.622704],
-  "geometry": {"coordinates":[-73.601295,45.622704],"type":"Point"}
+  "bbox": [
+    -73.601295,
+    45.622704,
+    -73.601295,
+    45.622704
+],
+  "geometry": {"coordinates":[-73.60129499999999,45.622704],"type":"Point"}
 }

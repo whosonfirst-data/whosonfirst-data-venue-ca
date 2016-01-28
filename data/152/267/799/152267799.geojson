@@ -2,13 +2,14 @@
   "id": 152267799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.529694,43.842503,-79.529694,43.842503",
     "geom:latitude":43.842503,
     "geom:longitude":-79.529694,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"119 Broomlands Dr",
     "sg:city":"Maple",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c24ea561faf39afe1940b65bc76797a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":152267799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":152267799
         }
     ],
     "wof:id":152267799,
-    "wof:lastmodified":1449048504,
+    "wof:lastmodified":1453936029,
     "wof:name":"Kraus & Heiland",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.529694,43.842503,-79.529694,43.842503],
-  "geometry": {"coordinates":[-79.529694,43.842503],"type":"Point"}
+  "bbox": [
+    -79.529694,
+    43.842503,
+    -79.529694,
+    43.842503
+],
+  "geometry": {"coordinates":[-79.52969400000001,43.842503],"type":"Point"}
 }

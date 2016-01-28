@@ -2,13 +2,14 @@
   "id": 152661117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.627441,44.348427,-79.627441,44.348427",
     "geom:latitude":44.348427,
     "geom:longitude":-79.627441,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Innisfil",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864501,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WJAbE81ttvIpBAAr8jssy_44.348427_-79.627441@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"3a982c44ce8df256afe1247a35b9ef64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85864501,
+            "region_id":85682057,
+            "venue_id":152661117
+        }
+    ],
     "wof:id":152661117,
-    "wof:lastmodified":1449048426,
+    "wof:lastmodified":1453935972,
     "wof:name":"St Paul's Anglican Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864501,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.627441,44.348427,-79.627441,44.348427],
+  "bbox": [
+    -79.627441,
+    44.348427,
+    -79.627441,
+    44.348427
+],
   "geometry": {"coordinates":[-79.627441,44.348427],"type":"Point"}
 }

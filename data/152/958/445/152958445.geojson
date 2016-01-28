@@ -2,13 +2,14 @@
   "id": 152958445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.412292,43.798645,-79.412292,43.798645",
     "geom:latitude":43.798645,
     "geom:longitude":-79.412292,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"103 Nipigon Ave",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895535,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"e08c4c092bc1982031fdd22a6215191b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895535,
+            "region_id":85682057,
+            "venue_id":152958445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895535,
             "region_id":85682057,
             "venue_id":152958445
         }
     ],
     "wof:id":152958445,
-    "wof:lastmodified":1449047897,
+    "wof:lastmodified":1453935580,
     "wof:name":"Lori M Consulting",
     "wof:parent_id":85895535,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.412292,43.798645,-79.412292,43.798645],
-  "geometry": {"coordinates":[-79.412292,43.798645],"type":"Point"}
+  "bbox": [
+    -79.412292,
+    43.798645,
+    -79.412292,
+    43.798645
+],
+  "geometry": {"coordinates":[-79.41229199999999,43.798645],"type":"Point"}
 }

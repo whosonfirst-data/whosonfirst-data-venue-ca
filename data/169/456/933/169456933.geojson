@@ -2,13 +2,14 @@
   "id": 169456933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.575966,45.576313,-73.575966,45.576313",
     "geom:latitude":45.576313,
     "geom:longitude":-73.575966,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5300 Rue Thackeray",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874371,
+        102191575,
         85633041,
-        85874371
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c5a3cfef1ea012156e23285a12cc9d48",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
+            "region_id":136251273,
             "venue_id":169456933
         }
     ],
     "wof:id":169456933,
-    "wof:lastmodified":1449033663,
+    "wof:lastmodified":1453929790,
     "wof:name":"Gau-Bri Distribution Inc",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.575966,45.576313,-73.575966,45.576313],
-  "geometry": {"coordinates":[-73.575966,45.576313],"type":"Point"}
+  "bbox": [
+    -73.575966,
+    45.576313,
+    -73.575966,
+    45.576313
+],
+  "geometry": {"coordinates":[-73.57596599999999,45.576313],"type":"Point"}
 }

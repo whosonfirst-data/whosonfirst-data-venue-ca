@@ -2,13 +2,14 @@
   "id": 169531105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.055901,49.285851,-123.055901,49.285851",
     "geom:latitude":49.285851,
     "geom:longitude":-123.055901,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2425 Oxford St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -29,9 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865007,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -42,6 +44,7 @@
     "wof:geomhash":"87162bdc42861cd8f06f962f9dc2be38",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865007,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":169531105,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1453929590,
     "wof:name":"Kiwassa Neighbourhood House",
     "wof:parent_id":85865007,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.055901,49.285851,-123.055901,49.285851],
-  "geometry": {"coordinates":[-123.055901,49.285851],"type":"Point"}
+  "bbox": [
+    -123.055901,
+    49.285851,
+    -123.055901,
+    49.285851
+],
+  "geometry": {"coordinates":[-123.05590100000001,49.285851],"type":"Point"}
 }

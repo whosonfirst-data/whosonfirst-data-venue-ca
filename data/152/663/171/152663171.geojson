@@ -2,13 +2,14 @@
   "id": 152663171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.230194,42.970768,-81.230194,42.970768",
     "geom:latitude":42.970768,
     "geom:longitude":-81.230194,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"120 Weston St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "amusement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WmIUONY2oLE9GCzuOAg4O_42.970768_-81.230194@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"6fe289dcb2eba0558c0ed92d0bca1435",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":152663171
+        }
+    ],
     "wof:id":152663171,
-    "wof:lastmodified":1449047702,
+    "wof:lastmodified":1453935427,
     "wof:name":"Spikes Indoor Beach Volleball",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.230194,42.970768,-81.230194,42.970768],
+  "bbox": [
+    -81.230194,
+    42.970768,
+    -81.230194,
+    42.970768
+],
   "geometry": {"coordinates":[-81.230194,42.970768],"type":"Point"}
 }

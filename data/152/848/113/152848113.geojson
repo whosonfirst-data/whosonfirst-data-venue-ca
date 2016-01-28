@@ -2,13 +2,14 @@
   "id": 152848113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.250145,48.403042,-71.250145,48.403042",
     "geom:latitude":48.403042,
     "geom:longitude":-71.250145,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2600 Rue Saint-Hubert",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"763bb5db0621c93c420d2fe4d25bd00a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152848113
         }
     ],
     "wof:id":152848113,
-    "wof:lastmodified":1449044957,
+    "wof:lastmodified":1453933333,
     "wof:name":"Caisses Populaires Desjardins",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.250145,48.403042,-71.250145,48.403042],
+  "bbox": [
+    -71.250145,
+    48.403042,
+    -71.250145,
+    48.403042
+],
   "geometry": {"coordinates":[-71.250145,48.403042],"type":"Point"}
 }

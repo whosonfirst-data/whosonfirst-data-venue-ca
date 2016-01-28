@@ -2,13 +2,14 @@
   "id": 169515661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.727402,45.57782,-73.727402,45.57782",
     "geom:latitude":45.57782,
     "geom:longitude":-73.727402,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2027 Boul Industriel",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875067,
+        102191575,
         85633041,
-        85875067
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c6adbc7e2f3116ee0b1640c937867a3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
+            "region_id":136251273,
             "venue_id":169515661
         }
     ],
     "wof:id":169515661,
-    "wof:lastmodified":1449033458,
+    "wof:lastmodified":1453929573,
     "wof:name":"Van-Smith Marketing",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.727402,45.57782,-73.727402,45.57782],
+  "bbox": [
+    -73.727402,
+    45.57782,
+    -73.727402,
+    45.57782
+],
   "geometry": {"coordinates":[-73.727402,45.57782],"type":"Point"}
 }

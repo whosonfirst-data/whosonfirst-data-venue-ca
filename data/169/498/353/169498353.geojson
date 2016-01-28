@@ -2,13 +2,14 @@
   "id": 169498353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.431305,45.49028,-73.431305,45.49028",
     "geom:latitude":45.49028,
     "geom:longitude":-73.431305,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3949 Montee Saint-Hubert",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bf8e66d826a5434365f147e31b4c3b10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":169498353
         }
     ],
     "wof:id":169498353,
-    "wof:lastmodified":1449035159,
+    "wof:lastmodified":1453931375,
     "wof:name":"Sport Lem Ltee",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.431305,45.49028,-73.431305,45.49028],
-  "geometry": {"coordinates":[-73.431305,45.49028],"type":"Point"}
+  "bbox": [
+    -73.431305,
+    45.49028,
+    -73.431305,
+    45.49028
+],
+  "geometry": {"coordinates":[-73.43130499999999,45.49028],"type":"Point"}
 }

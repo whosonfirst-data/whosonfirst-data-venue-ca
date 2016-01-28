@@ -2,13 +2,14 @@
   "id": 152344805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.241119,43.874374,-79.241119,43.874374",
     "geom:latitude":43.874374,
     "geom:longitude":-79.241119,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"42 Wootten Way S",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895017,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ba6fd74af9e9c05a21458de4df074b1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895017,
+            "region_id":85682057,
+            "venue_id":152344805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895017,
             "region_id":85682057,
             "venue_id":152344805
         }
     ],
     "wof:id":152344805,
-    "wof:lastmodified":1449044529,
+    "wof:lastmodified":1453933003,
     "wof:name":"Command Electronics Ltd",
     "wof:parent_id":85895017,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.241119,43.874374,-79.241119,43.874374],
+  "bbox": [
+    -79.241119,
+    43.874374,
+    -79.241119,
+    43.874374
+],
   "geometry": {"coordinates":[-79.241119,43.874374],"type":"Point"}
 }

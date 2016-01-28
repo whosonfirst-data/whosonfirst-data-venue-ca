@@ -2,13 +2,14 @@
   "id": 185603961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.881828,43.898739,-78.881828,43.898739",
     "geom:latitude":43.898739,
     "geom:longitude":-78.881828,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"439 Madison Ave",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875157,
+        102191575,
         85633041,
-        85682057
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"64dae56cf19d209da1a31ea1ddb06ef9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875157,
+            "region_id":85682057,
+            "venue_id":185603961
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875157,
             "region_id":85682057,
             "venue_id":185603961
         }
     ],
     "wof:id":185603961,
-    "wof:lastmodified":1449007986,
+    "wof:lastmodified":1453927366,
     "wof:name":"Law Process Svc",
     "wof:parent_id":85875157,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "server"
     ]
 },
-  "bbox": [-78.881828,43.898739,-78.881828,43.898739],
+  "bbox": [
+    -78.881828,
+    43.898739,
+    -78.881828,
+    43.898739
+],
   "geometry": {"coordinates":[-78.881828,43.898739],"type":"Point"}
 }

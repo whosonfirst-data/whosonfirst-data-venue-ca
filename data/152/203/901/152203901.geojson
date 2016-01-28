@@ -2,13 +2,14 @@
   "id": 152203901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.237473,43.165565,-79.237473,43.165565",
     "geom:latitude":43.165565,
     "geom:longitude":-79.237473,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"61 Niagara St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"0adc6667f08dbc14f99d994cd03b8561",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":152203901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":152203901
         }
     ],
     "wof:id":152203901,
-    "wof:lastmodified":1449046367,
+    "wof:lastmodified":1453934398,
     "wof:name":"Caring Hair Salon",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.237473,43.165565,-79.237473,43.165565],
-  "geometry": {"coordinates":[-79.237473,43.165565],"type":"Point"}
+  "bbox": [
+    -79.237473,
+    43.165565,
+    -79.237473,
+    43.165565
+],
+  "geometry": {"coordinates":[-79.23747299999999,43.165565],"type":"Point"}
 }

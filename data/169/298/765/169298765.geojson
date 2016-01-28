@@ -2,13 +2,14 @@
   "id": 169298765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.557365,43.616638,-79.557365,43.616638",
     "geom:latitude":43.616638,
     "geom:longitude":-79.557365,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Etobicoke",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"f9eac12e751cda784a4dc7979c495138",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":169298765
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":169298765
         }
     ],
     "wof:id":169298765,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1453929701,
     "wof:name":"Human Resources Technologies",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.557365,43.616638,-79.557365,43.616638],
+  "bbox": [
+    -79.557365,
+    43.616638,
+    -79.557365,
+    43.616638
+],
   "geometry": {"coordinates":[-79.557365,43.616638],"type":"Point"}
 }

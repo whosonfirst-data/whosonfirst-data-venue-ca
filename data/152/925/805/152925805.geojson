@@ -2,13 +2,14 @@
   "id": 152925805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255356,43.579266,-80.255356,43.579266",
     "geom:latitude":43.579266,
     "geom:longitude":-80.255356,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"63 Algoma Dr",
     "sg:city":"Guelph",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875533,
-        85682057
+        102191575,
+        85633041,
+        101735927,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"32b89ed195180681aeec88bf639aa38e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735927,
+            "neighbourhood_id":85875533,
+            "region_id":85682057,
+            "venue_id":152925805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875533,
             "region_id":85682057,
             "venue_id":152925805
         }
     ],
     "wof:id":152925805,
-    "wof:lastmodified":1449044326,
+    "wof:lastmodified":1453932842,
     "wof:name":"Alpine Janitorial Svc",
     "wof:parent_id":85875533,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.255356,43.579266,-80.255356,43.579266],
-  "geometry": {"coordinates":[-80.255356,43.579266],"type":"Point"}
+  "bbox": [
+    -80.255356,
+    43.579266,
+    -80.255356,
+    43.579266
+],
+  "geometry": {"coordinates":[-80.25535600000001,43.579266],"type":"Point"}
 }

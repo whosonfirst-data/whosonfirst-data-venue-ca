@@ -2,13 +2,14 @@
   "id": 169253715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.019783,45.37764,-74.019783,45.37764",
     "geom:latitude":45.37764,
     "geom:longitude":-74.019783,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"430 Rue Chicoine",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895767,
+        102191575,
         85633041,
-        85895767
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"aa5a7e3a955636423cee68cded306930",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895767,
+            "region_id":136251273,
             "venue_id":169253715
         }
     ],
     "wof:id":169253715,
-    "wof:lastmodified":1449035550,
+    "wof:lastmodified":1453931792,
     "wof:name":"Legault Trudeau",
     "wof:parent_id":85895767,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.019783,45.37764,-74.019783,45.37764],
+  "bbox": [
+    -74.019783,
+    45.37764,
+    -74.019783,
+    45.37764
+],
   "geometry": {"coordinates":[-74.019783,45.37764],"type":"Point"}
 }

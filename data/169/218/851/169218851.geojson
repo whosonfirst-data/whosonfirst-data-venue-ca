@@ -2,13 +2,14 @@
   "id": 169218851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.447517,45.485409,-73.447517,45.485409",
     "geom:latitude":45.485409,
     "geom:longitude":-73.447517,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1471 Rue Bellevue",
     "sg:city":"Greenfield Park",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"350a0f745275962f79a1db662a720936",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":169218851
         }
     ],
     "wof:id":169218851,
-    "wof:lastmodified":1449034779,
+    "wof:lastmodified":1453931007,
     "wof:name":"Comptabilite Secretariat Yrl",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.447517,45.485409,-73.447517,45.485409],
+  "bbox": [
+    -73.447517,
+    45.485409,
+    -73.447517,
+    45.485409
+],
   "geometry": {"coordinates":[-73.447517,45.485409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169279327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.468292,45.4697,-73.468292,45.4697",
     "geom:latitude":45.4697,
     "geom:longitude":-73.468292,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6680 Boul Taschereau",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897507,
+        102191575,
         85633041,
-        85897507
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"8776abaa9bea23df8909e85d5efcd14f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897507,
+            "region_id":136251273,
             "venue_id":169279327
         }
     ],
     "wof:id":169279327,
-    "wof:lastmodified":1449034186,
+    "wof:lastmodified":1453930372,
     "wof:name":"Hotel Quality Inn & Suites",
     "wof:parent_id":85897507,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.468292,45.4697,-73.468292,45.4697],
-  "geometry": {"coordinates":[-73.468292,45.4697],"type":"Point"}
+  "bbox": [
+    -73.468292,
+    45.4697,
+    -73.468292,
+    45.4697
+],
+  "geometry": {"coordinates":[-73.46829200000001,45.4697],"type":"Point"}
 }

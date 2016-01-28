@@ -2,13 +2,14 @@
   "id": 168840181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.753304,45.545277,-73.753304,45.545277",
     "geom:latitude":45.545277,
     "geom:longitude":-73.753304,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1216 Boul Cure-Labelle",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"e68d536bc5afd62be9243b0df315f5dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":168840181
         }
     ],
     "wof:id":168840181,
-    "wof:lastmodified":1449028400,
+    "wof:lastmodified":1453928483,
     "wof:name":"Restaurant Chez Lien",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.753304,45.545277,-73.753304,45.545277],
+  "bbox": [
+    -73.753304,
+    45.545277,
+    -73.753304,
+    45.545277
+],
   "geometry": {"coordinates":[-73.753304,45.545277],"type":"Point"}
 }

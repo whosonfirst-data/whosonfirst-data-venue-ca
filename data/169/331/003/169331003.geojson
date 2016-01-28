@@ -2,13 +2,14 @@
   "id": 169331003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.552094,45.605076,-73.552094,45.605076",
     "geom:latitude":45.605076,
     "geom:longitude":-73.552094,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6680 Boul Joseph-Renaud",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"30d8a6405556671ce3596dfc6d516357",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":169331003
         }
     ],
     "wof:id":169331003,
-    "wof:lastmodified":1449034694,
+    "wof:lastmodified":1453930897,
     "wof:name":"Banque Royale",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.552094,45.605076,-73.552094,45.605076],
+  "bbox": [
+    -73.552094,
+    45.605076,
+    -73.552094,
+    45.605076
+],
   "geometry": {"coordinates":[-73.552094,45.605076],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169337401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.425392,43.816257,-79.425392,43.816257",
     "geom:latitude":43.816257,
     "geom:longitude":-79.425392,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Centre St",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895567,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"8c10547deab0c9939479701a22a421a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895567,
+            "region_id":85682057,
+            "venue_id":169337401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895567,
             "region_id":85682057,
             "venue_id":169337401
         }
     ],
     "wof:id":169337401,
-    "wof:lastmodified":1449034225,
+    "wof:lastmodified":1453930417,
     "wof:name":"Hospice Thornhill",
     "wof:parent_id":85895567,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.425392,43.816257,-79.425392,43.816257],
+  "bbox": [
+    -79.425392,
+    43.816257,
+    -79.425392,
+    43.816257
+],
   "geometry": {"coordinates":[-79.425392,43.816257],"type":"Point"}
 }

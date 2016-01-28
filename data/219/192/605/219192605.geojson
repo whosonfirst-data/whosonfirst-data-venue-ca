@@ -2,13 +2,14 @@
   "id": 219192605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.479973,44.193264,-79.479973,44.193264",
     "geom:latitude":44.193264,
     "geom:longitude":-79.479973,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"710 Lake Dr S",
     "sg:city":"Keswick",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895025,
         102191575,
         85633041,
-        85895025
+        101740741,
+        85682057,
+        101735969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101740741,
             "neighbourhood_id":85895025,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":219192605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735969,
+            "neighbourhood_id":85895025,
+            "region_id":85682057,
             "venue_id":219192605
         }
     ],
     "wof:id":219192605,
-    "wof:lastmodified":1449072899,
+    "wof:lastmodified":1453937885,
     "wof:name":"Active Roofing",
     "wof:parent_id":85895025,
     "wof:placetype":"venue",
@@ -61,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.479973,44.193264,-79.479973,44.193264],
+  "bbox": [
+    -79.479973,
+    44.193264,
+    -79.479973,
+    44.193264
+],
   "geometry": {"coordinates":[-79.479973,44.193264],"type":"Point"}
 }

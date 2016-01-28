@@ -2,13 +2,14 @@
   "id": 152431437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.233543,48.403938,-71.233543,48.403938",
     "geom:latitude":48.403938,
     "geom:longitude":-71.233543,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2425 Rue Cantin",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"d2faa92a202879fa3e50ea969ef95bec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152431437
         }
     ],
     "wof:id":152431437,
-    "wof:lastmodified":1449044927,
+    "wof:lastmodified":1453933314,
     "wof:name":"Garage Specialite Voitures",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.233543,48.403938,-71.233543,48.403938],
+  "bbox": [
+    -71.233543,
+    48.403938,
+    -71.233543,
+    48.403938
+],
   "geometry": {"coordinates":[-71.233543,48.403938],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152385375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.796768,43.354084,-79.796768,43.354084",
     "geom:latitude":43.354084,
     "geom:longitude":-79.796768,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895639,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5e1fd9c31883e8ca12d9ad7382f4fd52",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895639,
+            "region_id":85682057,
+            "venue_id":152385375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895639,
             "region_id":85682057,
             "venue_id":152385375
         }
     ],
     "wof:id":152385375,
-    "wof:lastmodified":1449047044,
+    "wof:lastmodified":1453934906,
     "wof:name":"Brodie, Dennis MD",
     "wof:parent_id":85895639,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.796768,43.354084,-79.796768,43.354084],
+  "bbox": [
+    -79.796768,
+    43.354084,
+    -79.796768,
+    43.354084
+],
   "geometry": {"coordinates":[-79.796768,43.354084],"type":"Point"}
 }

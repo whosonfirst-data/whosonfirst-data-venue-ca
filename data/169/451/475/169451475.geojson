@@ -2,13 +2,14 @@
   "id": 169451475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.670082,45.610996,-73.670082,45.610996",
     "geom:latitude":45.610996,
     "geom:longitude":-73.670082,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1222 Rue Saint-Nicolas",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875051,
+        102191575,
         85633041,
-        85875051
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f092b8037c53f37afcd4d71972958012",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875051,
+            "region_id":136251273,
             "venue_id":169451475
         }
     ],
     "wof:id":169451475,
-    "wof:lastmodified":1449034109,
+    "wof:lastmodified":1453930295,
     "wof:name":"Mottlab Inc",
     "wof:parent_id":85875051,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.670082,45.610996,-73.670082,45.610996],
-  "geometry": {"coordinates":[-73.670082,45.610996],"type":"Point"}
+  "bbox": [
+    -73.670082,
+    45.610996,
+    -73.670082,
+    45.610996
+],
+  "geometry": {"coordinates":[-73.67008199999999,45.610996],"type":"Point"}
 }

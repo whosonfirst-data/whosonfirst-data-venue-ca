@@ -2,13 +2,14 @@
   "id": 153029533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.60215,45.535591,-73.60215,45.535591",
     "geom:latitude":45.535591,
     "geom:longitude":-73.60215,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6420 Rue Saint-Hubert",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"102f631cc0135556a0ccf3a18b949bcc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":153029533
         }
     ],
     "wof:id":153029533,
-    "wof:lastmodified":1449040524,
+    "wof:lastmodified":1453932462,
     "wof:name":"Banque National Du Canada",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.60215,45.535591,-73.60215,45.535591],
-  "geometry": {"coordinates":[-73.60215,45.535591],"type":"Point"}
+  "bbox": [
+    -73.60215,
+    45.535591,
+    -73.60215,
+    45.535591
+],
+  "geometry": {"coordinates":[-73.60214999999999,45.535591],"type":"Point"}
 }

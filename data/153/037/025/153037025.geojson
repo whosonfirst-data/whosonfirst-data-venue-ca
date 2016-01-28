@@ -2,13 +2,14 @@
   "id": 153037025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.705154,45.581196,-73.705154,45.581196",
     "geom:latitude":45.581196,
     "geom:longitude":-73.705154,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2 Place Laval",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897577,
+        102191575,
         85633041,
-        85897577
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"d340815c9e5892a12d744db281e6819e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897577,
+            "region_id":136251273,
             "venue_id":153037025
         }
     ],
     "wof:id":153037025,
-    "wof:lastmodified":1449040824,
+    "wof:lastmodified":1453932730,
     "wof:name":"Alpha Vision Ml",
     "wof:parent_id":85897577,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.705154,45.581196,-73.705154,45.581196],
-  "geometry": {"coordinates":[-73.705154,45.581196],"type":"Point"}
+  "bbox": [
+    -73.705154,
+    45.581196,
+    -73.705154,
+    45.581196
+],
+  "geometry": {"coordinates":[-73.70515399999999,45.581196],"type":"Point"}
 }

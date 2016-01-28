@@ -2,13 +2,14 @@
   "id": 169130237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.885132,45.413116,-71.885132,45.413116",
     "geom:latitude":45.413116,
     "geom:longitude":-71.885132,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"350 Rue Terrill",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874189,
+        102191575,
         85633041,
-        85874189
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ee06d79f8955ca161a737084f0ccdcb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874189,
+            "region_id":136251273,
             "venue_id":169130237
         }
     ],
     "wof:id":169130237,
-    "wof:lastmodified":1449033824,
+    "wof:lastmodified":1453929979,
     "wof:name":"Tournoi International Bantam",
     "wof:parent_id":85874189,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.885132,45.413116,-71.885132,45.413116],
+  "bbox": [
+    -71.885132,
+    45.413116,
+    -71.885132,
+    45.413116
+],
   "geometry": {"coordinates":[-71.885132,45.413116],"type":"Point"}
 }

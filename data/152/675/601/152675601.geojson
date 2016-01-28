@@ -2,13 +2,14 @@
   "id": 152675601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.749535,43.369236,-79.749535,43.369236",
     "geom:latitude":43.369236,
     "geom:longitude":-79.749535,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5127 Cherryhill Cres # 406",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895641,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e39cc7b2ff0356363e1317b97f14cca0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895641,
+            "region_id":85682057,
+            "venue_id":152675601
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895641,
             "region_id":85682057,
             "venue_id":152675601
         }
     ],
     "wof:id":152675601,
-    "wof:lastmodified":1449046649,
+    "wof:lastmodified":1453934613,
     "wof:name":"Marshall Forbes & Assoc",
     "wof:parent_id":85895641,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.749535,43.369236,-79.749535,43.369236],
-  "geometry": {"coordinates":[-79.749535,43.369236],"type":"Point"}
+  "bbox": [
+    -79.749535,
+    43.369236,
+    -79.749535,
+    43.369236
+],
+  "geometry": {"coordinates":[-79.74953499999999,43.369236],"type":"Point"}
 }

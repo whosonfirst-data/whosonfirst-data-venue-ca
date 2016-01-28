@@ -2,13 +2,14 @@
   "id": 169493641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.48819,45.417595,-73.48819,45.417595",
     "geom:latitude":45.417595,
     "geom:longitude":-73.48819,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"LA Prairie",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875773,
+        102191575,
         85633041,
-        85875773
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c14e3acaa7864858c96ae862a01bc45a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875773,
+            "region_id":136251273,
             "venue_id":169493641
         }
     ],
     "wof:id":169493641,
-    "wof:lastmodified":1449033739,
+    "wof:lastmodified":1453929868,
     "wof:name":"L'Ordinatorium",
     "wof:parent_id":85875773,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.48819,45.417595,-73.48819,45.417595],
+  "bbox": [
+    -73.48819,
+    45.417595,
+    -73.48819,
+    45.417595
+],
   "geometry": {"coordinates":[-73.48819,45.417595],"type":"Point"}
 }

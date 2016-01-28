@@ -2,13 +2,14 @@
   "id": 153006191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.8424,43.379929,-79.8424,43.379929",
     "geom:latitude":43.379929,
     "geom:longitude":-79.8424,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3077 Guelph Line",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895169,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"21d180b40c58b3b5423c62b55ecc1f03",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895169,
+            "region_id":85682057,
+            "venue_id":153006191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895169,
             "region_id":85682057,
             "venue_id":153006191
         }
     ],
     "wof:id":153006191,
-    "wof:lastmodified":1449040722,
+    "wof:lastmodified":1453932645,
     "wof:name":"A Green Thumb Landscaping",
     "wof:parent_id":85895169,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.8424,43.379929,-79.8424,43.379929],
+  "bbox": [
+    -79.8424,
+    43.379929,
+    -79.8424,
+    43.379929
+],
   "geometry": {"coordinates":[-79.8424,43.379929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152383357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.439888,43.391209,-80.439888,43.391209",
     "geom:latitude":43.391209,
     "geom:longitude":-80.439888,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"883 Doon Village Rd",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874991,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"75442fd73ae1bbfb48f58c238db1790f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874991,
+            "region_id":85682057,
+            "venue_id":152383357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874991,
             "region_id":85682057,
             "venue_id":152383357
         }
     ],
     "wof:id":152383357,
-    "wof:lastmodified":1449046267,
+    "wof:lastmodified":1453934321,
     "wof:name":"Keller Electric",
     "wof:parent_id":85874991,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.439888,43.391209,-80.439888,43.391209],
+  "bbox": [
+    -80.439888,
+    43.391209,
+    -80.439888,
+    43.391209
+],
   "geometry": {"coordinates":[-80.439888,43.391209],"type":"Point"}
 }

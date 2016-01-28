@@ -2,13 +2,14 @@
   "id": 169394815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.660416,43.619259,-79.660416,43.619259",
     "geom:latitude":43.619259,
     "geom:longitude":-79.660416,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"200 Barondale Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"3e2d22b54b557f0467769a29dad30939",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":169394815
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":169394815
         }
     ],
     "wof:id":169394815,
-    "wof:lastmodified":1449033329,
+    "wof:lastmodified":1453929437,
     "wof:name":"Barondale Public School",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.660416,43.619259,-79.660416,43.619259],
+  "bbox": [
+    -79.660416,
+    43.619259,
+    -79.660416,
+    43.619259
+],
   "geometry": {"coordinates":[-79.660416,43.619259],"type":"Point"}
 }

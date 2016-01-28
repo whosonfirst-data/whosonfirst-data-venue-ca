@@ -2,13 +2,14 @@
   "id": 169285301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.570084,45.530151,-73.570084,45.530151",
     "geom:latitude":45.530151,
     "geom:longitude":-73.570084,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1665 Rue Rachel E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"b8e9c7fed78bdf5d095e18ae46f77725",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":169285301
         }
     ],
     "wof:id":169285301,
-    "wof:lastmodified":1449032782,
+    "wof:lastmodified":1453928897,
     "wof:name":"Jean-Luc Bouchard & Partenaire",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.570084,45.530151,-73.570084,45.530151],
-  "geometry": {"coordinates":[-73.570084,45.530151],"type":"Point"}
+  "bbox": [
+    -73.570084,
+    45.530151,
+    -73.570084,
+    45.530151
+],
+  "geometry": {"coordinates":[-73.57008399999999,45.530151],"type":"Point"}
 }

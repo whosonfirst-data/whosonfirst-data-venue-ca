@@ -2,13 +2,14 @@
   "id": 169426495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838806,45.521233,-73.838806,45.521233",
     "geom:latitude":45.521233,
     "geom:longitude":-73.838806,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1092 Rue Dion",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"992bc246bb308c6f47e67cc6eb0869cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":169426495
         }
     ],
     "wof:id":169426495,
-    "wof:lastmodified":1449033387,
+    "wof:lastmodified":1453929491,
     "wof:name":"Ben-Air & Fils Inc",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.838806,45.521233,-73.838806,45.521233],
-  "geometry": {"coordinates":[-73.838806,45.521233],"type":"Point"}
+  "bbox": [
+    -73.838806,
+    45.521233,
+    -73.838806,
+    45.521233
+],
+  "geometry": {"coordinates":[-73.83880600000001,45.521233],"type":"Point"}
 }

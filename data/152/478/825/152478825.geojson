@@ -2,13 +2,14 @@
   "id": 152478825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.242989,43.175102,-79.242989,43.175102",
     "geom:latitude":43.175102,
     "geom:longitude":-79.242989,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12 Dunlop Dr",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"5a995a6bebd7b78b802634e248ea2a16",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152478825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152478825
         }
     ],
     "wof:id":152478825,
-    "wof:lastmodified":1449044443,
+    "wof:lastmodified":1453932937,
     "wof:name":"Niagara Truck 'N' Stuff",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.242989,43.175102,-79.242989,43.175102],
-  "geometry": {"coordinates":[-79.242989,43.175102],"type":"Point"}
+  "bbox": [
+    -79.242989,
+    43.175102,
+    -79.242989,
+    43.175102
+],
+  "geometry": {"coordinates":[-79.24298899999999,43.175102],"type":"Point"}
 }

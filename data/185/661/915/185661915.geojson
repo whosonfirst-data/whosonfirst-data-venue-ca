@@ -2,13 +2,14 @@
   "id": 185661915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.881226,43.514214,-79.881226,43.514214",
     "geom:latitude":43.514214,
     "geom:longitude":-79.881226,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15 Commercial St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895267,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"133dd2928555585844de4c1aca5ef130",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895267,
+            "region_id":85682057,
+            "venue_id":185661915
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895267,
             "region_id":85682057,
             "venue_id":185661915
         }
     ],
     "wof:id":185661915,
-    "wof:lastmodified":1449008052,
+    "wof:lastmodified":1453927370,
     "wof:name":"Main Street Wash Works Inc",
     "wof:parent_id":85895267,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "washing"
     ]
 },
-  "bbox": [-79.881226,43.514214,-79.881226,43.514214],
+  "bbox": [
+    -79.881226,
+    43.514214,
+    -79.881226,
+    43.514214
+],
   "geometry": {"coordinates":[-79.881226,43.514214],"type":"Point"}
 }

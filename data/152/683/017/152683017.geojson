@@ -2,13 +2,14 @@
   "id": 152683017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.592186,43.545952,-79.592186,43.545952",
     "geom:latitude":43.545952,
     "geom:longitude":-79.592186,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"252 Lakeshore Rd W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895115,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"26faf4c17f3bc0143c9eef4a06e99ff8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":152683017
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":152683017
         }
     ],
     "wof:id":152683017,
-    "wof:lastmodified":1449046008,
+    "wof:lastmodified":1453934127,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.592186,43.545952,-79.592186,43.545952],
+  "bbox": [
+    -79.592186,
+    43.545952,
+    -79.592186,
+    43.545952
+],
   "geometry": {"coordinates":[-79.592186,43.545952],"type":"Point"}
 }

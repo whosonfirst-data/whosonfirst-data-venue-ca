@@ -2,13 +2,14 @@
   "id": 152367659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.455193,45.595272,-73.455193,45.595272",
     "geom:latitude":45.595272,
     "geom:longitude":-73.455193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Boucherville",
     "sg:classifiers":[
         {
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85895769,
+        102191575,
         85633041,
-        85895769
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"b619db8c21bbec9e5ab9bc7a0d93f826",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85895769,
+            "region_id":136251273,
             "venue_id":152367659
         }
     ],
     "wof:id":152367659,
-    "wof:lastmodified":1449047025,
+    "wof:lastmodified":1453934892,
     "wof:name":"Monnaie Unigrade Enr",
     "wof:parent_id":85895769,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.455193,45.595272,-73.455193,45.595272],
-  "geometry": {"coordinates":[-73.455193,45.595272],"type":"Point"}
+  "bbox": [
+    -73.455193,
+    45.595272,
+    -73.455193,
+    45.595272
+],
+  "geometry": {"coordinates":[-73.45519299999999,45.595272],"type":"Point"}
 }

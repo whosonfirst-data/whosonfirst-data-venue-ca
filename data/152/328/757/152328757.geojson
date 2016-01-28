@@ -2,13 +2,14 @@
   "id": 152328757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.552177,45.667686,-73.552177,45.667686",
     "geom:latitude":45.667686,
     "geom:longitude":-73.552177,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12502 Rue D'Alembert",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871105,
+        102191575,
         85633041,
-        85871105
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e487b035af367544e3bbf9994ef40706",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
+            "region_id":136251273,
             "venue_id":152328757
         }
     ],
     "wof:id":152328757,
-    "wof:lastmodified":1449047024,
+    "wof:lastmodified":1453934890,
     "wof:name":"Menage Super Net",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.552177,45.667686,-73.552177,45.667686],
+  "bbox": [
+    -73.552177,
+    45.667686,
+    -73.552177,
+    45.667686
+],
   "geometry": {"coordinates":[-73.552177,45.667686],"type":"Point"}
 }

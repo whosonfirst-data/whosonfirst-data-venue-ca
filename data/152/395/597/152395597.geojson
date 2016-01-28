@@ -2,13 +2,14 @@
   "id": 152395597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.607956,43.68605,-79.607956,43.68605",
     "geom:latitude":43.68605,
     "geom:longitude":-79.607956,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
+        102555091,
         85866433,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -39,6 +42,8 @@
     "wof:geomhash":"75d112f48cc5b47e3ff6a638b1e91bda",
     "wof:hierarchy":[
         {
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85866433,
@@ -47,14 +52,19 @@
         }
     ],
     "wof:id":152395597,
-    "wof:lastmodified":1449048242,
+    "wof:lastmodified":1453935825,
     "wof:name":"Kuhn Technology Marketing Ltd",
-    "wof:parent_id":85866433,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.607956,43.68605,-79.607956,43.68605],
+  "bbox": [
+    -79.607956,
+    43.68605,
+    -79.607956,
+    43.68605
+],
   "geometry": {"coordinates":[-79.607956,43.68605],"type":"Point"}
 }

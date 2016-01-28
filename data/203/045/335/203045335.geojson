@@ -2,13 +2,14 @@
   "id": 203045335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.441757,45.619987,-73.441757,45.619987",
     "geom:latitude":45.619987,
     "geom:longitude":-73.441757,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"137 Rue Jean-Poirier",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875735,
+        102191575,
         85633041,
-        101738135
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,16 @@
     "wof:geomhash":"774d81d047b7dc81c4453d941106271e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875735,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203045335
         }
     ],
     "wof:id":203045335,
-    "wof:lastmodified":1449026646,
+    "wof:lastmodified":1453927720,
     "wof:name":"Inforgraphie Richard Jean Inc",
     "wof:parent_id":85875735,
     "wof:placetype":"venue",
@@ -66,6 +69,11 @@
         "deck"
     ]
 },
-  "bbox": [-73.441757,45.619987,-73.441757,45.619987],
+  "bbox": [
+    -73.441757,
+    45.619987,
+    -73.441757,
+    45.619987
+],
   "geometry": {"coordinates":[-73.441757,45.619987],"type":"Point"}
 }

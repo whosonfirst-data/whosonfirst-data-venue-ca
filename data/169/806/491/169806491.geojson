@@ -2,13 +2,14 @@
   "id": 169806491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.545898,43.766636,-79.545898,43.766636",
     "geom:latitude":43.766636,
     "geom:longitude":-79.545898,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"North York",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895557,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"2ff82d0d6b84a5bf72226a63cc7c52d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":169806491
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":169806491
         }
     ],
     "wof:id":169806491,
-    "wof:lastmodified":1449032672,
+    "wof:lastmodified":1453928785,
     "wof:name":"Whitfield Auto Inc",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "oil"
     ]
 },
-  "bbox": [-79.545898,43.766636,-79.545898,43.766636],
-  "geometry": {"coordinates":[-79.545898,43.766636],"type":"Point"}
+  "bbox": [
+    -79.545898,
+    43.766636,
+    -79.545898,
+    43.766636
+],
+  "geometry": {"coordinates":[-79.54589799999999,43.766636],"type":"Point"}
 }

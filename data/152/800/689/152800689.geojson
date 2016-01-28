@@ -2,13 +2,14 @@
   "id": 152800689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.663574,43.646057,-79.663574,43.646057",
     "geom:latitude":43.646057,
     "geom:longitude":-79.663574,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6105 Kestrel Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"dd601acc88cfe0f83fa7d2b694966b11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":152800689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":152800689
         }
     ],
     "wof:id":152800689,
-    "wof:lastmodified":1449044669,
+    "wof:lastmodified":1453933113,
     "wof:name":"Heinman Machinery Ltd",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.663574,43.646057,-79.663574,43.646057],
+  "bbox": [
+    -79.663574,
+    43.646057,
+    -79.663574,
+    43.646057
+],
   "geometry": {"coordinates":[-79.663574,43.646057],"type":"Point"}
 }

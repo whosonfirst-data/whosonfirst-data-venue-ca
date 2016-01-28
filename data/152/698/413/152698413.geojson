@@ -2,13 +2,14 @@
   "id": 152698413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.736198,45.449455,-73.736198,45.449455",
     "geom:latitude":45.449455,
     "geom:longitude":-73.736198,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"550 Av Marshall",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        102554351,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,21 +43,29 @@
     "wof:geomhash":"7d336ca94708aff0ba0fadf065ca0c6a",
     "wof:hierarchy":[
         {
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":152698413
         }
     ],
     "wof:id":152698413,
-    "wof:lastmodified":1449048637,
+    "wof:lastmodified":1453936117,
     "wof:name":"F E Woodward & Sons Ltd",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.736198,45.449455,-73.736198,45.449455],
+  "bbox": [
+    -73.736198,
+    45.449455,
+    -73.736198,
+    45.449455
+],
   "geometry": {"coordinates":[-73.736198,45.449455],"type":"Point"}
 }

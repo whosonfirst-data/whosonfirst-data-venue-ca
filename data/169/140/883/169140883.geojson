@@ -2,13 +2,14 @@
   "id": 169140883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.604355,45.477966,-73.604355,45.477966",
     "geom:latitude":45.477966,
     "geom:longitude":-73.604355,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4914 Rue Sherbrooke O",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85897633,
+        102191575,
         85633041,
-        85897633
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"60d087f6339789b935691006ea0aab66",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897633,
+            "region_id":136251273,
             "venue_id":169140883
         }
     ],
     "wof:id":169140883,
-    "wof:lastmodified":1449033172,
+    "wof:lastmodified":1453929272,
     "wof:name":"Phantasmagoria Disques-Rubans",
     "wof:parent_id":85897633,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.604355,45.477966,-73.604355,45.477966],
+  "bbox": [
+    -73.604355,
+    45.477966,
+    -73.604355,
+    45.477966
+],
   "geometry": {"coordinates":[-73.604355,45.477966],"type":"Point"}
 }

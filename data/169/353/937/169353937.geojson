@@ -2,13 +2,14 @@
   "id": 169353937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.577774,46.414982,-72.577774,46.414982",
     "geom:latitude":46.414982,
     "geom:longitude":-72.577774,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1211 Rue Caron",
     "sg:city":"Saint-Louis-DE-France",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85785013,
+        102191575,
         85633041,
-        85785013
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"febc185c3f38a90cc442863cfa01ba84",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85785013,
+            "region_id":136251273,
             "venue_id":169353937
         }
     ],
     "wof:id":169353937,
-    "wof:lastmodified":1449033634,
+    "wof:lastmodified":1453929748,
     "wof:name":"Maconneries Dm Inc",
     "wof:parent_id":85785013,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.577774,46.414982,-72.577774,46.414982],
-  "geometry": {"coordinates":[-72.577774,46.414982],"type":"Point"}
+  "bbox": [
+    -72.577774,
+    46.414982,
+    -72.577774,
+    46.414982
+],
+  "geometry": {"coordinates":[-72.57777400000001,46.414982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152470649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.863228,45.481255,-73.863228,45.481255",
     "geom:latitude":45.481255,
     "geom:longitude":-73.863228,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15400 Boul DE Pierrefonds",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897599,
+        102191575,
         85633041,
-        85897599
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c01a22cb972931a4f19ab7ab0b67943f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897599,
+            "region_id":136251273,
             "venue_id":152470649
         }
     ],
     "wof:id":152470649,
-    "wof:lastmodified":1449045415,
+    "wof:lastmodified":1453933683,
     "wof:name":"Depanneur Bonisoir Pierrefonds",
     "wof:parent_id":85897599,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.863228,45.481255,-73.863228,45.481255],
-  "geometry": {"coordinates":[-73.863228,45.481255],"type":"Point"}
+  "bbox": [
+    -73.863228,
+    45.481255,
+    -73.863228,
+    45.481255
+],
+  "geometry": {"coordinates":[-73.86322800000001,45.481255],"type":"Point"}
 }

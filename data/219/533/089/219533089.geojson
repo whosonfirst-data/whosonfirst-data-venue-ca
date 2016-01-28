@@ -2,13 +2,14 @@
   "id": 219533089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.70414,43.409214,-79.70414,43.409214",
     "geom:latitude":43.409214,
     "geom:longitude":-79.70414,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"239 Third Line",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -31,8 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895373,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,24 @@
     "wof:geomhash":"eb47b1f27ddf5e16f277cc105dc7285f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":219533089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":219533089
         }
     ],
     "wof:id":219533089,
-    "wof:lastmodified":1449070336,
+    "wof:lastmodified":1453937529,
     "wof:name":"Vinyl Pro Pools",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -64,6 +76,11 @@
         "swimming"
     ]
 },
-  "bbox": [-79.70414,43.409214,-79.70414,43.409214],
+  "bbox": [
+    -79.70414,
+    43.409214,
+    -79.70414,
+    43.409214
+],
   "geometry": {"coordinates":[-79.70414,43.409214],"type":"Point"}
 }

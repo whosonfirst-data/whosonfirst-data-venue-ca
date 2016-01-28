@@ -2,13 +2,14 @@
   "id": 152205397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.626312,43.585083,-79.626312,43.585083",
     "geom:latitude":43.585083,
     "geom:longitude":-79.626312,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"45 Hanson Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895225,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5a0f8c5bc20aa5f2955b6c33c2d804df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":152205397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":152205397
         }
     ],
     "wof:id":152205397,
-    "wof:lastmodified":1449047090,
+    "wof:lastmodified":1453934950,
     "wof:name":"Clayton Masonry Contracting",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.626312,43.585083,-79.626312,43.585083],
+  "bbox": [
+    -79.626312,
+    43.585083,
+    -79.626312,
+    43.585083
+],
   "geometry": {"coordinates":[-79.626312,43.585083],"type":"Point"}
 }

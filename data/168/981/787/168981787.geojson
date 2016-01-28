@@ -2,13 +2,14 @@
   "id": 168981787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.473358,43.448921,-80.473358,43.448921",
     "geom:latitude":43.448921,
     "geom:longitude":-80.473358,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"169 Pandora Ave N",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875017,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"cf3b64c42a5648ece6fbed88bf63dfc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875017,
+            "region_id":85682057,
+            "venue_id":168981787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875017,
             "region_id":85682057,
             "venue_id":168981787
         }
     ],
     "wof:id":168981787,
-    "wof:lastmodified":1449028602,
+    "wof:lastmodified":1453928700,
     "wof:name":"Bio Aesthetics",
     "wof:parent_id":85875017,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.473358,43.448921,-80.473358,43.448921],
+  "bbox": [
+    -80.473358,
+    43.448921,
+    -80.473358,
+    43.448921
+],
   "geometry": {"coordinates":[-80.473358,43.448921],"type":"Point"}
 }

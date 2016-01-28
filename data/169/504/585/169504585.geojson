@@ -2,13 +2,14 @@
   "id": 169504585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.558487,43.421345,-80.558487,43.421345",
     "geom:latitude":43.421345,
     "geom:longitude":-80.558487,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1644 Highland Rd W",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874961,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"9f6bafd6f5e9baa561e3923c435d5fd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874961,
+            "region_id":85682057,
+            "venue_id":169504585
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874961,
             "region_id":85682057,
             "venue_id":169504585
         }
     ],
     "wof:id":169504585,
-    "wof:lastmodified":1449033271,
+    "wof:lastmodified":1453929381,
     "wof:name":"Don's Produce Inc",
     "wof:parent_id":85874961,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.558487,43.421345,-80.558487,43.421345],
+  "bbox": [
+    -80.558487,
+    43.421345,
+    -80.558487,
+    43.421345
+],
   "geometry": {"coordinates":[-80.558487,43.421345],"type":"Point"}
 }

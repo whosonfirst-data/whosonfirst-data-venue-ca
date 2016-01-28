@@ -2,13 +2,14 @@
   "id": 152601227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.963295,45.31411,-73.963295,45.31411",
     "geom:latitude":45.31411,
     "geom:longitude":-73.963295,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"475 Boul Edgar-Hebert",
     "sg:city":"Melocheville",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736823,
+        85895753,
+        102191575,
         85633041,
-        85895753
+        101736823,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c37dec9538909f4386f3d4c10ab2ca52",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736823,
             "neighbourhood_id":85895753,
+            "region_id":136251273,
             "venue_id":152601227
         }
     ],
     "wof:id":152601227,
-    "wof:lastmodified":1449046379,
+    "wof:lastmodified":1453934411,
     "wof:name":"Monuments Melocheville",
     "wof:parent_id":85895753,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.963295,45.31411,-73.963295,45.31411],
+  "bbox": [
+    -73.963295,
+    45.31411,
+    -73.963295,
+    45.31411
+],
   "geometry": {"coordinates":[-73.963295,45.31411],"type":"Point"}
 }

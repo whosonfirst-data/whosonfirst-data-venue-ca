@@ -2,13 +2,14 @@
   "id": 219452555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.652893,45.582317,-73.652893,45.582317",
     "geom:latitude":45.582317,
     "geom:longitude":-73.652893,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2901 Boul Gouin E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897499,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"afbab4fcdd2535744e180fa11e00ef3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897499,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219452555
         }
     ],
     "wof:id":219452555,
-    "wof:lastmodified":1449071223,
+    "wof:lastmodified":1453937654,
     "wof:name":"Centre Mariebourg Inc",
     "wof:parent_id":85897499,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.652893,45.582317,-73.652893,45.582317],
-  "geometry": {"coordinates":[-73.652893,45.582317],"type":"Point"}
+  "bbox": [
+    -73.652893,
+    45.582317,
+    -73.652893,
+    45.582317
+],
+  "geometry": {"coordinates":[-73.65289300000001,45.582317],"type":"Point"}
 }

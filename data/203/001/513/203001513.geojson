@@ -2,13 +2,14 @@
   "id": 203001513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.550934,45.523899,-73.550934,45.523899",
     "geom:latitude":45.523899,
     "geom:longitude":-73.550934,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1982 Rue Sainte-Catherine E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874353,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"5abb84be42c976b3fe5e1c9c3a00a351",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203001513
         }
     ],
     "wof:id":203001513,
-    "wof:lastmodified":1449025362,
+    "wof:lastmodified":1453927492,
     "wof:name":"Escompte Super D",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "importer"
     ]
 },
-  "bbox": [-73.550934,45.523899,-73.550934,45.523899],
+  "bbox": [
+    -73.550934,
+    45.523899,
+    -73.550934,
+    45.523899
+],
   "geometry": {"coordinates":[-73.550934,45.523899],"type":"Point"}
 }

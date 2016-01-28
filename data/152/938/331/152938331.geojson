@@ -2,13 +2,14 @@
   "id": 152938331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.733124,43.445576,-79.733124,43.445576",
     "geom:latitude":43.445576,
     "geom:longitude":-79.733124,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1550 Nottinghill Gate",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895273,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"6a6f85ffa3e40d857b2aee2c855fc9d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895273,
+            "region_id":85682057,
+            "venue_id":152938331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895273,
             "region_id":85682057,
             "venue_id":152938331
         }
     ],
     "wof:id":152938331,
-    "wof:lastmodified":1449047748,
+    "wof:lastmodified":1453935461,
     "wof:name":"St Ignatius of Loyola Scndry",
     "wof:parent_id":85895273,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.733124,43.445576,-79.733124,43.445576],
+  "bbox": [
+    -79.733124,
+    43.445576,
+    -79.733124,
+    43.445576
+],
   "geometry": {"coordinates":[-79.733124,43.445576],"type":"Point"}
 }

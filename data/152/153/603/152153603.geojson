@@ -2,13 +2,14 @@
   "id": 152153603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682022,43.52808,-79.682022,43.52808",
     "geom:latitude":43.52808,
     "geom:longitude":-79.682022,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2610 Dunwin Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"3e599754bf1b5f6b8b8690ddfccf37c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152153603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152153603
         }
     ],
     "wof:id":152153603,
-    "wof:lastmodified":1449047482,
+    "wof:lastmodified":1453935240,
     "wof:name":"Mondel Engineering Ltd",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.682022,43.52808,-79.682022,43.52808],
+  "bbox": [
+    -79.682022,
+    43.52808,
+    -79.682022,
+    43.52808
+],
   "geometry": {"coordinates":[-79.682022,43.52808],"type":"Point"}
 }

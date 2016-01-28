@@ -2,13 +2,14 @@
   "id": 152360221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.486534,45.760204,-73.486534,45.760204",
     "geom:latitude":45.760204,
     "geom:longitude":-73.486534,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"428 Rue Saint-Paul",
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"af22480460a36bd62d911c7efca5515f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":152360221
         }
     ],
     "wof:id":152360221,
-    "wof:lastmodified":1449047860,
+    "wof:lastmodified":1453935550,
     "wof:name":"Entreprises Daunais Inc",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.486534,45.760204,-73.486534,45.760204],
-  "geometry": {"coordinates":[-73.486534,45.760204],"type":"Point"}
+  "bbox": [
+    -73.486534,
+    45.760204,
+    -73.486534,
+    45.760204
+],
+  "geometry": {"coordinates":[-73.48653400000001,45.760204],"type":"Point"}
 }

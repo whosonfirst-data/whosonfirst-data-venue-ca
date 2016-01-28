@@ -2,13 +2,14 @@
   "id": 152133987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.65036,45.493683,-73.65036,45.493683",
     "geom:latitude":45.493683,
     "geom:longitude":-73.65036,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7301 Boul Decarie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736469,
+        85784817,
+        102191575,
         85633041,
-        85784817
+        101736469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"e13afb3913680d057b6c730f0ff2ce37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736469,
             "neighbourhood_id":85784817,
+            "region_id":136251273,
             "venue_id":152133987
         }
     ],
     "wof:id":152133987,
-    "wof:lastmodified":1449048122,
+    "wof:lastmodified":1453935738,
     "wof:name":"Kaba Ilco Corp",
     "wof:parent_id":85784817,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.65036,45.493683,-73.65036,45.493683],
-  "geometry": {"coordinates":[-73.65036,45.493683],"type":"Point"}
+  "bbox": [
+    -73.65036,
+    45.493683,
+    -73.65036,
+    45.493683
+],
+  "geometry": {"coordinates":[-73.65036000000001,45.493683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153008511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.752136,45.546745,-73.752136,45.546745",
     "geom:latitude":45.546745,
     "geom:longitude":-73.752136,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3825 Rue Lepine",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f4ca477e42402875fcd1bced757f5362",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":153008511
         }
     ],
     "wof:id":153008511,
-    "wof:lastmodified":1449040481,
+    "wof:lastmodified":1453932430,
     "wof:name":"Batiments Inovco Inc",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.752136,45.546745,-73.752136,45.546745],
-  "geometry": {"coordinates":[-73.752136,45.546745],"type":"Point"}
+  "bbox": [
+    -73.752136,
+    45.546745,
+    -73.752136,
+    45.546745
+],
+  "geometry": {"coordinates":[-73.75213599999999,45.546745],"type":"Point"}
 }

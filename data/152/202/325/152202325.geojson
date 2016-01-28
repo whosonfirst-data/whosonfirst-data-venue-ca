@@ -2,13 +2,14 @@
   "id": 152202325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.260818,43.877552,-79.260818,43.877552",
     "geom:latitude":43.877552,
     "geom:longitude":-79.260818,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"98 Main St N",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895435,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"9796a3f16902683e2345e3138d83c679",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895435,
+            "region_id":85682057,
+            "venue_id":152202325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895435,
             "region_id":85682057,
             "venue_id":152202325
         }
     ],
     "wof:id":152202325,
-    "wof:lastmodified":1449048319,
+    "wof:lastmodified":1453935885,
     "wof:name":"Whyte Total Personal Fitness",
     "wof:parent_id":85895435,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.260818,43.877552,-79.260818,43.877552],
+  "bbox": [
+    -79.260818,
+    43.877552,
+    -79.260818,
+    43.877552
+],
   "geometry": {"coordinates":[-79.260818,43.877552],"type":"Point"}
 }

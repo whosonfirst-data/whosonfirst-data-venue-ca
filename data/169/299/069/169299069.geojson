@@ -2,13 +2,14 @@
   "id": 169299069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.252892,45.274605,-73.252892,45.274605",
     "geom:latitude":45.274605,
     "geom:longitude":-73.252892,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"100 Rue Bernard",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"2487dd2d66b02c2883da7e44627cb9e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":169299069
         }
     ],
     "wof:id":169299069,
-    "wof:lastmodified":1449033529,
+    "wof:lastmodified":1453929639,
     "wof:name":"St-Jean-Sur-Rich Parc Joie",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.252892,45.274605,-73.252892,45.274605],
+  "bbox": [
+    -73.252892,
+    45.274605,
+    -73.252892,
+    45.274605
+],
   "geometry": {"coordinates":[-73.252892,45.274605],"type":"Point"}
 }

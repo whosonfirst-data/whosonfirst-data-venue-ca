@@ -2,13 +2,14 @@
   "id": 169171183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.747192,45.557148,-73.747192,45.557148",
     "geom:latitude":45.557148,
     "geom:longitude":-73.747192,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3232 Boul Saint-Martin O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897571,
+        102191575,
         85633041,
-        85897571
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"d22dd04dc4f0a5aac92d7208382aa425",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897571,
+            "region_id":136251273,
             "venue_id":169171183
         }
     ],
     "wof:id":169171183,
-    "wof:lastmodified":1449035982,
+    "wof:lastmodified":1453932244,
     "wof:name":"Liquidation D'Electronique",
     "wof:parent_id":85897571,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.747192,45.557148,-73.747192,45.557148],
+  "bbox": [
+    -73.747192,
+    45.557148,
+    -73.747192,
+    45.557148
+],
   "geometry": {"coordinates":[-73.747192,45.557148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152715471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.660141,45.53886,-73.660141,45.53886",
     "geom:latitude":45.53886,
     "geom:longitude":-73.660141,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"69ffc46eb01e7f62430aa5af47a94f9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152715471
         }
     ],
     "wof:id":152715471,
-    "wof:lastmodified":1449047987,
+    "wof:lastmodified":1453935642,
     "wof:name":"Dba Apparel Group",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.660141,45.53886,-73.660141,45.53886],
+  "bbox": [
+    -73.660141,
+    45.53886,
+    -73.660141,
+    45.53886
+],
   "geometry": {"coordinates":[-73.660141,45.53886],"type":"Point"}
 }

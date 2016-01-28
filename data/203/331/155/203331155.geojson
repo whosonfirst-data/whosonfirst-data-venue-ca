@@ -2,13 +2,14 @@
   "id": 203331155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.429596,44.072796,-79.429596,44.072796",
     "geom:latitude":44.072796,
     "geom:longitude":-79.429596,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"160 Pony Dr #10",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895005,
         102191575,
         85633041,
-        85895005
+        101736295,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736295,
             "neighbourhood_id":85895005,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":203331155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895005,
+            "region_id":85682057,
             "venue_id":203331155
         }
     ],
     "wof:id":203331155,
-    "wof:lastmodified":1449026094,
+    "wof:lastmodified":1453927617,
     "wof:name":"Tds Transmission Specialists",
     "wof:parent_id":85895005,
     "wof:placetype":"venue",
@@ -61,6 +72,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.429596,44.072796,-79.429596,44.072796],
+  "bbox": [
+    -79.429596,
+    44.072796,
+    -79.429596,
+    44.072796
+],
   "geometry": {"coordinates":[-79.429596,44.072796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152201787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.667519,43.448132,-79.667519,43.448132",
     "geom:latitude":43.448132,
     "geom:longitude":-79.667519,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"127 Trafalgar Rd #200",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895269,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"780205ec777f371419bec5e712c979a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895269,
+            "region_id":85682057,
+            "venue_id":152201787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895269,
             "region_id":85682057,
             "venue_id":152201787
         }
     ],
     "wof:id":152201787,
-    "wof:lastmodified":1449048297,
+    "wof:lastmodified":1453935867,
     "wof:name":"Oakville Naturopathic Clinic",
     "wof:parent_id":85895269,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.667519,43.448132,-79.667519,43.448132],
+  "bbox": [
+    -79.667519,
+    43.448132,
+    -79.667519,
+    43.448132
+],
   "geometry": {"coordinates":[-79.667519,43.448132],"type":"Point"}
 }

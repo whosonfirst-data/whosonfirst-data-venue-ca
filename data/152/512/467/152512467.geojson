@@ -2,13 +2,14 @@
   "id": 152512467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572739,45.527393,-73.572739,45.527393",
     "geom:latitude":45.527393,
     "geom:longitude":-73.572739,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1287 Rue Rachel E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7dc93d7be0fac1de3e49a1653c29d72c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":152512467
         }
     ],
     "wof:id":152512467,
-    "wof:lastmodified":1449047662,
+    "wof:lastmodified":1453935392,
     "wof:name":"Maison Du Parc",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572739,45.527393,-73.572739,45.527393],
+  "bbox": [
+    -73.572739,
+    45.527393,
+    -73.572739,
+    45.527393
+],
   "geometry": {"coordinates":[-73.572739,45.527393],"type":"Point"}
 }

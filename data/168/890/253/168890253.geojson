@@ -2,13 +2,14 @@
   "id": 168890253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250893,42.982632,-81.250893,42.982632",
     "geom:latitude":42.982632,
     "geom:longitude":-81.250893,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Covent Market Pl",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "beauty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rPOcg4ntUPxSqnkZiT8Yw_42.982632_-81.250893@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5b3e28c8fd3988bfad2ce8315c4a7edf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":168890253
+        }
+    ],
     "wof:id":168890253,
-    "wof:lastmodified":1449027951,
+    "wof:lastmodified":1453927986,
     "wof:name":"Chris Townsend Hairstyling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.250893,42.982632,-81.250893,42.982632],
+  "bbox": [
+    -81.250893,
+    42.982632,
+    -81.250893,
+    42.982632
+],
   "geometry": {"coordinates":[-81.250893,42.982632],"type":"Point"}
 }

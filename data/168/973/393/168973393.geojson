@@ -2,13 +2,14 @@
   "id": 168973393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.780777,43.367996,-79.780777,43.367996",
     "geom:latitude":43.367996,
     "geom:longitude":-79.780777,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895545,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"80dd20713b1a338cf95daff0253173cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895545,
+            "region_id":85682057,
+            "venue_id":168973393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895545,
             "region_id":85682057,
             "venue_id":168973393
         }
     ],
     "wof:id":168973393,
-    "wof:lastmodified":1449028243,
+    "wof:lastmodified":1453928306,
     "wof:name":"Arcopak Machinery",
     "wof:parent_id":85895545,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.780777,43.367996,-79.780777,43.367996],
+  "bbox": [
+    -79.780777,
+    43.367996,
+    -79.780777,
+    43.367996
+],
   "geometry": {"coordinates":[-79.780777,43.367996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152171743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.466354,45.475475,-73.466354,45.475475",
     "geom:latitude":45.475475,
     "geom:longitude":-73.466354,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6135 Boul Taschereau",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875767,
+        102191575,
         85633041,
-        85875767
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ee2dafaf070b661e9eb755c10b7fefa4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875767,
+            "region_id":136251273,
             "venue_id":152171743
         }
     ],
     "wof:id":152171743,
-    "wof:lastmodified":1449048916,
+    "wof:lastmodified":1453936361,
     "wof:name":"Docteur Du-Pare Brise",
     "wof:parent_id":85875767,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.466354,45.475475,-73.466354,45.475475],
+  "bbox": [
+    -73.466354,
+    45.475475,
+    -73.466354,
+    45.475475
+],
   "geometry": {"coordinates":[-73.466354,45.475475],"type":"Point"}
 }

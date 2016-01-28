@@ -2,13 +2,14 @@
   "id": 169370113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.634209,45.606243,-73.634209,45.606243",
     "geom:latitude":45.606243,
     "geom:longitude":-73.634209,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5067 Rue Perras",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784809,
+        102191575,
         85633041,
-        85784809
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e3e68b1fbd9b4d559a633fa4aaac681f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
+            "region_id":136251273,
             "venue_id":169370113
         }
     ],
     "wof:id":169370113,
-    "wof:lastmodified":1449034495,
+    "wof:lastmodified":1453930681,
     "wof:name":"R Cortecans & Fils Enr",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.634209,45.606243,-73.634209,45.606243],
+  "bbox": [
+    -73.634209,
+    45.606243,
+    -73.634209,
+    45.606243
+],
   "geometry": {"coordinates":[-73.634209,45.606243],"type":"Point"}
 }

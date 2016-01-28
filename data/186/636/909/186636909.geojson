@@ -2,13 +2,14 @@
   "id": 186636909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.507759,46.359955,-72.507759,46.359955",
     "geom:latitude":46.359955,
     "geom:longitude":-72.507759,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"345 Rue Notre-Dame Est",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874113,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"abdfd5229b156233d52c253b761d2ebd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874113,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186636909
         }
     ],
     "wof:id":186636909,
-    "wof:lastmodified":1449051431,
+    "wof:lastmodified":1453936659,
     "wof:name":"Residence St-Hilaire",
     "wof:parent_id":85874113,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-72.507759,46.359955,-72.507759,46.359955],
-  "geometry": {"coordinates":[-72.507759,46.359955],"type":"Point"}
+  "bbox": [
+    -72.507759,
+    46.359955,
+    -72.507759,
+    46.359955
+],
+  "geometry": {"coordinates":[-72.50775899999999,46.359955],"type":"Point"}
 }

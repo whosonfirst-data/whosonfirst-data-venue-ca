@@ -2,13 +2,14 @@
   "id": 186513747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.539825,45.584911,-73.539825,45.584911",
     "geom:latitude":45.584911,
     "geom:longitude":-73.539825,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3215 Rue Arcand",
     "sg:city":"Montreal",
     "sg:classifiers":[],
@@ -23,8 +24,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874169,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,16 +37,16 @@
     "wof:geomhash":"cac87cca3cc5d90dc36283095784e09d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186513747
         }
     ],
     "wof:id":186513747,
-    "wof:lastmodified":1449052139,
+    "wof:lastmodified":1453936788,
     "wof:name":"Fax-Affaires Inc",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -54,6 +57,11 @@
         "facsimile"
     ]
 },
-  "bbox": [-73.539825,45.584911,-73.539825,45.584911],
-  "geometry": {"coordinates":[-73.539825,45.584911],"type":"Point"}
+  "bbox": [
+    -73.539825,
+    45.584911,
+    -73.539825,
+    45.584911
+],
+  "geometry": {"coordinates":[-73.53982499999999,45.584911],"type":"Point"}
 }

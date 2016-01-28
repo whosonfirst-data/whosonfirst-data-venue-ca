@@ -2,13 +2,14 @@
   "id": 169232393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.617416,45.622742,-73.617416,45.622742",
     "geom:latitude":45.622742,
     "geom:longitude":-73.617416,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12250 Boul Albert-Hudon",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ed48527109d128924eda6d7bf2377da8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":169232393
         }
     ],
     "wof:id":169232393,
-    "wof:lastmodified":1449033753,
+    "wof:lastmodified":1453929887,
     "wof:name":"Aliments Valli Inc",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.617416,45.622742,-73.617416,45.622742],
-  "geometry": {"coordinates":[-73.617416,45.622742],"type":"Point"}
+  "bbox": [
+    -73.617416,
+    45.622742,
+    -73.617416,
+    45.622742
+],
+  "geometry": {"coordinates":[-73.61741600000001,45.622742],"type":"Point"}
 }

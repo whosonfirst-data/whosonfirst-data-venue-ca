@@ -2,13 +2,14 @@
   "id": 153038661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.052979,43.854946,-79.052979,43.854946",
     "geom:latitude":43.854946,
     "geom:longitude":-79.052979,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"545 Kingston Rd W",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895697,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"48b84e1723d0169ef78984fd10764694",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895697,
+            "region_id":85682057,
+            "venue_id":153038661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895697,
             "region_id":85682057,
             "venue_id":153038661
         }
     ],
     "wof:id":153038661,
-    "wof:lastmodified":1449040671,
+    "wof:lastmodified":1453932595,
     "wof:name":"Montessori School Blaisdale",
     "wof:parent_id":85895697,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.052979,43.854946,-79.052979,43.854946],
-  "geometry": {"coordinates":[-79.052979,43.854946],"type":"Point"}
+  "bbox": [
+    -79.052979,
+    43.854946,
+    -79.052979,
+    43.854946
+],
+  "geometry": {"coordinates":[-79.05297899999999,43.854946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202922203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.636925,45.693333,-73.636925,45.693333",
     "geom:latitude":45.693333,
     "geom:longitude":-73.636925,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"889 Rue Saint-Francois-Xavier",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895715,
+        102191575,
         85633041,
-        101737337
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"59147ec4cdd4a326bc68ba3623bc3660",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85895715,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202922203
         }
     ],
     "wof:id":202922203,
-    "wof:lastmodified":1449060345,
+    "wof:lastmodified":1453937024,
     "wof:name":"Cafe DE LA Banque",
     "wof:parent_id":85895715,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.636925,45.693333,-73.636925,45.693333],
-  "geometry": {"coordinates":[-73.636925,45.693333],"type":"Point"}
+  "bbox": [
+    -73.636925,
+    45.693333,
+    -73.636925,
+    45.693333
+],
+  "geometry": {"coordinates":[-73.63692500000001,45.693333],"type":"Point"}
 }

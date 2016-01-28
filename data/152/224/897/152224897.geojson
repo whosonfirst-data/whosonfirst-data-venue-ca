@@ -2,13 +2,14 @@
   "id": 152224897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.153923,49.268333,-123.153923,49.268333",
     "geom:latitude":49.268333,
     "geom:longitude":-123.153923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2151 4th Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865011,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"767fc29303db7fb96d86e3c322cc2bf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865011,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":152224897,
-    "wof:lastmodified":1449047678,
+    "wof:lastmodified":1453935407,
     "wof:name":"Bed",
     "wof:parent_id":85865011,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.153923,49.268333,-123.153923,49.268333],
-  "geometry": {"coordinates":[-123.153923,49.268333],"type":"Point"}
+  "bbox": [
+    -123.153923,
+    49.268333,
+    -123.153923,
+    49.268333
+],
+  "geometry": {"coordinates":[-123.15392300000001,49.268333],"type":"Point"}
 }

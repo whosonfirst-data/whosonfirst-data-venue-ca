@@ -2,13 +2,14 @@
   "id": 152911615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.599571,45.551186,-73.599571,45.551186",
     "geom:latitude":45.551186,
     "geom:longitude":-73.599571,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2385 Rue Belanger",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"155b1c037ab92b86ba8180c489056168",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152911615
         }
     ],
     "wof:id":152911615,
-    "wof:lastmodified":1449048159,
+    "wof:lastmodified":1453935765,
     "wof:name":"Vitrerie Metro Glass Inc",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.599571,45.551186,-73.599571,45.551186],
+  "bbox": [
+    -73.599571,
+    45.551186,
+    -73.599571,
+    45.551186
+],
   "geometry": {"coordinates":[-73.599571,45.551186],"type":"Point"}
 }

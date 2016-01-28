@@ -2,13 +2,14 @@
   "id": 169389005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.485901,45.728283,-73.485901,45.728283",
     "geom:latitude":45.728283,
     "geom:longitude":-73.485901,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"35 Rue Archambault",
     "sg:city":"Charlemagne",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737739,
+        85784693,
+        102191575,
         85633041,
-        85784693
+        101737739,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"126bf5f744a6495beef2073bcb97d638",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737739,
             "neighbourhood_id":85784693,
+            "region_id":136251273,
             "venue_id":169389005
         }
     ],
     "wof:id":169389005,
-    "wof:lastmodified":1449035288,
+    "wof:lastmodified":1453931494,
     "wof:name":"Sablage Normand Grenier Enr",
     "wof:parent_id":85784693,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.485901,45.728283,-73.485901,45.728283],
+  "bbox": [
+    -73.485901,
+    45.728283,
+    -73.485901,
+    45.728283
+],
   "geometry": {"coordinates":[-73.485901,45.728283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169535623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.643631,45.497208,-73.643631,45.497208",
     "geom:latitude":45.497208,
     "geom:longitude":-73.643631,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6841 Av Victoria",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736469,
+        85784817,
+        102191575,
         85633041,
-        85784817
+        101736469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"68505a328ab50ae658a0aaf379e1244b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736469,
             "neighbourhood_id":85784817,
+            "region_id":136251273,
             "venue_id":169535623
         }
     ],
     "wof:id":169535623,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1453929399,
     "wof:name":"Aliment Tropical",
     "wof:parent_id":85784817,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.643631,45.497208,-73.643631,45.497208],
+  "bbox": [
+    -73.643631,
+    45.497208,
+    -73.643631,
+    45.497208
+],
   "geometry": {"coordinates":[-73.643631,45.497208],"type":"Point"}
 }

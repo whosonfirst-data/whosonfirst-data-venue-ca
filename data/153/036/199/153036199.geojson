@@ -2,13 +2,14 @@
   "id": 153036199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.634827,45.471207,-73.634827,45.471207",
     "geom:latitude":45.471207,
     "geom:longitude":-73.634827,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6240 Av Somerled",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871117,
+        102191575,
         85633041,
-        85871117
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"bbfa7a7f6f80e114f16bef4e7bfd9f3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871117,
+            "region_id":136251273,
             "venue_id":153036199
         }
     ],
     "wof:id":153036199,
-    "wof:lastmodified":1449040435,
+    "wof:lastmodified":1453932390,
     "wof:name":"Couche-Tard",
     "wof:parent_id":85871117,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.634827,45.471207,-73.634827,45.471207],
+  "bbox": [
+    -73.634827,
+    45.471207,
+    -73.634827,
+    45.471207
+],
   "geometry": {"coordinates":[-73.634827,45.471207],"type":"Point"}
 }

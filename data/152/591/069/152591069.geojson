@@ -2,13 +2,14 @@
   "id": 152591069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618477,45.529541,-73.618477,45.529541",
     "geom:latitude":45.529541,
     "geom:longitude":-73.618477,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6945 Av Du Parc",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"93596883f17d0a2964fb8e562d34826c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":152591069
         }
     ],
     "wof:id":152591069,
-    "wof:lastmodified":1449046777,
+    "wof:lastmodified":1453934703,
     "wof:name":"Plaza Provinciale Inc",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.618477,45.529541,-73.618477,45.529541],
+  "bbox": [
+    -73.618477,
+    45.529541,
+    -73.618477,
+    45.529541
+],
   "geometry": {"coordinates":[-73.618477,45.529541],"type":"Point"}
 }

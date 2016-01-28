@@ -2,13 +2,14 @@
   "id": 152282963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554535,45.507534,-73.554535,45.507534",
     "geom:latitude":45.507534,
     "geom:longitude":-73.554535,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"140 Rue Notre-Dame O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"842e1f3ee1f3fa6f7c3e0769d10ba367",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":152282963
         }
     ],
     "wof:id":152282963,
-    "wof:lastmodified":1449047190,
+    "wof:lastmodified":1453935021,
     "wof:name":"Restaurant Na Go Ya",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.554535,45.507534,-73.554535,45.507534],
+  "bbox": [
+    -73.554535,
+    45.507534,
+    -73.554535,
+    45.507534
+],
   "geometry": {"coordinates":[-73.554535,45.507534],"type":"Point"}
 }

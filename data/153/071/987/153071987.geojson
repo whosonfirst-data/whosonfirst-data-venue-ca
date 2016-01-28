@@ -2,13 +2,14 @@
   "id": 153071987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.491798,45.526611,-73.491798,45.526611",
     "geom:latitude":45.526611,
     "geom:longitude":-73.491798,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"479 Boul Sainte-Foy",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875727,
+        102191575,
         85633041,
-        85875727
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f9aaf99eb88bd8349e4126e42ffb7207",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875727,
+            "region_id":136251273,
             "venue_id":153071987
         }
     ],
     "wof:id":153071987,
-    "wof:lastmodified":1449040653,
+    "wof:lastmodified":1453932578,
     "wof:name":"Photo Charpentier",
     "wof:parent_id":85875727,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.491798,45.526611,-73.491798,45.526611],
+  "bbox": [
+    -73.491798,
+    45.526611,
+    -73.491798,
+    45.526611
+],
   "geometry": {"coordinates":[-73.491798,45.526611],"type":"Point"}
 }

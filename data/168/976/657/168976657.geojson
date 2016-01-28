@@ -2,13 +2,14 @@
   "id": 168976657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.271416,43.871536,-79.271416,43.871536",
     "geom:latitude":43.871536,
     "geom:longitude":-79.271416,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Arrowflight Dr",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895435,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"5511a4385be6a2692c9e94d85e5aa40d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895435,
+            "region_id":85682057,
+            "venue_id":168976657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895435,
             "region_id":85682057,
             "venue_id":168976657
         }
     ],
     "wof:id":168976657,
-    "wof:lastmodified":1449028085,
+    "wof:lastmodified":1453928136,
     "wof:name":"Maple Leaf Real Estate Inc",
     "wof:parent_id":85895435,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.271416,43.871536,-79.271416,43.871536],
+  "bbox": [
+    -79.271416,
+    43.871536,
+    -79.271416,
+    43.871536
+],
   "geometry": {"coordinates":[-79.271416,43.871536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152184859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.664986,44.362358,-79.664986,44.362358",
     "geom:latitude":44.362358,
     "geom:longitude":-79.664986,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"49 Herrell Ave",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "coating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875277,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05GIRX842dPQPBMZRgDjRF_44.362358_-79.664986@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f995cd8c5fd4cc9e49754cd08c5a40c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
+            "region_id":85682057,
+            "venue_id":152184859
+        }
+    ],
     "wof:id":152184859,
-    "wof:lastmodified":1449045089,
+    "wof:lastmodified":1453933427,
     "wof:name":"Everspec Surfaces",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.664986,44.362358,-79.664986,44.362358],
+  "bbox": [
+    -79.664986,
+    44.362358,
+    -79.664986,
+    44.362358
+],
   "geometry": {"coordinates":[-79.664986,44.362358],"type":"Point"}
 }

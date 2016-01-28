@@ -2,13 +2,14 @@
   "id": 152488621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.117455,43.81736,-79.117455,43.81736",
     "geom:latitude":43.81736,
     "geom:longitude":-79.117455,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"629 Kingston Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895621,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"8efbb7984536adc0d41555ca546eefd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895621,
+            "region_id":85682057,
+            "venue_id":152488621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895621,
             "region_id":85682057,
             "venue_id":152488621
         }
     ],
     "wof:id":152488621,
-    "wof:lastmodified":1449048796,
+    "wof:lastmodified":1453936249,
     "wof:name":"Durham Vacuum Plus Ltd",
     "wof:parent_id":85895621,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.117455,43.81736,-79.117455,43.81736],
-  "geometry": {"coordinates":[-79.117455,43.81736],"type":"Point"}
+  "bbox": [
+    -79.117455,
+    43.81736,
+    -79.117455,
+    43.81736
+],
+  "geometry": {"coordinates":[-79.11745500000001,43.81736],"type":"Point"}
 }

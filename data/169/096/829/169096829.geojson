@@ -2,13 +2,14 @@
   "id": 169096829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.87088,45.551792,-73.87088,45.551792",
     "geom:latitude":45.551792,
     "geom:longitude":-73.87088,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4050 Boul Sainte-Rose",
     "sg:city":"Laval-Ouest",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784779,
+        102191575,
         85633041,
-        85784779
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d37f970422bdde8578dc5a72187ffb41",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784779,
+            "region_id":136251273,
             "venue_id":169096829
         }
     ],
     "wof:id":169096829,
-    "wof:lastmodified":1449033758,
+    "wof:lastmodified":1453929897,
     "wof:name":"Depanneur Laval Ouest",
     "wof:parent_id":85784779,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.87088,45.551792,-73.87088,45.551792],
+  "bbox": [
+    -73.87088,
+    45.551792,
+    -73.87088,
+    45.551792
+],
   "geometry": {"coordinates":[-73.87088,45.551792],"type":"Point"}
 }

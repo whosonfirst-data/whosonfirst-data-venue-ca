@@ -2,13 +2,14 @@
   "id": 169048279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.581398,45.491673,-73.581398,45.491673",
     "geom:latitude":45.491673,
     "geom:longitude":-73.581398,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1390 Rue Du Fort",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897631,
+        102191575,
         85633041,
-        85897631
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"a8a46662f4d0cd4b0bbdb3c613ea9260",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897631,
+            "region_id":136251273,
             "venue_id":169048279
         }
     ],
     "wof:id":169048279,
-    "wof:lastmodified":1449033838,
+    "wof:lastmodified":1453929999,
     "wof:name":"Hotel Du Fort",
     "wof:parent_id":85897631,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.581398,45.491673,-73.581398,45.491673],
-  "geometry": {"coordinates":[-73.581398,45.491673],"type":"Point"}
+  "bbox": [
+    -73.581398,
+    45.491673,
+    -73.581398,
+    45.491673
+],
+  "geometry": {"coordinates":[-73.58139799999999,45.491673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169281689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.665695,45.526009,-73.665695,45.526009",
     "geom:latitude":45.526009,
     "geom:longitude":-73.665695,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"720 Rue Deslauriers",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874385,
+        102191575,
         85633041,
-        85874385
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f09733bdcba96b8454e06a6605f1da75",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874385,
+            "region_id":136251273,
             "venue_id":169281689
         }
     ],
     "wof:id":169281689,
-    "wof:lastmodified":1449035462,
+    "wof:lastmodified":1453931678,
     "wof:name":"Distributeurs Delorimier Inc",
     "wof:parent_id":85874385,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.665695,45.526009,-73.665695,45.526009],
+  "bbox": [
+    -73.665695,
+    45.526009,
+    -73.665695,
+    45.526009
+],
   "geometry": {"coordinates":[-73.665695,45.526009],"type":"Point"}
 }

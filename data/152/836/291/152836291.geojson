@@ -2,13 +2,14 @@
   "id": 152836291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.650681,43.628452,-79.650681,43.628452",
     "geom:latitude":43.628452,
     "geom:longitude":-79.650681,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"705 Matheson Blvd E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"58393bea5047c035182f67dada7d2073",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":152836291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":152836291
         }
     ],
     "wof:id":152836291,
-    "wof:lastmodified":1449047352,
+    "wof:lastmodified":1453935138,
     "wof:name":"Mind To Muscle By Visiontek",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.650681,43.628452,-79.650681,43.628452],
-  "geometry": {"coordinates":[-79.650681,43.628452],"type":"Point"}
+  "bbox": [
+    -79.650681,
+    43.628452,
+    -79.650681,
+    43.628452
+],
+  "geometry": {"coordinates":[-79.65068100000001,43.628452],"type":"Point"}
 }

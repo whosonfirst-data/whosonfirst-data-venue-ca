@@ -2,13 +2,14 @@
   "id": 153050073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.496338,45.535805,-73.496338,45.535805",
     "geom:latitude":45.535805,
     "geom:longitude":-73.496338,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Longueuil",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875717,
+        102191575,
         85633041,
-        85875717
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"66bc2b74e329389b7dd72ea27db4d027",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875717,
+            "region_id":136251273,
             "venue_id":153050073
         }
     ],
     "wof:id":153050073,
-    "wof:lastmodified":1449040625,
+    "wof:lastmodified":1453932553,
     "wof:name":"Clinique Chiropractique Marc",
     "wof:parent_id":85875717,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.496338,45.535805,-73.496338,45.535805],
-  "geometry": {"coordinates":[-73.496338,45.535805],"type":"Point"}
+  "bbox": [
+    -73.496338,
+    45.535805,
+    -73.496338,
+    45.535805
+],
+  "geometry": {"coordinates":[-73.49633799999999,45.535805],"type":"Point"}
 }

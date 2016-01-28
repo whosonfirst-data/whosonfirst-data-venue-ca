@@ -2,13 +2,14 @@
   "id": 169052783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.440018,45.745914,-73.440018,45.745914",
     "geom:latitude":45.745914,
     "geom:longitude":-73.440018,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"33 Boul Richelieu",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fdf96c6a67b570d44ed75e2d882b22ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169052783
         }
     ],
     "wof:id":169052783,
-    "wof:lastmodified":1449034169,
+    "wof:lastmodified":1453930346,
     "wof:name":"Ducharme, Laurette",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.440018,45.745914,-73.440018,45.745914],
-  "geometry": {"coordinates":[-73.440018,45.745914],"type":"Point"}
+  "bbox": [
+    -73.440018,
+    45.745914,
+    -73.440018,
+    45.745914
+],
+  "geometry": {"coordinates":[-73.44001799999999,45.745914],"type":"Point"}
 }

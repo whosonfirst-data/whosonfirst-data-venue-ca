@@ -2,13 +2,14 @@
   "id": 152985593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.265129,46.805161,-71.265129,46.805161",
     "geom:latitude":46.805161,
     "geom:longitude":-71.265129,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874719,
+        102191575,
         85633041,
-        85874719
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"757fa1bf42e4073a3f2b622de0ceae96",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874719,
+            "region_id":136251273,
             "venue_id":152985593
         }
     ],
     "wof:id":152985593,
-    "wof:lastmodified":1449046601,
+    "wof:lastmodified":1453934568,
     "wof:name":"Bosaco Inc",
     "wof:parent_id":85874719,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.265129,46.805161,-71.265129,46.805161],
+  "bbox": [
+    -71.265129,
+    46.805161,
+    -71.265129,
+    46.805161
+],
   "geometry": {"coordinates":[-71.265129,46.805161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152858587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.573799,45.532734,-73.573799,45.532734",
     "geom:latitude":45.532734,
     "geom:longitude":-73.573799,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4477 Av Papineau",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"24a7da42d63d60e83e2ba8561fbcaa22",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152858587
         }
     ],
     "wof:id":152858587,
-    "wof:lastmodified":1449044761,
+    "wof:lastmodified":1453933184,
     "wof:name":"Centre Dianetique",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.573799,45.532734,-73.573799,45.532734],
-  "geometry": {"coordinates":[-73.573799,45.532734],"type":"Point"}
+  "bbox": [
+    -73.573799,
+    45.532734,
+    -73.573799,
+    45.532734
+],
+  "geometry": {"coordinates":[-73.57379899999999,45.532734],"type":"Point"}
 }

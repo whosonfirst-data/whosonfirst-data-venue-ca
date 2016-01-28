@@ -2,13 +2,14 @@
   "id": 202795163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.646706,45.576756,-73.646706,45.576756",
     "geom:latitude":45.576756,
     "geom:longitude":-73.646706,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2587 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874395,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"da3d6514de8c02a449c42bb27b49ed0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202795163
         }
     ],
     "wof:id":202795163,
-    "wof:lastmodified":1449061613,
+    "wof:lastmodified":1453937290,
     "wof:name":"Boucherie Chevaline Select",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "butchering"
     ]
 },
-  "bbox": [-73.646706,45.576756,-73.646706,45.576756],
-  "geometry": {"coordinates":[-73.646706,45.576756],"type":"Point"}
+  "bbox": [
+    -73.646706,
+    45.576756,
+    -73.646706,
+    45.576756
+],
+  "geometry": {"coordinates":[-73.64670599999999,45.576756],"type":"Point"}
 }

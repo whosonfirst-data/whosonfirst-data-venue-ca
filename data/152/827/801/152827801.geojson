@@ -2,13 +2,14 @@
   "id": 152827801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.712631,44.41539,-79.712631,44.41539",
     "geom:latitude":44.41539,
     "geom:longitude":-79.712631,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874063,
         102191575,
         85633041,
-        85874063
+        101736215,
+        85682057,
+        101740747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736215,
             "neighbourhood_id":85874063,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152827801
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740747,
+            "neighbourhood_id":85874063,
+            "region_id":85682057,
             "venue_id":152827801
         }
     ],
     "wof:id":152827801,
-    "wof:lastmodified":1449045971,
+    "wof:lastmodified":1453934097,
     "wof:name":"Little Caesar's Pizza",
     "wof:parent_id":85874063,
     "wof:placetype":"venue",
@@ -56,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.712631,44.41539,-79.712631,44.41539],
+  "bbox": [
+    -79.712631,
+    44.41539,
+    -79.712631,
+    44.41539
+],
   "geometry": {"coordinates":[-79.712631,44.41539],"type":"Point"}
 }

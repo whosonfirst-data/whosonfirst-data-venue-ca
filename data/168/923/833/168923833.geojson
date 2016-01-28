@@ -2,13 +2,14 @@
   "id": 168923833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.177017,48.421898,-71.177017,48.421898",
     "geom:latitude":48.421898,
     "geom:longitude":-71.177017,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2802 Rue DE LA Salle",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"8866ae35c116be97d29bfdc5cc63daca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":168923833
         }
     ],
     "wof:id":168923833,
-    "wof:lastmodified":1449028560,
+    "wof:lastmodified":1453928652,
     "wof:name":"Restaurant Eureka",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.177017,48.421898,-71.177017,48.421898],
-  "geometry": {"coordinates":[-71.177017,48.421898],"type":"Point"}
+  "bbox": [
+    -71.177017,
+    48.421898,
+    -71.177017,
+    48.421898
+],
+  "geometry": {"coordinates":[-71.17701700000001,48.421898],"type":"Point"}
 }

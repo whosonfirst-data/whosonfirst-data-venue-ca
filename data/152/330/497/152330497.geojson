@@ -2,13 +2,14 @@
   "id": 152330497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.654884,45.538456,-73.654884,45.538456",
     "geom:latitude":45.538456,
     "geom:longitude":-73.654884,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"0c996fac587667eb3aec45293e95880b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152330497
         }
     ],
     "wof:id":152330497,
-    "wof:lastmodified":1449046611,
+    "wof:lastmodified":1453934574,
     "wof:name":"Everlast Woman",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.654884,45.538456,-73.654884,45.538456],
+  "bbox": [
+    -73.654884,
+    45.538456,
+    -73.654884,
+    45.538456
+],
   "geometry": {"coordinates":[-73.654884,45.538456],"type":"Point"}
 }

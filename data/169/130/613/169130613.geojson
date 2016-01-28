@@ -2,13 +2,14 @@
   "id": 169130613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.697609,45.532063,-73.697609,45.532063",
     "geom:latitude":45.532063,
     "geom:longitude":-73.697609,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11801 Av Elie-Blanchard",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895729,
+        102191575,
         85633041,
-        85895729
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b6f272c1c8e7b7535e75272d973b3013",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895729,
+            "region_id":136251273,
             "venue_id":169130613
         }
     ],
     "wof:id":169130613,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1453929981,
     "wof:name":"St Michael Greek Orthodox Chr",
     "wof:parent_id":85895729,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.697609,45.532063,-73.697609,45.532063],
+  "bbox": [
+    -73.697609,
+    45.532063,
+    -73.697609,
+    45.532063
+],
   "geometry": {"coordinates":[-73.697609,45.532063],"type":"Point"}
 }

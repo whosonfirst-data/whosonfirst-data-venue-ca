@@ -2,13 +2,14 @@
   "id": 152140529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.701149,45.565701,-73.701149,45.565701",
     "geom:latitude":45.565701,
     "geom:longitude":-73.701149,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"d90a8e53d156ed431de745f889ffc51b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":152140529
         }
     ],
     "wof:id":152140529,
-    "wof:lastmodified":1449044972,
+    "wof:lastmodified":1453933346,
     "wof:name":"Clinique Medicale Laval",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.701149,45.565701,-73.701149,45.565701],
+  "bbox": [
+    -73.701149,
+    45.565701,
+    -73.701149,
+    45.565701
+],
   "geometry": {"coordinates":[-73.701149,45.565701],"type":"Point"}
 }

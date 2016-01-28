@@ -2,13 +2,14 @@
   "id": 169358233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.796471,43.324844,-79.796471,43.324844",
     "geom:latitude":43.324844,
     "geom:longitude":-79.796471,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"361 Brant St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895437,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"71c7ad32fb8c8ec9036b43dc7ebcb56a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895437,
+            "region_id":85682057,
+            "venue_id":169358233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895437,
             "region_id":85682057,
             "venue_id":169358233
         }
     ],
     "wof:id":169358233,
-    "wof:lastmodified":1449034061,
+    "wof:lastmodified":1453930253,
     "wof:name":"Lakeview Pastry & Chocolates",
     "wof:parent_id":85895437,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.796471,43.324844,-79.796471,43.324844],
+  "bbox": [
+    -79.796471,
+    43.324844,
+    -79.796471,
+    43.324844
+],
   "geometry": {"coordinates":[-79.796471,43.324844],"type":"Point"}
 }

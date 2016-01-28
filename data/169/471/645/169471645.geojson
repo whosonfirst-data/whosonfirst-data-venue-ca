@@ -2,13 +2,14 @@
   "id": 169471645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.870895,43.524708,-79.870895,43.524708",
     "geom:latitude":43.524708,
     "geom:longitude":-79.870895,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"781 Main St E # 26",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895175,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"73c1f4aef519e03b3b1bc9e51ba2336f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895175,
+            "region_id":85682057,
+            "venue_id":169471645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895175,
             "region_id":85682057,
             "venue_id":169471645
         }
     ],
     "wof:id":169471645,
-    "wof:lastmodified":1449034003,
+    "wof:lastmodified":1453930166,
     "wof:name":"Galactic Art Glass Studio",
     "wof:parent_id":85895175,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.870895,43.524708,-79.870895,43.524708],
+  "bbox": [
+    -79.870895,
+    43.524708,
+    -79.870895,
+    43.524708
+],
   "geometry": {"coordinates":[-79.870895,43.524708],"type":"Point"}
 }

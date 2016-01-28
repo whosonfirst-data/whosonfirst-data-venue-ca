@@ -2,13 +2,14 @@
   "id": 168879031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.575699,49.190216,-122.575699,49.190216",
     "geom:latitude":49.190216,
     "geom:longitude":-122.575699,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"23284 Mckay Ave",
     "sg:city":"Maple Ridge",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894779,
-        85682117
+        102191575,
+        85633041,
+        101740805,
+        85682117,
+        101746133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"f0eda563df0479a90a80530b1151b49c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740805,
+            "neighbourhood_id":85894779,
+            "region_id":85682117,
+            "venue_id":168879031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101746133,
             "neighbourhood_id":85894779,
             "region_id":85682117,
             "venue_id":168879031
         }
     ],
     "wof:id":168879031,
-    "wof:lastmodified":1449027784,
+    "wof:lastmodified":1453927795,
     "wof:name":"Haney Marine Sales & Svc Ltd",
     "wof:parent_id":85894779,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.575699,49.190216,-122.575699,49.190216],
+  "bbox": [
+    -122.575699,
+    49.190216,
+    -122.575699,
+    49.190216
+],
   "geometry": {"coordinates":[-122.575699,49.190216],"type":"Point"}
 }

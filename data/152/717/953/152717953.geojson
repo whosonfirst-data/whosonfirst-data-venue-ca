@@ -2,13 +2,14 @@
   "id": 152717953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.268425,43.842125,-79.268425,43.842125",
     "geom:latitude":43.842125,
     "geom:longitude":-79.268425,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"76 Featherstone Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895663,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5d013059da2c83ec27b0d4b4ac4f28d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895663,
+            "region_id":85682057,
+            "venue_id":152717953
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895663,
             "region_id":85682057,
             "venue_id":152717953
         }
     ],
     "wof:id":152717953,
-    "wof:lastmodified":1449044418,
+    "wof:lastmodified":1453932912,
     "wof:name":"Markham Appliance Svc",
     "wof:parent_id":85895663,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.268425,43.842125,-79.268425,43.842125],
-  "geometry": {"coordinates":[-79.268425,43.842125],"type":"Point"}
+  "bbox": [
+    -79.268425,
+    43.842125,
+    -79.268425,
+    43.842125
+],
+  "geometry": {"coordinates":[-79.26842499999999,43.842125],"type":"Point"}
 }

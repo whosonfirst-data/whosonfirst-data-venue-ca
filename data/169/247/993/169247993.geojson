@@ -2,13 +2,14 @@
   "id": 169247993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.534599,46.370392,-72.534599,46.370392",
     "geom:latitude":46.370392,
     "geom:longitude":-72.534599,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"56 Rue Patry",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874117,
+        102191575,
         85633041,
-        85874117
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"9c4724f6e5509064a661ff2a873056ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874117,
+            "region_id":136251273,
             "venue_id":169247993
         }
     ],
     "wof:id":169247993,
-    "wof:lastmodified":1449034624,
+    "wof:lastmodified":1453930826,
     "wof:name":"Ouellet Electrique Inc",
     "wof:parent_id":85874117,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.534599,46.370392,-72.534599,46.370392],
+  "bbox": [
+    -72.534599,
+    46.370392,
+    -72.534599,
+    46.370392
+],
   "geometry": {"coordinates":[-72.534599,46.370392],"type":"Point"}
 }

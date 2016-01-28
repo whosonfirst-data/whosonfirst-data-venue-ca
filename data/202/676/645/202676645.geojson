@@ -2,13 +2,14 @@
   "id": 202676645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.685066,45.532635,-73.685066,45.532635",
     "geom:latitude":45.532635,
     "geom:longitude":-73.685066,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2170 Rue Nicolas-Perrot",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895729,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"167dc22a7831c819ea4b4295d2db1451",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895729,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202676645
         }
     ],
     "wof:id":202676645,
-    "wof:lastmodified":1449061715,
+    "wof:lastmodified":1453937311,
     "wof:name":"Maxiplast Inc",
     "wof:parent_id":85895729,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "yarn"
     ]
 },
-  "bbox": [-73.685066,45.532635,-73.685066,45.532635],
-  "geometry": {"coordinates":[-73.685066,45.532635],"type":"Point"}
+  "bbox": [
+    -73.685066,
+    45.532635,
+    -73.685066,
+    45.532635
+],
+  "geometry": {"coordinates":[-73.68506600000001,45.532635],"type":"Point"}
 }

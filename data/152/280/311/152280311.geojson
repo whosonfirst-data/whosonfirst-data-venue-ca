@@ -2,13 +2,14 @@
   "id": 152280311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.349815,43.819111,-79.349815,43.819111",
     "geom:latitude":43.819111,
     "geom:longitude":-79.349815,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7225 Woodbine Ave # 120",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895483,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"f0ad3a1e39a5d7edbc0991dfe9be479b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":152280311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":152280311
         }
     ],
     "wof:id":152280311,
-    "wof:lastmodified":1449046572,
+    "wof:lastmodified":1453934549,
     "wof:name":"Chan, Robert K",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.349815,43.819111,-79.349815,43.819111],
-  "geometry": {"coordinates":[-79.349815,43.819111],"type":"Point"}
+  "bbox": [
+    -79.349815,
+    43.819111,
+    -79.349815,
+    43.819111
+],
+  "geometry": {"coordinates":[-79.34981500000001,43.819111],"type":"Point"}
 }

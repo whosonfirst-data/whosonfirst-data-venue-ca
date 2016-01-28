@@ -2,13 +2,14 @@
   "id": 169303249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.349617,43.818329,-79.349617,43.818329",
     "geom:latitude":43.818329,
     "geom:longitude":-79.349617,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7181 Woodbine Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895483,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"63d2850551771892f3e2d4a014a6c544",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":169303249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":169303249
         }
     ],
     "wof:id":169303249,
-    "wof:lastmodified":1449032711,
+    "wof:lastmodified":1453928821,
     "wof:name":"Friedman, Edward",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.349617,43.818329,-79.349617,43.818329],
-  "geometry": {"coordinates":[-79.349617,43.818329],"type":"Point"}
+  "bbox": [
+    -79.349617,
+    43.818329,
+    -79.349617,
+    43.818329
+],
+  "geometry": {"coordinates":[-79.34961699999999,43.818329],"type":"Point"}
 }

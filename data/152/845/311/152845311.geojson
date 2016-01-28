@@ -2,13 +2,14 @@
   "id": 152845311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.869652,43.543114,-79.869652,43.543114",
     "geom:latitude":43.543114,
     "geom:longitude":-79.869652,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Milton",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895533,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1028fce89d7a55a081afa5f4cbabc3c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895533,
+            "region_id":85682057,
+            "venue_id":152845311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895533,
             "region_id":85682057,
             "venue_id":152845311
         }
     ],
     "wof:id":152845311,
-    "wof:lastmodified":1449045057,
+    "wof:lastmodified":1453933404,
     "wof:name":"Flint Progressive Die Inc",
     "wof:parent_id":85895533,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.869652,43.543114,-79.869652,43.543114],
+  "bbox": [
+    -79.869652,
+    43.543114,
+    -79.869652,
+    43.543114
+],
   "geometry": {"coordinates":[-79.869652,43.543114],"type":"Point"}
 }

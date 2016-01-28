@@ -2,13 +2,14 @@
   "id": 153022773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.476776,43.400986,-80.476776,43.400986",
     "geom:latitude":43.400986,
     "geom:longitude":-80.476776,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Kitchener",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875005,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"07b1615ccc5cff43941f2c6315e3ff3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875005,
+            "region_id":85682057,
+            "venue_id":153022773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875005,
             "region_id":85682057,
             "venue_id":153022773
         }
     ],
     "wof:id":153022773,
-    "wof:lastmodified":1449040487,
+    "wof:lastmodified":1453932434,
     "wof:name":"Jet Fluid Systems Inc",
     "wof:parent_id":85875005,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.476776,43.400986,-80.476776,43.400986],
+  "bbox": [
+    -80.476776,
+    43.400986,
+    -80.476776,
+    43.400986
+],
   "geometry": {"coordinates":[-80.476776,43.400986],"type":"Point"}
 }

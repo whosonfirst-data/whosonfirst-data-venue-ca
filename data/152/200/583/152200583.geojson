@@ -2,13 +2,14 @@
   "id": 152200583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.295799,45.321697,-73.295799,45.321697",
     "geom:latitude":45.321697,
     "geom:longitude":-73.295799,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"669 Ch Du Grand-Bernier N",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a687cd3a3677be3048e52879870afa79",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":152200583
         }
     ],
     "wof:id":152200583,
-    "wof:lastmodified":1449046158,
+    "wof:lastmodified":1453934239,
     "wof:name":"Monsieur Livre Tout",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.295799,45.321697,-73.295799,45.321697],
+  "bbox": [
+    -73.295799,
+    45.321697,
+    -73.295799,
+    45.321697
+],
   "geometry": {"coordinates":[-73.295799,45.321697],"type":"Point"}
 }

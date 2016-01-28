@@ -2,13 +2,14 @@
   "id": 169431839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.473328,43.442745,-80.473328,43.442745",
     "geom:latitude":43.442745,
     "geom:longitude":-80.473328,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"964 King St E",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875017,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"a790a15c8e68d6a8ec1790ad69de12fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875017,
+            "region_id":85682057,
+            "venue_id":169431839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875017,
             "region_id":85682057,
             "venue_id":169431839
         }
     ],
     "wof:id":169431839,
-    "wof:lastmodified":1449033130,
+    "wof:lastmodified":1453929249,
     "wof:name":"Speedy Auto & Window Glass",
     "wof:parent_id":85875017,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.473328,43.442745,-80.473328,43.442745],
+  "bbox": [
+    -80.473328,
+    43.442745,
+    -80.473328,
+    43.442745
+],
   "geometry": {"coordinates":[-80.473328,43.442745],"type":"Point"}
 }

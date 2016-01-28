@@ -2,13 +2,14 @@
   "id": 152739861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.263245,45.319626,-73.263245,45.319626",
     "geom:latitude":45.319626,
     "geom:longitude":-73.263245,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"650 Rue Loyola",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a277ac75105b34d9b167e10b6dbcab9b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":152739861
         }
     ],
     "wof:id":152739861,
-    "wof:lastmodified":1449046264,
+    "wof:lastmodified":1453934317,
     "wof:name":"Pirelli Cables Inc",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.263245,45.319626,-73.263245,45.319626],
+  "bbox": [
+    -73.263245,
+    45.319626,
+    -73.263245,
+    45.319626
+],
   "geometry": {"coordinates":[-73.263245,45.319626],"type":"Point"}
 }

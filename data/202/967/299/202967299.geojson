@@ -2,13 +2,14 @@
   "id": 202967299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.462753,43.509563,-80.462753,43.509563",
     "geom:latitude":43.509563,
     "geom:longitude":-80.462753,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Bloomingdale",
     "sg:classifiers":[
         {
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874975,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"5318a57589405a3047bfe119315ada05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874975,
+            "region_id":85682057,
+            "venue_id":202967299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736239,
             "neighbourhood_id":85874975,
             "region_id":85682057,
             "venue_id":202967299
         }
     ],
     "wof:id":202967299,
-    "wof:lastmodified":1449062459,
+    "wof:lastmodified":1453937468,
     "wof:name":"Allstar Hunchs",
     "wof:parent_id":85874975,
     "wof:placetype":"venue",
@@ -61,6 +73,11 @@
         "plate"
     ]
 },
-  "bbox": [-80.462753,43.509563,-80.462753,43.509563],
-  "geometry": {"coordinates":[-80.462753,43.509563],"type":"Point"}
+  "bbox": [
+    -80.462753,
+    43.509563,
+    -80.462753,
+    43.509563
+],
+  "geometry": {"coordinates":[-80.46275300000001,43.509563],"type":"Point"}
 }

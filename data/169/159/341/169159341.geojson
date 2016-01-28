@@ -2,13 +2,14 @@
   "id": 169159341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.608559,43.686085,-79.608559,43.686085",
     "geom:latitude":43.686085,
     "geom:longitude":-79.608559,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5955 Airport Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
+        102555091,
         85866433,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -41,6 +44,8 @@
     "wof:geomhash":"a6149e84131ec04b2d4b955726ab5ab6",
     "wof:hierarchy":[
         {
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85866433,
@@ -49,14 +54,19 @@
         }
     ],
     "wof:id":169159341,
-    "wof:lastmodified":1449033080,
+    "wof:lastmodified":1453929204,
     "wof:name":"Niagara Falls Guide Svc",
-    "wof:parent_id":85866433,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.608559,43.686085,-79.608559,43.686085],
+  "bbox": [
+    -79.608559,
+    43.686085,
+    -79.608559,
+    43.686085
+],
   "geometry": {"coordinates":[-79.608559,43.686085],"type":"Point"}
 }

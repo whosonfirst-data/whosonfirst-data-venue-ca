@@ -2,13 +2,14 @@
   "id": 202723625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.584526,46.355499,-72.584526,46.355499",
     "geom:latitude":46.355499,
     "geom:longitude":-72.584526,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3960 Boul Des Forges",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874105,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"2c618256b5a92e6adb6691f8b5784c6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874105,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202723625
         }
     ],
     "wof:id":202723625,
-    "wof:lastmodified":1449061599,
+    "wof:lastmodified":1453937288,
     "wof:name":"Vegetarien Trois Rivieres",
     "wof:parent_id":85874105,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "produce"
     ]
 },
-  "bbox": [-72.584526,46.355499,-72.584526,46.355499],
+  "bbox": [
+    -72.584526,
+    46.355499,
+    -72.584526,
+    46.355499
+],
   "geometry": {"coordinates":[-72.584526,46.355499],"type":"Point"}
 }

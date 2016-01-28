@@ -2,13 +2,14 @@
   "id": 152746505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.242447,43.01046,-81.242447,43.01046",
     "geom:latitude":43.01046,
     "geom:longitude":-81.242447,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1071 Adelaide St N",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874939,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11neKGKs9hmAxVkXUTFxIB_43.010460_-81.242447@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ca9121f24c8b9b9ffd58db2d57e3fc38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
+            "region_id":85682057,
+            "venue_id":152746505
+        }
+    ],
     "wof:id":152746505,
-    "wof:lastmodified":1449044249,
+    "wof:lastmodified":1453932792,
     "wof:name":"Famme & CO",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.242447,43.01046,-81.242447,43.01046],
+  "bbox": [
+    -81.242447,
+    43.01046,
+    -81.242447,
+    43.01046
+],
   "geometry": {"coordinates":[-81.242447,43.01046],"type":"Point"}
 }

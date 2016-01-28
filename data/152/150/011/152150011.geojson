@@ -2,13 +2,14 @@
   "id": 152150011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.399864,43.865479,-79.399864,43.865479",
     "geom:latitude":43.865479,
     "geom:longitude":-79.399864,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"61 Spadina Rd",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894999,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"a2cdf048cf7f263d40940f6081ad6347",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85894999,
+            "region_id":85682057,
+            "venue_id":152150011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85894999,
             "region_id":85682057,
             "venue_id":152150011
         }
     ],
     "wof:id":152150011,
-    "wof:lastmodified":1449044357,
+    "wof:lastmodified":1453932866,
     "wof:name":"Cyberflowers Petals & Stem",
     "wof:parent_id":85894999,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.399864,43.865479,-79.399864,43.865479],
-  "geometry": {"coordinates":[-79.399864,43.865479],"type":"Point"}
+  "bbox": [
+    -79.399864,
+    43.865479,
+    -79.399864,
+    43.865479
+],
+  "geometry": {"coordinates":[-79.39986399999999,43.865479],"type":"Point"}
 }

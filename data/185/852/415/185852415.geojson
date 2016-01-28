@@ -2,13 +2,14 @@
   "id": 185852415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.571495,45.459778,-73.571495,45.459778",
     "geom:latitude":45.459778,
     "geom:longitude":-73.571495,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4460 Rue DE Verdun",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874363,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"527ce288db5a1487a10c391ecca05ff6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185852415
         }
     ],
     "wof:id":185852415,
-    "wof:lastmodified":1449007962,
+    "wof:lastmodified":1453927362,
     "wof:name":"Couche-Tard",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.571495,45.459778,-73.571495,45.459778],
+  "bbox": [
+    -73.571495,
+    45.459778,
+    -73.571495,
+    45.459778
+],
   "geometry": {"coordinates":[-73.571495,45.459778],"type":"Point"}
 }

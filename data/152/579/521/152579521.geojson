@@ -2,13 +2,14 @@
   "id": 152579521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578636,45.477425,-73.578636,45.477425",
     "geom:latitude":45.477425,
     "geom:longitude":-73.578636,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"89 Rue Turgeon",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897607,
+        102191575,
         85633041,
-        85897607
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"56ec9c3a01f17511abcf824f2bdb0f31",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897607,
+            "region_id":136251273,
             "venue_id":152579521
         }
     ],
     "wof:id":152579521,
-    "wof:lastmodified":1449045777,
+    "wof:lastmodified":1453933957,
     "wof:name":"S Plourde Inc",
     "wof:parent_id":85897607,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578636,45.477425,-73.578636,45.477425],
+  "bbox": [
+    -73.578636,
+    45.477425,
+    -73.578636,
+    45.477425
+],
   "geometry": {"coordinates":[-73.578636,45.477425],"type":"Point"}
 }

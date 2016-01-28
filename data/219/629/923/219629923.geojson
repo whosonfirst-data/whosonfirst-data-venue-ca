@@ -2,13 +2,14 @@
   "id": 219629923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.224327,43.003815,-81.224327,43.003815",
     "geom:latitude":43.003815,
     "geom:longitude":-81.224327,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"977 Oxford St E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874927,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -38,18 +42,18 @@
     "wof:geomhash":"ccff49f4c7049fe20135a222fab17e09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
             "region_id":85682057,
             "venue_id":219629923
         }
     ],
     "wof:id":219629923,
-    "wof:lastmodified":1449073106,
+    "wof:lastmodified":1453937909,
     "wof:name":"Knollwood Park Presbyterian",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "church"
     ]
 },
-  "bbox": [-81.224327,43.003815,-81.224327,43.003815],
+  "bbox": [
+    -81.224327,
+    43.003815,
+    -81.224327,
+    43.003815
+],
   "geometry": {"coordinates":[-81.224327,43.003815],"type":"Point"}
 }

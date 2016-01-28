@@ -2,13 +2,14 @@
   "id": 152585515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.247322,42.981476,-81.247322,42.981476",
     "geom:latitude":42.981476,
     "geom:longitude":-81.247322,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"205 York St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6A 1B1",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SlP7Nda0vUyYUQzRWO6Uq_42.981476_-81.247322@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f33dda08aa2957f91e21452aef3985de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":152585515
+        }
+    ],
     "wof:id":152585515,
-    "wof:lastmodified":1449047371,
+    "wof:lastmodified":1453935158,
     "wof:name":"C N Credit Union Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.247322,42.981476,-81.247322,42.981476],
+  "bbox": [
+    -81.247322,
+    42.981476,
+    -81.247322,
+    42.981476
+],
   "geometry": {"coordinates":[-81.247322,42.981476],"type":"Point"}
 }

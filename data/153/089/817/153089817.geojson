@@ -2,13 +2,14 @@
   "id": 153089817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.919518,45.438244,-71.919518,45.438244",
     "geom:latitude":45.438244,
     "geom:longitude":-71.919518,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874137,
+        102191575,
         85633041,
-        85874137
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"58ede8674bdec464342b26c3ab0f7530",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874137,
+            "region_id":136251273,
             "venue_id":153089817
         }
     ],
     "wof:id":153089817,
-    "wof:lastmodified":1449040427,
+    "wof:lastmodified":1453932383,
     "wof:name":"Metaux MD",
     "wof:parent_id":85874137,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.919518,45.438244,-71.919518,45.438244],
+  "bbox": [
+    -71.919518,
+    45.438244,
+    -71.919518,
+    45.438244
+],
   "geometry": {"coordinates":[-71.919518,45.438244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153012563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.1315,49.277328,-123.1315,49.277328",
     "geom:latitude":49.277328,
     "geom:longitude":-123.1315,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1354 Burrard St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85866533,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"679618e6c8f3ded87533022029db6c68",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85866533,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":153012563,
-    "wof:lastmodified":1449040769,
+    "wof:lastmodified":1453932685,
     "wof:name":"Burrard Cleaners",
     "wof:parent_id":85866533,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.1315,49.277328,-123.1315,49.277328],
+  "bbox": [
+    -123.1315,
+    49.277328,
+    -123.1315,
+    49.277328
+],
   "geometry": {"coordinates":[-123.1315,49.277328],"type":"Point"}
 }

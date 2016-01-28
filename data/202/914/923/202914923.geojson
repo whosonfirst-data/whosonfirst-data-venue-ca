@@ -2,13 +2,14 @@
   "id": 202914923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.776917,45.505318,-73.776917,45.505318",
     "geom:latitude":45.505318,
     "geom:longitude":-73.776917,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9517 Boul Gouin O",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874361,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"8fef5e2aa6085dbdaf3d1ed1942dca0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874361,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202914923
         }
     ],
     "wof:id":202914923,
-    "wof:lastmodified":1449061084,
+    "wof:lastmodified":1453937181,
     "wof:name":"Centre Medical Cloverdale",
     "wof:parent_id":85874361,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "clinic"
     ]
 },
-  "bbox": [-73.776917,45.505318,-73.776917,45.505318],
+  "bbox": [
+    -73.776917,
+    45.505318,
+    -73.776917,
+    45.505318
+],
   "geometry": {"coordinates":[-73.776917,45.505318],"type":"Point"}
 }

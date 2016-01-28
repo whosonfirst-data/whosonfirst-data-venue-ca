@@ -2,13 +2,14 @@
   "id": 152273787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.826416,45.581596,-73.826416,45.581596",
     "geom:latitude":45.581596,
     "geom:longitude":-73.826416,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1045 Rue DE Gibraltar",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"1d5c18ffad60a1a77c58da01d35d89bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":152273787
         }
     ],
     "wof:id":152273787,
-    "wof:lastmodified":1449046701,
+    "wof:lastmodified":1453934649,
     "wof:name":"Creations Guychard Enr",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.826416,45.581596,-73.826416,45.581596],
-  "geometry": {"coordinates":[-73.826416,45.581596],"type":"Point"}
+  "bbox": [
+    -73.826416,
+    45.581596,
+    -73.826416,
+    45.581596
+],
+  "geometry": {"coordinates":[-73.82641599999999,45.581596],"type":"Point"}
 }

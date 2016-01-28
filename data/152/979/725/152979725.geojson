@@ -2,13 +2,14 @@
   "id": 152979725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.223755,43.133152,-79.223755,43.133152",
     "geom:latitude":43.133152,
     "geom:longitude":-79.223755,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"236 Glendale Ave",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"62fffb3cfb1363bdc303e524d35a346e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":152979725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":152979725
         }
     ],
     "wof:id":152979725,
-    "wof:lastmodified":1449047555,
+    "wof:lastmodified":1453935305,
     "wof:name":"Glendale Esso",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.223755,43.133152,-79.223755,43.133152],
+  "bbox": [
+    -79.223755,
+    43.133152,
+    -79.223755,
+    43.133152
+],
   "geometry": {"coordinates":[-79.223755,43.133152],"type":"Point"}
 }

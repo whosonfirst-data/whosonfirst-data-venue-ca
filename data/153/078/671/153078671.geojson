@@ -2,13 +2,14 @@
   "id": 153078671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.173523,45.295147,-74.173523,45.295147",
     "geom:latitude":45.295147,
     "geom:longitude":-74.173523,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Coteau-Du-Lac",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736785,
+        85897649,
+        102191575,
         85633041,
-        85897649
+        101736785,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"81866e30fb211467d54e1055525c4410",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736785,
             "neighbourhood_id":85897649,
+            "region_id":136251273,
             "venue_id":153078671
         }
     ],
     "wof:id":153078671,
-    "wof:lastmodified":1449040755,
+    "wof:lastmodified":1453932671,
     "wof:name":"Garage Roger Campeau Enr",
     "wof:parent_id":85897649,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.173523,45.295147,-74.173523,45.295147],
+  "bbox": [
+    -74.173523,
+    45.295147,
+    -74.173523,
+    45.295147
+],
   "geometry": {"coordinates":[-74.173523,45.295147],"type":"Point"}
 }

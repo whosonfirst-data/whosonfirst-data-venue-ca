@@ -2,13 +2,14 @@
   "id": 203141939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.685295,45.449032,-75.685295,45.449032",
     "geom:latitude":45.449032,
     "geom:longitude":-75.685295,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"315 Lisgar St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874503,
+        102191575,
         85633041,
-        101738041
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"a985d085caa0ffdc4df5d29634ca842c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203141939
         }
     ],
     "wof:id":203141939,
-    "wof:lastmodified":1449025586,
+    "wof:lastmodified":1453927532,
     "wof:name":"Canadian Bible Society",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-75.685295,45.449032,-75.685295,45.449032],
+  "bbox": [
+    -75.685295,
+    45.449032,
+    -75.685295,
+    45.449032
+],
   "geometry": {"coordinates":[-75.685295,45.449032],"type":"Point"}
 }

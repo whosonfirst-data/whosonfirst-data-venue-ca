@@ -2,13 +2,14 @@
   "id": 169344935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009537,45.384083,-74.009537,45.384083",
     "geom:latitude":45.384083,
     "geom:longitude":-74.009537,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895767,
+        102191575,
         85633041,
-        85895767
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"ca091298ba54d907701147aea3226a47",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895767,
+            "region_id":136251273,
             "venue_id":169344935
         }
     ],
     "wof:id":169344935,
-    "wof:lastmodified":1449032851,
+    "wof:lastmodified":1453928991,
     "wof:name":"Arseneault Bourbonnais",
     "wof:parent_id":85895767,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.009537,45.384083,-74.009537,45.384083],
-  "geometry": {"coordinates":[-74.009537,45.384083],"type":"Point"}
+  "bbox": [
+    -74.009537,
+    45.384083,
+    -74.009537,
+    45.384083
+],
+  "geometry": {"coordinates":[-74.00953699999999,45.384083],"type":"Point"}
 }

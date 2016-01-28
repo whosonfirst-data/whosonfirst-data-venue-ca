@@ -2,13 +2,14 @@
   "id": 168955139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.108223,43.899727,-80.108223,43.899727",
     "geom:latitude":43.899727,
     "geom:longitude":-80.108223,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"540 C Line",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895083,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"3fa7260af1fa5e52b7fa200ee55b5c4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895083,
+            "region_id":85682057,
+            "venue_id":168955139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895083,
             "region_id":85682057,
             "venue_id":168955139
         }
     ],
     "wof:id":168955139,
-    "wof:lastmodified":1449028303,
+    "wof:lastmodified":1453928374,
     "wof:name":"Orangeville Salt & Soil Supply",
     "wof:parent_id":85895083,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.108223,43.899727,-80.108223,43.899727],
+  "bbox": [
+    -80.108223,
+    43.899727,
+    -80.108223,
+    43.899727
+],
   "geometry": {"coordinates":[-80.108223,43.899727],"type":"Point"}
 }

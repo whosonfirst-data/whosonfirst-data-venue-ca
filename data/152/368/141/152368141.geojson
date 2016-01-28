@@ -2,13 +2,14 @@
   "id": 152368141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.559616,45.499031,-73.559616,45.499031",
     "geom:latitude":45.499031,
     "geom:longitude":-73.559616,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897617,
+        102191575,
         85633041,
-        85897617
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"40993d3f02ae8c1686c9e4f168c7aeb1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897617,
+            "region_id":136251273,
             "venue_id":152368141
         }
     ],
     "wof:id":152368141,
-    "wof:lastmodified":1449045356,
+    "wof:lastmodified":1453933631,
     "wof:name":"Intergrale Mbd",
     "wof:parent_id":85897617,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.559616,45.499031,-73.559616,45.499031],
-  "geometry": {"coordinates":[-73.559616,45.499031],"type":"Point"}
+  "bbox": [
+    -73.559616,
+    45.499031,
+    -73.559616,
+    45.499031
+],
+  "geometry": {"coordinates":[-73.55961600000001,45.499031],"type":"Point"}
 }

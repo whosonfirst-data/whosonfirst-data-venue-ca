@@ -2,13 +2,14 @@
   "id": 169227785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.562973,45.512936,-73.562973,45.512936",
     "geom:latitude":45.512936,
     "geom:longitude":-73.562973,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"260 Boul DE Maisonneuve O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"e25c511a6f50e7afbcb76fee9f270771",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":169227785
         }
     ],
     "wof:id":169227785,
-    "wof:lastmodified":1449033410,
+    "wof:lastmodified":1453929508,
     "wof:name":"L'Opera DE Montreal",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.562973,45.512936,-73.562973,45.512936],
+  "bbox": [
+    -73.562973,
+    45.512936,
+    -73.562973,
+    45.512936
+],
   "geometry": {"coordinates":[-73.562973,45.512936],"type":"Point"}
 }

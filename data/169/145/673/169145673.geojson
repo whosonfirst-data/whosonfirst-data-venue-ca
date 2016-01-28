@@ -2,13 +2,14 @@
   "id": 169145673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249466,42.98291,-81.249466,42.98291",
     "geom:latitude":42.98291,
     "geom:longitude":-81.249466,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"383 Richmond St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C77daM8OlO4IxEM3yGTJd_42.982910_-81.249466@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d82d23fdd871b4c9677ba0d7763653c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":169145673
+        }
+    ],
     "wof:id":169145673,
-    "wof:lastmodified":1449033694,
+    "wof:lastmodified":1453929821,
     "wof:name":"Execulink Internet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.249466,42.98291,-81.249466,42.98291],
+  "bbox": [
+    -81.249466,
+    42.98291,
+    -81.249466,
+    42.98291
+],
   "geometry": {"coordinates":[-81.249466,42.98291],"type":"Point"}
 }

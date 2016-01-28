@@ -2,13 +2,14 @@
   "id": 152259721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.995377,45.371265,-71.995377,45.371265",
     "geom:latitude":45.371265,
     "geom:longitude":-71.995377,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1618 Rue Julien",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"d49c6cd651885360f8101ff24b9302cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":152259721
         }
     ],
     "wof:id":152259721,
-    "wof:lastmodified":1449045351,
+    "wof:lastmodified":1453933629,
     "wof:name":"Discoplus Enr",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.995377,45.371265,-71.995377,45.371265],
+  "bbox": [
+    -71.995377,
+    45.371265,
+    -71.995377,
+    45.371265
+],
   "geometry": {"coordinates":[-71.995377,45.371265],"type":"Point"}
 }

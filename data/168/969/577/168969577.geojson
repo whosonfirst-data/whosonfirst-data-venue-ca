@@ -2,13 +2,14 @@
   "id": 168969577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.472519,45.475498,-73.472519,45.475498",
     "geom:latitude":45.475498,
     "geom:longitude":-73.472519,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2144 Boul Lapiniere",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897507,
+        102191575,
         85633041,
-        85897507
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"08301458710537b4a7d087c2d729322a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897507,
+            "region_id":136251273,
             "venue_id":168969577
         }
     ],
     "wof:id":168969577,
-    "wof:lastmodified":1449027955,
+    "wof:lastmodified":1453927992,
     "wof:name":"Piscines 2015",
     "wof:parent_id":85897507,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.472519,45.475498,-73.472519,45.475498],
-  "geometry": {"coordinates":[-73.472519,45.475498],"type":"Point"}
+  "bbox": [
+    -73.472519,
+    45.475498,
+    -73.472519,
+    45.475498
+],
+  "geometry": {"coordinates":[-73.47251900000001,45.475498],"type":"Point"}
 }

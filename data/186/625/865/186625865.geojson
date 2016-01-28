@@ -2,13 +2,14 @@
   "id": 186625865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.756233,45.666756,-73.756233,45.666756",
     "geom:latitude":45.666756,
     "geom:longitude":-73.756233,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"242 Rue Adrien-Ethier",
     "sg:city":"Bois-Des-Filion",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784663,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"8b00b42d4f7623d796f78c1aa90acdf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784663,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186625865
         }
     ],
     "wof:id":186625865,
-    "wof:lastmodified":1449053064,
+    "wof:lastmodified":1453936953,
     "wof:name":"Manoir Du Boise Gagnon",
     "wof:parent_id":85784663,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "rest"
     ]
 },
-  "bbox": [-73.756233,45.666756,-73.756233,45.666756],
-  "geometry": {"coordinates":[-73.756233,45.666756],"type":"Point"}
+  "bbox": [
+    -73.756233,
+    45.666756,
+    -73.756233,
+    45.666756
+],
+  "geometry": {"coordinates":[-73.75623299999999,45.666756],"type":"Point"}
 }

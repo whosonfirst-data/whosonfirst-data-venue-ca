@@ -2,13 +2,14 @@
   "id": 169283437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.828827,43.881016,-78.828827,43.881016",
     "geom:latitude":43.881016,
     "geom:longitude":-78.828827,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"751 Farewell St",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875151,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"ee7bbf35f595a3286aaa6f832cc97050",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875151,
+            "region_id":85682057,
+            "venue_id":169283437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875151,
             "region_id":85682057,
             "venue_id":169283437
         }
     ],
     "wof:id":169283437,
-    "wof:lastmodified":1449033661,
+    "wof:lastmodified":1453929786,
     "wof:name":"Terry's Engine Ctr",
     "wof:parent_id":85875151,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.828827,43.881016,-78.828827,43.881016],
+  "bbox": [
+    -78.828827,
+    43.881016,
+    -78.828827,
+    43.881016
+],
   "geometry": {"coordinates":[-78.828827,43.881016],"type":"Point"}
 }

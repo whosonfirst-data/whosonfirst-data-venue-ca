@@ -2,13 +2,14 @@
   "id": 152595623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635681,45.423,-73.635681,45.423",
     "geom:latitude":45.423,
     "geom:longitude":-73.635681,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9165 Rue Boivin",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897543,
+        102191575,
         85633041,
-        85897543
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c27c55490e78648a77e3d1891e2c2d71",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897543,
+            "region_id":136251273,
             "venue_id":152595623
         }
     ],
     "wof:id":152595623,
-    "wof:lastmodified":1449048469,
+    "wof:lastmodified":1453936004,
     "wof:name":"Adt Demenagement & Entrpsg",
     "wof:parent_id":85897543,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.635681,45.423,-73.635681,45.423],
-  "geometry": {"coordinates":[-73.635681,45.423],"type":"Point"}
+  "bbox": [
+    -73.635681,
+    45.423,
+    -73.635681,
+    45.423
+],
+  "geometry": {"coordinates":[-73.63568100000001,45.423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169193383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.63121,45.704453,-73.63121,45.704453",
     "geom:latitude":45.704453,
     "geom:longitude":-73.63121,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1018 Rue Masson",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85895715,
+        102191575,
         85633041,
-        85895715
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"596da1d03f843dabc8f07555134bce3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85895715,
+            "region_id":136251273,
             "venue_id":169193383
         }
     ],
     "wof:id":169193383,
-    "wof:lastmodified":1449033229,
+    "wof:lastmodified":1453929331,
     "wof:name":"A C Carrosserie",
     "wof:parent_id":85895715,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.63121,45.704453,-73.63121,45.704453],
+  "bbox": [
+    -73.63121,
+    45.704453,
+    -73.63121,
+    45.704453
+],
   "geometry": {"coordinates":[-73.63121,45.704453],"type":"Point"}
 }

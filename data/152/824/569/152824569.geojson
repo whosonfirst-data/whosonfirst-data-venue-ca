@@ -2,13 +2,14 @@
   "id": 152824569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589775,45.551216,-73.589775,45.551216",
     "geom:latitude":45.551216,
     "geom:longitude":-73.589775,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2655 Rue Beaubien E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"62872ea7ee2b833b5aa75aba3e239825",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152824569
         }
     ],
     "wof:id":152824569,
-    "wof:lastmodified":1449045961,
+    "wof:lastmodified":1453934089,
     "wof:name":"Cordonnerie St Marc",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.589775,45.551216,-73.589775,45.551216],
+  "bbox": [
+    -73.589775,
+    45.551216,
+    -73.589775,
+    45.551216
+],
   "geometry": {"coordinates":[-73.589775,45.551216],"type":"Point"}
 }

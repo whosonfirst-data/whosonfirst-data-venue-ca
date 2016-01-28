@@ -2,13 +2,14 @@
   "id": 169041247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.577484,45.474819,-73.577484,45.474819",
     "geom:latitude":45.474819,
     "geom:longitude":-73.577484,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3351 Rue Saint-Patrick",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897607,
+        102191575,
         85633041,
-        85897607
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ebad545880c19bcce1d8db3360590b20",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897607,
+            "region_id":136251273,
             "venue_id":169041247
         }
     ],
     "wof:id":169041247,
-    "wof:lastmodified":1449033884,
+    "wof:lastmodified":1453930045,
     "wof:name":"Sel Plus",
     "wof:parent_id":85897607,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.577484,45.474819,-73.577484,45.474819],
+  "bbox": [
+    -73.577484,
+    45.474819,
+    -73.577484,
+    45.474819
+],
   "geometry": {"coordinates":[-73.577484,45.474819],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152662685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.25325,45.306763,-73.25325,45.306763",
     "geom:latitude":45.306763,
     "geom:longitude":-73.25325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"219 Rue Jacques-Cartier N",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85875681,
+        102191575,
         85633041,
-        85875681
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"9ea1476718846a26da35d2ee221065a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85875681,
+            "region_id":136251273,
             "venue_id":152662685
         }
     ],
     "wof:id":152662685,
-    "wof:lastmodified":1449047427,
+    "wof:lastmodified":1453935198,
     "wof:name":"Eclusier Du Haut-Richelieu",
     "wof:parent_id":85875681,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.25325,45.306763,-73.25325,45.306763],
-  "geometry": {"coordinates":[-73.25325,45.306763],"type":"Point"}
+  "bbox": [
+    -73.25325,
+    45.306763,
+    -73.25325,
+    45.306763
+],
+  "geometry": {"coordinates":[-73.25324999999999,45.306763],"type":"Point"}
 }

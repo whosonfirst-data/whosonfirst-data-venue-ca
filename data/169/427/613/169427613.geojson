@@ -2,13 +2,14 @@
   "id": 169427613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.687859,44.336197,-79.687859,44.336197",
     "geom:latitude":44.336197,
     "geom:longitude":-79.687859,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"75 Barrie View Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wrSggC72gDesOIZH8X7Cf_44.336197_-79.687859@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c5661936a6aa3e4d92730a80831bf50c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":169427613
+        }
+    ],
     "wof:id":169427613,
-    "wof:lastmodified":1449033678,
+    "wof:lastmodified":1453929810,
     "wof:name":"M & M Meat Shops",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.687859,44.336197,-79.687859,44.336197],
+  "bbox": [
+    -79.687859,
+    44.336197,
+    -79.687859,
+    44.336197
+],
   "geometry": {"coordinates":[-79.687859,44.336197],"type":"Point"}
 }

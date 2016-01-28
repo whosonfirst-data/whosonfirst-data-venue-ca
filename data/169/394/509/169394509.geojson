@@ -2,13 +2,14 @@
   "id": 169394509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.120796,43.836308,-79.120796,43.836308",
     "geom:latitude":43.836308,
     "geom:longitude":-79.120796,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"745 Pebble Crt",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895393,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"e463f7aedb5a72c035f2bd2ab3ca25aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895393,
+            "region_id":85682057,
+            "venue_id":169394509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895393,
             "region_id":85682057,
             "venue_id":169394509
         }
     ],
     "wof:id":169394509,
-    "wof:lastmodified":1449033328,
+    "wof:lastmodified":1453929434,
     "wof:name":"India Brass Boutique Inc",
     "wof:parent_id":85895393,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.120796,43.836308,-79.120796,43.836308],
+  "bbox": [
+    -79.120796,
+    43.836308,
+    -79.120796,
+    43.836308
+],
   "geometry": {"coordinates":[-79.120796,43.836308],"type":"Point"}
 }

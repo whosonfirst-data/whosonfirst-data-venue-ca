@@ -2,13 +2,14 @@
   "id": 152623187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.484901,45.570511,-73.484901,45.570511",
     "geom:latitude":45.570511,
     "geom:longitude":-73.484901,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1840 Boul Marie-Victorin",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875721,
+        102191575,
         85633041,
-        85875721
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9c9bf18c4304c460545c100bb70f6c80",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875721,
+            "region_id":136251273,
             "venue_id":152623187
         }
     ],
     "wof:id":152623187,
-    "wof:lastmodified":1449047538,
+    "wof:lastmodified":1453935290,
     "wof:name":"Bronzage Expert 93 Enr",
     "wof:parent_id":85875721,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.484901,45.570511,-73.484901,45.570511],
-  "geometry": {"coordinates":[-73.484901,45.570511],"type":"Point"}
+  "bbox": [
+    -73.484901,
+    45.570511,
+    -73.484901,
+    45.570511
+],
+  "geometry": {"coordinates":[-73.48490099999999,45.570511],"type":"Point"}
 }

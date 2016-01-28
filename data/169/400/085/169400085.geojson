@@ -2,13 +2,14 @@
   "id": 169400085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.597481,45.524586,-73.597481,45.524586",
     "geom:latitude":45.524586,
     "geom:longitude":-73.597481,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5383 Rue Clark",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7de30504227babd3d237d92bdba1e92d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":169400085
         }
     ],
     "wof:id":169400085,
-    "wof:lastmodified":1449032988,
+    "wof:lastmodified":1453929123,
     "wof:name":"Fairmount Plumbing & Heating",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.597481,45.524586,-73.597481,45.524586],
+  "bbox": [
+    -73.597481,
+    45.524586,
+    -73.597481,
+    45.524586
+],
   "geometry": {"coordinates":[-73.597481,45.524586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169378221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.301659,45.346264,-73.301659,45.346264",
     "geom:latitude":45.346264,
     "geom:longitude":-73.301659,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1343 Rue Bernier",
     "sg:city":"Saint-Luc",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85864393,
+        102191575,
         85633041,
-        85864393
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f4c66cdb240a2f2cef0cb736adf97d4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85864393,
+            "region_id":136251273,
             "venue_id":169378221
         }
     ],
     "wof:id":169378221,
-    "wof:lastmodified":1449034918,
+    "wof:lastmodified":1453931142,
     "wof:name":"Bar Le Paradis",
     "wof:parent_id":85864393,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.301659,45.346264,-73.301659,45.346264],
+  "bbox": [
+    -73.301659,
+    45.346264,
+    -73.301659,
+    45.346264
+],
   "geometry": {"coordinates":[-73.301659,45.346264],"type":"Point"}
 }

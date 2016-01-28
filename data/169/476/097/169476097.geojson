@@ -2,13 +2,14 @@
   "id": 169476097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795563,43.325531,-79.795563,43.325531",
     "geom:latitude":43.325531,
     "geom:longitude":-79.795563,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"396 Elizabeth St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895437,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ba771b48ff8c70d8f6eee44356ae4f46",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895437,
+            "region_id":85682057,
+            "venue_id":169476097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895437,
             "region_id":85682057,
             "venue_id":169476097
         }
     ],
     "wof:id":169476097,
-    "wof:lastmodified":1449034014,
+    "wof:lastmodified":1453930179,
     "wof:name":"Beer Store",
     "wof:parent_id":85895437,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.795563,43.325531,-79.795563,43.325531],
+  "bbox": [
+    -79.795563,
+    43.325531,
+    -79.795563,
+    43.325531
+],
   "geometry": {"coordinates":[-79.795563,43.325531],"type":"Point"}
 }

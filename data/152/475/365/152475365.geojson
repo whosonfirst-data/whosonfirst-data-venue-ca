@@ -2,13 +2,14 @@
   "id": 152475365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619186,45.621574,-73.619186,45.621574",
     "geom:latitude":45.621574,
     "geom:longitude":-73.619186,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a67050d263ca5e01c1b02c96e49ab1c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":152475365
         }
     ],
     "wof:id":152475365,
-    "wof:lastmodified":1449046229,
+    "wof:lastmodified":1453934291,
     "wof:name":"Renovations Montreal-Nord Inc",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.619186,45.621574,-73.619186,45.621574],
+  "bbox": [
+    -73.619186,
+    45.621574,
+    -73.619186,
+    45.621574
+],
   "geometry": {"coordinates":[-73.619186,45.621574],"type":"Point"}
 }

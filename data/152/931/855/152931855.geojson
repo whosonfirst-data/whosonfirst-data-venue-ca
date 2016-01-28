@@ -2,13 +2,14 @@
   "id": 152931855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.270836,43.168613,-79.270836,43.168613",
     "geom:latitude":43.168613,
     "geom:longitude":-79.270836,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"156 Martindale Rd",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864569,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"6a10d49ab6262662e1047f3abc41f9dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864569,
+            "region_id":85682057,
+            "venue_id":152931855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864569,
             "region_id":85682057,
             "venue_id":152931855
         }
     ],
     "wof:id":152931855,
-    "wof:lastmodified":1449048507,
+    "wof:lastmodified":1453936032,
     "wof:name":"Armenian Community Ctr",
     "wof:parent_id":85864569,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.270836,43.168613,-79.270836,43.168613],
+  "bbox": [
+    -79.270836,
+    43.168613,
+    -79.270836,
+    43.168613
+],
   "geometry": {"coordinates":[-79.270836,43.168613],"type":"Point"}
 }

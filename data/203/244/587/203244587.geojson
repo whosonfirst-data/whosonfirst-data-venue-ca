@@ -2,13 +2,14 @@
   "id": 203244587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.233269,43.163361,-79.233269,43.163361",
     "geom:latitude":43.163361,
     "geom:longitude":-79.233269,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864463,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"5d9a3b0de570fba631ef83502fc049a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":203244587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":203244587
         }
     ],
     "wof:id":203244587,
-    "wof:lastmodified":1449025670,
+    "wof:lastmodified":1453927546,
     "wof:name":"Marshall, C P MD",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.233269,43.163361,-79.233269,43.163361],
-  "geometry": {"coordinates":[-79.233269,43.163361],"type":"Point"}
+  "bbox": [
+    -79.233269,
+    43.163361,
+    -79.233269,
+    43.163361
+],
+  "geometry": {"coordinates":[-79.23326900000001,43.163361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153027629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.538277,46.343803,-72.538277,46.343803",
     "geom:latitude":46.343803,
     "geom:longitude":-72.538277,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"859 Rue Saint-Pierre",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874119,
+        102191575,
         85633041,
-        85874119
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"33599a40a0ed875ae730d04aae8357d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
+            "region_id":136251273,
             "venue_id":153027629
         }
     ],
     "wof:id":153027629,
-    "wof:lastmodified":1449040419,
+    "wof:lastmodified":1453932372,
     "wof:name":"Trudel & Trudel",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.538277,46.343803,-72.538277,46.343803],
-  "geometry": {"coordinates":[-72.538277,46.343803],"type":"Point"}
+  "bbox": [
+    -72.538277,
+    46.343803,
+    -72.538277,
+    46.343803
+],
+  "geometry": {"coordinates":[-72.53827699999999,46.343803],"type":"Point"}
 }

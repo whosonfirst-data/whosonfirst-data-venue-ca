@@ -2,13 +2,14 @@
   "id": 152522679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.37233,48.44767,-123.37233,48.44767",
     "geom:latitude":48.44767,
     "geom:longitude":-123.37233,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3377 Douglas St",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741111,
-        85633041,
         85875101,
+        102191575,
+        85633041,
+        101741111,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"6f9455e3ff05745dd0aa882c3ecd750e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741111,
             "neighbourhood_id":85875101,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":152522679,
-    "wof:lastmodified":1449046509,
+    "wof:lastmodified":1453934509,
     "wof:name":"Suburban Motors Ltd",
     "wof:parent_id":85875101,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.37233,48.44767,-123.37233,48.44767],
-  "geometry": {"coordinates":[-123.37233,48.44767],"type":"Point"}
+  "bbox": [
+    -123.37233,
+    48.44767,
+    -123.37233,
+    48.44767
+],
+  "geometry": {"coordinates":[-123.37233000000001,48.44767],"type":"Point"}
 }

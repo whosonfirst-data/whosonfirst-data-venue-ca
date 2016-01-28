@@ -2,13 +2,14 @@
   "id": 152262289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.222305,43.181522,-79.222305,43.181522",
     "geom:latitude":43.181522,
     "geom:longitude":-79.222305,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"454 Carlton St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"4b62303c586895c2d5f2140454159212",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152262289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152262289
         }
     ],
     "wof:id":152262289,
-    "wof:lastmodified":1449047162,
+    "wof:lastmodified":1453935003,
     "wof:name":"Mutliple Packaging",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.222305,43.181522,-79.222305,43.181522],
-  "geometry": {"coordinates":[-79.222305,43.181522],"type":"Point"}
+  "bbox": [
+    -79.222305,
+    43.181522,
+    -79.222305,
+    43.181522
+],
+  "geometry": {"coordinates":[-79.22230500000001,43.181522],"type":"Point"}
 }

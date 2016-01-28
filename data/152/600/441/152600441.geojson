@@ -2,13 +2,14 @@
   "id": 152600441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.252213,43.171677,-79.252213,43.171677",
     "geom:latitude":43.171677,
     "geom:longitude":-79.252213,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"145 Carlton St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864569,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"85316bfa8e0b87fccd48b226ea11d05a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864569,
+            "region_id":85682057,
+            "venue_id":152600441
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864569,
             "region_id":85682057,
             "venue_id":152600441
         }
     ],
     "wof:id":152600441,
-    "wof:lastmodified":1449044726,
+    "wof:lastmodified":1453933153,
     "wof:name":"Shoppers Home Health Care",
     "wof:parent_id":85864569,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.252213,43.171677,-79.252213,43.171677],
+  "bbox": [
+    -79.252213,
+    43.171677,
+    -79.252213,
+    43.171677
+],
   "geometry": {"coordinates":[-79.252213,43.171677],"type":"Point"}
 }

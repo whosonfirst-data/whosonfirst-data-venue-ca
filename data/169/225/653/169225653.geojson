@@ -2,13 +2,14 @@
   "id": 169225653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.580093,45.497211,-73.580093,45.497211",
     "geom:latitude":45.497211,
     "geom:longitude":-73.580093,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2144 Rue Mackay",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866491,
+        102191575,
         85633041,
-        85866491
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"92b245641775d8421a9aba4bf1042b21",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
+            "region_id":136251273,
             "venue_id":169225653
         }
     ],
     "wof:id":169225653,
-    "wof:lastmodified":1449033716,
+    "wof:lastmodified":1453929839,
     "wof:name":"Rapicom Courier",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.580093,45.497211,-73.580093,45.497211],
-  "geometry": {"coordinates":[-73.580093,45.497211],"type":"Point"}
+  "bbox": [
+    -73.580093,
+    45.497211,
+    -73.580093,
+    45.497211
+],
+  "geometry": {"coordinates":[-73.58009300000001,45.497211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169309299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589478,45.543343,-73.589478,45.543343",
     "geom:latitude":45.543343,
     "geom:longitude":-73.589478,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5931 Av DE Lorimier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9eaccaf3caf065aff4487d02ad89d381",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":169309299
         }
     ],
     "wof:id":169309299,
-    "wof:lastmodified":1449033414,
+    "wof:lastmodified":1453929521,
     "wof:name":"Lavallee, Elise DVM",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.589478,45.543343,-73.589478,45.543343],
+  "bbox": [
+    -73.589478,
+    45.543343,
+    -73.589478,
+    45.543343
+],
   "geometry": {"coordinates":[-73.589478,45.543343],"type":"Point"}
 }

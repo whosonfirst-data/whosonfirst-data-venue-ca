@@ -2,13 +2,14 @@
   "id": 152325087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.612823,45.449413,-73.612823,45.449413",
     "geom:latitude":45.449413,
     "geom:longitude":-73.612823,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2221 Boul Angrignon",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897535,
+        102191575,
         85633041,
-        85897535
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"60512813d63a94dca4187fc0a115f8ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897535,
+            "region_id":136251273,
             "venue_id":152325087
         }
     ],
     "wof:id":152325087,
-    "wof:lastmodified":1449046123,
+    "wof:lastmodified":1453934211,
     "wof:name":"Canadian Tire",
     "wof:parent_id":85897535,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.612823,45.449413,-73.612823,45.449413],
-  "geometry": {"coordinates":[-73.612823,45.449413],"type":"Point"}
+  "bbox": [
+    -73.612823,
+    45.449413,
+    -73.612823,
+    45.449413
+],
+  "geometry": {"coordinates":[-73.61282300000001,45.449413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202861039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.118111,49.316933,-123.118111,49.316933",
     "geom:latitude":49.316933,
     "geom:longitude":-123.118111,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"110 Garden Ave",
     "sg:city":"North Vancouver",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85865021,
+        102191575,
         85633041,
-        85682117
+        101741069,
+        85682117,
+        101744669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"82acf2fe80ba1c064479282dbfa5dfa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":202861039
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":202861039
         }
     ],
     "wof:id":202861039,
-    "wof:lastmodified":1449062626,
+    "wof:lastmodified":1453937502,
     "wof:name":"Kb-One Martial Arts Academy",
     "wof:parent_id":85865021,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "instruction"
     ]
 },
-  "bbox": [-123.118111,49.316933,-123.118111,49.316933],
+  "bbox": [
+    -123.118111,
+    49.316933,
+    -123.118111,
+    49.316933
+],
   "geometry": {"coordinates":[-123.118111,49.316933],"type":"Point"}
 }

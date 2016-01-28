@@ -2,13 +2,14 @@
   "id": 152759231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.418106,43.803036,-79.418106,43.803036",
     "geom:latitude":43.803036,
     "geom:longitude":-79.418106,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"34 Doncaster Ave",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895535,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"6b946ef2ed4206a2eb8391ae0b8858d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895535,
+            "region_id":85682057,
+            "venue_id":152759231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895535,
             "region_id":85682057,
             "venue_id":152759231
         }
     ],
     "wof:id":152759231,
-    "wof:lastmodified":1449048960,
+    "wof:lastmodified":1453936403,
     "wof:name":"Academy of Ballet & Jazz",
     "wof:parent_id":85895535,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.418106,43.803036,-79.418106,43.803036],
-  "geometry": {"coordinates":[-79.418106,43.803036],"type":"Point"}
+  "bbox": [
+    -79.418106,
+    43.803036,
+    -79.418106,
+    43.803036
+],
+  "geometry": {"coordinates":[-79.41810599999999,43.803036],"type":"Point"}
 }

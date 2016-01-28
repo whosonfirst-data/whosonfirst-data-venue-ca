@@ -2,13 +2,14 @@
   "id": 168823549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.351418,43.81599,-79.351418,43.81599",
     "geom:latitude":43.81599,
     "geom:longitude":-79.351418,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"55 Idema Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895483,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"81f6a3ebf778a427298a607f4a9af505",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":168823549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":168823549
         }
     ],
     "wof:id":168823549,
-    "wof:lastmodified":1449028584,
+    "wof:lastmodified":1453928678,
     "wof:name":"Toy Galaxy",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.351418,43.81599,-79.351418,43.81599],
+  "bbox": [
+    -79.351418,
+    43.81599,
+    -79.351418,
+    43.81599
+],
   "geometry": {"coordinates":[-79.351418,43.81599],"type":"Point"}
 }

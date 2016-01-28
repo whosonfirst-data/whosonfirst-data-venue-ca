@@ -2,13 +2,14 @@
   "id": 152524589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.794533,43.326321,-79.794533,43.326321",
     "geom:latitude":43.326321,
     "geom:longitude":-79.794533,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"398 Pearl St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895437,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"0617eeae2a2fda247e9965a662332304",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895437,
+            "region_id":85682057,
+            "venue_id":152524589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895437,
             "region_id":85682057,
             "venue_id":152524589
         }
     ],
     "wof:id":152524589,
-    "wof:lastmodified":1449044242,
+    "wof:lastmodified":1453932786,
     "wof:name":"Dagmar's Nails & Esthetics",
     "wof:parent_id":85895437,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.794533,43.326321,-79.794533,43.326321],
+  "bbox": [
+    -79.794533,
+    43.326321,
+    -79.794533,
+    43.326321
+],
   "geometry": {"coordinates":[-79.794533,43.326321],"type":"Point"}
 }

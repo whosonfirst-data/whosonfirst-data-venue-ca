@@ -2,13 +2,14 @@
   "id": 169435705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.647331,45.544167,-73.647331,45.544167",
     "geom:latitude":45.544167,
     "geom:longitude":-73.647331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"22 Rue Legendre O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"46c25a5cb77bd547abe0a701685f27c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":169435705
         }
     ],
     "wof:id":169435705,
-    "wof:lastmodified":1449035654,
+    "wof:lastmodified":1453931897,
     "wof:name":"Garage Legendre",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.647331,45.544167,-73.647331,45.544167],
-  "geometry": {"coordinates":[-73.647331,45.544167],"type":"Point"}
+  "bbox": [
+    -73.647331,
+    45.544167,
+    -73.647331,
+    45.544167
+],
+  "geometry": {"coordinates":[-73.64733099999999,45.544167],"type":"Point"}
 }

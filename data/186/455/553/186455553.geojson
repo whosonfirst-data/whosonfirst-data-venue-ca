@@ -2,13 +2,14 @@
   "id": 186455553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.530609,45.555599,-73.530609,45.555599",
     "geom:latitude":45.555599,
     "geom:longitude":-73.530609,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4800 Rue Sainte-Catherine E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874387,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"299438fb966c6ac270d5c004ff7066cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186455553
         }
     ],
     "wof:id":186455553,
-    "wof:lastmodified":1449052573,
+    "wof:lastmodified":1453936866,
     "wof:name":"Assurances Generales-Caisses",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "insurance"
     ]
 },
-  "bbox": [-73.530609,45.555599,-73.530609,45.555599],
+  "bbox": [
+    -73.530609,
+    45.555599,
+    -73.530609,
+    45.555599
+],
   "geometry": {"coordinates":[-73.530609,45.555599],"type":"Point"}
 }

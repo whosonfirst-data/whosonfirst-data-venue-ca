@@ -2,13 +2,14 @@
   "id": 169406817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.03653,45.290337,-74.03653,45.290337",
     "geom:latitude":45.290337,
     "geom:longitude":-74.03653,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Rue Des Aines",
     "sg:city":"Saint-Timothee",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895763,
+        102191575,
         85633041,
-        85895763
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"6f97662c3e9c87f199a540b2d09ab2e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895763,
+            "region_id":136251273,
             "venue_id":169406817
         }
     ],
     "wof:id":169406817,
-    "wof:lastmodified":1449034457,
+    "wof:lastmodified":1453930650,
     "wof:name":"Maison Des Aines",
     "wof:parent_id":85895763,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.03653,45.290337,-74.03653,45.290337],
+  "bbox": [
+    -74.03653,
+    45.290337,
+    -74.03653,
+    45.290337
+],
   "geometry": {"coordinates":[-74.03653,45.290337],"type":"Point"}
 }

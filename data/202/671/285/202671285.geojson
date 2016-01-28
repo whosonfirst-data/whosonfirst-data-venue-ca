@@ -2,13 +2,14 @@
   "id": 202671285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.622116,45.431423,-73.622116,45.431423",
     "geom:latitude":45.431423,
     "geom:longitude":-73.622116,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1439 Boul Shevchenko",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897545,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"4fd25490951edf94905db8147d28928d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897545,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202671285
         }
     ],
     "wof:id":202671285,
-    "wof:lastmodified":1449060688,
+    "wof:lastmodified":1453937096,
     "wof:name":"Cafe Lasalle",
     "wof:parent_id":85897545,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "billiard"
     ]
 },
-  "bbox": [-73.622116,45.431423,-73.622116,45.431423],
-  "geometry": {"coordinates":[-73.622116,45.431423],"type":"Point"}
+  "bbox": [
+    -73.622116,
+    45.431423,
+    -73.622116,
+    45.431423
+],
+  "geometry": {"coordinates":[-73.62211600000001,45.431423],"type":"Point"}
 }

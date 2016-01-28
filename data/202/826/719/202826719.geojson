@@ -2,13 +2,14 @@
   "id": 202826719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.221657,46.809464,-71.221657,46.809464",
     "geom:latitude":46.809464,
     "geom:longitude":-71.221657,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"480 Rue Saint-Jean",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866503,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"02665a40c986eb29978104e4f222a078",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866503,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202826719
         }
     ],
     "wof:id":202826719,
-    "wof:lastmodified":1449061941,
+    "wof:lastmodified":1453937357,
     "wof:name":"Presbytere St-Jean-Baptiste",
     "wof:parent_id":85866503,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "church"
     ]
 },
-  "bbox": [-71.221657,46.809464,-71.221657,46.809464],
-  "geometry": {"coordinates":[-71.221657,46.809464],"type":"Point"}
+  "bbox": [
+    -71.221657,
+    46.809464,
+    -71.221657,
+    46.809464
+],
+  "geometry": {"coordinates":[-71.22165699999999,46.809464],"type":"Point"}
 }

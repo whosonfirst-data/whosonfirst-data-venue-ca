@@ -2,13 +2,14 @@
   "id": 168848915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.234489,46.802006,-71.234489,46.802006",
     "geom:latitude":46.802006,
     "geom:longitude":-71.234489,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"875 Av Moncton",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866505,
+        102191575,
         85633041,
-        85866505
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"0103e2942e170d2efd89e203d50d8d9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866505,
+            "region_id":136251273,
             "venue_id":168848915
         }
     ],
     "wof:id":168848915,
-    "wof:lastmodified":1449027879,
+    "wof:lastmodified":1453927895,
     "wof:name":"C A Goode",
     "wof:parent_id":85866505,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.234489,46.802006,-71.234489,46.802006],
+  "bbox": [
+    -71.234489,
+    46.802006,
+    -71.234489,
+    46.802006
+],
   "geometry": {"coordinates":[-71.234489,46.802006],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152448967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803345,43.329308,-79.803345,43.329308",
     "geom:latitude":43.329308,
     "geom:longitude":-79.803345,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"590 Brant St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895437,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"5da4ef7f61a0f2e47754ba61c913373b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895437,
+            "region_id":85682057,
+            "venue_id":152448967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895437,
             "region_id":85682057,
             "venue_id":152448967
         }
     ],
     "wof:id":152448967,
-    "wof:lastmodified":1449048699,
+    "wof:lastmodified":1453936170,
     "wof:name":"Tax House",
     "wof:parent_id":85895437,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.803345,43.329308,-79.803345,43.329308],
-  "geometry": {"coordinates":[-79.803345,43.329308],"type":"Point"}
+  "bbox": [
+    -79.803345,
+    43.329308,
+    -79.803345,
+    43.329308
+],
+  "geometry": {"coordinates":[-79.80334499999999,43.329308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152868889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129066,43.912189,-80.129066,43.912189",
     "geom:latitude":43.912189,
     "geom:longitude":-80.129066,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"556 Broadway",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895083,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"21e6ede46f23119bacc89d3dd67f5e8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895083,
+            "region_id":85682057,
+            "venue_id":152868889
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895083,
             "region_id":85682057,
             "venue_id":152868889
         }
     ],
     "wof:id":152868889,
-    "wof:lastmodified":1449044502,
+    "wof:lastmodified":1453932980,
     "wof:name":"Broadway Pentecostal Tbrncl",
     "wof:parent_id":85895083,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.129066,43.912189,-80.129066,43.912189],
-  "geometry": {"coordinates":[-80.129066,43.912189],"type":"Point"}
+  "bbox": [
+    -80.129066,
+    43.912189,
+    -80.129066,
+    43.912189
+],
+  "geometry": {"coordinates":[-80.12906599999999,43.912189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186220289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.427185,43.877575,-79.427185,43.877575",
     "geom:latitude":43.877575,
     "geom:longitude":-79.427185,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"233 Centre St E",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895247,
+        102191575,
         85633041,
-        85682057
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"cb39a2b5e888f0a4a569cb32c7183969",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895247,
+            "region_id":85682057,
+            "venue_id":186220289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895247,
             "region_id":85682057,
             "venue_id":186220289
         }
     ],
     "wof:id":186220289,
-    "wof:lastmodified":1449052941,
+    "wof:lastmodified":1453936930,
     "wof:name":"Royal Canadian Legion Br 375",
     "wof:parent_id":85895247,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-79.427185,43.877575,-79.427185,43.877575],
-  "geometry": {"coordinates":[-79.427185,43.877575],"type":"Point"}
+  "bbox": [
+    -79.427185,
+    43.877575,
+    -79.427185,
+    43.877575
+],
+  "geometry": {"coordinates":[-79.42718499999999,43.877575],"type":"Point"}
 }

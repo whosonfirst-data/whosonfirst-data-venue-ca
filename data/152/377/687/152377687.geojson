@@ -2,13 +2,14 @@
   "id": 152377687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.65316,45.524055,-73.65316,45.524055",
     "geom:latitude":45.524055,
     "geom:longitude":-73.65316,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2105 Ch DE LA Cote-DE-Liesse",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736469,
+        85784817,
+        102191575,
         85633041,
-        85784817
+        101736469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"019faf6ccbd85fc321856ed3cc6ea4a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736469,
             "neighbourhood_id":85784817,
+            "region_id":136251273,
             "venue_id":152377687
         }
     ],
     "wof:id":152377687,
-    "wof:lastmodified":1449046042,
+    "wof:lastmodified":1453934150,
     "wof:name":"Location Lomont Hertz",
     "wof:parent_id":85784817,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.65316,45.524055,-73.65316,45.524055],
+  "bbox": [
+    -73.65316,
+    45.524055,
+    -73.65316,
+    45.524055
+],
   "geometry": {"coordinates":[-73.65316,45.524055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152749093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.44178,45.45496,-73.44178,45.45496",
     "geom:latitude":45.45496,
     "geom:longitude":-73.44178,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4250 Boul Lapiniere",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897511,
+        102191575,
         85633041,
-        85897511
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f2928f96f7de58ed5b5a01535e3c9cb1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897511,
+            "region_id":136251273,
             "venue_id":152749093
         }
     ],
     "wof:id":152749093,
-    "wof:lastmodified":1449045616,
+    "wof:lastmodified":1453933836,
     "wof:name":"Immeubles Beaumont Inc",
     "wof:parent_id":85897511,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.44178,45.45496,-73.44178,45.45496],
-  "geometry": {"coordinates":[-73.44178,45.45496],"type":"Point"}
+  "bbox": [
+    -73.44178,
+    45.45496,
+    -73.44178,
+    45.45496
+],
+  "geometry": {"coordinates":[-73.44177999999999,45.45496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169293243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.549271,45.522289,-73.549271,45.522289",
     "geom:latitude":45.522289,
     "geom:longitude":-73.549271,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"46e3fca9f7c4d281e114e850e976aa24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":169293243
         }
     ],
     "wof:id":169293243,
-    "wof:lastmodified":1449033338,
+    "wof:lastmodified":1453929444,
     "wof:name":"Boscher, Francois",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.549271,45.522289,-73.549271,45.522289],
+  "bbox": [
+    -73.549271,
+    45.522289,
+    -73.549271,
+    45.522289
+],
   "geometry": {"coordinates":[-73.549271,45.522289],"type":"Point"}
 }

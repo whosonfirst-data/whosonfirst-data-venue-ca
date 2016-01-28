@@ -2,13 +2,14 @@
   "id": 152590871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.217667,43.167889,-79.217667,43.167889",
     "geom:latitude":43.167889,
     "geom:longitude":-79.217667,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"45 Wright St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b810bc6407291f0e2d72ef5d2284513f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152590871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152590871
         }
     ],
     "wof:id":152590871,
-    "wof:lastmodified":1449047046,
+    "wof:lastmodified":1453934911,
     "wof:name":"Kraun Electric Inc",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.217667,43.167889,-79.217667,43.167889],
-  "geometry": {"coordinates":[-79.217667,43.167889],"type":"Point"}
+  "bbox": [
+    -79.217667,
+    43.167889,
+    -79.217667,
+    43.167889
+],
+  "geometry": {"coordinates":[-79.21766700000001,43.167889],"type":"Point"}
 }

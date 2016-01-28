@@ -2,13 +2,14 @@
   "id": 168890055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.221298,46.809437,-71.221298,46.809437",
     "geom:latitude":46.809437,
     "geom:longitude":-71.221298,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"499 Rue Saint-Jean",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866503,
+        102191575,
         85633041,
-        85866503
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2433438d036bb1679e4f05cc96dffce0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866503,
+            "region_id":136251273,
             "venue_id":168890055
         }
     ],
     "wof:id":168890055,
-    "wof:lastmodified":1449027947,
+    "wof:lastmodified":1453927982,
     "wof:name":"Librairie Nelligan Enr",
     "wof:parent_id":85866503,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.221298,46.809437,-71.221298,46.809437],
+  "bbox": [
+    -71.221298,
+    46.809437,
+    -71.221298,
+    46.809437
+],
   "geometry": {"coordinates":[-71.221298,46.809437],"type":"Point"}
 }

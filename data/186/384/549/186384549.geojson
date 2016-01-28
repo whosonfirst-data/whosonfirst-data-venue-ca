@@ -2,13 +2,14 @@
   "id": 186384549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.735535,45.567467,-73.735535,45.567467",
     "geom:latitude":45.567467,
     "geom:longitude":-73.735535,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1800 Boul Le Corbusier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897571,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"14902decd52a8144962477ca2f02e3f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897571,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186384549
         }
     ],
     "wof:id":186384549,
-    "wof:lastmodified":1449050625,
+    "wof:lastmodified":1453936540,
     "wof:name":"Weidmuller Limited",
     "wof:parent_id":85897571,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.735535,45.567467,-73.735535,45.567467],
+  "bbox": [
+    -73.735535,
+    45.567467,
+    -73.735535,
+    45.567467
+],
   "geometry": {"coordinates":[-73.735535,45.567467],"type":"Point"}
 }

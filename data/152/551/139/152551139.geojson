@@ -2,13 +2,14 @@
   "id": 152551139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.725929,43.432449,-79.725929,43.432449",
     "geom:latitude":43.432449,
     "geom:longitude":-79.725929,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1467 Pilgrims Way",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895687,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"dda3fb518e74d443a93719cee3d99dc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895687,
+            "region_id":85682057,
+            "venue_id":152551139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895687,
             "region_id":85682057,
             "venue_id":152551139
         }
     ],
     "wof:id":152551139,
-    "wof:lastmodified":1449045231,
+    "wof:lastmodified":1453933533,
     "wof:name":"Intergreen",
     "wof:parent_id":85895687,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.725929,43.432449,-79.725929,43.432449],
-  "geometry": {"coordinates":[-79.725929,43.432449],"type":"Point"}
+  "bbox": [
+    -79.725929,
+    43.432449,
+    -79.725929,
+    43.432449
+],
+  "geometry": {"coordinates":[-79.72592899999999,43.432449],"type":"Point"}
 }

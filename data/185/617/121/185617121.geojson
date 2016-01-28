@@ -2,13 +2,14 @@
   "id": 185617121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.505951,43.836113,-79.505951,43.836113",
     "geom:latitude":43.836113,
     "geom:longitude":-79.505951,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Concord",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895339,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"cb5356c62395fe214c0b57b8f8049bc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895339,
+            "region_id":85682057,
+            "venue_id":185617121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895339,
             "region_id":85682057,
             "venue_id":185617121
         }
     ],
     "wof:id":185617121,
-    "wof:lastmodified":1449006635,
+    "wof:lastmodified":1453927197,
     "wof:name":"Colours of Maple",
     "wof:parent_id":85895339,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "paint"
     ]
 },
-  "bbox": [-79.505951,43.836113,-79.505951,43.836113],
+  "bbox": [
+    -79.505951,
+    43.836113,
+    -79.505951,
+    43.836113
+],
   "geometry": {"coordinates":[-79.505951,43.836113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169539907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.369423,46.765549,-71.369423,46.765549",
     "geom:latitude":46.765549,
     "geom:longitude":-71.369423,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1243 Rue Charles-Albanel",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85784683,
+        102191575,
         85633041,
-        85784683
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"f8cf12df565c9ca35f346c5ae36cf24c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784683,
+            "region_id":136251273,
             "venue_id":169539907
         }
     ],
     "wof:id":169539907,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1453932285,
     "wof:name":"Restaurant Normandin",
     "wof:parent_id":85784683,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.369423,46.765549,-71.369423,46.765549],
+  "bbox": [
+    -71.369423,
+    46.765549,
+    -71.369423,
+    46.765549
+],
   "geometry": {"coordinates":[-71.369423,46.765549],"type":"Point"}
 }

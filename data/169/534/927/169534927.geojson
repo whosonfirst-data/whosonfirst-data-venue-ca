@@ -2,13 +2,14 @@
   "id": 169534927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.281059,46.771248,-71.281059,46.771248",
     "geom:latitude":46.771248,
     "geom:longitude":-71.281059,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2590 Boul Laurier # 150",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"61686e08d8072a01a9f491eaa4008307",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":169534927
         }
     ],
     "wof:id":169534927,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1453929660,
     "wof:name":"Restaurant Beaugarte",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.281059,46.771248,-71.281059,46.771248],
+  "bbox": [
+    -71.281059,
+    46.771248,
+    -71.281059,
+    46.771248
+],
   "geometry": {"coordinates":[-71.281059,46.771248],"type":"Point"}
 }

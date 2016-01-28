@@ -2,13 +2,14 @@
   "id": 202923701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.631279,45.443699,-73.631279,45.443699",
     "geom:latitude":45.443699,
     "geom:longitude":-73.631279,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2701 Rue Lapierre",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784813,
+        102191575,
         85633041,
-        101736483
+        101736483,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"cd5ab0850cb242c9c647094aca986cc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736483,
             "neighbourhood_id":85784813,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202923701
         }
     ],
     "wof:id":202923701,
-    "wof:lastmodified":1449062555,
+    "wof:lastmodified":1453937486,
     "wof:name":"King's Transfer Intl",
     "wof:parent_id":85784813,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "mover"
     ]
 },
-  "bbox": [-73.631279,45.443699,-73.631279,45.443699],
-  "geometry": {"coordinates":[-73.631279,45.443699],"type":"Point"}
+  "bbox": [
+    -73.631279,
+    45.443699,
+    -73.631279,
+    45.443699
+],
+  "geometry": {"coordinates":[-73.63127900000001,45.443699],"type":"Point"}
 }

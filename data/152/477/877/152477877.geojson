@@ -2,13 +2,14 @@
   "id": 152477877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.201797,49.235054,-123.201797,49.235054",
     "geom:latitude":49.235054,
     "geom:longitude":-123.201797,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6 Semana Cres",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865071,
-        85682117
+        102191575,
+        85633041,
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"57f2c9f78d7beb4605221c1f6e67de92",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":152477877
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":152477877
         }
     ],
     "wof:id":152477877,
-    "wof:lastmodified":1449045105,
+    "wof:lastmodified":1453933439,
     "wof:name":"Rep Art",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.201797,49.235054,-123.201797,49.235054],
+  "bbox": [
+    -123.201797,
+    49.235054,
+    -123.201797,
+    49.235054
+],
   "geometry": {"coordinates":[-123.201797,49.235054],"type":"Point"}
 }

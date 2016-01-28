@@ -2,13 +2,14 @@
   "id": 152844701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.190277,45.562366,-73.190277,45.562366",
     "geom:latitude":45.562366,
     "geom:longitude":-73.190277,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mont-Saint-Hilaire",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737201,
+        85894595,
+        102191575,
         85633041,
-        85894595
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"268db735f178ff61994eb5019f3906ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894595,
+            "region_id":136251273,
             "venue_id":152844701
         }
     ],
     "wof:id":152844701,
-    "wof:lastmodified":1449046287,
+    "wof:lastmodified":1453934334,
     "wof:name":"Clinique Dentaire Desranleau",
     "wof:parent_id":85894595,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.190277,45.562366,-73.190277,45.562366],
-  "geometry": {"coordinates":[-73.190277,45.562366],"type":"Point"}
+  "bbox": [
+    -73.190277,
+    45.562366,
+    -73.190277,
+    45.562366
+],
+  "geometry": {"coordinates":[-73.19027699999999,45.562366],"type":"Point"}
 }

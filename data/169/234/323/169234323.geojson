@@ -2,13 +2,14 @@
   "id": 169234323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.598656,45.546047,-73.598656,45.546047",
     "geom:latitude":45.546047,
     "geom:longitude":-73.598656,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1964 Rue Saint-Zotique E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ecb282fbd0ef259016055b4b5d30a45f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":169234323
         }
     ],
     "wof:id":169234323,
-    "wof:lastmodified":1449035779,
+    "wof:lastmodified":1453932051,
     "wof:name":"Champoux Gaston Inc",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.598656,45.546047,-73.598656,45.546047],
-  "geometry": {"coordinates":[-73.598656,45.546047],"type":"Point"}
+  "bbox": [
+    -73.598656,
+    45.546047,
+    -73.598656,
+    45.546047
+],
+  "geometry": {"coordinates":[-73.59865600000001,45.546047],"type":"Point"}
 }

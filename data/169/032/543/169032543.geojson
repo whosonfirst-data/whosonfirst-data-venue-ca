@@ -2,13 +2,14 @@
   "id": 169032543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.807022,43.724003,-79.807022,43.724003",
     "geom:latitude":43.724003,
     "geom:longitude":-79.807022,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Petworth Rd",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895445,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"3129436c95c284a7bf3ff1be8d6678c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895445,
+            "region_id":85682057,
+            "venue_id":169032543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895445,
             "region_id":85682057,
             "venue_id":169032543
         }
     ],
     "wof:id":169032543,
-    "wof:lastmodified":1449034300,
+    "wof:lastmodified":1453930472,
     "wof:name":"Billy Carter Chimney Sweep",
     "wof:parent_id":85895445,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.807022,43.724003,-79.807022,43.724003],
+  "bbox": [
+    -79.807022,
+    43.724003,
+    -79.807022,
+    43.724003
+],
   "geometry": {"coordinates":[-79.807022,43.724003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153006701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.853569,45.450172,-73.853569,45.450172",
     "geom:latitude":45.450172,
     "geom:longitude":-73.853569,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16829 Boul Hymus",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736453,
+        85897587,
+        102191575,
         85633041,
-        85897587
+        101736453,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"58b1422d47b1577dccf6704f62f6c267",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736453,
             "neighbourhood_id":85897587,
+            "region_id":136251273,
             "venue_id":153006701
         }
     ],
     "wof:id":153006701,
-    "wof:lastmodified":1449040722,
+    "wof:lastmodified":1453932646,
     "wof:name":"Jbl Industries Inc",
     "wof:parent_id":85897587,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.853569,45.450172,-73.853569,45.450172],
-  "geometry": {"coordinates":[-73.853569,45.450172],"type":"Point"}
+  "bbox": [
+    -73.853569,
+    45.450172,
+    -73.853569,
+    45.450172
+],
+  "geometry": {"coordinates":[-73.85356899999999,45.450172],"type":"Point"}
 }

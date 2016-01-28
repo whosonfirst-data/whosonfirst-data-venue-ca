@@ -2,13 +2,14 @@
   "id": 153013773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.587601,43.559689,-79.587601,43.559689",
     "geom:latitude":43.559689,
     "geom:longitude":-79.587601,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1215 Hurontario St",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895115,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5c1662b9112980477c63b5c1865db763",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":153013773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":153013773
         }
     ],
     "wof:id":153013773,
-    "wof:lastmodified":1449040683,
+    "wof:lastmodified":1453932606,
     "wof:name":"Cousins Foods",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.587601,43.559689,-79.587601,43.559689],
-  "geometry": {"coordinates":[-79.587601,43.559689],"type":"Point"}
+  "bbox": [
+    -79.587601,
+    43.559689,
+    -79.587601,
+    43.559689
+],
+  "geometry": {"coordinates":[-79.58760100000001,43.559689],"type":"Point"}
 }

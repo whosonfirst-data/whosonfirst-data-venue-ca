@@ -2,13 +2,14 @@
   "id": 169344745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.728294,45.568516,-73.728294,45.568516",
     "geom:latitude":45.568516,
     "geom:longitude":-73.728294,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1750 Boul Tessier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"28d83a2a22a565d2ea2f637826e60431",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":169344745
         }
     ],
     "wof:id":169344745,
-    "wof:lastmodified":1449032852,
+    "wof:lastmodified":1453928992,
     "wof:name":"Decoration Rejane Gosselin",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.728294,45.568516,-73.728294,45.568516],
-  "geometry": {"coordinates":[-73.728294,45.568516],"type":"Point"}
+  "bbox": [
+    -73.728294,
+    45.568516,
+    -73.728294,
+    45.568516
+],
+  "geometry": {"coordinates":[-73.72829400000001,45.568516],"type":"Point"}
 }

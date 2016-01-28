@@ -2,13 +2,14 @@
   "id": 169511685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.430962,45.565933,-73.430962,45.565933",
     "geom:latitude":45.565933,
     "geom:longitude":-73.430962,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Boucherville",
     "sg:classifiers":[
         {
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875755,
+        102191575,
         85633041,
-        85875755
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"afa9c19c4048e3196ed1035df886985e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875755,
+            "region_id":136251273,
             "venue_id":169511685
         }
     ],
     "wof:id":169511685,
-    "wof:lastmodified":1449034196,
+    "wof:lastmodified":1453930387,
     "wof:name":"Audio Distributeurs Intl",
     "wof:parent_id":85875755,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.430962,45.565933,-73.430962,45.565933],
-  "geometry": {"coordinates":[-73.430962,45.565933],"type":"Point"}
+  "bbox": [
+    -73.430962,
+    45.565933,
+    -73.430962,
+    45.565933
+],
+  "geometry": {"coordinates":[-73.43096199999999,45.565933],"type":"Point"}
 }

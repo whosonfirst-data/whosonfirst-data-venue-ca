@@ -2,13 +2,14 @@
   "id": 186508705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.331482,43.874973,-79.331482,43.874973",
     "geom:latitude":43.874973,
     "geom:longitude":-79.331482,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Rae Cres",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -31,8 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895493,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,24 @@
     "wof:geomhash":"540cd26ed7389bf7ee6a48d71f67899f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895493,
+            "region_id":85682057,
+            "venue_id":186508705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895493,
             "region_id":85682057,
             "venue_id":186508705
         }
     ],
     "wof:id":186508705,
-    "wof:lastmodified":1449051887,
+    "wof:lastmodified":1453936737,
     "wof:name":"Mairi Vasil Design",
     "wof:parent_id":85895493,
     "wof:placetype":"venue",
@@ -64,6 +76,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.331482,43.874973,-79.331482,43.874973],
-  "geometry": {"coordinates":[-79.331482,43.874973],"type":"Point"}
+  "bbox": [
+    -79.331482,
+    43.874973,
+    -79.331482,
+    43.874973
+],
+  "geometry": {"coordinates":[-79.33148199999999,43.874973],"type":"Point"}
 }

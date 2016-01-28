@@ -2,13 +2,14 @@
   "id": 202467333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.709625,45.45409,-73.709625,45.45409",
     "geom:latitude":45.45409,
     "geom:longitude":-73.709625,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1600 46E Av",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784727,
+        102191575,
         85633041,
-        101736475
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"5ab22ceb0a3b72153686eaca533e1ab3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202467333
         }
     ],
     "wof:id":202467333,
-    "wof:lastmodified":1449062112,
+    "wof:lastmodified":1453937394,
     "wof:name":"Somapharm Inc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.709625,45.45409,-73.709625,45.45409],
+  "bbox": [
+    -73.709625,
+    45.45409,
+    -73.709625,
+    45.45409
+],
   "geometry": {"coordinates":[-73.709625,45.45409],"type":"Point"}
 }

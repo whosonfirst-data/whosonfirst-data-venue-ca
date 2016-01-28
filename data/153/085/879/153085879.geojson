@@ -2,13 +2,14 @@
   "id": 153085879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566811,45.511425,-73.566811,45.511425",
     "geom:latitude":45.511425,
     "geom:longitude":-73.566811,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2001 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"f4ce9df35579884d61d2c2776f369731",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":153085879
         }
     ],
     "wof:id":153085879,
-    "wof:lastmodified":1449040454,
+    "wof:lastmodified":1453932405,
     "wof:name":"Onentokon Treatment Svc",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566811,45.511425,-73.566811,45.511425],
+  "bbox": [
+    -73.566811,
+    45.511425,
+    -73.566811,
+    45.511425
+],
   "geometry": {"coordinates":[-73.566811,45.511425],"type":"Point"}
 }

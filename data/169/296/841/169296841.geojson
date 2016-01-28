@@ -2,13 +2,14 @@
   "id": 169296841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494423,45.506157,-73.494423,45.506157",
     "geom:latitude":45.506157,
     "geom:longitude":-73.494423,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1536 Av DE L'Eglise",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ca356cefbd20daadaa22c3f09dfbd5bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":169296841
         }
     ],
     "wof:id":169296841,
-    "wof:lastmodified":1449035345,
+    "wof:lastmodified":1453931549,
     "wof:name":"Super Generateur Inc",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.494423,45.506157,-73.494423,45.506157],
+  "bbox": [
+    -73.494423,
+    45.506157,
+    -73.494423,
+    45.506157
+],
   "geometry": {"coordinates":[-73.494423,45.506157],"type":"Point"}
 }

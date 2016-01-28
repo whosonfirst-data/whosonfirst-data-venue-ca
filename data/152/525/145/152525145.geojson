@@ -2,13 +2,14 @@
   "id": 152525145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.237701,48.426537,-71.237701,48.426537",
     "geom:latitude":48.426537,
     "geom:longitude":-71.237701,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1999 Rue Sainte-Famille",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f61b7054b857ed0f17370a71c9d60995",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152525145
         }
     ],
     "wof:id":152525145,
-    "wof:lastmodified":1449047953,
+    "wof:lastmodified":1453935616,
     "wof:name":"Bar Chez Pappy",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.237701,48.426537,-71.237701,48.426537],
+  "bbox": [
+    -71.237701,
+    48.426537,
+    -71.237701,
+    48.426537
+],
   "geometry": {"coordinates":[-71.237701,48.426537],"type":"Point"}
 }

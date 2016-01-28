@@ -2,13 +2,14 @@
   "id": 152865331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.57048,45.614819,-73.57048,45.614819",
     "geom:latitude":45.614819,
     "geom:longitude":-73.57048,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8147 Rue Grenache",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1d3712d5cae358d6c42f2c08ff2a5d53",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152865331
         }
     ],
     "wof:id":152865331,
-    "wof:lastmodified":1449047789,
+    "wof:lastmodified":1453935490,
     "wof:name":"Transport Gilles Perreault",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.57048,45.614819,-73.57048,45.614819],
+  "bbox": [
+    -73.57048,
+    45.614819,
+    -73.57048,
+    45.614819
+],
   "geometry": {"coordinates":[-73.57048,45.614819],"type":"Point"}
 }

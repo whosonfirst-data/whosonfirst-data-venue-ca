@@ -2,13 +2,14 @@
   "id": 152922767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.623924,43.629627,-79.623924,43.629627",
     "geom:latitude":43.629627,
     "geom:longitude":-79.623924,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1125 Crestlawn Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895107,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"243cb30235ef42df1c34eaf547fec555",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895107,
+            "region_id":85682057,
+            "venue_id":152922767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895107,
             "region_id":85682057,
             "venue_id":152922767
         }
     ],
     "wof:id":152922767,
-    "wof:lastmodified":1449044717,
+    "wof:lastmodified":1453933150,
     "wof:name":"Holmes Plumbing Supplies",
     "wof:parent_id":85895107,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.623924,43.629627,-79.623924,43.629627],
+  "bbox": [
+    -79.623924,
+    43.629627,
+    -79.623924,
+    43.629627
+],
   "geometry": {"coordinates":[-79.623924,43.629627],"type":"Point"}
 }

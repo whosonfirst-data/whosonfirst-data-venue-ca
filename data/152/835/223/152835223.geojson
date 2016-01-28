@@ -2,13 +2,14 @@
   "id": 152835223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.575989,46.410721,-72.575989,46.410721",
     "geom:latitude":46.410721,
     "geom:longitude":-72.575989,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Louis-DE-France",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85785013,
+        102191575,
         85633041,
-        85785013
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"196ca4a5b864e4f46bd9e0e97433e09a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85785013,
+            "region_id":136251273,
             "venue_id":152835223
         }
     ],
     "wof:id":152835223,
-    "wof:lastmodified":1449044961,
+    "wof:lastmodified":1453933337,
     "wof:name":"Caravane Horizon Inc",
     "wof:parent_id":85785013,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.575989,46.410721,-72.575989,46.410721],
-  "geometry": {"coordinates":[-72.575989,46.410721],"type":"Point"}
+  "bbox": [
+    -72.575989,
+    46.410721,
+    -72.575989,
+    46.410721
+],
+  "geometry": {"coordinates":[-72.57598900000001,46.410721],"type":"Point"}
 }

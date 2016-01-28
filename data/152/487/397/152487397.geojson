@@ -2,13 +2,14 @@
   "id": 152487397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625092,45.591125,-73.625092,45.591125",
     "geom:latitude":45.591125,
     "geom:longitude":-73.625092,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10350 Av Bellevois",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"7f0bc1aabef2f0221dd81509b6568490",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":152487397
         }
     ],
     "wof:id":152487397,
-    "wof:lastmodified":1449045816,
+    "wof:lastmodified":1453933986,
     "wof:name":"Cuisi-Budget Inc",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.625092,45.591125,-73.625092,45.591125],
+  "bbox": [
+    -73.625092,
+    45.591125,
+    -73.625092,
+    45.591125
+],
   "geometry": {"coordinates":[-73.625092,45.591125],"type":"Point"}
 }

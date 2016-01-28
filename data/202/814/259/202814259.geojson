@@ -2,13 +2,14 @@
   "id": 202814259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572601,45.534744,-73.572601,45.534744",
     "geom:latitude":45.534744,
     "geom:longitude":-73.572601,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2036 Av Du Mont-Royal E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866479,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"9297bf5dc51a146666c0be7ea28945cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202814259
         }
     ],
     "wof:id":202814259,
-    "wof:lastmodified":1449060569,
+    "wof:lastmodified":1453937071,
     "wof:name":"Nature & Decouverte",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "craft"
     ]
 },
-  "bbox": [-73.572601,45.534744,-73.572601,45.534744],
-  "geometry": {"coordinates":[-73.572601,45.534744],"type":"Point"}
+  "bbox": [
+    -73.572601,
+    45.534744,
+    -73.572601,
+    45.534744
+],
+  "geometry": {"coordinates":[-73.57260100000001,45.534744],"type":"Point"}
 }

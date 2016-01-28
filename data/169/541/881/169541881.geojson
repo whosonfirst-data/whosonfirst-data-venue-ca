@@ -2,13 +2,14 @@
   "id": 169541881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589111,45.52713,-73.589111,45.52713",
     "geom:latitude":45.52713,
     "geom:longitude":-73.589111,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"420 Av Laurier E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e370f550d16f28bbf703d560b1becf11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":169541881
         }
     ],
     "wof:id":169541881,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1453929167,
     "wof:name":"Poitras, Denis",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.589111,45.52713,-73.589111,45.52713],
+  "bbox": [
+    -73.589111,
+    45.52713,
+    -73.589111,
+    45.52713
+],
   "geometry": {"coordinates":[-73.589111,45.52713],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152691073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494743,45.511185,-73.494743,45.511185",
     "geom:latitude":45.511185,
     "geom:longitude":-73.494743,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1815 Boul Taschereau",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"56480a96b128620f42ce2f36b2708aa6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":152691073
         }
     ],
     "wof:id":152691073,
-    "wof:lastmodified":1449044679,
+    "wof:lastmodified":1453933122,
     "wof:name":"Donald Lacoste Ventilation Inc",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.494743,45.511185,-73.494743,45.511185],
+  "bbox": [
+    -73.494743,
+    45.511185,
+    -73.494743,
+    45.511185
+],
   "geometry": {"coordinates":[-73.494743,45.511185],"type":"Point"}
 }

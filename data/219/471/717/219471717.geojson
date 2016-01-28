@@ -2,13 +2,14 @@
   "id": 219471717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.580345,45.483509,-73.580345,45.483509",
     "geom:latitude":45.483509,
     "geom:longitude":-73.580345,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3181 Rue Saint-Jacques",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897607,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"7fe2c10c988dc9b4c060b246ea6ca85a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897607,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219471717
         }
     ],
     "wof:id":219471717,
-    "wof:lastmodified":1449071803,
+    "wof:lastmodified":1453937730,
     "wof:name":"J B Gillies Reg'd",
     "wof:parent_id":85897607,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "screen"
     ]
 },
-  "bbox": [-73.580345,45.483509,-73.580345,45.483509],
-  "geometry": {"coordinates":[-73.580345,45.483509],"type":"Point"}
+  "bbox": [
+    -73.580345,
+    45.483509,
+    -73.580345,
+    45.483509
+],
+  "geometry": {"coordinates":[-73.58034499999999,45.483509],"type":"Point"}
 }

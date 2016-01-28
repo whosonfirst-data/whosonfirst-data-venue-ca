@@ -2,13 +2,14 @@
   "id": 186636539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.759201,43.386257,-79.759201,43.386257",
     "geom:latitude":43.386257,
     "geom:longitude":-79.759201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"930 Sheldon Crt",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895033,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"bb33b27489dad20e75df70b826282bd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895033,
+            "region_id":85682057,
+            "venue_id":186636539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895033,
             "region_id":85682057,
             "venue_id":186636539
         }
     ],
     "wof:id":186636539,
-    "wof:lastmodified":1449051433,
+    "wof:lastmodified":1453936660,
     "wof:name":"Ontario Pipe Trades Council",
     "wof:parent_id":85895033,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.759201,43.386257,-79.759201,43.386257],
+  "bbox": [
+    -79.759201,
+    43.386257,
+    -79.759201,
+    43.386257
+],
   "geometry": {"coordinates":[-79.759201,43.386257],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152238849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.255486,46.821526,-71.255486,46.821526",
     "geom:latitude":46.821526,
     "geom:longitude":-71.255486,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"465 Rue Soumande",
     "sg:city":"Vanier",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864413,
+        102191575,
         85633041,
-        85864413
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5ad40032cf3d68accc2737105cbced14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864413,
+            "region_id":136251273,
             "venue_id":152238849
         }
     ],
     "wof:id":152238849,
-    "wof:lastmodified":1449046035,
+    "wof:lastmodified":1453934147,
     "wof:name":"Mode Choc",
     "wof:parent_id":85864413,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.255486,46.821526,-71.255486,46.821526],
+  "bbox": [
+    -71.255486,
+    46.821526,
+    -71.255486,
+    46.821526
+],
   "geometry": {"coordinates":[-71.255486,46.821526],"type":"Point"}
 }

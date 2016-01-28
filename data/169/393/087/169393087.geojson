@@ -2,13 +2,14 @@
   "id": 169393087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.48774,43.819302,-79.48774,43.819302",
     "geom:latitude":43.819302,
     "geom:longitude":-79.48774,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Connie Cres # 14",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895537,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"67edb1f9e65da8fe9207d8da2e0b3297",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895537,
+            "region_id":85682057,
+            "venue_id":169393087
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895537,
             "region_id":85682057,
             "venue_id":169393087
         }
     ],
     "wof:id":169393087,
-    "wof:lastmodified":1449033730,
+    "wof:lastmodified":1453929858,
     "wof:name":"Bradley Air Conditioning",
     "wof:parent_id":85895537,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.48774,43.819302,-79.48774,43.819302],
+  "bbox": [
+    -79.48774,
+    43.819302,
+    -79.48774,
+    43.819302
+],
   "geometry": {"coordinates":[-79.48774,43.819302],"type":"Point"}
 }

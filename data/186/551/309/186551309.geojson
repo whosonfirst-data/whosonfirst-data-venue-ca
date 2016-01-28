@@ -2,13 +2,14 @@
   "id": 186551309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.274483,43.176708,-79.274483,43.176708",
     "geom:latitude":43.176708,
     "geom:longitude":-79.274483,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875035,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"a895094ba7b685b871430ee683f4dbab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875035,
+            "region_id":85682057,
+            "venue_id":186551309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875035,
             "region_id":85682057,
             "venue_id":186551309
         }
     ],
     "wof:id":186551309,
-    "wof:lastmodified":1449050942,
+    "wof:lastmodified":1453936569,
     "wof:name":"St Catharines Oral Surgery",
     "wof:parent_id":85875035,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "dentist"
     ]
 },
-  "bbox": [-79.274483,43.176708,-79.274483,43.176708],
+  "bbox": [
+    -79.274483,
+    43.176708,
+    -79.274483,
+    43.176708
+],
   "geometry": {"coordinates":[-79.274483,43.176708],"type":"Point"}
 }

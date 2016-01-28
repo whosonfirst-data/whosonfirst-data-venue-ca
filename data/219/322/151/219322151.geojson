@@ -2,13 +2,14 @@
   "id": 219322151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.060005,43.854126,-79.060005,43.854126",
     "geom:latitude":43.854126,
     "geom:longitude":-79.060005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Ajax",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895697,
+        102191575,
         85633041,
-        85682057
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"ea9c7ce881b9d57743038e4663fcad01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895697,
+            "region_id":85682057,
+            "venue_id":219322151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895697,
             "region_id":85682057,
             "venue_id":219322151
         }
     ],
     "wof:id":219322151,
-    "wof:lastmodified":1449070340,
+    "wof:lastmodified":1453937529,
     "wof:name":"J D Fleming & CO",
     "wof:parent_id":85895697,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "accountant"
     ]
 },
-  "bbox": [-79.060005,43.854126,-79.060005,43.854126],
+  "bbox": [
+    -79.060005,
+    43.854126,
+    -79.060005,
+    43.854126
+],
   "geometry": {"coordinates":[-79.060005,43.854126],"type":"Point"}
 }

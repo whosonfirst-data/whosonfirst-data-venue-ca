@@ -2,13 +2,14 @@
   "id": 152862911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.463074,43.899174,-79.463074,43.899174",
     "geom:latitude":43.899174,
     "geom:longitude":-79.463074,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"53 Owl Ridge Dr",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895427,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"33757472c8ce8c9a79ff51c1ed697adc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895427,
+            "region_id":85682057,
+            "venue_id":152862911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895427,
             "region_id":85682057,
             "venue_id":152862911
         }
     ],
     "wof:id":152862911,
-    "wof:lastmodified":1449049010,
+    "wof:lastmodified":1453936442,
     "wof:name":"Premier Linens",
     "wof:parent_id":85895427,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.463074,43.899174,-79.463074,43.899174],
-  "geometry": {"coordinates":[-79.463074,43.899174],"type":"Point"}
+  "bbox": [
+    -79.463074,
+    43.899174,
+    -79.463074,
+    43.899174
+],
+  "geometry": {"coordinates":[-79.46307400000001,43.899174],"type":"Point"}
 }

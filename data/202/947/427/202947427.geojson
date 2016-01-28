@@ -2,13 +2,14 @@
   "id": 202947427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618561,45.478558,-73.618561,45.478558",
     "geom:latitude":45.478558,
     "geom:longitude":-73.618561,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4200 Boul Decarie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897633,
+        102191575,
         85633041,
-        101736451
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"b61af2896a9c7002c6f22b9d932b2a44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897633,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202947427
         }
     ],
     "wof:id":202947427,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1453937356,
     "wof:name":"Chopin",
     "wof:parent_id":85897633,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.618561,45.478558,-73.618561,45.478558],
+  "bbox": [
+    -73.618561,
+    45.478558,
+    -73.618561,
+    45.478558
+],
   "geometry": {"coordinates":[-73.618561,45.478558],"type":"Point"}
 }

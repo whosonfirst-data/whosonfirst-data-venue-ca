@@ -2,13 +2,14 @@
   "id": 152686327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.615227,45.436745,-73.615227,45.436745",
     "geom:latitude":45.436745,
     "geom:longitude":-73.615227,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2042 Rue Lapierre",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866477,
+        102191575,
         85633041,
-        85866477
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"961cf93c04a628351ecc3acdc9ebd593",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866477,
+            "region_id":136251273,
             "venue_id":152686327
         }
     ],
     "wof:id":152686327,
-    "wof:lastmodified":1449047795,
+    "wof:lastmodified":1453935496,
     "wof:name":"Construction Carbonneau Ltee",
     "wof:parent_id":85866477,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.615227,45.436745,-73.615227,45.436745],
+  "bbox": [
+    -73.615227,
+    45.436745,
+    -73.615227,
+    45.436745
+],
   "geometry": {"coordinates":[-73.615227,45.436745],"type":"Point"}
 }

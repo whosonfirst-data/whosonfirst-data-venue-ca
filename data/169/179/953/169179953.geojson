@@ -2,13 +2,14 @@
   "id": 169179953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.900208,43.649944,-79.900208,43.649944",
     "geom:latitude":43.649944,
     "geom:longitude":-79.900208,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"232 Guelph St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895565,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"2adeb2f5dfccc0e1b90f7d82ac623de0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895565,
+            "region_id":85682057,
+            "venue_id":169179953
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895565,
             "region_id":85682057,
             "venue_id":169179953
         }
     ],
     "wof:id":169179953,
-    "wof:lastmodified":1449035618,
+    "wof:lastmodified":1453931859,
     "wof:name":"Royal Bank Financial Group",
     "wof:parent_id":85895565,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.900208,43.649944,-79.900208,43.649944],
-  "geometry": {"coordinates":[-79.900208,43.649944],"type":"Point"}
+  "bbox": [
+    -79.900208,
+    43.649944,
+    -79.900208,
+    43.649944
+],
+  "geometry": {"coordinates":[-79.90020800000001,43.649944],"type":"Point"}
 }

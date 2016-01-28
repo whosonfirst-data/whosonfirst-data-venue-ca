@@ -2,13 +2,14 @@
   "id": 152282941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.628731,43.844093,-79.628731,43.844093",
     "geom:latitude":43.844093,
     "geom:longitude":-79.628731,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Kleinburg",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895459,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"29d4cc96584ccda791400389a55cdb9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895459,
+            "region_id":85682057,
+            "venue_id":152282941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895459,
             "region_id":85682057,
             "venue_id":152282941
         }
     ],
     "wof:id":152282941,
-    "wof:lastmodified":1449047191,
+    "wof:lastmodified":1453935023,
     "wof:name":"Violets & Dahlias",
     "wof:parent_id":85895459,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.628731,43.844093,-79.628731,43.844093],
+  "bbox": [
+    -79.628731,
+    43.844093,
+    -79.628731,
+    43.844093
+],
   "geometry": {"coordinates":[-79.628731,43.844093],"type":"Point"}
 }

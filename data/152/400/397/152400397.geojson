@@ -2,13 +2,14 @@
   "id": 152400397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682793,44.390606,-79.682793,44.390606",
     "geom:latitude":44.390606,
     "geom:longitude":-79.682793,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"118 Collier St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J8370FUHLMxHq3aaGRoe0_44.390606_-79.682793@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"1f56f2cf4548002821dee508a8e15a9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":152400397
+        }
+    ],
     "wof:id":152400397,
-    "wof:lastmodified":1449044759,
+    "wof:lastmodified":1453933180,
     "wof:name":"Bert Van Der Heyden Better",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.682793,44.390606,-79.682793,44.390606],
+  "bbox": [
+    -79.682793,
+    44.390606,
+    -79.682793,
+    44.390606
+],
   "geometry": {"coordinates":[-79.682793,44.390606],"type":"Point"}
 }

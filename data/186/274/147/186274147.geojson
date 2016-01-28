@@ -2,13 +2,14 @@
   "id": 186274147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.603035,45.552235,-73.603035,45.552235",
     "geom:latitude":45.552235,
     "geom:longitude":-73.603035,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2340 Rue Jean-Talon E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874357,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"0516a7fef99e7dd82b77831bfcffa062",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186274147
         }
     ],
     "wof:id":186274147,
-    "wof:lastmodified":1449050598,
+    "wof:lastmodified":1453936539,
     "wof:name":"Super Laser Video Inc",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.603035,45.552235,-73.603035,45.552235],
-  "geometry": {"coordinates":[-73.603035,45.552235],"type":"Point"}
+  "bbox": [
+    -73.603035,
+    45.552235,
+    -73.603035,
+    45.552235
+],
+  "geometry": {"coordinates":[-73.60303500000001,45.552235],"type":"Point"}
 }

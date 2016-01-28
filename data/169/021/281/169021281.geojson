@@ -2,13 +2,14 @@
   "id": 169021281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.541,43.771851,-79.541,43.771851",
     "geom:latitude":43.771851,
     "geom:longitude":-79.541,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2 Director Crt",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"eac63b13e68ab93be90f36099491f9c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":169021281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":169021281
         }
     ],
     "wof:id":169021281,
-    "wof:lastmodified":1449034767,
+    "wof:lastmodified":1453930990,
     "wof:name":"Kaltron Associates Ltd",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.541,43.771851,-79.541,43.771851],
+  "bbox": [
+    -79.541,
+    43.771851,
+    -79.541,
+    43.771851
+],
   "geometry": {"coordinates":[-79.541,43.771851],"type":"Point"}
 }

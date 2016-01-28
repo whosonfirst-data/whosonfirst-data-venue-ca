@@ -2,13 +2,14 @@
   "id": 202768687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.064377,48.440586,-71.064377,48.440586",
     "geom:latitude":48.440586,
     "geom:longitude":-71.064377,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"158 Rue Saint-Ambroise",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785001,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"e06e3012b8f204f10203ad709e40c515",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202768687
         }
     ],
     "wof:id":202768687,
-    "wof:lastmodified":1449061092,
+    "wof:lastmodified":1453937183,
     "wof:name":"Mecanique 3000",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "automobile"
     ]
 },
-  "bbox": [-71.064377,48.440586,-71.064377,48.440586],
-  "geometry": {"coordinates":[-71.064377,48.440586],"type":"Point"}
+  "bbox": [
+    -71.064377,
+    48.440586,
+    -71.064377,
+    48.440586
+],
+  "geometry": {"coordinates":[-71.06437699999999,48.440586],"type":"Point"}
 }

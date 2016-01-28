@@ -2,13 +2,14 @@
   "id": 152523285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.560623,46.375648,-72.560623,46.375648",
     "geom:latitude":46.375648,
     "geom:longitude":-72.560623,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"40 Rue Pierre-Boucher",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874111,
+        102191575,
         85633041,
-        85874111
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fa5d7e8f80b4b0a0381c30b99eff206e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874111,
+            "region_id":136251273,
             "venue_id":152523285
         }
     ],
     "wof:id":152523285,
-    "wof:lastmodified":1449046962,
+    "wof:lastmodified":1453934841,
     "wof:name":"CO-OP D'Habitation",
     "wof:parent_id":85874111,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.560623,46.375648,-72.560623,46.375648],
-  "geometry": {"coordinates":[-72.560623,46.375648],"type":"Point"}
+  "bbox": [
+    -72.560623,
+    46.375648,
+    -72.560623,
+    46.375648
+],
+  "geometry": {"coordinates":[-72.56062300000001,46.375648],"type":"Point"}
 }

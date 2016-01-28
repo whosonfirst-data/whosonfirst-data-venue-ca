@@ -2,13 +2,14 @@
   "id": 185804933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.280373,46.769955,-71.280373,46.769955",
     "geom:latitude":46.769955,
     "geom:longitude":-71.280373,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2612 Rue Lapointe",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874713,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"4a7aa717b2de4929eaa7c785d9f6ca90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185804933
         }
     ],
     "wof:id":185804933,
-    "wof:lastmodified":1449007709,
+    "wof:lastmodified":1453927333,
     "wof:name":"Claude Prevost Audioprothesist",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "impaired"
     ]
 },
-  "bbox": [-71.280373,46.769955,-71.280373,46.769955],
+  "bbox": [
+    -71.280373,
+    46.769955,
+    -71.280373,
+    46.769955
+],
   "geometry": {"coordinates":[-71.280373,46.769955],"type":"Point"}
 }

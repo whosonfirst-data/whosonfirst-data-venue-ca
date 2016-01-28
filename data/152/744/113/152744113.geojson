@@ -2,13 +2,14 @@
   "id": 152744113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.776482,45.490776,-73.776482,45.490776",
     "geom:latitude":45.490776,
     "geom:longitude":-73.776482,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1360 Boul Sunnybrooke",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85897517,
+        102191575,
         85633041,
-        85897517
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d138fbd2d6d796e59792a24ca2b9bd44",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85897517,
+            "region_id":136251273,
             "venue_id":152744113
         }
     ],
     "wof:id":152744113,
-    "wof:lastmodified":1449045980,
+    "wof:lastmodified":1453934108,
     "wof:name":"Spanos Pizza",
     "wof:parent_id":85897517,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.776482,45.490776,-73.776482,45.490776],
+  "bbox": [
+    -73.776482,
+    45.490776,
+    -73.776482,
+    45.490776
+],
   "geometry": {"coordinates":[-73.776482,45.490776],"type":"Point"}
 }

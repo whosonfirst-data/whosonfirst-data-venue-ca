@@ -2,13 +2,14 @@
   "id": 152978113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.442329,45.474373,-73.442329,45.474373",
     "geom:latitude":45.474373,
     "geom:longitude":-73.442329,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5652 LA Grande-Allee",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897547,
+        102191575,
         85633041,
-        85897547
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a5bde4dd48b1538359582c79bc66bb97",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897547,
+            "region_id":136251273,
             "venue_id":152978113
         }
     ],
     "wof:id":152978113,
-    "wof:lastmodified":1449046974,
+    "wof:lastmodified":1453934847,
     "wof:name":"Marche Antillais Grandes Allee",
     "wof:parent_id":85897547,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.442329,45.474373,-73.442329,45.474373],
+  "bbox": [
+    -73.442329,
+    45.474373,
+    -73.442329,
+    45.474373
+],
   "geometry": {"coordinates":[-73.442329,45.474373],"type":"Point"}
 }

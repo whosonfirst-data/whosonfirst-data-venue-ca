@@ -2,13 +2,14 @@
   "id": 152676217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.175369,42.99073,-81.175369,42.99073",
     "geom:latitude":42.99073,
     "geom:longitude":-81.175369,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1771 Trafalgar St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XBshpArip9qD2CQrj13SS_42.990730_-81.175369@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"282b6ae1e49dd5023ebfd6d5395c28d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":152676217
+        }
+    ],
     "wof:id":152676217,
-    "wof:lastmodified":1449047262,
+    "wof:lastmodified":1453935070,
     "wof:name":"Phoenix Carwash",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.175369,42.99073,-81.175369,42.99073],
+  "bbox": [
+    -81.175369,
+    42.99073,
+    -81.175369,
+    42.99073
+],
   "geometry": {"coordinates":[-81.175369,42.99073],"type":"Point"}
 }

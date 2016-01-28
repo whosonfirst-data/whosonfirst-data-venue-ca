@@ -2,13 +2,14 @@
   "id": 152458653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.081757,48.397182,-71.081757,48.397182",
     "geom:latitude":48.397182,
     "geom:longitude":-71.081757,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"270 Rue Malraux",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a47dfbf500ab2056960bc10afa21047b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152458653
         }
     ],
     "wof:id":152458653,
-    "wof:lastmodified":1449047584,
+    "wof:lastmodified":1453935331,
     "wof:name":"Clinique D'Orthopedie",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.081757,48.397182,-71.081757,48.397182],
+  "bbox": [
+    -71.081757,
+    48.397182,
+    -71.081757,
+    48.397182
+],
   "geometry": {"coordinates":[-71.081757,48.397182],"type":"Point"}
 }

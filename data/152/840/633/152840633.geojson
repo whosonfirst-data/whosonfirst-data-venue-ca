@@ -2,13 +2,14 @@
   "id": 152840633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249428,43.00584,-81.249428,43.00584",
     "geom:latitude":43.00584,
     "geom:longitude":-81.249428,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"401 Victoria St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874939,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aqqZKgwsgk9CvpeFLKI3b_43.005840_-81.249428@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"a55f77e11ce063ee5ffd388119e651e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
+            "region_id":85682057,
+            "venue_id":152840633
+        }
+    ],
     "wof:id":152840633,
-    "wof:lastmodified":1449047875,
+    "wof:lastmodified":1453935566,
     "wof:name":"Victoria Academy of Music",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.249428,43.00584,-81.249428,43.00584],
-  "geometry": {"coordinates":[-81.249428,43.00584],"type":"Point"}
+  "bbox": [
+    -81.249428,
+    43.00584,
+    -81.249428,
+    43.00584
+],
+  "geometry": {"coordinates":[-81.24942799999999,43.00584],"type":"Point"}
 }

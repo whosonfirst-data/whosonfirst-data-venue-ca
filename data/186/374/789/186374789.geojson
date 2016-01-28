@@ -2,13 +2,14 @@
   "id": 186374789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.323013,43.816051,-79.323013,43.816051",
     "geom:latitude":43.816051,
     "geom:longitude":-79.323013,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"395 Bamburgh Cir",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895023,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"9ccc4432bd0ab35873af6a52e846151c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":186374789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":186374789
         }
     ],
     "wof:id":186374789,
-    "wof:lastmodified":1449051538,
+    "wof:lastmodified":1453936677,
     "wof:name":"Jim Cheng Bakery Ltd",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "baker"
     ]
 },
-  "bbox": [-79.323013,43.816051,-79.323013,43.816051],
+  "bbox": [
+    -79.323013,
+    43.816051,
+    -79.323013,
+    43.816051
+],
   "geometry": {"coordinates":[-79.323013,43.816051],"type":"Point"}
 }

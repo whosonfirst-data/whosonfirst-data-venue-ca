@@ -2,13 +2,14 @@
   "id": 152439665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.243858,48.418716,-71.243858,48.418716",
     "geom:latitude":48.418716,
     "geom:longitude":-71.243858,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2172 Rue Saint-Hubert",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"86e16a97f8ef3573943cd0470182a0c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152439665
         }
     ],
     "wof:id":152439665,
-    "wof:lastmodified":1449045573,
+    "wof:lastmodified":1453933801,
     "wof:name":"Deschamps, Andre",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.243858,48.418716,-71.243858,48.418716],
+  "bbox": [
+    -71.243858,
+    48.418716,
+    -71.243858,
+    48.418716
+],
   "geometry": {"coordinates":[-71.243858,48.418716],"type":"Point"}
 }

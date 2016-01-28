@@ -2,13 +2,14 @@
   "id": 152874015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.31826,46.811459,-71.31826,46.811459",
     "geom:latitude":46.811459,
     "geom:longitude":-71.31826,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2615 Av Marivaux",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"5495df5b9c372260ae2ef6127b9a97a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152874015
         }
     ],
     "wof:id":152874015,
-    "wof:lastmodified":1449048619,
+    "wof:lastmodified":1453936104,
     "wof:name":"Electronique Veilleux Enr",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.31826,46.811459,-71.31826,46.811459],
+  "bbox": [
+    -71.31826,
+    46.811459,
+    -71.31826,
+    46.811459
+],
   "geometry": {"coordinates":[-71.31826,46.811459],"type":"Point"}
 }

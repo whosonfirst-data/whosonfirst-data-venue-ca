@@ -2,13 +2,14 @@
   "id": 169127133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576439,45.443775,-73.576439,45.443775",
     "geom:latitude":45.443775,
     "geom:longitude":-73.576439,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6500 Boul Lasalle",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874383,
+        102191575,
         85633041,
-        85874383
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"048819a0104d3f7dc52ccc458f47d34b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874383,
+            "region_id":136251273,
             "venue_id":169127133
         }
     ],
     "wof:id":169127133,
-    "wof:lastmodified":1449035690,
+    "wof:lastmodified":1453931936,
     "wof:name":"Verdun Natatorium",
     "wof:parent_id":85874383,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576439,45.443775,-73.576439,45.443775],
-  "geometry": {"coordinates":[-73.576439,45.443775],"type":"Point"}
+  "bbox": [
+    -73.576439,
+    45.443775,
+    -73.576439,
+    45.443775
+],
+  "geometry": {"coordinates":[-73.57643899999999,45.443775],"type":"Point"}
 }

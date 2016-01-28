@@ -2,13 +2,14 @@
   "id": 202685649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.503998,45.494034,-73.503998,45.494034",
     "geom:latitude":45.494034,
     "geom:longitude":-73.503998,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
         {
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875763,
+        102191575,
         85633041,
-        101736449
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"e607b4f96499b6ea310263b1aa0ebf22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875763,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202685649
         }
     ],
     "wof:id":202685649,
-    "wof:lastmodified":1449062570,
+    "wof:lastmodified":1453937489,
     "wof:name":"Belley, Jacques MD",
     "wof:parent_id":85875763,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.503998,45.494034,-73.503998,45.494034],
+  "bbox": [
+    -73.503998,
+    45.494034,
+    -73.503998,
+    45.494034
+],
   "geometry": {"coordinates":[-73.503998,45.494034],"type":"Point"}
 }

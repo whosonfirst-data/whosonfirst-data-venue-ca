@@ -2,13 +2,14 @@
   "id": 169555985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.452759,45.513668,-73.452759,45.513668",
     "geom:latitude":45.513668,
     "geom:longitude":-73.452759,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"430 Rue Scott",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"10b3ac3bdc96319a444763a2b53c7215",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":169555985
         }
     ],
     "wof:id":169555985,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1453931725,
     "wof:name":"Brunet, Roger",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.452759,45.513668,-73.452759,45.513668],
+  "bbox": [
+    -73.452759,
+    45.513668,
+    -73.452759,
+    45.513668
+],
   "geometry": {"coordinates":[-73.452759,45.513668],"type":"Point"}
 }

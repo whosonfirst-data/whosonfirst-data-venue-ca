@@ -2,13 +2,14 @@
   "id": 152591475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.08345,43.837261,-79.08345,43.837261",
     "geom:latitude":43.837261,
     "geom:longitude":-79.08345,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 the Esplanade",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895619,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"8f944c983bd341e18c5c6619058491f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895619,
+            "region_id":85682057,
+            "venue_id":152591475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895619,
             "region_id":85682057,
             "venue_id":152591475
         }
     ],
     "wof:id":152591475,
-    "wof:lastmodified":1449046772,
+    "wof:lastmodified":1453934702,
     "wof:name":"Pickering Civic Complex",
     "wof:parent_id":85895619,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.08345,43.837261,-79.08345,43.837261],
+  "bbox": [
+    -79.08345,
+    43.837261,
+    -79.08345,
+    43.837261
+],
   "geometry": {"coordinates":[-79.08345,43.837261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152524051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.571922,43.623737,-79.571922,43.623737",
     "geom:latitude":43.623737,
     "geom:longitude":-79.571922,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3070 Universal Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"b6a8bb06e97c7a740efc0b1ff9ab7f10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":152524051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":152524051
         }
     ],
     "wof:id":152524051,
-    "wof:lastmodified":1449044242,
+    "wof:lastmodified":1453932787,
     "wof:name":"A Discount Towing",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.571922,43.623737,-79.571922,43.623737],
+  "bbox": [
+    -79.571922,
+    43.623737,
+    -79.571922,
+    43.623737
+],
   "geometry": {"coordinates":[-79.571922,43.623737],"type":"Point"}
 }

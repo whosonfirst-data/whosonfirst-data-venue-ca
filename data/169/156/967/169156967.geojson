@@ -2,13 +2,14 @@
   "id": 169156967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.889053,43.53091,-79.889053,43.53091",
     "geom:latitude":43.53091,
     "geom:longitude":-79.889053,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"581 Mcgeachie Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895533,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"95d32f2a047825ebcfa7380243c435b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895533,
+            "region_id":85682057,
+            "venue_id":169156967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895533,
             "region_id":85682057,
             "venue_id":169156967
         }
     ],
     "wof:id":169156967,
-    "wof:lastmodified":1449033344,
+    "wof:lastmodified":1453929455,
     "wof:name":"Collier Woodworking Inc",
     "wof:parent_id":85895533,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.889053,43.53091,-79.889053,43.53091],
+  "bbox": [
+    -79.889053,
+    43.53091,
+    -79.889053,
+    43.53091
+],
   "geometry": {"coordinates":[-79.889053,43.53091],"type":"Point"}
 }

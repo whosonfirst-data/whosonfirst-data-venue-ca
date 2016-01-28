@@ -2,13 +2,14 @@
   "id": 202684573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.73098,45.366539,-73.73098,45.366539",
     "geom:latitude":45.366539,
     "geom:longitude":-73.73098,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"145 Boul Maple",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895755,
+        102191575,
         85633041,
-        101738001
+        101738001,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"1d7a0fb450d12e5445de84705e0c17b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738001,
             "neighbourhood_id":85895755,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202684573
         }
     ],
     "wof:id":202684573,
-    "wof:lastmodified":1449060751,
+    "wof:lastmodified":1453937111,
     "wof:name":"Studio Artisanat Emilia",
     "wof:parent_id":85895755,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "craft"
     ]
 },
-  "bbox": [-73.73098,45.366539,-73.73098,45.366539],
+  "bbox": [
+    -73.73098,
+    45.366539,
+    -73.73098,
+    45.366539
+],
   "geometry": {"coordinates":[-73.73098,45.366539],"type":"Point"}
 }

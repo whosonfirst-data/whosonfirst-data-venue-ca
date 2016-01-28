@@ -2,13 +2,14 @@
   "id": 168838399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.902512,43.888966,-78.902512,43.888966",
     "geom:latitude":43.888966,
     "geom:longitude":-78.902512,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1916 Dundas St E",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875157,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"13a8977f6c0a0fa439690d99b450223b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875157,
+            "region_id":85682057,
+            "venue_id":168838399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875157,
             "region_id":85682057,
             "venue_id":168838399
         }
     ],
     "wof:id":168838399,
-    "wof:lastmodified":1449027867,
+    "wof:lastmodified":1453927884,
     "wof:name":"Household Financial Ctr",
     "wof:parent_id":85875157,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.902512,43.888966,-78.902512,43.888966],
+  "bbox": [
+    -78.902512,
+    43.888966,
+    -78.902512,
+    43.888966
+],
   "geometry": {"coordinates":[-78.902512,43.888966],"type":"Point"}
 }

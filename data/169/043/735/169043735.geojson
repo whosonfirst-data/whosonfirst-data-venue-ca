@@ -2,13 +2,14 @@
   "id": 169043735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.595642,46.359947,-72.595642,46.359947",
     "geom:latitude":46.359947,
     "geom:longitude":-72.595642,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5300 Rue J.-H.-Fortier",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874105,
+        102191575,
         85633041,
-        85874105
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"e096452dbf73334e86431c7d301b0a0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874105,
+            "region_id":136251273,
             "venue_id":169043735
         }
     ],
     "wof:id":169043735,
-    "wof:lastmodified":1449035135,
+    "wof:lastmodified":1453931362,
     "wof:name":"Laveurs DE Vitres Laviolette",
     "wof:parent_id":85874105,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.595642,46.359947,-72.595642,46.359947],
+  "bbox": [
+    -72.595642,
+    46.359947,
+    -72.595642,
+    46.359947
+],
   "geometry": {"coordinates":[-72.595642,46.359947],"type":"Point"}
 }

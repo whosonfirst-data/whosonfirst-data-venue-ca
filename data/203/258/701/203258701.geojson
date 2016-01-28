@@ -2,13 +2,14 @@
   "id": 203258701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.100677,48.401066,-71.100677,48.401066",
     "geom:latitude":48.401066,
     "geom:longitude":-71.100677,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1700 Boul Saint-Paul # 108",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785001,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"6f50c9b1a3dae53b0a12e7ad31418838",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203258701
         }
     ],
     "wof:id":203258701,
-    "wof:lastmodified":1449026435,
+    "wof:lastmodified":1453927679,
     "wof:name":"Pompe Saguenay Enr",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "yard"
     ]
 },
-  "bbox": [-71.100677,48.401066,-71.100677,48.401066],
+  "bbox": [
+    -71.100677,
+    48.401066,
+    -71.100677,
+    48.401066
+],
   "geometry": {"coordinates":[-71.100677,48.401066],"type":"Point"}
 }

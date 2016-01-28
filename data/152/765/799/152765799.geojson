@@ -2,13 +2,14 @@
   "id": 152765799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.679077,43.687218,-79.679077,43.687218",
     "geom:latitude":43.687218,
     "geom:longitude":-79.679077,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7521 Tranmere Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"69c928a26fb7fe1bb62366444105162d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152765799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152765799
         }
     ],
     "wof:id":152765799,
-    "wof:lastmodified":1449046977,
+    "wof:lastmodified":1453934851,
     "wof:name":"Allied Heat Treat Ltd",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.679077,43.687218,-79.679077,43.687218],
-  "geometry": {"coordinates":[-79.679077,43.687218],"type":"Point"}
+  "bbox": [
+    -79.679077,
+    43.687218,
+    -79.679077,
+    43.687218
+],
+  "geometry": {"coordinates":[-79.67907700000001,43.687218],"type":"Point"}
 }

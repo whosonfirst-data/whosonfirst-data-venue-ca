@@ -2,13 +2,14 @@
   "id": 152514093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.377686,43.851105,-79.377686,43.851105",
     "geom:latitude":43.851105,
     "geom:longitude":-79.377686,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"135 East Beaver Creek Rd",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[],
@@ -23,9 +24,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895249,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"c0f7a8429e77e54615fe99cee08de444",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895249,
+            "region_id":85682057,
+            "venue_id":152514093
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895249,
             "region_id":85682057,
             "venue_id":152514093
         }
     ],
     "wof:id":152514093,
-    "wof:lastmodified":1449046623,
+    "wof:lastmodified":1453934589,
     "wof:name":"Ozawa Canada Inc",
     "wof:parent_id":85895249,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.377686,43.851105,-79.377686,43.851105],
+  "bbox": [
+    -79.377686,
+    43.851105,
+    -79.377686,
+    43.851105
+],
   "geometry": {"coordinates":[-79.377686,43.851105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152947671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.131508,44.104462,-79.131508,44.104462",
     "geom:latitude":44.104462,
     "geom:longitude":-79.131508,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"37 South Balsam St # B",
     "sg:city":"Uxbridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895405,
         102191575,
         85633041,
-        85895405
+        101736087,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736087,
             "neighbourhood_id":85895405,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152947671
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
+            "neighbourhood_id":85895405,
+            "region_id":85682057,
             "venue_id":152947671
         }
     ],
     "wof:id":152947671,
-    "wof:lastmodified":1449047643,
+    "wof:lastmodified":1453935378,
     "wof:name":"Haseman's Landry Equipment",
     "wof:parent_id":85895405,
     "wof:placetype":"venue",
@@ -58,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.131508,44.104462,-79.131508,44.104462],
+  "bbox": [
+    -79.131508,
+    44.104462,
+    -79.131508,
+    44.104462
+],
   "geometry": {"coordinates":[-79.131508,44.104462],"type":"Point"}
 }

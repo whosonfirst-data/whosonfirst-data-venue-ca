@@ -2,13 +2,14 @@
   "id": 152221705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.407578,43.886711,-79.407578,43.886711",
     "geom:latitude":43.886711,
     "geom:longitude":-79.407578,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"218 Shirley Dr",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895143,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"75c3fc5e43d85f3ce95c74596077627a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895143,
+            "region_id":85682057,
+            "venue_id":152221705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895143,
             "region_id":85682057,
             "venue_id":152221705
         }
     ],
     "wof:id":152221705,
-    "wof:lastmodified":1449046347,
+    "wof:lastmodified":1453934384,
     "wof:name":"Park Design & Illustration",
     "wof:parent_id":85895143,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.407578,43.886711,-79.407578,43.886711],
+  "bbox": [
+    -79.407578,
+    43.886711,
+    -79.407578,
+    43.886711
+],
   "geometry": {"coordinates":[-79.407578,43.886711],"type":"Point"}
 }

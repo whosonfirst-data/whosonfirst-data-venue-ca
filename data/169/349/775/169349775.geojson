@@ -2,13 +2,14 @@
   "id": 169349775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.259972,42.954273,-81.259972,42.954273",
     "geom:latitude":42.954273,
     "geom:longitude":-81.259972,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"571 Wharncliffe Rd S",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6J 2N6",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874933,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qi7t5SbmUvTGLggPa7RIC_42.954273_-81.259972@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"cf10b4c8736f40ad0457d20a85d9ff63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874933,
+            "region_id":85682057,
+            "venue_id":169349775
+        }
+    ],
     "wof:id":169349775,
-    "wof:lastmodified":1449033941,
+    "wof:lastmodified":1453930105,
     "wof:name":"London Home Builders Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.259972,42.954273,-81.259972,42.954273],
+  "bbox": [
+    -81.259972,
+    42.954273,
+    -81.259972,
+    42.954273
+],
   "geometry": {"coordinates":[-81.259972,42.954273],"type":"Point"}
 }

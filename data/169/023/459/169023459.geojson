@@ -2,13 +2,14 @@
   "id": 169023459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.215401,45.55011,-73.215401,45.55011",
     "geom:latitude":45.55011,
     "geom:longitude":-73.215401,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"197 Rue Brousseau",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737777,
+        85894601,
+        102191575,
         85633041,
-        85894601
+        101737777,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b6377715daa1a397e5ad175f8b0d3aa9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737777,
             "neighbourhood_id":85894601,
+            "region_id":136251273,
             "venue_id":169023459
         }
     ],
     "wof:id":169023459,
-    "wof:lastmodified":1449035632,
+    "wof:lastmodified":1453931876,
     "wof:name":"Beauchemin Epandages Inc",
     "wof:parent_id":85894601,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.215401,45.55011,-73.215401,45.55011],
+  "bbox": [
+    -73.215401,
+    45.55011,
+    -73.215401,
+    45.55011
+],
   "geometry": {"coordinates":[-73.215401,45.55011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169486951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.643188,43.556862,-79.643188,43.556862",
     "geom:latitude":43.556862,
     "geom:longitude":-79.643188,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895313,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"40595cce0e2be83b4fd5ad2891b3436c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895313,
+            "region_id":85682057,
+            "venue_id":169486951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895313,
             "region_id":85682057,
             "venue_id":169486951
         }
     ],
     "wof:id":169486951,
-    "wof:lastmodified":1449034531,
+    "wof:lastmodified":1453930726,
     "wof:name":"Allstate Insurance CO",
     "wof:parent_id":85895313,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.643188,43.556862,-79.643188,43.556862],
-  "geometry": {"coordinates":[-79.643188,43.556862],"type":"Point"}
+  "bbox": [
+    -79.643188,
+    43.556862,
+    -79.643188,
+    43.556862
+],
+  "geometry": {"coordinates":[-79.64318799999999,43.556862],"type":"Point"}
 }

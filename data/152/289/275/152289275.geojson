@@ -2,13 +2,14 @@
   "id": 152289275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.032646,45.405216,-74.032646,45.405216",
     "geom:latitude":45.405216,
     "geom:longitude":-74.032646,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"524 Av Saint-Charles",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895781,
+        102191575,
         85633041,
-        85895781
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"06c0a9f8a27d3a7adf6417979d2be04c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895781,
+            "region_id":136251273,
             "venue_id":152289275
         }
     ],
     "wof:id":152289275,
-    "wof:lastmodified":1449048150,
+    "wof:lastmodified":1453935758,
     "wof:name":"Esso",
     "wof:parent_id":85895781,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.032646,45.405216,-74.032646,45.405216],
+  "bbox": [
+    -74.032646,
+    45.405216,
+    -74.032646,
+    45.405216
+],
   "geometry": {"coordinates":[-74.032646,45.405216],"type":"Point"}
 }

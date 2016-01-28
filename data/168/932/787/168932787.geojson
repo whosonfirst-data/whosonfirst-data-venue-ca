@@ -2,13 +2,14 @@
   "id": 168932787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.941536,43.877567,-78.941536,43.877567",
     "geom:latitude":43.877567,
     "geom:longitude":-78.941536,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Dunlop St W",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895409,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"968c33d3d35d5d875774b763ccaf4293",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":168932787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":168932787
         }
     ],
     "wof:id":168932787,
-    "wof:lastmodified":1449028043,
+    "wof:lastmodified":1453928091,
     "wof:name":"Woodcraft",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.941536,43.877567,-78.941536,43.877567],
+  "bbox": [
+    -78.941536,
+    43.877567,
+    -78.941536,
+    43.877567
+],
   "geometry": {"coordinates":[-78.941536,43.877567],"type":"Point"}
 }

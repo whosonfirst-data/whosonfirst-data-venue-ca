@@ -2,13 +2,14 @@
   "id": 152663563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.650467,45.572308,-73.650467,45.572308",
     "geom:latitude":45.572308,
     "geom:longitude":-73.650467,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"8f0db1198843f53ffd0f7ed2d2616ec0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":152663563
         }
     ],
     "wof:id":152663563,
-    "wof:lastmodified":1449047701,
+    "wof:lastmodified":1453935424,
     "wof:name":"Mondor, Robert",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.650467,45.572308,-73.650467,45.572308],
-  "geometry": {"coordinates":[-73.650467,45.572308],"type":"Point"}
+  "bbox": [
+    -73.650467,
+    45.572308,
+    -73.650467,
+    45.572308
+],
+  "geometry": {"coordinates":[-73.65046700000001,45.572308],"type":"Point"}
 }

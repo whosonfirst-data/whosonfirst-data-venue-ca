@@ -2,13 +2,14 @@
   "id": 169261897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588715,45.59988,-73.588715,45.59988",
     "geom:latitude":45.59988,
     "geom:longitude":-73.588715,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6627 Rue P E Lamarche",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874367,
+        102191575,
         85633041,
-        85874367
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"90314b337ce13fc9786c490588e3410f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874367,
+            "region_id":136251273,
             "venue_id":169261897
         }
     ],
     "wof:id":169261897,
-    "wof:lastmodified":1449032736,
+    "wof:lastmodified":1453928854,
     "wof:name":"Garage Bimmer Enr",
     "wof:parent_id":85874367,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.588715,45.59988,-73.588715,45.59988],
-  "geometry": {"coordinates":[-73.588715,45.59988],"type":"Point"}
+  "bbox": [
+    -73.588715,
+    45.59988,
+    -73.588715,
+    45.59988
+],
+  "geometry": {"coordinates":[-73.58871499999999,45.59988],"type":"Point"}
 }

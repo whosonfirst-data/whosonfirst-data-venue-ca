@@ -2,13 +2,14 @@
   "id": 185863175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.548241,43.456699,-80.548241,43.456699",
     "geom:latitude":43.456699,
     "geom:longitude":-80.548241,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Waterloo",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864657,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"73f3f3be1aaae9207d75b914e85d90ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864657,
+            "region_id":85682057,
+            "venue_id":185863175
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85864657,
             "region_id":85682057,
             "venue_id":185863175
         }
     ],
     "wof:id":185863175,
-    "wof:lastmodified":1449007702,
+    "wof:lastmodified":1453927332,
     "wof:name":"Churchill Gardens",
     "wof:parent_id":85864657,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.548241,43.456699,-80.548241,43.456699],
+  "bbox": [
+    -80.548241,
+    43.456699,
+    -80.548241,
+    43.456699
+],
   "geometry": {"coordinates":[-80.548241,43.456699],"type":"Point"}
 }

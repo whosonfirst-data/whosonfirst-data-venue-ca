@@ -2,13 +2,14 @@
   "id": 152415871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.066475,43.831348,-79.066475,43.831348",
     "geom:latitude":43.831348,
     "geom:longitude":-79.066475,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"979 Brock Rd #16",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895457,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7290b80d5a3441e61a98f39ee16a3aee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895457,
+            "region_id":85682057,
+            "venue_id":152415871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895457,
             "region_id":85682057,
             "venue_id":152415871
         }
     ],
     "wof:id":152415871,
-    "wof:lastmodified":1449047629,
+    "wof:lastmodified":1453935368,
     "wof:name":"Rapid Taxi",
     "wof:parent_id":85895457,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.066475,43.831348,-79.066475,43.831348],
+  "bbox": [
+    -79.066475,
+    43.831348,
+    -79.066475,
+    43.831348
+],
   "geometry": {"coordinates":[-79.066475,43.831348],"type":"Point"}
 }

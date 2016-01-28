@@ -2,13 +2,14 @@
   "id": 169423015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.450996,45.516769,-73.450996,45.516769",
     "geom:latitude":45.516769,
     "geom:longitude":-73.450996,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3245 Ch DE Chambly",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"159f6e7efa575a0a0aecb8411d11aa0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":169423015
         }
     ],
     "wof:id":169423015,
-    "wof:lastmodified":1449033242,
+    "wof:lastmodified":1453929341,
     "wof:name":"Brault & Martineau Inc",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.450996,45.516769,-73.450996,45.516769],
+  "bbox": [
+    -73.450996,
+    45.516769,
+    -73.450996,
+    45.516769
+],
   "geometry": {"coordinates":[-73.450996,45.516769],"type":"Point"}
 }

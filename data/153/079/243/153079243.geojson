@@ -2,13 +2,14 @@
   "id": 153079243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.063614,43.76984,-80.063614,43.76984",
     "geom:latitude":43.76984,
     "geom:longitude":-80.063614,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Erin",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895075,
-        85682057
+        102191575,
+        85633041,
+        101736161,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"dae6e4a41af01138c6897bc4c81b35e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736161,
+            "neighbourhood_id":85895075,
+            "region_id":85682057,
+            "venue_id":153079243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85895075,
             "region_id":85682057,
             "venue_id":153079243
         }
     ],
     "wof:id":153079243,
-    "wof:lastmodified":1449040746,
+    "wof:lastmodified":1453932663,
     "wof:name":"Gary Bean Securities Ltd",
     "wof:parent_id":85895075,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.063614,43.76984,-80.063614,43.76984],
+  "bbox": [
+    -80.063614,
+    43.76984,
+    -80.063614,
+    43.76984
+],
   "geometry": {"coordinates":[-80.063614,43.76984],"type":"Point"}
 }

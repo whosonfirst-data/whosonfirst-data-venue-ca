@@ -2,13 +2,14 @@
   "id": 203107729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.834091,43.948635,-79.834091,43.948635",
     "geom:latitude":43.948635,
     "geom:longitude":-79.834091,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2581 3rd Line",
     "sg:city":"Palgrave",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895653,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101736249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"d79c9cc3692e4b6864fdae3f8048dd16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895653,
+            "region_id":85682057,
+            "venue_id":203107729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736249,
             "neighbourhood_id":85895653,
             "region_id":85682057,
             "venue_id":203107729
         }
     ],
     "wof:id":203107729,
-    "wof:lastmodified":1449024947,
+    "wof:lastmodified":1453927407,
     "wof:name":"Dealer Service Systems Ltd",
     "wof:parent_id":85895653,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "station"
     ]
 },
-  "bbox": [-79.834091,43.948635,-79.834091,43.948635],
+  "bbox": [
+    -79.834091,
+    43.948635,
+    -79.834091,
+    43.948635
+],
   "geometry": {"coordinates":[-79.834091,43.948635],"type":"Point"}
 }

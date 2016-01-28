@@ -2,13 +2,14 @@
   "id": 169367305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.09079,48.409389,-71.09079,48.409389",
     "geom:latitude":48.409389,
     "geom:longitude":-71.09079,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1234 Boul Saint-Paul",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"11b12caac9cd15755c4ab6b114776d85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169367305
         }
     ],
     "wof:id":169367305,
-    "wof:lastmodified":1449034636,
+    "wof:lastmodified":1453930844,
     "wof:name":"Briquetier Paysager Saguenay",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.09079,48.409389,-71.09079,48.409389],
+  "bbox": [
+    -71.09079,
+    48.409389,
+    -71.09079,
+    48.409389
+],
   "geometry": {"coordinates":[-71.09079,48.409389],"type":"Point"}
 }

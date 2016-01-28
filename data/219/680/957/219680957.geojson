@@ -2,13 +2,14 @@
   "id": 219680957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.52536,45.590973,-73.52536,45.590973",
     "geom:latitude":45.590973,
     "geom:longitude":-73.52536,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7710 Rue Hochelaga",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895727,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"e663050ad7b2bf8bdcba7a7549199061",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219680957
         }
     ],
     "wof:id":219680957,
-    "wof:lastmodified":1449072869,
+    "wof:lastmodified":1453937882,
     "wof:name":"Auto Centre Marquis Shell",
     "wof:parent_id":85895727,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.52536,45.590973,-73.52536,45.590973],
-  "geometry": {"coordinates":[-73.52536,45.590973],"type":"Point"}
+  "bbox": [
+    -73.52536,
+    45.590973,
+    -73.52536,
+    45.590973
+],
+  "geometry": {"coordinates":[-73.52536000000001,45.590973],"type":"Point"}
 }

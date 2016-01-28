@@ -2,13 +2,14 @@
   "id": 152217323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.359848,46.800018,-71.359848,46.800018",
     "geom:latitude":46.800018,
     "geom:longitude":-71.359848,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1600 Rue Notre-Dame",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"e747fe38e46a38d05ae238a552e8fc0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152217323
         }
     ],
     "wof:id":152217323,
-    "wof:lastmodified":1449048641,
+    "wof:lastmodified":1453936119,
     "wof:name":"Jacob Equipement Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.359848,46.800018,-71.359848,46.800018],
+  "bbox": [
+    -71.359848,
+    46.800018,
+    -71.359848,
+    46.800018
+],
   "geometry": {"coordinates":[-71.359848,46.800018],"type":"Point"}
 }

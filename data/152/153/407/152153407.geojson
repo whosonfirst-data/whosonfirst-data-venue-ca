@@ -2,13 +2,14 @@
   "id": 152153407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824615,43.329376,-79.824615,43.329376",
     "geom:latitude":43.329376,
     "geom:longitude":-79.824615,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1134 Plains Rd E",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895581,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"18d2ccb48ea88b32a8df1202802e8605",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895581,
+            "region_id":85682057,
+            "venue_id":152153407
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895581,
             "region_id":85682057,
             "venue_id":152153407
         }
     ],
     "wof:id":152153407,
-    "wof:lastmodified":1449047480,
+    "wof:lastmodified":1453935239,
     "wof:name":"Throat Threads Apparel Inc",
     "wof:parent_id":85895581,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.824615,43.329376,-79.824615,43.329376],
-  "geometry": {"coordinates":[-79.824615,43.329376],"type":"Point"}
+  "bbox": [
+    -79.824615,
+    43.329376,
+    -79.824615,
+    43.329376
+],
+  "geometry": {"coordinates":[-79.82461499999999,43.329376],"type":"Point"}
 }

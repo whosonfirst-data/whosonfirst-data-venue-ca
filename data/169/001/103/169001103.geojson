@@ -2,13 +2,14 @@
   "id": 169001103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.798645,43.90649,-78.798645,43.90649",
     "geom:latitude":43.90649,
     "geom:longitude":-78.798645,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"14 Osgoode Gate",
     "sg:city":"Courtice",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875163,
-        85682057
+        102191575,
+        85633041,
+        101736039,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"8462ebd546635f1698525c4da073fa6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736039,
+            "neighbourhood_id":85875163,
+            "region_id":85682057,
+            "venue_id":169001103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875163,
             "region_id":85682057,
             "venue_id":169001103
         }
     ],
     "wof:id":169001103,
-    "wof:lastmodified":1449033437,
+    "wof:lastmodified":1453929542,
     "wof:name":"Natural Solutions",
     "wof:parent_id":85875163,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.798645,43.90649,-78.798645,43.90649],
-  "geometry": {"coordinates":[-78.798645,43.90649],"type":"Point"}
+  "bbox": [
+    -78.798645,
+    43.90649,
+    -78.798645,
+    43.90649
+],
+  "geometry": {"coordinates":[-78.79864499999999,43.90649],"type":"Point"}
 }

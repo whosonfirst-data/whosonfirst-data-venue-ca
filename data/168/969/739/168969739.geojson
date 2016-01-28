@@ -2,13 +2,14 @@
   "id": 168969739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.693497,44.38179,-79.693497,44.38179",
     "geom:latitude":44.38179,
     "geom:longitude":-79.693497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Bradford St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WlmhSspBvhycg0yrkIhHf_44.381790_-79.693497@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"96929bee80bb92b4a4a57a700180d3d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":168969739
+        }
+    ],
     "wof:id":168969739,
-    "wof:lastmodified":1449027953,
+    "wof:lastmodified":1453927989,
     "wof:name":"Tom's Auto Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.693497,44.38179,-79.693497,44.38179],
-  "geometry": {"coordinates":[-79.693497,44.38179],"type":"Point"}
+  "bbox": [
+    -79.693497,
+    44.38179,
+    -79.693497,
+    44.38179
+],
+  "geometry": {"coordinates":[-79.69349699999999,44.38179],"type":"Point"}
 }

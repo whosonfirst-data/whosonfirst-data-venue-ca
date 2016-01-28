@@ -2,13 +2,14 @@
   "id": 152299913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.637413,45.533474,-73.637413,45.533474",
     "geom:latitude":45.533474,
     "geom:longitude":-73.637413,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8275 Rue Durocher",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b253a4a9f430173cab22f31e08451ffe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152299913
         }
     ],
     "wof:id":152299913,
-    "wof:lastmodified":1449045469,
+    "wof:lastmodified":1453933723,
     "wof:name":"Elmont Bakeries",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.637413,45.533474,-73.637413,45.533474],
+  "bbox": [
+    -73.637413,
+    45.533474,
+    -73.637413,
+    45.533474
+],
   "geometry": {"coordinates":[-73.637413,45.533474],"type":"Point"}
 }

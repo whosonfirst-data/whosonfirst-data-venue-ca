@@ -2,13 +2,14 @@
   "id": 169256639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.679016,45.597443,-73.679016,45.597443",
     "geom:latitude":45.597443,
     "geom:longitude":-73.679016,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2660 Rue DE Mistassini",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875051,
+        102191575,
         85633041,
-        85875051
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"cd8640aeb919240c3b697310da598c9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875051,
+            "region_id":136251273,
             "venue_id":169256639
         }
     ],
     "wof:id":169256639,
-    "wof:lastmodified":1449035174,
+    "wof:lastmodified":1453931390,
     "wof:name":"Pierre Beauchamp Securite Inc",
     "wof:parent_id":85875051,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.679016,45.597443,-73.679016,45.597443],
+  "bbox": [
+    -73.679016,
+    45.597443,
+    -73.679016,
+    45.597443
+],
   "geometry": {"coordinates":[-73.679016,45.597443],"type":"Point"}
 }

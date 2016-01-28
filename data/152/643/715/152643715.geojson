@@ -2,13 +2,14 @@
   "id": 152643715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.648727,43.577274,-79.648727,43.577274",
     "geom:latitude":43.577274,
     "geom:longitude":-79.648727,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3585 Mavis Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895473,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c0930546ec231e20164826c3fac1a440",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895473,
+            "region_id":85682057,
+            "venue_id":152643715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895473,
             "region_id":85682057,
             "venue_id":152643715
         }
     ],
     "wof:id":152643715,
-    "wof:lastmodified":1449048308,
+    "wof:lastmodified":1453935873,
     "wof:name":"Nye Manufacturing Ltd",
     "wof:parent_id":85895473,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.648727,43.577274,-79.648727,43.577274],
-  "geometry": {"coordinates":[-79.648727,43.577274],"type":"Point"}
+  "bbox": [
+    -79.648727,
+    43.577274,
+    -79.648727,
+    43.577274
+],
+  "geometry": {"coordinates":[-79.64872699999999,43.577274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202974991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.437271,45.588612,-73.437271,45.588612",
     "geom:latitude":45.588612,
     "geom:longitude":-73.437271,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"302 Rue Joseph-Huet",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875749,
+        102191575,
         85633041,
-        101738135
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"c789d7104291449622b83e932849db6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875749,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202974991
         }
     ],
     "wof:id":202974991,
-    "wof:lastmodified":1449062324,
+    "wof:lastmodified":1453937437,
     "wof:name":"Laboratoire Charbonneau-Goulet",
     "wof:parent_id":85875749,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-73.437271,45.588612,-73.437271,45.588612],
+  "bbox": [
+    -73.437271,
+    45.588612,
+    -73.437271,
+    45.588612
+],
   "geometry": {"coordinates":[-73.437271,45.588612],"type":"Point"}
 }

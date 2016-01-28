@@ -2,13 +2,14 @@
   "id": 152887341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592819,52.12981,-106.592819,52.12981",
     "geom:latitude":52.12981,
     "geom:longitude":-106.592819,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"313 Jessop Ave",
     "sg:city":"Saskatoon",
     "sg:classifiers":[
@@ -29,9 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740015,
-        85633041,
         85784943,
+        102191575,
+        85633041,
+        101740015,
         85682113
     ],
     "wof:breaches":[],
@@ -42,6 +44,7 @@
     "wof:geomhash":"a7056d4931124f6cf6f07241b6830ef9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740015,
             "neighbourhood_id":85784943,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":152887341,
-    "wof:lastmodified":1449048007,
+    "wof:lastmodified":1453935657,
     "wof:name":"Acme Sewer Svc",
     "wof:parent_id":85784943,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.592819,52.12981,-106.592819,52.12981],
-  "geometry": {"coordinates":[-106.592819,52.12981],"type":"Point"}
+  "bbox": [
+    -106.592819,
+    52.12981,
+    -106.592819,
+    52.12981
+],
+  "geometry": {"coordinates":[-106.59281900000001,52.12981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152888459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.203331,46.811806,-71.203331,46.811806",
     "geom:latitude":46.811806,
     "geom:longitude":-71.203331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"61 Rue Du Petit-Champlain",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866517,
+        102191575,
         85633041,
-        85866517
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ccc13658ac1252eafbdc64806b125d61",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
+            "region_id":136251273,
             "venue_id":152888459
         }
     ],
     "wof:id":152888459,
-    "wof:lastmodified":1449047179,
+    "wof:lastmodified":1453935019,
     "wof:name":"Quartier Petit Champlain",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.203331,46.811806,-71.203331,46.811806],
-  "geometry": {"coordinates":[-71.203331,46.811806],"type":"Point"}
+  "bbox": [
+    -71.203331,
+    46.811806,
+    -71.203331,
+    46.811806
+],
+  "geometry": {"coordinates":[-71.20333100000001,46.811806],"type":"Point"}
 }

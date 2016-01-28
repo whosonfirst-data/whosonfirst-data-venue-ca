@@ -2,13 +2,14 @@
   "id": 169423039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563011,45.527695,-73.563011,45.527695",
     "geom:latitude":45.527695,
     "geom:longitude":-73.563011,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2261 Av Papineau",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7e1b304b687fbf3896e98eef8f34d2b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":169423039
         }
     ],
     "wof:id":169423039,
-    "wof:lastmodified":1449033245,
+    "wof:lastmodified":1453929346,
     "wof:name":"Marie-Claude Enr",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.563011,45.527695,-73.563011,45.527695],
+  "bbox": [
+    -73.563011,
+    45.527695,
+    -73.563011,
+    45.527695
+],
   "geometry": {"coordinates":[-73.563011,45.527695],"type":"Point"}
 }

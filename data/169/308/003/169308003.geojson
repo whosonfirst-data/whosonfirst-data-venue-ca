@@ -2,13 +2,14 @@
   "id": 169308003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488159,45.694397,-73.488159,45.694397",
     "geom:latitude":45.694397,
     "geom:longitude":-73.488159,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15919 Rue Notre-Dame E",
     "sg:city":"Pointe-Aux-Trembles",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"e020b532a463aa9528773571c4232f66",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169308003
         }
     ],
     "wof:id":169308003,
-    "wof:lastmodified":1449036056,
+    "wof:lastmodified":1453932299,
     "wof:name":"Restaurant Friteuses Dorees",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.488159,45.694397,-73.488159,45.694397],
+  "bbox": [
+    -73.488159,
+    45.694397,
+    -73.488159,
+    45.694397
+],
   "geometry": {"coordinates":[-73.488159,45.694397],"type":"Point"}
 }

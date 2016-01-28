@@ -2,13 +2,14 @@
   "id": 168986555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.837944,43.876999,-78.837944,43.876999",
     "geom:latitude":43.876999,
     "geom:longitude":-78.837944,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"915 Nelson St",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875151,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"be63fa8b5c1f390e93f748ffe0d4b4a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875151,
+            "region_id":85682057,
+            "venue_id":168986555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875151,
             "region_id":85682057,
             "venue_id":168986555
         }
     ],
     "wof:id":168986555,
-    "wof:lastmodified":1449028427,
+    "wof:lastmodified":1453928510,
     "wof:name":"Halenda's Meats",
     "wof:parent_id":85875151,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.837944,43.876999,-78.837944,43.876999],
-  "geometry": {"coordinates":[-78.837944,43.876999],"type":"Point"}
+  "bbox": [
+    -78.837944,
+    43.876999,
+    -78.837944,
+    43.876999
+],
+  "geometry": {"coordinates":[-78.83794399999999,43.876999],"type":"Point"}
 }

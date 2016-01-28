@@ -2,13 +2,14 @@
   "id": 169445625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.638573,45.467663,-73.638573,45.467663",
     "geom:latitude":45.467663,
     "geom:longitude":-73.638573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6525 Av Somerled",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871117,
+        102191575,
         85633041,
-        85871117
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"633905e830a4fb429d0284086e0ce13b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871117,
+            "region_id":136251273,
             "venue_id":169445625
         }
     ],
     "wof:id":169445625,
-    "wof:lastmodified":1449033128,
+    "wof:lastmodified":1453929246,
     "wof:name":"Coiffure Frank",
     "wof:parent_id":85871117,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.638573,45.467663,-73.638573,45.467663],
-  "geometry": {"coordinates":[-73.638573,45.467663],"type":"Point"}
+  "bbox": [
+    -73.638573,
+    45.467663,
+    -73.638573,
+    45.467663
+],
+  "geometry": {"coordinates":[-73.63857299999999,45.467663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169376613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.349884,43.001556,-82.349884,43.001556",
     "geom:latitude":43.001556,
     "geom:longitude":-82.349884,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"901 the Rapids Pky",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875569,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"e22296c4c6e87c1d924bce965a353c94",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875569,
+            "region_id":85682057,
+            "venue_id":169376613
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875569,
             "region_id":85682057,
             "venue_id":169376613
         }
     ],
     "wof:id":169376613,
-    "wof:lastmodified":1449033816,
+    "wof:lastmodified":1453929974,
     "wof:name":"Ecole Sec St Francois Xavier",
     "wof:parent_id":85875569,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.349884,43.001556,-82.349884,43.001556],
+  "bbox": [
+    -82.349884,
+    43.001556,
+    -82.349884,
+    43.001556
+],
   "geometry": {"coordinates":[-82.349884,43.001556],"type":"Point"}
 }

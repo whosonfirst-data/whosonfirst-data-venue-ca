@@ -2,13 +2,14 @@
   "id": 169167187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.737183,45.491894,-73.737183,45.491894",
     "geom:latitude":45.491894,
     "geom:longitude":-73.737183,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8777 Rte Transcanadienne",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"59ba9ea2a8637f4096c531b2b6a942e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":169167187
         }
     ],
     "wof:id":169167187,
-    "wof:lastmodified":1449034398,
+    "wof:lastmodified":1453930578,
     "wof:name":"Ceridian Canada Ltd",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.737183,45.491894,-73.737183,45.491894],
+  "bbox": [
+    -73.737183,
+    45.491894,
+    -73.737183,
+    45.491894
+],
   "geometry": {"coordinates":[-73.737183,45.491894],"type":"Point"}
 }

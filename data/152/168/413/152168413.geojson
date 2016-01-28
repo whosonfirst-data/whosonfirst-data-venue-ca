@@ -2,13 +2,14 @@
   "id": 152168413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.863625,44.151424,-79.863625,44.151424",
     "geom:latitude":44.151424,
     "geom:longitude":-79.863625,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"76 Dufferin St S",
     "sg:city":"Alliston",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895189,
         102191575,
         85633041,
-        85895189
+        101736229,
+        85682057,
+        101740747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736229,
             "neighbourhood_id":85895189,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152168413
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740747,
+            "neighbourhood_id":85895189,
+            "region_id":85682057,
             "venue_id":152168413
         }
     ],
     "wof:id":152168413,
-    "wof:lastmodified":1449046711,
+    "wof:lastmodified":1453934656,
     "wof:name":"Apple Auto Glass",
     "wof:parent_id":85895189,
     "wof:placetype":"venue",
@@ -59,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.863625,44.151424,-79.863625,44.151424],
+  "bbox": [
+    -79.863625,
+    44.151424,
+    -79.863625,
+    44.151424
+],
   "geometry": {"coordinates":[-79.863625,44.151424],"type":"Point"}
 }

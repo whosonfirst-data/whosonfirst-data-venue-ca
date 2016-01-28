@@ -2,13 +2,14 @@
   "id": 169370261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574463,45.508305,-73.574463,45.508305",
     "geom:latitude":45.508305,
     "geom:longitude":-73.574463,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"434 Rue Milton",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e8faf0443c5d33e639f0f120ee4ec1ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":169370261
         }
     ],
     "wof:id":169370261,
-    "wof:lastmodified":1449034492,
+    "wof:lastmodified":1453930674,
     "wof:name":"Greens Superette Regd",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574463,45.508305,-73.574463,45.508305],
-  "geometry": {"coordinates":[-73.574463,45.508305],"type":"Point"}
+  "bbox": [
+    -73.574463,
+    45.508305,
+    -73.574463,
+    45.508305
+],
+  "geometry": {"coordinates":[-73.57446299999999,45.508305],"type":"Point"}
 }

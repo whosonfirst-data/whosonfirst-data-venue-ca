@@ -2,13 +2,14 @@
   "id": 152537421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.258286,43.178864,-79.258286,43.178864",
     "geom:latitude":43.178864,
     "geom:longitude":-79.258286,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"89 Meadowvale Dr",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875041,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"c453bf2fb7508d9aa7aff486cd5fb318",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875041,
+            "region_id":85682057,
+            "venue_id":152537421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875041,
             "region_id":85682057,
             "venue_id":152537421
         }
     ],
     "wof:id":152537421,
-    "wof:lastmodified":1449045428,
+    "wof:lastmodified":1453933694,
     "wof:name":"Howard Johnson",
     "wof:parent_id":85875041,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.258286,43.178864,-79.258286,43.178864],
+  "bbox": [
+    -79.258286,
+    43.178864,
+    -79.258286,
+    43.178864
+],
   "geometry": {"coordinates":[-79.258286,43.178864],"type":"Point"}
 }

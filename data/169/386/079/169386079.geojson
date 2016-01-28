@@ -2,13 +2,14 @@
   "id": 169386079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.624344,45.538776,-73.624344,45.538776",
     "geom:latitude":45.538776,
     "geom:longitude":-73.624344,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"171 Rue Villeray",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"a1a51d49789a47f962c4dccc6dcb4dc0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":169386079
         }
     ],
     "wof:id":169386079,
-    "wof:lastmodified":1449034417,
+    "wof:lastmodified":1453930608,
     "wof:name":"Caf & Bouffe",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.624344,45.538776,-73.624344,45.538776],
-  "geometry": {"coordinates":[-73.624344,45.538776],"type":"Point"}
+  "bbox": [
+    -73.624344,
+    45.538776,
+    -73.624344,
+    45.538776
+],
+  "geometry": {"coordinates":[-73.62434399999999,45.538776],"type":"Point"}
 }

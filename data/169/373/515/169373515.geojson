@@ -2,13 +2,14 @@
   "id": 169373515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.463776,43.463367,-80.463776,43.463367",
     "geom:latitude":43.463367,
     "geom:longitude":-80.463776,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"41 River Rd E",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864615,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2baccc3ad3a2dcbbf50ac730a156239d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864615,
+            "region_id":85682057,
+            "venue_id":169373515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864615,
             "region_id":85682057,
             "venue_id":169373515
         }
     ],
     "wof:id":169373515,
-    "wof:lastmodified":1449034392,
+    "wof:lastmodified":1453930564,
     "wof:name":"Paul Tuerr Construction Ltd",
     "wof:parent_id":85864615,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.463776,43.463367,-80.463776,43.463367],
+  "bbox": [
+    -80.463776,
+    43.463367,
+    -80.463776,
+    43.463367
+],
   "geometry": {"coordinates":[-80.463776,43.463367],"type":"Point"}
 }

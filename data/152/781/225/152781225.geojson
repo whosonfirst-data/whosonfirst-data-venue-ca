@@ -2,13 +2,14 @@
   "id": 152781225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.094872,48.447121,-71.094872,48.447121",
     "geom:latitude":48.447121,
     "geom:longitude":-71.094872,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"136 Rue Des Saules",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"000a48b44d0122741d78b9cda5c752cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152781225
         }
     ],
     "wof:id":152781225,
-    "wof:lastmodified":1449045170,
+    "wof:lastmodified":1453933490,
     "wof:name":"Ecole Ste-Claire",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.094872,48.447121,-71.094872,48.447121],
+  "bbox": [
+    -71.094872,
+    48.447121,
+    -71.094872,
+    48.447121
+],
   "geometry": {"coordinates":[-71.094872,48.447121],"type":"Point"}
 }

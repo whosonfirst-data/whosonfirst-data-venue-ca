@@ -2,13 +2,14 @@
   "id": 202785689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.267601,46.80024,-71.267601,46.80024",
     "geom:latitude":46.80024,
     "geom:longitude":-71.267601,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1505 Rue Des Tanneurs",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864431,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"0b09ebc43156ba86cc13ee6d0c12480a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864431,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202785689
         }
     ],
     "wof:id":202785689,
-    "wof:lastmodified":1449062227,
+    "wof:lastmodified":1453937416,
     "wof:name":"Services Electromecaniques",
     "wof:parent_id":85864431,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "motor"
     ]
 },
-  "bbox": [-71.267601,46.80024,-71.267601,46.80024],
+  "bbox": [
+    -71.267601,
+    46.80024,
+    -71.267601,
+    46.80024
+],
   "geometry": {"coordinates":[-71.267601,46.80024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152750987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.026039,48.420868,-71.026039,48.420868",
     "geom:latitude":48.420868,
     "geom:longitude":-71.026039,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1409 Rue Mcnicoll",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b16fb7ff6cb158cc1bcf497f52d60a30",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152750987
         }
     ],
     "wof:id":152750987,
-    "wof:lastmodified":1449047087,
+    "wof:lastmodified":1453934946,
     "wof:name":"Centre DE Svc D'Aspirateurs",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.026039,48.420868,-71.026039,48.420868],
+  "bbox": [
+    -71.026039,
+    48.420868,
+    -71.026039,
+    48.420868
+],
   "geometry": {"coordinates":[-71.026039,48.420868],"type":"Point"}
 }

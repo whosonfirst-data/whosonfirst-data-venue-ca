@@ -2,13 +2,14 @@
   "id": 152887493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.202187,43.221115,-79.202187,43.221115",
     "geom:latitude":43.221115,
     "geom:longitude":-79.202187,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"532 Read Rd",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85784889,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8cc44577bb5baf0ed39e4a1f7e101a95",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85784889,
+            "region_id":85682057,
+            "venue_id":152887493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85784889,
             "region_id":85682057,
             "venue_id":152887493
         }
     ],
     "wof:id":152887493,
-    "wof:lastmodified":1449048006,
+    "wof:lastmodified":1453935654,
     "wof:name":"First Choice Auto Ctr",
     "wof:parent_id":85784889,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.202187,43.221115,-79.202187,43.221115],
+  "bbox": [
+    -79.202187,
+    43.221115,
+    -79.202187,
+    43.221115
+],
   "geometry": {"coordinates":[-79.202187,43.221115],"type":"Point"}
 }

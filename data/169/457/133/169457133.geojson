@@ -2,13 +2,14 @@
   "id": 169457133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.942909,43.85651,-78.942909,43.85651",
     "geom:latitude":43.85651,
     "geom:longitude":-78.942909,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300 Gordon St",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895409,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"3ba853c739c01f452cecb80a328c1e01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":169457133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":169457133
         }
     ],
     "wof:id":169457133,
-    "wof:lastmodified":1449034906,
+    "wof:lastmodified":1453931131,
     "wof:name":"Lakeridge Health Corp",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.942909,43.85651,-78.942909,43.85651],
+  "bbox": [
+    -78.942909,
+    43.85651,
+    -78.942909,
+    43.85651
+],
   "geometry": {"coordinates":[-78.942909,43.85651],"type":"Point"}
 }

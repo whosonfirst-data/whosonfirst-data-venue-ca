@@ -2,13 +2,14 @@
   "id": 202923015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.938034,43.870354,-78.938034,43.870354",
     "geom:latitude":43.870354,
     "geom:longitude":-78.938034,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1003 Brock St S",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895409,
+        102191575,
         85633041,
-        85682057
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"09d19d4b42ad0adea477064f72ca9c11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":202923015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":202923015
         }
     ],
     "wof:id":202923015,
-    "wof:lastmodified":1449062555,
+    "wof:lastmodified":1453937486,
     "wof:name":"Dairy Milk Plus",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "store"
     ]
 },
-  "bbox": [-78.938034,43.870354,-78.938034,43.870354],
+  "bbox": [
+    -78.938034,
+    43.870354,
+    -78.938034,
+    43.870354
+],
   "geometry": {"coordinates":[-78.938034,43.870354],"type":"Point"}
 }

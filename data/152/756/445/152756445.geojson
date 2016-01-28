@@ -2,13 +2,14 @@
   "id": 152756445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.011765,43.842205,-79.011765,43.842205",
     "geom:latitude":43.842205,
     "geom:longitude":-79.011765,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"97 Burcher Rd",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895635,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"c2ec580bcccdba613c38271e81b2b95a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":152756445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":152756445
         }
     ],
     "wof:id":152756445,
-    "wof:lastmodified":1449047062,
+    "wof:lastmodified":1453934924,
     "wof:name":"Play & Learn Nursery School",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.011765,43.842205,-79.011765,43.842205],
+  "bbox": [
+    -79.011765,
+    43.842205,
+    -79.011765,
+    43.842205
+],
   "geometry": {"coordinates":[-79.011765,43.842205],"type":"Point"}
 }

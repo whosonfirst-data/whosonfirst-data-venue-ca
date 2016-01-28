@@ -2,13 +2,14 @@
   "id": 169085765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.570137,46.348557,-72.570137,46.348557",
     "geom:latitude":46.348557,
     "geom:longitude":-72.570137,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3066 Boul Des Forges",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874109,
+        102191575,
         85633041,
-        85874109
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ee303c26e71875b05011ab4536bad4ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874109,
+            "region_id":136251273,
             "venue_id":169085765
         }
     ],
     "wof:id":169085765,
-    "wof:lastmodified":1449033516,
+    "wof:lastmodified":1453929624,
     "wof:name":"Service D'Inventaire-Gestion",
     "wof:parent_id":85874109,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.570137,46.348557,-72.570137,46.348557],
+  "bbox": [
+    -72.570137,
+    46.348557,
+    -72.570137,
+    46.348557
+],
   "geometry": {"coordinates":[-72.570137,46.348557],"type":"Point"}
 }

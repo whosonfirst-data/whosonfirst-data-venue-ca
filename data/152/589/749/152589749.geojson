@@ -2,13 +2,14 @@
   "id": 152589749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.550049,45.524853,-73.550049,45.524853",
     "geom:latitude":45.524853,
     "geom:longitude":-73.550049,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2100 Rue Sainte-Catherine O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"53d8aa6fe06a966edfecb24fa7a0c46a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":152589749
         }
     ],
     "wof:id":152589749,
-    "wof:lastmodified":1449046769,
+    "wof:lastmodified":1453934697,
     "wof:name":"Les Chaines Tele Astral",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.550049,45.524853,-73.550049,45.524853],
+  "bbox": [
+    -73.550049,
+    45.524853,
+    -73.550049,
+    45.524853
+],
   "geometry": {"coordinates":[-73.550049,45.524853],"type":"Point"}
 }

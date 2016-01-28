@@ -2,13 +2,14 @@
   "id": 169280049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.59713,46.364483,-72.59713,46.364483",
     "geom:latitude":46.364483,
     "geom:longitude":-72.59713,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5655 Boul Des Forges",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874105,
+        102191575,
         85633041,
-        85874105
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"23baefdb8c71fa337fde0a4504f52e28",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874105,
+            "region_id":136251273,
             "venue_id":169280049
         }
     ],
     "wof:id":169280049,
-    "wof:lastmodified":1449034311,
+    "wof:lastmodified":1453930482,
     "wof:name":"Centre Canin DE LA Mauricie",
     "wof:parent_id":85874105,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.59713,46.364483,-72.59713,46.364483],
-  "geometry": {"coordinates":[-72.59713,46.364483],"type":"Point"}
+  "bbox": [
+    -72.59713,
+    46.364483,
+    -72.59713,
+    46.364483
+],
+  "geometry": {"coordinates":[-72.59713000000001,46.364483],"type":"Point"}
 }

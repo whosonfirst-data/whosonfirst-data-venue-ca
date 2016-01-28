@@ -2,13 +2,14 @@
   "id": 152819151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.693451,45.346512,-73.693451,45.346512",
     "geom:latitude":45.346512,
     "geom:longitude":-73.693451,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"120 Rue Baillargeon",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"76b3d8a64ce623ea6078e3a22867b99a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":152819151
         }
     ],
     "wof:id":152819151,
-    "wof:lastmodified":1449045393,
+    "wof:lastmodified":1453933661,
     "wof:name":"Decorama Metal Inc",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.693451,45.346512,-73.693451,45.346512],
+  "bbox": [
+    -73.693451,
+    45.346512,
+    -73.693451,
+    45.346512
+],
   "geometry": {"coordinates":[-73.693451,45.346512],"type":"Point"}
 }

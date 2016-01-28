@@ -2,13 +2,14 @@
   "id": 152665489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574631,45.609344,-73.574631,45.609344",
     "geom:latitude":45.609344,
     "geom:longitude":-73.574631,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9393 Boul Louis-H.-Lafontaine",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897591,
+        102191575,
         85633041,
-        85897591
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a6a2327d0f2c230c97e0513bfa60c9fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897591,
+            "region_id":136251273,
             "venue_id":152665489
         }
     ],
     "wof:id":152665489,
-    "wof:lastmodified":1449045720,
+    "wof:lastmodified":1453933911,
     "wof:name":"Hartco Corp",
     "wof:parent_id":85897591,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574631,45.609344,-73.574631,45.609344],
+  "bbox": [
+    -73.574631,
+    45.609344,
+    -73.574631,
+    45.609344
+],
   "geometry": {"coordinates":[-73.574631,45.609344],"type":"Point"}
 }

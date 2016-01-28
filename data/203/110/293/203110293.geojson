@@ -2,13 +2,14 @@
   "id": 203110293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.606171,45.529327,-73.606171,45.529327",
     "geom:latitude":45.529327,
     "geom:longitude":-73.606171,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6275 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874369,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"4a66763f1c0a0b98a53501797a23c735",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203110293
         }
     ],
     "wof:id":203110293,
-    "wof:lastmodified":1449025541,
+    "wof:lastmodified":1453927523,
     "wof:name":"Canadian Tire",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-73.606171,45.529327,-73.606171,45.529327],
+  "bbox": [
+    -73.606171,
+    45.529327,
+    -73.606171,
+    45.529327
+],
   "geometry": {"coordinates":[-73.606171,45.529327],"type":"Point"}
 }

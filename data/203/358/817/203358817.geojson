@@ -2,13 +2,14 @@
   "id": 203358817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.44136,45.473156,-73.44136,45.473156",
     "geom:latitude":45.473156,
     "geom:longitude":-73.44136,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5699 Boul Grande-Allee",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897547,
+        102191575,
         85633041,
-        101736555
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"c05042a970b506d7a591eeb8811fe1ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897547,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203358817
         }
     ],
     "wof:id":203358817,
-    "wof:lastmodified":1449025721,
+    "wof:lastmodified":1453927557,
     "wof:name":"Ultramar",
     "wof:parent_id":85897547,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-73.44136,45.473156,-73.44136,45.473156],
+  "bbox": [
+    -73.44136,
+    45.473156,
+    -73.44136,
+    45.473156
+],
   "geometry": {"coordinates":[-73.44136,45.473156],"type":"Point"}
 }

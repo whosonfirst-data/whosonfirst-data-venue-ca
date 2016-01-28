@@ -2,13 +2,14 @@
   "id": 152429747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.210007,43.007927,-81.210007,43.007927",
     "geom:latitude":43.007927,
     "geom:longitude":-81.210007,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1299 Oxford St E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5Y 4W5",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KO4aeWuMdRZCB2Q2GH1gr_43.007927_-81.210007@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"fb92aa265ee11e3680cc924686f02494",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":152429747
+        }
+    ],
     "wof:id":152429747,
-    "wof:lastmodified":1449048673,
+    "wof:lastmodified":1453936145,
     "wof:name":"Allstate Insurance CO",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.210007,43.007927,-81.210007,43.007927],
+  "bbox": [
+    -81.210007,
+    43.007927,
+    -81.210007,
+    43.007927
+],
   "geometry": {"coordinates":[-81.210007,43.007927],"type":"Point"}
 }

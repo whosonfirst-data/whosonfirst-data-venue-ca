@@ -2,13 +2,14 @@
   "id": 169510929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.623955,45.580723,-73.623955,45.580723",
     "geom:latitude":45.580723,
     "geom:longitude":-73.623955,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9250 Boul Pie-Ix",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874359,
+        102191575,
         85633041,
-        85874359
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"1a1ec09ae0c14160524e45367806a3f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
+            "region_id":136251273,
             "venue_id":169510929
         }
     ],
     "wof:id":169510929,
-    "wof:lastmodified":1449034671,
+    "wof:lastmodified":1453930866,
     "wof:name":"Sodifruits Inc",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.623955,45.580723,-73.623955,45.580723],
+  "bbox": [
+    -73.623955,
+    45.580723,
+    -73.623955,
+    45.580723
+],
   "geometry": {"coordinates":[-73.623955,45.580723],"type":"Point"}
 }

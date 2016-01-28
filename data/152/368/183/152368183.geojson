@@ -2,13 +2,14 @@
   "id": 152368183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.989784,43.835068,-78.989784,43.835068",
     "geom:latitude":43.835068,
     "geom:longitude":-78.989784,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8 Mullord Ave",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895221,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7b59989f01febe130879c2eaa65560fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895221,
+            "region_id":85682057,
+            "venue_id":152368183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895221,
             "region_id":85682057,
             "venue_id":152368183
         }
     ],
     "wof:id":152368183,
-    "wof:lastmodified":1449045357,
+    "wof:lastmodified":1453933631,
     "wof:name":"Virtual Enterprises Inc",
     "wof:parent_id":85895221,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.989784,43.835068,-78.989784,43.835068],
+  "bbox": [
+    -78.989784,
+    43.835068,
+    -78.989784,
+    43.835068
+],
   "geometry": {"coordinates":[-78.989784,43.835068],"type":"Point"}
 }

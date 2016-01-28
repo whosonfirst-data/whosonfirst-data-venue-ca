@@ -2,13 +2,14 @@
   "id": 152761871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.300957,43.826271,-79.300957,43.826271",
     "geom:latitude":43.826271,
     "geom:longitude":-79.300957,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"35 Thelma Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895663,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"0cb5266b3f7ed5424d7630aebd7eb1cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895663,
+            "region_id":85682057,
+            "venue_id":152761871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895663,
             "region_id":85682057,
             "venue_id":152761871
         }
     ],
     "wof:id":152761871,
-    "wof:lastmodified":1449047817,
+    "wof:lastmodified":1453935514,
     "wof:name":"Aquadraulic Services",
     "wof:parent_id":85895663,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.300957,43.826271,-79.300957,43.826271],
+  "bbox": [
+    -79.300957,
+    43.826271,
+    -79.300957,
+    43.826271
+],
   "geometry": {"coordinates":[-79.300957,43.826271],"type":"Point"}
 }

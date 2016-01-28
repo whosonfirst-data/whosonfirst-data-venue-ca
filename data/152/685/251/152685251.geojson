@@ -2,13 +2,14 @@
   "id": 152685251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.368217,43.008865,-82.368217,43.008865",
     "geom:latitude":43.008865,
     "geom:longitude":-82.368217,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1100 Gurd St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875569,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"04521fb91b2e34d3c92bb19c84888970",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875569,
+            "region_id":85682057,
+            "venue_id":152685251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875569,
             "region_id":85682057,
             "venue_id":152685251
         }
     ],
     "wof:id":152685251,
-    "wof:lastmodified":1449048797,
+    "wof:lastmodified":1453936250,
     "wof:name":"Network Management Svc",
     "wof:parent_id":85875569,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.368217,43.008865,-82.368217,43.008865],
+  "bbox": [
+    -82.368217,
+    43.008865,
+    -82.368217,
+    43.008865
+],
   "geometry": {"coordinates":[-82.368217,43.008865],"type":"Point"}
 }

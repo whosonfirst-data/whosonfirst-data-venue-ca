@@ -2,13 +2,14 @@
   "id": 202423587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.473648,43.417831,-80.473648,43.417831",
     "geom:latitude":43.417831,
     "geom:longitude":-80.473648,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"695 Block Line Rd",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -31,8 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864493,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,24 @@
     "wof:geomhash":"75ed2181a0e4dbafee2f1d84249a1a57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864493,
+            "region_id":85682057,
+            "venue_id":202423587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864493,
             "region_id":85682057,
             "venue_id":202423587
         }
     ],
     "wof:id":202423587,
-    "wof:lastmodified":1449060519,
+    "wof:lastmodified":1453937059,
     "wof:name":"Village of Winston Park",
     "wof:parent_id":85864493,
     "wof:placetype":"venue",
@@ -64,6 +76,11 @@
         "community"
     ]
 },
-  "bbox": [-80.473648,43.417831,-80.473648,43.417831],
+  "bbox": [
+    -80.473648,
+    43.417831,
+    -80.473648,
+    43.417831
+],
   "geometry": {"coordinates":[-80.473648,43.417831],"type":"Point"}
 }

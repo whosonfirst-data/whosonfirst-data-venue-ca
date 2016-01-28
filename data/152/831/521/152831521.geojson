@@ -2,13 +2,14 @@
   "id": 152831521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.671844,44.333347,-79.671844,44.333347",
     "geom:latitude":44.333347,
     "geom:longitude":-79.671844,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875279,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AbxHHIap4r9F9xckk4K83_44.333347_-79.671844@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"52d07bb97ffe4fca7cb9ff99dc184520",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875279,
+            "region_id":85682057,
+            "venue_id":152831521
+        }
+    ],
     "wof:id":152831521,
-    "wof:lastmodified":1449047015,
+    "wof:lastmodified":1453934884,
     "wof:name":"Meades Engineering Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.671844,44.333347,-79.671844,44.333347],
-  "geometry": {"coordinates":[-79.671844,44.333347],"type":"Point"}
+  "bbox": [
+    -79.671844,
+    44.333347,
+    -79.671844,
+    44.333347
+],
+  "geometry": {"coordinates":[-79.67184399999999,44.333347],"type":"Point"}
 }

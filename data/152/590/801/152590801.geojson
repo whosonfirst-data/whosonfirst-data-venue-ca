@@ -2,13 +2,14 @@
   "id": 152590801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.614632,45.604527,-73.614632,45.604527",
     "geom:latitude":45.604527,
     "geom:longitude":-73.614632,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11025 Rue Masse",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"72533878c0e0521828a4160d8b8f35f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":152590801
         }
     ],
     "wof:id":152590801,
-    "wof:lastmodified":1449047052,
+    "wof:lastmodified":1453934914,
     "wof:name":"Electri-Test Inc",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.614632,45.604527,-73.614632,45.604527],
+  "bbox": [
+    -73.614632,
+    45.604527,
+    -73.614632,
+    45.604527
+],
   "geometry": {"coordinates":[-73.614632,45.604527],"type":"Point"}
 }

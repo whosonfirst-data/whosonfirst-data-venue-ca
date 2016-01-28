@@ -2,13 +2,14 @@
   "id": 152297265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.010376,45.38464,-74.010376,45.38464",
     "geom:latitude":45.38464,
     "geom:longitude":-74.010376,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"28 Av Saint-Charles",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895767,
+        102191575,
         85633041,
-        85895767
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"313cbcb1f2f3af3ab338ed413f3165ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895767,
+            "region_id":136251273,
             "venue_id":152297265
         }
     ],
     "wof:id":152297265,
-    "wof:lastmodified":1449047238,
+    "wof:lastmodified":1453935050,
     "wof:name":"Taxi V-S Inc",
     "wof:parent_id":85895767,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.010376,45.38464,-74.010376,45.38464],
-  "geometry": {"coordinates":[-74.010376,45.38464],"type":"Point"}
+  "bbox": [
+    -74.010376,
+    45.38464,
+    -74.010376,
+    45.38464
+],
+  "geometry": {"coordinates":[-74.01037599999999,45.38464],"type":"Point"}
 }

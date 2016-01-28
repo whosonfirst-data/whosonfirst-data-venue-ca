@@ -2,13 +2,14 @@
   "id": 152309865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.220306,42.93338,-81.220306,42.93338",
     "geom:latitude":42.93338,
     "geom:longitude":-81.220306,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874953,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eCTovh2qmTUmG4VKrsoj0_42.933380_-81.220306@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"aa4ba25c7f5dd036c411eb802152159c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874953,
+            "region_id":85682057,
+            "venue_id":152309865
+        }
+    ],
     "wof:id":152309865,
-    "wof:lastmodified":1449045334,
+    "wof:lastmodified":1453933616,
     "wof:name":"A V Base Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874953,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.220306,42.93338,-81.220306,42.93338],
-  "geometry": {"coordinates":[-81.220306,42.93338],"type":"Point"}
+  "bbox": [
+    -81.220306,
+    42.93338,
+    -81.220306,
+    42.93338
+],
+  "geometry": {"coordinates":[-81.22030599999999,42.93338],"type":"Point"}
 }

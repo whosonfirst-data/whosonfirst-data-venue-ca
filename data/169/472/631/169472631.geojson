@@ -2,13 +2,14 @@
   "id": 169472631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62088,45.594799,-73.62088,45.594799",
     "geom:latitude":45.594799,
     "geom:longitude":-73.62088,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5151 Boul Industriel",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784809,
+        102191575,
         85633041,
-        85784809
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"839bb15ea3e917e77ad7afc8fdb9c083",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
+            "region_id":136251273,
             "venue_id":169472631
         }
     ],
     "wof:id":169472631,
-    "wof:lastmodified":1449032935,
+    "wof:lastmodified":1453929056,
     "wof:name":"Formafil Inc",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.62088,45.594799,-73.62088,45.594799],
+  "bbox": [
+    -73.62088,
+    45.594799,
+    -73.62088,
+    45.594799
+],
   "geometry": {"coordinates":[-73.62088,45.594799],"type":"Point"}
 }

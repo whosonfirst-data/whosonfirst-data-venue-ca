@@ -2,13 +2,14 @@
   "id": 168903379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.185951,43.002033,-81.185951,43.002033",
     "geom:latitude":43.002033,
     "geom:longitude":-81.185951,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1712 Dundas St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SHUPOMxc2sFX13LGuTzXO_43.002033_-81.185951@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f4f1827eeac1fc6327ea4c8174785788",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":168903379
+        }
+    ],
     "wof:id":168903379,
-    "wof:lastmodified":1449027816,
+    "wof:lastmodified":1453927827,
     "wof:name":"Forest City Surplus Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.185951,43.002033,-81.185951,43.002033],
+  "bbox": [
+    -81.185951,
+    43.002033,
+    -81.185951,
+    43.002033
+],
   "geometry": {"coordinates":[-81.185951,43.002033],"type":"Point"}
 }

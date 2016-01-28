@@ -2,13 +2,14 @@
   "id": 169217509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.200668,45.25972,-74.200668,45.25972",
     "geom:latitude":45.25972,
     "geom:longitude":-74.200668,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"37 Rue Principale",
     "sg:city":"Les Coteaux",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736785,
+        85897645,
+        102191575,
         85633041,
-        85897645
+        101736785,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"179cf6abd65720223fd4bd61362da763",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736785,
             "neighbourhood_id":85897645,
+            "region_id":136251273,
             "venue_id":169217509
         }
     ],
     "wof:id":169217509,
-    "wof:lastmodified":1449035756,
+    "wof:lastmodified":1453932025,
     "wof:name":"Residence LA Colombe Inc",
     "wof:parent_id":85897645,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.200668,45.25972,-74.200668,45.25972],
-  "geometry": {"coordinates":[-74.200668,45.25972],"type":"Point"}
+  "bbox": [
+    -74.200668,
+    45.25972,
+    -74.200668,
+    45.25972
+],
+  "geometry": {"coordinates":[-74.20066799999999,45.25972],"type":"Point"}
 }

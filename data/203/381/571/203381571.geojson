@@ -2,13 +2,14 @@
   "id": 203381571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.901833,48.334778,-70.901833,48.334778",
     "geom:latitude":48.334778,
     "geom:longitude":-70.901833,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2813 Rue Bagot",
     "sg:city":"LA Baie",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785011,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,16 @@
     "wof:geomhash":"babdf9948d75b8423aab676522ba740a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203381571
         }
     ],
     "wof:id":203381571,
-    "wof:lastmodified":1449025087,
+    "wof:lastmodified":1453927437,
     "wof:name":"Monsieur Muffler",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -66,6 +69,11 @@
         "exhaust"
     ]
 },
-  "bbox": [-70.901833,48.334778,-70.901833,48.334778],
+  "bbox": [
+    -70.901833,
+    48.334778,
+    -70.901833,
+    48.334778
+],
   "geometry": {"coordinates":[-70.901833,48.334778],"type":"Point"}
 }

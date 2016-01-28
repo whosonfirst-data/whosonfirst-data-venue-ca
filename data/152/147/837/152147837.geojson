@@ -2,13 +2,14 @@
   "id": 152147837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.692917,43.693207,-79.692917,43.693207",
     "geom:latitude":43.693207,
     "geom:longitude":-79.692917,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ae3c879437c219d8e844ae7ec38723a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152147837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152147837
         }
     ],
     "wof:id":152147837,
-    "wof:lastmodified":1449048420,
+    "wof:lastmodified":1453935965,
     "wof:name":"Ksvg Ganesh Exhaust Inc",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.692917,43.693207,-79.692917,43.693207],
-  "geometry": {"coordinates":[-79.692917,43.693207],"type":"Point"}
+  "bbox": [
+    -79.692917,
+    43.693207,
+    -79.692917,
+    43.693207
+],
+  "geometry": {"coordinates":[-79.69291699999999,43.693207],"type":"Point"}
 }

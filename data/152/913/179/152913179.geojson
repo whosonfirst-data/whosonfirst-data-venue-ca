@@ -2,13 +2,14 @@
   "id": 152913179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.877701,45.53717,-73.877701,45.53717",
     "geom:latitude":45.53717,
     "geom:longitude":-73.877701,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"335 Boul Sainte-Rose",
     "sg:city":"Laval-Ouest",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784779,
+        102191575,
         85633041,
-        85784779
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"6131972577017dd02f78d37ba7bf417e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784779,
+            "region_id":136251273,
             "venue_id":152913179
         }
     ],
     "wof:id":152913179,
-    "wof:lastmodified":1449046093,
+    "wof:lastmodified":1453934190,
     "wof:name":"Depanneur Cremerie Du Lac",
     "wof:parent_id":85784779,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.877701,45.53717,-73.877701,45.53717],
+  "bbox": [
+    -73.877701,
+    45.53717,
+    -73.877701,
+    45.53717
+],
   "geometry": {"coordinates":[-73.877701,45.53717],"type":"Point"}
 }

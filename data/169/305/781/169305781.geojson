@@ -2,13 +2,14 @@
   "id": 169305781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.6036,45.522667,-73.6036,45.522667",
     "geom:latitude":45.522667,
     "geom:longitude":-73.6036,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5608 Av Du Parc",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784831,
+        102191575,
         85633041,
-        85784831
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"25418f18ef22adb7848a34c781c191e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
+            "region_id":136251273,
             "venue_id":169305781
         }
     ],
     "wof:id":169305781,
-    "wof:lastmodified":1449033192,
+    "wof:lastmodified":1453929292,
     "wof:name":"Carrousel Du Parc",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.6036,45.522667,-73.6036,45.522667],
+  "bbox": [
+    -73.6036,
+    45.522667,
+    -73.6036,
+    45.522667
+],
   "geometry": {"coordinates":[-73.6036,45.522667],"type":"Point"}
 }

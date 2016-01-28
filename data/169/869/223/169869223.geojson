@@ -2,13 +2,14 @@
   "id": 169869223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554466,45.511292,-73.554466,45.511292",
     "geom:latitude":45.511292,
     "geom:longitude":-73.554466,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"415 Rue Saint-Antoine O # 202",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866483,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"a34e0250b0bbaf44ff8e0e1133b11b9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169869223
         }
     ],
     "wof:id":169869223,
-    "wof:lastmodified":1449035697,
+    "wof:lastmodified":1453931943,
     "wof:name":"Montreal Office Municipal",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "village"
     ]
 },
-  "bbox": [-73.554466,45.511292,-73.554466,45.511292],
-  "geometry": {"coordinates":[-73.554466,45.511292],"type":"Point"}
+  "bbox": [
+    -73.554466,
+    45.511292,
+    -73.554466,
+    45.511292
+],
+  "geometry": {"coordinates":[-73.55446600000001,45.511292],"type":"Point"}
 }

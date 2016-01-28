@@ -2,13 +2,14 @@
   "id": 169481255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.256149,48.410278,-71.256149,48.410278",
     "geom:latitude":48.410278,
     "geom:longitude":-71.256149,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2501 Rue Saint-Dominique",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bbf92a4fe564b457a7b6b319a326c0ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":169481255
         }
     ],
     "wof:id":169481255,
-    "wof:lastmodified":1449035531,
+    "wof:lastmodified":1453931771,
     "wof:name":"Bar L'Audace",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.256149,48.410278,-71.256149,48.410278],
-  "geometry": {"coordinates":[-71.256149,48.410278],"type":"Point"}
+  "bbox": [
+    -71.256149,
+    48.410278,
+    -71.256149,
+    48.410278
+],
+  "geometry": {"coordinates":[-71.25614899999999,48.410278],"type":"Point"}
 }

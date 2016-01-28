@@ -2,13 +2,14 @@
   "id": 202697749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.513618,45.633778,-73.513618,45.633778",
     "geom:latitude":45.633778,
     "geom:longitude":-73.513618,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"470 Av Laurendeau",
     "sg:city":"Montreal-Est",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784837,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"ef466a1b984f642195b8262b9aab0ec1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202697749
         }
     ],
     "wof:id":202697749,
-    "wof:lastmodified":1449061693,
+    "wof:lastmodified":1453937306,
     "wof:name":"Techfab Gauthier Inc",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.513618,45.633778,-73.513618,45.633778],
-  "geometry": {"coordinates":[-73.513618,45.633778],"type":"Point"}
+  "bbox": [
+    -73.513618,
+    45.633778,
+    -73.513618,
+    45.633778
+],
+  "geometry": {"coordinates":[-73.51361799999999,45.633778],"type":"Point"}
 }

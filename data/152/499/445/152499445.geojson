@@ -2,13 +2,14 @@
   "id": 152499445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.889549,43.522129,-79.889549,43.522129",
     "geom:latitude":43.522129,
     "geom:longitude":-79.889549,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"368 Kingsleigh Crt",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895371,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ad69549bf439e5660aac0ab289f7c7d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895371,
+            "region_id":85682057,
+            "venue_id":152499445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895371,
             "region_id":85682057,
             "venue_id":152499445
         }
     ],
     "wof:id":152499445,
-    "wof:lastmodified":1449045184,
+    "wof:lastmodified":1453933497,
     "wof:name":"Shaklee Independent Distr",
     "wof:parent_id":85895371,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.889549,43.522129,-79.889549,43.522129],
+  "bbox": [
+    -79.889549,
+    43.522129,
+    -79.889549,
+    43.522129
+],
   "geometry": {"coordinates":[-79.889549,43.522129],"type":"Point"}
 }

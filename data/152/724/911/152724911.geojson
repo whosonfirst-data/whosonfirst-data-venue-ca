@@ -2,13 +2,14 @@
   "id": 152724911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771057,43.367859,-79.771057,43.367859",
     "geom:latitude":43.367859,
     "geom:longitude":-79.771057,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"750 Darlene Crt",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895545,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"fc190a923028f0cd0c2dadd85385c055",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895545,
+            "region_id":85682057,
+            "venue_id":152724911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895545,
             "region_id":85682057,
             "venue_id":152724911
         }
     ],
     "wof:id":152724911,
-    "wof:lastmodified":1449048815,
+    "wof:lastmodified":1453936265,
     "wof:name":"Lowe's Autobody",
     "wof:parent_id":85895545,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.771057,43.367859,-79.771057,43.367859],
+  "bbox": [
+    -79.771057,
+    43.367859,
+    -79.771057,
+    43.367859
+],
   "geometry": {"coordinates":[-79.771057,43.367859],"type":"Point"}
 }

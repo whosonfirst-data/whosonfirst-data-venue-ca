@@ -2,13 +2,14 @@
   "id": 168861305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.234253,43.16983,-79.234253,43.16983",
     "geom:latitude":43.16983,
     "geom:longitude":-79.234253,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"140 Niagara St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a35b7c7795bf2d1015ce09e7938cf671",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":168861305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":168861305
         }
     ],
     "wof:id":168861305,
-    "wof:lastmodified":1449028589,
+    "wof:lastmodified":1453928681,
     "wof:name":"Rammohan, S MD",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.234253,43.16983,-79.234253,43.16983],
+  "bbox": [
+    -79.234253,
+    43.16983,
+    -79.234253,
+    43.16983
+],
   "geometry": {"coordinates":[-79.234253,43.16983],"type":"Point"}
 }

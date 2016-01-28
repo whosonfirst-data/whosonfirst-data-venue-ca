@@ -2,13 +2,14 @@
   "id": 169446353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.204506,43.563702,-80.204506,43.563702",
     "geom:latitude":43.563702,
     "geom:longitude":-80.204506,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"51 Watson Rd S",
     "sg:city":"Guelph",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875519,
-        85682057
+        102191575,
+        85633041,
+        101735927,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b56b00143f2ab9afd3983f2fdeac2e30",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735927,
+            "neighbourhood_id":85875519,
+            "region_id":85682057,
+            "venue_id":169446353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875519,
             "region_id":85682057,
             "venue_id":169446353
         }
     ],
     "wof:id":169446353,
-    "wof:lastmodified":1449035679,
+    "wof:lastmodified":1453931914,
     "wof:name":"Artemis Technologies",
     "wof:parent_id":85875519,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.204506,43.563702,-80.204506,43.563702],
-  "geometry": {"coordinates":[-80.204506,43.563702],"type":"Point"}
+  "bbox": [
+    -80.204506,
+    43.563702,
+    -80.204506,
+    43.563702
+],
+  "geometry": {"coordinates":[-80.20450599999999,43.563702],"type":"Point"}
 }

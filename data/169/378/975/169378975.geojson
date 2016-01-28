@@ -2,13 +2,14 @@
   "id": 169378975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.26844,46.862728,-71.26844,46.862728",
     "geom:latitude":46.862728,
     "geom:longitude":-71.26844,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
         {
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"681f0e49462fc8209cbe8f62b515f7be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169378975
         }
     ],
     "wof:id":169378975,
-    "wof:lastmodified":1449034919,
+    "wof:lastmodified":1453931145,
     "wof:name":"C D Jeux",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.26844,46.862728,-71.26844,46.862728],
+  "bbox": [
+    -71.26844,
+    46.862728,
+    -71.26844,
+    46.862728
+],
   "geometry": {"coordinates":[-71.26844,46.862728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169394875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.655083,43.654842,-79.655083,43.654842",
     "geom:latitude":43.654842,
     "geom:longitude":-79.655083,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6141 Vipond Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"3e56318e234f59eb4a2b5689a4f10d62",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":169394875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":169394875
         }
     ],
     "wof:id":169394875,
-    "wof:lastmodified":1449033331,
+    "wof:lastmodified":1453929438,
     "wof:name":"Faurecia Automotive Seating",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.655083,43.654842,-79.655083,43.654842],
+  "bbox": [
+    -79.655083,
+    43.654842,
+    -79.655083,
+    43.654842
+],
   "geometry": {"coordinates":[-79.655083,43.654842],"type":"Point"}
 }

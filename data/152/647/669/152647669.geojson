@@ -2,13 +2,14 @@
   "id": 152647669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.610245,45.544216,-73.610245,45.544216",
     "geom:latitude":45.544216,
     "geom:longitude":-73.610245,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1274 Rue Jean-Talon E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"76b4bac8c42c7c9504b695166f923593",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":152647669
         }
     ],
     "wof:id":152647669,
-    "wof:lastmodified":1449046492,
+    "wof:lastmodified":1453934499,
     "wof:name":"Ferti 2000",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.610245,45.544216,-73.610245,45.544216],
-  "geometry": {"coordinates":[-73.610245,45.544216],"type":"Point"}
+  "bbox": [
+    -73.610245,
+    45.544216,
+    -73.610245,
+    45.544216
+],
+  "geometry": {"coordinates":[-73.61024500000001,45.544216],"type":"Point"}
 }

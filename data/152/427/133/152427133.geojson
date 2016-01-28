@@ -2,13 +2,14 @@
   "id": 152427133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.613029,45.541279,-73.613029,45.541279",
     "geom:latitude":45.541279,
     "geom:longitude":-73.613029,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"915 Rue Jean-Talon O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"68490cec3a3c68c7abea40de500cc3c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":152427133
         }
     ],
     "wof:id":152427133,
-    "wof:lastmodified":1449045694,
+    "wof:lastmodified":1453933892,
     "wof:name":"Dessinateur Archi-Tectonas",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.613029,45.541279,-73.613029,45.541279],
+  "bbox": [
+    -73.613029,
+    45.541279,
+    -73.613029,
+    45.541279
+],
   "geometry": {"coordinates":[-73.613029,45.541279],"type":"Point"}
 }

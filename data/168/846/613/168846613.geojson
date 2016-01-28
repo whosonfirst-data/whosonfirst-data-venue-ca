@@ -2,13 +2,14 @@
   "id": 168846613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.80397,45.386768,-75.80397,45.386768",
     "geom:latitude":45.386768,
     "geom:longitude":-75.80397,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"27 Boul DE Lucerne",
     "sg:city":"Aylmer",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85864511,
+        102191575,
         85633041,
-        85864511
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"51f77897311b19df758b2a051ff258a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85864511,
+            "region_id":136251273,
             "venue_id":168846613
         }
     ],
     "wof:id":168846613,
-    "wof:lastmodified":1449028406,
+    "wof:lastmodified":1453928487,
     "wof:name":"Depanneur Deschenes",
     "wof:parent_id":85864511,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.80397,45.386768,-75.80397,45.386768],
-  "geometry": {"coordinates":[-75.80397,45.386768],"type":"Point"}
+  "bbox": [
+    -75.80397,
+    45.386768,
+    -75.80397,
+    45.386768
+],
+  "geometry": {"coordinates":[-75.80397000000001,45.386768],"type":"Point"}
 }

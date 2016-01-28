@@ -2,13 +2,14 @@
   "id": 219486943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.649246,43.603615,-79.649246,43.603615",
     "geom:latitude":43.603615,
     "geom:longitude":-79.649246,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Kingsbridge Garden Cir",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895105,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"7cba4d8ef2863389b1815200ef20b85d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":219486943
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":219486943
         }
     ],
     "wof:id":219486943,
-    "wof:lastmodified":1449072341,
+    "wof:lastmodified":1453937801,
     "wof:name":"Explosive Entertainment",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "music"
     ]
 },
-  "bbox": [-79.649246,43.603615,-79.649246,43.603615],
-  "geometry": {"coordinates":[-79.649246,43.603615],"type":"Point"}
+  "bbox": [
+    -79.649246,
+    43.603615,
+    -79.649246,
+    43.603615
+],
+  "geometry": {"coordinates":[-79.64924600000001,43.603615],"type":"Point"}
 }

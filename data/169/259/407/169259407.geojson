@@ -2,13 +2,14 @@
   "id": 169259407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.240807,43.160786,-79.240807,43.160786",
     "geom:latitude":43.160786,
     "geom:longitude":-79.240807,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"412 St. Paul St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"d09e899a1ea09670d739ddc7715629b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":169259407
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":169259407
         }
     ],
     "wof:id":169259407,
-    "wof:lastmodified":1449033444,
+    "wof:lastmodified":1453929556,
     "wof:name":"Canadian Furniture & Appliance",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.240807,43.160786,-79.240807,43.160786],
+  "bbox": [
+    -79.240807,
+    43.160786,
+    -79.240807,
+    43.160786
+],
   "geometry": {"coordinates":[-79.240807,43.160786],"type":"Point"}
 }

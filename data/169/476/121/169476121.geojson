@@ -2,13 +2,14 @@
   "id": 169476121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.939598,43.899757,-78.939598,43.899757",
     "geom:latitude":43.899757,
     "geom:longitude":-78.939598,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Whitby",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875161,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"0f57be240e105e152a2b9e29f96ca908",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875161,
+            "region_id":85682057,
+            "venue_id":169476121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875161,
             "region_id":85682057,
             "venue_id":169476121
         }
     ],
     "wof:id":169476121,
-    "wof:lastmodified":1449034014,
+    "wof:lastmodified":1453930181,
     "wof:name":"Paint Store Plus Inc",
     "wof:parent_id":85875161,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.939598,43.899757,-78.939598,43.899757],
+  "bbox": [
+    -78.939598,
+    43.899757,
+    -78.939598,
+    43.899757
+],
   "geometry": {"coordinates":[-78.939598,43.899757],"type":"Point"}
 }

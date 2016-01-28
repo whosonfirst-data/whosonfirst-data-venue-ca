@@ -2,13 +2,14 @@
   "id": 169327021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.47686,44.040684,-79.47686,44.040684",
     "geom:latitude":44.040684,
     "geom:longitude":-79.47686,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16925 Yonge St",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895563,
         102191575,
         85633041,
-        85895563
+        101736295,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736295,
             "neighbourhood_id":85895563,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169327021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895563,
+            "region_id":85682057,
             "venue_id":169327021
         }
     ],
     "wof:id":169327021,
-    "wof:lastmodified":1449032927,
+    "wof:lastmodified":1453929043,
     "wof:name":"Quaker Hill Drug Mart",
     "wof:parent_id":85895563,
     "wof:placetype":"venue",
@@ -54,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.47686,44.040684,-79.47686,44.040684],
+  "bbox": [
+    -79.47686,
+    44.040684,
+    -79.47686,
+    44.040684
+],
   "geometry": {"coordinates":[-79.47686,44.040684],"type":"Point"}
 }

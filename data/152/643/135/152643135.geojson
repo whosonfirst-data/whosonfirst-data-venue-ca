@@ -2,13 +2,14 @@
   "id": 152643135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618034,45.566837,-73.618034,45.566837",
     "geom:latitude":45.566837,
     "geom:longitude":-73.618034,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8561 10E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"df5482255e99e9a1139d31918aa2519d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":152643135
         }
     ],
     "wof:id":152643135,
-    "wof:lastmodified":1449048301,
+    "wof:lastmodified":1453935871,
     "wof:name":"Techno Lettrage Cr",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.618034,45.566837,-73.618034,45.566837],
-  "geometry": {"coordinates":[-73.618034,45.566837],"type":"Point"}
+  "bbox": [
+    -73.618034,
+    45.566837,
+    -73.618034,
+    45.566837
+],
+  "geometry": {"coordinates":[-73.61803399999999,45.566837],"type":"Point"}
 }

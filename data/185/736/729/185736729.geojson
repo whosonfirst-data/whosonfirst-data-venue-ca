@@ -2,13 +2,14 @@
   "id": 185736729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.193626,46.779766,-71.193626,46.779766",
     "geom:latitude":46.779766,
     "geom:longitude":-71.193626,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4375 Boul DE LA Rive-Sud",
     "sg:city":"Levis",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864441,
+        102191575,
         85633041,
-        101737987
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"784f58ab3f10f8a27994210be0844ab0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85864441,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185736729
         }
     ],
     "wof:id":185736729,
-    "wof:lastmodified":1449008169,
+    "wof:lastmodified":1453927385,
     "wof:name":"Imprimerie Les Arts Graphiques",
     "wof:parent_id":85864441,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "printer"
     ]
 },
-  "bbox": [-71.193626,46.779766,-71.193626,46.779766],
-  "geometry": {"coordinates":[-71.193626,46.779766],"type":"Point"}
+  "bbox": [
+    -71.193626,
+    46.779766,
+    -71.193626,
+    46.779766
+],
+  "geometry": {"coordinates":[-71.19362599999999,46.779766],"type":"Point"}
 }

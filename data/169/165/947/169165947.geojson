@@ -2,13 +2,14 @@
   "id": 169165947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.7192,43.586117,-79.7192,43.586117",
     "geom:latitude":43.586117,
     "geom:longitude":-79.7192,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Ellen St",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d0d1b3a2593b1ef114e8fecf49e2abe1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":169165947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":169165947
         }
     ],
     "wof:id":169165947,
-    "wof:lastmodified":1449035974,
+    "wof:lastmodified":1453932233,
     "wof:name":"W C Graham Construction",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.7192,43.586117,-79.7192,43.586117],
+  "bbox": [
+    -79.7192,
+    43.586117,
+    -79.7192,
+    43.586117
+],
   "geometry": {"coordinates":[-79.7192,43.586117],"type":"Point"}
 }

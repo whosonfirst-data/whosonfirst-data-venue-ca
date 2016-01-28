@@ -2,13 +2,14 @@
   "id": 202701669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.059357,48.453144,-71.059357,48.453144",
     "geom:latitude":48.453144,
     "geom:longitude":-71.059357,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2044 Rue DE Vimy",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785001,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"54b2d92c0ddfd5976814785e53acbeae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202701669
         }
     ],
     "wof:id":202701669,
-    "wof:lastmodified":1449062130,
+    "wof:lastmodified":1453937396,
     "wof:name":"Conciergerie Bp Net",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "janitor"
     ]
 },
-  "bbox": [-71.059357,48.453144,-71.059357,48.453144],
-  "geometry": {"coordinates":[-71.059357,48.453144],"type":"Point"}
+  "bbox": [
+    -71.059357,
+    48.453144,
+    -71.059357,
+    48.453144
+],
+  "geometry": {"coordinates":[-71.05935700000001,48.453144],"type":"Point"}
 }

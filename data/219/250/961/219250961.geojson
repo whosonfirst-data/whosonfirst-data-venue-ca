@@ -2,13 +2,14 @@
   "id": 219250961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.190964,43.034683,-81.190964,43.034683",
     "geom:latitude":43.034683,
     "geom:longitude":-81.190964,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1424 Clarke Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,8 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85864479,
+        102191575,
         85633041,
-        85682057
+        101735885,
+        85682057,
+        101740735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +44,26 @@
     "wof:geomhash":"60672dc631bb5cda7a7a640835fe9c8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735885,
+            "neighbourhood_id":85864479,
+            "region_id":85682057,
+            "venue_id":219250961
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740735,
+            "neighbourhood_id":85864479,
             "region_id":85682057,
             "venue_id":219250961
         }
     ],
     "wof:id":219250961,
-    "wof:lastmodified":1449072392,
+    "wof:lastmodified":1453937809,
     "wof:name":"Llyndinridge Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864479,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.190964,43.034683,-81.190964,43.034683],
-  "geometry": {"coordinates":[-81.190964,43.034683],"type":"Point"}
+  "bbox": [
+    -81.190964,
+    43.034683,
+    -81.190964,
+    43.034683
+],
+  "geometry": {"coordinates":[-81.19096399999999,43.034683],"type":"Point"}
 }

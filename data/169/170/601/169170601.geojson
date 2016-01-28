@@ -2,13 +2,14 @@
   "id": 169170601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.66465,45.593613,-73.66465,45.593613",
     "geom:latitude":45.593613,
     "geom:longitude":-73.66465,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3315 Boul DE LA Concorde E",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875069,
+        102191575,
         85633041,
-        85875069
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4d36431ae07e21b25fe8f3d95a0fa07a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
+            "region_id":136251273,
             "venue_id":169170601
         }
     ],
     "wof:id":169170601,
-    "wof:lastmodified":1449032978,
+    "wof:lastmodified":1453929105,
     "wof:name":"Charcutiere Laval Inc",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.66465,45.593613,-73.66465,45.593613],
-  "geometry": {"coordinates":[-73.66465,45.593613],"type":"Point"}
+  "bbox": [
+    -73.66465,
+    45.593613,
+    -73.66465,
+    45.593613
+],
+  "geometry": {"coordinates":[-73.66464999999999,45.593613],"type":"Point"}
 }

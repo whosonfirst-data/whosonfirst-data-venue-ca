@@ -2,13 +2,14 @@
   "id": 202811169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.644577,44.219673,-76.644577,44.219673",
     "geom:latitude":44.219673,
     "geom:longitude":-76.644577,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9 Manitou Cres W",
     "sg:city":"Amherstview",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875393,
+        102191575,
         85633041,
-        85682057
+        101740731,
+        85682057,
+        101735963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"2612a9719e124d5b406770ad090ea0f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740731,
+            "neighbourhood_id":85875393,
+            "region_id":85682057,
+            "venue_id":202811169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735963,
             "neighbourhood_id":85875393,
             "region_id":85682057,
             "venue_id":202811169
         }
     ],
     "wof:id":202811169,
-    "wof:lastmodified":1449061351,
+    "wof:lastmodified":1453937239,
     "wof:name":"Trinity Presbyterian Church",
     "wof:parent_id":85875393,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "church"
     ]
 },
-  "bbox": [-76.644577,44.219673,-76.644577,44.219673],
+  "bbox": [
+    -76.644577,
+    44.219673,
+    -76.644577,
+    44.219673
+],
   "geometry": {"coordinates":[-76.644577,44.219673],"type":"Point"}
 }

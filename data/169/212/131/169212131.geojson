@@ -2,13 +2,14 @@
   "id": 169212131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.63942,45.662319,-73.63942,45.662319",
     "geom:latitude":45.662319,
     "geom:longitude":-73.63942,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1600 Rue Boisclerc",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"33db3e6720e9e7172fe547aaf4a00128",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169212131
         }
     ],
     "wof:id":169212131,
-    "wof:lastmodified":1449034820,
+    "wof:lastmodified":1453931054,
     "wof:name":"Kenny Pieces D'Auto Inc",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.63942,45.662319,-73.63942,45.662319],
+  "bbox": [
+    -73.63942,
+    45.662319,
+    -73.63942,
+    45.662319
+],
   "geometry": {"coordinates":[-73.63942,45.662319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169487405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.97683,49.316216,-122.97683,49.316216",
     "geom:latitude":49.316216,
     "geom:longitude":-122.97683,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3426 Gaspe Pl",
     "sg:city":"North Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894921,
-        85682117
+        102191575,
+        85633041,
+        101741071,
+        85682117,
+        101745447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7ff2d7def6d4eb54a65c7442544a3a4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741071,
+            "neighbourhood_id":85894921,
+            "region_id":85682117,
+            "venue_id":169487405
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745447,
             "neighbourhood_id":85894921,
             "region_id":85682117,
             "venue_id":169487405
         }
     ],
     "wof:id":169487405,
-    "wof:lastmodified":1449033770,
+    "wof:lastmodified":1453929918,
     "wof:name":"North Enderby Trading Ltd",
     "wof:parent_id":85894921,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.97683,49.316216,-122.97683,49.316216],
-  "geometry": {"coordinates":[-122.97683,49.316216],"type":"Point"}
+  "bbox": [
+    -122.97683,
+    49.316216,
+    -122.97683,
+    49.316216
+],
+  "geometry": {"coordinates":[-122.97683000000001,49.316216],"type":"Point"}
 }

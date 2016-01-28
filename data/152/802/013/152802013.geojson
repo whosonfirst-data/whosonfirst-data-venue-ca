@@ -2,13 +2,14 @@
   "id": 152802013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.554848,43.783348,-79.554848,43.783348",
     "geom:latitude":43.783348,
     "geom:longitude":-79.554848,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"41 Whitmore Rd # 4",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"0d2bed2414950c2b1953bc737a61f173",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152802013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152802013
         }
     ],
     "wof:id":152802013,
-    "wof:lastmodified":1449048055,
+    "wof:lastmodified":1453935689,
     "wof:name":"C To C Store Fixtures Inc",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.554848,43.783348,-79.554848,43.783348],
-  "geometry": {"coordinates":[-79.554848,43.783348],"type":"Point"}
+  "bbox": [
+    -79.554848,
+    43.783348,
+    -79.554848,
+    43.783348
+],
+  "geometry": {"coordinates":[-79.55484800000001,43.783348],"type":"Point"}
 }

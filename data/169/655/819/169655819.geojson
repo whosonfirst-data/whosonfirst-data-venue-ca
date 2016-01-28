@@ -2,13 +2,14 @@
   "id": 169655819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.758774,45.587399,-73.758774,45.587399",
     "geom:latitude":45.587399,
     "geom:longitude":-73.758774,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1965 Rue Le Chatelier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897565,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"dd664a566e205edfc097b7543973a4cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897565,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169655819
         }
     ],
     "wof:id":169655819,
-    "wof:lastmodified":1449034587,
+    "wof:lastmodified":1453930797,
     "wof:name":"Advanced Hydraulics Inc",
     "wof:parent_id":85897565,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.758774,45.587399,-73.758774,45.587399],
+  "bbox": [
+    -73.758774,
+    45.587399,
+    -73.758774,
+    45.587399
+],
   "geometry": {"coordinates":[-73.758774,45.587399],"type":"Point"}
 }

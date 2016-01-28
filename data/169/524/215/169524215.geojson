@@ -2,13 +2,14 @@
   "id": 169524215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.676926,45.434769,-73.676926,45.434769",
     "geom:latitude":45.434769,
     "geom:longitude":-73.676926,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1445 Rue Notre-Dame",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784771,
+        102191575,
         85633041,
-        85784771
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"6cecb0bbc57bdbe5cc0aadc76451d063",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784771,
+            "region_id":136251273,
             "venue_id":169524215
         }
     ],
     "wof:id":169524215,
-    "wof:lastmodified":1449032653,
+    "wof:lastmodified":1453928771,
     "wof:name":"Tabagie Lachine",
     "wof:parent_id":85784771,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.676926,45.434769,-73.676926,45.434769],
-  "geometry": {"coordinates":[-73.676926,45.434769],"type":"Point"}
+  "bbox": [
+    -73.676926,
+    45.434769,
+    -73.676926,
+    45.434769
+],
+  "geometry": {"coordinates":[-73.67692599999999,45.434769],"type":"Point"}
 }

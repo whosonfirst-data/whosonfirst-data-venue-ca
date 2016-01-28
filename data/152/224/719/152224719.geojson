@@ -2,13 +2,14 @@
   "id": 152224719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.896286,45.632145,-73.896286,45.632145",
     "geom:latitude":45.632145,
     "geom:longitude":-73.896286,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"350 Ch DE LA Cote Sud",
     "sg:city":"Boisbriand",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738507,
+        85897563,
+        102191575,
         85633041,
-        85897563
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"127c8a0b5684e3ed24789cd1944fcf53",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
+            "region_id":136251273,
             "venue_id":152224719
         }
     ],
     "wof:id":152224719,
-    "wof:lastmodified":1449047676,
+    "wof:lastmodified":1453935403,
     "wof:name":"Leo Dubois & Fils",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.896286,45.632145,-73.896286,45.632145],
+  "bbox": [
+    -73.896286,
+    45.632145,
+    -73.896286,
+    45.632145
+],
   "geometry": {"coordinates":[-73.896286,45.632145],"type":"Point"}
 }

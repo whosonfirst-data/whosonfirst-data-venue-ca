@@ -2,13 +2,14 @@
   "id": 168988625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.243805,43.162823,-79.243805,43.162823",
     "geom:latitude":43.162823,
     "geom:longitude":-79.243805,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Church St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e2617cf02a35082622301d356e70c3cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":168988625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":168988625
         }
     ],
     "wof:id":168988625,
-    "wof:lastmodified":1449028016,
+    "wof:lastmodified":1453928067,
     "wof:name":"Niagara Centre For Independent",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.243805,43.162823,-79.243805,43.162823],
-  "geometry": {"coordinates":[-79.243805,43.162823],"type":"Point"}
+  "bbox": [
+    -79.243805,
+    43.162823,
+    -79.243805,
+    43.162823
+],
+  "geometry": {"coordinates":[-79.24380499999999,43.162823],"type":"Point"}
 }

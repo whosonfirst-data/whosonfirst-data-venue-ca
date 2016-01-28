@@ -2,13 +2,14 @@
   "id": 152604065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.81321,43.387791,-79.81321,43.387791",
     "geom:latitude":43.387791,
     "geom:longitude":-79.81321,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2143 Crosswinds Crt",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895583,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"17a98c36aa70d78c96837b1e15a8eaf7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895583,
+            "region_id":85682057,
+            "venue_id":152604065
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895583,
             "region_id":85682057,
             "venue_id":152604065
         }
     ],
     "wof:id":152604065,
-    "wof:lastmodified":1449048390,
+    "wof:lastmodified":1453935939,
     "wof:name":"Pcm & Assoc",
     "wof:parent_id":85895583,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.81321,43.387791,-79.81321,43.387791],
+  "bbox": [
+    -79.81321,
+    43.387791,
+    -79.81321,
+    43.387791
+],
   "geometry": {"coordinates":[-79.81321,43.387791],"type":"Point"}
 }

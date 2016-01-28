@@ -2,13 +2,14 @@
   "id": 152279405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.203827,45.563847,-73.203827,45.563847",
     "geom:latitude":45.563847,
     "geom:longitude":-73.203827,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"46 Rue Brunelle",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738643,
+        85894591,
+        102191575,
         85633041,
-        85894591
+        101738643,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b99333ee6ef2007980dd272bfeca3b77",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738643,
             "neighbourhood_id":85894591,
+            "region_id":136251273,
             "venue_id":152279405
         }
     ],
     "wof:id":152279405,
-    "wof:lastmodified":1449046433,
+    "wof:lastmodified":1453934460,
     "wof:name":"Gauthier Prevost & Assoc Inc",
     "wof:parent_id":85894591,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.203827,45.563847,-73.203827,45.563847],
+  "bbox": [
+    -73.203827,
+    45.563847,
+    -73.203827,
+    45.563847
+],
   "geometry": {"coordinates":[-73.203827,45.563847],"type":"Point"}
 }

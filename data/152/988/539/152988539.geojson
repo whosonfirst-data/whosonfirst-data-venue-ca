@@ -2,13 +2,14 @@
   "id": 152988539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.562004,45.616959,-73.562004,45.616959",
     "geom:latitude":45.616959,
     "geom:longitude":-73.562004,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8501 Boul Ray-Lawson",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c5aabe6324ed6e6af849d1a5a9d8885c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152988539
         }
     ],
     "wof:id":152988539,
-    "wof:lastmodified":1449045905,
+    "wof:lastmodified":1453934053,
     "wof:name":"M C Collection",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.562004,45.616959,-73.562004,45.616959],
+  "bbox": [
+    -73.562004,
+    45.616959,
+    -73.562004,
+    45.616959
+],
   "geometry": {"coordinates":[-73.562004,45.616959],"type":"Point"}
 }

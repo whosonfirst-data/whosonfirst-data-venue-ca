@@ -2,13 +2,14 @@
   "id": 152972133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.950729,45.403641,-71.950729,45.403641",
     "geom:latitude":45.403641,
     "geom:longitude":-71.950729,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3147 Boul DE Portland",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874131,
+        102191575,
         85633041,
-        85874131
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c7f88abd97ad4339d768eb100d6ce314",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
+            "region_id":136251273,
             "venue_id":152972133
         }
     ],
     "wof:id":152972133,
-    "wof:lastmodified":1449046623,
+    "wof:lastmodified":1453934588,
     "wof:name":"Moores Vetements Pour Hommes",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.950729,45.403641,-71.950729,45.403641],
+  "bbox": [
+    -71.950729,
+    45.403641,
+    -71.950729,
+    45.403641
+],
   "geometry": {"coordinates":[-71.950729,45.403641],"type":"Point"}
 }

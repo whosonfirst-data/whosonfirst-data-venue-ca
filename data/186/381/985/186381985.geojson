@@ -2,13 +2,14 @@
   "id": 186381985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.340988,43.832733,-79.340988,43.832733",
     "geom:latitude":43.832733,
     "geom:longitude":-79.340988,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Riviera Dr",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895015,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"202037b9fb9900a9092b12bb8838850c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895015,
+            "region_id":85682057,
+            "venue_id":186381985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895015,
             "region_id":85682057,
             "venue_id":186381985
         }
     ],
     "wof:id":186381985,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1453936519,
     "wof:name":"Media Guard Technical Solution",
     "wof:parent_id":85895015,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "repair"
     ]
 },
-  "bbox": [-79.340988,43.832733,-79.340988,43.832733],
+  "bbox": [
+    -79.340988,
+    43.832733,
+    -79.340988,
+    43.832733
+],
   "geometry": {"coordinates":[-79.340988,43.832733],"type":"Point"}
 }

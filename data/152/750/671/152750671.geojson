@@ -2,13 +2,14 @@
   "id": 152750671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.020729,49.214558,-123.020729,49.214558",
     "geom:latitude":49.214558,
     "geom:longitude":-123.020729,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7610 Joffre Ave",
     "sg:city":"Burnaby",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865075,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"32b79b8cdaf6ed7e8c72ef04816e75f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865075,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":152750671,
-    "wof:lastmodified":1449047087,
+    "wof:lastmodified":1453934944,
     "wof:name":"Burnaby Grocers Ltd",
     "wof:parent_id":85865075,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.020729,49.214558,-123.020729,49.214558],
+  "bbox": [
+    -123.020729,
+    49.214558,
+    -123.020729,
+    49.214558
+],
   "geometry": {"coordinates":[-123.020729,49.214558],"type":"Point"}
 }

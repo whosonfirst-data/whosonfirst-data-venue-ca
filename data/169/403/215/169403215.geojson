@@ -2,13 +2,14 @@
   "id": 169403215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.698601,45.5411,-73.698601,45.5411",
     "geom:latitude":45.5411,
     "geom:longitude":-73.698601,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12087 Rue Pasteur",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897495,
+        102191575,
         85633041,
-        85897495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"e856d06315abf00f6fa5652ff3cacbe7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897495,
+            "region_id":136251273,
             "venue_id":169403215
         }
     ],
     "wof:id":169403215,
-    "wof:lastmodified":1449035503,
+    "wof:lastmodified":1453931737,
     "wof:name":"Mimex International",
     "wof:parent_id":85897495,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.698601,45.5411,-73.698601,45.5411],
+  "bbox": [
+    -73.698601,
+    45.5411,
+    -73.698601,
+    45.5411
+],
   "geometry": {"coordinates":[-73.698601,45.5411],"type":"Point"}
 }

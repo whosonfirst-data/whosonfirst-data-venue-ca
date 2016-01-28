@@ -2,13 +2,14 @@
   "id": 203227883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.176941,46.80286,-71.176941,46.80286",
     "geom:latitude":46.80286,
     "geom:longitude":-71.176941,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"223 Rue Commerciale",
     "sg:city":"Saint-Henri-DE-Levis",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866517,
+        102191575,
         85633041,
-        101737987
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"5dc8ea6cb06ce67b990d181145da0335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203227883
         }
     ],
     "wof:id":203227883,
-    "wof:lastmodified":1449025331,
+    "wof:lastmodified":1453927484,
     "wof:name":"Clinique Medicale St-Henri",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "clinic"
     ]
 },
-  "bbox": [-71.176941,46.80286,-71.176941,46.80286],
+  "bbox": [
+    -71.176941,
+    46.80286,
+    -71.176941,
+    46.80286
+],
   "geometry": {"coordinates":[-71.176941,46.80286],"type":"Point"}
 }

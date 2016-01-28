@@ -2,13 +2,14 @@
   "id": 169503593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.163246,43.024021,-81.163246,43.024021",
     "geom:latitude":43.024021,
     "geom:longitude":-81.163246,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2200 Jetstream Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -29,23 +30,43 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_365K6z2Vms5YXLqcU31SUu_43.024021_-81.163246@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"9abc3e9431f4f8a667f5700319f4296a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":169503593
+        }
+    ],
     "wof:id":169503593,
-    "wof:lastmodified":1449035980,
+    "wof:lastmodified":1453932239,
     "wof:name":"Tcg Asphalt & Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.163246,43.024021,-81.163246,43.024021],
+  "bbox": [
+    -81.163246,
+    43.024021,
+    -81.163246,
+    43.024021
+],
   "geometry": {"coordinates":[-81.163246,43.024021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152807377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.35881,43.398842,-80.35881,43.398842",
     "geom:latitude":43.398842,
     "geom:longitude":-80.35881,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"515 William St",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874989,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"f4a3f9d9dce35325568db1e6be95f9cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874989,
+            "region_id":85682057,
+            "venue_id":152807377
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736143,
             "neighbourhood_id":85874989,
             "region_id":85682057,
             "venue_id":152807377
         }
     ],
     "wof:id":152807377,
-    "wof:lastmodified":1449045480,
+    "wof:lastmodified":1453933731,
     "wof:name":"Ed Newland Swimming Pool",
     "wof:parent_id":85874989,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.35881,43.398842,-80.35881,43.398842],
-  "geometry": {"coordinates":[-80.35881,43.398842],"type":"Point"}
+  "bbox": [
+    -80.35881,
+    43.398842,
+    -80.35881,
+    43.398842
+],
+  "geometry": {"coordinates":[-80.35881000000001,43.398842],"type":"Point"}
 }

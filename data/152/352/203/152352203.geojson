@@ -2,13 +2,14 @@
   "id": 152352203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.495369,45.414722,-73.495369,45.414722",
     "geom:latitude":45.414722,
     "geom:longitude":-73.495369,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"555 Rue Notre-Dame",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875781,
+        102191575,
         85633041,
-        85875781
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"1731f14f3e59a488fe787013ff22c65c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875781,
+            "region_id":136251273,
             "venue_id":152352203
         }
     ],
     "wof:id":152352203,
-    "wof:lastmodified":1449047138,
+    "wof:lastmodified":1453934988,
     "wof:name":"Centre Sportif DE LA Prairie",
     "wof:parent_id":85875781,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.495369,45.414722,-73.495369,45.414722],
+  "bbox": [
+    -73.495369,
+    45.414722,
+    -73.495369,
+    45.414722
+],
   "geometry": {"coordinates":[-73.495369,45.414722],"type":"Point"}
 }

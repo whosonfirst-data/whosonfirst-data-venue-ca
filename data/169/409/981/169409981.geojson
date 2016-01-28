@@ -2,13 +2,14 @@
   "id": 169409981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.476791,43.438023,-80.476791,43.438023",
     "geom:latitude":43.438023,
     "geom:longitude":-80.476791,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"152 Bedford Rd",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864611,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"02860b65e5ec3cd08dd0c4259f8e89c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864611,
+            "region_id":85682057,
+            "venue_id":169409981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864611,
             "region_id":85682057,
             "venue_id":169409981
         }
     ],
     "wof:id":169409981,
-    "wof:lastmodified":1449034038,
+    "wof:lastmodified":1453930219,
     "wof:name":"AAA Steam Carpet Cleaning Ltd",
     "wof:parent_id":85864611,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.476791,43.438023,-80.476791,43.438023],
-  "geometry": {"coordinates":[-80.476791,43.438023],"type":"Point"}
+  "bbox": [
+    -80.476791,
+    43.438023,
+    -80.476791,
+    43.438023
+],
+  "geometry": {"coordinates":[-80.47679100000001,43.438023],"type":"Point"}
 }

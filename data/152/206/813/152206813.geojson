@@ -2,13 +2,14 @@
   "id": 152206813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.230698,46.830048,-71.230698,46.830048",
     "geom:latitude":46.830048,
     "geom:longitude":-71.230698,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1433 4E Av",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864443,
+        102191575,
         85633041,
-        85864443
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8ef1fef9233231ab004f3f9824a5f1f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864443,
+            "region_id":136251273,
             "venue_id":152206813
         }
     ],
     "wof:id":152206813,
-    "wof:lastmodified":1449047439,
+    "wof:lastmodified":1453935204,
     "wof:name":"Bureau Marcel Poulin",
     "wof:parent_id":85864443,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.230698,46.830048,-71.230698,46.830048],
+  "bbox": [
+    -71.230698,
+    46.830048,
+    -71.230698,
+    46.830048
+],
   "geometry": {"coordinates":[-71.230698,46.830048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169544165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.420906,43.826607,-79.420906,43.826607",
     "geom:latitude":43.826607,
     "geom:longitude":-79.420906,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"201 Bay Thorn Dr",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895421,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"28144d58c5f0cc8a8b1c7d9c70384e68",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895421,
+            "region_id":85682057,
+            "venue_id":169544165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895421,
             "region_id":85682057,
             "venue_id":169544165
         }
     ],
     "wof:id":169544165,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1453932225,
     "wof:name":"Baythorn Public School",
     "wof:parent_id":85895421,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.420906,43.826607,-79.420906,43.826607],
+  "bbox": [
+    -79.420906,
+    43.826607,
+    -79.420906,
+    43.826607
+],
   "geometry": {"coordinates":[-79.420906,43.826607],"type":"Point"}
 }

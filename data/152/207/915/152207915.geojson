@@ -2,13 +2,14 @@
   "id": 152207915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.10125,49.24733,-123.10125,49.24733",
     "geom:latitude":49.24733,
     "geom:longitude":-123.10125,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4285 Main St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85874401,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"4308186fb4bdaa45176d9f6dd7a0d77e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85874401,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":152207915,
-    "wof:lastmodified":1449047532,
+    "wof:lastmodified":1453935284,
     "wof:name":"Red Rose Antiques",
     "wof:parent_id":85874401,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.10125,49.24733,-123.10125,49.24733],
-  "geometry": {"coordinates":[-123.10125,49.24733],"type":"Point"}
+  "bbox": [
+    -123.10125,
+    49.24733,
+    -123.10125,
+    49.24733
+],
+  "geometry": {"coordinates":[-123.10124999999999,49.24733],"type":"Point"}
 }

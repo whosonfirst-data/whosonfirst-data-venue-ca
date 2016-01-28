@@ -2,13 +2,14 @@
   "id": 219607279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.189079,43.010307,-81.189079,43.010307",
     "geom:latitude":43.010307,
     "geom:longitude":-81.189079,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"616 Third St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,7 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85864551,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -39,18 +43,18 @@
     "wof:geomhash":"445fe73f497b0d22bf977e3bca50f33e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
             "region_id":85682057,
             "venue_id":219607279
         }
     ],
     "wof:id":219607279,
-    "wof:lastmodified":1449070865,
+    "wof:lastmodified":1453937605,
     "wof:name":"Jones' Auto Body",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "inspection"
     ]
 },
-  "bbox": [-81.189079,43.010307,-81.189079,43.010307],
-  "geometry": {"coordinates":[-81.189079,43.010307],"type":"Point"}
+  "bbox": [
+    -81.189079,
+    43.010307,
+    -81.189079,
+    43.010307
+],
+  "geometry": {"coordinates":[-81.18907900000001,43.010307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169139941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.893509,43.532902,-79.893509,43.532902",
     "geom:latitude":43.532902,
     "geom:longitude":-79.893509,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"610 Harrop Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895371,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d32bed32ef99527dae430b279e7269fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895371,
+            "region_id":85682057,
+            "venue_id":169139941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895371,
             "region_id":85682057,
             "venue_id":169139941
         }
     ],
     "wof:id":169139941,
-    "wof:lastmodified":1449032981,
+    "wof:lastmodified":1453929111,
     "wof:name":"Crawford Metal Corp",
     "wof:parent_id":85895371,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.893509,43.532902,-79.893509,43.532902],
-  "geometry": {"coordinates":[-79.893509,43.532902],"type":"Point"}
+  "bbox": [
+    -79.893509,
+    43.532902,
+    -79.893509,
+    43.532902
+],
+  "geometry": {"coordinates":[-79.89350899999999,43.532902],"type":"Point"}
 }

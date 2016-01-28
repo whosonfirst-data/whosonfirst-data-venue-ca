@@ -2,13 +2,14 @@
   "id": 152323709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.434914,43.861889,-79.434914,43.861889",
     "geom:latitude":43.861889,
     "geom:longitude":-79.434914,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9625 Yonge St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895569,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d7af610deb82b58482a0c03d600dbaf3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895569,
+            "region_id":85682057,
+            "venue_id":152323709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895569,
             "region_id":85682057,
             "venue_id":152323709
         }
     ],
     "wof:id":152323709,
-    "wof:lastmodified":1449044699,
+    "wof:lastmodified":1453933138,
     "wof:name":"2001 Audio Video",
     "wof:parent_id":85895569,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.434914,43.861889,-79.434914,43.861889],
-  "geometry": {"coordinates":[-79.434914,43.861889],"type":"Point"}
+  "bbox": [
+    -79.434914,
+    43.861889,
+    -79.434914,
+    43.861889
+],
+  "geometry": {"coordinates":[-79.43491400000001,43.861889],"type":"Point"}
 }

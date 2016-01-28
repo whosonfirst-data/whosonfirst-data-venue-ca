@@ -2,13 +2,14 @@
   "id": 219232011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.35881,46.852329,-71.35881,46.852329",
     "geom:latitude":46.852329,
     "geom:longitude":-71.35881,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"238 Rue Racine",
     "sg:city":"Loretteville",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874711,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"169e271a484d833aff998daa1e60da95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874711,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219232011
         }
     ],
     "wof:id":219232011,
-    "wof:lastmodified":1449071535,
+    "wof:lastmodified":1453937697,
     "wof:name":"Centre DE Comptabilite Info",
     "wof:parent_id":85874711,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "accountant"
     ]
 },
-  "bbox": [-71.35881,46.852329,-71.35881,46.852329],
-  "geometry": {"coordinates":[-71.35881,46.852329],"type":"Point"}
+  "bbox": [
+    -71.35881,
+    46.852329,
+    -71.35881,
+    46.852329
+],
+  "geometry": {"coordinates":[-71.35881000000001,46.852329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153044801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.571617,45.572418,-73.571617,45.572418",
     "geom:latitude":45.572418,
     "geom:longitude":-73.571617,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6500 39E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874371,
+        102191575,
         85633041,
-        85874371
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"35ebeb3a7477fc2c35830e3e0a6a94c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
+            "region_id":136251273,
             "venue_id":153044801
         }
     ],
     "wof:id":153044801,
-    "wof:lastmodified":1449040595,
+    "wof:lastmodified":1453932529,
     "wof:name":"Academie Ibn Sina",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.571617,45.572418,-73.571617,45.572418],
+  "bbox": [
+    -73.571617,
+    45.572418,
+    -73.571617,
+    45.572418
+],
   "geometry": {"coordinates":[-73.571617,45.572418],"type":"Point"}
 }

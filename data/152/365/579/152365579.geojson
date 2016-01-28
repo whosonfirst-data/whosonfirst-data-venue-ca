@@ -2,13 +2,14 @@
   "id": 152365579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620941,45.603088,-73.620941,45.603088",
     "geom:latitude":45.603088,
     "geom:longitude":-73.620941,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11209 Av Jean-Meunier",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"9593e9528d6a5b1b9e823ab08de8af54",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":152365579
         }
     ],
     "wof:id":152365579,
-    "wof:lastmodified":1449045046,
+    "wof:lastmodified":1453933396,
     "wof:name":"Maritech Naval Inc",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.620941,45.603088,-73.620941,45.603088],
+  "bbox": [
+    -73.620941,
+    45.603088,
+    -73.620941,
+    45.603088
+],
   "geometry": {"coordinates":[-73.620941,45.603088],"type":"Point"}
 }

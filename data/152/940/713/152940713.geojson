@@ -2,13 +2,14 @@
   "id": 152940713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.811646,43.898521,-78.811646,43.898521",
     "geom:latitude":43.898521,
     "geom:longitude":-78.811646,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1311 Glenridge Crt",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875163,
-        85682057
+        102191575,
+        85633041,
+        101736039,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"15e9ba4039ac6026212456a0fa9cfc55",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736039,
+            "neighbourhood_id":85875163,
+            "region_id":85682057,
+            "venue_id":152940713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875163,
             "region_id":85682057,
             "venue_id":152940713
         }
     ],
     "wof:id":152940713,
-    "wof:lastmodified":1449045426,
+    "wof:lastmodified":1453933691,
     "wof:name":"Ticon Building Corp",
     "wof:parent_id":85875163,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.811646,43.898521,-78.811646,43.898521],
+  "bbox": [
+    -78.811646,
+    43.898521,
+    -78.811646,
+    43.898521
+],
   "geometry": {"coordinates":[-78.811646,43.898521],"type":"Point"}
 }

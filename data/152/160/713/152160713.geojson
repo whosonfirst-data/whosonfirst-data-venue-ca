@@ -2,13 +2,14 @@
   "id": 152160713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.21225,46.816608,-71.21225,46.816608",
     "geom:latitude":46.816608,
     "geom:longitude":-71.21225,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"329 Rue Saint-Paul",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864435,
+        102191575,
         85633041,
-        85864435
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"e02cd89235a53773fbf6c44013ef2a2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864435,
+            "region_id":136251273,
             "venue_id":152160713
         }
     ],
     "wof:id":152160713,
-    "wof:lastmodified":1449048184,
+    "wof:lastmodified":1453935783,
     "wof:name":"Richard Robitaille Fourrures I",
     "wof:parent_id":85864435,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.21225,46.816608,-71.21225,46.816608],
+  "bbox": [
+    -71.21225,
+    46.816608,
+    -71.21225,
+    46.816608
+],
   "geometry": {"coordinates":[-71.21225,46.816608],"type":"Point"}
 }

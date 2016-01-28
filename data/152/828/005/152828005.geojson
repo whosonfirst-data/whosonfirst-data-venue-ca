@@ -2,13 +2,14 @@
   "id": 152828005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.373283,42.97525,-82.373283,42.97525",
     "geom:latitude":42.97525,
     "geom:longitude":-82.373283,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"971 Germain St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875565,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"db4012c04b46b2d63b28f226dc99df8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875565,
+            "region_id":85682057,
+            "venue_id":152828005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875565,
             "region_id":85682057,
             "venue_id":152828005
         }
     ],
     "wof:id":152828005,
-    "wof:lastmodified":1449046647,
+    "wof:lastmodified":1453934611,
     "wof:name":"Christian Horizons",
     "wof:parent_id":85875565,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.373283,42.97525,-82.373283,42.97525],
+  "bbox": [
+    -82.373283,
+    42.97525,
+    -82.373283,
+    42.97525
+],
   "geometry": {"coordinates":[-82.373283,42.97525],"type":"Point"}
 }

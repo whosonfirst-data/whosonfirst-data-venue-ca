@@ -2,13 +2,14 @@
   "id": 152403405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.236794,46.840519,-71.236794,46.840519",
     "geom:latitude":46.840519,
     "geom:longitude":-71.236794,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864439,
+        102191575,
         85633041,
-        85864439
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3fcd02a761dc8accd2869d4bd7031d5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864439,
+            "region_id":136251273,
             "venue_id":152403405
         }
     ],
     "wof:id":152403405,
-    "wof:lastmodified":1449048271,
+    "wof:lastmodified":1453935844,
     "wof:name":"Nettoyage Gb",
     "wof:parent_id":85864439,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.236794,46.840519,-71.236794,46.840519],
+  "bbox": [
+    -71.236794,
+    46.840519,
+    -71.236794,
+    46.840519
+],
   "geometry": {"coordinates":[-71.236794,46.840519],"type":"Point"}
 }

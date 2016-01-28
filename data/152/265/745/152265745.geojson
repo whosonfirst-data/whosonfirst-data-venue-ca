@@ -2,13 +2,14 @@
   "id": 152265745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.489746,45.440697,-73.489746,45.440697",
     "geom:latitude":45.440697,
     "geom:longitude":-73.489746,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1710 Rue Rigaud",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85875775,
+        102191575,
         85633041,
-        85875775
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"330158478aa12aa3a1665410598d44c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85875775,
+            "region_id":136251273,
             "venue_id":152265745
         }
     ],
     "wof:id":152265745,
-    "wof:lastmodified":1449045884,
+    "wof:lastmodified":1453934040,
     "wof:name":"Webco Management Inc",
     "wof:parent_id":85875775,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.489746,45.440697,-73.489746,45.440697],
+  "bbox": [
+    -73.489746,
+    45.440697,
+    -73.489746,
+    45.440697
+],
   "geometry": {"coordinates":[-73.489746,45.440697],"type":"Point"}
 }

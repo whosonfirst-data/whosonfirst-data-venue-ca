@@ -2,13 +2,14 @@
   "id": 169163545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.225418,42.958527,-81.225418,42.958527",
     "geom:latitude":42.958527,
     "geom:longitude":-81.225418,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"810 Commissioners Rd E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "aid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864539,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D8GBPPwAlnPRrPBepYjhj_42.958527_-81.225418@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"2ac1b72877f5037f5aa626c5d0403799",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864539,
+            "region_id":85682057,
+            "venue_id":169163545
+        }
+    ],
     "wof:id":169163545,
-    "wof:lastmodified":1449035894,
+    "wof:lastmodified":1453932183,
     "wof:name":"Canadian Red Cross Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864539,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.225418,42.958527,-81.225418,42.958527],
+  "bbox": [
+    -81.225418,
+    42.958527,
+    -81.225418,
+    42.958527
+],
   "geometry": {"coordinates":[-81.225418,42.958527],"type":"Point"}
 }

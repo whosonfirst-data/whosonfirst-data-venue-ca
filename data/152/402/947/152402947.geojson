@@ -2,13 +2,14 @@
   "id": 152402947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.714165,45.557541,-73.714165,45.557541",
     "geom:latitude":45.557541,
     "geom:longitude":-73.714165,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"24 Place DE Carillon",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b1ceb87be8b44d0417a6e19bc54cbf68",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":152402947
         }
     ],
     "wof:id":152402947,
-    "wof:lastmodified":1449045789,
+    "wof:lastmodified":1453933965,
     "wof:name":"Leo Paul Enrg",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.714165,45.557541,-73.714165,45.557541],
-  "geometry": {"coordinates":[-73.714165,45.557541],"type":"Point"}
+  "bbox": [
+    -73.714165,
+    45.557541,
+    -73.714165,
+    45.557541
+],
+  "geometry": {"coordinates":[-73.71416499999999,45.557541],"type":"Point"}
 }

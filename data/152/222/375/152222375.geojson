@@ -2,13 +2,14 @@
   "id": 152222375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.66684,45.493382,-73.66684,45.493382",
     "geom:latitude":45.493382,
     "geom:longitude":-73.66684,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8178 Ch Devonshire",
     "sg:city":"Mont-Royal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"56948ab613d3be45e44e13fce58bc5dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152222375
         }
     ],
     "wof:id":152222375,
-    "wof:lastmodified":1449047388,
+    "wof:lastmodified":1453935168,
     "wof:name":"Imprimerie Phonepresse",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.66684,45.493382,-73.66684,45.493382],
-  "geometry": {"coordinates":[-73.66684,45.493382],"type":"Point"}
+  "bbox": [
+    -73.66684,
+    45.493382,
+    -73.66684,
+    45.493382
+],
+  "geometry": {"coordinates":[-73.66683999999999,45.493382],"type":"Point"}
 }

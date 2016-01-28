@@ -2,13 +2,14 @@
   "id": 152985169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.639442,45.545273,-73.639442,45.545273",
     "geom:latitude":45.545273,
     "geom:longitude":-73.639442,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"375 Boul Cremazie O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b9ca84fbd82efa415efca6e14fbea92d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152985169
         }
     ],
     "wof:id":152985169,
-    "wof:lastmodified":1449046603,
+    "wof:lastmodified":1453934568,
     "wof:name":"Au Monde Du Matelas",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.639442,45.545273,-73.639442,45.545273],
+  "bbox": [
+    -73.639442,
+    45.545273,
+    -73.639442,
+    45.545273
+],
   "geometry": {"coordinates":[-73.639442,45.545273],"type":"Point"}
 }

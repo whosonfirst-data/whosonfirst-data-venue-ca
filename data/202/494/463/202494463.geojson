@@ -2,13 +2,14 @@
   "id": 202494463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585945,45.520283,-73.585945,45.520283",
     "geom:latitude":45.520283,
     "geom:longitude":-73.585945,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866479,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"25f0c7fae19af25b4aaf8532578bde7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202494463
         }
     ],
     "wof:id":202494463,
-    "wof:lastmodified":1449062372,
+    "wof:lastmodified":1453937448,
     "wof:name":"Drumerie",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
         "musical"
     ]
 },
-  "bbox": [-73.585945,45.520283,-73.585945,45.520283],
+  "bbox": [
+    -73.585945,
+    45.520283,
+    -73.585945,
+    45.520283
+],
   "geometry": {"coordinates":[-73.585945,45.520283],"type":"Point"}
 }

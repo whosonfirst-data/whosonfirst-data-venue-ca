@@ -2,13 +2,14 @@
   "id": 169503479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.61908,43.546913,-79.61908,43.546913",
     "geom:latitude":43.546913,
     "geom:longitude":-79.61908,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"867 Kowal Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895313,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"a1f5b9d0575fc6486d9920839f58f17e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895313,
+            "region_id":85682057,
+            "venue_id":169503479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895313,
             "region_id":85682057,
             "venue_id":169503479
         }
     ],
     "wof:id":169503479,
-    "wof:lastmodified":1449035979,
+    "wof:lastmodified":1453932239,
     "wof:name":"Dolphin Data Development Ltd",
     "wof:parent_id":85895313,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.61908,43.546913,-79.61908,43.546913],
+  "bbox": [
+    -79.61908,
+    43.546913,
+    -79.61908,
+    43.546913
+],
   "geometry": {"coordinates":[-79.61908,43.546913],"type":"Point"}
 }

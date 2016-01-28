@@ -2,13 +2,14 @@
   "id": 186187641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.521179,43.465622,-80.521179,43.465622",
     "geom:latitude":43.465622,
     "geom:longitude":-80.521179,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6 Regina St N",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864657,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"6d17486c981491aca98f1cb65badbad1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864657,
+            "region_id":85682057,
+            "venue_id":186187641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85864657,
             "region_id":85682057,
             "venue_id":186187641
         }
     ],
     "wof:id":186187641,
-    "wof:lastmodified":1449050791,
+    "wof:lastmodified":1453936549,
     "wof:name":"Gina's Health & Beauty Spa",
     "wof:parent_id":85864657,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "perfume"
     ]
 },
-  "bbox": [-80.521179,43.465622,-80.521179,43.465622],
+  "bbox": [
+    -80.521179,
+    43.465622,
+    -80.521179,
+    43.465622
+],
   "geometry": {"coordinates":[-80.521179,43.465622],"type":"Point"}
 }

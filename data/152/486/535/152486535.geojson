@@ -2,13 +2,14 @@
   "id": 152486535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.257393,42.994408,-81.257393,42.994408",
     "geom:latitude":42.994408,
     "geom:longitude":-81.257393,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"798 Talbot St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874939,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nlkO1EyfxjSw3kkk7uLif_42.994408_-81.257393@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"eb6a97841c4c70be86d8da2409ce5cce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
+            "region_id":85682057,
+            "venue_id":152486535
+        }
+    ],
     "wof:id":152486535,
-    "wof:lastmodified":1449046875,
+    "wof:lastmodified":1453934770,
     "wof:name":"Gorman, Erin A DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.257393,42.994408,-81.257393,42.994408],
-  "geometry": {"coordinates":[-81.257393,42.994408],"type":"Point"}
+  "bbox": [
+    -81.257393,
+    42.994408,
+    -81.257393,
+    42.994408
+],
+  "geometry": {"coordinates":[-81.25739299999999,42.994408],"type":"Point"}
 }

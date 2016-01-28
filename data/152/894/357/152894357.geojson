@@ -2,13 +2,14 @@
   "id": 152894357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.752243,45.420258,-75.752243,45.420258",
     "geom:latitude":45.420258,
     "geom:longitude":-75.752243,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"481 Boul Alexandre-Tache",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"07a58eb48e9fe10b69dbcaf09ffabcee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":152894357
         }
     ],
     "wof:id":152894357,
-    "wof:lastmodified":1449046218,
+    "wof:lastmodified":1453934283,
     "wof:name":"Coffee Time Donuts",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.752243,45.420258,-75.752243,45.420258],
-  "geometry": {"coordinates":[-75.752243,45.420258],"type":"Point"}
+  "bbox": [
+    -75.752243,
+    45.420258,
+    -75.752243,
+    45.420258
+],
+  "geometry": {"coordinates":[-75.75224300000001,45.420258],"type":"Point"}
 }

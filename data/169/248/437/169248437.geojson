@@ -2,13 +2,14 @@
   "id": 169248437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.233925,48.412327,-71.233925,48.412327",
     "geom:latitude":48.412327,
     "geom:longitude":-71.233925,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2231 Rue DE L'Hopital",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c1c1d6f6e98fc72b2b2051a73e205515",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":169248437
         }
     ],
     "wof:id":169248437,
-    "wof:lastmodified":1449034503,
+    "wof:lastmodified":1453930693,
     "wof:name":"Bilodeau, Marc MD",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.233925,48.412327,-71.233925,48.412327],
+  "bbox": [
+    -71.233925,
+    48.412327,
+    -71.233925,
+    48.412327
+],
   "geometry": {"coordinates":[-71.233925,48.412327],"type":"Point"}
 }

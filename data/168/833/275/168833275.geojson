@@ -2,13 +2,14 @@
   "id": 168833275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.705238,43.445522,-79.705238,43.445522",
     "geom:latitude":43.445522,
     "geom:longitude":-79.705238,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300 North Service Rd W # B9",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895377,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c240743a1fe71bfd54683d78ebc69c15",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895377,
+            "region_id":85682057,
+            "venue_id":168833275
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895377,
             "region_id":85682057,
             "venue_id":168833275
         }
     ],
     "wof:id":168833275,
-    "wof:lastmodified":1449027872,
+    "wof:lastmodified":1453927889,
     "wof:name":"Oakville Dental",
     "wof:parent_id":85895377,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.705238,43.445522,-79.705238,43.445522],
-  "geometry": {"coordinates":[-79.705238,43.445522],"type":"Point"}
+  "bbox": [
+    -79.705238,
+    43.445522,
+    -79.705238,
+    43.445522
+],
+  "geometry": {"coordinates":[-79.70523799999999,43.445522],"type":"Point"}
 }

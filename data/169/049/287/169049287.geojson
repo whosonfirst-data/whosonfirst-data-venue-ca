@@ -2,13 +2,14 @@
   "id": 169049287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.626709,43.613949,-79.626709,43.613949",
     "geom:latitude":43.613949,
     "geom:longitude":-79.626709,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4300 Cawthra Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895225,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a9cc05cd8d50f50a08498dcddf3cc54a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":169049287
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":169049287
         }
     ],
     "wof:id":169049287,
-    "wof:lastmodified":1449034320,
+    "wof:lastmodified":1453930491,
     "wof:name":"Centre Bowl",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.626709,43.613949,-79.626709,43.613949],
-  "geometry": {"coordinates":[-79.626709,43.613949],"type":"Point"}
+  "bbox": [
+    -79.626709,
+    43.613949,
+    -79.626709,
+    43.613949
+],
+  "geometry": {"coordinates":[-79.62670900000001,43.613949],"type":"Point"}
 }

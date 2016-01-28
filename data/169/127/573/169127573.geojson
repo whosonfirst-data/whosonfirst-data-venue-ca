@@ -2,13 +2,14 @@
   "id": 169127573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.806824,45.493561,-73.806824,45.493561",
     "geom:latitude":45.493561,
     "geom:longitude":-73.806824,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Rue Sunnydale",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85784719,
+        102191575,
         85633041,
-        85784719
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"71f547c29c46ba67d5eed76f60924afe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85784719,
+            "region_id":136251273,
             "venue_id":169127573
         }
     ],
     "wof:id":169127573,
-    "wof:lastmodified":1449035690,
+    "wof:lastmodified":1453931936,
     "wof:name":"Pharmacie Faouzi Fassatoui",
     "wof:parent_id":85784719,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.806824,45.493561,-73.806824,45.493561],
-  "geometry": {"coordinates":[-73.806824,45.493561],"type":"Point"}
+  "bbox": [
+    -73.806824,
+    45.493561,
+    -73.806824,
+    45.493561
+],
+  "geometry": {"coordinates":[-73.80682400000001,45.493561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168940027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.23819,42.986824,-81.23819,42.986824",
     "geom:latitude":42.986824,
     "geom:longitude":-81.23819,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"439 Dundas St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UqQs8eaKBUzF4icY9WWsn_42.986824_-81.238190@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d0e7f2c67c5b3b8d7e3a86009718c2f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":168940027
+        }
+    ],
     "wof:id":168940027,
-    "wof:lastmodified":1449027956,
+    "wof:lastmodified":1453927993,
     "wof:name":"Gms Mortgage Investment Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.23819,42.986824,-81.23819,42.986824],
+  "bbox": [
+    -81.23819,
+    42.986824,
+    -81.23819,
+    42.986824
+],
   "geometry": {"coordinates":[-81.23819,42.986824],"type":"Point"}
 }

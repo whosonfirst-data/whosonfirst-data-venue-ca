@@ -2,13 +2,14 @@
   "id": 152677073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.29052,43.535175,-80.29052,43.535175",
     "geom:latitude":43.535175,
     "geom:longitude":-80.29052,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"75 Wimbledon Rd",
     "sg:city":"Guelph",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875521,
-        85682057
+        102191575,
+        85633041,
+        101735927,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"50edef8e73a2b91a3a0fe2cd7ff91a6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735927,
+            "neighbourhood_id":85875521,
+            "region_id":85682057,
+            "venue_id":152677073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875521,
             "region_id":85682057,
             "venue_id":152677073
         }
     ],
     "wof:id":152677073,
-    "wof:lastmodified":1449045972,
+    "wof:lastmodified":1453934098,
     "wof:name":"Jtu Consulting",
     "wof:parent_id":85875521,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.29052,43.535175,-80.29052,43.535175],
+  "bbox": [
+    -80.29052,
+    43.535175,
+    -80.29052,
+    43.535175
+],
   "geometry": {"coordinates":[-80.29052,43.535175],"type":"Point"}
 }

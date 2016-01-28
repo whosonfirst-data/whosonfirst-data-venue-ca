@@ -2,13 +2,14 @@
   "id": 169309613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.606293,45.747864,-73.606293,45.747864",
     "geom:latitude":45.747864,
     "geom:longitude":-73.606293,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1100 Montee Masson # 11",
     "sg:city":"Mascouche",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"88b3103c92e30a37462316a85a019841",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169309613
         }
     ],
     "wof:id":169309613,
-    "wof:lastmodified":1449033417,
+    "wof:lastmodified":1453929522,
     "wof:name":"Yogi Cote Jardin",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.606293,45.747864,-73.606293,45.747864],
-  "geometry": {"coordinates":[-73.606293,45.747864],"type":"Point"}
+  "bbox": [
+    -73.606293,
+    45.747864,
+    -73.606293,
+    45.747864
+],
+  "geometry": {"coordinates":[-73.60629299999999,45.747864],"type":"Point"}
 }

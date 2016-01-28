@@ -2,13 +2,14 @@
   "id": 152800615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.444061,45.75544,-73.444061,45.75544",
     "geom:latitude":45.75544,
     "geom:longitude":-73.444061,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"105 Rue L'Ecuyer",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4cd17c49d47d7b624faf8c1cc1c8f702",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":152800615
         }
     ],
     "wof:id":152800615,
-    "wof:lastmodified":1449044667,
+    "wof:lastmodified":1453933111,
     "wof:name":"Mini Entrepots Repentigny Enr",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.444061,45.75544,-73.444061,45.75544],
+  "bbox": [
+    -73.444061,
+    45.75544,
+    -73.444061,
+    45.75544
+],
   "geometry": {"coordinates":[-73.444061,45.75544],"type":"Point"}
 }

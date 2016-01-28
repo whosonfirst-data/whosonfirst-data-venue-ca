@@ -2,13 +2,14 @@
   "id": 169025335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.073128,43.77869,-80.073128,43.77869",
     "geom:latitude":43.77869,
     "geom:longitude":-80.073128,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Erin",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895075,
-        85682057
+        102191575,
+        85633041,
+        101736161,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"05b72609bf054bfad8d3854df00658c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736161,
+            "neighbourhood_id":85895075,
+            "region_id":85682057,
+            "venue_id":169025335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85895075,
             "region_id":85682057,
             "venue_id":169025335
         }
     ],
     "wof:id":169025335,
-    "wof:lastmodified":1449035423,
+    "wof:lastmodified":1453931631,
     "wof:name":"Al Tarzwell Equipment Sales",
     "wof:parent_id":85895075,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.073128,43.77869,-80.073128,43.77869],
+  "bbox": [
+    -80.073128,
+    43.77869,
+    -80.073128,
+    43.77869
+],
   "geometry": {"coordinates":[-80.073128,43.77869],"type":"Point"}
 }

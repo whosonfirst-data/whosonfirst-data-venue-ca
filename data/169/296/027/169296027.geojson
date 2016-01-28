@@ -2,13 +2,14 @@
   "id": 169296027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.59668,45.538425,-73.59668,45.538425",
     "geom:latitude":45.538425,
     "geom:longitude":-73.59668,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1295 Rue DE Bellechasse",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"d20acde1a196cad301e2cd57eb34aa82",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":169296027
         }
     ],
     "wof:id":169296027,
-    "wof:lastmodified":1449035343,
+    "wof:lastmodified":1453931549,
     "wof:name":"Monsieur Muffler",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.59668,45.538425,-73.59668,45.538425],
-  "geometry": {"coordinates":[-73.59668,45.538425],"type":"Point"}
+  "bbox": [
+    -73.59668,
+    45.538425,
+    -73.59668,
+    45.538425
+],
+  "geometry": {"coordinates":[-73.59668000000001,45.538425],"type":"Point"}
 }

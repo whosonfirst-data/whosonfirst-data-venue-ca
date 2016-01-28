@@ -2,13 +2,14 @@
   "id": 153002233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.395401,43.824986,-79.395401,43.824986",
     "geom:latitude":43.824986,
     "geom:longitude":-79.395401,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"41 Guardsman Rd",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895609,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"abeb066617abc153d9f326a4b8a18d3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895609,
+            "region_id":85682057,
+            "venue_id":153002233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895609,
             "region_id":85682057,
             "venue_id":153002233
         }
     ],
     "wof:id":153002233,
-    "wof:lastmodified":1449040741,
+    "wof:lastmodified":1453932657,
     "wof:name":"Thornhill Auto Edge",
     "wof:parent_id":85895609,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.395401,43.824986,-79.395401,43.824986],
-  "geometry": {"coordinates":[-79.395401,43.824986],"type":"Point"}
+  "bbox": [
+    -79.395401,
+    43.824986,
+    -79.395401,
+    43.824986
+],
+  "geometry": {"coordinates":[-79.39540100000001,43.824986],"type":"Point"}
 }

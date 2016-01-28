@@ -2,13 +2,14 @@
   "id": 219607633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.511345,45.594143,-73.511345,45.594143",
     "geom:latitude":45.594143,
     "geom:longitude":-73.511345,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8355 Rue Notre-Dame E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895727,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"3360f7d08f46ade652875ebd12925343",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219607633
         }
     ],
     "wof:id":219607633,
-    "wof:lastmodified":1449070866,
+    "wof:lastmodified":1453937605,
     "wof:name":"Clinique Medicale Notre Dame",
     "wof:parent_id":85895727,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "clinic"
     ]
 },
-  "bbox": [-73.511345,45.594143,-73.511345,45.594143],
-  "geometry": {"coordinates":[-73.511345,45.594143],"type":"Point"}
+  "bbox": [
+    -73.511345,
+    45.594143,
+    -73.511345,
+    45.594143
+],
+  "geometry": {"coordinates":[-73.51134500000001,45.594143],"type":"Point"}
 }

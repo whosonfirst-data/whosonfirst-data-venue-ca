@@ -2,13 +2,14 @@
   "id": 152509245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.564148,43.76569,-79.564148,43.76569",
     "geom:latitude":43.76569,
     "geom:longitude":-79.564148,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"865 Fenmar Dr",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e64577ad6c3e1b5a436765b955ba27d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152509245
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152509245
         }
     ],
     "wof:id":152509245,
-    "wof:lastmodified":1449044487,
+    "wof:lastmodified":1453932967,
     "wof:name":"Global Dawn Export Brokers",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.564148,43.76569,-79.564148,43.76569],
+  "bbox": [
+    -79.564148,
+    43.76569,
+    -79.564148,
+    43.76569
+],
   "geometry": {"coordinates":[-79.564148,43.76569],"type":"Point"}
 }

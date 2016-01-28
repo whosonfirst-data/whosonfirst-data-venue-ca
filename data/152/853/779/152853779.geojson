@@ -2,13 +2,14 @@
   "id": 152853779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.432739,45.557125,-73.432739,45.557125",
     "geom:latitude":45.557125,
     "geom:longitude":-73.432739,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1460 Rue Joliot-Curie",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875753,
+        102191575,
         85633041,
-        85875753
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"1f188c11c6887721e3016eb1c33dbcb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
+            "region_id":136251273,
             "venue_id":152853779
         }
     ],
     "wof:id":152853779,
-    "wof:lastmodified":1449046172,
+    "wof:lastmodified":1453934249,
     "wof:name":"Robar Les Produits Industriels",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.432739,45.557125,-73.432739,45.557125],
+  "bbox": [
+    -73.432739,
+    45.557125,
+    -73.432739,
+    45.557125
+],
   "geometry": {"coordinates":[-73.432739,45.557125],"type":"Point"}
 }

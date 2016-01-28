@@ -2,13 +2,14 @@
   "id": 202949801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.548645,45.552219,-73.548645,45.552219",
     "geom:latitude":45.552219,
     "geom:longitude":-73.548645,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4059 Rue Hochelaga",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874387,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"8f7761b34cea278ed8110d5798b0589b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202949801
         }
     ],
     "wof:id":202949801,
-    "wof:lastmodified":1449061681,
+    "wof:lastmodified":1453937304,
     "wof:name":"Agence DE Securite Ami",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "patrol"
     ]
 },
-  "bbox": [-73.548645,45.552219,-73.548645,45.552219],
-  "geometry": {"coordinates":[-73.548645,45.552219],"type":"Point"}
+  "bbox": [
+    -73.548645,
+    45.552219,
+    -73.548645,
+    45.552219
+],
+  "geometry": {"coordinates":[-73.54864499999999,45.552219],"type":"Point"}
 }

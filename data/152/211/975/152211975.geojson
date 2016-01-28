@@ -2,13 +2,14 @@
   "id": 152211975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.715393,45.484894,-73.715393,45.484894",
     "geom:latitude":45.484894,
     "geom:longitude":-73.715393,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"c6bb6222cd5846da9a7f29dc707e6cc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152211975
         }
     ],
     "wof:id":152211975,
-    "wof:lastmodified":1449045433,
+    "wof:lastmodified":1453933699,
     "wof:name":"Unitrim",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.715393,45.484894,-73.715393,45.484894],
-  "geometry": {"coordinates":[-73.715393,45.484894],"type":"Point"}
+  "bbox": [
+    -73.715393,
+    45.484894,
+    -73.715393,
+    45.484894
+],
+  "geometry": {"coordinates":[-73.71539300000001,45.484894],"type":"Point"}
 }

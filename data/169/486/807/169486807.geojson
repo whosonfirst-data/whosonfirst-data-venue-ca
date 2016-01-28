@@ -2,13 +2,14 @@
   "id": 169486807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.720459,45.429054,-75.720459,45.429054",
     "geom:latitude":45.429054,
     "geom:longitude":-75.720459,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Hull",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"12f7ca073e9d41405b09b2e091d62e11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":169486807
         }
     ],
     "wof:id":169486807,
-    "wof:lastmodified":1449034531,
+    "wof:lastmodified":1453930728,
     "wof:name":"Arche Agape",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.720459,45.429054,-75.720459,45.429054],
-  "geometry": {"coordinates":[-75.720459,45.429054],"type":"Point"}
+  "bbox": [
+    -75.720459,
+    45.429054,
+    -75.720459,
+    45.429054
+],
+  "geometry": {"coordinates":[-75.72045900000001,45.429054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152784625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.714005,45.44223,-73.714005,45.44223",
     "geom:latitude":45.44223,
     "geom:longitude":-73.714005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"398 51E Av",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4fb7238271117b7930e66e00ad6fdf77",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":152784625
         }
     ],
     "wof:id":152784625,
-    "wof:lastmodified":1449047388,
+    "wof:lastmodified":1453935168,
     "wof:name":"Global Marine Independent",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.714005,45.44223,-73.714005,45.44223],
+  "bbox": [
+    -73.714005,
+    45.44223,
+    -73.714005,
+    45.44223
+],
   "geometry": {"coordinates":[-73.714005,45.44223],"type":"Point"}
 }

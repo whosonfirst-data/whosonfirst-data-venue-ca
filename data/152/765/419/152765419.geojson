@@ -2,13 +2,14 @@
   "id": 152765419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.732918,45.428726,-75.732918,45.428726",
     "geom:latitude":45.428726,
     "geom:longitude":-75.732918,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3 Rue Saint-Jean-Bosco",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5e99150b83f2003f30dc12c3913ae231",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":152765419
         }
     ],
     "wof:id":152765419,
-    "wof:lastmodified":1449046976,
+    "wof:lastmodified":1453934850,
     "wof:name":"Luc Desjardins Mecanique Auto",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.732918,45.428726,-75.732918,45.428726],
+  "bbox": [
+    -75.732918,
+    45.428726,
+    -75.732918,
+    45.428726
+],
   "geometry": {"coordinates":[-75.732918,45.428726],"type":"Point"}
 }

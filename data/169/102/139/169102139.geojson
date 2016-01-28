@@ -2,13 +2,14 @@
   "id": 169102139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.580948,45.595341,-73.580948,45.595341",
     "geom:latitude":45.595341,
     "geom:longitude":-73.580948,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6530 Rue Jarry E",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897591,
+        102191575,
         85633041,
-        85897591
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a70b7ea8bc3eea5617fcc58564e5a57c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897591,
+            "region_id":136251273,
             "venue_id":169102139
         }
     ],
     "wof:id":169102139,
-    "wof:lastmodified":1449035710,
+    "wof:lastmodified":1453931961,
     "wof:name":"J E Mondou Ltee",
     "wof:parent_id":85897591,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.580948,45.595341,-73.580948,45.595341],
-  "geometry": {"coordinates":[-73.580948,45.595341],"type":"Point"}
+  "bbox": [
+    -73.580948,
+    45.595341,
+    -73.580948,
+    45.595341
+],
+  "geometry": {"coordinates":[-73.58094800000001,45.595341],"type":"Point"}
 }

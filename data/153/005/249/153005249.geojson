@@ -2,13 +2,14 @@
   "id": 153005249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.487747,43.451805,-80.487747,43.451805",
     "geom:latitude":43.451805,
     "geom:longitude":-80.487747,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Kitchener",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874171,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"0426ddfd3bfdd681f623245ca0e751b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874171,
+            "region_id":85682057,
+            "venue_id":153005249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874171,
             "region_id":85682057,
             "venue_id":153005249
         }
     ],
     "wof:id":153005249,
-    "wof:lastmodified":1449040787,
+    "wof:lastmodified":1453932696,
     "wof:name":"Express Personnel Svc",
     "wof:parent_id":85874171,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.487747,43.451805,-80.487747,43.451805],
+  "bbox": [
+    -80.487747,
+    43.451805,
+    -80.487747,
+    43.451805
+],
   "geometry": {"coordinates":[-80.487747,43.451805],"type":"Point"}
 }

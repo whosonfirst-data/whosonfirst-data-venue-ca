@@ -2,13 +2,14 @@
   "id": 169309147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.358604,43.854053,-79.358604,43.854053",
     "geom:latitude":43.854053,
     "geom:longitude":-79.358604,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Mcintosh Dr",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895015,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"055d7a8140d72061b907b636eeeb4272",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895015,
+            "region_id":85682057,
+            "venue_id":169309147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895015,
             "region_id":85682057,
             "venue_id":169309147
         }
     ],
     "wof:id":169309147,
-    "wof:lastmodified":1449033417,
+    "wof:lastmodified":1453929525,
     "wof:name":"J B Connexions",
     "wof:parent_id":85895015,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.358604,43.854053,-79.358604,43.854053],
+  "bbox": [
+    -79.358604,
+    43.854053,
+    -79.358604,
+    43.854053
+],
   "geometry": {"coordinates":[-79.358604,43.854053],"type":"Point"}
 }

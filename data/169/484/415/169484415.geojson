@@ -2,13 +2,14 @@
   "id": 169484415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.942116,45.397919,-71.942116,45.397919",
     "geom:latitude":45.397919,
     "geom:longitude":-71.942116,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2829 Rue King O",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874131,
+        102191575,
         85633041,
-        85874131
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e0d7982e822b1d22a4d29e1718aebab2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
+            "region_id":136251273,
             "venue_id":169484415
         }
     ],
     "wof:id":169484415,
-    "wof:lastmodified":1449035769,
+    "wof:lastmodified":1453932036,
     "wof:name":"Eureka Solutions",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.942116,45.397919,-71.942116,45.397919],
+  "bbox": [
+    -71.942116,
+    45.397919,
+    -71.942116,
+    45.397919
+],
   "geometry": {"coordinates":[-71.942116,45.397919],"type":"Point"}
 }

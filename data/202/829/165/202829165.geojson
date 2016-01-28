@@ -2,13 +2,14 @@
   "id": 202829165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.505287,45.667252,-73.505287,45.667252",
     "geom:latitude":45.667252,
     "geom:longitude":-73.505287,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"13866 Rue Sherbrooke E",
     "sg:city":"Pointe-Aux-Trembles",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784837,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"2d48ab26af0f6cdb9f90370567293173",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202829165
         }
     ],
     "wof:id":202829165,
-    "wof:lastmodified":1449062479,
+    "wof:lastmodified":1453937473,
     "wof:name":"Boulangerie Bouchard & Courval",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.505287,45.667252,-73.505287,45.667252],
+  "bbox": [
+    -73.505287,
+    45.667252,
+    -73.505287,
+    45.667252
+],
   "geometry": {"coordinates":[-73.505287,45.667252],"type":"Point"}
 }

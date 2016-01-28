@@ -2,13 +2,14 @@
   "id": 169374401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.220131,42.968815,-81.220131,42.968815",
     "geom:latitude":42.968815,
     "geom:longitude":-81.220131,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"267 Thompson Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5Z 2Z3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sI3egLbVjOGZfN8BJ2CM0_42.968815_-81.220131@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4778533d32800ed3c0cbc5a304e81360",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":169374401
+        }
+    ],
     "wof:id":169374401,
-    "wof:lastmodified":1449034107,
+    "wof:lastmodified":1453930287,
     "wof:name":"Hernandez Variety",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.220131,42.968815,-81.220131,42.968815],
-  "geometry": {"coordinates":[-81.220131,42.968815],"type":"Point"}
+  "bbox": [
+    -81.220131,
+    42.968815,
+    -81.220131,
+    42.968815
+],
+  "geometry": {"coordinates":[-81.22013099999999,42.968815],"type":"Point"}
 }

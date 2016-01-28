@@ -2,13 +2,14 @@
   "id": 169519279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.455101,45.74464,-73.455101,45.74464",
     "geom:latitude":45.74464,
     "geom:longitude":-73.455101,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"115 Boul Brien",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"014f0b6e4899ad9027b5028512e39f60",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169519279
         }
     ],
     "wof:id":169519279,
-    "wof:lastmodified":1449035740,
+    "wof:lastmodified":1453932007,
     "wof:name":"Canadian Tire",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.455101,45.74464,-73.455101,45.74464],
+  "bbox": [
+    -73.455101,
+    45.74464,
+    -73.455101,
+    45.74464
+],
   "geometry": {"coordinates":[-73.455101,45.74464],"type":"Point"}
 }

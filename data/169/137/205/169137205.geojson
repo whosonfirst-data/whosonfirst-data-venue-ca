@@ -2,13 +2,14 @@
   "id": 169137205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.297256,42.957382,-81.297256,42.957382",
     "geom:latitude":42.957382,
     "geom:longitude":-81.297256,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"99 Rose Hip Pl",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6K 4H4",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864587,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BNYseSk5R92kFvfokumk1_42.957382_-81.297256@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"aa0db0ba162e3333af5cec7f2d7ffaaa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864587,
+            "region_id":85682057,
+            "venue_id":169137205
+        }
+    ],
     "wof:id":169137205,
-    "wof:lastmodified":1449035506,
+    "wof:lastmodified":1453931742,
     "wof:name":"Wise Financial Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864587,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.297256,42.957382,-81.297256,42.957382],
+  "bbox": [
+    -81.297256,
+    42.957382,
+    -81.297256,
+    42.957382
+],
   "geometry": {"coordinates":[-81.297256,42.957382],"type":"Point"}
 }

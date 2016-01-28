@@ -2,13 +2,14 @@
   "id": 152207681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572777,45.449192,-73.572777,45.449192",
     "geom:latitude":45.449192,
     "geom:longitude":-73.572777,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5811 Rue DE Verdun",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784961,
+        102191575,
         85633041,
-        85784961
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"0f452be379bf32b5f50732082e3b3f08",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784961,
+            "region_id":136251273,
             "venue_id":152207681
         }
     ],
     "wof:id":152207681,
-    "wof:lastmodified":1449047531,
+    "wof:lastmodified":1453935282,
     "wof:name":"Mini Marche Manning",
     "wof:parent_id":85784961,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572777,45.449192,-73.572777,45.449192],
+  "bbox": [
+    -73.572777,
+    45.449192,
+    -73.572777,
+    45.449192
+],
   "geometry": {"coordinates":[-73.572777,45.449192],"type":"Point"}
 }

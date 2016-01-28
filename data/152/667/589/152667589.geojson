@@ -2,13 +2,14 @@
   "id": 152667589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.287857,45.445168,-73.287857,45.445168",
     "geom:latitude":45.445168,
     "geom:longitude":-73.287857,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1303 Boul Frechette",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895771,
+        102191575,
         85633041,
-        85895771
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5981248e575342a4fd67803aec21e850",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895771,
+            "region_id":136251273,
             "venue_id":152667589
         }
     ],
     "wof:id":152667589,
-    "wof:lastmodified":1449047319,
+    "wof:lastmodified":1453935111,
     "wof:name":"Carignan Pompiers",
     "wof:parent_id":85895771,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.287857,45.445168,-73.287857,45.445168],
+  "bbox": [
+    -73.287857,
+    45.445168,
+    -73.287857,
+    45.445168
+],
   "geometry": {"coordinates":[-73.287857,45.445168],"type":"Point"}
 }

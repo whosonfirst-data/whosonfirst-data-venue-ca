@@ -2,13 +2,14 @@
   "id": 169345477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.51207,43.84581,-79.51207,43.84581",
     "geom:latitude":43.84581,
     "geom:longitude":-79.51207,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Cromarty Pl",
     "sg:city":"Maple",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895339,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a4845fb4ec378c49596c69fbe7697212",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895339,
+            "region_id":85682057,
+            "venue_id":169345477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895339,
             "region_id":85682057,
             "venue_id":169345477
         }
     ],
     "wof:id":169345477,
-    "wof:lastmodified":1449035698,
+    "wof:lastmodified":1453931944,
     "wof:name":"Ares Corp",
     "wof:parent_id":85895339,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.51207,43.84581,-79.51207,43.84581],
-  "geometry": {"coordinates":[-79.51207,43.84581],"type":"Point"}
+  "bbox": [
+    -79.51207,
+    43.84581,
+    -79.51207,
+    43.84581
+],
+  "geometry": {"coordinates":[-79.51206999999999,43.84581],"type":"Point"}
 }

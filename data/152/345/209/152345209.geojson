@@ -2,13 +2,14 @@
   "id": 152345209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572418,45.616219,-73.572418,45.616219",
     "geom:latitude":45.616219,
     "geom:longitude":-73.572418,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8300 Rue Marconi",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"6e87833c7c05b9b5bfc1568873669e8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152345209
         }
     ],
     "wof:id":152345209,
-    "wof:lastmodified":1449048559,
+    "wof:lastmodified":1453936066,
     "wof:name":"Agence Gervais Gagnon Inc",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572418,45.616219,-73.572418,45.616219],
+  "bbox": [
+    -73.572418,
+    45.616219,
+    -73.572418,
+    45.616219
+],
   "geometry": {"coordinates":[-73.572418,45.616219],"type":"Point"}
 }

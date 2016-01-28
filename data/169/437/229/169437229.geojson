@@ -2,13 +2,14 @@
   "id": 169437229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.82711,45.46859,-73.82711,45.46859",
     "geom:latitude":45.46859,
     "geom:longitude":-73.82711,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"230 Boul Brunswick",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875799,
+        102191575,
         85633041,
-        85875799
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ec61da6bdb0299ae4009c39fe43c7ed4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875799,
+            "region_id":136251273,
             "venue_id":169437229
         }
     ],
     "wof:id":169437229,
-    "wof:lastmodified":1449035065,
+    "wof:lastmodified":1453931295,
     "wof:name":"Boulanger Sports",
     "wof:parent_id":85875799,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.82711,45.46859,-73.82711,45.46859],
+  "bbox": [
+    -73.82711,
+    45.46859,
+    -73.82711,
+    45.46859
+],
   "geometry": {"coordinates":[-73.82711,45.46859],"type":"Point"}
 }

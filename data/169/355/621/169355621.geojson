@@ -2,13 +2,14 @@
   "id": 169355621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.786629,43.579418,-79.786629,43.579418",
     "geom:latitude":43.579418,
     "geom:longitude":-79.786629,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7186 Spyglass Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894973,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"a6b923b54f65c91009f336cd4de9348b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894973,
+            "region_id":85682057,
+            "venue_id":169355621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894973,
             "region_id":85682057,
             "venue_id":169355621
         }
     ],
     "wof:id":169355621,
-    "wof:lastmodified":1449033608,
+    "wof:lastmodified":1453929734,
     "wof:name":"Team International",
     "wof:parent_id":85894973,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.786629,43.579418,-79.786629,43.579418],
+  "bbox": [
+    -79.786629,
+    43.579418,
+    -79.786629,
+    43.579418
+],
   "geometry": {"coordinates":[-79.786629,43.579418],"type":"Point"}
 }

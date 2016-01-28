@@ -2,13 +2,14 @@
   "id": 152633595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.212723,42.935013,-81.212723,42.935013",
     "geom:latitude":42.935013,
     "geom:longitude":-81.212723,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874953,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v1JeqWZOh0S0BPt3yFLdy_42.935013_-81.212723@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"9d056f528faa383a0df6c68dd6f881cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874953,
+            "region_id":85682057,
+            "venue_id":152633595
+        }
+    ],
     "wof:id":152633595,
-    "wof:lastmodified":1449048872,
+    "wof:lastmodified":1453936313,
     "wof:name":"Flooring & Design Ctr Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874953,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.212723,42.935013,-81.212723,42.935013],
+  "bbox": [
+    -81.212723,
+    42.935013,
+    -81.212723,
+    42.935013
+],
   "geometry": {"coordinates":[-81.212723,42.935013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169014041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.638992,45.588757,-73.638992,45.588757",
     "geom:latitude":45.588757,
     "geom:longitude":-73.638992,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3914 Rue Monselet",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"9288dd36e29f6360b50c3db8cca67632",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":169014041
         }
     ],
     "wof:id":169014041,
-    "wof:lastmodified":1449034305,
+    "wof:lastmodified":1453930476,
     "wof:name":"Bowl-Mor & Billard Inc",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.638992,45.588757,-73.638992,45.588757],
+  "bbox": [
+    -73.638992,
+    45.588757,
+    -73.638992,
+    45.588757
+],
   "geometry": {"coordinates":[-73.638992,45.588757],"type":"Point"}
 }

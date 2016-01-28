@@ -2,13 +2,14 @@
   "id": 169437077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.77932,45.366161,-75.77932,45.366161",
     "geom:latitude":45.366161,
     "geom:longitude":-75.77932,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2400 Carling Ave",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85864511,
+        102191575,
         85633041,
-        85864511
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1c5d3ca13ce2faf382babb70c4701bed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85864511,
+            "region_id":136251273,
             "venue_id":169437077
         }
     ],
     "wof:id":169437077,
-    "wof:lastmodified":1449035063,
+    "wof:lastmodified":1453931290,
     "wof:name":"Claridge Apartments",
     "wof:parent_id":85864511,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.77932,45.366161,-75.77932,45.366161],
+  "bbox": [
+    -75.77932,
+    45.366161,
+    -75.77932,
+    45.366161
+],
   "geometry": {"coordinates":[-75.77932,45.366161],"type":"Point"}
 }

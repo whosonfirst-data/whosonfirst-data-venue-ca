@@ -2,13 +2,14 @@
   "id": 169299915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.245102,43.161877,-79.245102,43.161877",
     "geom:latitude":43.161877,
     "geom:longitude":-79.245102,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"94 Church St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e72a93caa0e6bebe746d8f3228063693",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":169299915
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":169299915
         }
     ],
     "wof:id":169299915,
-    "wof:lastmodified":1449033530,
+    "wof:lastmodified":1453929642,
     "wof:name":"William A Mascoe Surveying Ltd",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.245102,43.161877,-79.245102,43.161877],
+  "bbox": [
+    -79.245102,
+    43.161877,
+    -79.245102,
+    43.161877
+],
   "geometry": {"coordinates":[-79.245102,43.161877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152846621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.710754,43.610176,-79.710754,43.610176",
     "geom:latitude":43.610176,
     "geom:longitude":-79.710754,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1105 Larkin Crt",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"cb8aa14f1ce7c3757fb74e6773d3db1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":152846621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":152846621
         }
     ],
     "wof:id":152846621,
-    "wof:lastmodified":1449047882,
+    "wof:lastmodified":1453935569,
     "wof:name":"Goldflo Management Inc",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.710754,43.610176,-79.710754,43.610176],
-  "geometry": {"coordinates":[-79.710754,43.610176],"type":"Point"}
+  "bbox": [
+    -79.710754,
+    43.610176,
+    -79.710754,
+    43.610176
+],
+  "geometry": {"coordinates":[-79.71075399999999,43.610176],"type":"Point"}
 }

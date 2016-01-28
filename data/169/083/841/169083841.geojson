@@ -2,13 +2,14 @@
   "id": 169083841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.626381,45.292721,-73.626381,45.292721",
     "geom:latitude":45.292721,
     "geom:longitude":-73.626381,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"221 Ste-Therese",
     "sg:city":"Saint-Remi",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"af4e89ba4cc8d81f8d6f7630c2c13ac9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169083841
         }
     ],
     "wof:id":169083841,
-    "wof:lastmodified":1449034242,
+    "wof:lastmodified":1453930428,
     "wof:name":"Quebec Solidarite Sociale",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.626381,45.292721,-73.626381,45.292721],
-  "geometry": {"coordinates":[-73.626381,45.292721],"type":"Point"}
+  "bbox": [
+    -73.626381,
+    45.292721,
+    -73.626381,
+    45.292721
+],
+  "geometry": {"coordinates":[-73.62638099999999,45.292721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186351281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.309242,44.315552,-78.309242,44.315552",
     "geom:latitude":44.315552,
     "geom:longitude":-78.309242,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"694 Armour Rd",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864497,
+        102191575,
         85633041,
-        85682057
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"d1332f6fc7b7a311adca94ae7991444f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":186351281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":186351281
         }
     ],
     "wof:id":186351281,
-    "wof:lastmodified":1449052610,
+    "wof:lastmodified":1453936873,
     "wof:name":"Steve's Quik Chek",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.309242,44.315552,-78.309242,44.315552],
+  "bbox": [
+    -78.309242,
+    44.315552,
+    -78.309242,
+    44.315552
+],
   "geometry": {"coordinates":[-78.309242,44.315552],"type":"Point"}
 }

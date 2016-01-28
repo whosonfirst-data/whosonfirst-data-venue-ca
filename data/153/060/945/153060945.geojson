@@ -2,13 +2,14 @@
   "id": 153060945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.205933,43.140186,-79.205933,43.140186",
     "geom:latitude":43.140186,
     "geom:longitude":-79.205933,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"411 Glendale Ave # 9",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"6a48ffbff943f37d7eee041747b91794",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":153060945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":153060945
         }
     ],
     "wof:id":153060945,
-    "wof:lastmodified":1449040780,
+    "wof:lastmodified":1453932693,
     "wof:name":"G W Mc Pherson Trucking",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.205933,43.140186,-79.205933,43.140186],
+  "bbox": [
+    -79.205933,
+    43.140186,
+    -79.205933,
+    43.140186
+],
   "geometry": {"coordinates":[-79.205933,43.140186],"type":"Point"}
 }

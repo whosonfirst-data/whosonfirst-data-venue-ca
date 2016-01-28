@@ -2,13 +2,14 @@
   "id": 169179143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720573,45.447498,-73.720573,45.447498",
     "geom:latitude":45.447498,
     "geom:longitude":-73.720573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"915 55E Av",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85864409,
+        102191575,
         85633041,
-        85864409
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2665443bd8827081f84386db781172a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85864409,
+            "region_id":136251273,
             "venue_id":169179143
         }
     ],
     "wof:id":169179143,
-    "wof:lastmodified":1449035618,
+    "wof:lastmodified":1453931860,
     "wof:name":"Michelangelo Construction Inc",
     "wof:parent_id":85864409,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.720573,45.447498,-73.720573,45.447498],
+  "bbox": [
+    -73.720573,
+    45.447498,
+    -73.720573,
+    45.447498
+],
   "geometry": {"coordinates":[-73.720573,45.447498],"type":"Point"}
 }

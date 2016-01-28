@@ -2,13 +2,14 @@
   "id": 169303855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.741005,45.576637,-73.741005,45.576637",
     "geom:latitude":45.576637,
     "geom:longitude":-73.741005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1886 Cunard St",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875067,
+        102191575,
         85633041,
-        85875067
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a5f03bf94f8f92a216a5091ed5aff4d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
+            "region_id":136251273,
             "venue_id":169303855
         }
     ],
     "wof:id":169303855,
-    "wof:lastmodified":1449032714,
+    "wof:lastmodified":1453928825,
     "wof:name":"Msa Inc",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.741005,45.576637,-73.741005,45.576637],
+  "bbox": [
+    -73.741005,
+    45.576637,
+    -73.741005,
+    45.576637
+],
   "geometry": {"coordinates":[-73.741005,45.576637],"type":"Point"}
 }

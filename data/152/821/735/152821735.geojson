@@ -2,13 +2,14 @@
   "id": 152821735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.657135,43.693996,-79.657135,43.693996",
     "geom:latitude":43.693996,
     "geom:longitude":-79.657135,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2400 Lucknow Dr #48",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"299e250b1b55b21659768fd18c5f6565",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152821735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152821735
         }
     ],
     "wof:id":152821735,
-    "wof:lastmodified":1449046816,
+    "wof:lastmodified":1453934729,
     "wof:name":"N H Canada Ltd",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.657135,43.693996,-79.657135,43.693996],
+  "bbox": [
+    -79.657135,
+    43.693996,
+    -79.657135,
+    43.693996
+],
   "geometry": {"coordinates":[-79.657135,43.693996],"type":"Point"}
 }

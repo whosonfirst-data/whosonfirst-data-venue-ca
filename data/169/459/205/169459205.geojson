@@ -2,13 +2,14 @@
   "id": 169459205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.655006,45.566177,-73.655006,45.566177",
     "geom:latitude":45.566177,
     "geom:longitude":-73.655006,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10320 Rue Garnier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"8260be272d682fe9a112953e3f3ba7d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":169459205
         }
     ],
     "wof:id":169459205,
-    "wof:lastmodified":1449034023,
+    "wof:lastmodified":1453930196,
     "wof:name":"Centre DE L'Homme Nouveau",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.655006,45.566177,-73.655006,45.566177],
+  "bbox": [
+    -73.655006,
+    45.566177,
+    -73.655006,
+    45.566177
+],
   "geometry": {"coordinates":[-73.655006,45.566177],"type":"Point"}
 }

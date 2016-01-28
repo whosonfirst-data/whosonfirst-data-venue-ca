@@ -2,13 +2,14 @@
   "id": 152770719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.610542,45.536674,-73.610542,45.536674",
     "geom:latitude":45.536674,
     "geom:longitude":-73.610542,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6867 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"6d64aec48bd36e6d68ce6a9546280fee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":152770719
         }
     ],
     "wof:id":152770719,
-    "wof:lastmodified":1449048978,
+    "wof:lastmodified":1453936417,
     "wof:name":"Lambert, Benoit DC",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.610542,45.536674,-73.610542,45.536674],
+  "bbox": [
+    -73.610542,
+    45.536674,
+    -73.610542,
+    45.536674
+],
   "geometry": {"coordinates":[-73.610542,45.536674],"type":"Point"}
 }

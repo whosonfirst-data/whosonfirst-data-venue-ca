@@ -2,13 +2,14 @@
   "id": 152776551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.893738,45.373554,-71.893738,45.373554",
     "geom:latitude":45.373554,
     "geom:longitude":-71.893738,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2108 Rue Belvedere S",
     "sg:city":"Ascot",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864397,
+        102191575,
         85633041,
-        85864397
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"762f8a9abadc79991eeac40ec4c62deb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864397,
+            "region_id":136251273,
             "venue_id":152776551
         }
     ],
     "wof:id":152776551,
-    "wof:lastmodified":1449045311,
+    "wof:lastmodified":1453933594,
     "wof:name":"Clinique Chiropratique",
     "wof:parent_id":85864397,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.893738,45.373554,-71.893738,45.373554],
+  "bbox": [
+    -71.893738,
+    45.373554,
+    -71.893738,
+    45.373554
+],
   "geometry": {"coordinates":[-71.893738,45.373554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152890085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.165596,46.888523,-71.165596,46.888523",
     "geom:latitude":46.888523,
     "geom:longitude":-71.165596,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Beauport",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736835,
+        85866513,
+        102191575,
         85633041,
-        85866513
+        101736835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"01022e0f88ce145803223096a17bbb09",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736835,
             "neighbourhood_id":85866513,
+            "region_id":136251273,
             "venue_id":152890085
         }
     ],
     "wof:id":152890085,
-    "wof:lastmodified":1449045313,
+    "wof:lastmodified":1453933599,
     "wof:name":"Coiffure Renaissance Enr",
     "wof:parent_id":85866513,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.165596,46.888523,-71.165596,46.888523],
-  "geometry": {"coordinates":[-71.165596,46.888523],"type":"Point"}
+  "bbox": [
+    -71.165596,
+    46.888523,
+    -71.165596,
+    46.888523
+],
+  "geometry": {"coordinates":[-71.16559599999999,46.888523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169487147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578651,45.498474,-73.578651,45.498474",
     "geom:latitude":45.498474,
     "geom:longitude":-73.578651,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866491,
+        102191575,
         85633041,
-        85866491
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"24c1f12470808da12b04a084e8578746",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
+            "region_id":136251273,
             "venue_id":169487147
         }
     ],
     "wof:id":169487147,
-    "wof:lastmodified":1449033770,
+    "wof:lastmodified":1453929918,
     "wof:name":"Diurne Editeur DE Tapis",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578651,45.498474,-73.578651,45.498474],
-  "geometry": {"coordinates":[-73.578651,45.498474],"type":"Point"}
+  "bbox": [
+    -73.578651,
+    45.498474,
+    -73.578651,
+    45.498474
+],
+  "geometry": {"coordinates":[-73.57865099999999,45.498474],"type":"Point"}
 }

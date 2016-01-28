@@ -2,13 +2,14 @@
   "id": 169192533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.561241,45.507259,-73.561241,45.507259",
     "geom:latitude":45.507259,
     "geom:longitude":-73.561241,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1111 Rue Saint-Urbain",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866473,
+        102191575,
         85633041,
-        85866473
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"03285a6ac5fe3d36fb9971870ea10088",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866473,
+            "region_id":136251273,
             "venue_id":169192533
         }
     ],
     "wof:id":169192533,
-    "wof:lastmodified":1449035016,
+    "wof:lastmodified":1453931229,
     "wof:name":"Chez Mara",
     "wof:parent_id":85866473,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.561241,45.507259,-73.561241,45.507259],
+  "bbox": [
+    -73.561241,
+    45.507259,
+    -73.561241,
+    45.507259
+],
   "geometry": {"coordinates":[-73.561241,45.507259],"type":"Point"}
 }

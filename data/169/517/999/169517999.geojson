@@ -2,13 +2,14 @@
   "id": 169517999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.665321,45.589912,-73.665321,45.589912",
     "geom:latitude":45.589912,
     "geom:longitude":-73.665321,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"710 Rue Montrose",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875069,
+        102191575,
         85633041,
-        85875069
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ede72a1c21bea7a08c89b6a11dccc400",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
+            "region_id":136251273,
             "venue_id":169517999
         }
     ],
     "wof:id":169517999,
-    "wof:lastmodified":1449034573,
+    "wof:lastmodified":1453930791,
     "wof:name":"Renov'Habitat Inc",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.665321,45.589912,-73.665321,45.589912],
-  "geometry": {"coordinates":[-73.665321,45.589912],"type":"Point"}
+  "bbox": [
+    -73.665321,
+    45.589912,
+    -73.665321,
+    45.589912
+],
+  "geometry": {"coordinates":[-73.66532100000001,45.589912],"type":"Point"}
 }

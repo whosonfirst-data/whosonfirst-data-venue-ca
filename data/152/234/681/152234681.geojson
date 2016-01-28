@@ -2,13 +2,14 @@
   "id": 152234681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.712807,43.708893,-79.712807,43.708893",
     "geom:latitude":43.708893,
     "geom:longitude":-79.712807,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"225 Balmoral Dr",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d28ee421ec588025a6aa0d2f9a442906",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152234681
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152234681
         }
     ],
     "wof:id":152234681,
-    "wof:lastmodified":1449048666,
+    "wof:lastmodified":1453936142,
     "wof:name":"Bramalea Boxing Club",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.712807,43.708893,-79.712807,43.708893],
+  "bbox": [
+    -79.712807,
+    43.708893,
+    -79.712807,
+    43.708893
+],
   "geometry": {"coordinates":[-79.712807,43.708893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169191843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.329353,43.95908,-79.329353,43.95908",
     "geom:latitude":43.95908,
     "geom:longitude":-79.329353,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12441 Kennedy Rd",
     "sg:city":"Stouffville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895009,
-        85682057
+        102191575,
+        85633041,
+        101736037,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5452648f092508e37aa8c79bdcf227ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736037,
+            "neighbourhood_id":85895009,
+            "region_id":85682057,
+            "venue_id":169191843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895009,
             "region_id":85682057,
             "venue_id":169191843
         }
     ],
     "wof:id":169191843,
-    "wof:lastmodified":1449034682,
+    "wof:lastmodified":1453930878,
     "wof:name":"John Pugh Lawn Equipment",
     "wof:parent_id":85895009,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.329353,43.95908,-79.329353,43.95908],
+  "bbox": [
+    -79.329353,
+    43.95908,
+    -79.329353,
+    43.95908
+],
   "geometry": {"coordinates":[-79.329353,43.95908],"type":"Point"}
 }

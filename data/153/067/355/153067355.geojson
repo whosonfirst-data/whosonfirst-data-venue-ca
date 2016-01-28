@@ -2,13 +2,14 @@
   "id": 153067355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.857185,48.316055,-70.857185,48.316055",
     "geom:latitude":48.316055,
     "geom:longitude":-70.857185,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3043 Rue Monseigneur-Dufour",
     "sg:city":"LA Baie",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785011,
+        102191575,
         85633041,
-        85785011
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"cc06e3e0c708606bf8166dcde3373d22",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
+            "region_id":136251273,
             "venue_id":153067355
         }
     ],
     "wof:id":153067355,
-    "wof:lastmodified":1449040364,
+    "wof:lastmodified":1453932318,
     "wof:name":"Brunet Pharmacie Affillee",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.857185,48.316055,-70.857185,48.316055],
+  "bbox": [
+    -70.857185,
+    48.316055,
+    -70.857185,
+    48.316055
+],
   "geometry": {"coordinates":[-70.857185,48.316055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168887183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.48941,45.719326,-73.48941,45.719326",
     "geom:latitude":45.719326,
     "geom:longitude":-73.48941,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"115 Rue Chopin",
     "sg:city":"Charlemagne",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737739,
+        85875729,
+        102191575,
         85633041,
-        85875729
+        101737739,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"6a2cfd9cc8512299ed74572353472948",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737739,
             "neighbourhood_id":85875729,
+            "region_id":136251273,
             "venue_id":168887183
         }
     ],
     "wof:id":168887183,
-    "wof:lastmodified":1449028420,
+    "wof:lastmodified":1453928503,
     "wof:name":"Hotel Charlemagne",
     "wof:parent_id":85875729,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.48941,45.719326,-73.48941,45.719326],
-  "geometry": {"coordinates":[-73.48941,45.719326],"type":"Point"}
+  "bbox": [
+    -73.48941,
+    45.719326,
+    -73.48941,
+    45.719326
+],
+  "geometry": {"coordinates":[-73.48941000000001,45.719326],"type":"Point"}
 }

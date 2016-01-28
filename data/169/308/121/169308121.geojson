@@ -2,13 +2,14 @@
   "id": 169308121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.66317,43.569008,-79.66317,43.569008",
     "geom:latitude":43.569008,
     "geom:longitude":-79.66317,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1170 Burnhamthorpe Rd W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895473,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"2dd9b75f58c6090527dc3a9eae537be7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895473,
+            "region_id":85682057,
+            "venue_id":169308121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895473,
             "region_id":85682057,
             "venue_id":169308121
         }
     ],
     "wof:id":169308121,
-    "wof:lastmodified":1449036056,
+    "wof:lastmodified":1453932298,
     "wof:name":"Brainchild Education Ctr",
     "wof:parent_id":85895473,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.66317,43.569008,-79.66317,43.569008],
-  "geometry": {"coordinates":[-79.66317,43.569008],"type":"Point"}
+  "bbox": [
+    -79.66317,
+    43.569008,
+    -79.66317,
+    43.569008
+],
+  "geometry": {"coordinates":[-79.66316999999999,43.569008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152598077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.272453,42.996296,-81.272453,42.996296",
     "geom:latitude":42.996296,
     "geom:longitude":-81.272453,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1017 Western Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6G 1G5",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874923,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TbCTgc8zZ9vVYnEVHJJzM_42.996296_-81.272453@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e674af507c8fd1642b8e741a976f22c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874923,
+            "region_id":85682057,
+            "venue_id":152598077
+        }
+    ],
     "wof:id":152598077,
-    "wof:lastmodified":1449044541,
+    "wof:lastmodified":1453933011,
     "wof:name":"Thames Region Ecological Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874923,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.272453,42.996296,-81.272453,42.996296],
+  "bbox": [
+    -81.272453,
+    42.996296,
+    -81.272453,
+    42.996296
+],
   "geometry": {"coordinates":[-81.272453,42.996296],"type":"Point"}
 }

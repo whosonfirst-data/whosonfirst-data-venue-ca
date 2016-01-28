@@ -2,13 +2,14 @@
   "id": 152897685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.558128,46.343224,-72.558128,46.343224",
     "geom:latitude":46.343224,
     "geom:longitude":-72.558128,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1597 Rue Sainte-Marguerite",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874109,
+        102191575,
         85633041,
-        85874109
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9dfe5f572b813e778d5e21b280f2dfb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874109,
+            "region_id":136251273,
             "venue_id":152897685
         }
     ],
     "wof:id":152897685,
-    "wof:lastmodified":1449048170,
+    "wof:lastmodified":1453935771,
     "wof:name":"Trois-Rivieres Travaux Public",
     "wof:parent_id":85874109,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.558128,46.343224,-72.558128,46.343224],
+  "bbox": [
+    -72.558128,
+    46.343224,
+    -72.558128,
+    46.343224
+],
   "geometry": {"coordinates":[-72.558128,46.343224],"type":"Point"}
 }

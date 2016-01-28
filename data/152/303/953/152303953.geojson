@@ -2,13 +2,14 @@
   "id": 152303953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.204872,43.218227,-79.204872,43.218227",
     "geom:latitude":43.218227,
     "geom:longitude":-79.204872,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"417 Lakeshore Rd E",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85784889,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"f556a00926874b5d8412bd802eba09f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85784889,
+            "region_id":85682057,
+            "venue_id":152303953
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85784889,
             "region_id":85682057,
             "venue_id":152303953
         }
     ],
     "wof:id":152303953,
-    "wof:lastmodified":1449044339,
+    "wof:lastmodified":1453932852,
     "wof:name":"Specialty Print",
     "wof:parent_id":85784889,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.204872,43.218227,-79.204872,43.218227],
-  "geometry": {"coordinates":[-79.204872,43.218227],"type":"Point"}
+  "bbox": [
+    -79.204872,
+    43.218227,
+    -79.204872,
+    43.218227
+],
+  "geometry": {"coordinates":[-79.20487199999999,43.218227],"type":"Point"}
 }

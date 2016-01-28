@@ -2,13 +2,14 @@
   "id": 168944867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.446884,45.576984,-73.446884,45.576984",
     "geom:latitude":45.576984,
     "geom:longitude":-73.446884,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"141 Boul DE Mortagne",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875753,
+        102191575,
         85633041,
-        85875753
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"b726a0af4b893a7048e1f01d880aef05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
+            "region_id":136251273,
             "venue_id":168944867
         }
     ],
     "wof:id":168944867,
-    "wof:lastmodified":1449028158,
+    "wof:lastmodified":1453928214,
     "wof:name":"Restaurant Le Tire-Bouchon",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.446884,45.576984,-73.446884,45.576984],
+  "bbox": [
+    -73.446884,
+    45.576984,
+    -73.446884,
+    45.576984
+],
   "geometry": {"coordinates":[-73.446884,45.576984],"type":"Point"}
 }

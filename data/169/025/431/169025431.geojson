@@ -2,13 +2,14 @@
   "id": 169025431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.649147,45.573914,-73.649147,45.573914",
     "geom:latitude":45.573914,
     "geom:longitude":-73.649147,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2325 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897499,
+        102191575,
         85633041,
-        85897499
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3326e05cb12c2c93f82153b15c46104e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897499,
+            "region_id":136251273,
             "venue_id":169025431
         }
     ],
     "wof:id":169025431,
-    "wof:lastmodified":1449035421,
+    "wof:lastmodified":1453931628,
     "wof:name":"Tabagie Au Plaisir D'Offrir",
     "wof:parent_id":85897499,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.649147,45.573914,-73.649147,45.573914],
+  "bbox": [
+    -73.649147,
+    45.573914,
+    -73.649147,
+    45.573914
+],
   "geometry": {"coordinates":[-73.649147,45.573914],"type":"Point"}
 }

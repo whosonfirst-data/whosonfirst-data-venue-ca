@@ -2,13 +2,14 @@
   "id": 169094865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.181824,48.409805,-71.181824,48.409805",
     "geom:latitude":48.409805,
     "geom:longitude":-71.181824,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2320 Rue Dion",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c8301a97768e3ccda35e2d6128a1eb3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169094865
         }
     ],
     "wof:id":169094865,
-    "wof:lastmodified":1449034752,
+    "wof:lastmodified":1453930972,
     "wof:name":"Tremblay, Alain",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.181824,48.409805,-71.181824,48.409805],
-  "geometry": {"coordinates":[-71.181824,48.409805],"type":"Point"}
+  "bbox": [
+    -71.181824,
+    48.409805,
+    -71.181824,
+    48.409805
+],
+  "geometry": {"coordinates":[-71.18182400000001,48.409805],"type":"Point"}
 }

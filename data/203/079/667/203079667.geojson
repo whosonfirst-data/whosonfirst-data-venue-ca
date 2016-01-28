@@ -2,13 +2,14 @@
   "id": 203079667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.145317,49.327263,-123.145317,49.327263",
     "geom:latitude":49.327263,
     "geom:longitude":-123.145317,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1011 Esplanade Ave",
     "sg:city":"West Vancouver",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85865021,
+        102191575,
         85633041,
-        85682117
+        101741069,
+        85682117,
+        101744669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"9ad3a711f6bd40254ba86d83ff0c4e67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":203079667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":203079667
         }
     ],
     "wof:id":203079667,
-    "wof:lastmodified":1449026531,
+    "wof:lastmodified":1453927696,
     "wof:name":"Leith Anderson Architecture",
     "wof:parent_id":85865021,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.145317,49.327263,-123.145317,49.327263],
-  "geometry": {"coordinates":[-123.145317,49.327263],"type":"Point"}
+  "bbox": [
+    -123.145317,
+    49.327263,
+    -123.145317,
+    49.327263
+],
+  "geometry": {"coordinates":[-123.14531700000001,49.327263],"type":"Point"}
 }

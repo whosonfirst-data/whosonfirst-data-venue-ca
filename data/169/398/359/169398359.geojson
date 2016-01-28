@@ -2,13 +2,14 @@
   "id": 169398359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.46743,45.468521,-73.46743,45.468521",
     "geom:latitude":45.468521,
     "geom:longitude":-73.46743,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6845 Boul Taschereau",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897507,
+        102191575,
         85633041,
-        85897507
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"0887dc4804c9d4b6c1340eb5eb638ada",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897507,
+            "region_id":136251273,
             "venue_id":169398359
         }
     ],
     "wof:id":169398359,
-    "wof:lastmodified":1449032942,
+    "wof:lastmodified":1453929062,
     "wof:name":"Cash Converters Taschereau",
     "wof:parent_id":85897507,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.46743,45.468521,-73.46743,45.468521],
-  "geometry": {"coordinates":[-73.46743,45.468521],"type":"Point"}
+  "bbox": [
+    -73.46743,
+    45.468521,
+    -73.46743,
+    45.468521
+],
+  "geometry": {"coordinates":[-73.46742999999999,45.468521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169083827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.706589,45.510292,-73.706589,45.510292",
     "geom:latitude":45.510292,
     "geom:longitude":-73.706589,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2475 Rue Des Harfangs",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895723,
+        102191575,
         85633041,
-        85895723
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9502453b53760ef54e175db6c89d3cf1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895723,
+            "region_id":136251273,
             "venue_id":169083827
         }
     ],
     "wof:id":169083827,
-    "wof:lastmodified":1449034244,
+    "wof:lastmodified":1453930428,
     "wof:name":"Gestion Herte Inc",
     "wof:parent_id":85895723,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.706589,45.510292,-73.706589,45.510292],
-  "geometry": {"coordinates":[-73.706589,45.510292],"type":"Point"}
+  "bbox": [
+    -73.706589,
+    45.510292,
+    -73.706589,
+    45.510292
+],
+  "geometry": {"coordinates":[-73.70658899999999,45.510292],"type":"Point"}
 }

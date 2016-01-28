@@ -2,13 +2,14 @@
   "id": 219278391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.692589,43.638397,-79.692589,43.638397",
     "geom:latitude":43.638397,
     "geom:longitude":-79.692589,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"90 Courtney Park Dr E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894975,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"3d927c753293107b74b5a95d2af60928",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":219278391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":219278391
         }
     ],
     "wof:id":219278391,
-    "wof:lastmodified":1449072324,
+    "wof:lastmodified":1453937799,
     "wof:name":"Putting Edge",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "golf"
     ]
 },
-  "bbox": [-79.692589,43.638397,-79.692589,43.638397],
+  "bbox": [
+    -79.692589,
+    43.638397,
+    -79.692589,
+    43.638397
+],
   "geometry": {"coordinates":[-79.692589,43.638397],"type":"Point"}
 }

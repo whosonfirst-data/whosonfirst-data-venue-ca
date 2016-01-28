@@ -2,13 +2,14 @@
   "id": 152496691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.571632,46.338497,-72.571632,46.338497",
     "geom:latitude":46.338497,
     "geom:longitude":-72.571632,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1024 Rue Albert-Durand",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874109,
+        102191575,
         85633041,
-        85874109
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d9ba073699ea51c456cef720f9facdde",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874109,
+            "region_id":136251273,
             "venue_id":152496691
         }
     ],
     "wof:id":152496691,
-    "wof:lastmodified":1449048216,
+    "wof:lastmodified":1453935804,
     "wof:name":"Cd Metaux Specialise",
     "wof:parent_id":85874109,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.571632,46.338497,-72.571632,46.338497],
-  "geometry": {"coordinates":[-72.571632,46.338497],"type":"Point"}
+  "bbox": [
+    -72.571632,
+    46.338497,
+    -72.571632,
+    46.338497
+],
+  "geometry": {"coordinates":[-72.57163199999999,46.338497],"type":"Point"}
 }

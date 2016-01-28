@@ -2,13 +2,14 @@
   "id": 152860989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.645576,45.547356,-73.645576,45.547356",
     "geom:latitude":45.547356,
     "geom:longitude":-73.645576,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"410 Rue Legendre O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"a12f17b2acfc986325686c7684a18f98",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152860989
         }
     ],
     "wof:id":152860989,
-    "wof:lastmodified":1449046372,
+    "wof:lastmodified":1453934404,
     "wof:name":"Bar Italien Enrg",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.645576,45.547356,-73.645576,45.547356],
-  "geometry": {"coordinates":[-73.645576,45.547356],"type":"Point"}
+  "bbox": [
+    -73.645576,
+    45.547356,
+    -73.645576,
+    45.547356
+],
+  "geometry": {"coordinates":[-73.64557600000001,45.547356],"type":"Point"}
 }

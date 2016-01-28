@@ -2,13 +2,14 @@
   "id": 169229847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.808243,43.391579,-79.808243,43.391579",
     "geom:latitude":43.391579,
     "geom:longitude":-79.808243,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2155 Country Club Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895583,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"0f29f348d7c6450b2e9d4e0d31dda553",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895583,
+            "region_id":85682057,
+            "venue_id":169229847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895583,
             "region_id":85682057,
             "venue_id":169229847
         }
     ],
     "wof:id":169229847,
-    "wof:lastmodified":1449035293,
+    "wof:lastmodified":1453931501,
     "wof:name":"Doulton's Catering",
     "wof:parent_id":85895583,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.808243,43.391579,-79.808243,43.391579],
+  "bbox": [
+    -79.808243,
+    43.391579,
+    -79.808243,
+    43.391579
+],
   "geometry": {"coordinates":[-79.808243,43.391579],"type":"Point"}
 }

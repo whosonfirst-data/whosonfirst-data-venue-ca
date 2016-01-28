@@ -2,13 +2,14 @@
   "id": 152960171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.638069,43.503719,-79.638069,43.503719",
     "geom:latitude":43.503719,
     "geom:longitude":-79.638069,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895177,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"036ff3a2821e862541ffb55aa9e70998",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895177,
+            "region_id":85682057,
+            "venue_id":152960171
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895177,
             "region_id":85682057,
             "venue_id":152960171
         }
     ],
     "wof:id":152960171,
-    "wof:lastmodified":1449047623,
+    "wof:lastmodified":1453935362,
     "wof:name":"Cbm Engineering Group",
     "wof:parent_id":85895177,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.638069,43.503719,-79.638069,43.503719],
+  "bbox": [
+    -79.638069,
+    43.503719,
+    -79.638069,
+    43.503719
+],
   "geometry": {"coordinates":[-79.638069,43.503719],"type":"Point"}
 }

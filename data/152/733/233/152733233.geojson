@@ -2,13 +2,14 @@
   "id": 152733233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556244,45.503162,-73.556244,45.503162",
     "geom:latitude":45.503162,
     "geom:longitude":-73.556244,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"434 Rue Saint-Francois-Xavier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866469,
+        102191575,
         85633041,
-        85866469
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4a266f52db67aee0965e0c8455e7e1be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866469,
+            "region_id":136251273,
             "venue_id":152733233
         }
     ],
     "wof:id":152733233,
-    "wof:lastmodified":1449044948,
+    "wof:lastmodified":1453933329,
     "wof:name":"Union Internationale-Cnstrctrs",
     "wof:parent_id":85866469,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.556244,45.503162,-73.556244,45.503162],
-  "geometry": {"coordinates":[-73.556244,45.503162],"type":"Point"}
+  "bbox": [
+    -73.556244,
+    45.503162,
+    -73.556244,
+    45.503162
+],
+  "geometry": {"coordinates":[-73.55624400000001,45.503162],"type":"Point"}
 }

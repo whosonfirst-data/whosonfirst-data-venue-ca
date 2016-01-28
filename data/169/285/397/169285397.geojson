@@ -2,13 +2,14 @@
   "id": 169285397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.938713,45.398369,-71.938713,45.398369",
     "geom:latitude":45.398369,
     "geom:longitude":-71.938713,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2685 Rue King O",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874131,
+        102191575,
         85633041,
-        85874131
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"275ae20b0285ca58dbb3cc020f694e47",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
+            "region_id":136251273,
             "venue_id":169285397
         }
     ],
     "wof:id":169285397,
-    "wof:lastmodified":1449032781,
+    "wof:lastmodified":1453928898,
     "wof:name":"Lemieux Bedard Communications",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.938713,45.398369,-71.938713,45.398369],
-  "geometry": {"coordinates":[-71.938713,45.398369],"type":"Point"}
+  "bbox": [
+    -71.938713,
+    45.398369,
+    -71.938713,
+    45.398369
+],
+  "geometry": {"coordinates":[-71.93871300000001,45.398369],"type":"Point"}
 }

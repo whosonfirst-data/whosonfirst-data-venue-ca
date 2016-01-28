@@ -2,13 +2,14 @@
   "id": 152838183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688873,43.464436,-79.688873,43.464436",
     "geom:latitude":43.464436,
     "geom:longitude":-79.688873,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1056 Queens Ave",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895549,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"b0da3c9340be60d1f6afbe3384ad7c65",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895549,
+            "region_id":85682057,
+            "venue_id":152838183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895549,
             "region_id":85682057,
             "venue_id":152838183
         }
     ],
     "wof:id":152838183,
-    "wof:lastmodified":1449044864,
+    "wof:lastmodified":1453933263,
     "wof:name":"Queens Avenue Retirement",
     "wof:parent_id":85895549,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688873,43.464436,-79.688873,43.464436],
+  "bbox": [
+    -79.688873,
+    43.464436,
+    -79.688873,
+    43.464436
+],
   "geometry": {"coordinates":[-79.688873,43.464436],"type":"Point"}
 }

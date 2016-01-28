@@ -2,13 +2,14 @@
   "id": 169518083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.40007,43.632477,-79.40007,43.632477",
     "geom:latitude":43.632477,
     "geom:longitude":-79.40007,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2 Stadium Rd",
     "sg:city":"Toronto",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
+        102555229,
         85874213,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -40,6 +43,8 @@
     "wof:geomhash":"5c3606f3c985f4fcd8a6457f7fcb384d",
     "wof:hierarchy":[
         {
+            "campus_id":102555229,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85874213,
@@ -48,14 +53,19 @@
         }
     ],
     "wof:id":169518083,
-    "wof:lastmodified":1449034553,
+    "wof:lastmodified":1453930763,
     "wof:name":"Alexandra Yacht Club",
-    "wof:parent_id":85874213,
+    "wof:parent_id":102555229,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.40007,43.632477,-79.40007,43.632477],
+  "bbox": [
+    -79.40007,
+    43.632477,
+    -79.40007,
+    43.632477
+],
   "geometry": {"coordinates":[-79.40007,43.632477],"type":"Point"}
 }

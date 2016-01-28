@@ -2,13 +2,14 @@
   "id": 168906279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.363739,43.80854,-79.363739,43.80854",
     "geom:latitude":43.80854,
     "geom:longitude":-79.363739,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"47 Jenny Wrenway",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895483,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"89b8a1aef5366b28a1950bb650e0ba64",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":168906279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":168906279
         }
     ],
     "wof:id":168906279,
-    "wof:lastmodified":1449028049,
+    "wof:lastmodified":1453928097,
     "wof:name":"Alexim Corp",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.363739,43.80854,-79.363739,43.80854],
+  "bbox": [
+    -79.363739,
+    43.80854,
+    -79.363739,
+    43.80854
+],
   "geometry": {"coordinates":[-79.363739,43.80854],"type":"Point"}
 }

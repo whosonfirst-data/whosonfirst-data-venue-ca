@@ -2,13 +2,14 @@
   "id": 152885021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.570999,45.529133,-73.570999,45.529133",
     "geom:latitude":45.529133,
     "geom:longitude":-73.570999,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1493 Rue Rachel E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1a436c3a6f968edae40b1dd1c3b73e11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":152885021
         }
     ],
     "wof:id":152885021,
-    "wof:lastmodified":1449046758,
+    "wof:lastmodified":1453934690,
     "wof:name":"Centre Dentaire Rachel",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.570999,45.529133,-73.570999,45.529133],
+  "bbox": [
+    -73.570999,
+    45.529133,
+    -73.570999,
+    45.529133
+],
   "geometry": {"coordinates":[-73.570999,45.529133],"type":"Point"}
 }

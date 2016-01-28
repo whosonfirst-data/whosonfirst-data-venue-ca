@@ -2,13 +2,14 @@
   "id": 219380971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.512009,45.50185,-73.512009,45.50185",
     "geom:latitude":45.50185,
     "geom:longitude":-73.512009,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"450 Av Victoria",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875761,
+        102191575,
         85633041,
-        101736449
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"cedddd02a7adadf3084b13a063a1e430",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219380971
         }
     ],
     "wof:id":219380971,
-    "wof:lastmodified":1449072031,
+    "wof:lastmodified":1453937762,
     "wof:name":"Textiles Knowlton",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "decorator"
     ]
 },
-  "bbox": [-73.512009,45.50185,-73.512009,45.50185],
-  "geometry": {"coordinates":[-73.512009,45.50185],"type":"Point"}
+  "bbox": [
+    -73.512009,
+    45.50185,
+    -73.512009,
+    45.50185
+],
+  "geometry": {"coordinates":[-73.51200900000001,45.50185],"type":"Point"}
 }

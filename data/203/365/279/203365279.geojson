@@ -2,13 +2,14 @@
   "id": 203365279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.750763,45.597664,-73.750763,45.597664",
     "geom:latitude":45.597664,
     "geom:longitude":-73.750763,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4000 Boul Industriel",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871107,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"70d49c8cb76fccf15d5099c25aff98cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871107,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203365279
         }
     ],
     "wof:id":203365279,
-    "wof:lastmodified":1449025242,
+    "wof:lastmodified":1453927466,
     "wof:name":"Maison Cousin Inc",
     "wof:parent_id":85871107,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.750763,45.597664,-73.750763,45.597664],
-  "geometry": {"coordinates":[-73.750763,45.597664],"type":"Point"}
+  "bbox": [
+    -73.750763,
+    45.597664,
+    -73.750763,
+    45.597664
+],
+  "geometry": {"coordinates":[-73.75076300000001,45.597664],"type":"Point"}
 }

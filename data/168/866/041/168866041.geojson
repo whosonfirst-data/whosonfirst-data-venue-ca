@@ -2,13 +2,14 @@
   "id": 168866041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.581696,43.558437,-79.581696,43.558437",
     "geom:latitude":43.558437,
     "geom:longitude":-79.581696,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"35 Elmwood Ave N",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895115,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"c0faa6f4bb9fccf192a7342bab8f1050",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":168866041
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":168866041
         }
     ],
     "wof:id":168866041,
-    "wof:lastmodified":1449028138,
+    "wof:lastmodified":1453928198,
     "wof:name":"Berbeck Machinery",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.581696,43.558437,-79.581696,43.558437],
-  "geometry": {"coordinates":[-79.581696,43.558437],"type":"Point"}
+  "bbox": [
+    -79.581696,
+    43.558437,
+    -79.581696,
+    43.558437
+],
+  "geometry": {"coordinates":[-79.58169599999999,43.558437],"type":"Point"}
 }

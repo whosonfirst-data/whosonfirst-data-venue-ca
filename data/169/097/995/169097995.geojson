@@ -2,13 +2,14 @@
   "id": 169097995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.26265,43.878609,-79.26265,43.878609",
     "geom:latitude":43.878609,
     "geom:longitude":-79.26265,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Water St",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895435,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"0da3ecd1d40e72776f1dce45f0f9a03b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895435,
+            "region_id":85682057,
+            "venue_id":169097995
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895435,
             "region_id":85682057,
             "venue_id":169097995
         }
     ],
     "wof:id":169097995,
-    "wof:lastmodified":1449033980,
+    "wof:lastmodified":1453930143,
     "wof:name":"Waterstreet Non Profit Homes",
     "wof:parent_id":85895435,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.26265,43.878609,-79.26265,43.878609],
-  "geometry": {"coordinates":[-79.26265,43.878609],"type":"Point"}
+  "bbox": [
+    -79.26265,
+    43.878609,
+    -79.26265,
+    43.878609
+],
+  "geometry": {"coordinates":[-79.26264999999999,43.878609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152912919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.230469,43.182236,-79.230469,43.182236",
     "geom:latitude":43.182236,
     "geom:longitude":-79.230469,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"294 Vine St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"a7abd1c1e64201b1a6188b4d1d11deb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152912919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152912919
         }
     ],
     "wof:id":152912919,
-    "wof:lastmodified":1449046582,
+    "wof:lastmodified":1453934559,
     "wof:name":"Royal Canadian Legion",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.230469,43.182236,-79.230469,43.182236],
+  "bbox": [
+    -79.230469,
+    43.182236,
+    -79.230469,
+    43.182236
+],
   "geometry": {"coordinates":[-79.230469,43.182236],"type":"Point"}
 }

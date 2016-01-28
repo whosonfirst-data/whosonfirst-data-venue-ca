@@ -2,13 +2,14 @@
   "id": 152373275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.529259,46.376583,-72.529259,46.376583",
     "geom:latitude":46.376583,
     "geom:longitude":-72.529259,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"481 Rue Bertrand",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874113,
+        102191575,
         85633041,
-        85874113
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a2932fc6cf3854797c02b156f9316fe2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874113,
+            "region_id":136251273,
             "venue_id":152373275
         }
     ],
     "wof:id":152373275,
-    "wof:lastmodified":1449046693,
+    "wof:lastmodified":1453934644,
     "wof:name":"Garage Paul Vallee",
     "wof:parent_id":85874113,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.529259,46.376583,-72.529259,46.376583],
+  "bbox": [
+    -72.529259,
+    46.376583,
+    -72.529259,
+    46.376583
+],
   "geometry": {"coordinates":[-72.529259,46.376583],"type":"Point"}
 }

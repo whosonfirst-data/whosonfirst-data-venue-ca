@@ -2,13 +2,14 @@
   "id": 152937209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.483467,45.478027,-73.483467,45.478027",
     "geom:latitude":45.478027,
     "geom:longitude":-73.483467,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"108 Place DE Fontainebleau",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875767,
+        102191575,
         85633041,
-        85875767
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ec37f211a6bfcdbc16241fdddbab5c19",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875767,
+            "region_id":136251273,
             "venue_id":152937209
         }
     ],
     "wof:id":152937209,
-    "wof:lastmodified":1449045181,
+    "wof:lastmodified":1453933496,
     "wof:name":"Creations Dan-O",
     "wof:parent_id":85875767,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.483467,45.478027,-73.483467,45.478027],
+  "bbox": [
+    -73.483467,
+    45.478027,
+    -73.483467,
+    45.478027
+],
   "geometry": {"coordinates":[-73.483467,45.478027],"type":"Point"}
 }

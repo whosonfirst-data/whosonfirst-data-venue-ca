@@ -2,13 +2,14 @@
   "id": 169340047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838631,45.612564,-73.838631,45.612564",
     "geom:latitude":45.612564,
     "geom:longitude":-73.838631,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Boisbriand",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"8ae764da46153bed2d4125f950caac91",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":169340047
         }
     ],
     "wof:id":169340047,
-    "wof:lastmodified":1449035209,
+    "wof:lastmodified":1453931412,
     "wof:name":"Mercier, Sylvain",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.838631,45.612564,-73.838631,45.612564],
-  "geometry": {"coordinates":[-73.838631,45.612564],"type":"Point"}
+  "bbox": [
+    -73.838631,
+    45.612564,
+    -73.838631,
+    45.612564
+],
+  "geometry": {"coordinates":[-73.83863100000001,45.612564],"type":"Point"}
 }

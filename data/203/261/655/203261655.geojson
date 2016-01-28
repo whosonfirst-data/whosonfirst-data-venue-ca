@@ -2,13 +2,14 @@
   "id": 203261655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.610168,45.530357,-73.610168,45.530357",
     "geom:latitude":45.530357,
     "geom:longitude":-73.610168,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6505 Rue Clark",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874369,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"ceca9ded079088321ed728dc243e5521",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203261655
         }
     ],
     "wof:id":203261655,
-    "wof:lastmodified":1449024975,
+    "wof:lastmodified":1453927413,
     "wof:name":"Boulangerie Marguerita Pizza",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.610168,45.530357,-73.610168,45.530357],
+  "bbox": [
+    -73.610168,
+    45.530357,
+    -73.610168,
+    45.530357
+],
   "geometry": {"coordinates":[-73.610168,45.530357],"type":"Point"}
 }

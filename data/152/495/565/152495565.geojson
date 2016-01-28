@@ -2,13 +2,14 @@
   "id": 152495565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.231445,42.962448,-81.231445,42.962448",
     "geom:latitude":42.962448,
     "geom:longitude":-81.231445,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"343 Wellington Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NZy986GwtekKV0tX5MlUa_42.962448_-81.231445@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"91337b30fc6ebed8a4f3c202fa7126f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":152495565
+        }
+    ],
     "wof:id":152495565,
-    "wof:lastmodified":1449046349,
+    "wof:lastmodified":1453934387,
     "wof:name":"Direct Landlord Svc Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.231445,42.962448,-81.231445,42.962448],
-  "geometry": {"coordinates":[-81.231445,42.962448],"type":"Point"}
+  "bbox": [
+    -81.231445,
+    42.962448,
+    -81.231445,
+    42.962448
+],
+  "geometry": {"coordinates":[-81.23144499999999,42.962448],"type":"Point"}
 }

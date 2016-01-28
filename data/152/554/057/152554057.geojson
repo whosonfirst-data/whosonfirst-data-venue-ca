@@ -2,13 +2,14 @@
   "id": 152554057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.56337,45.529442,-73.56337,45.529442",
     "geom:latitude":45.529442,
     "geom:longitude":-73.56337,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1950 Rue Sherbrooke O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a5cfd4e0c7c07e2f684a8ea2a20ccce0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":152554057
         }
     ],
     "wof:id":152554057,
-    "wof:lastmodified":1449045257,
+    "wof:lastmodified":1453933552,
     "wof:name":"Orange Digital Systems Inc",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.56337,45.529442,-73.56337,45.529442],
-  "geometry": {"coordinates":[-73.56337,45.529442],"type":"Point"}
+  "bbox": [
+    -73.56337,
+    45.529442,
+    -73.56337,
+    45.529442
+],
+  "geometry": {"coordinates":[-73.56337000000001,45.529442],"type":"Point"}
 }

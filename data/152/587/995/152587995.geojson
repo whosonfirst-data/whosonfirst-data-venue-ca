@@ -2,13 +2,14 @@
   "id": 152587995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.916077,43.65501,-79.916077,43.65501",
     "geom:latitude":43.65501,
     "geom:longitude":-79.916077,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"62 King St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895315,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"10c93c190cf8222c46970a68ce6e1b1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895315,
+            "region_id":85682057,
+            "venue_id":152587995
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895315,
             "region_id":85682057,
             "venue_id":152587995
         }
     ],
     "wof:id":152587995,
-    "wof:lastmodified":1449045894,
+    "wof:lastmodified":1453934048,
     "wof:name":"Tomsson Products",
     "wof:parent_id":85895315,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.916077,43.65501,-79.916077,43.65501],
+  "bbox": [
+    -79.916077,
+    43.65501,
+    -79.916077,
+    43.65501
+],
   "geometry": {"coordinates":[-79.916077,43.65501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202492697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.515427,43.469173,-80.515427,43.469173",
     "geom:latitude":43.469173,
     "geom:longitude":-80.515427,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"66 Bridgeport Rd E",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874983,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"fd29f01059a36de7f334afd0bf61a090",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874983,
+            "region_id":85682057,
+            "venue_id":202492697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85874983,
             "region_id":85682057,
             "venue_id":202492697
         }
     ],
     "wof:id":202492697,
-    "wof:lastmodified":1449060111,
+    "wof:lastmodified":1453936976,
     "wof:name":"Byma's Tire & Automotive Ctr",
     "wof:parent_id":85874983,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "tire"
     ]
 },
-  "bbox": [-80.515427,43.469173,-80.515427,43.469173],
+  "bbox": [
+    -80.515427,
+    43.469173,
+    -80.515427,
+    43.469173
+],
   "geometry": {"coordinates":[-80.515427,43.469173],"type":"Point"}
 }

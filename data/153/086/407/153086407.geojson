@@ -2,13 +2,14 @@
   "id": 153086407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.242538,48.423119,-71.242538,48.423119",
     "geom:latitude":48.423119,
     "geom:longitude":-71.242538,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2150 Rue Sainte-Famille",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"176093d1be4b4a51588128f238bac16f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":153086407
         }
     ],
     "wof:id":153086407,
-    "wof:lastmodified":1449040683,
+    "wof:lastmodified":1453932603,
     "wof:name":"Bijouterie Beland",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.242538,48.423119,-71.242538,48.423119],
+  "bbox": [
+    -71.242538,
+    48.423119,
+    -71.242538,
+    48.423119
+],
   "geometry": {"coordinates":[-71.242538,48.423119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152930041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.626633,45.526993,-73.626633,45.526993",
     "geom:latitude":45.526993,
     "geom:longitude":-73.626633,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"787 Av Ogilvy",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"55e422384785f030ba75367be6c2008a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152930041
         }
     ],
     "wof:id":152930041,
-    "wof:lastmodified":1449045780,
+    "wof:lastmodified":1453933959,
     "wof:name":"Steves Handy Store",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.626633,45.526993,-73.626633,45.526993],
+  "bbox": [
+    -73.626633,
+    45.526993,
+    -73.626633,
+    45.526993
+],
   "geometry": {"coordinates":[-73.626633,45.526993],"type":"Point"}
 }

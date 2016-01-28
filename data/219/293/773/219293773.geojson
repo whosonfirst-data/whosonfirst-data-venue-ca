@@ -2,13 +2,14 @@
   "id": 219293773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.112343,43.838539,-79.112343,43.838539",
     "geom:latitude":43.838539,
     "geom:longitude":-79.112343,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1508 Eagleview Dr",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895165,
+        102191575,
         85633041,
-        85682057
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"ddb696a138b937e738dc1c0db2c9028d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895165,
+            "region_id":85682057,
+            "venue_id":219293773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895165,
             "region_id":85682057,
             "venue_id":219293773
         }
     ],
     "wof:id":219293773,
-    "wof:lastmodified":1449071086,
+    "wof:lastmodified":1453937635,
     "wof:name":"Taylor Made Advertising",
     "wof:parent_id":85895165,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "counselor"
     ]
 },
-  "bbox": [-79.112343,43.838539,-79.112343,43.838539],
+  "bbox": [
+    -79.112343,
+    43.838539,
+    -79.112343,
+    43.838539
+],
   "geometry": {"coordinates":[-79.112343,43.838539],"type":"Point"}
 }

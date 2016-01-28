@@ -2,13 +2,14 @@
   "id": 152724343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.240036,43.164787,-79.240036,43.164787",
     "geom:latitude":43.164787,
     "geom:longitude":-79.240036,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"88 Geneva St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"75ac4330ac0d06b0c692e2e36e4c211a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":152724343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":152724343
         }
     ],
     "wof:id":152724343,
-    "wof:lastmodified":1449048815,
+    "wof:lastmodified":1453936265,
     "wof:name":"Mc George's Auto Electric Ltd",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.240036,43.164787,-79.240036,43.164787],
+  "bbox": [
+    -79.240036,
+    43.164787,
+    -79.240036,
+    43.164787
+],
   "geometry": {"coordinates":[-79.240036,43.164787],"type":"Point"}
 }

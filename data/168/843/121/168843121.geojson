@@ -2,13 +2,14 @@
   "id": 168843121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.495461,45.506588,-73.495461,45.506588",
     "geom:latitude":45.506588,
     "geom:longitude":-73.495461,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1882 Rue Saint-Georges",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a155c7b62728942f30d0795b73d3715b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":168843121
         }
     ],
     "wof:id":168843121,
-    "wof:lastmodified":1449027838,
+    "wof:lastmodified":1453927854,
     "wof:name":"Centre Joseph Senechal",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.495461,45.506588,-73.495461,45.506588],
-  "geometry": {"coordinates":[-73.495461,45.506588],"type":"Point"}
+  "bbox": [
+    -73.495461,
+    45.506588,
+    -73.495461,
+    45.506588
+],
+  "geometry": {"coordinates":[-73.49546100000001,45.506588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152603655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.726669,45.499172,-73.726669,45.499172",
     "geom:latitude":45.499172,
     "geom:longitude":-73.726669,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2341 Rue Guenette",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"a11595e8c684e103e105f142c14c997f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":152603655
         }
     ],
     "wof:id":152603655,
-    "wof:lastmodified":1449048206,
+    "wof:lastmodified":1453935793,
     "wof:name":"Empire Canada Inc",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.726669,45.499172,-73.726669,45.499172],
+  "bbox": [
+    -73.726669,
+    45.499172,
+    -73.726669,
+    45.499172
+],
   "geometry": {"coordinates":[-73.726669,45.499172],"type":"Point"}
 }

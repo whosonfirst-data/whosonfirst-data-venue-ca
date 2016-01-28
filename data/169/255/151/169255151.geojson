@@ -2,13 +2,14 @@
   "id": 169255151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.571922,45.405781,-73.571922,45.405781",
     "geom:latitude":45.405781,
     "geom:longitude":-73.571922,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"29 Rue Des Artisans",
     "sg:city":"Ste-Catherine-DE-LA-J-Cartier",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5dddef293d54c2546a41780bfe255687",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169255151
         }
     ],
     "wof:id":169255151,
-    "wof:lastmodified":1449034173,
+    "wof:lastmodified":1453930351,
     "wof:name":"Construction Dry",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.571922,45.405781,-73.571922,45.405781],
+  "bbox": [
+    -73.571922,
+    45.405781,
+    -73.571922,
+    45.405781
+],
   "geometry": {"coordinates":[-73.571922,45.405781],"type":"Point"}
 }

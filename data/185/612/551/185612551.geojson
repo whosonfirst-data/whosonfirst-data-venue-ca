@@ -2,13 +2,14 @@
   "id": 185612551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.429604,45.668926,-73.429604,45.668926",
     "geom:latitude":45.668926,
     "geom:longitude":-73.429604,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Varennes",
     "sg:classifiers":[
         {
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895719,
+        102191575,
         85633041,
-        101738581
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"7c00504211c85f5a267f956f7b25ad98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185612551
         }
     ],
     "wof:id":185612551,
-    "wof:lastmodified":1449007319,
+    "wof:lastmodified":1453927282,
     "wof:name":"Mag Sbj",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
         "buffing"
     ]
 },
-  "bbox": [-73.429604,45.668926,-73.429604,45.668926],
+  "bbox": [
+    -73.429604,
+    45.668926,
+    -73.429604,
+    45.668926
+],
   "geometry": {"coordinates":[-73.429604,45.668926],"type":"Point"}
 }

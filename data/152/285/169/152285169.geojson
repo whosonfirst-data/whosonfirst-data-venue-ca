@@ -2,13 +2,14 @@
   "id": 152285169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572945,45.447216,-73.572945,45.447216",
     "geom:latitude":45.447216,
     "geom:longitude":-73.572945,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5997 Rue DE Verdun",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874383,
+        102191575,
         85633041,
-        85874383
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"95534054a0a87f12201c1db2a5e4d9e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874383,
+            "region_id":136251273,
             "venue_id":152285169
         }
     ],
     "wof:id":152285169,
-    "wof:lastmodified":1449044425,
+    "wof:lastmodified":1453932920,
     "wof:name":"Zeste Du Monde",
     "wof:parent_id":85874383,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572945,45.447216,-73.572945,45.447216],
+  "bbox": [
+    -73.572945,
+    45.447216,
+    -73.572945,
+    45.447216
+],
   "geometry": {"coordinates":[-73.572945,45.447216],"type":"Point"}
 }

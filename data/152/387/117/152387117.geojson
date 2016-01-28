@@ -2,13 +2,14 @@
   "id": 152387117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.159325,46.888329,-71.159325,46.888329",
     "geom:latitude":46.888329,
     "geom:longitude":-71.159325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"121 Rue Vachon",
     "sg:city":"Beauport",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736835,
+        85866513,
+        102191575,
         85633041,
-        85866513
+        101736835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"819656fc32c51d7a08b0631c42f219f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736835,
             "neighbourhood_id":85866513,
+            "region_id":136251273,
             "venue_id":152387117
         }
     ],
     "wof:id":152387117,
-    "wof:lastmodified":1449048294,
+    "wof:lastmodified":1453935863,
     "wof:name":"Beauport Chalet Aux Pignons",
     "wof:parent_id":85866513,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.159325,46.888329,-71.159325,46.888329],
+  "bbox": [
+    -71.159325,
+    46.888329,
+    -71.159325,
+    46.888329
+],
   "geometry": {"coordinates":[-71.159325,46.888329],"type":"Point"}
 }

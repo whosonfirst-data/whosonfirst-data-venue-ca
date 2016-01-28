@@ -2,13 +2,14 @@
   "id": 152627875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.721802,45.531353,-73.721802,45.531353",
     "geom:latitude":45.531353,
     "geom:longitude":-73.721802,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5995 Boul Gouin O #302",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874375,
+        102191575,
         85633041,
-        85874375
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"7fc20c20dc385597d0f5efa847986aef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874375,
+            "region_id":136251273,
             "venue_id":152627875
         }
     ],
     "wof:id":152627875,
-    "wof:lastmodified":1449048993,
+    "wof:lastmodified":1453936429,
     "wof:name":"Otol-Tech Inc",
     "wof:parent_id":85874375,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.721802,45.531353,-73.721802,45.531353],
+  "bbox": [
+    -73.721802,
+    45.531353,
+    -73.721802,
+    45.531353
+],
   "geometry": {"coordinates":[-73.721802,45.531353],"type":"Point"}
 }

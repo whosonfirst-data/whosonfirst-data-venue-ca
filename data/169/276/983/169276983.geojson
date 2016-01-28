@@ -2,13 +2,14 @@
   "id": 169276983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.716438,43.404671,-79.716438,43.404671",
     "geom:latitude":43.404671,
     "geom:longitude":-79.716438,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2255 Yolanda Dr",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a436658c6c4e3731ad4ec9d017fbbfd4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":169276983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":169276983
         }
     ],
     "wof:id":169276983,
-    "wof:lastmodified":1449032813,
+    "wof:lastmodified":1453928943,
     "wof:name":"K M Bradley & Assoc",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.716438,43.404671,-79.716438,43.404671],
+  "bbox": [
+    -79.716438,
+    43.404671,
+    -79.716438,
+    43.404671
+],
   "geometry": {"coordinates":[-79.716438,43.404671],"type":"Point"}
 }

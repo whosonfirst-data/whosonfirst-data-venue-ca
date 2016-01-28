@@ -2,13 +2,14 @@
   "id": 169107125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576546,45.523804,-73.576546,45.523804",
     "geom:latitude":45.523804,
     "geom:longitude":-73.576546,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"819 Rue Rachel E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"41ee9c01a6220ceb38630f14db9e6247",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":169107125
         }
     ],
     "wof:id":169107125,
-    "wof:lastmodified":1449032703,
+    "wof:lastmodified":1453928814,
     "wof:name":"Chasse Toyota Inc Pieces",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576546,45.523804,-73.576546,45.523804],
-  "geometry": {"coordinates":[-73.576546,45.523804],"type":"Point"}
+  "bbox": [
+    -73.576546,
+    45.523804,
+    -73.576546,
+    45.523804
+],
+  "geometry": {"coordinates":[-73.57654599999999,45.523804],"type":"Point"}
 }

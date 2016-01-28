@@ -2,13 +2,14 @@
   "id": 169024091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.709015,43.397449,-79.709015,43.397449",
     "geom:latitude":43.397449,
     "geom:longitude":-79.709015,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"110 Nelson St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"5f022319d4d66623388b2ab14c7876f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":169024091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":169024091
         }
     ],
     "wof:id":169024091,
-    "wof:lastmodified":1449034261,
+    "wof:lastmodified":1453930446,
     "wof:name":"Van Ymeren, Nel OD",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.709015,43.397449,-79.709015,43.397449],
-  "geometry": {"coordinates":[-79.709015,43.397449],"type":"Point"}
+  "bbox": [
+    -79.709015,
+    43.397449,
+    -79.709015,
+    43.397449
+],
+  "geometry": {"coordinates":[-79.70901499999999,43.397449],"type":"Point"}
 }

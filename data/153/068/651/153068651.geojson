@@ -2,13 +2,14 @@
   "id": 153068651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.299385,46.774506,-71.299385,46.774506",
     "geom:latitude":46.774506,
     "geom:longitude":-71.299385,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2860 Des Quatre-Bourgeois Ch",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4bceee1b604a27db9da271a498fd0755",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":153068651
         }
     ],
     "wof:id":153068651,
-    "wof:lastmodified":1449040586,
+    "wof:lastmodified":1453932521,
     "wof:name":"Turgeon, Rene",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.299385,46.774506,-71.299385,46.774506],
+  "bbox": [
+    -71.299385,
+    46.774506,
+    -71.299385,
+    46.774506
+],
   "geometry": {"coordinates":[-71.299385,46.774506],"type":"Point"}
 }

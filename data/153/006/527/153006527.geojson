@@ -2,13 +2,14 @@
   "id": 153006527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.616859,43.606571,-79.616859,43.606571",
     "geom:latitude":43.606571,
     "geom:longitude":-79.616859,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3625 Cawthra Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895225,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7cbbfd53dc55e7f5ccd52cd83c659ed9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":153006527
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":153006527
         }
     ],
     "wof:id":153006527,
-    "wof:lastmodified":1449040722,
+    "wof:lastmodified":1453932646,
     "wof:name":"St Mary's Ukrainian Catholic",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.616859,43.606571,-79.616859,43.606571],
-  "geometry": {"coordinates":[-79.616859,43.606571],"type":"Point"}
+  "bbox": [
+    -79.616859,
+    43.606571,
+    -79.616859,
+    43.606571
+],
+  "geometry": {"coordinates":[-79.61685900000001,43.606571],"type":"Point"}
 }

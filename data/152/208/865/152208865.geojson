@@ -2,13 +2,14 @@
   "id": 152208865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.643959,45.458122,-73.643959,45.458122",
     "geom:latitude":45.458122,
     "geom:longitude":-73.643959,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736483,
+        85784813,
+        102191575,
         85633041,
-        85784813
+        101736483,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"eaa23af100c0b3997b10faf39e154347",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736483,
             "neighbourhood_id":85784813,
+            "region_id":136251273,
             "venue_id":152208865
         }
     ],
     "wof:id":152208865,
-    "wof:lastmodified":1449044845,
+    "wof:lastmodified":1453933246,
     "wof:name":"St Ignatius of Loyola Parish",
     "wof:parent_id":85784813,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.643959,45.458122,-73.643959,45.458122],
+  "bbox": [
+    -73.643959,
+    45.458122,
+    -73.643959,
+    45.458122
+],
   "geometry": {"coordinates":[-73.643959,45.458122],"type":"Point"}
 }

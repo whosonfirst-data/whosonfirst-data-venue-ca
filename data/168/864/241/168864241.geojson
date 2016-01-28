@@ -2,13 +2,14 @@
   "id": 168864241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.417877,43.875645,-79.417877,43.875645",
     "geom:latitude":43.875645,
     "geom:longitude":-79.417877,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"598 Major Mackenzie Dr E",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895247,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"665b7beb35fbdae991d5463510a290a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895247,
+            "region_id":85682057,
+            "venue_id":168864241
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895247,
             "region_id":85682057,
             "venue_id":168864241
         }
     ],
     "wof:id":168864241,
-    "wof:lastmodified":1449028599,
+    "wof:lastmodified":1453928697,
     "wof:name":"Citron, Allan DDS",
     "wof:parent_id":85895247,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.417877,43.875645,-79.417877,43.875645],
+  "bbox": [
+    -79.417877,
+    43.875645,
+    -79.417877,
+    43.875645
+],
   "geometry": {"coordinates":[-79.417877,43.875645],"type":"Point"}
 }

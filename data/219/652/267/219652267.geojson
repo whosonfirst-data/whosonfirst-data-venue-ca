@@ -2,13 +2,14 @@
   "id": 219652267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.670517,44.350845,-79.670517,44.350845",
     "geom:latitude":44.350845,
     "geom:longitude":-79.670517,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"414 Welham Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -29,7 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875279,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -40,18 +44,18 @@
     "wof:geomhash":"06cb4472d96b38b608b4d13f218a2ae5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875279,
             "region_id":85682057,
             "venue_id":219652267
         }
     ],
     "wof:id":219652267,
-    "wof:lastmodified":1449072661,
+    "wof:lastmodified":1453937851,
     "wof:name":"Brydon Marine Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.670517,44.350845,-79.670517,44.350845],
+  "bbox": [
+    -79.670517,
+    44.350845,
+    -79.670517,
+    44.350845
+],
   "geometry": {"coordinates":[-79.670517,44.350845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169437781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.809822,43.333733,-79.809822,43.333733",
     "geom:latitude":43.333733,
     "geom:longitude":-79.809822,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"792 Brant St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895611,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"fa52b2ec909d7bff4d8c652fac6212fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895611,
+            "region_id":85682057,
+            "venue_id":169437781
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895611,
             "region_id":85682057,
             "venue_id":169437781
         }
     ],
     "wof:id":169437781,
-    "wof:lastmodified":1449035063,
+    "wof:lastmodified":1453931291,
     "wof:name":"Selbak Driving School",
     "wof:parent_id":85895611,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.809822,43.333733,-79.809822,43.333733],
+  "bbox": [
+    -79.809822,
+    43.333733,
+    -79.809822,
+    43.333733
+],
   "geometry": {"coordinates":[-79.809822,43.333733],"type":"Point"}
 }

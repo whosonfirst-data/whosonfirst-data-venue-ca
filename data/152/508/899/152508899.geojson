@@ -2,13 +2,14 @@
   "id": 152508899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.564659,45.528446,-73.564659,45.528446",
     "geom:latitude":45.528446,
     "geom:longitude":-73.564659,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3503 Av Papineau",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2611f67dd2892df0b13bcf6d782c6875",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":152508899
         }
     ],
     "wof:id":152508899,
-    "wof:lastmodified":1449046894,
+    "wof:lastmodified":1453934787,
     "wof:name":"Urgel Bourgie Ltee",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.564659,45.528446,-73.564659,45.528446],
-  "geometry": {"coordinates":[-73.564659,45.528446],"type":"Point"}
+  "bbox": [
+    -73.564659,
+    45.528446,
+    -73.564659,
+    45.528446
+],
+  "geometry": {"coordinates":[-73.56465900000001,45.528446],"type":"Point"}
 }

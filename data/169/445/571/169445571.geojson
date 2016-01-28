@@ -2,13 +2,14 @@
   "id": 169445571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.602371,45.478352,-73.602371,45.478352",
     "geom:latitude":45.478352,
     "geom:longitude":-73.602371,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"360 Av Victoria",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85897627,
+        102191575,
         85633041,
-        85897627
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"98865de7d5914a4e0139c6dfb696af11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897627,
+            "region_id":136251273,
             "venue_id":169445571
         }
     ],
     "wof:id":169445571,
-    "wof:lastmodified":1449033128,
+    "wof:lastmodified":1453929243,
     "wof:name":"Fleuriste Westmount Ltee",
     "wof:parent_id":85897627,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.602371,45.478352,-73.602371,45.478352],
-  "geometry": {"coordinates":[-73.602371,45.478352],"type":"Point"}
+  "bbox": [
+    -73.602371,
+    45.478352,
+    -73.602371,
+    45.478352
+],
+  "geometry": {"coordinates":[-73.60237100000001,45.478352],"type":"Point"}
 }

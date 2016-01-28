@@ -2,13 +2,14 @@
   "id": 169533791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.206291,46.81308,-71.206291,46.81308",
     "geom:latitude":46.81308,
     "geom:longitude":-71.206291,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"22 Rue Sainte-Anne",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866515,
+        102191575,
         85633041,
-        85866515
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e82d170e141640f37dc441d65279cbbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866515,
+            "region_id":136251273,
             "venue_id":169533791
         }
     ],
     "wof:id":169533791,
-    "wof:lastmodified":1449032643,
+    "wof:lastmodified":1453928759,
     "wof:name":"Coin Du Tresor Enr",
     "wof:parent_id":85866515,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.206291,46.81308,-71.206291,46.81308],
-  "geometry": {"coordinates":[-71.206291,46.81308],"type":"Point"}
+  "bbox": [
+    -71.206291,
+    46.81308,
+    -71.206291,
+    46.81308
+],
+  "geometry": {"coordinates":[-71.20629099999999,46.81308],"type":"Point"}
 }

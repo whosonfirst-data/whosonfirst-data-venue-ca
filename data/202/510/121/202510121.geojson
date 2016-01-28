@@ -2,13 +2,14 @@
   "id": 202510121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.036034,51.088837,-114.036034,51.088837",
     "geom:latitude":51.088837,
     "geom:longitude":-114.036034,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1122 40 Ave NE",
     "sg:city":"Calgary",
     "sg:classifiers":[
@@ -30,8 +31,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874623,
         85633041,
+        102554947,
+        85874585,
         85682091
     ],
     "wof:breaches":[],
@@ -42,18 +44,17 @@
     "wof:geomhash":"1f84abff20173a6d1f26b47d85d3a12b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554947,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":85874623,
+            "neighbourhood_id":85874585,
             "region_id":85682091,
             "venue_id":202510121
         }
     ],
     "wof:id":202510121,
-    "wof:lastmodified":1449061651,
+    "wof:lastmodified":1453937299,
     "wof:name":"Classic Kitchens & Cabinets",
-    "wof:parent_id":85874623,
+    "wof:parent_id":102554947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-114.036034,51.088837,-114.036034,51.088837],
+  "bbox": [
+    -114.036034,
+    51.088837,
+    -114.036034,
+    51.088837
+],
   "geometry": {"coordinates":[-114.036034,51.088837],"type":"Point"}
 }

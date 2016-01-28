@@ -2,13 +2,14 @@
   "id": 219712433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49424,43.422436,-80.49424,43.422436",
     "geom:latitude":43.422436,
     "geom:longitude":-80.49424,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"83 Elmsdale Dr",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864565,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"94433323acfabc0eb3edb64f0f03b9c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864565,
+            "region_id":85682057,
+            "venue_id":219712433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864565,
             "region_id":85682057,
             "venue_id":219712433
         }
     ],
     "wof:id":219712433,
-    "wof:lastmodified":1449071899,
+    "wof:lastmodified":1453937744,
     "wof:name":"Kitchener Utilities Svc",
     "wof:parent_id":85864565,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "village"
     ]
 },
-  "bbox": [-80.49424,43.422436,-80.49424,43.422436],
+  "bbox": [
+    -80.49424,
+    43.422436,
+    -80.49424,
+    43.422436
+],
   "geometry": {"coordinates":[-80.49424,43.422436],"type":"Point"}
 }

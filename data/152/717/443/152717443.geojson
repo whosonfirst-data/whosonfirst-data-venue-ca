@@ -2,13 +2,14 @@
   "id": 152717443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616547,45.542107,-73.616547,45.542107",
     "geom:latitude":45.542107,
     "geom:longitude":-73.616547,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7408 Rue Saint-Hubert",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"304db731f06b0c2b38e62aa183b32221",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":152717443
         }
     ],
     "wof:id":152717443,
-    "wof:lastmodified":1449044418,
+    "wof:lastmodified":1453932912,
     "wof:name":"Hanitex Enr",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.616547,45.542107,-73.616547,45.542107],
+  "bbox": [
+    -73.616547,
+    45.542107,
+    -73.616547,
+    45.542107
+],
   "geometry": {"coordinates":[-73.616547,45.542107],"type":"Point"}
 }

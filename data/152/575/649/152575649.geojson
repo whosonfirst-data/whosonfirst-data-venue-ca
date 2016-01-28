@@ -2,13 +2,14 @@
   "id": 152575649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.235023,42.979771,-81.235023,42.979771",
     "geom:latitude":42.979771,
     "geom:longitude":-81.235023,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"430 Grey St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0S3c9rznXWVcAdcn3Dz3in_42.979771_-81.235023@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"2845cbe202650509f4e75d09a416304d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":152575649
+        }
+    ],
     "wof:id":152575649,
-    "wof:lastmodified":1449045643,
+    "wof:lastmodified":1453933856,
     "wof:name":"Beth Emmanuel Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.235023,42.979771,-81.235023,42.979771],
+  "bbox": [
+    -81.235023,
+    42.979771,
+    -81.235023,
+    42.979771
+],
   "geometry": {"coordinates":[-81.235023,42.979771],"type":"Point"}
 }

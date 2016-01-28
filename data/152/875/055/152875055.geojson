@@ -2,13 +2,14 @@
   "id": 152875055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.682861,45.575775,-73.682861,45.575775",
     "geom:latitude":45.575775,
     "geom:longitude":-73.682861,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"235 Boul DE LA Concorde E",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875069,
+        102191575,
         85633041,
-        85875069
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ecd864bfd1da537e304e7135e2918855",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
+            "region_id":136251273,
             "venue_id":152875055
         }
     ],
     "wof:id":152875055,
-    "wof:lastmodified":1449047737,
+    "wof:lastmodified":1453935451,
     "wof:name":"Video Super Choix",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.682861,45.575775,-73.682861,45.575775],
+  "bbox": [
+    -73.682861,
+    45.575775,
+    -73.682861,
+    45.575775
+],
   "geometry": {"coordinates":[-73.682861,45.575775],"type":"Point"}
 }

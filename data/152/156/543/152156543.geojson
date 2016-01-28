@@ -2,13 +2,14 @@
   "id": 152156543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.435593,45.590572,-73.435593,45.590572",
     "geom:latitude":45.590572,
     "geom:longitude":-73.435593,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Boucherville",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875749,
+        102191575,
         85633041,
-        85875749
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"a218af2d059e9581a38acefcf70c7783",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875749,
+            "region_id":136251273,
             "venue_id":152156543
         }
     ],
     "wof:id":152156543,
-    "wof:lastmodified":1449045216,
+    "wof:lastmodified":1453933523,
     "wof:name":"Bennett, Caroline DDS",
     "wof:parent_id":85875749,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.435593,45.590572,-73.435593,45.590572],
+  "bbox": [
+    -73.435593,
+    45.590572,
+    -73.435593,
+    45.590572
+],
   "geometry": {"coordinates":[-73.435593,45.590572],"type":"Point"}
 }

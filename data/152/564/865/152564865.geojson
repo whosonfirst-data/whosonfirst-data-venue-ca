@@ -2,13 +2,14 @@
   "id": 152564865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22094,42.964046,-81.22094,42.964046",
     "geom:latitude":42.964046,
     "geom:longitude":-81.22094,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"217 Adelaide St S",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864539,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rkCTKm1Jl6zoY2ufwIAwv_42.964046_-81.220940@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5711143cc56467079cefb22bdbf2d4f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864539,
+            "region_id":85682057,
+            "venue_id":152564865
+        }
+    ],
     "wof:id":152564865,
-    "wof:lastmodified":1449048649,
+    "wof:lastmodified":1453936125,
     "wof:name":"D & L Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864539,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.22094,42.964046,-81.22094,42.964046],
+  "bbox": [
+    -81.22094,
+    42.964046,
+    -81.22094,
+    42.964046
+],
   "geometry": {"coordinates":[-81.22094,42.964046],"type":"Point"}
 }

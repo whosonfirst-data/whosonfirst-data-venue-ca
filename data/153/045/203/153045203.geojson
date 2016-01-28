@@ -2,13 +2,14 @@
   "id": 153045203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.721657,45.42617,-75.721657,45.42617",
     "geom:latitude":45.42617,
     "geom:longitude":-75.721657,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"67 Rue Wellington",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874505,
+        102191575,
         85633041,
-        85874505
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"31152a408b44da5fb453211813f252fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874505,
+            "region_id":136251273,
             "venue_id":153045203
         }
     ],
     "wof:id":153045203,
-    "wof:lastmodified":1449040765,
+    "wof:lastmodified":1453932683,
     "wof:name":"Restaurant Des Auvents",
     "wof:parent_id":85874505,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.721657,45.42617,-75.721657,45.42617],
-  "geometry": {"coordinates":[-75.721657,45.42617],"type":"Point"}
+  "bbox": [
+    -75.721657,
+    45.42617,
+    -75.721657,
+    45.42617
+],
+  "geometry": {"coordinates":[-75.72165699999999,45.42617],"type":"Point"}
 }

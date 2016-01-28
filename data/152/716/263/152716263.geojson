@@ -2,13 +2,14 @@
   "id": 152716263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.239845,44.477821,-76.239845,44.477821",
     "geom:latitude":44.477821,
     "geom:longitude":-76.239845,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"113 Haskins Point Rd",
     "sg:city":"Seeleys Bay",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864477,
-        85682057
+        102191575,
+        85633041,
+        101740705,
+        85682057,
+        101736283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"96442a48ab250a1a6621c2c6ff736e0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740705,
+            "neighbourhood_id":85864477,
+            "region_id":85682057,
+            "venue_id":152716263
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736283,
             "neighbourhood_id":85864477,
             "region_id":85682057,
             "venue_id":152716263
         }
     ],
     "wof:id":152716263,
-    "wof:lastmodified":1449044960,
+    "wof:lastmodified":1453933336,
     "wof:name":"Robert Mc Cumber Drywall",
     "wof:parent_id":85864477,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.239845,44.477821,-76.239845,44.477821],
+  "bbox": [
+    -76.239845,
+    44.477821,
+    -76.239845,
+    44.477821
+],
   "geometry": {"coordinates":[-76.239845,44.477821],"type":"Point"}
 }

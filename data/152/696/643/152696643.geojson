@@ -2,13 +2,14 @@
   "id": 152696643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.08699,43.828419,-79.08699,43.828419",
     "geom:latitude":43.828419,
     "geom:longitude":-79.08699,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"933 Liverpool Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895619,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5a8805afdfb52b1a7998e21d235ed7ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895619,
+            "region_id":85682057,
+            "venue_id":152696643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895619,
             "region_id":85682057,
             "venue_id":152696643
         }
     ],
     "wof:id":152696643,
-    "wof:lastmodified":1449044647,
+    "wof:lastmodified":1453933098,
     "wof:name":"Ah Now, W MD",
     "wof:parent_id":85895619,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.08699,43.828419,-79.08699,43.828419],
+  "bbox": [
+    -79.08699,
+    43.828419,
+    -79.08699,
+    43.828419
+],
   "geometry": {"coordinates":[-79.08699,43.828419],"type":"Point"}
 }

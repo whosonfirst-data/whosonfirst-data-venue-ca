@@ -2,13 +2,14 @@
   "id": 152339857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566994,45.518368,-73.566994,45.518368",
     "geom:latitude":45.518368,
     "geom:longitude":-73.566994,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"d71d2bb232ffe297a609744060cc9e9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":152339857
         }
     ],
     "wof:id":152339857,
-    "wof:lastmodified":1449046378,
+    "wof:lastmodified":1453934409,
     "wof:name":"Laflamme & Assoc",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566994,45.518368,-73.566994,45.518368],
-  "geometry": {"coordinates":[-73.566994,45.518368],"type":"Point"}
+  "bbox": [
+    -73.566994,
+    45.518368,
+    -73.566994,
+    45.518368
+],
+  "geometry": {"coordinates":[-73.56699399999999,45.518368],"type":"Point"}
 }

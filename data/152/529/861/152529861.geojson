@@ -2,13 +2,14 @@
   "id": 152529861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.239525,43.139877,-79.239525,43.139877",
     "geom:latitude":43.139877,
     "geom:longitude":-79.239525,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Belton Blvd # 100",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864541,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"59d6e5ac13135a7cb22dfeb79eb035c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864541,
+            "region_id":85682057,
+            "venue_id":152529861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864541,
             "region_id":85682057,
             "venue_id":152529861
         }
     ],
     "wof:id":152529861,
-    "wof:lastmodified":1449046337,
+    "wof:lastmodified":1453934376,
     "wof:name":"Zuliani, Christopher DC",
     "wof:parent_id":85864541,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.239525,43.139877,-79.239525,43.139877],
+  "bbox": [
+    -79.239525,
+    43.139877,
+    -79.239525,
+    43.139877
+],
   "geometry": {"coordinates":[-79.239525,43.139877],"type":"Point"}
 }

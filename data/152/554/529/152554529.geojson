@@ -2,13 +2,14 @@
   "id": 152554529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824776,43.911537,-79.824776,43.911537",
     "geom:latitude":43.911537,
     "geom:longitude":-79.824776,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2066 3rd Line",
     "sg:city":"Palgrave",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895653,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101736249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"1deb91c522b224a69add11eeeeb2abf1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895653,
+            "region_id":85682057,
+            "venue_id":152554529
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736249,
             "neighbourhood_id":85895653,
             "region_id":85682057,
             "venue_id":152554529
         }
     ],
     "wof:id":152554529,
-    "wof:lastmodified":1449045256,
+    "wof:lastmodified":1453933551,
     "wof:name":"Milmark Industries",
     "wof:parent_id":85895653,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.824776,43.911537,-79.824776,43.911537],
+  "bbox": [
+    -79.824776,
+    43.911537,
+    -79.824776,
+    43.911537
+],
   "geometry": {"coordinates":[-79.824776,43.911537],"type":"Point"}
 }

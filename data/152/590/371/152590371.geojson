@@ -2,13 +2,14 @@
   "id": 152590371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.605003,43.549721,-79.605003,43.549721",
     "geom:latitude":43.549721,
     "geom:longitude":-79.605003,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"560 Vanessa Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895115,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"cd84f7e7b0686ae3d6b5ca5cb7a22d74",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":152590371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":152590371
         }
     ],
     "wof:id":152590371,
-    "wof:lastmodified":1449047051,
+    "wof:lastmodified":1453934914,
     "wof:name":"Vacumet Limited",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.605003,43.549721,-79.605003,43.549721],
+  "bbox": [
+    -79.605003,
+    43.549721,
+    -79.605003,
+    43.549721
+],
   "geometry": {"coordinates":[-79.605003,43.549721],"type":"Point"}
 }

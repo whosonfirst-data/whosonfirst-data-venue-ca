@@ -2,13 +2,14 @@
   "id": 169027757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.556755,46.372547,-72.556755,46.372547",
     "geom:latitude":46.372547,
     "geom:longitude":-72.556755,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"275 Rue Barkoff",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874111,
+        102191575,
         85633041,
-        85874111
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fcb125b950dd30b5e5425e2720081514",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874111,
+            "region_id":136251273,
             "venue_id":169027757
         }
     ],
     "wof:id":169027757,
-    "wof:lastmodified":1449033306,
+    "wof:lastmodified":1453929406,
     "wof:name":"Libre Service Shell",
     "wof:parent_id":85874111,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.556755,46.372547,-72.556755,46.372547],
+  "bbox": [
+    -72.556755,
+    46.372547,
+    -72.556755,
+    46.372547
+],
   "geometry": {"coordinates":[-72.556755,46.372547],"type":"Point"}
 }

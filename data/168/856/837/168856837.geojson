@@ -2,13 +2,14 @@
   "id": 168856837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.437302,43.872509,-79.437302,43.872509",
     "geom:latitude":43.872509,
     "geom:longitude":-79.437302,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10049 Yonge St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895349,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"4aa5c7f178de21ffa77b74793a942cb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895349,
+            "region_id":85682057,
+            "venue_id":168856837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895349,
             "region_id":85682057,
             "venue_id":168856837
         }
     ],
     "wof:id":168856837,
-    "wof:lastmodified":1449027978,
+    "wof:lastmodified":1453928020,
     "wof:name":"Gould, Beth",
     "wof:parent_id":85895349,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.437302,43.872509,-79.437302,43.872509],
+  "bbox": [
+    -79.437302,
+    43.872509,
+    -79.437302,
+    43.872509
+],
   "geometry": {"coordinates":[-79.437302,43.872509],"type":"Point"}
 }

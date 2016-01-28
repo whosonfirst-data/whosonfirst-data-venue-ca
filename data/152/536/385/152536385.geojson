@@ -2,13 +2,14 @@
   "id": 152536385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.667465,45.604893,-73.667465,45.604893",
     "geom:latitude":45.604893,
     "geom:longitude":-73.667465,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1149 Rue Dufault",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"df25d4e8e90e41cb06c68952d8a1e66a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":152536385
         }
     ],
     "wof:id":152536385,
-    "wof:lastmodified":1449047054,
+    "wof:lastmodified":1453934917,
     "wof:name":"Centre Nord-Americain DE",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.667465,45.604893,-73.667465,45.604893],
-  "geometry": {"coordinates":[-73.667465,45.604893],"type":"Point"}
+  "bbox": [
+    -73.667465,
+    45.604893,
+    -73.667465,
+    45.604893
+],
+  "geometry": {"coordinates":[-73.66746500000001,45.604893],"type":"Point"}
 }

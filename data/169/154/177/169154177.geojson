@@ -2,13 +2,14 @@
   "id": 169154177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.816025,43.348736,-79.816025,43.348736",
     "geom:latitude":43.348736,
     "geom:longitude":-79.816025,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1154 Pettit Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895611,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"636eeef0a83e5031f9913e099cd8e1ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895611,
+            "region_id":85682057,
+            "venue_id":169154177
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895611,
             "region_id":85682057,
             "venue_id":169154177
         }
     ],
     "wof:id":169154177,
-    "wof:lastmodified":1449036018,
+    "wof:lastmodified":1453932270,
     "wof:name":"William Bethlehem Trenching",
     "wof:parent_id":85895611,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.816025,43.348736,-79.816025,43.348736],
+  "bbox": [
+    -79.816025,
+    43.348736,
+    -79.816025,
+    43.348736
+],
   "geometry": {"coordinates":[-79.816025,43.348736],"type":"Point"}
 }

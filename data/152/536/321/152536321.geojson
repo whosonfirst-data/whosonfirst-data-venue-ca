@@ -2,13 +2,14 @@
   "id": 152536321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.542603,43.442146,-80.542603,43.442146",
     "geom:latitude":43.442146,
     "geom:longitude":-80.542603,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"885 Glasgow St",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874961,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"1fa296a169a651d5c13118ad8720c970",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874961,
+            "region_id":85682057,
+            "venue_id":152536321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874961,
             "region_id":85682057,
             "venue_id":152536321
         }
     ],
     "wof:id":152536321,
-    "wof:lastmodified":1449047051,
+    "wof:lastmodified":1453934915,
     "wof:name":"Specs Appeal",
     "wof:parent_id":85874961,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.542603,43.442146,-80.542603,43.442146],
+  "bbox": [
+    -80.542603,
+    43.442146,
+    -80.542603,
+    43.442146
+],
   "geometry": {"coordinates":[-80.542603,43.442146],"type":"Point"}
 }

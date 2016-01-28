@@ -2,13 +2,14 @@
   "id": 152926223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.886505,45.440674,-73.886505,45.440674",
     "geom:latitude":45.440674,
     "geom:longitude":-73.886505,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3240 Rue Jean-Yves",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736461,
+        85897589,
+        102191575,
         85633041,
-        85897589
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"c384b7c9ede9cb78e94d8d7710003a81",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85897589,
+            "region_id":136251273,
             "venue_id":152926223
         }
     ],
     "wof:id":152926223,
-    "wof:lastmodified":1449045920,
+    "wof:lastmodified":1453934058,
     "wof:name":"Smart Set",
     "wof:parent_id":85897589,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.886505,45.440674,-73.886505,45.440674],
+  "bbox": [
+    -73.886505,
+    45.440674,
+    -73.886505,
+    45.440674
+],
   "geometry": {"coordinates":[-73.886505,45.440674],"type":"Point"}
 }

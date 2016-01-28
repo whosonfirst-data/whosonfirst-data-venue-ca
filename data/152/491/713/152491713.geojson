@@ -2,13 +2,14 @@
   "id": 152491713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.49482,45.508419,-73.49482,45.508419",
     "geom:latitude":45.508419,
     "geom:longitude":-73.49482,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1834 Rue Saint-Pierre",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f2a4252b5415c9cad79b60132503dae7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":152491713
         }
     ],
     "wof:id":152491713,
-    "wof:lastmodified":1449044213,
+    "wof:lastmodified":1453932764,
     "wof:name":"Epicerie Jean Couture Inc",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.49482,45.508419,-73.49482,45.508419],
+  "bbox": [
+    -73.49482,
+    45.508419,
+    -73.49482,
+    45.508419
+],
   "geometry": {"coordinates":[-73.49482,45.508419],"type":"Point"}
 }

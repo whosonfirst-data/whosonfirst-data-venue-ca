@@ -2,13 +2,14 @@
   "id": 169377369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.325661,46.804947,-71.325661,46.804947",
     "geom:latitude":46.804947,
     "geom:longitude":-71.325661,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4805 Boul Wilfrid-Hamel",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"fbb9835cd616c513bbfabffcdc1afe8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169377369
         }
     ],
     "wof:id":169377369,
-    "wof:lastmodified":1449033933,
+    "wof:lastmodified":1453930090,
     "wof:name":"Hopital Ste-Monique Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.325661,46.804947,-71.325661,46.804947],
+  "bbox": [
+    -71.325661,
+    46.804947,
+    -71.325661,
+    46.804947
+],
   "geometry": {"coordinates":[-71.325661,46.804947],"type":"Point"}
 }

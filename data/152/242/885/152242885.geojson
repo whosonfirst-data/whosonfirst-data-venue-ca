@@ -2,13 +2,14 @@
   "id": 152242885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.488174,43.439709,-80.488174,43.439709",
     "geom:latitude":43.439709,
     "geom:longitude":-80.488174,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"247 Madison Ave S",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874957,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5ad15c8f77df58610f13cb59a6ecd492",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874957,
+            "region_id":85682057,
+            "venue_id":152242885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874957,
             "region_id":85682057,
             "venue_id":152242885
         }
     ],
     "wof:id":152242885,
-    "wof:lastmodified":1449048377,
+    "wof:lastmodified":1453935933,
     "wof:name":"Shearer Auto Repair",
     "wof:parent_id":85874957,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.488174,43.439709,-80.488174,43.439709],
+  "bbox": [
+    -80.488174,
+    43.439709,
+    -80.488174,
+    43.439709
+],
   "geometry": {"coordinates":[-80.488174,43.439709],"type":"Point"}
 }

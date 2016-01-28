@@ -2,13 +2,14 @@
   "id": 152284253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656815,45.447506,-73.656815,45.447506",
     "geom:latitude":45.447506,
     "geom:longitude":-73.656815,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"196 Rue Norman",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736483,
+        85784813,
+        102191575,
         85633041,
-        85784813
+        101736483,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"2698d50014b355a7c11720c18076fb6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736483,
             "neighbourhood_id":85784813,
+            "region_id":136251273,
             "venue_id":152284253
         }
     ],
     "wof:id":152284253,
-    "wof:lastmodified":1449047170,
+    "wof:lastmodified":1453935012,
     "wof:name":"St Pierre Auto Rebuilders",
     "wof:parent_id":85784813,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.656815,45.447506,-73.656815,45.447506],
-  "geometry": {"coordinates":[-73.656815,45.447506],"type":"Point"}
+  "bbox": [
+    -73.656815,
+    45.447506,
+    -73.656815,
+    45.447506
+],
+  "geometry": {"coordinates":[-73.65681499999999,45.447506],"type":"Point"}
 }

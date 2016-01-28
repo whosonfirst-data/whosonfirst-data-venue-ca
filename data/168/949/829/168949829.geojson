@@ -2,13 +2,14 @@
   "id": 168949829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.603218,45.747131,-73.603218,45.747131",
     "geom:latitude":45.747131,
     "geom:longitude":-73.603218,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2929 Rue Dupras",
     "sg:city":"Mascouche",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"99f70aed3c1fbbf34ac0cce8ec8d4fa8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":168949829
         }
     ],
     "wof:id":168949829,
-    "wof:lastmodified":1449028258,
+    "wof:lastmodified":1453928324,
     "wof:name":"Mascouche Ville Adm",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.603218,45.747131,-73.603218,45.747131],
+  "bbox": [
+    -73.603218,
+    45.747131,
+    -73.603218,
+    45.747131
+],
   "geometry": {"coordinates":[-73.603218,45.747131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169080959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.546417,45.527534,-73.546417,45.527534",
     "geom:latitude":45.527534,
     "geom:longitude":-73.546417,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2370 Rue Grant",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"02352cbb477897b70a501d8d667546d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":169080959
         }
     ],
     "wof:id":169080959,
-    "wof:lastmodified":1449035876,
+    "wof:lastmodified":1453932167,
     "wof:name":"Porto France Automobiles",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.546417,45.527534,-73.546417,45.527534],
-  "geometry": {"coordinates":[-73.546417,45.527534],"type":"Point"}
+  "bbox": [
+    -73.546417,
+    45.527534,
+    -73.546417,
+    45.527534
+],
+  "geometry": {"coordinates":[-73.54641700000001,45.527534],"type":"Point"}
 }

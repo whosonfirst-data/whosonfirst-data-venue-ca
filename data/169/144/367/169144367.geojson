@@ -2,13 +2,14 @@
   "id": 169144367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.509903,45.500931,-73.509903,45.500931",
     "geom:latitude":45.500931,
     "geom:longitude":-73.509903,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"576 Av Victoria",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"2f47a5e0b6cefbf9d4a5bb0fa483b33d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":169144367
         }
     ],
     "wof:id":169144367,
-    "wof:lastmodified":1449035091,
+    "wof:lastmodified":1453931333,
     "wof:name":"Restaurant Kapetan Ltd",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.509903,45.500931,-73.509903,45.500931],
-  "geometry": {"coordinates":[-73.509903,45.500931],"type":"Point"}
+  "bbox": [
+    -73.509903,
+    45.500931,
+    -73.509903,
+    45.500931
+],
+  "geometry": {"coordinates":[-73.50990299999999,45.500931],"type":"Point"}
 }

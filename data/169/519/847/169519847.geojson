@@ -2,13 +2,14 @@
   "id": 169519847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.555,45.535797,-73.555,45.535797",
     "geom:latitude":45.535797,
     "geom:longitude":-73.555,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2689 Rue DE Rouen",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1a31e095aed701b866e76af45e55dd6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":169519847
         }
     ],
     "wof:id":169519847,
-    "wof:lastmodified":1449035739,
+    "wof:lastmodified":1453932007,
     "wof:name":"Epicier Taillefer Enrg",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.555,45.535797,-73.555,45.535797],
-  "geometry": {"coordinates":[-73.555,45.535797],"type":"Point"}
+  "bbox": [
+    -73.555,
+    45.535797,
+    -73.555,
+    45.535797
+],
+  "geometry": {"coordinates":[-73.55500000000001,45.535797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153050675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.735672,45.511364,-73.735672,45.511364",
     "geom:latitude":45.511364,
     "geom:longitude":-73.735672,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3000 Rue Sartelon",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ca7ab67f1532ad0b2ed3af913761aef8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":153050675
         }
     ],
     "wof:id":153050675,
-    "wof:lastmodified":1449040625,
+    "wof:lastmodified":1453932554,
     "wof:name":"Acme Vacuum CO Ltee",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.735672,45.511364,-73.735672,45.511364],
-  "geometry": {"coordinates":[-73.735672,45.511364],"type":"Point"}
+  "bbox": [
+    -73.735672,
+    45.511364,
+    -73.735672,
+    45.511364
+],
+  "geometry": {"coordinates":[-73.73567199999999,45.511364],"type":"Point"}
 }

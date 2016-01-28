@@ -2,13 +2,14 @@
   "id": 152363741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682152,43.527954,-79.682152,43.527954",
     "geom:latitude":43.527954,
     "geom:longitude":-79.682152,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a8f4e008e2ad1e8997e0ddf7ea359070",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152363741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152363741
         }
     ],
     "wof:id":152363741,
-    "wof:lastmodified":1449048359,
+    "wof:lastmodified":1453935919,
     "wof:name":"Roi Corp",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.682152,43.527954,-79.682152,43.527954],
+  "bbox": [
+    -79.682152,
+    43.527954,
+    -79.682152,
+    43.527954
+],
   "geometry": {"coordinates":[-79.682152,43.527954],"type":"Point"}
 }

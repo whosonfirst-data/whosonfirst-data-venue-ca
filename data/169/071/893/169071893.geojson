@@ -2,13 +2,14 @@
   "id": 169071893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.686859,43.57058,-79.686859,43.57058",
     "geom:latitude":43.57058,
     "geom:longitude":-79.686859,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1589 Flamborough Cir",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5169d5859e139a2456c76366fbbc00e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":169071893
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":169071893
         }
     ],
     "wof:id":169071893,
-    "wof:lastmodified":1449034763,
+    "wof:lastmodified":1453930985,
     "wof:name":"A Di Carlo General Contractor",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.686859,43.57058,-79.686859,43.57058],
+  "bbox": [
+    -79.686859,
+    43.57058,
+    -79.686859,
+    43.57058
+],
   "geometry": {"coordinates":[-79.686859,43.57058],"type":"Point"}
 }

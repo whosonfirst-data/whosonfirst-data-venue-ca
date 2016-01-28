@@ -2,13 +2,14 @@
   "id": 169137317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.599365,46.325813,-72.599365,46.325813",
     "geom:latitude":46.325813,
     "geom:longitude":-72.599365,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6575 Boul Jean-Xxiii",
     "sg:city":"Trois-Rivieres-Ouest",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85875397,
+        102191575,
         85633041,
-        85875397
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"173ca57be834369d7820ad07e7fca03a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85875397,
+            "region_id":136251273,
             "venue_id":169137317
         }
     ],
     "wof:id":169137317,
-    "wof:lastmodified":1449035504,
+    "wof:lastmodified":1453931741,
     "wof:name":"Ganotec Inc",
     "wof:parent_id":85875397,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.599365,46.325813,-72.599365,46.325813],
-  "geometry": {"coordinates":[-72.599365,46.325813],"type":"Point"}
+  "bbox": [
+    -72.599365,
+    46.325813,
+    -72.599365,
+    46.325813
+],
+  "geometry": {"coordinates":[-72.59936500000001,46.325813],"type":"Point"}
 }

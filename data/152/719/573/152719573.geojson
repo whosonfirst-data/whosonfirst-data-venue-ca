@@ -2,13 +2,14 @@
   "id": 152719573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.612984,45.431183,-73.612984,45.431183",
     "geom:latitude":45.431183,
     "geom:longitude":-73.612984,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7755 Rue Bouvier",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866477,
+        102191575,
         85633041,
-        85866477
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bc33f33087f5f49efc9c0d0138d9decf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866477,
+            "region_id":136251273,
             "venue_id":152719573
         }
     ],
     "wof:id":152719573,
-    "wof:lastmodified":1449044901,
+    "wof:lastmodified":1453933293,
     "wof:name":"Hopital Veterinaire DE Lasalle",
     "wof:parent_id":85866477,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.612984,45.431183,-73.612984,45.431183],
+  "bbox": [
+    -73.612984,
+    45.431183,
+    -73.612984,
+    45.431183
+],
   "geometry": {"coordinates":[-73.612984,45.431183],"type":"Point"}
 }

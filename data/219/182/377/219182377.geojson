@@ -2,13 +2,14 @@
   "id": 219182377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.732773,43.666248,-79.732773,43.666248",
     "geom:latitude":43.666248,
     "geom:longitude":-79.732773,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895229,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"799d0ef87a0fadeb49405c7d44f495fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":219182377
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":219182377
         }
     ],
     "wof:id":219182377,
-    "wof:lastmodified":1449072614,
+    "wof:lastmodified":1453937844,
     "wof:name":"Armadale Deli Ltd",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-79.732773,43.666248,-79.732773,43.666248],
-  "geometry": {"coordinates":[-79.732773,43.666248],"type":"Point"}
+  "bbox": [
+    -79.732773,
+    43.666248,
+    -79.732773,
+    43.666248
+],
+  "geometry": {"coordinates":[-79.73277299999999,43.666248],"type":"Point"}
 }

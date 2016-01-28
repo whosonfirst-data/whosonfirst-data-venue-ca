@@ -2,13 +2,14 @@
   "id": 152418597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.306656,43.010193,-81.306656,43.010193",
     "geom:latitude":43.010193,
     "geom:longitude":-81.306656,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12 Yardley Wood Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "electrolysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874929,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0K2k76vV9R7qIdzxMGTpDw_43.010193_-81.306656@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b27b554bb67ddf28246e8a189aa8b467",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874929,
+            "region_id":85682057,
+            "venue_id":152418597
+        }
+    ],
     "wof:id":152418597,
-    "wof:lastmodified":1449047920,
+    "wof:lastmodified":1453935594,
     "wof:name":"Body Focus",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.306656,43.010193,-81.306656,43.010193],
+  "bbox": [
+    -81.306656,
+    43.010193,
+    -81.306656,
+    43.010193
+],
   "geometry": {"coordinates":[-81.306656,43.010193],"type":"Point"}
 }

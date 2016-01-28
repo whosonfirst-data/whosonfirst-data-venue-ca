@@ -2,13 +2,14 @@
   "id": 202980341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.6008,45.521751,-73.6008,45.521751",
     "geom:latitude":45.521751,
     "geom:longitude":-73.6008,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5427 Av Du Parc",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784831,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"c6173c1f16fc79bb137f3f36d1fab639",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202980341
         }
     ],
     "wof:id":202980341,
-    "wof:lastmodified":1449060283,
+    "wof:lastmodified":1453937010,
     "wof:name":"Mile End Dental Clinic",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.6008,45.521751,-73.6008,45.521751],
-  "geometry": {"coordinates":[-73.6008,45.521751],"type":"Point"}
+  "bbox": [
+    -73.6008,
+    45.521751,
+    -73.6008,
+    45.521751
+],
+  "geometry": {"coordinates":[-73.60080000000001,45.521751],"type":"Point"}
 }

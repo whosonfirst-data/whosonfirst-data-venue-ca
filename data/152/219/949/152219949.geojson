@@ -2,13 +2,14 @@
   "id": 152219949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.295303,43.050915,-81.295303,43.050915",
     "geom:latitude":43.050915,
     "geom:longitude":-81.295303,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"21581 Richmond St N",
     "sg:city":"Arva",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874929,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_099Ci2g3E6QdsRXFrAmRwX_43.050915_-81.295303@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"44eeda623d084a4fa7ed5daaf2fae3f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874929,
+            "region_id":85682057,
+            "venue_id":152219949
+        }
+    ],
     "wof:id":152219949,
-    "wof:lastmodified":1449048727,
+    "wof:lastmodified":1453936197,
     "wof:name":"Kid Cents Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.295303,43.050915,-81.295303,43.050915],
+  "bbox": [
+    -81.295303,
+    43.050915,
+    -81.295303,
+    43.050915
+],
   "geometry": {"coordinates":[-81.295303,43.050915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152771799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656075,45.563705,-73.656075,45.563705",
     "geom:latitude":45.563705,
     "geom:longitude":-73.656075,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1585 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"226a3fc674a7075c5c3a5774d2ec258e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":152771799
         }
     ],
     "wof:id":152771799,
-    "wof:lastmodified":1449046815,
+    "wof:lastmodified":1453934725,
     "wof:name":"Rivet, Caroline",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.656075,45.563705,-73.656075,45.563705],
+  "bbox": [
+    -73.656075,
+    45.563705,
+    -73.656075,
+    45.563705
+],
   "geometry": {"coordinates":[-73.656075,45.563705],"type":"Point"}
 }

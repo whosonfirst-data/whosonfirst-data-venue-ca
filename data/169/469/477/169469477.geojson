@@ -2,13 +2,14 @@
   "id": 169469477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.935394,43.881237,-78.935394,43.881237",
     "geom:latitude":43.881237,
     "geom:longitude":-78.935394,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"519 Dundas St E",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875155,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d63157d97bbfa0df165ee8167d56a5ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875155,
+            "region_id":85682057,
+            "venue_id":169469477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875155,
             "region_id":85682057,
             "venue_id":169469477
         }
     ],
     "wof:id":169469477,
-    "wof:lastmodified":1449036048,
+    "wof:lastmodified":1453932287,
     "wof:name":"Kershner, Jodi G",
     "wof:parent_id":85875155,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.935394,43.881237,-78.935394,43.881237],
+  "bbox": [
+    -78.935394,
+    43.881237,
+    -78.935394,
+    43.881237
+],
   "geometry": {"coordinates":[-78.935394,43.881237],"type":"Point"}
 }

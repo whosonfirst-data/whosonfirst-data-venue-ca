@@ -2,13 +2,14 @@
   "id": 186422021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.536461,45.571964,-73.536461,45.571964",
     "geom:latitude":45.571964,
     "geom:longitude":-73.536461,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5876 Rue Hochelaga",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874169,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"dffa2f7b386f27e14646a8e6a0c0036e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186422021
         }
     ],
     "wof:id":186422021,
-    "wof:lastmodified":1449050445,
+    "wof:lastmodified":1453936515,
     "wof:name":"Nettoyeur Ndv",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.536461,45.571964,-73.536461,45.571964],
+  "bbox": [
+    -73.536461,
+    45.571964,
+    -73.536461,
+    45.571964
+],
   "geometry": {"coordinates":[-73.536461,45.571964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153059773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.377945,43.929764,-79.377945,43.929764",
     "geom:latitude":43.929764,
     "geom:longitude":-79.377945,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11723 Woodbine Ave",
     "sg:city":"Gormley",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895573,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"21776103d16239eb56b29fd110571ac9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895573,
+            "region_id":85682057,
+            "venue_id":153059773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895573,
             "region_id":85682057,
             "venue_id":153059773
         }
     ],
     "wof:id":153059773,
-    "wof:lastmodified":1449040461,
+    "wof:lastmodified":1453932411,
     "wof:name":"L J Kennels Reg",
     "wof:parent_id":85895573,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.377945,43.929764,-79.377945,43.929764],
+  "bbox": [
+    -79.377945,
+    43.929764,
+    -79.377945,
+    43.929764
+],
   "geometry": {"coordinates":[-79.377945,43.929764],"type":"Point"}
 }

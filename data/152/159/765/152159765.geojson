@@ -2,13 +2,14 @@
   "id": 152159765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567825,45.37495,-73.567825,45.37495",
     "geom:latitude":45.37495,
     "geom:longitude":-73.567825,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"91d340b9e4a39257e104c093ebef788e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":152159765
         }
     ],
     "wof:id":152159765,
-    "wof:lastmodified":1449044863,
+    "wof:lastmodified":1453933259,
     "wof:name":"Gelinas, Lucie MD",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.567825,45.37495,-73.567825,45.37495],
+  "bbox": [
+    -73.567825,
+    45.37495,
+    -73.567825,
+    45.37495
+],
   "geometry": {"coordinates":[-73.567825,45.37495],"type":"Point"}
 }

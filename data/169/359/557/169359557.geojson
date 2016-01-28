@@ -2,13 +2,14 @@
   "id": 169359557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.492004,43.828224,-79.492004,43.828224",
     "geom:latitude":43.828224,
     "geom:longitude":-79.492004,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Concord",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895607,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"947a5aa5cafdd1e09bf23a87a51ebc39",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895607,
+            "region_id":85682057,
+            "venue_id":169359557
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895607,
             "region_id":85682057,
             "venue_id":169359557
         }
     ],
     "wof:id":169359557,
-    "wof:lastmodified":1449032632,
+    "wof:lastmodified":1453928747,
     "wof:name":"Rose Enterprises Inc",
     "wof:parent_id":85895607,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.492004,43.828224,-79.492004,43.828224],
-  "geometry": {"coordinates":[-79.492004,43.828224],"type":"Point"}
+  "bbox": [
+    -79.492004,
+    43.828224,
+    -79.492004,
+    43.828224
+],
+  "geometry": {"coordinates":[-79.49200399999999,43.828224],"type":"Point"}
 }

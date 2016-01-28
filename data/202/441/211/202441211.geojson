@@ -2,13 +2,14 @@
   "id": 202441211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.015656,43.844479,-79.015656,43.844479",
     "geom:latitude":43.844479,
     "geom:longitude":-79.015656,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"41 Bayly St E",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895635,
+        102191575,
         85633041,
-        85682057
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"ea93bbdbf7232f6beefb00a0916e0d2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":202441211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":202441211
         }
     ],
     "wof:id":202441211,
-    "wof:lastmodified":1449060304,
+    "wof:lastmodified":1453937014,
     "wof:name":"St Bernadette School",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.015656,43.844479,-79.015656,43.844479],
-  "geometry": {"coordinates":[-79.015656,43.844479],"type":"Point"}
+  "bbox": [
+    -79.015656,
+    43.844479,
+    -79.015656,
+    43.844479
+],
+  "geometry": {"coordinates":[-79.01565600000001,43.844479],"type":"Point"}
 }

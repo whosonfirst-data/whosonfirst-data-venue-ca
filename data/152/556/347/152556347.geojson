@@ -2,13 +2,14 @@
   "id": 152556347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.451065,45.630672,-73.451065,45.630672",
     "geom:latitude":45.630672,
     "geom:longitude":-73.451065,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"915 Rue Charles-Roy",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875733,
+        102191575,
         85633041,
-        85875733
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"1fbca2ffe9495dc7abc0aae7d788f33d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875733,
+            "region_id":136251273,
             "venue_id":152556347
         }
     ],
     "wof:id":152556347,
-    "wof:lastmodified":1449045437,
+    "wof:lastmodified":1453933701,
     "wof:name":"A Aaron",
     "wof:parent_id":85875733,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.451065,45.630672,-73.451065,45.630672],
+  "bbox": [
+    -73.451065,
+    45.630672,
+    -73.451065,
+    45.630672
+],
   "geometry": {"coordinates":[-73.451065,45.630672],"type":"Point"}
 }

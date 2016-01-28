@@ -2,13 +2,14 @@
   "id": 169079151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.661026,43.626099,-79.661026,43.626099",
     "geom:latitude":43.626099,
     "geom:longitude":-79.661026,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5591 Mcadam Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c3ad456a5d74fa1a2fb493cc1f2b20f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":169079151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":169079151
         }
     ],
     "wof:id":169079151,
-    "wof:lastmodified":1449035412,
+    "wof:lastmodified":1453931618,
     "wof:name":"Basic Packaging Ind Inc",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.661026,43.626099,-79.661026,43.626099],
-  "geometry": {"coordinates":[-79.661026,43.626099],"type":"Point"}
+  "bbox": [
+    -79.661026,
+    43.626099,
+    -79.661026,
+    43.626099
+],
+  "geometry": {"coordinates":[-79.66102600000001,43.626099],"type":"Point"}
 }

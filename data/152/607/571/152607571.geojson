@@ -2,13 +2,14 @@
   "id": 152607571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.434647,43.44836,-80.434647,43.44836",
     "geom:latitude":43.44836,
     "geom:longitude":-80.434647,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"31 Edenbridge Dr",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875013,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"8baadb49ab6a641e816cc76ba3046e16",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875013,
+            "region_id":85682057,
+            "venue_id":152607571
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736239,
             "neighbourhood_id":85875013,
             "region_id":85682057,
             "venue_id":152607571
         }
     ],
     "wof:id":152607571,
-    "wof:lastmodified":1449044915,
+    "wof:lastmodified":1453933304,
     "wof:name":"E & T Plumbing & Heating",
     "wof:parent_id":85875013,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.434647,43.44836,-80.434647,43.44836],
+  "bbox": [
+    -80.434647,
+    43.44836,
+    -80.434647,
+    43.44836
+],
   "geometry": {"coordinates":[-80.434647,43.44836],"type":"Point"}
 }

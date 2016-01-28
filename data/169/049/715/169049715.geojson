@@ -2,13 +2,14 @@
   "id": 169049715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.869026,43.877316,-78.869026,43.877316",
     "geom:latitude":43.877316,
     "geom:longitude":-78.869026,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"355 Bloor St W",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875155,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d3a28814d88f6df98a1d6dfe558a721f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875155,
+            "region_id":85682057,
+            "venue_id":169049715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875155,
             "region_id":85682057,
             "venue_id":169049715
         }
     ],
     "wof:id":169049715,
-    "wof:lastmodified":1449034323,
+    "wof:lastmodified":1453930494,
     "wof:name":"Minuteman Press",
     "wof:parent_id":85875155,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.869026,43.877316,-78.869026,43.877316],
-  "geometry": {"coordinates":[-78.869026,43.877316],"type":"Point"}
+  "bbox": [
+    -78.869026,
+    43.877316,
+    -78.869026,
+    43.877316
+],
+  "geometry": {"coordinates":[-78.86902600000001,43.877316],"type":"Point"}
 }

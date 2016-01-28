@@ -2,13 +2,14 @@
   "id": 152699773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.883537,43.512566,-79.883537,43.512566",
     "geom:latitude":43.512566,
     "geom:longitude":-79.883537,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"194 Main St E",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895267,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"e0f499f2f1eb9a160f6345c495d79844",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895267,
+            "region_id":85682057,
+            "venue_id":152699773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895267,
             "region_id":85682057,
             "venue_id":152699773
         }
     ],
     "wof:id":152699773,
-    "wof:lastmodified":1449044935,
+    "wof:lastmodified":1453933322,
     "wof:name":"Pinebrook Landscape & Design",
     "wof:parent_id":85895267,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.883537,43.512566,-79.883537,43.512566],
+  "bbox": [
+    -79.883537,
+    43.512566,
+    -79.883537,
+    43.512566
+],
   "geometry": {"coordinates":[-79.883537,43.512566],"type":"Point"}
 }

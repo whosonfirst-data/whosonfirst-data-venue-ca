@@ -2,13 +2,14 @@
   "id": 152319283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.162163,46.877388,-71.162163,46.877388",
     "geom:latitude":46.877388,
     "geom:longitude":-71.162163,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2135 Rue DE LA Terrasse-Cadieu",
     "sg:city":"Beauport",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736835,
+        85866513,
+        102191575,
         85633041,
-        85866513
+        101736835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"8423a769ff716198386cea86bcdb6b2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736835,
             "neighbourhood_id":85866513,
+            "region_id":136251273,
             "venue_id":152319283
         }
     ],
     "wof:id":152319283,
-    "wof:lastmodified":1449046194,
+    "wof:lastmodified":1453934269,
     "wof:name":"Centre St-Augustin",
     "wof:parent_id":85866513,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.162163,46.877388,-71.162163,46.877388],
-  "geometry": {"coordinates":[-71.162163,46.877388],"type":"Point"}
+  "bbox": [
+    -71.162163,
+    46.877388,
+    -71.162163,
+    46.877388
+],
+  "geometry": {"coordinates":[-71.16216300000001,46.877388],"type":"Point"}
 }

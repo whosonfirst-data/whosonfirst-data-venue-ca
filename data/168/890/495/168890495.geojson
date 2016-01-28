@@ -2,13 +2,14 @@
   "id": 168890495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.30143,46.772781,-71.30143,46.772781",
     "geom:latitude":46.772781,
     "geom:longitude":-71.30143,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3001 Ch Des Quatre-Bourgeois",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f07f1e1d98a4d5b13ae13cd740e92ce8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":168890495
         }
     ],
     "wof:id":168890495,
-    "wof:lastmodified":1449027946,
+    "wof:lastmodified":1453927983,
     "wof:name":"Quebec Express Enr",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.30143,46.772781,-71.30143,46.772781],
+  "bbox": [
+    -71.30143,
+    46.772781,
+    -71.30143,
+    46.772781
+],
   "geometry": {"coordinates":[-71.30143,46.772781],"type":"Point"}
 }

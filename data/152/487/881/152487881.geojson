@@ -2,13 +2,14 @@
   "id": 152487881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.491386,43.40453,-80.491386,43.40453",
     "geom:latitude":43.40453,
     "geom:longitude":-80.491386,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"209 Erinbrook Dr",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875005,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"ffb74232616af44a2ae4b35cb869f1c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875005,
+            "region_id":85682057,
+            "venue_id":152487881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875005,
             "region_id":85682057,
             "venue_id":152487881
         }
     ],
     "wof:id":152487881,
-    "wof:lastmodified":1449045816,
+    "wof:lastmodified":1453933986,
     "wof:name":"Ceramic Shop",
     "wof:parent_id":85875005,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.491386,43.40453,-80.491386,43.40453],
-  "geometry": {"coordinates":[-80.491386,43.40453],"type":"Point"}
+  "bbox": [
+    -80.491386,
+    43.40453,
+    -80.491386,
+    43.40453
+],
+  "geometry": {"coordinates":[-80.49138600000001,43.40453],"type":"Point"}
 }

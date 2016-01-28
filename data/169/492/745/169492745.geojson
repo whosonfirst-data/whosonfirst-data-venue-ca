@@ -2,13 +2,14 @@
   "id": 169492745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.446037,43.802647,-79.446037,43.802647",
     "geom:latitude":43.802647,
     "geom:longitude":-79.446037,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"36 Jenstar Way",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895341,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"768c9f49317345708998a480a5582b1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895341,
+            "region_id":85682057,
+            "venue_id":169492745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895341,
             "region_id":85682057,
             "venue_id":169492745
         }
     ],
     "wof:id":169492745,
-    "wof:lastmodified":1449032686,
+    "wof:lastmodified":1453928798,
     "wof:name":"Sinai Security Systems Ltd",
     "wof:parent_id":85895341,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.446037,43.802647,-79.446037,43.802647],
+  "bbox": [
+    -79.446037,
+    43.802647,
+    -79.446037,
+    43.802647
+],
   "geometry": {"coordinates":[-79.446037,43.802647],"type":"Point"}
 }

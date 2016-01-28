@@ -2,13 +2,14 @@
   "id": 152615249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.907684,45.37674,-71.907684,45.37674",
     "geom:latitude":45.37674,
     "geom:longitude":-71.907684,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1054 Rue Thibault",
     "sg:city":"Ascot",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874185,
+        102191575,
         85633041,
-        85874185
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"68611142b5464778e87aee704158bbd7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874185,
+            "region_id":136251273,
             "venue_id":152615249
         }
     ],
     "wof:id":152615249,
-    "wof:lastmodified":1449045760,
+    "wof:lastmodified":1453933945,
     "wof:name":"Robert Lessard Inc",
     "wof:parent_id":85874185,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.907684,45.37674,-71.907684,45.37674],
+  "bbox": [
+    -71.907684,
+    45.37674,
+    -71.907684,
+    45.37674
+],
   "geometry": {"coordinates":[-71.907684,45.37674],"type":"Point"}
 }

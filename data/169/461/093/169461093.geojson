@@ -2,13 +2,14 @@
   "id": 169461093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.269768,43.964264,-79.269768,43.964264",
     "geom:latitude":43.964264,
     "geom:longitude":-79.269768,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"118 Sandiford Dr",
     "sg:city":"Stouffville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895527,
         102191575,
         85633041,
-        85895527
+        101736037,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736037,
             "neighbourhood_id":85895527,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169461093
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895527,
+            "region_id":85682057,
             "venue_id":169461093
         }
     ],
     "wof:id":169461093,
-    "wof:lastmodified":1449033933,
+    "wof:lastmodified":1453930091,
     "wof:name":"Artform International Inc",
     "wof:parent_id":85895527,
     "wof:placetype":"venue",
@@ -58,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.269768,43.964264,-79.269768,43.964264],
+  "bbox": [
+    -79.269768,
+    43.964264,
+    -79.269768,
+    43.964264
+],
   "geometry": {"coordinates":[-79.269768,43.964264],"type":"Point"}
 }

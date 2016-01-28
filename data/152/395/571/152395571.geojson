@@ -2,13 +2,14 @@
   "id": 152395571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.918678,45.40741,-71.918678,45.40741",
     "geom:latitude":45.40741,
     "geom:longitude":-71.918678,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"581 Boul Jacques-Cartier N",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ba8841efd202c40ad2610cba7559168d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":152395571
         }
     ],
     "wof:id":152395571,
-    "wof:lastmodified":1449048241,
+    "wof:lastmodified":1453935824,
     "wof:name":"Idea Communications Inc",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.918678,45.40741,-71.918678,45.40741],
+  "bbox": [
+    -71.918678,
+    45.40741,
+    -71.918678,
+    45.40741
+],
   "geometry": {"coordinates":[-71.918678,45.40741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152975715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.721977,43.744743,-79.721977,43.744743",
     "geom:latitude":43.744743,
     "geom:longitude":-79.721977,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"54 Jill Cres",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"bb3629b2c0f7280178d2e4899fe16dee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152975715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152975715
         }
     ],
     "wof:id":152975715,
-    "wof:lastmodified":1449048279,
+    "wof:lastmodified":1453935850,
     "wof:name":"Graphic Traffic Advertising",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.721977,43.744743,-79.721977,43.744743],
+  "bbox": [
+    -79.721977,
+    43.744743,
+    -79.721977,
+    43.744743
+],
   "geometry": {"coordinates":[-79.721977,43.744743],"type":"Point"}
 }

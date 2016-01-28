@@ -2,13 +2,14 @@
   "id": 169463431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.510345,45.500813,-73.510345,45.500813",
     "geom:latitude":45.500813,
     "geom:longitude":-73.510345,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"567 Av Victoria # 200",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b1f17b98f35af9bda0c7bedabacb8809",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":169463431
         }
     ],
     "wof:id":169463431,
-    "wof:lastmodified":1449034982,
+    "wof:lastmodified":1453931200,
     "wof:name":"Psychoclinique Pruneau",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.510345,45.500813,-73.510345,45.500813],
+  "bbox": [
+    -73.510345,
+    45.500813,
+    -73.510345,
+    45.500813
+],
   "geometry": {"coordinates":[-73.510345,45.500813],"type":"Point"}
 }

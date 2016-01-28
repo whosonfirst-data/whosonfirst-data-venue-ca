@@ -2,13 +2,14 @@
   "id": 169318927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.555344,46.331436,-72.555344,46.331436",
     "geom:latitude":46.331436,
     "geom:longitude":-72.555344,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
         {
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874115,
+        102191575,
         85633041,
-        85874115
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"90e853ea9ca61bf4e8650c23dd83016c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874115,
+            "region_id":136251273,
             "venue_id":169318927
         }
     ],
     "wof:id":169318927,
-    "wof:lastmodified":1449033415,
+    "wof:lastmodified":1453929516,
     "wof:name":"Bar Le Rendez Vous",
     "wof:parent_id":85874115,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.555344,46.331436,-72.555344,46.331436],
-  "geometry": {"coordinates":[-72.555344,46.331436],"type":"Point"}
+  "bbox": [
+    -72.555344,
+    46.331436,
+    -72.555344,
+    46.331436
+],
+  "geometry": {"coordinates":[-72.55534400000001,46.331436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152288755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.140129,49.324539,-123.140129,49.324539",
     "geom:latitude":49.324539,
     "geom:longitude":-123.140129,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2003 Park Royal S",
     "sg:city":"West Vancouver",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865021,
-        85682117
+        102191575,
+        85633041,
+        101741069,
+        85682117,
+        101744669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"374cca12634650d76dab4e8c86158e14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":152288755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":152288755
         }
     ],
     "wof:id":152288755,
-    "wof:lastmodified":1449044793,
+    "wof:lastmodified":1453933205,
     "wof:name":"Gator Pit",
     "wof:parent_id":85865021,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.140129,49.324539,-123.140129,49.324539],
+  "bbox": [
+    -123.140129,
+    49.324539,
+    -123.140129,
+    49.324539
+],
   "geometry": {"coordinates":[-123.140129,49.324539],"type":"Point"}
 }

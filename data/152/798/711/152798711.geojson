@@ -2,13 +2,14 @@
   "id": 152798711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.242577,43.16214,-79.242577,43.16214",
     "geom:latitude":43.16214,
     "geom:longitude":-79.242577,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"39 Court St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"358c522713e50677a038dfce2b1ea446",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":152798711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":152798711
         }
     ],
     "wof:id":152798711,
-    "wof:lastmodified":1449045164,
+    "wof:lastmodified":1453933488,
     "wof:name":"A Patrick Darte Funeral Chapel",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.242577,43.16214,-79.242577,43.16214],
+  "bbox": [
+    -79.242577,
+    43.16214,
+    -79.242577,
+    43.16214
+],
   "geometry": {"coordinates":[-79.242577,43.16214],"type":"Point"}
 }

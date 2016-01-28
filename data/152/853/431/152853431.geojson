@@ -2,13 +2,14 @@
   "id": 152853431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.023819,45.37698,-74.023819,45.37698",
     "geom:latitude":45.37698,
     "geom:longitude":-74.023819,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"600 Boul Harwood",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895767,
+        102191575,
         85633041,
-        85895767
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"53d4aac5b2fcb833cae43e3b44cf6beb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895767,
+            "region_id":136251273,
             "venue_id":152853431
         }
     ],
     "wof:id":152853431,
-    "wof:lastmodified":1449046171,
+    "wof:lastmodified":1453934249,
     "wof:name":"Rivest, Roger",
     "wof:parent_id":85895767,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.023819,45.37698,-74.023819,45.37698],
+  "bbox": [
+    -74.023819,
+    45.37698,
+    -74.023819,
+    45.37698
+],
   "geometry": {"coordinates":[-74.023819,45.37698],"type":"Point"}
 }

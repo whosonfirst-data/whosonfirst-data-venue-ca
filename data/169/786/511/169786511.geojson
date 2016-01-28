@@ -2,13 +2,14 @@
   "id": 169786511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.626022,45.542568,-73.626022,45.542568",
     "geom:latitude":45.542568,
     "geom:longitude":-73.626022,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7901 Rue Berri",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874377,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"7bae8046d9c413d7650614c4049f5cd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169786511
         }
     ],
     "wof:id":169786511,
-    "wof:lastmodified":1449033116,
+    "wof:lastmodified":1453929233,
     "wof:name":"Depanneur Est",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.626022,45.542568,-73.626022,45.542568],
-  "geometry": {"coordinates":[-73.626022,45.542568],"type":"Point"}
+  "bbox": [
+    -73.626022,
+    45.542568,
+    -73.626022,
+    45.542568
+],
+  "geometry": {"coordinates":[-73.62602200000001,45.542568],"type":"Point"}
 }

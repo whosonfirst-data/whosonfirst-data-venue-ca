@@ -2,13 +2,14 @@
   "id": 153073841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.648758,43.660503,-79.648758,43.660503",
     "geom:latitude":43.660503,
     "geom:longitude":-79.648758,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1625 Trinity Dr # 21",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c1a276321741ad3cbe797c9c38da6359",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":153073841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":153073841
         }
     ],
     "wof:id":153073841,
-    "wof:lastmodified":1449040386,
+    "wof:lastmodified":1453932346,
     "wof:name":"Kam Manufacturing Inc",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.648758,43.660503,-79.648758,43.660503],
+  "bbox": [
+    -79.648758,
+    43.660503,
+    -79.648758,
+    43.660503
+],
   "geometry": {"coordinates":[-79.648758,43.660503],"type":"Point"}
 }

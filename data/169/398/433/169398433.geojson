@@ -2,13 +2,14 @@
   "id": 169398433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.624046,45.538574,-73.624046,45.538574",
     "geom:latitude":45.538574,
     "geom:longitude":-73.624046,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Rue Villeray",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"edcfa9c2330874f9f38c89b837fd8b6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":169398433
         }
     ],
     "wof:id":169398433,
-    "wof:lastmodified":1449032942,
+    "wof:lastmodified":1453929062,
     "wof:name":"Cafe Charcuterie Villeray",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.624046,45.538574,-73.624046,45.538574],
-  "geometry": {"coordinates":[-73.624046,45.538574],"type":"Point"}
+  "bbox": [
+    -73.624046,
+    45.538574,
+    -73.624046,
+    45.538574
+],
+  "geometry": {"coordinates":[-73.62404600000001,45.538574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169286883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.890785,45.398777,-71.890785,45.398777",
     "geom:latitude":45.398777,
     "geom:longitude":-71.890785,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"126 Rue Brooks",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874135,
+        102191575,
         85633041,
-        85874135
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"f0191f31450d7cb98f2a11bb4f697bcf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874135,
+            "region_id":136251273,
             "venue_id":169286883
         }
     ],
     "wof:id":169286883,
-    "wof:lastmodified":1449033557,
+    "wof:lastmodified":1453929667,
     "wof:name":"Groupe DE Ressources Tech Inc",
     "wof:parent_id":85874135,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.890785,45.398777,-71.890785,45.398777],
-  "geometry": {"coordinates":[-71.890785,45.398777],"type":"Point"}
+  "bbox": [
+    -71.890785,
+    45.398777,
+    -71.890785,
+    45.398777
+],
+  "geometry": {"coordinates":[-71.89078499999999,45.398777],"type":"Point"}
 }

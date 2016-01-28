@@ -2,13 +2,14 @@
   "id": 169029957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.071243,48.416065,-71.071243,48.416065",
     "geom:latitude":48.416065,
     "geom:longitude":-71.071243,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"48 Rue Jauffret",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3ea7e1107dc51a7b582c532c65fde7e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169029957
         }
     ],
     "wof:id":169029957,
-    "wof:lastmodified":1449034068,
+    "wof:lastmodified":1453930258,
     "wof:name":"Entreprises Maurice & Denis",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.071243,48.416065,-71.071243,48.416065],
+  "bbox": [
+    -71.071243,
+    48.416065,
+    -71.071243,
+    48.416065
+],
   "geometry": {"coordinates":[-71.071243,48.416065],"type":"Point"}
 }

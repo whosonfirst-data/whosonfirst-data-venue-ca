@@ -2,13 +2,14 @@
   "id": 169261383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.478783,45.725323,-73.478783,45.725323",
     "geom:latitude":45.725323,
     "geom:longitude":-73.478783,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"93 Rue Lemay",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"a31cbb9fe795009dcbfacfdbdb7c00fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169261383
         }
     ],
     "wof:id":169261383,
-    "wof:lastmodified":1449032736,
+    "wof:lastmodified":1453928850,
     "wof:name":"Centre Electronique Tvs Inc",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.478783,45.725323,-73.478783,45.725323],
-  "geometry": {"coordinates":[-73.478783,45.725323],"type":"Point"}
+  "bbox": [
+    -73.478783,
+    45.725323,
+    -73.478783,
+    45.725323
+],
+  "geometry": {"coordinates":[-73.47878300000001,45.725323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169519301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.590622,43.592983,-79.590622,43.592983",
     "geom:latitude":43.592983,
     "geom:longitude":-79.590622,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2380 Haines Rd # B",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"0ba25c9ddc2f2bdc75df3a408ddf8a74",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":169519301
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":169519301
         }
     ],
     "wof:id":169519301,
-    "wof:lastmodified":1449035739,
+    "wof:lastmodified":1453932006,
     "wof:name":"Dominion Metal Svc",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.590622,43.592983,-79.590622,43.592983],
+  "bbox": [
+    -79.590622,
+    43.592983,
+    -79.590622,
+    43.592983
+],
   "geometry": {"coordinates":[-79.590622,43.592983],"type":"Point"}
 }

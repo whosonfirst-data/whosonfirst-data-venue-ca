@@ -2,13 +2,14 @@
   "id": 169209215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.53817,46.372589,-72.53817,46.372589",
     "geom:latitude":46.372589,
     "geom:longitude":-72.53817,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"54 Rue Saint-Emile",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874111,
+        102191575,
         85633041,
-        85874111
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5545453f8e1aaff1533905cc51a12a08",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874111,
+            "region_id":136251273,
             "venue_id":169209215
         }
     ],
     "wof:id":169209215,
-    "wof:lastmodified":1449035605,
+    "wof:lastmodified":1453931848,
     "wof:name":"Vallee Automobiles",
     "wof:parent_id":85874111,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.53817,46.372589,-72.53817,46.372589],
-  "geometry": {"coordinates":[-72.53817,46.372589],"type":"Point"}
+  "bbox": [
+    -72.53817,
+    46.372589,
+    -72.53817,
+    46.372589
+],
+  "geometry": {"coordinates":[-72.53816999999999,46.372589],"type":"Point"}
 }

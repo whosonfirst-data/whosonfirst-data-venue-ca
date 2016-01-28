@@ -2,13 +2,14 @@
   "id": 169506921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.584373,45.464233,-73.584373,45.464233",
     "geom:latitude":45.464233,
     "geom:longitude":-73.584373,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5446 Rue Angers",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866497,
+        102191575,
         85633041,
-        85866497
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"faa103e3186636641ece97452c767aa1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866497,
+            "region_id":136251273,
             "venue_id":169506921
         }
     ],
     "wof:id":169506921,
-    "wof:lastmodified":1449032758,
+    "wof:lastmodified":1453928873,
     "wof:name":"Ecole Marie-DE-L'Incarnation",
     "wof:parent_id":85866497,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.584373,45.464233,-73.584373,45.464233],
+  "bbox": [
+    -73.584373,
+    45.464233,
+    -73.584373,
+    45.464233
+],
   "geometry": {"coordinates":[-73.584373,45.464233],"type":"Point"}
 }

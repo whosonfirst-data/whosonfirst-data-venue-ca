@@ -2,13 +2,14 @@
   "id": 169226131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.703148,44.389473,-79.703148,44.389473",
     "geom:latitude":44.389473,
     "geom:longitude":-79.703148,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -26,23 +27,43 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gXlW0IdxCkUN6CKRE2ZRt_44.389473_-79.703148@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f7cfec3f684233ceb167ccb1a71f3b5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":169226131
+        }
+    ],
     "wof:id":169226131,
-    "wof:lastmodified":1449035069,
+    "wof:lastmodified":1453931299,
     "wof:name":"Pauk, Tomas MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.703148,44.389473,-79.703148,44.389473],
+  "bbox": [
+    -79.703148,
+    44.389473,
+    -79.703148,
+    44.389473
+],
   "geometry": {"coordinates":[-79.703148,44.389473],"type":"Point"}
 }

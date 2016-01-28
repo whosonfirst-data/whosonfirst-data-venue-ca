@@ -2,13 +2,14 @@
   "id": 169403649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619247,45.597565,-73.619247,45.597565",
     "geom:latitude":45.597565,
     "geom:longitude":-73.619247,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5061 Rue D'Amiens",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784809,
+        102191575,
         85633041,
-        85784809
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"1455a118fe28bff707b7e5083b6e21d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
+            "region_id":136251273,
             "venue_id":169403649
         }
     ],
     "wof:id":169403649,
-    "wof:lastmodified":1449035502,
+    "wof:lastmodified":1453931737,
     "wof:name":"Megastar Electroniques Inc",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.619247,45.597565,-73.619247,45.597565],
+  "bbox": [
+    -73.619247,
+    45.597565,
+    -73.619247,
+    45.597565
+],
   "geometry": {"coordinates":[-73.619247,45.597565],"type":"Point"}
 }

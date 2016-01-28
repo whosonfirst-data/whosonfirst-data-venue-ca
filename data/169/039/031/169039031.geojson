@@ -2,13 +2,14 @@
   "id": 169039031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.67527,45.486794,-73.67527,45.486794",
     "geom:latitude":45.486794,
     "geom:longitude":-73.67527,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6100 Av Royalmount",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85864407,
+        102191575,
         85633041,
-        85864407
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"5cf72b6e5ab9a9016bef189bae1c356d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
             "venue_id":169039031
         }
     ],
     "wof:id":169039031,
-    "wof:lastmodified":1449035541,
+    "wof:lastmodified":1453931782,
     "wof:name":"Canada Institut DE Recherche",
     "wof:parent_id":85864407,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.67527,45.486794,-73.67527,45.486794],
+  "bbox": [
+    -73.67527,
+    45.486794,
+    -73.67527,
+    45.486794
+],
   "geometry": {"coordinates":[-73.67527,45.486794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169188061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688255,44.327408,-79.688255,44.327408",
     "geom:latitude":44.327408,
     "geom:longitude":-79.688255,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"560 Bryne Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4N 9P6",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eo5KHQCWVxBZ0f0iQA4Mi_44.327408_-79.688255@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"59fd2da577c5fb4f50488bc216f899e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":169188061
+        }
+    ],
     "wof:id":169188061,
-    "wof:lastmodified":1449034325,
+    "wof:lastmodified":1453930498,
     "wof:name":"Brain Injury Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688255,44.327408,-79.688255,44.327408],
+  "bbox": [
+    -79.688255,
+    44.327408,
+    -79.688255,
+    44.327408
+],
   "geometry": {"coordinates":[-79.688255,44.327408],"type":"Point"}
 }

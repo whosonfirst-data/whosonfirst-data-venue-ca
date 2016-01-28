@@ -2,13 +2,14 @@
   "id": 152714667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.439087,45.689739,-73.439087,45.689739",
     "geom:latitude":45.689739,
     "geom:longitude":-73.439087,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"340 Rue Sainte-Anne",
     "sg:city":"Varennes",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738581,
+        85895719,
+        102191575,
         85633041,
-        85895719
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9f9911c600e71f88e721de4808b6a666",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
+            "region_id":136251273,
             "venue_id":152714667
         }
     ],
     "wof:id":152714667,
-    "wof:lastmodified":1449046580,
+    "wof:lastmodified":1453934555,
     "wof:name":"Delisle, Marcel DDS",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.439087,45.689739,-73.439087,45.689739],
+  "bbox": [
+    -73.439087,
+    45.689739,
+    -73.439087,
+    45.689739
+],
   "geometry": {"coordinates":[-73.439087,45.689739],"type":"Point"}
 }

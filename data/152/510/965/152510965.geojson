@@ -2,13 +2,14 @@
   "id": 152510965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.546761,45.520508,-73.546761,45.520508",
     "geom:latitude":45.520508,
     "geom:longitude":-73.546761,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2000 Rue Notre-Dame E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"2a246b13a387ff92c008640a001d52b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":152510965
         }
     ],
     "wof:id":152510965,
-    "wof:lastmodified":1449047079,
+    "wof:lastmodified":1453934939,
     "wof:name":"Productions Double Effet Inc",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.546761,45.520508,-73.546761,45.520508],
+  "bbox": [
+    -73.546761,
+    45.520508,
+    -73.546761,
+    45.520508
+],
   "geometry": {"coordinates":[-73.546761,45.520508],"type":"Point"}
 }

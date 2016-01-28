@@ -2,13 +2,14 @@
   "id": 152262001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.899422,43.904613,-78.899422,43.904613",
     "geom:latitude":43.904613,
     "geom:longitude":-78.899422,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"512 Thornton Rd N",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875157,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"9c442ec2bab33bfaf9fb38f09d4c67b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875157,
+            "region_id":85682057,
+            "venue_id":152262001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875157,
             "region_id":85682057,
             "venue_id":152262001
         }
     ],
     "wof:id":152262001,
-    "wof:lastmodified":1449047158,
+    "wof:lastmodified":1453935002,
     "wof:name":"Stewart Roofing & General Cont",
     "wof:parent_id":85875157,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.899422,43.904613,-78.899422,43.904613],
+  "bbox": [
+    -78.899422,
+    43.904613,
+    -78.899422,
+    43.904613
+],
   "geometry": {"coordinates":[-78.899422,43.904613],"type":"Point"}
 }

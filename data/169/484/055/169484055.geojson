@@ -2,13 +2,14 @@
   "id": 169484055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.527794,46.382496,-72.527794,46.382496",
     "geom:latitude":46.382496,
     "geom:longitude":-72.527794,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"600 Rue Des Erables",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874113,
+        102191575,
         85633041,
-        85874113
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c75735bc184f15c811031f94fa0a9b30",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874113,
+            "region_id":136251273,
             "venue_id":169484055
         }
     ],
     "wof:id":169484055,
-    "wof:lastmodified":1449035768,
+    "wof:lastmodified":1453932032,
     "wof:name":"Cap-DE-LA-Madeleine Station",
     "wof:parent_id":85874113,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.527794,46.382496,-72.527794,46.382496],
+  "bbox": [
+    -72.527794,
+    46.382496,
+    -72.527794,
+    46.382496
+],
   "geometry": {"coordinates":[-72.527794,46.382496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169358575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.478004,45.574421,-73.478004,45.574421",
     "geom:latitude":45.574421,
     "geom:longitude":-73.478004,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"90 Boul Guimond",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875745,
+        102191575,
         85633041,
-        85875745
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"9e177d7c716ad95ef34a42eae36df544",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875745,
+            "region_id":136251273,
             "venue_id":169358575
         }
     ],
     "wof:id":169358575,
-    "wof:lastmodified":1449034059,
+    "wof:lastmodified":1453930248,
     "wof:name":"Pavillon St-Patrick Enr",
     "wof:parent_id":85875745,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.478004,45.574421,-73.478004,45.574421],
+  "bbox": [
+    -73.478004,
+    45.574421,
+    -73.478004,
+    45.574421
+],
   "geometry": {"coordinates":[-73.478004,45.574421],"type":"Point"}
 }

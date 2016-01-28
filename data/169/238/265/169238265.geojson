@@ -2,13 +2,14 @@
   "id": 169238265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.18058,48.420872,-71.18058,48.420872",
     "geom:latitude":48.420872,
     "geom:longitude":-71.18058,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2048 Rue DE Neuville",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ff168907b4874f993dad21602b60ce6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169238265
         }
     ],
     "wof:id":169238265,
-    "wof:lastmodified":1449033927,
+    "wof:lastmodified":1453930081,
     "wof:name":"Residence Funeraire-Saguenay",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.18058,48.420872,-71.18058,48.420872],
-  "geometry": {"coordinates":[-71.18058,48.420872],"type":"Point"}
+  "bbox": [
+    -71.18058,
+    48.420872,
+    -71.18058,
+    48.420872
+],
+  "geometry": {"coordinates":[-71.18058000000001,48.420872],"type":"Point"}
 }

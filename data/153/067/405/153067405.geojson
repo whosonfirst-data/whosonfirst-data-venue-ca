@@ -2,13 +2,14 @@
   "id": 153067405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.010803,51.134357,-114.010803,51.134357",
     "geom:latitude":51.134357,
     "geom:longitude":-114.010803,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2000 Airport Rd NE",
     "sg:city":"Calgary",
     "sg:classifiers":[
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633041,
+        102554947,
+        85874585,
         85682091
     ],
     "wof:breaches":[],
@@ -35,20 +38,27 @@
     "wof:geomhash":"5e91af33859622c19d5f247d53d9243e",
     "wof:hierarchy":[
         {
+            "campus_id":102554947,
             "country_id":85633041,
+            "neighbourhood_id":85874585,
             "region_id":85682091,
             "venue_id":153067405
         }
     ],
     "wof:id":153067405,
-    "wof:lastmodified":1449040365,
+    "wof:lastmodified":1453932321,
     "wof:name":"O'Cha Japanese Foods",
-    "wof:parent_id":-1,
+    "wof:parent_id":102554947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.010803,51.134357,-114.010803,51.134357],
+  "bbox": [
+    -114.010803,
+    51.134357,
+    -114.010803,
+    51.134357
+],
   "geometry": {"coordinates":[-114.010803,51.134357],"type":"Point"}
 }

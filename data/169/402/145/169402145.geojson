@@ -2,13 +2,14 @@
   "id": 169402145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.782578,45.488716,-73.782578,45.488716",
     "geom:latitude":45.488716,
     "geom:longitude":-73.782578,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16 Rue Seville",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85897517,
+        102191575,
         85633041,
-        85897517
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"de7acfe2b3ab426ecdaa63c734fd1085",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85897517,
+            "region_id":136251273,
             "venue_id":169402145
         }
     ],
     "wof:id":169402145,
-    "wof:lastmodified":1449033742,
+    "wof:lastmodified":1453929873,
     "wof:name":"Garderie the Learning Tree",
     "wof:parent_id":85897517,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.782578,45.488716,-73.782578,45.488716],
+  "bbox": [
+    -73.782578,
+    45.488716,
+    -73.782578,
+    45.488716
+],
   "geometry": {"coordinates":[-73.782578,45.488716],"type":"Point"}
 }

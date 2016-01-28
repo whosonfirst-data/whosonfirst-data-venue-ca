@@ -2,13 +2,14 @@
   "id": 169489397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.230217,48.405697,-71.230217,48.405697",
     "geom:latitude":48.405697,
     "geom:longitude":-71.230217,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2405 Rue DE LA Metallurgie",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"129307d85e3a0158fd815c5780f553ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":169489397
         }
     ],
     "wof:id":169489397,
-    "wof:lastmodified":1449034497,
+    "wof:lastmodified":1453930685,
     "wof:name":"Extermination Tremblay-Lemieux",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.230217,48.405697,-71.230217,48.405697],
+  "bbox": [
+    -71.230217,
+    48.405697,
+    -71.230217,
+    48.405697
+],
   "geometry": {"coordinates":[-71.230217,48.405697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152217011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.681534,45.439774,-73.681534,45.439774",
     "geom:latitude":45.439774,
     "geom:longitude":-73.681534,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1925 Rue Saint-Antoine",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784771,
+        102191575,
         85633041,
-        85784771
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"1508d902db7ef25dd0017d67f3fa2b04",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784771,
+            "region_id":136251273,
             "venue_id":152217011
         }
     ],
     "wof:id":152217011,
-    "wof:lastmodified":1449048644,
+    "wof:lastmodified":1453936122,
     "wof:name":"Club DE Patinage Artistique",
     "wof:parent_id":85784771,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.681534,45.439774,-73.681534,45.439774],
+  "bbox": [
+    -73.681534,
+    45.439774,
+    -73.681534,
+    45.439774
+],
   "geometry": {"coordinates":[-73.681534,45.439774],"type":"Point"}
 }

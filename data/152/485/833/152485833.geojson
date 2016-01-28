@@ -2,13 +2,14 @@
   "id": 152485833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.587738,43.549557,-79.587738,43.549557",
     "geom:latitude":43.549557,
     "geom:longitude":-79.587738,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"119 Lakeshore Rd W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895115,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,24 @@
     "wof:geomhash":"17dd69ceaac03c3695c63ab372358531",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":152485833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":152485833
         }
     ],
     "wof:id":152485833,
-    "wof:lastmodified":1449047114,
+    "wof:lastmodified":1453934966,
     "wof:name":"Pilates Body Inc",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -60,6 +73,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.587738,43.549557,-79.587738,43.549557],
+  "bbox": [
+    -79.587738,
+    43.549557,
+    -79.587738,
+    43.549557
+],
   "geometry": {"coordinates":[-79.587738,43.549557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152887537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.789795,43.352074,-79.789795,43.352074",
     "geom:latitude":43.352074,
     "geom:longitude":-79.789795,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3230 Fairview St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895369,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"05bdf27e3c4044bd6b96a88dfa62325f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895369,
+            "region_id":85682057,
+            "venue_id":152887537
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895369,
             "region_id":85682057,
             "venue_id":152887537
         }
     ],
     "wof:id":152887537,
-    "wof:lastmodified":1449048006,
+    "wof:lastmodified":1453935654,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85895369,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.789795,43.352074,-79.789795,43.352074],
+  "bbox": [
+    -79.789795,
+    43.352074,
+    -79.789795,
+    43.352074
+],
   "geometry": {"coordinates":[-79.789795,43.352074],"type":"Point"}
 }

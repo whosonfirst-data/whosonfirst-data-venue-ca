@@ -2,13 +2,14 @@
   "id": 169378555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.367218,46.745399,-71.367218,46.745399",
     "geom:latitude":46.745399,
     "geom:longitude":-71.367218,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1232 Rue DE LA Foret-DE-Vernon",
     "sg:city":"Cap-Rouge",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85784683,
+        102191575,
         85633041,
-        85784683
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"01f1042a532ce9440fbe79515f2e9d0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784683,
+            "region_id":136251273,
             "venue_id":169378555
         }
     ],
     "wof:id":169378555,
-    "wof:lastmodified":1449034919,
+    "wof:lastmodified":1453931145,
     "wof:name":"Bussieres Communications",
     "wof:parent_id":85784683,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.367218,46.745399,-71.367218,46.745399],
-  "geometry": {"coordinates":[-71.367218,46.745399],"type":"Point"}
+  "bbox": [
+    -71.367218,
+    46.745399,
+    -71.367218,
+    46.745399
+],
+  "geometry": {"coordinates":[-71.36721799999999,46.745399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152972831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.393806,43.406116,-80.393806,43.406116",
     "geom:latitude":43.406116,
     "geom:longitude":-80.393806,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4411 King St E",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874997,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"754c1b31caf3eb53306085fa3d906599",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874997,
+            "region_id":85682057,
+            "venue_id":152972831
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736143,
             "neighbourhood_id":85874997,
             "region_id":85682057,
             "venue_id":152972831
         }
     ],
     "wof:id":152972831,
-    "wof:lastmodified":1449046621,
+    "wof:lastmodified":1453934587,
     "wof:name":"Pioneer Pet Clinic",
     "wof:parent_id":85874997,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.393806,43.406116,-80.393806,43.406116],
+  "bbox": [
+    -80.393806,
+    43.406116,
+    -80.393806,
+    43.406116
+],
   "geometry": {"coordinates":[-80.393806,43.406116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152693673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.901505,43.306648,-79.901505,43.306648",
     "geom:latitude":43.306648,
     "geom:longitude":-79.901505,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"784 Old York Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874865,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"bab60f9e97a96440cbc6cb1bcfd11aad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85874865,
+            "region_id":85682057,
+            "venue_id":152693673
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85874865,
             "region_id":85682057,
             "venue_id":152693673
         }
     ],
     "wof:id":152693673,
-    "wof:lastmodified":1449044563,
+    "wof:lastmodified":1453933033,
     "wof:name":"Artistic Landscaping Svc",
     "wof:parent_id":85874865,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.901505,43.306648,-79.901505,43.306648],
+  "bbox": [
+    -79.901505,
+    43.306648,
+    -79.901505,
+    43.306648
+],
   "geometry": {"coordinates":[-79.901505,43.306648],"type":"Point"}
 }

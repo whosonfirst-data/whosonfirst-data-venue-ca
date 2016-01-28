@@ -2,13 +2,14 @@
   "id": 169840625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576691,45.520981,-73.576691,45.520981",
     "geom:latitude":45.520981,
     "geom:longitude":-73.576691,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4088 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866475,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"6e898e8cacd1f244f7732ee344deb5c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169840625
         }
     ],
     "wof:id":169840625,
-    "wof:lastmodified":1449035216,
+    "wof:lastmodified":1453931416,
     "wof:name":"Restaurant Chu Chai",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576691,45.520981,-73.576691,45.520981],
+  "bbox": [
+    -73.576691,
+    45.520981,
+    -73.576691,
+    45.520981
+],
   "geometry": {"coordinates":[-73.576691,45.520981],"type":"Point"}
 }

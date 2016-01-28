@@ -2,13 +2,14 @@
   "id": 152753439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.590096,45.547531,-73.590096,45.547531",
     "geom:latitude":45.547531,
     "geom:longitude":-73.590096,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6323 Av Louis-Hebert",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"3bad797807b5427c2199eb10c5064cdc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152753439
         }
     ],
     "wof:id":152753439,
-    "wof:lastmodified":1449044851,
+    "wof:lastmodified":1453933248,
     "wof:name":"Gymn-Eau Montreal",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.590096,45.547531,-73.590096,45.547531],
+  "bbox": [
+    -73.590096,
+    45.547531,
+    -73.590096,
+    45.547531
+],
   "geometry": {"coordinates":[-73.590096,45.547531],"type":"Point"}
 }

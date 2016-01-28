@@ -2,13 +2,14 @@
   "id": 153044661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.744453,45.570724,-73.744453,45.570724",
     "geom:latitude":45.570724,
     "geom:longitude":-73.744453,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2225 Aut Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897571,
+        102191575,
         85633041,
-        85897571
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"7639654b300d766cabe40d654de27ca4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897571,
+            "region_id":136251273,
             "venue_id":153044661
         }
     ],
     "wof:id":153044661,
-    "wof:lastmodified":1449040594,
+    "wof:lastmodified":1453932529,
     "wof:name":"Hilton Montreal Laval",
     "wof:parent_id":85897571,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.744453,45.570724,-73.744453,45.570724],
-  "geometry": {"coordinates":[-73.744453,45.570724],"type":"Point"}
+  "bbox": [
+    -73.744453,
+    45.570724,
+    -73.744453,
+    45.570724
+],
+  "geometry": {"coordinates":[-73.74445299999999,45.570724],"type":"Point"}
 }

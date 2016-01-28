@@ -2,13 +2,14 @@
   "id": 169160181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.667122,45.461128,-73.667122,45.461128",
     "geom:latitude":45.461128,
     "geom:longitude":-73.667122,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5650 Av Westminster",
     "sg:city":"Cote Saint-Luc",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85874165,
+        102191575,
         85633041,
-        85874165
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cbe9d756c81c361813e46ce82e64cdc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85874165,
+            "region_id":136251273,
             "venue_id":169160181
         }
     ],
     "wof:id":169160181,
-    "wof:lastmodified":1449035439,
+    "wof:lastmodified":1453931650,
     "wof:name":"Raffi Service Station Regd",
     "wof:parent_id":85874165,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.667122,45.461128,-73.667122,45.461128],
-  "geometry": {"coordinates":[-73.667122,45.461128],"type":"Point"}
+  "bbox": [
+    -73.667122,
+    45.461128,
+    -73.667122,
+    45.461128
+],
+  "geometry": {"coordinates":[-73.66712200000001,45.461128],"type":"Point"}
 }

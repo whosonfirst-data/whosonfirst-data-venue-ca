@@ -2,13 +2,14 @@
   "id": 152643191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.266563,46.776737,-71.266563,46.776737",
     "geom:latitude":46.776737,
     "geom:longitude":-71.266563,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2326 Rue Du Parc-DE Lotbiniere",
     "sg:city":"Sillery",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fee839c475ff44677647fb808a3bb4fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":152643191
         }
     ],
     "wof:id":152643191,
-    "wof:lastmodified":1449048307,
+    "wof:lastmodified":1453935872,
     "wof:name":"Clinique Dentaire Theriault",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.266563,46.776737,-71.266563,46.776737],
+  "bbox": [
+    -71.266563,
+    46.776737,
+    -71.266563,
+    46.776737
+],
   "geometry": {"coordinates":[-71.266563,46.776737],"type":"Point"}
 }

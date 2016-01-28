@@ -2,13 +2,14 @@
   "id": 168968739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.451675,45.61404,-73.451675,45.61404",
     "geom:latitude":45.61404,
     "geom:longitude":-73.451675,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"155 Rue DE Muy",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875751,
+        102191575,
         85633041,
-        85875751
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"4c6960bdc768f8fd9ca571b17cb87148",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875751,
+            "region_id":136251273,
             "venue_id":168968739
         }
     ],
     "wof:id":168968739,
-    "wof:lastmodified":1449027817,
+    "wof:lastmodified":1453927831,
     "wof:name":"Residence L'Oasis Ft St Louis",
     "wof:parent_id":85875751,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.451675,45.61404,-73.451675,45.61404],
-  "geometry": {"coordinates":[-73.451675,45.61404],"type":"Point"}
+  "bbox": [
+    -73.451675,
+    45.61404,
+    -73.451675,
+    45.61404
+],
+  "geometry": {"coordinates":[-73.45167499999999,45.61404],"type":"Point"}
 }

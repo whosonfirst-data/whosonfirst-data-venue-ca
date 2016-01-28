@@ -2,13 +2,14 @@
   "id": 168916987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.683693,43.52103,-79.683693,43.52103",
     "geom:latitude":43.52103,
     "geom:longitude":-79.683693,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3055 Dundas St W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"6e5ea717545e07f4e4385774a5e4bbe8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":168916987
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":168916987
         }
     ],
     "wof:id":168916987,
-    "wof:lastmodified":1449028192,
+    "wof:lastmodified":1453928251,
     "wof:name":"United Family Martial Arts",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.683693,43.52103,-79.683693,43.52103],
-  "geometry": {"coordinates":[-79.683693,43.52103],"type":"Point"}
+  "bbox": [
+    -79.683693,
+    43.52103,
+    -79.683693,
+    43.52103
+],
+  "geometry": {"coordinates":[-79.68369300000001,43.52103],"type":"Point"}
 }

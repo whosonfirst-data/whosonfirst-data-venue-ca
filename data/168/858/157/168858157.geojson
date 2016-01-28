@@ -2,13 +2,14 @@
   "id": 168858157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.551575,45.509705,-73.551575,45.509705",
     "geom:latitude":45.509705,
     "geom:longitude":-73.551575,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"387 Rue Saint-Paul O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"d3238d9e33af4672431545d0dadd6856",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":168858157
         }
     ],
     "wof:id":168858157,
-    "wof:lastmodified":1449027866,
+    "wof:lastmodified":1453927882,
     "wof:name":"Productions LA Fete",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.551575,45.509705,-73.551575,45.509705],
+  "bbox": [
+    -73.551575,
+    45.509705,
+    -73.551575,
+    45.509705
+],
   "geometry": {"coordinates":[-73.551575,45.509705],"type":"Point"}
 }

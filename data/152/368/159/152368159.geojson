@@ -2,13 +2,14 @@
   "id": 152368159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.747086,45.547817,-73.747086,45.547817",
     "geom:latitude":45.547817,
     "geom:longitude":-73.747086,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1160 Boul Pie-X",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875053,
+        102191575,
         85633041,
-        85875053
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"df0761a80f32b177c5d34b7a0cabcc86",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875053,
+            "region_id":136251273,
             "venue_id":152368159
         }
     ],
     "wof:id":152368159,
-    "wof:lastmodified":1449045351,
+    "wof:lastmodified":1453933630,
     "wof:name":"Laval Arena Municipaux",
     "wof:parent_id":85875053,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.747086,45.547817,-73.747086,45.547817],
+  "bbox": [
+    -73.747086,
+    45.547817,
+    -73.747086,
+    45.547817
+],
   "geometry": {"coordinates":[-73.747086,45.547817],"type":"Point"}
 }

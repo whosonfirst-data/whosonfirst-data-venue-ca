@@ -2,13 +2,14 @@
   "id": 152337193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.80275,45.470348,-73.80275,45.470348",
     "geom:latitude":45.470348,
     "geom:longitude":-73.80275,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"93 Boul Hymus",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875789,
+        102191575,
         85633041,
-        85875789
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"98f058e3d1c806885dc4c60e44748e0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875789,
+            "region_id":136251273,
             "venue_id":152337193
         }
     ],
     "wof:id":152337193,
-    "wof:lastmodified":1449046467,
+    "wof:lastmodified":1453934482,
     "wof:name":"Centre DE Readaptation",
     "wof:parent_id":85875789,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.80275,45.470348,-73.80275,45.470348],
+  "bbox": [
+    -73.80275,
+    45.470348,
+    -73.80275,
+    45.470348
+],
   "geometry": {"coordinates":[-73.80275,45.470348],"type":"Point"}
 }

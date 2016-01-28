@@ -2,13 +2,14 @@
   "id": 203294361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.746902,45.585117,-73.746902,45.585117",
     "geom:latitude":45.585117,
     "geom:longitude":-73.746902,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2985 Rue Bergman",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897569,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"7a83818166842b6bc6f152271710cffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897569,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203294361
         }
     ],
     "wof:id":203294361,
-    "wof:lastmodified":1449026318,
+    "wof:lastmodified":1453927656,
     "wof:name":"Tony & Rocco",
     "wof:parent_id":85897569,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "painting"
     ]
 },
-  "bbox": [-73.746902,45.585117,-73.746902,45.585117],
-  "geometry": {"coordinates":[-73.746902,45.585117],"type":"Point"}
+  "bbox": [
+    -73.746902,
+    45.585117,
+    -73.746902,
+    45.585117
+],
+  "geometry": {"coordinates":[-73.74690200000001,45.585117],"type":"Point"}
 }

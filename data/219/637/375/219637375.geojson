@@ -2,13 +2,14 @@
   "id": 219637375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.31337,45.317921,-73.31337,45.317921",
     "geom:latitude":45.317921,
     "geom:longitude":-73.31337,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"139 Rue Fournier",
     "sg:city":"L'Acadie",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785071,
+        102191575,
         85633041,
-        101738721
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"57f3f526bb8b6898d51015c7c790f1a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219637375
         }
     ],
     "wof:id":219637375,
-    "wof:lastmodified":1449070379,
+    "wof:lastmodified":1453937535,
     "wof:name":"Thibodeau, Paul",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "surveyor"
     ]
 },
-  "bbox": [-73.31337,45.317921,-73.31337,45.317921],
-  "geometry": {"coordinates":[-73.31337,45.317921],"type":"Point"}
+  "bbox": [
+    -73.31337,
+    45.317921,
+    -73.31337,
+    45.317921
+],
+  "geometry": {"coordinates":[-73.31337000000001,45.317921],"type":"Point"}
 }

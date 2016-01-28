@@ -2,13 +2,14 @@
   "id": 203194479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.849838,45.543495,-73.849838,45.543495",
     "geom:latitude":45.543495,
     "geom:longitude":-73.849838,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"889 Rang Saint-Antoine",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875055,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"3296add58ac1047a0718303ba0156b67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875055,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203194479
         }
     ],
     "wof:id":203194479,
-    "wof:lastmodified":1449026581,
+    "wof:lastmodified":1453927707,
     "wof:name":"Jacques Lauzon & Fils Senc",
     "wof:parent_id":85875055,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "removal"
     ]
 },
-  "bbox": [-73.849838,45.543495,-73.849838,45.543495],
-  "geometry": {"coordinates":[-73.849838,45.543495],"type":"Point"}
+  "bbox": [
+    -73.849838,
+    45.543495,
+    -73.849838,
+    45.543495
+],
+  "geometry": {"coordinates":[-73.84983800000001,45.543495],"type":"Point"}
 }

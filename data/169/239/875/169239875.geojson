@@ -2,13 +2,14 @@
   "id": 169239875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567215,45.511333,-73.567215,45.511333",
     "geom:latitude":45.511333,
     "geom:longitude":-73.567215,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2012 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"1760c2afdec9fa12dcc636e684b615e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":169239875
         }
     ],
     "wof:id":169239875,
-    "wof:lastmodified":1449032986,
+    "wof:lastmodified":1453929120,
     "wof:name":"Montreal Audio Video",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.567215,45.511333,-73.567215,45.511333],
+  "bbox": [
+    -73.567215,
+    45.511333,
+    -73.567215,
+    45.511333
+],
   "geometry": {"coordinates":[-73.567215,45.511333],"type":"Point"}
 }

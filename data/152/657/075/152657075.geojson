@@ -2,13 +2,14 @@
   "id": 152657075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.837418,43.904106,-78.837418,43.904106",
     "geom:latitude":43.904106,
     "geom:longitude":-78.837418,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oshawa",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875173,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"43c029d0210e7267b4e39fec43d58613",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875173,
+            "region_id":85682057,
+            "venue_id":152657075
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875173,
             "region_id":85682057,
             "venue_id":152657075
         }
     ],
     "wof:id":152657075,
-    "wof:lastmodified":1449044823,
+    "wof:lastmodified":1453933228,
     "wof:name":"Square Boy Pizza",
     "wof:parent_id":85875173,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.837418,43.904106,-78.837418,43.904106],
+  "bbox": [
+    -78.837418,
+    43.904106,
+    -78.837418,
+    43.904106
+],
   "geometry": {"coordinates":[-78.837418,43.904106],"type":"Point"}
 }

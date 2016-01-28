@@ -2,13 +2,14 @@
   "id": 169472273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.204529,42.933781,-81.204529,42.933781",
     "geom:latitude":42.933781,
     "geom:longitude":-81.204529,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"335 Consortium Crt",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874921,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30VKK3pVz0bpABwnC9mx2c_42.933781_-81.204529@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f7ac2265c99bd0cab868a60e603e620d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874921,
+            "region_id":85682057,
+            "venue_id":169472273
+        }
+    ],
     "wof:id":169472273,
-    "wof:lastmodified":1449032936,
+    "wof:lastmodified":1453929058,
     "wof:name":"Gunnebo Security Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874921,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.204529,42.933781,-81.204529,42.933781],
-  "geometry": {"coordinates":[-81.204529,42.933781],"type":"Point"}
+  "bbox": [
+    -81.204529,
+    42.933781,
+    -81.204529,
+    42.933781
+],
+  "geometry": {"coordinates":[-81.20452899999999,42.933781],"type":"Point"}
 }

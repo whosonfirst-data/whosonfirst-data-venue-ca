@@ -2,13 +2,14 @@
   "id": 152597217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.212708,46.814144,-71.212708,46.814144",
     "geom:latitude":46.814144,
     "geom:longitude":-71.212708,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"31 Rue Mcmahon",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864435,
+        102191575,
         85633041,
-        85864435
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"20158c6de8f0d2090e31526b0195c010",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864435,
+            "region_id":136251273,
             "venue_id":152597217
         }
     ],
     "wof:id":152597217,
-    "wof:lastmodified":1449048849,
+    "wof:lastmodified":1453936294,
     "wof:name":"Bain Sauna Hippocampe",
     "wof:parent_id":85864435,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.212708,46.814144,-71.212708,46.814144],
-  "geometry": {"coordinates":[-71.212708,46.814144],"type":"Point"}
+  "bbox": [
+    -71.212708,
+    46.814144,
+    -71.212708,
+    46.814144
+],
+  "geometry": {"coordinates":[-71.21270800000001,46.814144],"type":"Point"}
 }

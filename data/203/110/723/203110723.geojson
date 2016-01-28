@@ -2,13 +2,14 @@
   "id": 203110723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.34491,46.772423,-71.34491,46.772423",
     "geom:latitude":46.772423,
     "geom:longitude":-71.34491,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3700 Boul DE LA Chaudiere",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784683,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"44605d60922457fe039c4812fb370df9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784683,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203110723
         }
     ],
     "wof:id":203110723,
-    "wof:lastmodified":1449025542,
+    "wof:lastmodified":1453927524,
     "wof:name":"Instrumentation Gdd Inc",
     "wof:parent_id":85784683,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "surveying"
     ]
 },
-  "bbox": [-71.34491,46.772423,-71.34491,46.772423],
+  "bbox": [
+    -71.34491,
+    46.772423,
+    -71.34491,
+    46.772423
+],
   "geometry": {"coordinates":[-71.34491,46.772423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169282343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.560913,45.513428,-73.560913,45.513428",
     "geom:latitude":45.513428,
     "geom:longitude":-73.560913,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"365 Rue Sainte-Catherine E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"fb32167df4b187b32507449aaaef784e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":169282343
         }
     ],
     "wof:id":169282343,
-    "wof:lastmodified":1449034749,
+    "wof:lastmodified":1453930967,
     "wof:name":"Tabagie Quam",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.560913,45.513428,-73.560913,45.513428],
+  "bbox": [
+    -73.560913,
+    45.513428,
+    -73.560913,
+    45.513428
+],
   "geometry": {"coordinates":[-73.560913,45.513428],"type":"Point"}
 }

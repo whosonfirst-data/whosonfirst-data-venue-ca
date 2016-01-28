@@ -2,13 +2,14 @@
   "id": 169518091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.576576,43.577312,-79.576576,43.577312",
     "geom:latitude":43.577312,
     "geom:longitude":-79.576576,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1389 Cawthra Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895227,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ce95079f5982e8e8a2ca1b93a5722bda",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895227,
+            "region_id":85682057,
+            "venue_id":169518091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895227,
             "region_id":85682057,
             "venue_id":169518091
         }
     ],
     "wof:id":169518091,
-    "wof:lastmodified":1449034553,
+    "wof:lastmodified":1453930761,
     "wof:name":"Port Credit Lawn Bowling Club",
     "wof:parent_id":85895227,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.576576,43.577312,-79.576576,43.577312],
+  "bbox": [
+    -79.576576,
+    43.577312,
+    -79.576576,
+    43.577312
+],
   "geometry": {"coordinates":[-79.576576,43.577312],"type":"Point"}
 }

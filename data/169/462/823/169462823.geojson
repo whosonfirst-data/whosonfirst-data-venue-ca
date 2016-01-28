@@ -2,13 +2,14 @@
   "id": 169462823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.917412,45.387215,-71.917412,45.387215",
     "geom:latitude":45.387215,
     "geom:longitude":-71.917412,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1254 Rue Jean-Paul-II",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874185,
+        102191575,
         85633041,
-        85874185
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"978e4f79f8d12cb6ef67f99033bc3f63",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874185,
+            "region_id":136251273,
             "venue_id":169462823
         }
     ],
     "wof:id":169462823,
-    "wof:lastmodified":1449035837,
+    "wof:lastmodified":1453932125,
     "wof:name":"Demenagement D Martin",
     "wof:parent_id":85874185,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.917412,45.387215,-71.917412,45.387215],
+  "bbox": [
+    -71.917412,
+    45.387215,
+    -71.917412,
+    45.387215
+],
   "geometry": {"coordinates":[-71.917412,45.387215],"type":"Point"}
 }

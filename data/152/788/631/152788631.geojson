@@ -2,13 +2,14 @@
   "id": 152788631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.049934,43.821915,-79.049934,43.821915",
     "geom:latitude":43.821915,
     "geom:longitude":-79.049934,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"902 Mckay Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895205,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2f6a48d9616830e361cdf34ec89a2426",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895205,
+            "region_id":85682057,
+            "venue_id":152788631
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895205,
             "region_id":85682057,
             "venue_id":152788631
         }
     ],
     "wof:id":152788631,
-    "wof:lastmodified":1449046683,
+    "wof:lastmodified":1453934634,
     "wof:name":"Msb Industries Inc",
     "wof:parent_id":85895205,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.049934,43.821915,-79.049934,43.821915],
-  "geometry": {"coordinates":[-79.049934,43.821915],"type":"Point"}
+  "bbox": [
+    -79.049934,
+    43.821915,
+    -79.049934,
+    43.821915
+],
+  "geometry": {"coordinates":[-79.04993399999999,43.821915],"type":"Point"}
 }

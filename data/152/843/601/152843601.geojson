@@ -2,13 +2,14 @@
   "id": 152843601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.65667,44.401237,-79.65667,44.401237",
     "geom:latitude":44.401237,
     "geom:longitude":-79.65667,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"186 Steel St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875263,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1avRYcoIVEl0i8RwSZeJzf_44.401237_-79.656670@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"809de4014d53a597dde718256b2dfa8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875263,
+            "region_id":85682057,
+            "venue_id":152843601
+        }
+    ],
     "wof:id":152843601,
-    "wof:lastmodified":1449044713,
+    "wof:lastmodified":1453933143,
     "wof:name":"Jensen Financial Consultants",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.65667,44.401237,-79.65667,44.401237],
-  "geometry": {"coordinates":[-79.65667,44.401237],"type":"Point"}
+  "bbox": [
+    -79.65667,
+    44.401237,
+    -79.65667,
+    44.401237
+],
+  "geometry": {"coordinates":[-79.65667000000001,44.401237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152873305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.543213,45.531212,-73.543213,45.531212",
     "geom:latitude":45.531212,
     "geom:longitude":-73.543213,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2664 Rue Notre-Dame O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b6b5a6318403aad64680077a84b1f3cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":152873305
         }
     ],
     "wof:id":152873305,
-    "wof:lastmodified":1449045267,
+    "wof:lastmodified":1453933559,
     "wof:name":"Heritage Harwood",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.543213,45.531212,-73.543213,45.531212],
-  "geometry": {"coordinates":[-73.543213,45.531212],"type":"Point"}
+  "bbox": [
+    -73.543213,
+    45.531212,
+    -73.543213,
+    45.531212
+],
+  "geometry": {"coordinates":[-73.54321299999999,45.531212],"type":"Point"}
 }

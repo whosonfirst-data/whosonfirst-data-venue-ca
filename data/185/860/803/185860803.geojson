@@ -2,13 +2,14 @@
   "id": 185860803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567444,45.502087,-73.567444,45.502087",
     "geom:latitude":45.502087,
     "geom:longitude":-73.567444,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,8 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866493,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,16 @@
     "wof:geomhash":"d864244e2991c410243b7059de06fc5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866493,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185860803
         }
     ],
     "wof:id":185860803,
-    "wof:lastmodified":1449007329,
+    "wof:lastmodified":1453927286,
     "wof:name":"Sulliden Exploration Inc",
     "wof:parent_id":85866493,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
         "company"
     ]
 },
-  "bbox": [-73.567444,45.502087,-73.567444,45.502087],
-  "geometry": {"coordinates":[-73.567444,45.502087],"type":"Point"}
+  "bbox": [
+    -73.567444,
+    45.502087,
+    -73.567444,
+    45.502087
+],
+  "geometry": {"coordinates":[-73.56744399999999,45.502087],"type":"Point"}
 }

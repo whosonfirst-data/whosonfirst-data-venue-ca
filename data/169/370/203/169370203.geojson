@@ -2,13 +2,14 @@
   "id": 169370203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.898399,43.516388,-79.898399,43.516388",
     "geom:latitude":43.516388,
     "geom:longitude":-79.898399,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"389 Bronte St N",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895267,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"cdbed270f73b9a275a5c5fec0c483cbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895267,
+            "region_id":85682057,
+            "venue_id":169370203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895267,
             "region_id":85682057,
             "venue_id":169370203
         }
     ],
     "wof:id":169370203,
-    "wof:lastmodified":1449034494,
+    "wof:lastmodified":1453930677,
     "wof:name":"Charlie Speck Welding Ltd",
     "wof:parent_id":85895267,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.898399,43.516388,-79.898399,43.516388],
+  "bbox": [
+    -79.898399,
+    43.516388,
+    -79.898399,
+    43.516388
+],
   "geometry": {"coordinates":[-79.898399,43.516388],"type":"Point"}
 }

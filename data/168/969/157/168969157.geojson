@@ -2,13 +2,14 @@
   "id": 168969157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.282227,43.025509,-81.282227,43.025509",
     "geom:latitude":43.025509,
     "geom:longitude":-81.282227,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1673 Richmond St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6G 2N3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864487,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Wka7RQ25q1bgyGWFlmW1M_43.025509_-81.282227@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"544218443842018b6823e768f0abdb23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864487,
+            "region_id":85682057,
+            "venue_id":168969157
+        }
+    ],
     "wof:id":168969157,
-    "wof:lastmodified":1449027954,
+    "wof:lastmodified":1453927991,
     "wof:name":"Hair Evolution & Spa Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.282227,43.025509,-81.282227,43.025509],
-  "geometry": {"coordinates":[-81.282227,43.025509],"type":"Point"}
+  "bbox": [
+    -81.282227,
+    43.025509,
+    -81.282227,
+    43.025509
+],
+  "geometry": {"coordinates":[-81.28222700000001,43.025509],"type":"Point"}
 }

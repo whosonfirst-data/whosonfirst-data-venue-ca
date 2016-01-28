@@ -2,13 +2,14 @@
   "id": 169365299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.707321,45.554447,-73.707321,45.554447",
     "geom:latitude":45.554447,
     "geom:longitude":-73.707321,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"184 Av Du Parc",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"36097deb06e2a3aa577a5ad1745b9ce2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":169365299
         }
     ],
     "wof:id":169365299,
-    "wof:lastmodified":1449033225,
+    "wof:lastmodified":1453929322,
     "wof:name":"First Romanian Baptist Church",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.707321,45.554447,-73.707321,45.554447],
-  "geometry": {"coordinates":[-73.707321,45.554447],"type":"Point"}
+  "bbox": [
+    -73.707321,
+    45.554447,
+    -73.707321,
+    45.554447
+],
+  "geometry": {"coordinates":[-73.70732099999999,45.554447],"type":"Point"}
 }

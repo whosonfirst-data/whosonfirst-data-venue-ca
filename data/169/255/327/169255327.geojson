@@ -2,13 +2,14 @@
   "id": 169255327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.689186,44.389385,-79.689186,44.389385",
     "geom:latitude":44.389385,
     "geom:longitude":-79.689186,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"24 Dunlop St E",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4M 1A3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ivmRIeOod5h055PE1hcgW_44.389385_-79.689186@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"a33527b1fd41508729dde08ce70cab6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":169255327
+        }
+    ],
     "wof:id":169255327,
-    "wof:lastmodified":1449034173,
+    "wof:lastmodified":1453930352,
     "wof:name":"Ruanne's Restaurant & Night",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.689186,44.389385,-79.689186,44.389385],
-  "geometry": {"coordinates":[-79.689186,44.389385],"type":"Point"}
+  "bbox": [
+    -79.689186,
+    44.389385,
+    -79.689186,
+    44.389385
+],
+  "geometry": {"coordinates":[-79.68918600000001,44.389385],"type":"Point"}
 }

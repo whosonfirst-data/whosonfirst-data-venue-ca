@@ -2,13 +2,14 @@
   "id": 169275021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.613937,45.578228,-73.613937,45.578228",
     "geom:latitude":45.578228,
     "geom:longitude":-73.613937,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8777 24E Ave",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874359,
+        102191575,
         85633041,
-        85874359
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d0b83d698e27cba061cdfb98b0cd7b97",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
+            "region_id":136251273,
             "venue_id":169275021
         }
     ],
     "wof:id":169275021,
-    "wof:lastmodified":1449033749,
+    "wof:lastmodified":1453929882,
     "wof:name":"St-Noel-Chabanel",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.613937,45.578228,-73.613937,45.578228],
-  "geometry": {"coordinates":[-73.613937,45.578228],"type":"Point"}
+  "bbox": [
+    -73.613937,
+    45.578228,
+    -73.613937,
+    45.578228
+],
+  "geometry": {"coordinates":[-73.61393700000001,45.578228],"type":"Point"}
 }

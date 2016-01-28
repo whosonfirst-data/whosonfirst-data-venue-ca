@@ -2,13 +2,14 @@
   "id": 168835831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.943626,49.150864,-123.943626,49.150864",
     "geom:latitude":49.150864,
     "geom:longitude":-123.943626,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"710 Park Ave",
     "sg:city":"Nanaimo",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741011,
-        85633041,
         85875631,
+        102191575,
+        85633041,
+        101741011,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"c7fa2698df8aa582c5429474338e42fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741011,
             "neighbourhood_id":85875631,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":168835831,
-    "wof:lastmodified":1449027882,
+    "wof:lastmodified":1453927899,
     "wof:name":"Palmer Renovations",
     "wof:parent_id":85875631,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.943626,49.150864,-123.943626,49.150864],
-  "geometry": {"coordinates":[-123.943626,49.150864],"type":"Point"}
+  "bbox": [
+    -123.943626,
+    49.150864,
+    -123.943626,
+    49.150864
+],
+  "geometry": {"coordinates":[-123.94362599999999,49.150864],"type":"Point"}
 }

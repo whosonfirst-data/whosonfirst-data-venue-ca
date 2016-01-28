@@ -2,13 +2,14 @@
   "id": 168847843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.89888,43.650009,-79.89888,43.650009",
     "geom:latitude":43.650009,
     "geom:longitude":-79.89888,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"RR 4 STN Main",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895565,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e783e9975afa7a497832422ed42ad208",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895565,
+            "region_id":85682057,
+            "venue_id":168847843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895565,
             "region_id":85682057,
             "venue_id":168847843
         }
     ],
     "wof:id":168847843,
-    "wof:lastmodified":1449028033,
+    "wof:lastmodified":1453928082,
     "wof:name":"Delrex Aluminum Ltd",
     "wof:parent_id":85895565,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.89888,43.650009,-79.89888,43.650009],
-  "geometry": {"coordinates":[-79.89888,43.650009],"type":"Point"}
+  "bbox": [
+    -79.89888,
+    43.650009,
+    -79.89888,
+    43.650009
+],
+  "geometry": {"coordinates":[-79.89888000000001,43.650009],"type":"Point"}
 }

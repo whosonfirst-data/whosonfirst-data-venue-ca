@@ -2,13 +2,14 @@
   "id": 152157145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.623856,45.479801,-73.623856,45.479801",
     "geom:latitude":45.479801,
     "geom:longitude":-73.623856,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5361 Ch DE LA Cote-Saint-Luc",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85864407,
+        102191575,
         85633041,
-        85864407
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"eeba01ec3cc4c6e063ad6ac8423ad7c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
             "venue_id":152157145
         }
     ],
     "wof:id":152157145,
-    "wof:lastmodified":1449048263,
+    "wof:lastmodified":1453935838,
     "wof:name":"Studio LA Duchesse",
     "wof:parent_id":85864407,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.623856,45.479801,-73.623856,45.479801],
+  "bbox": [
+    -73.623856,
+    45.479801,
+    -73.623856,
+    45.479801
+],
   "geometry": {"coordinates":[-73.623856,45.479801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169865841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.568665,43.577808,-79.568665,43.577808",
     "geom:latitude":43.577808,
     "geom:longitude":-79.568665,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1218 Northmount Ave",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895227,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"4236ed7d5976ff222cf7b815a01af7d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895227,
+            "region_id":85682057,
+            "venue_id":169865841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895227,
             "region_id":85682057,
             "venue_id":169865841
         }
     ],
     "wof:id":169865841,
-    "wof:lastmodified":1449035152,
+    "wof:lastmodified":1453931372,
     "wof:name":"K & B Pavement Marking Svc",
     "wof:parent_id":85895227,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "marking"
     ]
 },
-  "bbox": [-79.568665,43.577808,-79.568665,43.577808],
+  "bbox": [
+    -79.568665,
+    43.577808,
+    -79.568665,
+    43.577808
+],
   "geometry": {"coordinates":[-79.568665,43.577808],"type":"Point"}
 }

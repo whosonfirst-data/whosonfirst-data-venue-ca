@@ -2,13 +2,14 @@
   "id": 202948031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.653481,43.524624,-79.653481,43.524624",
     "geom:latitude":43.524624,
     "geom:longitude":-79.653481,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2133 Bosack Crt",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895331,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"f09730c0a7fe42ef88faa4565442f1c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895331,
+            "region_id":85682057,
+            "venue_id":202948031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895331,
             "region_id":85682057,
             "venue_id":202948031
         }
     ],
     "wof:id":202948031,
-    "wof:lastmodified":1449062139,
+    "wof:lastmodified":1453937399,
     "wof:name":"Instant Drywall Repairs",
     "wof:parent_id":85895331,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.653481,43.524624,-79.653481,43.524624],
+  "bbox": [
+    -79.653481,
+    43.524624,
+    -79.653481,
+    43.524624
+],
   "geometry": {"coordinates":[-79.653481,43.524624],"type":"Point"}
 }

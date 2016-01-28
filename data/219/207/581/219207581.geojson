@@ -2,13 +2,14 @@
   "id": 219207581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.73085,43.681957,-79.73085,43.681957",
     "geom:latitude":43.681957,
     "geom:longitude":-79.73085,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895229,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"00b92b4cb9cd1353738bf53c245fc74e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":219207581
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":219207581
         }
     ],
     "wof:id":219207581,
-    "wof:lastmodified":1449072861,
+    "wof:lastmodified":1453937881,
     "wof:name":"Campbell Veterinary Hospital",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-79.73085,43.681957,-79.73085,43.681957],
+  "bbox": [
+    -79.73085,
+    43.681957,
+    -79.73085,
+    43.681957
+],
   "geometry": {"coordinates":[-79.73085,43.681957],"type":"Point"}
 }

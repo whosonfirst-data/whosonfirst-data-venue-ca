@@ -2,13 +2,14 @@
   "id": 203126073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.734154,45.493092,-73.734154,45.493092",
     "geom:latitude":45.493092,
     "geom:longitude":-73.734154,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4777 Rue Levy",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895749,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"24a82dac7d5dd0cd2cdf3086d0494e96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203126073
         }
     ],
     "wof:id":203126073,
-    "wof:lastmodified":1449025616,
+    "wof:lastmodified":1453927536,
     "wof:name":"Atrion International Inc",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-73.734154,45.493092,-73.734154,45.493092],
+  "bbox": [
+    -73.734154,
+    45.493092,
+    -73.734154,
+    45.493092
+],
   "geometry": {"coordinates":[-73.734154,45.493092],"type":"Point"}
 }

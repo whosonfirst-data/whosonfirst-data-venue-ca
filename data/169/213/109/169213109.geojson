@@ -2,13 +2,14 @@
   "id": 169213109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.482773,45.495499,-73.482773,45.495499",
     "geom:latitude":45.495499,
     "geom:longitude":-73.482773,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3238 Boul Taschereau",
     "sg:city":"Greenfield Park",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85784759,
+        102191575,
         85633041,
-        85784759
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"3ed7679a8b0f54133a62efba4e897248",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85784759,
+            "region_id":136251273,
             "venue_id":169213109
         }
     ],
     "wof:id":169213109,
-    "wof:lastmodified":1449032722,
+    "wof:lastmodified":1453928832,
     "wof:name":"Danis Doucet Audioprothesiste",
     "wof:parent_id":85784759,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.482773,45.495499,-73.482773,45.495499],
-  "geometry": {"coordinates":[-73.482773,45.495499],"type":"Point"}
+  "bbox": [
+    -73.482773,
+    45.495499,
+    -73.482773,
+    45.495499
+],
+  "geometry": {"coordinates":[-73.48277299999999,45.495499],"type":"Point"}
 }

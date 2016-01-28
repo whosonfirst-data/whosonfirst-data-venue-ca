@@ -2,13 +2,14 @@
   "id": 152349523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.662369,45.465588,-73.662369,45.465588",
     "geom:latitude":45.465588,
     "geom:longitude":-73.662369,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5631 Av Jellicoe",
     "sg:city":"Cote Saint-Luc",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85874165,
+        102191575,
         85633041,
-        85874165
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c7d147f27c8aef55bda5928a08973813",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85874165,
+            "region_id":136251273,
             "venue_id":152349523
         }
     ],
     "wof:id":152349523,
-    "wof:lastmodified":1449046055,
+    "wof:lastmodified":1453934159,
     "wof:name":"Barry the Blind Man",
     "wof:parent_id":85874165,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.662369,45.465588,-73.662369,45.465588],
+  "bbox": [
+    -73.662369,
+    45.465588,
+    -73.662369,
+    45.465588
+],
   "geometry": {"coordinates":[-73.662369,45.465588],"type":"Point"}
 }

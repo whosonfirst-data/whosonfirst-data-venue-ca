@@ -2,13 +2,14 @@
   "id": 169388341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.624916,45.493526,-73.624916,45.493526",
     "geom:latitude":45.493526,
     "geom:longitude":-73.624916,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4162 Av Isabella",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871113,
+        102191575,
         85633041,
-        85871113
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"6fe7935887e58a551e3ea8967ba18090",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871113,
+            "region_id":136251273,
             "venue_id":169388341
         }
     ],
     "wof:id":169388341,
-    "wof:lastmodified":1449032815,
+    "wof:lastmodified":1453928950,
     "wof:name":"Montcom Limited",
     "wof:parent_id":85871113,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.624916,45.493526,-73.624916,45.493526],
+  "bbox": [
+    -73.624916,
+    45.493526,
+    -73.624916,
+    45.493526
+],
   "geometry": {"coordinates":[-73.624916,45.493526],"type":"Point"}
 }

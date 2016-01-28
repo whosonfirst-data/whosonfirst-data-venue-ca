@@ -2,13 +2,14 @@
   "id": 152364515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.42704,43.852345,-79.42704,43.852345",
     "geom:latitude":43.852345,
     "geom:longitude":-79.42704,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"26 Colston Crt",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895707,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"17ef1684e88e02a267fbdbbc240e65d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895707,
+            "region_id":85682057,
+            "venue_id":152364515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895707,
             "region_id":85682057,
             "venue_id":152364515
         }
     ],
     "wof:id":152364515,
-    "wof:lastmodified":1449046896,
+    "wof:lastmodified":1453934789,
     "wof:name":"J & L Auto Svc",
     "wof:parent_id":85895707,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.42704,43.852345,-79.42704,43.852345],
-  "geometry": {"coordinates":[-79.42704,43.852345],"type":"Point"}
+  "bbox": [
+    -79.42704,
+    43.852345,
+    -79.42704,
+    43.852345
+],
+  "geometry": {"coordinates":[-79.42704000000001,43.852345],"type":"Point"}
 }

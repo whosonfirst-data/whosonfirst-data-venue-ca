@@ -2,13 +2,14 @@
   "id": 152663461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62793,45.589325,-73.62793,45.589325",
     "geom:latitude":45.589325,
     "geom:longitude":-73.62793,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10371 Av Armand-Lavergne",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"26ec6e25ef7d16ac4046f639304099be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":152663461
         }
     ],
     "wof:id":152663461,
-    "wof:lastmodified":1449047701,
+    "wof:lastmodified":1453935425,
     "wof:name":"Reusinage Precision",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.62793,45.589325,-73.62793,45.589325],
-  "geometry": {"coordinates":[-73.62793,45.589325],"type":"Point"}
+  "bbox": [
+    -73.62793,
+    45.589325,
+    -73.62793,
+    45.589325
+],
+  "geometry": {"coordinates":[-73.62793000000001,45.589325],"type":"Point"}
 }

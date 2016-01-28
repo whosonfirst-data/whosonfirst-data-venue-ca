@@ -2,13 +2,14 @@
   "id": 152595535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.224915,46.831276,-71.224915,46.831276",
     "geom:latitude":46.831276,
     "geom:longitude":-71.224915,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864433,
+        102191575,
         85633041,
-        85864433
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"407a2ad11f95295fb977e108552f6a18",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864433,
+            "region_id":136251273,
             "venue_id":152595535
         }
     ],
     "wof:id":152595535,
-    "wof:lastmodified":1449048468,
+    "wof:lastmodified":1453936002,
     "wof:name":"Toitures Bernier & Fils",
     "wof:parent_id":85864433,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.224915,46.831276,-71.224915,46.831276],
+  "bbox": [
+    -71.224915,
+    46.831276,
+    -71.224915,
+    46.831276
+],
   "geometry": {"coordinates":[-71.224915,46.831276],"type":"Point"}
 }

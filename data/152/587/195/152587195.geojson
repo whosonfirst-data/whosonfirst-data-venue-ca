@@ -2,13 +2,14 @@
   "id": 152587195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.939529,43.880108,-78.939529,43.880108",
     "geom:latitude":43.880108,
     "geom:longitude":-78.939529,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"125 Athol St",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895409,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"fc8823946e90ce1393c4a08cc2b98996",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":152587195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":152587195
         }
     ],
     "wof:id":152587195,
-    "wof:lastmodified":1449045893,
+    "wof:lastmodified":1453934047,
     "wof:name":"Yvonne's Esthetic Boutique",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.939529,43.880108,-78.939529,43.880108],
-  "geometry": {"coordinates":[-78.939529,43.880108],"type":"Point"}
+  "bbox": [
+    -78.939529,
+    43.880108,
+    -78.939529,
+    43.880108
+],
+  "geometry": {"coordinates":[-78.93952899999999,43.880108],"type":"Point"}
 }

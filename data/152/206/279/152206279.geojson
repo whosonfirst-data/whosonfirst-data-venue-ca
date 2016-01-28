@@ -2,13 +2,14 @@
   "id": 152206279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.091461,43.912094,-80.091461,43.912094",
     "geom:latitude":43.912094,
     "geom:longitude":-80.091461,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"90 John St",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895287,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"dce5aa4a6a289efae6248dda7f0f1fbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895287,
+            "region_id":85682057,
+            "venue_id":152206279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895287,
             "region_id":85682057,
             "venue_id":152206279
         }
     ],
     "wof:id":152206279,
-    "wof:lastmodified":1449047439,
+    "wof:lastmodified":1453935204,
     "wof:name":"John's Cycle Shop",
     "wof:parent_id":85895287,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.091461,43.912094,-80.091461,43.912094],
+  "bbox": [
+    -80.091461,
+    43.912094,
+    -80.091461,
+    43.912094
+],
   "geometry": {"coordinates":[-80.091461,43.912094],"type":"Point"}
 }

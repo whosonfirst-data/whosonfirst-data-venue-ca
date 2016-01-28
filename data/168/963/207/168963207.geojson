@@ -2,13 +2,14 @@
   "id": 168963207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.384415,43.843994,-79.384415,43.843994",
     "geom:latitude":43.843994,
     "geom:longitude":-79.384415,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895681,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"94589f15624a38798bcd7f79065d634e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895681,
+            "region_id":85682057,
+            "venue_id":168963207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895681,
             "region_id":85682057,
             "venue_id":168963207
         }
     ],
     "wof:id":168963207,
-    "wof:lastmodified":1449027859,
+    "wof:lastmodified":1453927877,
     "wof:name":"Hung Fook Tong",
     "wof:parent_id":85895681,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.384415,43.843994,-79.384415,43.843994],
+  "bbox": [
+    -79.384415,
+    43.843994,
+    -79.384415,
+    43.843994
+],
   "geometry": {"coordinates":[-79.384415,43.843994],"type":"Point"}
 }

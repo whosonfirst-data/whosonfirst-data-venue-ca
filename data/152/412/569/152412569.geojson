@@ -2,13 +2,14 @@
   "id": 152412569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.191345,43.003532,-81.191345,43.003532",
     "geom:latitude":43.003532,
     "geom:longitude":-81.191345,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"459 Second St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0js2a6yu0O5hU5joNMxYS1_43.003532_-81.191345@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"adb0ce41ec839ef37d257be64f0f67a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":152412569
+        }
+    ],
     "wof:id":152412569,
-    "wof:lastmodified":1449045251,
+    "wof:lastmodified":1453933546,
     "wof:name":"Jehovah's Witnesses",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.191345,43.003532,-81.191345,43.003532],
+  "bbox": [
+    -81.191345,
+    43.003532,
+    -81.191345,
+    43.003532
+],
   "geometry": {"coordinates":[-81.191345,43.003532],"type":"Point"}
 }

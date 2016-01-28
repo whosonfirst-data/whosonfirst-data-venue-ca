@@ -2,13 +2,14 @@
   "id": 168970499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618423,45.512302,-73.618423,45.512302",
     "geom:latitude":45.512302,
     "geom:longitude":-73.618423,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2001 Av Lajoie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784831,
+        102191575,
         85633041,
-        85784831
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3728316fae442549b96cef17acbd853f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
+            "region_id":136251273,
             "venue_id":168970499
         }
     ],
     "wof:id":168970499,
-    "wof:lastmodified":1449028572,
+    "wof:lastmodified":1453928668,
     "wof:name":"St Raphael the Archangel",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.618423,45.512302,-73.618423,45.512302],
-  "geometry": {"coordinates":[-73.618423,45.512302],"type":"Point"}
+  "bbox": [
+    -73.618423,
+    45.512302,
+    -73.618423,
+    45.512302
+],
+  "geometry": {"coordinates":[-73.61842300000001,45.512302],"type":"Point"}
 }

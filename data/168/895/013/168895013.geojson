@@ -2,13 +2,14 @@
   "id": 168895013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.673454,44.335838,-79.673454,44.335838",
     "geom:latitude":44.335838,
     "geom:longitude":-79.673454,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Hooper Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "automation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875279,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RY7eJFfM0aPPoehi2Ne71_44.335838_-79.673454@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"edce888322c8d8a63a1d66bcf294abb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875279,
+            "region_id":85682057,
+            "venue_id":168895013
+        }
+    ],
     "wof:id":168895013,
-    "wof:lastmodified":1449028104,
+    "wof:lastmodified":1453928156,
     "wof:name":"Effective Automation Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.673454,44.335838,-79.673454,44.335838],
-  "geometry": {"coordinates":[-79.673454,44.335838],"type":"Point"}
+  "bbox": [
+    -79.673454,
+    44.335838,
+    -79.673454,
+    44.335838
+],
+  "geometry": {"coordinates":[-79.67345400000001,44.335838],"type":"Point"}
 }

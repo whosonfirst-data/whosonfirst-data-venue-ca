@@ -2,13 +2,14 @@
   "id": 152707475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.698631,43.409279,-79.698631,43.409279",
     "geom:latitude":43.409279,
     "geom:longitude":-79.698631,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"148 Walby Dr",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d5a013f942ea6e3eec9455db1170576a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":152707475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":152707475
         }
     ],
     "wof:id":152707475,
-    "wof:lastmodified":1449048187,
+    "wof:lastmodified":1453935785,
     "wof:name":"Thermo Well Systems Inc",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.698631,43.409279,-79.698631,43.409279],
-  "geometry": {"coordinates":[-79.698631,43.409279],"type":"Point"}
+  "bbox": [
+    -79.698631,
+    43.409279,
+    -79.698631,
+    43.409279
+],
+  "geometry": {"coordinates":[-79.69863100000001,43.409279],"type":"Point"}
 }

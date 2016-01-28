@@ -2,13 +2,14 @@
   "id": 169439051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.657196,45.475254,-73.657196,45.475254",
     "geom:latitude":45.475254,
     "geom:longitude":-73.657196,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5651 Boul Cavendish",
     "sg:city":"Cote Saint-Luc",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85864407,
+        102191575,
         85633041,
-        85864407
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"22ff42a660a8bbdfb97467eb7201d2fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
             "venue_id":169439051
         }
     ],
     "wof:id":169439051,
-    "wof:lastmodified":1449033598,
+    "wof:lastmodified":1453929719,
     "wof:name":"Domeuil",
     "wof:parent_id":85864407,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.657196,45.475254,-73.657196,45.475254],
+  "bbox": [
+    -73.657196,
+    45.475254,
+    -73.657196,
+    45.475254
+],
   "geometry": {"coordinates":[-73.657196,45.475254],"type":"Point"}
 }

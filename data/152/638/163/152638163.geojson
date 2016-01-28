@@ -2,13 +2,14 @@
   "id": 152638163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.597916,45.631382,-73.597916,45.631382",
     "geom:latitude":45.631382,
     "geom:longitude":-73.597916,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12205 15E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"6d580aa1dfd195b5bfbe1ea305bfacca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":152638163
         }
     ],
     "wof:id":152638163,
-    "wof:lastmodified":1449044558,
+    "wof:lastmodified":1453933024,
     "wof:name":"Codemark Inc",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.597916,45.631382,-73.597916,45.631382],
+  "bbox": [
+    -73.597916,
+    45.631382,
+    -73.597916,
+    45.631382
+],
   "geometry": {"coordinates":[-73.597916,45.631382],"type":"Point"}
 }

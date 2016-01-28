@@ -2,13 +2,14 @@
   "id": 185755843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563309,45.516541,-73.563309,45.516541",
     "geom:latitude":45.516541,
     "geom:longitude":-73.563309,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1701 Rue Berri",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866487,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"95d9eb7e277f59e548b7945628b18046",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185755843
         }
     ],
     "wof:id":185755843,
-    "wof:lastmodified":1449007065,
+    "wof:lastmodified":1453927252,
     "wof:name":"Messageries Parbus",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "courier"
     ]
 },
-  "bbox": [-73.563309,45.516541,-73.563309,45.516541],
+  "bbox": [
+    -73.563309,
+    45.516541,
+    -73.563309,
+    45.516541
+],
   "geometry": {"coordinates":[-73.563309,45.516541],"type":"Point"}
 }

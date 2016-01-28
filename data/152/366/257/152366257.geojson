@@ -2,13 +2,14 @@
   "id": 152366257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.440758,45.571671,-73.440758,45.571671",
     "geom:latitude":45.571671,
     "geom:longitude":-73.440758,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1235 Rue Ampere",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875753,
+        102191575,
         85633041,
-        85875753
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ea5f20fbf4d0bb9e35752715b3f304b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
+            "region_id":136251273,
             "venue_id":152366257
         }
     ],
     "wof:id":152366257,
-    "wof:lastmodified":1449047672,
+    "wof:lastmodified":1453935399,
     "wof:name":"Cache-A-L'Eau",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.440758,45.571671,-73.440758,45.571671],
+  "bbox": [
+    -73.440758,
+    45.571671,
+    -73.440758,
+    45.571671
+],
   "geometry": {"coordinates":[-73.440758,45.571671],"type":"Point"}
 }

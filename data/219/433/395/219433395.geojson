@@ -2,13 +2,14 @@
   "id": 219433395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.063774,43.770351,-80.063774,43.770351",
     "geom:latitude":43.770351,
     "geom:longitude":-80.063774,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"105 Main St",
     "sg:city":"Erin",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895075,
+        102191575,
         85633041,
-        85682057
+        101736161,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"97c19e603b9148cbc3fd407edc8c91cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736161,
+            "neighbourhood_id":85895075,
+            "region_id":85682057,
+            "venue_id":219433395
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85895075,
             "region_id":85682057,
             "venue_id":219433395
         }
     ],
     "wof:id":219433395,
-    "wof:lastmodified":1449070798,
+    "wof:lastmodified":1453937596,
     "wof:name":"Country Corner His & Her Hair",
     "wof:parent_id":85895075,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.063774,43.770351,-80.063774,43.770351],
+  "bbox": [
+    -80.063774,
+    43.770351,
+    -80.063774,
+    43.770351
+],
   "geometry": {"coordinates":[-80.063774,43.770351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169373557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.844223,43.347584,-79.844223,43.347584",
     "geom:latitude":43.347584,
     "geom:longitude":-79.844223,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1265 Tyandaga Park Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895169,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"23d73d3944c09e45b4770dcec6c1bb87",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895169,
+            "region_id":85682057,
+            "venue_id":169373557
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895169,
             "region_id":85682057,
             "venue_id":169373557
         }
     ],
     "wof:id":169373557,
-    "wof:lastmodified":1449034392,
+    "wof:lastmodified":1453930567,
     "wof:name":"Tyandaga Municipal Golf Course",
     "wof:parent_id":85895169,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.844223,43.347584,-79.844223,43.347584],
+  "bbox": [
+    -79.844223,
+    43.347584,
+    -79.844223,
+    43.347584
+],
   "geometry": {"coordinates":[-79.844223,43.347584],"type":"Point"}
 }

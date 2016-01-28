@@ -2,13 +2,14 @@
   "id": 169516091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.724342,43.865208,-79.724342,43.865208",
     "geom:latitude":43.865208,
     "geom:longitude":-79.724342,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"114 Healey Rd",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895277,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"0336bbe93451324169c23fe913c0d101",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895277,
+            "region_id":85682057,
+            "venue_id":169516091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895277,
             "region_id":85682057,
             "venue_id":169516091
         }
     ],
     "wof:id":169516091,
-    "wof:lastmodified":1449033319,
+    "wof:lastmodified":1453929423,
     "wof:name":"Concord Kitchens Ltd",
     "wof:parent_id":85895277,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.724342,43.865208,-79.724342,43.865208],
-  "geometry": {"coordinates":[-79.724342,43.865208],"type":"Point"}
+  "bbox": [
+    -79.724342,
+    43.865208,
+    -79.724342,
+    43.865208
+],
+  "geometry": {"coordinates":[-79.72434199999999,43.865208],"type":"Point"}
 }

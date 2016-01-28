@@ -2,13 +2,14 @@
   "id": 169305325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.404488,42.975883,-82.404488,42.975883",
     "geom:latitude":42.975883,
     "geom:longitude":-82.404488,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"251 Vidal St N",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875555,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"987b9d7b75cf3dd6a6c386a900c0e2d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875555,
+            "region_id":85682057,
+            "venue_id":169305325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875555,
             "region_id":85682057,
             "venue_id":169305325
         }
     ],
     "wof:id":169305325,
-    "wof:lastmodified":1449033194,
+    "wof:lastmodified":1453929293,
     "wof:name":"Kenneith Gallery",
     "wof:parent_id":85875555,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.404488,42.975883,-82.404488,42.975883],
+  "bbox": [
+    -82.404488,
+    42.975883,
+    -82.404488,
+    42.975883
+],
   "geometry": {"coordinates":[-82.404488,42.975883],"type":"Point"}
 }

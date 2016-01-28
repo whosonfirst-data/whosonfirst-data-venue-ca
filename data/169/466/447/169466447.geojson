@@ -2,13 +2,14 @@
   "id": 169466447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.333633,42.983829,-82.333633,42.983829",
     "geom:latitude":42.983829,
     "geom:longitude":-82.333633,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1625 London Line",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864665,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"683e5e00e2cca0b78ec525ef11778f8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85864665,
+            "region_id":85682057,
+            "venue_id":169466447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85864665,
             "region_id":85682057,
             "venue_id":169466447
         }
     ],
     "wof:id":169466447,
-    "wof:lastmodified":1449033669,
+    "wof:lastmodified":1453929800,
     "wof:name":"Gables Inn",
     "wof:parent_id":85864665,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.333633,42.983829,-82.333633,42.983829],
-  "geometry": {"coordinates":[-82.333633,42.983829],"type":"Point"}
+  "bbox": [
+    -82.333633,
+    42.983829,
+    -82.333633,
+    42.983829
+],
+  "geometry": {"coordinates":[-82.33363300000001,42.983829],"type":"Point"}
 }

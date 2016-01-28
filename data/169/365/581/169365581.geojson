@@ -2,13 +2,14 @@
   "id": 169365581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.742928,45.585144,-73.742928,45.585144",
     "geom:latitude":45.585144,
     "geom:longitude":-73.742928,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875067,
+        102191575,
         85633041,
-        85875067
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"2f17003de3a5f9efbc42d76eea732c99",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
+            "region_id":136251273,
             "venue_id":169365581
         }
     ],
     "wof:id":169365581,
-    "wof:lastmodified":1449033225,
+    "wof:lastmodified":1453929321,
     "wof:name":"George Sheet Metal",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.742928,45.585144,-73.742928,45.585144],
-  "geometry": {"coordinates":[-73.742928,45.585144],"type":"Point"}
+  "bbox": [
+    -73.742928,
+    45.585144,
+    -73.742928,
+    45.585144
+],
+  "geometry": {"coordinates":[-73.74292800000001,45.585144],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152420269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.577438,45.492641,-73.577438,45.492641",
     "geom:latitude":45.492641,
     "geom:longitude":-73.577438,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1172 Rue Saint-Mathieu",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897631,
+        102191575,
         85633041,
-        85897631
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"dcddcfc32accce9b8722fd2dde6ccba0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897631,
+            "region_id":136251273,
             "venue_id":152420269
         }
     ],
     "wof:id":152420269,
-    "wof:lastmodified":1449046521,
+    "wof:lastmodified":1453934519,
     "wof:name":"Legendre Lubawin Goldfarb Inc",
     "wof:parent_id":85897631,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.577438,45.492641,-73.577438,45.492641],
+  "bbox": [
+    -73.577438,
+    45.492641,
+    -73.577438,
+    45.492641
+],
   "geometry": {"coordinates":[-73.577438,45.492641],"type":"Point"}
 }

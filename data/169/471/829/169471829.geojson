@@ -2,13 +2,14 @@
   "id": 169471829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.969032,45.381874,-71.969032,45.381874",
     "geom:latitude":45.381874,
     "geom:longitude":-71.969032,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4300 Boul Bourque",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"9162f533001a5de25cc81eaec3d99bfb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":169471829
         }
     ],
     "wof:id":169471829,
-    "wof:lastmodified":1449034005,
+    "wof:lastmodified":1453930171,
     "wof:name":"Atlantis Rock Forest",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.969032,45.381874,-71.969032,45.381874],
+  "bbox": [
+    -71.969032,
+    45.381874,
+    -71.969032,
+    45.381874
+],
   "geometry": {"coordinates":[-71.969032,45.381874],"type":"Point"}
 }

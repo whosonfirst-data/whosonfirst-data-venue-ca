@@ -2,13 +2,14 @@
   "id": 169002303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616852,45.455631,-73.616852,45.455631",
     "geom:latitude":45.455631,
     "geom:longitude":-73.616852,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6648 Rue Saint-Patrick",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897535,
+        102191575,
         85633041,
-        85897535
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1da1006a404213e1478e6ae65514abfd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897535,
+            "region_id":136251273,
             "venue_id":169002303
         }
     ],
     "wof:id":169002303,
-    "wof:lastmodified":1449035362,
+    "wof:lastmodified":1453931567,
     "wof:name":"Sofitaz Investments",
     "wof:parent_id":85897535,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.616852,45.455631,-73.616852,45.455631],
-  "geometry": {"coordinates":[-73.616852,45.455631],"type":"Point"}
+  "bbox": [
+    -73.616852,
+    45.455631,
+    -73.616852,
+    45.455631
+],
+  "geometry": {"coordinates":[-73.61685199999999,45.455631],"type":"Point"}
 }

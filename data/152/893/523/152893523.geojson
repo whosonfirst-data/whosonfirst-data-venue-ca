@@ -2,13 +2,14 @@
   "id": 152893523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.644463,43.705208,-79.644463,43.705208",
     "geom:latitude":43.705208,
     "geom:longitude":-79.644463,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7086 Airport Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894971,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f9422d2779eb4612ee825936d8e110f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894971,
+            "region_id":85682057,
+            "venue_id":152893523
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894971,
             "region_id":85682057,
             "venue_id":152893523
         }
     ],
     "wof:id":152893523,
-    "wof:lastmodified":1449048047,
+    "wof:lastmodified":1453935686,
     "wof:name":"N U Punjab Jeweller Inc",
     "wof:parent_id":85894971,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.644463,43.705208,-79.644463,43.705208],
+  "bbox": [
+    -79.644463,
+    43.705208,
+    -79.644463,
+    43.705208
+],
   "geometry": {"coordinates":[-79.644463,43.705208],"type":"Point"}
 }

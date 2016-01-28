@@ -2,13 +2,14 @@
   "id": 203225453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.479095,43.423241,-80.479095,43.423241",
     "geom:latitude":43.423241,
     "geom:longitude":-80.479095,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"130 Alpine Rd",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864493,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"b9ab9fd665776b98d3fbf6ceb1c2ef82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864493,
+            "region_id":85682057,
+            "venue_id":203225453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864493,
             "region_id":85682057,
             "venue_id":203225453
         }
     ],
     "wof:id":203225453,
-    "wof:lastmodified":1449025500,
+    "wof:lastmodified":1453927515,
     "wof:name":"Clark Animal Hospital",
     "wof:parent_id":85864493,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-80.479095,43.423241,-80.479095,43.423241],
+  "bbox": [
+    -80.479095,
+    43.423241,
+    -80.479095,
+    43.423241
+],
   "geometry": {"coordinates":[-80.479095,43.423241],"type":"Point"}
 }

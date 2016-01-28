@@ -2,13 +2,14 @@
   "id": 169371005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.638725,45.572075,-73.638725,45.572075",
     "geom:latitude":45.572075,
     "geom:longitude":-73.638725,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2507 Av Charland",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"08d0304407b98f2535ef34e1aad869a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":169371005
         }
     ],
     "wof:id":169371005,
-    "wof:lastmodified":1449035227,
+    "wof:lastmodified":1453931426,
     "wof:name":"Nanni Marketal Inc",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.638725,45.572075,-73.638725,45.572075],
-  "geometry": {"coordinates":[-73.638725,45.572075],"type":"Point"}
+  "bbox": [
+    -73.638725,
+    45.572075,
+    -73.638725,
+    45.572075
+],
+  "geometry": {"coordinates":[-73.63872499999999,45.572075],"type":"Point"}
 }

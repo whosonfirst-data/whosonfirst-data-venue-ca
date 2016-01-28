@@ -2,13 +2,14 @@
   "id": 152396069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.653625,45.465954,-73.653625,45.465954",
     "geom:latitude":45.465954,
     "geom:longitude":-73.653625,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7009 Ch DE LA Cote-Saint-Luc",
     "sg:city":"Cote Saint-Luc",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85864407,
+        102191575,
         85633041,
-        85864407
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"22ed6d18088e463cb2f0459b13a9475e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
             "venue_id":152396069
         }
     ],
     "wof:id":152396069,
-    "wof:lastmodified":1449047332,
+    "wof:lastmodified":1453935120,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85864407,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.653625,45.465954,-73.653625,45.465954],
-  "geometry": {"coordinates":[-73.653625,45.465954],"type":"Point"}
+  "bbox": [
+    -73.653625,
+    45.465954,
+    -73.653625,
+    45.465954
+],
+  "geometry": {"coordinates":[-73.65362500000001,45.465954],"type":"Point"}
 }

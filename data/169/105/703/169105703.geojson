@@ -2,13 +2,14 @@
   "id": 169105703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.349358,43.817329,-79.349358,43.817329",
     "geom:latitude":43.817329,
     "geom:longitude":-79.349358,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7125 Woodbine Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895483,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"f26bf3ba4bfc152c9e9782c4c15fb871",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":169105703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":169105703
         }
     ],
     "wof:id":169105703,
-    "wof:lastmodified":1449033945,
+    "wof:lastmodified":1453930110,
     "wof:name":"Cibc",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.349358,43.817329,-79.349358,43.817329],
+  "bbox": [
+    -79.349358,
+    43.817329,
+    -79.349358,
+    43.817329
+],
   "geometry": {"coordinates":[-79.349358,43.817329],"type":"Point"}
 }

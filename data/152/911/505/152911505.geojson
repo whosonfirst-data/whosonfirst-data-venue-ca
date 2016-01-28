@@ -2,13 +2,14 @@
   "id": 152911505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574364,45.580482,-73.574364,45.580482",
     "geom:latitude":45.580482,
     "geom:longitude":-73.574364,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5601 Rue Belanger",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874371,
+        102191575,
         85633041,
-        85874371
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cf35e389a7ec621d2315469b0f5cd728",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
+            "region_id":136251273,
             "venue_id":152911505
         }
     ],
     "wof:id":152911505,
-    "wof:lastmodified":1449048161,
+    "wof:lastmodified":1453935767,
     "wof:name":"Pierre Corbeil Enc",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574364,45.580482,-73.574364,45.580482],
+  "bbox": [
+    -73.574364,
+    45.580482,
+    -73.574364,
+    45.580482
+],
   "geometry": {"coordinates":[-73.574364,45.580482],"type":"Point"}
 }

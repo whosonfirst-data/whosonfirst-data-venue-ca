@@ -2,13 +2,14 @@
   "id": 169032075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.192429,43.013027,-81.192429,43.013027",
     "geom:latitude":43.013027,
     "geom:longitude":-81.192429,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1717 Oxford St E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "stove"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20LoBqxSSJkX0EhPhfVryQ_43.013027_-81.192429@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"40a581ca6f919075b65c65cd3d85058c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":169032075
+        }
+    ],
     "wof:id":169032075,
-    "wof:lastmodified":1449034300,
+    "wof:lastmodified":1453930473,
     "wof:name":"Glasgow Manufacturing Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.192429,43.013027,-81.192429,43.013027],
+  "bbox": [
+    -81.192429,
+    43.013027,
+    -81.192429,
+    43.013027
+],
   "geometry": {"coordinates":[-81.192429,43.013027],"type":"Point"}
 }

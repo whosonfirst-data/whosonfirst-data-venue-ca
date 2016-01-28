@@ -2,13 +2,14 @@
   "id": 169488371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.313377,45.459953,-73.313377,45.459953",
     "geom:latitude":45.459953,
     "geom:longitude":-73.313377,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2269 Ch DE Chambly",
     "sg:city":"Carignan",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5b5a938b18aa9c1f54337621d098158e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169488371
         }
     ],
     "wof:id":169488371,
-    "wof:lastmodified":1449035883,
+    "wof:lastmodified":1453932178,
     "wof:name":"Chambly Toyota Inc",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.313377,45.459953,-73.313377,45.459953],
+  "bbox": [
+    -73.313377,
+    45.459953,
+    -73.313377,
+    45.459953
+],
   "geometry": {"coordinates":[-73.313377,45.459953],"type":"Point"}
 }

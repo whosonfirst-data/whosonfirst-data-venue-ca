@@ -2,13 +2,14 @@
   "id": 152809633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.697746,44.373505,-79.697746,44.373505",
     "geom:latitude":44.373505,
     "geom:longitude":-79.697746,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"134 Anne St S",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875277,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_187uAhg5BxMafoZUmoK7mI_44.373505_-79.697746@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ae26bf4793f3b3fd3aeb15a1772c55a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
+            "region_id":85682057,
+            "venue_id":152809633
+        }
+    ],
     "wof:id":152809633,
-    "wof:lastmodified":1449048087,
+    "wof:lastmodified":1453935711,
     "wof:name":"D W Tuck Holdings Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.697746,44.373505,-79.697746,44.373505],
+  "bbox": [
+    -79.697746,
+    44.373505,
+    -79.697746,
+    44.373505
+],
   "geometry": {"coordinates":[-79.697746,44.373505],"type":"Point"}
 }

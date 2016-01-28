@@ -2,13 +2,14 @@
   "id": 168845537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.379128,43.934715,-79.379128,43.934715",
     "geom:latitude":43.934715,
     "geom:longitude":-79.379128,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11967 Woodbine Ave S",
     "sg:city":"Gormley",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895629,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c2573944f8a379920a2d90df8105a753",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895629,
+            "region_id":85682057,
+            "venue_id":168845537
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895629,
             "region_id":85682057,
             "venue_id":168845537
         }
     ],
     "wof:id":168845537,
-    "wof:lastmodified":1449027893,
+    "wof:lastmodified":1453927920,
     "wof:name":"Don Mills Steel & Metal Ltd",
     "wof:parent_id":85895629,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.379128,43.934715,-79.379128,43.934715],
-  "geometry": {"coordinates":[-79.379128,43.934715],"type":"Point"}
+  "bbox": [
+    -79.379128,
+    43.934715,
+    -79.379128,
+    43.934715
+],
+  "geometry": {"coordinates":[-79.37912799999999,43.934715],"type":"Point"}
 }

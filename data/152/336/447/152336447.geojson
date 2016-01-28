@@ -2,13 +2,14 @@
   "id": 152336447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.518814,53.567291,-113.518814,53.567291",
     "geom:latitude":53.567291,
     "geom:longitude":-113.518814,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"29 Airport Rd NW # 16",
     "sg:city":"Edmonton",
     "sg:classifiers":[
@@ -29,6 +30,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633041,
+        102554483,
         85874655,
         85682091
     ],
@@ -40,6 +42,7 @@
     "wof:geomhash":"a27cb3c8d23e4fa81c98ec4f7b638c90",
     "wof:hierarchy":[
         {
+            "campus_id":102554483,
             "country_id":85633041,
             "neighbourhood_id":85874655,
             "region_id":85682091,
@@ -47,14 +50,19 @@
         }
     ],
     "wof:id":152336447,
-    "wof:lastmodified":1449044191,
+    "wof:lastmodified":1453932750,
     "wof:name":"Edmonton City Ctr Shell",
-    "wof:parent_id":85874655,
+    "wof:parent_id":102554483,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.518814,53.567291,-113.518814,53.567291],
-  "geometry": {"coordinates":[-113.518814,53.567291],"type":"Point"}
+  "bbox": [
+    -113.518814,
+    53.567291,
+    -113.518814,
+    53.567291
+],
+  "geometry": {"coordinates":[-113.51881400000001,53.567291],"type":"Point"}
 }

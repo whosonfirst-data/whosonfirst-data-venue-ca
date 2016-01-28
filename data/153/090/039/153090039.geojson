@@ -2,13 +2,14 @@
   "id": 153090039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.294914,44.290379,-78.294914,44.290379",
     "geom:latitude":44.290379,
     "geom:longitude":-78.294914,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"259 Lansdowne St E",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"2c9d24b2ec9307928dba19e0dca8736d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":153090039
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":153090039
         }
     ],
     "wof:id":153090039,
-    "wof:lastmodified":1449040720,
+    "wof:lastmodified":1453932639,
     "wof:name":"Peterboro Cardboards Ltd",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.294914,44.290379,-78.294914,44.290379],
-  "geometry": {"coordinates":[-78.294914,44.290379],"type":"Point"}
+  "bbox": [
+    -78.294914,
+    44.290379,
+    -78.294914,
+    44.290379
+],
+  "geometry": {"coordinates":[-78.29491400000001,44.290379],"type":"Point"}
 }

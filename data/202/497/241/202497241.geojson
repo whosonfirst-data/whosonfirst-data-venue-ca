@@ -2,13 +2,14 @@
   "id": 202497241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.565979,45.489376,-73.565979,45.489376",
     "geom:latitude":45.489376,
     "geom:longitude":-73.565979,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"370 Rue Guy",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897609,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"7cbf324acdf4259529bdff83df9ef3cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897609,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202497241
         }
     ],
     "wof:id":202497241,
-    "wof:lastmodified":1449062600,
+    "wof:lastmodified":1453937496,
     "wof:name":"Typoscript",
     "wof:parent_id":85897609,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "typographer"
     ]
 },
-  "bbox": [-73.565979,45.489376,-73.565979,45.489376],
+  "bbox": [
+    -73.565979,
+    45.489376,
+    -73.565979,
+    45.489376
+],
   "geometry": {"coordinates":[-73.565979,45.489376],"type":"Point"}
 }

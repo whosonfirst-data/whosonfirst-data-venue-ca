@@ -2,13 +2,14 @@
   "id": 169250551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681564,44.354916,-79.681564,44.354916",
     "geom:latitude":44.354916,
     "geom:longitude":-79.681564,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"270 Bayview Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875277,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IjFaz7GIqidy9QEZkKqH0_44.354916_-79.681564@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"8f4253f9f7926da80c9621028a92da82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875277,
+            "region_id":85682057,
+            "venue_id":169250551
+        }
+    ],
     "wof:id":169250551,
-    "wof:lastmodified":1449034568,
+    "wof:lastmodified":1453930782,
     "wof:name":"G E Sallows Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875277,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.681564,44.354916,-79.681564,44.354916],
-  "geometry": {"coordinates":[-79.681564,44.354916],"type":"Point"}
+  "bbox": [
+    -79.681564,
+    44.354916,
+    -79.681564,
+    44.354916
+],
+  "geometry": {"coordinates":[-79.68156399999999,44.354916],"type":"Point"}
 }

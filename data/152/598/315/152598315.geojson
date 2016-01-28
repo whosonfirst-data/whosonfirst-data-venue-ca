@@ -2,13 +2,14 @@
   "id": 152598315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.734695,45.609112,-73.734695,45.609112",
     "geom:latitude":45.609112,
     "geom:longitude":-73.734695,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2137 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864417,
+        102191575,
         85633041,
-        85864417
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d19a922c048ea66a4ce96547ef9e99ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
+            "region_id":136251273,
             "venue_id":152598315
         }
     ],
     "wof:id":152598315,
-    "wof:lastmodified":1449044547,
+    "wof:lastmodified":1453933015,
     "wof:name":"Aliments M & M",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.734695,45.609112,-73.734695,45.609112],
+  "bbox": [
+    -73.734695,
+    45.609112,
+    -73.734695,
+    45.609112
+],
   "geometry": {"coordinates":[-73.734695,45.609112],"type":"Point"}
 }

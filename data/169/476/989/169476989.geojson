@@ -2,13 +2,14 @@
   "id": 169476989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.666443,43.657936,-79.666443,43.657936",
     "geom:latitude":43.657936,
     "geom:longitude":-79.666443,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7075 Ordan Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"96fb97454173467c2d7eb7e24d3d85d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":169476989
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":169476989
         }
     ],
     "wof:id":169476989,
-    "wof:lastmodified":1449034014,
+    "wof:lastmodified":1453930181,
     "wof:name":"Fedex Trade Networks Transport",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.666443,43.657936,-79.666443,43.657936],
+  "bbox": [
+    -79.666443,
+    43.657936,
+    -79.666443,
+    43.657936
+],
   "geometry": {"coordinates":[-79.666443,43.657936],"type":"Point"}
 }

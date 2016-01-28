@@ -2,13 +2,14 @@
   "id": 168846817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620781,45.606171,-73.620781,45.606171",
     "geom:latitude":45.606171,
     "geom:longitude":-73.620781,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5636 Boul Henri-Bourassa E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"35921e29f69a1fe29de43772d434a443",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":168846817
         }
     ],
     "wof:id":168846817,
-    "wof:lastmodified":1449028409,
+    "wof:lastmodified":1453928489,
     "wof:name":"Radiologie Desy",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.620781,45.606171,-73.620781,45.606171],
-  "geometry": {"coordinates":[-73.620781,45.606171],"type":"Point"}
+  "bbox": [
+    -73.620781,
+    45.606171,
+    -73.620781,
+    45.606171
+],
+  "geometry": {"coordinates":[-73.62078099999999,45.606171],"type":"Point"}
 }

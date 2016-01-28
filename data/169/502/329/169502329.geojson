@@ -2,13 +2,14 @@
   "id": 169502329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.890221,45.385971,-71.890221,45.385971",
     "geom:latitude":45.385971,
     "geom:longitude":-71.890221,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1337 Rue Larocque",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874185,
+        102191575,
         85633041,
-        85874185
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"77f4831cb7c275eab7d329ffd0f7e6ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874185,
+            "region_id":136251273,
             "venue_id":169502329
         }
     ],
     "wof:id":169502329,
-    "wof:lastmodified":1449034183,
+    "wof:lastmodified":1453930367,
     "wof:name":"Industries Entretien am Inc",
     "wof:parent_id":85874185,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.890221,45.385971,-71.890221,45.385971],
+  "bbox": [
+    -71.890221,
+    45.385971,
+    -71.890221,
+    45.385971
+],
   "geometry": {"coordinates":[-71.890221,45.385971],"type":"Point"}
 }

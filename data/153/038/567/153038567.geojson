@@ -2,13 +2,14 @@
   "id": 153038567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.095505,48.403343,-71.095505,48.403343",
     "geom:latitude":48.403343,
     "geom:longitude":-71.095505,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"727 Boul Barrette",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"80977d5d2dd08f064962fd094b393ce9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":153038567
         }
     ],
     "wof:id":153038567,
-    "wof:lastmodified":1449040672,
+    "wof:lastmodified":1453932596,
     "wof:name":"Clinique Chiropratique Sgny",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.095505,48.403343,-71.095505,48.403343],
+  "bbox": [
+    -71.095505,
+    48.403343,
+    -71.095505,
+    48.403343
+],
   "geometry": {"coordinates":[-71.095505,48.403343],"type":"Point"}
 }

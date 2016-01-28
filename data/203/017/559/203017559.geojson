@@ -2,13 +2,14 @@
   "id": 203017559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.582581,45.578583,-73.582581,45.578583",
     "geom:latitude":45.578583,
     "geom:longitude":-73.582581,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5265 Rue Jean-Talon E",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874359,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"00e73cea77c14c8dfadb418a3b75d591",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203017559
         }
     ],
     "wof:id":203017559,
-    "wof:lastmodified":1449025953,
+    "wof:lastmodified":1453927597,
     "wof:name":"Patisserie Alati",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.582581,45.578583,-73.582581,45.578583],
+  "bbox": [
+    -73.582581,
+    45.578583,
+    -73.582581,
+    45.578583
+],
   "geometry": {"coordinates":[-73.582581,45.578583],"type":"Point"}
 }

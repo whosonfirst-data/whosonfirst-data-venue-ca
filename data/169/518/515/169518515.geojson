@@ -2,13 +2,14 @@
   "id": 169518515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.528114,43.818607,-79.528114,43.818607",
     "geom:latitude":43.818607,
     "geom:longitude":-79.528114,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Concord",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"3c934c124c8a48b2f251a6f4ec37391d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":169518515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":169518515
         }
     ],
     "wof:id":169518515,
-    "wof:lastmodified":1449034555,
+    "wof:lastmodified":1453930762,
     "wof:name":"Canberra CO",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.528114,43.818607,-79.528114,43.818607],
+  "bbox": [
+    -79.528114,
+    43.818607,
+    -79.528114,
+    43.818607
+],
   "geometry": {"coordinates":[-79.528114,43.818607],"type":"Point"}
 }

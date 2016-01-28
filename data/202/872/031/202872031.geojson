@@ -2,13 +2,14 @@
   "id": 202872031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.501762,43.81057,-79.501762,43.81057",
     "geom:latitude":43.81057,
     "geom:longitude":-79.501762,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8161 Keele St # 5",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895133,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"049cc986e4e94c75b6e2998d9f8d7f69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":202872031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":202872031
         }
     ],
     "wof:id":202872031,
-    "wof:lastmodified":1449060339,
+    "wof:lastmodified":1453937023,
     "wof:name":"Alpha Metal Finishing",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "finisher"
     ]
 },
-  "bbox": [-79.501762,43.81057,-79.501762,43.81057],
+  "bbox": [
+    -79.501762,
+    43.81057,
+    -79.501762,
+    43.81057
+],
   "geometry": {"coordinates":[-79.501762,43.81057],"type":"Point"}
 }

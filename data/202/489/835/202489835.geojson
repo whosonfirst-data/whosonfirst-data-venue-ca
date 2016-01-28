@@ -2,13 +2,14 @@
   "id": 202489835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.849083,45.655827,-73.849083,45.655827",
     "geom:latitude":45.655827,
     "geom:longitude":-73.849083,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"440 22E Av E",
     "sg:city":"Blainville",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897563,
+        102191575,
         85633041,
-        101738507
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"1af42308de65057ab55a1930dc50d81d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202489835
         }
     ],
     "wof:id":202489835,
-    "wof:lastmodified":1449061496,
+    "wof:lastmodified":1453937268,
     "wof:name":"Fix Auto Blainville",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "painting"
     ]
 },
-  "bbox": [-73.849083,45.655827,-73.849083,45.655827],
-  "geometry": {"coordinates":[-73.849083,45.655827],"type":"Point"}
+  "bbox": [
+    -73.849083,
+    45.655827,
+    -73.849083,
+    45.655827
+],
+  "geometry": {"coordinates":[-73.84908299999999,45.655827],"type":"Point"}
 }

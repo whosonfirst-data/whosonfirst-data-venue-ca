@@ -2,13 +2,14 @@
   "id": 152286657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.666435,45.543697,-73.666435,45.543697",
     "geom:latitude":45.543697,
     "geom:longitude":-73.666435,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10228 Rue Tolhurst",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85864445,
+        102191575,
         85633041,
-        85864445
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"477356533b8d4e227b6ec61210aec203",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85864445,
+            "region_id":136251273,
             "venue_id":152286657
         }
     ],
     "wof:id":152286657,
-    "wof:lastmodified":1449045504,
+    "wof:lastmodified":1453933751,
     "wof:name":"Pelletier, Denis DDS",
     "wof:parent_id":85864445,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.666435,45.543697,-73.666435,45.543697],
-  "geometry": {"coordinates":[-73.666435,45.543697],"type":"Point"}
+  "bbox": [
+    -73.666435,
+    45.543697,
+    -73.666435,
+    45.543697
+],
+  "geometry": {"coordinates":[-73.66643500000001,45.543697],"type":"Point"}
 }

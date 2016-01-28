@@ -2,13 +2,14 @@
   "id": 169121855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.217834,43.109634,-79.217834,43.109634",
     "geom:latitude":43.109634,
     "geom:longitude":-79.217834,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"207 Keefer Rd",
     "sg:city":"Thorold",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875043,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"db5a564b2ce4619ac75645a716068c1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875043,
+            "region_id":85682057,
+            "venue_id":169121855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875043,
             "region_id":85682057,
             "venue_id":169121855
         }
     ],
     "wof:id":169121855,
-    "wof:lastmodified":1449035234,
+    "wof:lastmodified":1453931437,
     "wof:name":"Crackerjack's Bar & Grill",
     "wof:parent_id":85875043,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.217834,43.109634,-79.217834,43.109634],
+  "bbox": [
+    -79.217834,
+    43.109634,
+    -79.217834,
+    43.109634
+],
   "geometry": {"coordinates":[-79.217834,43.109634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169339565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.633995,43.63892,-79.633995,43.63892",
     "geom:latitude":43.63892,
     "geom:longitude":-79.633995,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1283 Matheson Blvd E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"48e15db7f66c3b20ff799e31b6d523ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":169339565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":169339565
         }
     ],
     "wof:id":169339565,
-    "wof:lastmodified":1449034144,
+    "wof:lastmodified":1453930335,
     "wof:name":"Delta Grinding CO",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.633995,43.63892,-79.633995,43.63892],
+  "bbox": [
+    -79.633995,
+    43.63892,
+    -79.633995,
+    43.63892
+],
   "geometry": {"coordinates":[-79.633995,43.63892],"type":"Point"}
 }

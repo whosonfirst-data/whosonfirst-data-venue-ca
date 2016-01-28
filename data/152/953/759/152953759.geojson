@@ -2,13 +2,14 @@
   "id": 152953759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.853401,43.306381,-79.853401,43.306381",
     "geom:latitude":43.306381,
     "geom:longitude":-79.853401,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7 Plains Rd W",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895263,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"46a34cc8d4df1682e5b49247d5d7d02e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895263,
+            "region_id":85682057,
+            "venue_id":152953759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895263,
             "region_id":85682057,
             "venue_id":152953759
         }
     ],
     "wof:id":152953759,
-    "wof:lastmodified":1449047488,
+    "wof:lastmodified":1453935245,
     "wof:name":"Ray's Auto Ctr & Towing",
     "wof:parent_id":85895263,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.853401,43.306381,-79.853401,43.306381],
-  "geometry": {"coordinates":[-79.853401,43.306381],"type":"Point"}
+  "bbox": [
+    -79.853401,
+    43.306381,
+    -79.853401,
+    43.306381
+],
+  "geometry": {"coordinates":[-79.85340100000001,43.306381],"type":"Point"}
 }

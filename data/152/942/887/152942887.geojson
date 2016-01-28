@@ -2,13 +2,14 @@
   "id": 152942887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.320961,43.840706,-79.320961,43.840706",
     "geom:latitude":43.840706,
     "geom:longitude":-79.320961,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7750 Birchmount Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895023,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"24bf375bec87f3f81a3701f0ca703f5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":152942887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":152942887
         }
     ],
     "wof:id":152942887,
-    "wof:lastmodified":1449046423,
+    "wof:lastmodified":1453934445,
     "wof:name":"Friendly's",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.320961,43.840706,-79.320961,43.840706],
+  "bbox": [
+    -79.320961,
+    43.840706,
+    -79.320961,
+    43.840706
+],
   "geometry": {"coordinates":[-79.320961,43.840706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169434583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22731,43.018906,-81.22731,43.018906",
     "geom:latitude":43.018906,
     "geom:longitude":-81.22731,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XexJTkENZZKu8wan1BA06_43.018906_-81.227310@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e1f4541e74dccec3c485f32a8d633b2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":169434583
+        }
+    ],
     "wof:id":169434583,
-    "wof:lastmodified":1449033401,
+    "wof:lastmodified":1453929502,
     "wof:name":"Pathway Marketing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.22731,43.018906,-81.22731,43.018906],
+  "bbox": [
+    -81.22731,
+    43.018906,
+    -81.22731,
+    43.018906
+],
   "geometry": {"coordinates":[-81.22731,43.018906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169115267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.444229,45.496452,-73.444229,45.496452",
     "geom:latitude":45.496452,
     "geom:longitude":-73.444229,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4500 Boul Kimber #38",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"56f701b2dcb2ee1b1f99e9c0cf110502",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":169115267
         }
     ],
     "wof:id":169115267,
-    "wof:lastmodified":1449032661,
+    "wof:lastmodified":1453928777,
     "wof:name":"Poivre Des Iles",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.444229,45.496452,-73.444229,45.496452],
-  "geometry": {"coordinates":[-73.444229,45.496452],"type":"Point"}
+  "bbox": [
+    -73.444229,
+    45.496452,
+    -73.444229,
+    45.496452
+],
+  "geometry": {"coordinates":[-73.44422900000001,45.496452],"type":"Point"}
 }

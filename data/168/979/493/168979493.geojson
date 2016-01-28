@@ -2,13 +2,14 @@
   "id": 168979493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.748711,43.884644,-79.748711,43.884644",
     "geom:latitude":43.884644,
     "geom:longitude":-79.748711,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"43 Cross Country Blvd",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895501,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101736249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"3b8354b7e0c107aebae23c6eb125d251",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895501,
+            "region_id":85682057,
+            "venue_id":168979493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736249,
             "neighbourhood_id":85895501,
             "region_id":85682057,
             "venue_id":168979493
         }
     ],
     "wof:id":168979493,
-    "wof:lastmodified":1449028317,
+    "wof:lastmodified":1453928390,
     "wof:name":"Reynolds & Reynolds",
     "wof:parent_id":85895501,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.748711,43.884644,-79.748711,43.884644],
+  "bbox": [
+    -79.748711,
+    43.884644,
+    -79.748711,
+    43.884644
+],
   "geometry": {"coordinates":[-79.748711,43.884644],"type":"Point"}
 }

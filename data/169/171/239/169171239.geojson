@@ -2,13 +2,14 @@
   "id": 169171239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.727005,45.369324,-73.727005,45.369324",
     "geom:latitude":45.369324,
     "geom:longitude":-73.727005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"270 Boul Saint-Francis",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738001,
+        85895755,
+        102191575,
         85633041,
-        85895755
+        101738001,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f84bf1b259f5ee47bef5d9878b23159e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738001,
             "neighbourhood_id":85895755,
+            "region_id":136251273,
             "venue_id":169171239
         }
     ],
     "wof:id":169171239,
-    "wof:lastmodified":1449035981,
+    "wof:lastmodified":1453932242,
     "wof:name":"Appartements Jordache",
     "wof:parent_id":85895755,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.727005,45.369324,-73.727005,45.369324],
-  "geometry": {"coordinates":[-73.727005,45.369324],"type":"Point"}
+  "bbox": [
+    -73.727005,
+    45.369324,
+    -73.727005,
+    45.369324
+],
+  "geometry": {"coordinates":[-73.72700500000001,45.369324],"type":"Point"}
 }

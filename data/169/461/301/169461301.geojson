@@ -2,13 +2,14 @@
   "id": 169461301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.677437,44.33091,-79.677437,44.33091",
     "geom:latitude":44.33091,
     "geom:longitude":-79.677437,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"680 Bayview Dr # 3",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "leaded"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZkphINb5NKZf7VTIct8wY_44.330910_-79.677437@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"7d939d9d89b5516b731ae49a1993386e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":169461301
+        }
+    ],
     "wof:id":169461301,
-    "wof:lastmodified":1449033936,
+    "wof:lastmodified":1453930093,
     "wof:name":"Huronia Art Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.677437,44.33091,-79.677437,44.33091],
+  "bbox": [
+    -79.677437,
+    44.33091,
+    -79.677437,
+    44.33091
+],
   "geometry": {"coordinates":[-79.677437,44.33091],"type":"Point"}
 }

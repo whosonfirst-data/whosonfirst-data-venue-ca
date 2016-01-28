@@ -2,13 +2,14 @@
   "id": 152796153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.188995,42.928577,-81.188995,42.928577",
     "geom:latitude":42.928577,
     "geom:longitude":-81.188995,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1070 Wilton Grove Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6N 1C6",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874921,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Rndz3N9gXkdJD7JH9A5T_42.928577_-81.188995@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"a3120f17b3676b1d4d05737adcdf5fd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874921,
+            "region_id":85682057,
+            "venue_id":152796153
+        }
+    ],
     "wof:id":152796153,
-    "wof:lastmodified":1449046490,
+    "wof:lastmodified":1453934497,
     "wof:name":"Convoy Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874921,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.188995,42.928577,-81.188995,42.928577],
-  "geometry": {"coordinates":[-81.188995,42.928577],"type":"Point"}
+  "bbox": [
+    -81.188995,
+    42.928577,
+    -81.188995,
+    42.928577
+],
+  "geometry": {"coordinates":[-81.18899500000001,42.928577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152641189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.195465,46.880199,-71.195465,46.880199",
     "geom:latitude":46.880199,
     "geom:longitude":-71.195465,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"435 Rue Fichet",
     "sg:city":"Beauport",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85784675,
+        102191575,
         85633041,
-        85784675
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b296260ae99b07190e3e7bd0d6a1e47f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784675,
+            "region_id":136251273,
             "venue_id":152641189
         }
     ],
     "wof:id":152641189,
-    "wof:lastmodified":1449047806,
+    "wof:lastmodified":1453935507,
     "wof:name":"Jean Leclerc Excavation Inc",
     "wof:parent_id":85784675,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.195465,46.880199,-71.195465,46.880199],
+  "bbox": [
+    -71.195465,
+    46.880199,
+    -71.195465,
+    46.880199
+],
   "geometry": {"coordinates":[-71.195465,46.880199],"type":"Point"}
 }

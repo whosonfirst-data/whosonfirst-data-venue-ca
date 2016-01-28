@@ -2,13 +2,14 @@
   "id": 169345553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576393,45.450119,-73.576393,45.450119",
     "geom:latitude":45.450119,
     "geom:longitude":-73.576393,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"962 Rue Moffat",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874383,
+        102191575,
         85633041,
-        85874383
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"53c3fefaec07c8f03c4412910833405a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874383,
+            "region_id":136251273,
             "venue_id":169345553
         }
     ],
     "wof:id":169345553,
-    "wof:lastmodified":1449035697,
+    "wof:lastmodified":1453931943,
     "wof:name":"Faith Christian Ctr",
     "wof:parent_id":85874383,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576393,45.450119,-73.576393,45.450119],
+  "bbox": [
+    -73.576393,
+    45.450119,
+    -73.576393,
+    45.450119
+],
   "geometry": {"coordinates":[-73.576393,45.450119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152726259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585312,45.521164,-73.585312,45.521164",
     "geom:latitude":45.521164,
     "geom:longitude":-73.585312,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"100 Av Du Mont-Royal E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4e28147ad92a1d9cc617b727793a7643",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152726259
         }
     ],
     "wof:id":152726259,
-    "wof:lastmodified":1449047464,
+    "wof:lastmodified":1453935225,
     "wof:name":"Kali",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.585312,45.521164,-73.585312,45.521164],
+  "bbox": [
+    -73.585312,
+    45.521164,
+    -73.585312,
+    45.521164
+],
   "geometry": {"coordinates":[-73.585312,45.521164],"type":"Point"}
 }

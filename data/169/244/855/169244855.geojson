@@ -2,13 +2,14 @@
   "id": 169244855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.262123,42.975807,-81.262123,42.975807",
     "geom:latitude":42.975807,
     "geom:longitude":-81.262123,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Wharncliffe Rd S",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864623,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2i4u3I82AYb1Ws0uX5yPde_42.975807_-81.262123@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"22151078f75961d079f62c544897972b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864623,
+            "region_id":85682057,
+            "venue_id":169244855
+        }
+    ],
     "wof:id":169244855,
-    "wof:lastmodified":1449033990,
+    "wof:lastmodified":1453930152,
     "wof:name":"Electrolux Canada",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.262123,42.975807,-81.262123,42.975807],
+  "bbox": [
+    -81.262123,
+    42.975807,
+    -81.262123,
+    42.975807
+],
   "geometry": {"coordinates":[-81.262123,42.975807],"type":"Point"}
 }

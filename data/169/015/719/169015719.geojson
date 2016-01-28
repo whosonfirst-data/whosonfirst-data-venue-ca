@@ -2,13 +2,14 @@
   "id": 169015719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.727318,45.499573,-73.727318,45.499573",
     "geom:latitude":45.499573,
     "geom:longitude":-73.727318,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2393 Rue Guenette",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"672a530013be7e2cf37fe25d6e4f95cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":169015719
         }
     ],
     "wof:id":169015719,
-    "wof:lastmodified":1449033441,
+    "wof:lastmodified":1453929545,
     "wof:name":"Canado Nacan Equipement Inc",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.727318,45.499573,-73.727318,45.499573],
+  "bbox": [
+    -73.727318,
+    45.499573,
+    -73.727318,
+    45.499573
+],
   "geometry": {"coordinates":[-73.727318,45.499573],"type":"Point"}
 }

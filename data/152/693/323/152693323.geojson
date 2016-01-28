@@ -2,13 +2,14 @@
   "id": 152693323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.88726,43.525414,-79.88726,43.525414",
     "geom:latitude":43.525414,
     "geom:longitude":-79.88726,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Milton",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895371,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"59e008e99e8e4347ec78b6662698addf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895371,
+            "region_id":85682057,
+            "venue_id":152693323
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895371,
             "region_id":85682057,
             "venue_id":152693323
         }
     ],
     "wof:id":152693323,
-    "wof:lastmodified":1449044563,
+    "wof:lastmodified":1453933031,
     "wof:name":"Milton Small Engines",
     "wof:parent_id":85895371,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.88726,43.525414,-79.88726,43.525414],
+  "bbox": [
+    -79.88726,
+    43.525414,
+    -79.88726,
+    43.525414
+],
   "geometry": {"coordinates":[-79.88726,43.525414],"type":"Point"}
 }

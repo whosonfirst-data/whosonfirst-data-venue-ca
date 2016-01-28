@@ -2,13 +2,14 @@
   "id": 169172603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.793907,43.361843,-79.793907,43.361843",
     "geom:latitude":43.361843,
     "geom:longitude":-79.793907,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3325 North Service Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895639,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"7469367fd024e4ddee705d59fcd11ccc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895639,
+            "region_id":85682057,
+            "venue_id":169172603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895639,
             "region_id":85682057,
             "venue_id":169172603
         }
     ],
     "wof:id":169172603,
-    "wof:lastmodified":1449034007,
+    "wof:lastmodified":1453930176,
     "wof:name":"Elreg Distributors Ltd",
     "wof:parent_id":85895639,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.793907,43.361843,-79.793907,43.361843],
+  "bbox": [
+    -79.793907,
+    43.361843,
+    -79.793907,
+    43.361843
+],
   "geometry": {"coordinates":[-79.793907,43.361843],"type":"Point"}
 }

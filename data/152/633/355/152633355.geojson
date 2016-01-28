@@ -2,13 +2,14 @@
   "id": 152633355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.283394,46.805786,-71.283394,46.805786",
     "geom:latitude":46.805786,
     "geom:longitude":-71.283394,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1844 Boul Wilfrid-Hamel",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"f9d8c537005457db97b2749e1f8c873d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152633355
         }
     ],
     "wof:id":152633355,
-    "wof:lastmodified":1449048869,
+    "wof:lastmodified":1453936310,
     "wof:name":"Les Pompes Industriel Ste-Foy",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.283394,46.805786,-71.283394,46.805786],
+  "bbox": [
+    -71.283394,
+    46.805786,
+    -71.283394,
+    46.805786
+],
   "geometry": {"coordinates":[-71.283394,46.805786],"type":"Point"}
 }

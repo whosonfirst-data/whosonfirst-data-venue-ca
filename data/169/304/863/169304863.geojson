@@ -2,13 +2,14 @@
   "id": 169304863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.463142,45.572727,-73.463142,45.572727",
     "geom:latitude":45.572727,
     "geom:longitude":-73.463142,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2405 Rue DE LA Province",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875745,
+        102191575,
         85633041,
-        85875745
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"13d58615e56916c11471389cc1d5c0e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875745,
+            "region_id":136251273,
             "venue_id":169304863
         }
     ],
     "wof:id":169304863,
-    "wof:lastmodified":1449035130,
+    "wof:lastmodified":1453931353,
     "wof:name":"Cooperative Federee DE Quebec",
     "wof:parent_id":85875745,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.463142,45.572727,-73.463142,45.572727],
+  "bbox": [
+    -73.463142,
+    45.572727,
+    -73.463142,
+    45.572727
+],
   "geometry": {"coordinates":[-73.463142,45.572727],"type":"Point"}
 }

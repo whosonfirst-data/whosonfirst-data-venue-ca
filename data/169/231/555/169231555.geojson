@@ -2,13 +2,14 @@
   "id": 169231555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563431,45.475376,-73.563431,45.475376",
     "geom:latitude":45.475376,
     "geom:longitude":-73.563431,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"757 Rue Charlevoix",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874363,
+        102191575,
         85633041,
-        85874363
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c4a8b8476e794cbd8fe7eff2ef5be7bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874363,
+            "region_id":136251273,
             "venue_id":169231555
         }
     ],
     "wof:id":169231555,
-    "wof:lastmodified":1449034369,
+    "wof:lastmodified":1453930547,
     "wof:name":"Betty Used Furniture",
     "wof:parent_id":85874363,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.563431,45.475376,-73.563431,45.475376],
-  "geometry": {"coordinates":[-73.563431,45.475376],"type":"Point"}
+  "bbox": [
+    -73.563431,
+    45.475376,
+    -73.563431,
+    45.475376
+],
+  "geometry": {"coordinates":[-73.56343099999999,45.475376],"type":"Point"}
 }

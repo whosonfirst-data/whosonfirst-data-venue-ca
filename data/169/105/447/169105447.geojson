@@ -2,13 +2,14 @@
   "id": 169105447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.116539,43.812443,-79.116539,43.812443",
     "geom:latitude":43.812443,
     "geom:longitude":-79.116539,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Pickering",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895621,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8c21493b711bf550afb87b0fccbc1c68",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895621,
+            "region_id":85682057,
+            "venue_id":169105447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895621,
             "region_id":85682057,
             "venue_id":169105447
         }
     ],
     "wof:id":169105447,
-    "wof:lastmodified":1449033949,
+    "wof:lastmodified":1453930112,
     "wof:name":"Somcan Distribution Ltd",
     "wof:parent_id":85895621,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.116539,43.812443,-79.116539,43.812443],
+  "bbox": [
+    -79.116539,
+    43.812443,
+    -79.116539,
+    43.812443
+],
   "geometry": {"coordinates":[-79.116539,43.812443],"type":"Point"}
 }

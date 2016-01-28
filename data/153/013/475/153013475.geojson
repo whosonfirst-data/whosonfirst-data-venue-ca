@@ -2,13 +2,14 @@
   "id": 153013475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.800133,45.481964,-73.800133,45.481964",
     "geom:latitude":45.481964,
     "geom:longitude":-73.800133,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"65 Boul Brunswick",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85784719,
+        102191575,
         85633041,
-        85784719
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5830f26124718b505e744da0a3434302",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85784719,
+            "region_id":136251273,
             "venue_id":153013475
         }
     ],
     "wof:id":153013475,
-    "wof:lastmodified":1449040684,
+    "wof:lastmodified":1453932607,
     "wof:name":"Intell Cargo",
     "wof:parent_id":85784719,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.800133,45.481964,-73.800133,45.481964],
+  "bbox": [
+    -73.800133,
+    45.481964,
+    -73.800133,
+    45.481964
+],
   "geometry": {"coordinates":[-73.800133,45.481964],"type":"Point"}
 }

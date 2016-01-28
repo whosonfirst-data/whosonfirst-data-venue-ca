@@ -2,13 +2,14 @@
   "id": 219499009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.357391,43.807724,-79.357391,43.807724",
     "geom:latitude":43.807724,
     "geom:longitude":-79.357391,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3909 Don Mills Rd",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895483,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"878622bc8c76e42b5181e47c739a1d0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":219499009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":219499009
         }
     ],
     "wof:id":219499009,
-    "wof:lastmodified":1449071066,
+    "wof:lastmodified":1453937631,
     "wof:name":"Sun Source Tanning Ctr",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "salon"
     ]
 },
-  "bbox": [-79.357391,43.807724,-79.357391,43.807724],
-  "geometry": {"coordinates":[-79.357391,43.807724],"type":"Point"}
+  "bbox": [
+    -79.357391,
+    43.807724,
+    -79.357391,
+    43.807724
+],
+  "geometry": {"coordinates":[-79.35739100000001,43.807724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152426307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.64653,43.656513,-79.64653,43.656513",
     "geom:latitude":43.656513,
     "geom:longitude":-79.64653,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -21,9 +22,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +37,24 @@
     "wof:geomhash":"9667ef7b4f923ce167e0001fe2eb71f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152426307
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152426307
         }
     ],
     "wof:id":152426307,
-    "wof:lastmodified":1449045288,
+    "wof:lastmodified":1453933578,
     "wof:name":"Servatronic Test Equipment Inc",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -49,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.64653,43.656513,-79.64653,43.656513],
+  "bbox": [
+    -79.64653,
+    43.656513,
+    -79.64653,
+    43.656513
+],
   "geometry": {"coordinates":[-79.64653,43.656513],"type":"Point"}
 }

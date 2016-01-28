@@ -2,13 +2,14 @@
   "id": 169690139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.433495,44.071323,-79.433495,44.071323",
     "geom:latitude":44.071323,
     "geom:longitude":-79.433495,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"17730 Leslie St # 1",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895005,
         102191575,
         85633041,
-        85895005
+        101736295,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736295,
             "neighbourhood_id":85895005,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169690139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895005,
+            "region_id":85682057,
             "venue_id":169690139
         }
     ],
     "wof:id":169690139,
-    "wof:lastmodified":1449034431,
+    "wof:lastmodified":1453930623,
     "wof:name":"Price Chopper",
     "wof:parent_id":85895005,
     "wof:placetype":"venue",
@@ -59,6 +70,11 @@
         "grocer"
     ]
 },
-  "bbox": [-79.433495,44.071323,-79.433495,44.071323],
-  "geometry": {"coordinates":[-79.433495,44.071323],"type":"Point"}
+  "bbox": [
+    -79.433495,
+    44.071323,
+    -79.433495,
+    44.071323
+],
+  "geometry": {"coordinates":[-79.43349499999999,44.071323],"type":"Point"}
 }

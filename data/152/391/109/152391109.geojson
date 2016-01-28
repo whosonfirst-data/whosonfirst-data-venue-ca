@@ -2,13 +2,14 @@
   "id": 152391109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.511154,45.37743,-73.511154,45.37743",
     "geom:latitude":45.37743,
     "geom:longitude":-73.511154,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Candiac",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738229,
+        85895773,
+        102191575,
         85633041,
-        85895773
+        101738229,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a509b439d9aebca26a45c0c13b3299bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738229,
             "neighbourhood_id":85895773,
+            "region_id":136251273,
             "venue_id":152391109
         }
     ],
     "wof:id":152391109,
-    "wof:lastmodified":1449047252,
+    "wof:lastmodified":1453935064,
     "wof:name":"Gestion-Conseil Claude Soucy",
     "wof:parent_id":85895773,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.511154,45.37743,-73.511154,45.37743],
+  "bbox": [
+    -73.511154,
+    45.37743,
+    -73.511154,
+    45.37743
+],
   "geometry": {"coordinates":[-73.511154,45.37743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169022009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62561,45.472252,-73.62561,45.472252",
     "geom:latitude":45.472252,
     "geom:longitude":-73.62561,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871117,
+        102191575,
         85633041,
-        85871117
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"e7c3c3dcb4ecb9e0bd809e7850ac5da3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871117,
+            "region_id":136251273,
             "venue_id":169022009
         }
     ],
     "wof:id":169022009,
-    "wof:lastmodified":1449033783,
+    "wof:lastmodified":1453929938,
     "wof:name":"Brenda Electrolysis",
     "wof:parent_id":85871117,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.62561,45.472252,-73.62561,45.472252],
-  "geometry": {"coordinates":[-73.62561,45.472252],"type":"Point"}
+  "bbox": [
+    -73.62561,
+    45.472252,
+    -73.62561,
+    45.472252
+],
+  "geometry": {"coordinates":[-73.62560999999999,45.472252],"type":"Point"}
 }

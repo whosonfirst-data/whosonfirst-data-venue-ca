@@ -2,13 +2,14 @@
   "id": 152754793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.793503,45.578979,-73.793503,45.578979",
     "geom:latitude":45.578979,
     "geom:longitude":-73.793503,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3105 Boul Dagenais O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"f3431ca16bfdb874cc82393f13ce15f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":152754793
         }
     ],
     "wof:id":152754793,
-    "wof:lastmodified":1449047324,
+    "wof:lastmodified":1453935115,
     "wof:name":"Jardin Du Boulevard",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.793503,45.578979,-73.793503,45.578979],
+  "bbox": [
+    -73.793503,
+    45.578979,
+    -73.793503,
+    45.578979
+],
   "geometry": {"coordinates":[-73.793503,45.578979],"type":"Point"}
 }

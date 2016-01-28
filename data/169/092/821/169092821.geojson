@@ -2,13 +2,14 @@
   "id": 169092821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.20472,43.119751,-79.20472,43.119751",
     "geom:latitude":43.119751,
     "geom:longitude":-79.20472,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"74 1/2 Queen St S",
     "sg:city":"Thorold",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"f5d34ba60d822671449fff61678017fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":169092821
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":169092821
         }
     ],
     "wof:id":169092821,
-    "wof:lastmodified":1449035337,
+    "wof:lastmodified":1453931542,
     "wof:name":"Avondale Stores Ltd",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.20472,43.119751,-79.20472,43.119751],
-  "geometry": {"coordinates":[-79.20472,43.119751],"type":"Point"}
+  "bbox": [
+    -79.20472,
+    43.119751,
+    -79.20472,
+    43.119751
+],
+  "geometry": {"coordinates":[-79.20471999999999,43.119751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152941819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.713638,45.553699,-73.713638,45.553699",
     "geom:latitude":45.553699,
     "geom:longitude":-73.713638,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"185 Av Brien",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"b9c181ace269dc68fea81a3323bb2328",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":152941819
         }
     ],
     "wof:id":152941819,
-    "wof:lastmodified":1449047056,
+    "wof:lastmodified":1453934920,
     "wof:name":"Alarme Amyot Inc",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.713638,45.553699,-73.713638,45.553699],
+  "bbox": [
+    -73.713638,
+    45.553699,
+    -73.713638,
+    45.553699
+],
   "geometry": {"coordinates":[-73.713638,45.553699],"type":"Point"}
 }

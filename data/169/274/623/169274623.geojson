@@ -2,13 +2,14 @@
   "id": 169274623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.705521,43.411427,-79.705521,43.411427",
     "geom:latitude":43.411427,
     "geom:longitude":-79.705521,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1515 Rebecca St # 35",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"233ce3c036a25a9c74864d32f0fa72c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":169274623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":169274623
         }
     ],
     "wof:id":169274623,
-    "wof:lastmodified":1449033087,
+    "wof:lastmodified":1453929211,
     "wof:name":"El Spero Restaurant & Tavern",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.705521,43.411427,-79.705521,43.411427],
+  "bbox": [
+    -79.705521,
+    43.411427,
+    -79.705521,
+    43.411427
+],
   "geometry": {"coordinates":[-79.705521,43.411427],"type":"Point"}
 }

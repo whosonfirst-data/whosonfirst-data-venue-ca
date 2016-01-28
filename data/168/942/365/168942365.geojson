@@ -2,13 +2,14 @@
   "id": 168942365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.894089,45.405159,-71.894089,45.405159",
     "geom:latitude":45.405159,
     "geom:longitude":-71.894089,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"796af173fc91c186da09535d8861f78c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":168942365
         }
     ],
     "wof:id":168942365,
-    "wof:lastmodified":1449028128,
+    "wof:lastmodified":1453928185,
     "wof:name":"Jobin, Jacinthe",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.894089,45.405159,-71.894089,45.405159],
-  "geometry": {"coordinates":[-71.894089,45.405159],"type":"Point"}
+  "bbox": [
+    -71.894089,
+    45.405159,
+    -71.894089,
+    45.405159
+],
+  "geometry": {"coordinates":[-71.89408899999999,45.405159],"type":"Point"}
 }

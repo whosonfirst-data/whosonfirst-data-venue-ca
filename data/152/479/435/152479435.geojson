@@ -2,13 +2,14 @@
   "id": 152479435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.171135,42.975571,-81.171135,42.975571",
     "geom:latitude":42.975571,
     "geom:longitude":-81.171135,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"24 Braesyde Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5W 1V3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874925,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NA33X4mgMX98kRWk4W0kU_42.975571_-81.171135@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4d402df5c67d95d56cc6bd552dfdbbfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874925,
+            "region_id":85682057,
+            "venue_id":152479435
+        }
+    ],
     "wof:id":152479435,
-    "wof:lastmodified":1449047462,
+    "wof:lastmodified":1453935224,
     "wof:name":"London District Christian Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874925,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.171135,42.975571,-81.171135,42.975571],
-  "geometry": {"coordinates":[-81.171135,42.975571],"type":"Point"}
+  "bbox": [
+    -81.171135,
+    42.975571,
+    -81.171135,
+    42.975571
+],
+  "geometry": {"coordinates":[-81.17113500000001,42.975571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202587343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.966133,43.884388,-78.966133,43.884388",
     "geom:latitude":43.884388,
     "geom:longitude":-78.966133,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"900 Bonacord Ave",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895409,
+        102191575,
         85633041,
-        85682057
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"ba0fb48eeaa2c377b9611d742ad4ead1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":202587343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":202587343
         }
     ],
     "wof:id":202587343,
-    "wof:lastmodified":1449060981,
+    "wof:lastmodified":1453937159,
     "wof:name":"Kutting Krew",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.966133,43.884388,-78.966133,43.884388],
+  "bbox": [
+    -78.966133,
+    43.884388,
+    -78.966133,
+    43.884388
+],
   "geometry": {"coordinates":[-78.966133,43.884388],"type":"Point"}
 }

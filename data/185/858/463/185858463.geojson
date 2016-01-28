@@ -2,13 +2,14 @@
   "id": 185858463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.489685,45.719509,-73.489685,45.719509",
     "geom:latitude":45.719509,
     "geom:longitude":-73.489685,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"125 Rue Chopin",
     "sg:city":"Charlemagne",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875729,
+        102191575,
         85633041,
-        101737739
+        101737739,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"fb14cfc9023daf6fa224d4815fffacec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737739,
             "neighbourhood_id":85875729,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185858463
         }
     ],
     "wof:id":185858463,
-    "wof:lastmodified":1449006773,
+    "wof:lastmodified":1453927213,
     "wof:name":"Ultramar Libre Svc Depanneur",
     "wof:parent_id":85875729,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-73.489685,45.719509,-73.489685,45.719509],
-  "geometry": {"coordinates":[-73.489685,45.719509],"type":"Point"}
+  "bbox": [
+    -73.489685,
+    45.719509,
+    -73.489685,
+    45.719509
+],
+  "geometry": {"coordinates":[-73.48968499999999,45.719509],"type":"Point"}
 }

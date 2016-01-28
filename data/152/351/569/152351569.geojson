@@ -2,13 +2,14 @@
   "id": 152351569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.263107,43.176575,-79.263107,43.176575",
     "geom:latitude":43.176575,
     "geom:longitude":-79.263107,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"44 Scott St W",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864569,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b5f7d6dee40bfe1f3ec3a48ab7aa2d90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864569,
+            "region_id":85682057,
+            "venue_id":152351569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864569,
             "region_id":85682057,
             "venue_id":152351569
         }
     ],
     "wof:id":152351569,
-    "wof:lastmodified":1449048228,
+    "wof:lastmodified":1453935810,
     "wof:name":"Regional Doors & Hardware Ltd",
     "wof:parent_id":85864569,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.263107,43.176575,-79.263107,43.176575],
-  "geometry": {"coordinates":[-79.263107,43.176575],"type":"Point"}
+  "bbox": [
+    -79.263107,
+    43.176575,
+    -79.263107,
+    43.176575
+],
+  "geometry": {"coordinates":[-79.26310700000001,43.176575],"type":"Point"}
 }

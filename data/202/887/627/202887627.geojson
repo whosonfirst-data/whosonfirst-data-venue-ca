@@ -2,13 +2,14 @@
   "id": 202887627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.489265,43.780254,-79.489265,43.780254",
     "geom:latitude":43.780254,
     "geom:longitude":-79.489265,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1000 Petrolia Rd",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895133,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"61bdaeb6121aa28ea55241f4358c2ef4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":202887627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":202887627
         }
     ],
     "wof:id":202887627,
-    "wof:lastmodified":1449062162,
+    "wof:lastmodified":1453937403,
     "wof:name":"Indonesian Christian Church",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "church"
     ]
 },
-  "bbox": [-79.489265,43.780254,-79.489265,43.780254],
+  "bbox": [
+    -79.489265,
+    43.780254,
+    -79.489265,
+    43.780254
+],
   "geometry": {"coordinates":[-79.489265,43.780254],"type":"Point"}
 }

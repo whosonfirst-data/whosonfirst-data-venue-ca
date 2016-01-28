@@ -2,13 +2,14 @@
   "id": 152308183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.259094,45.308647,-73.259094,45.308647",
     "geom:latitude":45.308647,
     "geom:longitude":-73.259094,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"305 Rue Collin",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85874155,
+        102191575,
         85633041,
-        85874155
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"eb1d818298ff1925302310484317b2fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85874155,
+            "region_id":136251273,
             "venue_id":152308183
         }
     ],
     "wof:id":152308183,
-    "wof:lastmodified":1449049020,
+    "wof:lastmodified":1453936449,
     "wof:name":"Syndicat Vmp",
     "wof:parent_id":85874155,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.259094,45.308647,-73.259094,45.308647],
+  "bbox": [
+    -73.259094,
+    45.308647,
+    -73.259094,
+    45.308647
+],
   "geometry": {"coordinates":[-73.259094,45.308647],"type":"Point"}
 }

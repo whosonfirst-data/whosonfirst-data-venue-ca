@@ -2,13 +2,14 @@
   "id": 152195071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.217796,46.815601,-71.217796,46.815601",
     "geom:latitude":46.815601,
     "geom:longitude":-71.217796,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"895 Boul Charest O",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866509,
+        102191575,
         85633041,
-        85866509
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"6a52272273df06c8c369cad5bdeea020",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
+            "region_id":136251273,
             "venue_id":152195071
         }
     ],
     "wof:id":152195071,
-    "wof:lastmodified":1449047335,
+    "wof:lastmodified":1453935127,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.217796,46.815601,-71.217796,46.815601],
-  "geometry": {"coordinates":[-71.217796,46.815601],"type":"Point"}
+  "bbox": [
+    -71.217796,
+    46.815601,
+    -71.217796,
+    46.815601
+],
+  "geometry": {"coordinates":[-71.21779600000001,46.815601],"type":"Point"}
 }

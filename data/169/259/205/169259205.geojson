@@ -2,13 +2,14 @@
   "id": 169259205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.596176,45.562298,-73.596176,45.562298",
     "geom:latitude":45.562298,
     "geom:longitude":-73.596176,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7251 15E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"83528972bc325c4de95befaabdccf9fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":169259205
         }
     ],
     "wof:id":169259205,
-    "wof:lastmodified":1449033444,
+    "wof:lastmodified":1453929557,
     "wof:name":"Vitrerie Masson",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.596176,45.562298,-73.596176,45.562298],
+  "bbox": [
+    -73.596176,
+    45.562298,
+    -73.596176,
+    45.562298
+],
   "geometry": {"coordinates":[-73.596176,45.562298],"type":"Point"}
 }

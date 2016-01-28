@@ -2,13 +2,14 @@
   "id": 169556215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.552544,46.375172,-72.552544,46.375172",
     "geom:latitude":46.375172,
     "geom:longitude":-72.552544,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"525 Rue Barkoff",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874111,
+        102191575,
         85633041,
-        85874111
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bd8b9155a5e885f4391706c719d051ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874111,
+            "region_id":136251273,
             "venue_id":169556215
         }
     ],
     "wof:id":169556215,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1453929613,
     "wof:name":"Publi-Production",
     "wof:parent_id":85874111,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.552544,46.375172,-72.552544,46.375172],
+  "bbox": [
+    -72.552544,
+    46.375172,
+    -72.552544,
+    46.375172
+],
   "geometry": {"coordinates":[-72.552544,46.375172],"type":"Point"}
 }

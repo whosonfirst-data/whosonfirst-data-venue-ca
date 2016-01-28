@@ -2,13 +2,14 @@
   "id": 186284575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.666161,45.525192,-73.666161,45.525192",
     "geom:latitude":45.525192,
     "geom:longitude":-73.666161,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"644 Rue Deslauriers",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895725,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"766396d8d69cc747f01548c029cb86cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186284575
         }
     ],
     "wof:id":186284575,
-    "wof:lastmodified":1449052030,
+    "wof:lastmodified":1453936767,
     "wof:name":"Potager Laurentien",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.666161,45.525192,-73.666161,45.525192],
+  "bbox": [
+    -73.666161,
+    45.525192,
+    -73.666161,
+    45.525192
+],
   "geometry": {"coordinates":[-73.666161,45.525192],"type":"Point"}
 }

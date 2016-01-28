@@ -2,13 +2,14 @@
   "id": 152654795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.664116,43.708942,-79.664116,43.708942",
     "geom:latitude":43.708942,
     "geom:longitude":-79.664116,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2635 Rena Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894971,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"75f5a88d01f8dd5296bf02fbbce68cf9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894971,
+            "region_id":85682057,
+            "venue_id":152654795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894971,
             "region_id":85682057,
             "venue_id":152654795
         }
     ],
     "wof:id":152654795,
-    "wof:lastmodified":1449045856,
+    "wof:lastmodified":1453934016,
     "wof:name":"Downsview Kitchens",
     "wof:parent_id":85894971,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.664116,43.708942,-79.664116,43.708942],
-  "geometry": {"coordinates":[-79.664116,43.708942],"type":"Point"}
+  "bbox": [
+    -79.664116,
+    43.708942,
+    -79.664116,
+    43.708942
+],
+  "geometry": {"coordinates":[-79.66411600000001,43.708942],"type":"Point"}
 }

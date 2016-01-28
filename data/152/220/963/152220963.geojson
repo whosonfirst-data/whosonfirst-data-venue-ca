@@ -2,13 +2,14 @@
   "id": 152220963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.046906,45.288448,-74.046906,45.288448",
     "geom:latitude":45.288448,
     "geom:longitude":-74.046906,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5215 Boul Hebert",
     "sg:city":"Saint-Timothee",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895763,
+        102191575,
         85633041,
-        85895763
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"53d463b30a2761f2febce8661953fec4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895763,
+            "region_id":136251273,
             "venue_id":152220963
         }
     ],
     "wof:id":152220963,
-    "wof:lastmodified":1449048749,
+    "wof:lastmodified":1453936217,
     "wof:name":"Video Montmarquet",
     "wof:parent_id":85895763,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.046906,45.288448,-74.046906,45.288448],
-  "geometry": {"coordinates":[-74.046906,45.288448],"type":"Point"}
+  "bbox": [
+    -74.046906,
+    45.288448,
+    -74.046906,
+    45.288448
+],
+  "geometry": {"coordinates":[-74.04690600000001,45.288448],"type":"Point"}
 }

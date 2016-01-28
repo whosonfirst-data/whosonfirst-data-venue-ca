@@ -2,13 +2,14 @@
   "id": 169412817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.641815,45.580578,-73.641815,45.580578",
     "geom:latitude":45.580578,
     "geom:longitude":-73.641815,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3380 Rue Fleury E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d64762893c9d7359bbdb7d806e0579e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":169412817
         }
     ],
     "wof:id":169412817,
-    "wof:lastmodified":1449033362,
+    "wof:lastmodified":1453929468,
     "wof:name":"Belle Artibonitienne",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.641815,45.580578,-73.641815,45.580578],
-  "geometry": {"coordinates":[-73.641815,45.580578],"type":"Point"}
+  "bbox": [
+    -73.641815,
+    45.580578,
+    -73.641815,
+    45.580578
+],
+  "geometry": {"coordinates":[-73.64181499999999,45.580578],"type":"Point"}
 }

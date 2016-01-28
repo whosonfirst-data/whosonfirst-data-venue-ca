@@ -2,13 +2,14 @@
   "id": 152777683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.133751,45.264668,-74.133751,45.264668",
     "geom:latitude":45.264668,
     "geom:longitude":-74.133751,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"115 Rue Grande-Ile",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"51f96bc54a5247e3a5891da721857431",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":152777683
         }
     ],
     "wof:id":152777683,
-    "wof:lastmodified":1449046744,
+    "wof:lastmodified":1453934677,
     "wof:name":"Librairie Esotherique Ramtha",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.133751,45.264668,-74.133751,45.264668],
+  "bbox": [
+    -74.133751,
+    45.264668,
+    -74.133751,
+    45.264668
+],
   "geometry": {"coordinates":[-74.133751,45.264668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153007539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.251472,45.303036,-73.251472,45.303036",
     "geom:latitude":45.303036,
     "geom:longitude":-73.251472,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9 Rue Frontenac",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85875681,
+        102191575,
         85633041,
-        85875681
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"86c4a01ba40420ddbe6cf1600ae7f14a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85875681,
+            "region_id":136251273,
             "venue_id":153007539
         }
     ],
     "wof:id":153007539,
-    "wof:lastmodified":1449040745,
+    "wof:lastmodified":1453932661,
     "wof:name":"Voitures DE Cinema Real",
     "wof:parent_id":85875681,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.251472,45.303036,-73.251472,45.303036],
-  "geometry": {"coordinates":[-73.251472,45.303036],"type":"Point"}
+  "bbox": [
+    -73.251472,
+    45.303036,
+    -73.251472,
+    45.303036
+],
+  "geometry": {"coordinates":[-73.25147200000001,45.303036],"type":"Point"}
 }

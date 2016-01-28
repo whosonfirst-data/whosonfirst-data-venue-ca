@@ -2,13 +2,14 @@
   "id": 152740193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.253975,43.027744,-82.253975,43.027744",
     "geom:latitude":43.027744,
     "geom:longitude":-82.253975,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2684 Lakeshore Rd",
     "sg:city":"Brights Grove",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864451,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"78d7cd0eac382ece35d5ef33fe4a05db",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85864451,
+            "region_id":85682057,
+            "venue_id":152740193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85864451,
             "region_id":85682057,
             "venue_id":152740193
         }
     ],
     "wof:id":152740193,
-    "wof:lastmodified":1449046406,
+    "wof:lastmodified":1453934435,
     "wof:name":"Sears Canada Inc",
     "wof:parent_id":85864451,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.253975,43.027744,-82.253975,43.027744],
+  "bbox": [
+    -82.253975,
+    43.027744,
+    -82.253975,
+    43.027744
+],
   "geometry": {"coordinates":[-82.253975,43.027744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185598669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.735573,45.580429,-73.735573,45.580429",
     "geom:latitude":45.580429,
     "geom:longitude":-73.735573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1535 Rue Cunard",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875067,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"0d21caf77dde600237e4323d690c05f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185598669
         }
     ],
     "wof:id":185598669,
-    "wof:lastmodified":1449006663,
+    "wof:lastmodified":1453927200,
     "wof:name":"Laval Fourriere-Autos",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "village"
     ]
 },
-  "bbox": [-73.735573,45.580429,-73.735573,45.580429],
+  "bbox": [
+    -73.735573,
+    45.580429,
+    -73.735573,
+    45.580429
+],
   "geometry": {"coordinates":[-73.735573,45.580429],"type":"Point"}
 }

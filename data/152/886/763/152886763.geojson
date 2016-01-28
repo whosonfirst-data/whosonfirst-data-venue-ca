@@ -2,13 +2,14 @@
   "id": 152886763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.130058,45.254597,-74.130058,45.254597",
     "geom:latitude":45.254597,
     "geom:longitude":-74.130058,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"109 Rue Champlain",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f45a5a066da057799a3503a2463c00ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":152886763
         }
     ],
     "wof:id":152886763,
-    "wof:lastmodified":1449046860,
+    "wof:lastmodified":1453934760,
     "wof:name":"Librairie Jamunik Enrg",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.130058,45.254597,-74.130058,45.254597],
-  "geometry": {"coordinates":[-74.130058,45.254597],"type":"Point"}
+  "bbox": [
+    -74.130058,
+    45.254597,
+    -74.130058,
+    45.254597
+],
+  "geometry": {"coordinates":[-74.13005800000001,45.254597],"type":"Point"}
 }

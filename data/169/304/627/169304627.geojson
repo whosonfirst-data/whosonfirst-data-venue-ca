@@ -2,13 +2,14 @@
   "id": 169304627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.577774,45.503601,-73.577774,45.503601",
     "geom:latitude":45.503601,
     "geom:longitude":-73.577774,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3480 Rue Mctavish",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"593e424907f232f455b50002d63306e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":169304627
         }
     ],
     "wof:id":169304627,
-    "wof:lastmodified":1449035133,
+    "wof:lastmodified":1453931355,
     "wof:name":"Voyages Campus",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.577774,45.503601,-73.577774,45.503601],
-  "geometry": {"coordinates":[-73.577774,45.503601],"type":"Point"}
+  "bbox": [
+    -73.577774,
+    45.503601,
+    -73.577774,
+    45.503601
+],
+  "geometry": {"coordinates":[-73.57777400000001,45.503601],"type":"Point"}
 }

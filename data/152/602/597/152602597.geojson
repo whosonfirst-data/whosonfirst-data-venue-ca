@@ -2,13 +2,14 @@
   "id": 152602597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.700127,45.461845,-75.700127,45.461845",
     "geom:latitude":45.461845,
     "geom:longitude":-75.700127,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"56 Boul Greber",
     "sg:city":"Gatineau",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874503,
+        102191575,
         85633041,
-        85874503
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"fe763949fbf0201aa1b5b1be6980a38c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
+            "region_id":136251273,
             "venue_id":152602597
         }
     ],
     "wof:id":152602597,
-    "wof:lastmodified":1449046479,
+    "wof:lastmodified":1453934490,
     "wof:name":"Grenier Modaprix",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.700127,45.461845,-75.700127,45.461845],
-  "geometry": {"coordinates":[-75.700127,45.461845],"type":"Point"}
+  "bbox": [
+    -75.700127,
+    45.461845,
+    -75.700127,
+    45.461845
+],
+  "geometry": {"coordinates":[-75.70012699999999,45.461845],"type":"Point"}
 }

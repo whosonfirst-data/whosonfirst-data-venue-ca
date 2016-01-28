@@ -2,13 +2,14 @@
   "id": 169232875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.692818,44.390316,-79.692818,44.390316",
     "geom:latitude":44.390316,
     "geom:longitude":-79.692818,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Maple Ave",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HfLprWWPMH56zV0OawohU_44.390316_-79.692818@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"3dd9936b0d695e61dceb9b4fdfddfea6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":169232875
+        }
+    ],
     "wof:id":169232875,
-    "wof:lastmodified":1449033755,
+    "wof:lastmodified":1453929889,
     "wof:name":"Mc Master, Carol PhD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.692818,44.390316,-79.692818,44.390316],
+  "bbox": [
+    -79.692818,
+    44.390316,
+    -79.692818,
+    44.390316
+],
   "geometry": {"coordinates":[-79.692818,44.390316],"type":"Point"}
 }

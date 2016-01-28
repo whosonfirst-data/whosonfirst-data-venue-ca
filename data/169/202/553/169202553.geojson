@@ -2,13 +2,14 @@
   "id": 169202553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.443016,45.586792,-73.443016,45.586792",
     "geom:latitude":45.586792,
     "geom:longitude":-73.443016,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"307 Boul DE Mortagne",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875737,
+        102191575,
         85633041,
-        85875737
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"72456c5314b7511a755e18f74df5646c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875737,
+            "region_id":136251273,
             "venue_id":169202553
         }
     ],
     "wof:id":169202553,
-    "wof:lastmodified":1449035525,
+    "wof:lastmodified":1453931765,
     "wof:name":"Unicarte Photo D'Identificatio",
     "wof:parent_id":85875737,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.443016,45.586792,-73.443016,45.586792],
+  "bbox": [
+    -73.443016,
+    45.586792,
+    -73.443016,
+    45.586792
+],
   "geometry": {"coordinates":[-73.443016,45.586792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168951001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.912102,43.88652,-78.912102,43.88652",
     "geom:latitude":43.88652,
     "geom:longitude":-78.912102,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Whitby",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875157,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"4bc1312ace81dd02f3d550d0e1aee692",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875157,
+            "region_id":85682057,
+            "venue_id":168951001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875157,
             "region_id":85682057,
             "venue_id":168951001
         }
     ],
     "wof:id":168951001,
-    "wof:lastmodified":1449027793,
+    "wof:lastmodified":1453927806,
     "wof:name":"Twain Gold & Diamond Ctr",
     "wof:parent_id":85875157,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.912102,43.88652,-78.912102,43.88652],
+  "bbox": [
+    -78.912102,
+    43.88652,
+    -78.912102,
+    43.88652
+],
   "geometry": {"coordinates":[-78.912102,43.88652],"type":"Point"}
 }

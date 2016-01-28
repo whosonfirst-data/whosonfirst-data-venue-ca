@@ -2,13 +2,14 @@
   "id": 152570011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.902939,45.379967,-71.902939,45.379967",
     "geom:latitude":45.379967,
     "geom:longitude":-71.902939,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Ascot",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874185,
+        102191575,
         85633041,
-        85874185
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b7a72a54c9d08ef14251b265ba4a81bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874185,
+            "region_id":136251273,
             "venue_id":152570011
         }
     ],
     "wof:id":152570011,
-    "wof:lastmodified":1449047042,
+    "wof:lastmodified":1453934905,
     "wof:name":"Luc Allard Information",
     "wof:parent_id":85874185,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.902939,45.379967,-71.902939,45.379967],
+  "bbox": [
+    -71.902939,
+    45.379967,
+    -71.902939,
+    45.379967
+],
   "geometry": {"coordinates":[-71.902939,45.379967],"type":"Point"}
 }

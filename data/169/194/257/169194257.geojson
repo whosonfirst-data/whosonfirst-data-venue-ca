@@ -2,13 +2,14 @@
   "id": 169194257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.81324,45.579468,-73.81324,45.579468",
     "geom:latitude":45.579468,
     "geom:longitude":-73.81324,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"707 Montee Montrougeau",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864423,
+        102191575,
         85633041,
-        85864423
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"51090131ea84439622180594882e0e8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864423,
+            "region_id":136251273,
             "venue_id":169194257
         }
     ],
     "wof:id":169194257,
-    "wof:lastmodified":1449035485,
+    "wof:lastmodified":1453931717,
     "wof:name":"Garderie Pirouette",
     "wof:parent_id":85864423,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.81324,45.579468,-73.81324,45.579468],
-  "geometry": {"coordinates":[-73.81324,45.579468],"type":"Point"}
+  "bbox": [
+    -73.81324,
+    45.579468,
+    -73.81324,
+    45.579468
+],
+  "geometry": {"coordinates":[-73.81323999999999,45.579468],"type":"Point"}
 }

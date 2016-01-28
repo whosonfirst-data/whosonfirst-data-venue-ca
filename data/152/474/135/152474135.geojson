@@ -2,13 +2,14 @@
   "id": 152474135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.64032,43.652565,-79.64032,43.652565",
     "geom:latitude":43.652565,
     "geom:longitude":-79.64032,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1555 Enterprise Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ca2e02e794ab1a655e05502ab16e0041",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152474135
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152474135
         }
     ],
     "wof:id":152474135,
-    "wof:lastmodified":1449044488,
+    "wof:lastmodified":1453932969,
     "wof:name":"Dbg the Dibiasi Group",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.64032,43.652565,-79.64032,43.652565],
+  "bbox": [
+    -79.64032,
+    43.652565,
+    -79.64032,
+    43.652565
+],
   "geometry": {"coordinates":[-79.64032,43.652565],"type":"Point"}
 }

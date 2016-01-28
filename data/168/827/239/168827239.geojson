@@ -2,13 +2,14 @@
   "id": 168827239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.927963,44.019913,-78.927963,44.019913",
     "geom:latitude":44.019913,
     "geom:longitude":-78.927963,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Hurd St",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864685,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"18ff651d315b18f41c2183df891c2eaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85864685,
+            "region_id":85682057,
+            "venue_id":168827239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85864685,
             "region_id":85682057,
             "venue_id":168827239
         }
     ],
     "wof:id":168827239,
-    "wof:lastmodified":1449028030,
+    "wof:lastmodified":1453928077,
     "wof:name":"Marrch Mechanical Svc",
     "wof:parent_id":85864685,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.927963,44.019913,-78.927963,44.019913],
-  "geometry": {"coordinates":[-78.927963,44.019913],"type":"Point"}
+  "bbox": [
+    -78.927963,
+    44.019913,
+    -78.927963,
+    44.019913
+],
+  "geometry": {"coordinates":[-78.92796300000001,44.019913],"type":"Point"}
 }

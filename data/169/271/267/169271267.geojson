@@ -2,13 +2,14 @@
   "id": 169271267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.426926,43.827339,-79.426926,43.827339",
     "geom:latitude":43.827339,
     "geom:longitude":-79.426926,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8175 Yonge St",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895421,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"fda43842375944b875773633df8a1164",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895421,
+            "region_id":85682057,
+            "venue_id":169271267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895421,
             "region_id":85682057,
             "venue_id":169271267
         }
     ],
     "wof:id":169271267,
-    "wof:lastmodified":1449034415,
+    "wof:lastmodified":1453930601,
     "wof:name":"Csl Management & Dental Ltd",
     "wof:parent_id":85895421,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.426926,43.827339,-79.426926,43.827339],
-  "geometry": {"coordinates":[-79.426926,43.827339],"type":"Point"}
+  "bbox": [
+    -79.426926,
+    43.827339,
+    -79.426926,
+    43.827339
+],
+  "geometry": {"coordinates":[-79.42692599999999,43.827339],"type":"Point"}
 }

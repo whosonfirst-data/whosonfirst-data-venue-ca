@@ -2,13 +2,14 @@
   "id": 152777797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.301094,43.006851,-81.301094,43.006851",
     "geom:latitude":43.006851,
     "geom:longitude":-81.301094,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"55 Friars Way",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874929,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14ugolJxNFa7nC6zDv3lhz_43.006851_-81.301094@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"61be2a7925c9488d01ac0bdd1fa114ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874929,
+            "region_id":85682057,
+            "venue_id":152777797
+        }
+    ],
     "wof:id":152777797,
-    "wof:lastmodified":1449046745,
+    "wof:lastmodified":1453934679,
     "wof:name":"Milne Building & Remodelling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.301094,43.006851,-81.301094,43.006851],
-  "geometry": {"coordinates":[-81.301094,43.006851],"type":"Point"}
+  "bbox": [
+    -81.301094,
+    43.006851,
+    -81.301094,
+    43.006851
+],
+  "geometry": {"coordinates":[-81.30109400000001,43.006851],"type":"Point"}
 }

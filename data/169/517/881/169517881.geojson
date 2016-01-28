@@ -2,13 +2,14 @@
   "id": 169517881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.791725,45.362804,-75.791725,45.362804",
     "geom:latitude":45.362804,
     "geom:longitude":-75.791725,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"367 Poulin Ave",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85864511,
+        102191575,
         85633041,
-        85864511
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"69dd89f6727b91de533a31466dc34f99",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85864511,
+            "region_id":136251273,
             "venue_id":169517881
         }
     ],
     "wof:id":169517881,
-    "wof:lastmodified":1449034572,
+    "wof:lastmodified":1453930789,
     "wof:name":"Chandlery",
     "wof:parent_id":85864511,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.791725,45.362804,-75.791725,45.362804],
+  "bbox": [
+    -75.791725,
+    45.362804,
+    -75.791725,
+    45.362804
+],
   "geometry": {"coordinates":[-75.791725,45.362804],"type":"Point"}
 }

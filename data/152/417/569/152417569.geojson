@@ -2,13 +2,14 @@
   "id": 152417569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.324013,46.799107,-71.324013,46.799107",
     "geom:latitude":46.799107,
     "geom:longitude":-71.324013,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"e92416930791b1415531920aacd71fa9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152417569
         }
     ],
     "wof:id":152417569,
-    "wof:lastmodified":1449046203,
+    "wof:lastmodified":1453934276,
     "wof:name":"Ebqm Metropolitain",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.324013,46.799107,-71.324013,46.799107],
-  "geometry": {"coordinates":[-71.324013,46.799107],"type":"Point"}
+  "bbox": [
+    -71.324013,
+    46.799107,
+    -71.324013,
+    46.799107
+],
+  "geometry": {"coordinates":[-71.32401299999999,46.799107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152973223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.790977,43.710632,-79.790977,43.710632",
     "geom:latitude":43.710632,
     "geom:longitude":-79.790977,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"17 Wexford Rd",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895387,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,24 @@
     "wof:geomhash":"e79f05ce3f2c767324c00d3fa9d17221",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895387,
+            "region_id":85682057,
+            "venue_id":152973223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895387,
             "region_id":85682057,
             "venue_id":152973223
         }
     ],
     "wof:id":152973223,
-    "wof:lastmodified":1449047068,
+    "wof:lastmodified":1453934928,
     "wof:name":"Debmar Distributing Inc",
     "wof:parent_id":85895387,
     "wof:placetype":"venue",
@@ -60,6 +73,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.790977,43.710632,-79.790977,43.710632],
+  "bbox": [
+    -79.790977,
+    43.710632,
+    -79.790977,
+    43.710632
+],
   "geometry": {"coordinates":[-79.790977,43.710632],"type":"Point"}
 }

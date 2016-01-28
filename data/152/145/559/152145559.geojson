@@ -2,13 +2,14 @@
   "id": 152145559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.739449,45.439182,-73.739449,45.439182",
     "geom:latitude":45.439182,
     "geom:longitude":-73.739449,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"105 Av Dorval",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85864409,
+        102191575,
         85633041,
-        85864409
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5ab8a8137e27888731d50b5a7eb17cad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85864409,
+            "region_id":136251273,
             "venue_id":152145559
         }
     ],
     "wof:id":152145559,
-    "wof:lastmodified":1449045715,
+    "wof:lastmodified":1453933906,
     "wof:name":"Ave Dorval Centre D'Auto 2000",
     "wof:parent_id":85864409,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.739449,45.439182,-73.739449,45.439182],
-  "geometry": {"coordinates":[-73.739449,45.439182],"type":"Point"}
+  "bbox": [
+    -73.739449,
+    45.439182,
+    -73.739449,
+    45.439182
+],
+  "geometry": {"coordinates":[-73.73944899999999,45.439182],"type":"Point"}
 }

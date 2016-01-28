@@ -2,13 +2,14 @@
   "id": 168922763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.506355,45.518394,-73.506355,45.518394",
     "geom:latitude":45.518394,
     "geom:longitude":-73.506355,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1232 Rue Josephine",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875719,
+        102191575,
         85633041,
-        85875719
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"39c090e009af8a8066a3ee9e32f1e5d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875719,
+            "region_id":136251273,
             "venue_id":168922763
         }
     ],
     "wof:id":168922763,
-    "wof:lastmodified":1449027849,
+    "wof:lastmodified":1453927867,
     "wof:name":"Depanneur Therese",
     "wof:parent_id":85875719,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.506355,45.518394,-73.506355,45.518394],
+  "bbox": [
+    -73.506355,
+    45.518394,
+    -73.506355,
+    45.518394
+],
   "geometry": {"coordinates":[-73.506355,45.518394],"type":"Point"}
 }

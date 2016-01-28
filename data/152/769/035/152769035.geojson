@@ -2,13 +2,14 @@
   "id": 152769035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.265717,42.978462,-81.265717,42.978462",
     "geom:latitude":42.978462,
     "geom:longitude":-81.265717,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"19 Riverview Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6J 1A3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864623,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13wNSdbnHk4R7Ml3MJiaM3_42.978462_-81.265717@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"875ed0508e4853e7d9ab92f1c68105a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864623,
+            "region_id":85682057,
+            "venue_id":152769035
+        }
+    ],
     "wof:id":152769035,
-    "wof:lastmodified":1449045839,
+    "wof:lastmodified":1453934003,
     "wof:name":"Ches Rosa Unisex Hair Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.265717,42.978462,-81.265717,42.978462],
+  "bbox": [
+    -81.265717,
+    42.978462,
+    -81.265717,
+    42.978462
+],
   "geometry": {"coordinates":[-81.265717,42.978462],"type":"Point"}
 }

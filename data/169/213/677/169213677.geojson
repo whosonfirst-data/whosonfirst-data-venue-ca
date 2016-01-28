@@ -2,13 +2,14 @@
   "id": 169213677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566803,45.64304,-73.566803,45.64304",
     "geom:latitude":45.64304,
     "geom:longitude":-73.566803,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11650 Av J.-J.-Joubert",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871105,
+        102191575,
         85633041,
-        85871105
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"99a0e6cf004e9cdc2d60860b5ab37fdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
+            "region_id":136251273,
             "venue_id":169213677
         }
     ],
     "wof:id":169213677,
-    "wof:lastmodified":1449032722,
+    "wof:lastmodified":1453928833,
     "wof:name":"Plimetal Inc",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566803,45.64304,-73.566803,45.64304],
-  "geometry": {"coordinates":[-73.566803,45.64304],"type":"Point"}
+  "bbox": [
+    -73.566803,
+    45.64304,
+    -73.566803,
+    45.64304
+],
+  "geometry": {"coordinates":[-73.56680299999999,45.64304],"type":"Point"}
 }

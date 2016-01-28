@@ -2,13 +2,14 @@
   "id": 168941111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.953331,49.306625,-122.953331,49.306625",
     "geom:latitude":49.306625,
     "geom:longitude":-122.953331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"415 Dollarton Hwy N",
     "sg:city":"North Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741071,
-        85633041,
         85894919,
+        102191575,
+        85633041,
+        101741071,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"68f745380dc7eaff5501c3430a440d8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741071,
             "neighbourhood_id":85894919,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":168941111,
-    "wof:lastmodified":1449028239,
+    "wof:lastmodified":1453928305,
     "wof:name":"Super Valu",
     "wof:parent_id":85894919,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.953331,49.306625,-122.953331,49.306625],
-  "geometry": {"coordinates":[-122.953331,49.306625],"type":"Point"}
+  "bbox": [
+    -122.953331,
+    49.306625,
+    -122.953331,
+    49.306625
+],
+  "geometry": {"coordinates":[-122.95333100000001,49.306625],"type":"Point"}
 }

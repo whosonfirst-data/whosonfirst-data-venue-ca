@@ -2,13 +2,14 @@
   "id": 219292269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.647064,43.575726,-79.647064,43.575726",
     "geom:latitude":43.575726,
     "geom:longitude":-79.647064,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3490 Mavis Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895473,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"4f25ba130ca6ee64fe322279f76ed120",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895473,
+            "region_id":85682057,
+            "venue_id":219292269
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895473,
             "region_id":85682057,
             "venue_id":219292269
         }
     ],
     "wof:id":219292269,
-    "wof:lastmodified":1449070686,
+    "wof:lastmodified":1453937578,
     "wof:name":"Mississauga Vet Emergency Clnc",
     "wof:parent_id":85895473,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-79.647064,43.575726,-79.647064,43.575726],
+  "bbox": [
+    -79.647064,
+    43.575726,
+    -79.647064,
+    43.575726
+],
   "geometry": {"coordinates":[-79.647064,43.575726],"type":"Point"}
 }

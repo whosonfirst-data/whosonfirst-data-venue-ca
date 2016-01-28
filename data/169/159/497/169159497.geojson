@@ -2,13 +2,14 @@
   "id": 169159497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.568871,45.51923,-73.568871,45.51923",
     "geom:latitude":45.51923,
     "geom:longitude":-73.568871,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866475,
+        102191575,
         85633041,
-        85866475
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"35f7256b09c898bdaffa4f1476204250",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
+            "region_id":136251273,
             "venue_id":169159497
         }
     ],
     "wof:id":169159497,
-    "wof:lastmodified":1449033080,
+    "wof:lastmodified":1453929204,
     "wof:name":"Benoit, Louise",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.568871,45.51923,-73.568871,45.51923],
+  "bbox": [
+    -73.568871,
+    45.51923,
+    -73.568871,
+    45.51923
+],
   "geometry": {"coordinates":[-73.568871,45.51923],"type":"Point"}
 }

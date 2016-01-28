@@ -2,13 +2,14 @@
   "id": 169107103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.941368,43.918961,-78.941368,43.918961",
     "geom:latitude":43.918961,
     "geom:longitude":-78.941368,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"380 Taunton Rd E",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875169,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"37e0b8e1ae214890a783110a80bc833a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875169,
+            "region_id":85682057,
+            "venue_id":169107103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875169,
             "region_id":85682057,
             "venue_id":169107103
         }
     ],
     "wof:id":169107103,
-    "wof:lastmodified":1449032700,
+    "wof:lastmodified":1453928812,
     "wof:name":"Sinclair Secondary School",
     "wof:parent_id":85875169,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.941368,43.918961,-78.941368,43.918961],
+  "bbox": [
+    -78.941368,
+    43.918961,
+    -78.941368,
+    43.918961
+],
   "geometry": {"coordinates":[-78.941368,43.918961],"type":"Point"}
 }

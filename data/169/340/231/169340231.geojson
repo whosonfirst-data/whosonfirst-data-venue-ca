@@ -2,13 +2,14 @@
   "id": 169340231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.685303,43.665401,-79.685303,43.665401",
     "geom:latitude":43.665401,
     "geom:longitude":-79.685303,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1b17fe0117f5bc4a56ae2fb9ee8f3d46",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":169340231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":169340231
         }
     ],
     "wof:id":169340231,
-    "wof:lastmodified":1449035208,
+    "wof:lastmodified":1453931411,
     "wof:name":"Olbert Metal Sales Ltd",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.685303,43.665401,-79.685303,43.665401],
+  "bbox": [
+    -79.685303,
+    43.665401,
+    -79.685303,
+    43.665401
+],
   "geometry": {"coordinates":[-79.685303,43.665401],"type":"Point"}
 }

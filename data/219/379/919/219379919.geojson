@@ -2,13 +2,14 @@
   "id": 219379919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.552612,45.5676,-73.552612,45.5676",
     "geom:latitude":45.5676,
     "geom:longitude":-73.552612,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5220 Rue Sherbrooke O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874371,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"415e4ae0d77b44e2b27a9ee5e197123c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219379919
         }
     ],
     "wof:id":219379919,
-    "wof:lastmodified":1449072433,
+    "wof:lastmodified":1453937814,
     "wof:name":"Trinity Memorial Church",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "church"
     ]
 },
-  "bbox": [-73.552612,45.5676,-73.552612,45.5676],
+  "bbox": [
+    -73.552612,
+    45.5676,
+    -73.552612,
+    45.5676
+],
   "geometry": {"coordinates":[-73.552612,45.5676],"type":"Point"}
 }

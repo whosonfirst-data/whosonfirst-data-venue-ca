@@ -2,13 +2,14 @@
   "id": 169034381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.242325,43.162361,-79.242325,43.162361",
     "geom:latitude":43.162361,
     "geom:longitude":-79.242325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"216 King St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e6caca4638967f8f05f2bc97e2bfb5c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":169034381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":169034381
         }
     ],
     "wof:id":169034381,
-    "wof:lastmodified":1449033044,
+    "wof:lastmodified":1453929169,
     "wof:name":"Town House Antiques",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.242325,43.162361,-79.242325,43.162361],
-  "geometry": {"coordinates":[-79.242325,43.162361],"type":"Point"}
+  "bbox": [
+    -79.242325,
+    43.162361,
+    -79.242325,
+    43.162361
+],
+  "geometry": {"coordinates":[-79.24232499999999,43.162361],"type":"Point"}
 }

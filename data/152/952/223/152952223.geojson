@@ -2,13 +2,14 @@
   "id": 152952223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.721909,45.570881,-73.721909,45.570881",
     "geom:latitude":45.570881,
     "geom:longitude":-73.721909,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5501bd4f07196766b00bbd2eae969d73",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":152952223
         }
     ],
     "wof:id":152952223,
-    "wof:lastmodified":1449047623,
+    "wof:lastmodified":1453935362,
     "wof:name":"Simo Management Inc",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.721909,45.570881,-73.721909,45.570881],
+  "bbox": [
+    -73.721909,
+    45.570881,
+    -73.721909,
+    45.570881
+],
   "geometry": {"coordinates":[-73.721909,45.570881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203143951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.124855,44.108456,-79.124855,44.108456",
     "geom:latitude":44.108456,
     "geom:longitude":-79.124855,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"97 Brock St W",
     "sg:city":"Uxbridge",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895405,
         102191575,
         85633041,
-        85895405
+        101736087,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736087,
             "neighbourhood_id":85895405,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":203143951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
+            "neighbourhood_id":85895405,
+            "region_id":85682057,
             "venue_id":203143951
         }
     ],
     "wof:id":203143951,
-    "wof:lastmodified":1449026522,
+    "wof:lastmodified":1453927694,
     "wof:name":"Len Graphics Ltd",
     "wof:parent_id":85895405,
     "wof:placetype":"venue",
@@ -59,6 +70,11 @@
         "printer"
     ]
 },
-  "bbox": [-79.124855,44.108456,-79.124855,44.108456],
+  "bbox": [
+    -79.124855,
+    44.108456,
+    -79.124855,
+    44.108456
+],
   "geometry": {"coordinates":[-79.124855,44.108456],"type":"Point"}
 }

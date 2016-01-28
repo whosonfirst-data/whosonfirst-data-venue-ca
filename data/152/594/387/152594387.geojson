@@ -2,13 +2,14 @@
   "id": 152594387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572029,45.613045,-73.572029,45.613045",
     "geom:latitude":45.613045,
     "geom:longitude":-73.572029,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7887 Rue Grenache",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6d4b32c0e8ab5932411ffb3aafaaf03b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152594387
         }
     ],
     "wof:id":152594387,
-    "wof:lastmodified":1449044971,
+    "wof:lastmodified":1453933344,
     "wof:name":"Centre DE Mecanique Henri",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572029,45.613045,-73.572029,45.613045],
+  "bbox": [
+    -73.572029,
+    45.613045,
+    -73.572029,
+    45.613045
+],
   "geometry": {"coordinates":[-73.572029,45.613045],"type":"Point"}
 }

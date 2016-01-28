@@ -2,13 +2,14 @@
   "id": 168854521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.656235,43.665386,-79.656235,43.665386",
     "geom:latitude":43.665386,
     "geom:longitude":-79.656235,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1591 Courtneypark Dr E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1e74de89eb2c0a48419493d6a8122224",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":168854521
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":168854521
         }
     ],
     "wof:id":168854521,
-    "wof:lastmodified":1449028558,
+    "wof:lastmodified":1453928651,
     "wof:name":"Accu Litho Svc",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.656235,43.665386,-79.656235,43.665386],
+  "bbox": [
+    -79.656235,
+    43.665386,
+    -79.656235,
+    43.665386
+],
   "geometry": {"coordinates":[-79.656235,43.665386],"type":"Point"}
 }

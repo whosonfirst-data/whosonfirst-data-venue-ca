@@ -2,13 +2,14 @@
   "id": 169122237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.815941,45.502811,-73.815941,45.502811",
     "geom:latitude":45.502811,
     "geom:longitude":-73.815941,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4741 Boul Des Sources",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"0e3d4194c8fe1d99bcea3b13830eafae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":169122237
         }
     ],
     "wof:id":169122237,
-    "wof:lastmodified":1449034556,
+    "wof:lastmodified":1453930767,
     "wof:name":"Hopital Veterinaires-Sources",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.815941,45.502811,-73.815941,45.502811],
+  "bbox": [
+    -73.815941,
+    45.502811,
+    -73.815941,
+    45.502811
+],
   "geometry": {"coordinates":[-73.815941,45.502811],"type":"Point"}
 }

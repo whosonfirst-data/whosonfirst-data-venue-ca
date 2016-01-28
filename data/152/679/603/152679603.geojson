@@ -2,13 +2,14 @@
   "id": 152679603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.84005,45.568939,-73.84005,45.568939",
     "geom:latitude":45.568939,
     "geom:longitude":-73.84005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"996 Rue Gerbault",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875055,
+        102191575,
         85633041,
-        85875055
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e1ebd2c6374771659db9b798e8f27615",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875055,
+            "region_id":136251273,
             "venue_id":152679603
         }
     ],
     "wof:id":152679603,
-    "wof:lastmodified":1449047271,
+    "wof:lastmodified":1453935078,
     "wof:name":"Services Financiers Cit",
     "wof:parent_id":85875055,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.84005,45.568939,-73.84005,45.568939],
-  "geometry": {"coordinates":[-73.84005,45.568939],"type":"Point"}
+  "bbox": [
+    -73.84005,
+    45.568939,
+    -73.84005,
+    45.568939
+],
+  "geometry": {"coordinates":[-73.84005000000001,45.568939],"type":"Point"}
 }

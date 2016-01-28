@@ -2,13 +2,14 @@
   "id": 169265107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.468025,45.733643,-73.468025,45.733643",
     "geom:latitude":45.733643,
     "geom:longitude":-73.468025,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"291 Boul Larochelle",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b5f2447ef424f3f7c179689731a39982",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169265107
         }
     ],
     "wof:id":169265107,
-    "wof:lastmodified":1449033810,
+    "wof:lastmodified":1453929964,
     "wof:name":"Ultramar",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.468025,45.733643,-73.468025,45.733643],
+  "bbox": [
+    -73.468025,
+    45.733643,
+    -73.468025,
+    45.733643
+],
   "geometry": {"coordinates":[-73.468025,45.733643],"type":"Point"}
 }

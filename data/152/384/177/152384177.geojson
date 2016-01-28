@@ -2,13 +2,14 @@
   "id": 152384177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.304276,46.78754,-71.304276,46.78754",
     "geom:latitude":46.78754,
     "geom:longitude":-71.304276,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2659 Av Watt # 7",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874709,
+        102191575,
         85633041,
-        85874709
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e926c89789e15712df24197aaddb75ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874709,
+            "region_id":136251273,
             "venue_id":152384177
         }
     ],
     "wof:id":152384177,
-    "wof:lastmodified":1449044880,
+    "wof:lastmodified":1453933276,
     "wof:name":"Dupli",
     "wof:parent_id":85874709,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.304276,46.78754,-71.304276,46.78754],
+  "bbox": [
+    -71.304276,
+    46.78754,
+    -71.304276,
+    46.78754
+],
   "geometry": {"coordinates":[-71.304276,46.78754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169230235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.473808,45.494892,-73.473808,45.494892",
     "geom:latitude":45.494892,
     "geom:longitude":-73.473808,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3428 LA Grande-Allee",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875767,
+        102191575,
         85633041,
-        85875767
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"36e5640038e7f72a8fdfe3a4072ce7b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875767,
+            "region_id":136251273,
             "venue_id":169230235
         }
     ],
     "wof:id":169230235,
-    "wof:lastmodified":1449035125,
+    "wof:lastmodified":1453931346,
     "wof:name":"Enseignes Rock Roux",
     "wof:parent_id":85875767,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.473808,45.494892,-73.473808,45.494892],
-  "geometry": {"coordinates":[-73.473808,45.494892],"type":"Point"}
+  "bbox": [
+    -73.473808,
+    45.494892,
+    -73.473808,
+    45.494892
+],
+  "geometry": {"coordinates":[-73.47380800000001,45.494892],"type":"Point"}
 }

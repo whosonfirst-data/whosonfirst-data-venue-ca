@@ -2,13 +2,14 @@
   "id": 168926861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.454338,45.617348,-73.454338,45.617348",
     "geom:latitude":45.617348,
     "geom:longitude":-73.454338,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"46 Rue DE Niverville",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875751,
+        102191575,
         85633041,
-        85875751
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7a6275116e7db8d0b6c5f136cb9f7047",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875751,
+            "region_id":136251273,
             "venue_id":168926861
         }
     ],
     "wof:id":168926861,
-    "wof:lastmodified":1449028021,
+    "wof:lastmodified":1453928072,
     "wof:name":"Mecaniques Onil Gagne Inc",
     "wof:parent_id":85875751,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.454338,45.617348,-73.454338,45.617348],
-  "geometry": {"coordinates":[-73.454338,45.617348],"type":"Point"}
+  "bbox": [
+    -73.454338,
+    45.617348,
+    -73.454338,
+    45.617348
+],
+  "geometry": {"coordinates":[-73.45433800000001,45.617348],"type":"Point"}
 }

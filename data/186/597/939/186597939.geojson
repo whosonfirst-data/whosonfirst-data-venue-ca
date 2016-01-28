@@ -2,13 +2,14 @@
   "id": 186597939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.454826,45.566673,-73.454826,45.566673",
     "geom:latitude":45.566673,
     "geom:longitude":-73.454826,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2604 Ch Du Lac",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875753,
+        102191575,
         85633041,
-        101738135
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"623fd3b876cfee0c432742199358a091",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186597939
         }
     ],
     "wof:id":186597939,
-    "wof:lastmodified":1449053004,
+    "wof:lastmodified":1453936942,
     "wof:name":"Nord Construction Inc",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.454826,45.566673,-73.454826,45.566673],
+  "bbox": [
+    -73.454826,
+    45.566673,
+    -73.454826,
+    45.566673
+],
   "geometry": {"coordinates":[-73.454826,45.566673],"type":"Point"}
 }

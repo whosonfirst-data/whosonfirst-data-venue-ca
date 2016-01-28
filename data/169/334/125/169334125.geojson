@@ -2,13 +2,14 @@
   "id": 169334125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.873055,43.523438,-79.873055,43.523438",
     "geom:latitude":43.523438,
     "geom:longitude":-79.873055,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Milton",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895175,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"eb62e5bffeb06d27adc11826e2ff2e3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895175,
+            "region_id":85682057,
+            "venue_id":169334125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895175,
             "region_id":85682057,
             "venue_id":169334125
         }
     ],
     "wof:id":169334125,
-    "wof:lastmodified":1449033653,
+    "wof:lastmodified":1453929772,
     "wof:name":"Padgett Business Svc",
     "wof:parent_id":85895175,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.873055,43.523438,-79.873055,43.523438],
-  "geometry": {"coordinates":[-79.873055,43.523438],"type":"Point"}
+  "bbox": [
+    -79.873055,
+    43.523438,
+    -79.873055,
+    43.523438
+],
+  "geometry": {"coordinates":[-79.87305499999999,43.523438],"type":"Point"}
 }

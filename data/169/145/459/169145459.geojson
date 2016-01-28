@@ -2,13 +2,14 @@
   "id": 169145459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.645569,45.491379,-73.645569,45.491379",
     "geom:latitude":45.491379,
     "geom:longitude":-73.645569,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6525 Boul Decarie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866499,
+        102191575,
         85633041,
-        85866499
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1ad3d736f74a4619dbffa68484955c2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866499,
+            "region_id":136251273,
             "venue_id":169145459
         }
     ],
     "wof:id":169145459,
-    "wof:lastmodified":1449033694,
+    "wof:lastmodified":1453929821,
     "wof:name":"Kokin, Morris",
     "wof:parent_id":85866499,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.645569,45.491379,-73.645569,45.491379],
-  "geometry": {"coordinates":[-73.645569,45.491379],"type":"Point"}
+  "bbox": [
+    -73.645569,
+    45.491379,
+    -73.645569,
+    45.491379
+],
+  "geometry": {"coordinates":[-73.64556899999999,45.491379],"type":"Point"}
 }

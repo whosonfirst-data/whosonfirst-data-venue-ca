@@ -2,13 +2,14 @@
   "id": 152831539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22583,42.943249,-81.22583,42.943249",
     "geom:latitude":42.943249,
     "geom:longitude":-81.22583,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -22,23 +23,43 @@
     "sg:postcode":"N6E 3R5",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864539,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1abygwGdbmWmrEYZcKv7oV_42.943249_-81.225830@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"a88f88794c266f3fb1280fb63a759f50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864539,
+            "region_id":85682057,
+            "venue_id":152831539
+        }
+    ],
     "wof:id":152831539,
-    "wof:lastmodified":1449047019,
+    "wof:lastmodified":1453934885,
     "wof:name":"Caa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864539,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.22583,42.943249,-81.22583,42.943249],
+  "bbox": [
+    -81.22583,
+    42.943249,
+    -81.22583,
+    42.943249
+],
   "geometry": {"coordinates":[-81.22583,42.943249],"type":"Point"}
 }

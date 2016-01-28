@@ -2,13 +2,14 @@
   "id": 169423507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.317795,43.020214,-82.317795,43.020214",
     "geom:latitude":43.020214,
     "geom:longitude":-82.317795,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sarnia",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864665,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"888e8d446d768a7c34499764610cf71d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85864665,
+            "region_id":85682057,
+            "venue_id":169423507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85864665,
             "region_id":85682057,
             "venue_id":169423507
         }
     ],
     "wof:id":169423507,
-    "wof:lastmodified":1449033243,
+    "wof:lastmodified":1453929343,
     "wof:name":"Ceramicraft Studio & Supply",
     "wof:parent_id":85864665,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.317795,43.020214,-82.317795,43.020214],
+  "bbox": [
+    -82.317795,
+    43.020214,
+    -82.317795,
+    43.020214
+],
   "geometry": {"coordinates":[-82.317795,43.020214],"type":"Point"}
 }

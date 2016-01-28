@@ -2,13 +2,14 @@
   "id": 168988411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.25351,43.840279,-79.25351,43.840279",
     "geom:latitude":43.840279,
     "geom:longitude":-79.25351,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"280 Elson St",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895677,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"864f10bf41282645ed100f1d3460eca4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895677,
+            "region_id":85682057,
+            "venue_id":168988411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895677,
             "region_id":85682057,
             "venue_id":168988411
         }
     ],
     "wof:id":168988411,
-    "wof:lastmodified":1449028015,
+    "wof:lastmodified":1453928060,
     "wof:name":"Anarkali Video Plus",
     "wof:parent_id":85895677,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.25351,43.840279,-79.25351,43.840279],
-  "geometry": {"coordinates":[-79.25351,43.840279],"type":"Point"}
+  "bbox": [
+    -79.25351,
+    43.840279,
+    -79.25351,
+    43.840279
+],
+  "geometry": {"coordinates":[-79.25351000000001,43.840279],"type":"Point"}
 }

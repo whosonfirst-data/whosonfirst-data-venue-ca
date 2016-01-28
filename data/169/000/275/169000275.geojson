@@ -2,13 +2,14 @@
   "id": 169000275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.443863,43.900463,-79.443863,43.900463",
     "geom:latitude":43.900463,
     "geom:longitude":-79.443863,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11181 Yonge St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895003,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"444ca236539a8e7252a13db40d0fddf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895003,
+            "region_id":85682057,
+            "venue_id":169000275
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895003,
             "region_id":85682057,
             "venue_id":169000275
         }
     ],
     "wof:id":169000275,
-    "wof:lastmodified":1449033221,
+    "wof:lastmodified":1453929315,
     "wof:name":"Learning Disabilities Assn",
     "wof:parent_id":85895003,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.443863,43.900463,-79.443863,43.900463],
-  "geometry": {"coordinates":[-79.443863,43.900463],"type":"Point"}
+  "bbox": [
+    -79.443863,
+    43.900463,
+    -79.443863,
+    43.900463
+],
+  "geometry": {"coordinates":[-79.44386299999999,43.900463],"type":"Point"}
 }

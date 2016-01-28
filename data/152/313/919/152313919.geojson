@@ -2,13 +2,14 @@
   "id": 152313919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.079918,43.819462,-79.079918,43.819462",
     "geom:latitude":43.819462,
     "geom:longitude":-79.079918,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"706 Hewson Dr",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895513,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d52c3f8aaa22cd7bcc6d450926eb110f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895513,
+            "region_id":85682057,
+            "venue_id":152313919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895513,
             "region_id":85682057,
             "venue_id":152313919
         }
     ],
     "wof:id":152313919,
-    "wof:lastmodified":1449044432,
+    "wof:lastmodified":1453932925,
     "wof:name":"Durable Caulking Ltd",
     "wof:parent_id":85895513,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.079918,43.819462,-79.079918,43.819462],
-  "geometry": {"coordinates":[-79.079918,43.819462],"type":"Point"}
+  "bbox": [
+    -79.079918,
+    43.819462,
+    -79.079918,
+    43.819462
+],
+  "geometry": {"coordinates":[-79.07991800000001,43.819462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169519425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.682098,45.523804,-73.682098,45.523804",
     "geom:latitude":45.523804,
     "geom:longitude":-73.682098,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1495 Rue Barre",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895729,
+        102191575,
         85633041,
-        85895729
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ba6202102f5190900b923c618f6994d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895729,
+            "region_id":136251273,
             "venue_id":169519425
         }
     ],
     "wof:id":169519425,
-    "wof:lastmodified":1449035739,
+    "wof:lastmodified":1453932006,
     "wof:name":"Grenier Aux Nouvelles",
     "wof:parent_id":85895729,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.682098,45.523804,-73.682098,45.523804],
+  "bbox": [
+    -73.682098,
+    45.523804,
+    -73.682098,
+    45.523804
+],
   "geometry": {"coordinates":[-73.682098,45.523804],"type":"Point"}
 }

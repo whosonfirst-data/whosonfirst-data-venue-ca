@@ -2,13 +2,14 @@
   "id": 202932637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.65242,45.746487,-73.65242,45.746487",
     "geom:latitude":45.746487,
     "geom:longitude":-73.65242,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"797 Rue Des Erables",
     "sg:city":"Mascouche",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897643,
+        102191575,
         85633041,
-        101737337
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"85d2497f41e7b1ef3d34dc6b6a252a2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202932637
         }
     ],
     "wof:id":202932637,
-    "wof:lastmodified":1449061050,
+    "wof:lastmodified":1453937175,
     "wof:name":"Centre Electronique Rive Nord",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.65242,45.746487,-73.65242,45.746487],
-  "geometry": {"coordinates":[-73.65242,45.746487],"type":"Point"}
+  "bbox": [
+    -73.65242,
+    45.746487,
+    -73.65242,
+    45.746487
+],
+  "geometry": {"coordinates":[-73.65242000000001,45.746487],"type":"Point"}
 }

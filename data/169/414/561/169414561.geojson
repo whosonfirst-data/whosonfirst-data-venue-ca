@@ -2,13 +2,14 @@
   "id": 169414561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.492287,45.642551,-73.492287,45.642551",
     "geom:latitude":45.642551,
     "geom:longitude":-73.492287,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12205 Rue Victoria",
     "sg:city":"Pointe-Aux-Trembles",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736479,
+        85784803,
+        102191575,
         85633041,
-        85784803
+        101736479,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"17368890dc8c278130578a042de051a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736479,
             "neighbourhood_id":85784803,
+            "region_id":136251273,
             "venue_id":169414561
         }
     ],
     "wof:id":169414561,
-    "wof:lastmodified":1449034221,
+    "wof:lastmodified":1453930409,
     "wof:name":"Depannotheque Enr",
     "wof:parent_id":85784803,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.492287,45.642551,-73.492287,45.642551],
+  "bbox": [
+    -73.492287,
+    45.642551,
+    -73.492287,
+    45.642551
+],
   "geometry": {"coordinates":[-73.492287,45.642551],"type":"Point"}
 }

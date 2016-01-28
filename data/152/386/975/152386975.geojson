@@ -2,13 +2,14 @@
   "id": 152386975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.664581,45.548267,-73.664581,45.548267",
     "geom:latitude":45.548267,
     "geom:longitude":-73.664581,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10290 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85864445,
+        102191575,
         85633041,
-        85864445
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bba2ba7d5a98f2415e9d8c834dfdd7c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85864445,
+            "region_id":136251273,
             "venue_id":152386975
         }
     ],
     "wof:id":152386975,
-    "wof:lastmodified":1449046731,
+    "wof:lastmodified":1453934675,
     "wof:name":"Centre Auto St Laurent-Fleury",
     "wof:parent_id":85864445,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.664581,45.548267,-73.664581,45.548267],
+  "bbox": [
+    -73.664581,
+    45.548267,
+    -73.664581,
+    45.548267
+],
   "geometry": {"coordinates":[-73.664581,45.548267],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169193099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.19397,46.859715,-71.19397,46.859715",
     "geom:latitude":46.859715,
     "geom:longitude":-71.19397,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Rue DE L'Hotel-DE-Ville",
     "sg:city":"Beauport",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85784675,
+        102191575,
         85633041,
-        85784675
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fb3f58fc5f725f31ef6e5c47bf044161",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784675,
+            "region_id":136251273,
             "venue_id":169193099
         }
     ],
     "wof:id":169193099,
-    "wof:lastmodified":1449033230,
+    "wof:lastmodified":1453929332,
     "wof:name":"Bureau D'Arrondissement 5",
     "wof:parent_id":85784675,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.19397,46.859715,-71.19397,46.859715],
-  "geometry": {"coordinates":[-71.19397,46.859715],"type":"Point"}
+  "bbox": [
+    -71.19397,
+    46.859715,
+    -71.19397,
+    46.859715
+],
+  "geometry": {"coordinates":[-71.19396999999999,46.859715],"type":"Point"}
 }

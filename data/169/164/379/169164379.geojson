@@ -2,13 +2,14 @@
   "id": 169164379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.680695,44.353161,-79.680695,44.353161",
     "geom:latitude":44.353161,
     "geom:longitude":-79.680695,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"323 Bayview Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875279,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DardtsiDlHB9qb0kF5Udg_44.353161_-79.680695@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c5c021aff19f1f41864c7ec4b3dadda3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875279,
+            "region_id":85682057,
+            "venue_id":169164379
+        }
+    ],
     "wof:id":169164379,
-    "wof:lastmodified":1449033073,
+    "wof:lastmodified":1453929196,
     "wof:name":"Nowtran Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.680695,44.353161,-79.680695,44.353161],
+  "bbox": [
+    -79.680695,
+    44.353161,
+    -79.680695,
+    44.353161
+],
   "geometry": {"coordinates":[-79.680695,44.353161],"type":"Point"}
 }

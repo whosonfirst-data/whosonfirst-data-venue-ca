@@ -2,13 +2,14 @@
   "id": 152764517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.176804,43.004631,-81.176804,43.004631",
     "geom:latitude":43.004631,
     "geom:longitude":-81.176804,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1890 Dundas St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "optician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13jHD1heX9t7d6Gi5zjBdA_43.004631_-81.176804@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ffa3a44da43c1accb95e7d4f03c72fd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":152764517
+        }
+    ],
     "wof:id":152764517,
-    "wof:lastmodified":1449048702,
+    "wof:lastmodified":1453936174,
     "wof:name":"Gregory's Optical Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.176804,43.004631,-81.176804,43.004631],
+  "bbox": [
+    -81.176804,
+    43.004631,
+    -81.176804,
+    43.004631
+],
   "geometry": {"coordinates":[-81.176804,43.004631],"type":"Point"}
 }

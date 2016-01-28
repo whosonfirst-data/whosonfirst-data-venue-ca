@@ -2,13 +2,14 @@
   "id": 169046213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.281006,43.874245,-79.281006,43.874245",
     "geom:latitude":43.874245,
     "geom:longitude":-79.281006,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Markham",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895435,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"59ed3f4ad98ec3d7f58df3ba497536b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895435,
+            "region_id":85682057,
+            "venue_id":169046213
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895435,
             "region_id":85682057,
             "venue_id":169046213
         }
     ],
     "wof:id":169046213,
-    "wof:lastmodified":1449034517,
+    "wof:lastmodified":1453930709,
     "wof:name":"Villa Cafe",
     "wof:parent_id":85895435,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.281006,43.874245,-79.281006,43.874245],
+  "bbox": [
+    -79.281006,
+    43.874245,
+    -79.281006,
+    43.874245
+],
   "geometry": {"coordinates":[-79.281006,43.874245],"type":"Point"}
 }

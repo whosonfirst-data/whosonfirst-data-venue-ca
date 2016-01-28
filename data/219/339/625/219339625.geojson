@@ -2,13 +2,14 @@
   "id": 219339625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.176041,43.12788,-79.176041,43.12788",
     "geom:latitude":43.12788,
     "geom:longitude":-79.176041,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2800 Thorold Town Line",
     "sg:city":"Niagara Falls",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864573,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"eacbce4f4b580ba94de782e5ac00fb40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864573,
+            "region_id":85682057,
+            "venue_id":219339625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736289,
             "neighbourhood_id":85864573,
             "region_id":85682057,
             "venue_id":219339625
         }
     ],
     "wof:id":219339625,
-    "wof:lastmodified":1449071974,
+    "wof:lastmodified":1453937755,
     "wof:name":"Walker Brothers Quarries Ltd",
     "wof:parent_id":85864573,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "quarry"
     ]
 },
-  "bbox": [-79.176041,43.12788,-79.176041,43.12788],
+  "bbox": [
+    -79.176041,
+    43.12788,
+    -79.176041,
+    43.12788
+],
   "geometry": {"coordinates":[-79.176041,43.12788],"type":"Point"}
 }

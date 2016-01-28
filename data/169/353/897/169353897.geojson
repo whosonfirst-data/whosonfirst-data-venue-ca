@@ -2,13 +2,14 @@
   "id": 169353897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.577133,45.550224,-73.577133,45.550224",
     "geom:latitude":45.550224,
     "geom:longitude":-73.577133,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3104 Rue Dandurand",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871111,
+        102191575,
         85633041,
-        85871111
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"73971d6ec89935765b38d1c9748dc88b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871111,
+            "region_id":136251273,
             "venue_id":169353897
         }
     ],
     "wof:id":169353897,
-    "wof:lastmodified":1449033635,
+    "wof:lastmodified":1453929753,
     "wof:name":"Racicot, Michel",
     "wof:parent_id":85871111,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.577133,45.550224,-73.577133,45.550224],
+  "bbox": [
+    -73.577133,
+    45.550224,
+    -73.577133,
+    45.550224
+],
   "geometry": {"coordinates":[-73.577133,45.550224],"type":"Point"}
 }

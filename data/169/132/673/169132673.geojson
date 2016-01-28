@@ -2,13 +2,14 @@
   "id": 169132673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688698,43.609646,-79.688698,43.609646",
     "geom:latitude":43.609646,
     "geom:longitude":-79.688698,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"700 Matheson Blvd W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c0791fd366f0049e404f67fb7f52b55d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":169132673
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":169132673
         }
     ],
     "wof:id":169132673,
-    "wof:lastmodified":1449034295,
+    "wof:lastmodified":1453930468,
     "wof:name":"Golda's Kitchen Inc",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688698,43.609646,-79.688698,43.609646],
+  "bbox": [
+    -79.688698,
+    43.609646,
+    -79.688698,
+    43.609646
+],
   "geometry": {"coordinates":[-79.688698,43.609646],"type":"Point"}
 }

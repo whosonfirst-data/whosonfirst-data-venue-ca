@@ -2,13 +2,14 @@
   "id": 152467887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688324,43.642216,-79.688324,43.642216",
     "geom:latitude":43.642216,
     "geom:longitude":-79.688324,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"290 Courtneypark Dr E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"41852f9489922f17892d57444c820b9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":152467887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":152467887
         }
     ],
     "wof:id":152467887,
-    "wof:lastmodified":1449047931,
+    "wof:lastmodified":1453935599,
     "wof:name":"Versa Fittings Inc",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688324,43.642216,-79.688324,43.642216],
-  "geometry": {"coordinates":[-79.688324,43.642216],"type":"Point"}
+  "bbox": [
+    -79.688324,
+    43.642216,
+    -79.688324,
+    43.642216
+],
+  "geometry": {"coordinates":[-79.68832399999999,43.642216],"type":"Point"}
 }

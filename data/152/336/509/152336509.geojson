@@ -2,13 +2,14 @@
   "id": 152336509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.477386,43.399071,-80.477386,43.399071",
     "geom:latitude":43.399071,
     "geom:longitude":-80.477386,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"640 Trillium Dr",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875005,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"765e8dde3970f107af86c9e22a5e3120",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875005,
+            "region_id":85682057,
+            "venue_id":152336509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875005,
             "region_id":85682057,
             "venue_id":152336509
         }
     ],
     "wof:id":152336509,
-    "wof:lastmodified":1449044190,
+    "wof:lastmodified":1453932748,
     "wof:name":"M & M Meat Shops Ltd",
     "wof:parent_id":85875005,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.477386,43.399071,-80.477386,43.399071],
+  "bbox": [
+    -80.477386,
+    43.399071,
+    -80.477386,
+    43.399071
+],
   "geometry": {"coordinates":[-80.477386,43.399071],"type":"Point"}
 }

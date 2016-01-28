@@ -2,13 +2,14 @@
   "id": 152990543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.699043,43.645535,-79.699043,43.645535",
     "geom:latitude":43.645535,
     "geom:longitude":-79.699043,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"155 Admiral Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"4bd6a54a199f4e017d4a8e9cc060c9d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":152990543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":152990543
         }
     ],
     "wof:id":152990543,
-    "wof:lastmodified":1449047392,
+    "wof:lastmodified":1453935173,
     "wof:name":"Moeller Electric Inc",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.699043,43.645535,-79.699043,43.645535],
+  "bbox": [
+    -79.699043,
+    43.645535,
+    -79.699043,
+    43.645535
+],
   "geometry": {"coordinates":[-79.699043,43.645535],"type":"Point"}
 }

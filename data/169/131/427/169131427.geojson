@@ -2,13 +2,14 @@
   "id": 169131427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.687614,44.326832,-79.687614,44.326832",
     "geom:latitude":44.326832,
     "geom:longitude":-79.687614,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"565 Bryne Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BDA2Kya9fmVwMbnLXGFCX_44.326832_-79.687614@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"aac99f7ea11f4185d3c720884b6dac8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":169131427
+        }
+    ],
     "wof:id":169131427,
-    "wof:lastmodified":1449033679,
+    "wof:lastmodified":1453929815,
     "wof:name":"Kewl Threads",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.687614,44.326832,-79.687614,44.326832],
+  "bbox": [
+    -79.687614,
+    44.326832,
+    -79.687614,
+    44.326832
+],
   "geometry": {"coordinates":[-79.687614,44.326832],"type":"Point"}
 }

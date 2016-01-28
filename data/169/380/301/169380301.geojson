@@ -2,13 +2,14 @@
   "id": 169380301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.64566,45.547321,-73.64566,45.547321",
     "geom:latitude":45.547321,
     "geom:longitude":-73.64566,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"400 Rue Legendre O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"60edd16b55b2513fa45bec9daad88b8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":169380301
         }
     ],
     "wof:id":169380301,
-    "wof:lastmodified":1449034203,
+    "wof:lastmodified":1453930396,
     "wof:name":"Abenesteree C Dionne",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.64566,45.547321,-73.64566,45.547321],
-  "geometry": {"coordinates":[-73.64566,45.547321],"type":"Point"}
+  "bbox": [
+    -73.64566,
+    45.547321,
+    -73.64566,
+    45.547321
+],
+  "geometry": {"coordinates":[-73.64566000000001,45.547321],"type":"Point"}
 }

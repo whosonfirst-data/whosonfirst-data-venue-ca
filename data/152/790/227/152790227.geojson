@@ -2,13 +2,14 @@
   "id": 152790227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.742851,45.555927,-73.742851,45.555927",
     "geom:latitude":45.555927,
     "geom:longitude":-73.742851,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897571,
+        102191575,
         85633041,
-        85897571
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7c6a72d2d36864f026efa3e18d92cf0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897571,
+            "region_id":136251273,
             "venue_id":152790227
         }
     ],
     "wof:id":152790227,
-    "wof:lastmodified":1449047836,
+    "wof:lastmodified":1453935531,
     "wof:name":"Broderie, Stephano",
     "wof:parent_id":85897571,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.742851,45.555927,-73.742851,45.555927],
+  "bbox": [
+    -73.742851,
+    45.555927,
+    -73.742851,
+    45.555927
+],
   "geometry": {"coordinates":[-73.742851,45.555927],"type":"Point"}
 }

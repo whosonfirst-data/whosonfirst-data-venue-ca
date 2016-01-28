@@ -2,13 +2,14 @@
   "id": 219390099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.850845,43.886497,-78.850845,43.886497",
     "geom:latitude":43.886497,
     "geom:longitude":-78.850845,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"480 Drew St",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875143,
+        102191575,
         85633041,
-        85682057
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"2d2082fc497f0b5732964d8762d0552a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875143,
+            "region_id":85682057,
+            "venue_id":219390099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875143,
             "region_id":85682057,
             "venue_id":219390099
         }
     ],
     "wof:id":219390099,
-    "wof:lastmodified":1449073960,
+    "wof:lastmodified":1453938022,
     "wof:name":"Britcan Renovations & Home",
     "wof:parent_id":85875143,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.850845,43.886497,-78.850845,43.886497],
-  "geometry": {"coordinates":[-78.850845,43.886497],"type":"Point"}
+  "bbox": [
+    -78.850845,
+    43.886497,
+    -78.850845,
+    43.886497
+],
+  "geometry": {"coordinates":[-78.85084500000001,43.886497],"type":"Point"}
 }

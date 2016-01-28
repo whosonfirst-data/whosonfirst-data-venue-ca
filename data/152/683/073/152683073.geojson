@@ -2,13 +2,14 @@
   "id": 152683073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.608574,43.573708,-79.608574,43.573708",
     "geom:latitude":43.573708,
     "geom:longitude":-79.608574,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895411,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"71b34d11309689b083a18fda07d943c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895411,
+            "region_id":85682057,
+            "venue_id":152683073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895411,
             "region_id":85682057,
             "venue_id":152683073
         }
     ],
     "wof:id":152683073,
-    "wof:lastmodified":1449046003,
+    "wof:lastmodified":1453934125,
     "wof:name":"Javier, R MD",
     "wof:parent_id":85895411,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.608574,43.573708,-79.608574,43.573708],
+  "bbox": [
+    -79.608574,
+    43.573708,
+    -79.608574,
+    43.573708
+],
   "geometry": {"coordinates":[-79.608574,43.573708],"type":"Point"}
 }

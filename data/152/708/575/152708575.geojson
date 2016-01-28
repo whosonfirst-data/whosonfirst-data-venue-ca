@@ -2,13 +2,14 @@
   "id": 152708575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.664452,44.351433,-79.664452,44.351433",
     "geom:latitude":44.351433,
     "geom:longitude":-79.664452,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"419 Huronia Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864601,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yVLLmB2Rmqzo3e5VhIm99_44.351433_-79.664452@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"eebb3ddd388b1a9f82a637568c7f6096",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85864601,
+            "region_id":85682057,
+            "venue_id":152708575
+        }
+    ],
     "wof:id":152708575,
-    "wof:lastmodified":1449045032,
+    "wof:lastmodified":1453933387,
     "wof:name":"Stephenson's Rental Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864601,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.664452,44.351433,-79.664452,44.351433],
+  "bbox": [
+    -79.664452,
+    44.351433,
+    -79.664452,
+    44.351433
+],
   "geometry": {"coordinates":[-79.664452,44.351433],"type":"Point"}
 }

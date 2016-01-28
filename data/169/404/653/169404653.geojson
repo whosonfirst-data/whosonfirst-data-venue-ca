@@ -2,13 +2,14 @@
   "id": 169404653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.055115,49.282295,-123.055115,49.282295",
     "geom:latitude":49.282295,
     "geom:longitude":-123.055115,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2475 Franklin St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865007,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"0520009dfbe63386a47641517fe729a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865007,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":169404653,
-    "wof:lastmodified":1449034879,
+    "wof:lastmodified":1453931106,
     "wof:name":"St David's Anglican Church",
     "wof:parent_id":85865007,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.055115,49.282295,-123.055115,49.282295],
+  "bbox": [
+    -123.055115,
+    49.282295,
+    -123.055115,
+    49.282295
+],
   "geometry": {"coordinates":[-123.055115,49.282295],"type":"Point"}
 }

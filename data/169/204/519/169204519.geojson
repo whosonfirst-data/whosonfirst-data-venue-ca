@@ -2,13 +2,14 @@
   "id": 169204519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.206093,46.810471,-71.206093,46.810471",
     "geom:latitude":46.810471,
     "geom:longitude":-71.206093,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"16 Rue DE LA Porte",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866517,
+        102191575,
         85633041,
-        85866517
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"8afb2dd4e5fa4f464213039c246337be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
+            "region_id":136251273,
             "venue_id":169204519
         }
     ],
     "wof:id":169204519,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1453932306,
     "wof:name":"Hotel Chateau Bellevue",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.206093,46.810471,-71.206093,46.810471],
+  "bbox": [
+    -71.206093,
+    46.810471,
+    -71.206093,
+    46.810471
+],
   "geometry": {"coordinates":[-71.206093,46.810471],"type":"Point"}
 }

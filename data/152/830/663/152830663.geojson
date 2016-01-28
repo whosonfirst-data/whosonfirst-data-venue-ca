@@ -2,13 +2,14 @@
   "id": 152830663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.788452,43.710773,-79.788452,43.710773",
     "geom:latitude":43.710773,
     "geom:longitude":-79.788452,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"117 Dumfries Ave",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895387,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"482f88076d49bc6eb09057ff2519478d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895387,
+            "region_id":85682057,
+            "venue_id":152830663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895387,
             "region_id":85682057,
             "venue_id":152830663
         }
     ],
     "wof:id":152830663,
-    "wof:lastmodified":1449045287,
+    "wof:lastmodified":1453933574,
     "wof:name":"Wagon Trains of Canada Ents",
     "wof:parent_id":85895387,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.788452,43.710773,-79.788452,43.710773],
-  "geometry": {"coordinates":[-79.788452,43.710773],"type":"Point"}
+  "bbox": [
+    -79.788452,
+    43.710773,
+    -79.788452,
+    43.710773
+],
+  "geometry": {"coordinates":[-79.78845200000001,43.710773],"type":"Point"}
 }

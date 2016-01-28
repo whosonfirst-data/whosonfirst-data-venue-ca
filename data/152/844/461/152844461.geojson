@@ -2,13 +2,14 @@
   "id": 152844461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.474884,45.473629,-73.474884,45.473629",
     "geom:latitude":45.473629,
     "geom:longitude":-73.474884,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brossard",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897507,
+        102191575,
         85633041,
-        85897507
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"38412fa8964b57d90f740af288e2c102",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897507,
+            "region_id":136251273,
             "venue_id":152844461
         }
     ],
     "wof:id":152844461,
-    "wof:lastmodified":1449046279,
+    "wof:lastmodified":1453934332,
     "wof:name":"Quebec Centre Local D'Emploi",
     "wof:parent_id":85897507,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.474884,45.473629,-73.474884,45.473629],
+  "bbox": [
+    -73.474884,
+    45.473629,
+    -73.474884,
+    45.473629
+],
   "geometry": {"coordinates":[-73.474884,45.473629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152211869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.370193,42.960625,-82.370193,42.960625",
     "geom:latitude":42.960625,
     "geom:longitude":-82.370193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1070 Confederation St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875565,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"588f87542a3f9b0b6adf38ed595b6b15",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875565,
+            "region_id":85682057,
+            "venue_id":152211869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875565,
             "region_id":85682057,
             "venue_id":152211869
         }
     ],
     "wof:id":152211869,
-    "wof:lastmodified":1449045433,
+    "wof:lastmodified":1453933699,
     "wof:name":"Pioneer Petroliums",
     "wof:parent_id":85875565,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.370193,42.960625,-82.370193,42.960625],
+  "bbox": [
+    -82.370193,
+    42.960625,
+    -82.370193,
+    42.960625
+],
   "geometry": {"coordinates":[-82.370193,42.960625],"type":"Point"}
 }

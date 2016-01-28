@@ -2,13 +2,14 @@
   "id": 152951969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.719269,44.368233,-79.719269,44.368233",
     "geom:latitude":44.368233,
     "geom:longitude":-79.719269,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"422 Tiffin St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875275,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gGji8MftvUCXIKABMYHeZ_44.368233_-79.719269@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5b005eb19aefcb6c31ea55ad46739684",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875275,
+            "region_id":85682057,
+            "venue_id":152951969
+        }
+    ],
     "wof:id":152951969,
-    "wof:lastmodified":1449044500,
+    "wof:lastmodified":1453932976,
     "wof:name":"Terry & Marsh's 24 Hour Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875275,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.719269,44.368233,-79.719269,44.368233],
+  "bbox": [
+    -79.719269,
+    44.368233,
+    -79.719269,
+    44.368233
+],
   "geometry": {"coordinates":[-79.719269,44.368233],"type":"Point"}
 }

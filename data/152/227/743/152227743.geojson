@@ -2,13 +2,14 @@
   "id": 152227743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.416222,45.652287,-73.416222,45.652287",
     "geom:latitude":45.652287,
     "geom:longitude":-73.416222,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Varennes",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1d7238a0b3f6ea7442a4e8886cd9b829",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":152227743
         }
     ],
     "wof:id":152227743,
-    "wof:lastmodified":1449045322,
+    "wof:lastmodified":1453933605,
     "wof:name":"Industries Danmare Inc",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.416222,45.652287,-73.416222,45.652287],
+  "bbox": [
+    -73.416222,
+    45.652287,
+    -73.416222,
+    45.652287
+],
   "geometry": {"coordinates":[-73.416222,45.652287],"type":"Point"}
 }

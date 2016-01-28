@@ -2,13 +2,14 @@
   "id": 152968495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.02636,43.830662,-79.02636,43.830662",
     "geom:latitude":43.830662,
     "geom:longitude":-79.02636,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Ajax",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895475,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"180392be6f0e9e92ea0a77e0f213acd1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895475,
+            "region_id":85682057,
+            "venue_id":152968495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895475,
             "region_id":85682057,
             "venue_id":152968495
         }
     ],
     "wof:id":152968495,
-    "wof:lastmodified":1449044589,
+    "wof:lastmodified":1453933051,
     "wof:name":"Evans & Rode",
     "wof:parent_id":85895475,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.02636,43.830662,-79.02636,43.830662],
+  "bbox": [
+    -79.02636,
+    43.830662,
+    -79.02636,
+    43.830662
+],
   "geometry": {"coordinates":[-79.02636,43.830662],"type":"Point"}
 }

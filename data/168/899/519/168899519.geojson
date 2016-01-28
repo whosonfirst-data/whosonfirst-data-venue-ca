@@ -2,13 +2,14 @@
   "id": 168899519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.155273,49.271584,-123.155273,49.271584",
     "geom:latitude":49.271584,
     "geom:longitude":-123.155273,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2200 York Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -30,9 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865011,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -43,6 +45,7 @@
     "wof:geomhash":"beed0ae23ab09351793503e08bcb56fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865011,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":168899519,
-    "wof:lastmodified":1449028554,
+    "wof:lastmodified":1453928646,
     "wof:name":"Rogers Video",
     "wof:parent_id":85865011,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.155273,49.271584,-123.155273,49.271584],
-  "geometry": {"coordinates":[-123.155273,49.271584],"type":"Point"}
+  "bbox": [
+    -123.155273,
+    49.271584,
+    -123.155273,
+    49.271584
+],
+  "geometry": {"coordinates":[-123.15527299999999,49.271584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168845629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.87822,45.408211,-71.87822,45.408211",
     "geom:latitude":45.408211,
     "geom:longitude":-71.87822,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874189,
+        102191575,
         85633041,
-        85874189
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1f2c3ff857fcdb7ad94ba551d102fe39",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874189,
+            "region_id":136251273,
             "venue_id":168845629
         }
     ],
     "wof:id":168845629,
-    "wof:lastmodified":1449027897,
+    "wof:lastmodified":1453927922,
     "wof:name":"Financiere Banque Nationale",
     "wof:parent_id":85874189,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.87822,45.408211,-71.87822,45.408211],
+  "bbox": [
+    -71.87822,
+    45.408211,
+    -71.87822,
+    45.408211
+],
   "geometry": {"coordinates":[-71.87822,45.408211],"type":"Point"}
 }

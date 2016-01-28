@@ -2,13 +2,14 @@
   "id": 169452525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.93412,45.316566,-73.93412,45.316566",
     "geom:latitude":45.316566,
     "geom:longitude":-73.93412,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11 Rue Du Vieux Phare",
     "sg:city":"Melocheville",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895763,
+        102191575,
         85633041,
-        85895763
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7ad46ddd24fffd495ce92c849de92bf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895763,
+            "region_id":136251273,
             "venue_id":169452525
         }
     ],
     "wof:id":169452525,
-    "wof:lastmodified":1449033472,
+    "wof:lastmodified":1453929588,
     "wof:name":"Toilette Portative Sanibert",
     "wof:parent_id":85895763,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.93412,45.316566,-73.93412,45.316566],
-  "geometry": {"coordinates":[-73.93412,45.316566],"type":"Point"}
+  "bbox": [
+    -73.93412,
+    45.316566,
+    -73.93412,
+    45.316566
+],
+  "geometry": {"coordinates":[-73.93411999999999,45.316566],"type":"Point"}
 }

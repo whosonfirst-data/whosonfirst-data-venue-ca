@@ -2,13 +2,14 @@
   "id": 219644637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.145493,49.20549,-123.145493,49.20549",
     "geom:latitude":49.20549,
     "geom:longitude":-123.145493,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1662 75th Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,11 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865017,
+        102555307,
+        85894871,
+        102191575,
         85633041,
-        101741075,
-        85682117,
-        85865009
+        101741081,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,26 +43,19 @@
     "wof:geomhash":"69d854b40edc2f2eab7204a23edc02d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741075,
-            "neighbourhood_id":85865017,
-            "region_id":85682117,
-            "venue_id":219644637
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633041,
-            "locality_id":101741075,
-            "neighbourhood_id":85865009,
+            "locality_id":101741081,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":219644637
         }
     ],
     "wof:id":219644637,
-    "wof:lastmodified":1449072394,
+    "wof:lastmodified":1453937810,
     "wof:name":"Canadian Human Rights Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +63,11 @@
         "publisher"
     ]
 },
-  "bbox": [-123.145493,49.20549,-123.145493,49.20549],
+  "bbox": [
+    -123.145493,
+    49.20549,
+    -123.145493,
+    49.20549
+],
   "geometry": {"coordinates":[-123.145493,49.20549],"type":"Point"}
 }

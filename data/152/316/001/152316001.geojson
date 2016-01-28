@@ -2,13 +2,14 @@
   "id": 152316001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.830734,45.469467,-73.830734,45.469467",
     "geom:latitude":45.469467,
     "geom:longitude":-73.830734,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"981 Boul Saint-Jean",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875799,
+        102191575,
         85633041,
-        85875799
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3de13829db08db9e54224622be521977",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875799,
+            "region_id":136251273,
             "venue_id":152316001
         }
     ],
     "wof:id":152316001,
-    "wof:lastmodified":1449047426,
+    "wof:lastmodified":1453935199,
     "wof:name":"Marlowe Restaurant",
     "wof:parent_id":85875799,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.830734,45.469467,-73.830734,45.469467],
-  "geometry": {"coordinates":[-73.830734,45.469467],"type":"Point"}
+  "bbox": [
+    -73.830734,
+    45.469467,
+    -73.830734,
+    45.469467
+],
+  "geometry": {"coordinates":[-73.83073400000001,45.469467],"type":"Point"}
 }

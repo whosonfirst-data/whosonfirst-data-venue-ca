@@ -2,13 +2,14 @@
   "id": 186320525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.182198,48.424915,-71.182198,48.424915",
     "geom:latitude":48.424915,
     "geom:longitude":-71.182198,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1941 Rue Davis",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785001,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"989f9b10a4d7f2811ba3d118147a4f6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186320525
         }
     ],
     "wof:id":186320525,
-    "wof:lastmodified":1449051075,
+    "wof:lastmodified":1453936593,
     "wof:name":"Nettoyeurs Select",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-71.182198,48.424915,-71.182198,48.424915],
+  "bbox": [
+    -71.182198,
+    48.424915,
+    -71.182198,
+    48.424915
+],
   "geometry": {"coordinates":[-71.182198,48.424915],"type":"Point"}
 }

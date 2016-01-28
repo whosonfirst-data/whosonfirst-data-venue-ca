@@ -2,13 +2,14 @@
   "id": 153008723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.764175,45.456573,-73.764175,45.456573",
     "geom:latitude":45.456573,
     "geom:longitude":-73.764175,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"750 Av Thorncrest",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85897651,
+        102191575,
         85633041,
-        85897651
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5b4e8f0e9ef9739d30540f4f647e2d39",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85897651,
+            "region_id":136251273,
             "venue_id":153008723
         }
     ],
     "wof:id":153008723,
-    "wof:lastmodified":1449040482,
+    "wof:lastmodified":1453932431,
     "wof:name":"Dorval Centre Sportif Westwood",
     "wof:parent_id":85897651,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.764175,45.456573,-73.764175,45.456573],
-  "geometry": {"coordinates":[-73.764175,45.456573],"type":"Point"}
+  "bbox": [
+    -73.764175,
+    45.456573,
+    -73.764175,
+    45.456573
+],
+  "geometry": {"coordinates":[-73.76417499999999,45.456573],"type":"Point"}
 }

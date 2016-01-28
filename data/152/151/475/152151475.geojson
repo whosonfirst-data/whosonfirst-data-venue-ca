@@ -2,13 +2,14 @@
   "id": 152151475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.701309,43.546879,-79.701309,43.546879",
     "geom:latitude":43.546879,
     "geom:longitude":-79.701309,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4302 Thom Gdns",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"24790e1b17f7aad080da55a536bc1e2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152151475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152151475
         }
     ],
     "wof:id":152151475,
-    "wof:lastmodified":1449044345,
+    "wof:lastmodified":1453932855,
     "wof:name":"Anchor Consultants Inc",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.701309,43.546879,-79.701309,43.546879],
-  "geometry": {"coordinates":[-79.701309,43.546879],"type":"Point"}
+  "bbox": [
+    -79.701309,
+    43.546879,
+    -79.701309,
+    43.546879
+],
+  "geometry": {"coordinates":[-79.70130899999999,43.546879],"type":"Point"}
 }

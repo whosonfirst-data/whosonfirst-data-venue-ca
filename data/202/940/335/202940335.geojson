@@ -2,13 +2,14 @@
   "id": 202940335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.52845,46.375992,-72.52845,46.375992",
     "geom:latitude":46.375992,
     "geom:longitude":-72.52845,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"445 Rue Bertrand",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874113,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"8015a5835355cbcd1017f87ebdca1b41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874113,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202940335
         }
     ],
     "wof:id":202940335,
-    "wof:lastmodified":1449060736,
+    "wof:lastmodified":1453937109,
     "wof:name":"Atelier DE Reusinage Gb",
     "wof:parent_id":85874113,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "engine"
     ]
 },
-  "bbox": [-72.52845,46.375992,-72.52845,46.375992],
-  "geometry": {"coordinates":[-72.52845,46.375992],"type":"Point"}
+  "bbox": [
+    -72.52845,
+    46.375992,
+    -72.52845,
+    46.375992
+],
+  "geometry": {"coordinates":[-72.52845000000001,46.375992],"type":"Point"}
 }

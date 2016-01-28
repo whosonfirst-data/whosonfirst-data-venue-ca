@@ -2,13 +2,14 @@
   "id": 168886011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.948517,45.388863,-71.948517,45.388863",
     "geom:latitude":45.388863,
     "geom:longitude":-71.948517,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3170 Rue Delorme",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874131,
+        102191575,
         85633041,
-        85874131
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"45e85f7164cb490e70c6f47aab075d9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
+            "region_id":136251273,
             "venue_id":168886011
         }
     ],
     "wof:id":168886011,
-    "wof:lastmodified":1449028197,
+    "wof:lastmodified":1453928257,
     "wof:name":"Consultants Jean Coulombe",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.948517,45.388863,-71.948517,45.388863],
+  "bbox": [
+    -71.948517,
+    45.388863,
+    -71.948517,
+    45.388863
+],
   "geometry": {"coordinates":[-71.948517,45.388863],"type":"Point"}
 }

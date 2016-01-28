@@ -2,13 +2,14 @@
   "id": 169498933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.749451,45.523048,-73.749451,45.523048",
     "geom:latitude":45.523048,
     "geom:longitude":-73.749451,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"2b2b1cb6049f3ef98504b4b90179854a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":169498933
         }
     ],
     "wof:id":169498933,
-    "wof:lastmodified":1449035160,
+    "wof:lastmodified":1453931374,
     "wof:name":"Polyscience Publications Inc",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.749451,45.523048,-73.749451,45.523048],
-  "geometry": {"coordinates":[-73.749451,45.523048],"type":"Point"}
+  "bbox": [
+    -73.749451,
+    45.523048,
+    -73.749451,
+    45.523048
+],
+  "geometry": {"coordinates":[-73.74945099999999,45.523048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152372491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.768829,43.567154,-79.768829,43.567154",
     "geom:latitude":43.567154,
     "geom:longitude":-79.768829,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3911 Periwinkle Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894973,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"9dbdec89f39e4f2d31a8b7d31e6fed95",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894973,
+            "region_id":85682057,
+            "venue_id":152372491
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894973,
             "region_id":85682057,
             "venue_id":152372491
         }
     ],
     "wof:id":152372491,
-    "wof:lastmodified":1449047101,
+    "wof:lastmodified":1453934956,
     "wof:name":"Raitech Electric Svc",
     "wof:parent_id":85894973,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.768829,43.567154,-79.768829,43.567154],
+  "bbox": [
+    -79.768829,
+    43.567154,
+    -79.768829,
+    43.567154
+],
   "geometry": {"coordinates":[-79.768829,43.567154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152662291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.552879,45.605118,-73.552879,45.605118",
     "geom:latitude":45.605118,
     "geom:longitude":-73.552879,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6850 Boul Joseph-Renaud",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"eeca30aa9213894662172289aae7103b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152662291
         }
     ],
     "wof:id":152662291,
-    "wof:lastmodified":1449047425,
+    "wof:lastmodified":1453935195,
     "wof:name":"Anjou Poste DE Quartier",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.552879,45.605118,-73.552879,45.605118],
+  "bbox": [
+    -73.552879,
+    45.605118,
+    -73.552879,
+    45.605118
+],
   "geometry": {"coordinates":[-73.552879,45.605118],"type":"Point"}
 }

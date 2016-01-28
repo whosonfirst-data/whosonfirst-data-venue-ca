@@ -2,13 +2,14 @@
   "id": 169077437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.710648,45.580887,-73.710648,45.580887",
     "geom:latitude":45.580887,
     "geom:longitude":-73.710648,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"260 Rue DE Verceil",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875049,
+        102191575,
         85633041,
-        85875049
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"77959cc4b4b72b91625f0964fb4d5b8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875049,
+            "region_id":136251273,
             "venue_id":169077437
         }
     ],
     "wof:id":169077437,
-    "wof:lastmodified":1449033220,
+    "wof:lastmodified":1453929312,
     "wof:name":"Perfecto Mike Enr",
     "wof:parent_id":85875049,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.710648,45.580887,-73.710648,45.580887],
-  "geometry": {"coordinates":[-73.710648,45.580887],"type":"Point"}
+  "bbox": [
+    -73.710648,
+    45.580887,
+    -73.710648,
+    45.580887
+],
+  "geometry": {"coordinates":[-73.71064800000001,45.580887],"type":"Point"}
 }

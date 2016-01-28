@@ -2,13 +2,14 @@
   "id": 152238677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.654243,45.566345,-73.654243,45.566345",
     "geom:latitude":45.566345,
     "geom:longitude":-73.654243,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1714 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9a87ddbf0b9b8f79680a24bad56f47be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":152238677
         }
     ],
     "wof:id":152238677,
-    "wof:lastmodified":1449046035,
+    "wof:lastmodified":1453934148,
     "wof:name":"Lily Coiffure Masculine",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.654243,45.566345,-73.654243,45.566345],
-  "geometry": {"coordinates":[-73.654243,45.566345],"type":"Point"}
+  "bbox": [
+    -73.654243,
+    45.566345,
+    -73.654243,
+    45.566345
+],
+  "geometry": {"coordinates":[-73.65424299999999,45.566345],"type":"Point"}
 }

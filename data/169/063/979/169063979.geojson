@@ -2,13 +2,14 @@
   "id": 169063979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.020866,43.847363,-79.020866,43.847363",
     "geom:latitude":43.847363,
     "geom:longitude":-79.020866,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"26 Hunt St",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895635,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"369a11427747bee4467d870192ae4cc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":169063979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":169063979
         }
     ],
     "wof:id":169063979,
-    "wof:lastmodified":1449032964,
+    "wof:lastmodified":1453929101,
     "wof:name":"Sams Food Stores",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.020866,43.847363,-79.020866,43.847363],
+  "bbox": [
+    -79.020866,
+    43.847363,
+    -79.020866,
+    43.847363
+],
   "geometry": {"coordinates":[-79.020866,43.847363],"type":"Point"}
 }

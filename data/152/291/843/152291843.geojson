@@ -2,13 +2,14 @@
   "id": 152291843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.827179,43.347706,-79.827179,43.347706",
     "geom:latitude":43.347706,
     "geom:longitude":-79.827179,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2049 Mount Forest Dr #A",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895611,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b7b681be5f14f580c2ecba09d7ce3adf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895611,
+            "region_id":85682057,
+            "venue_id":152291843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895611,
             "region_id":85682057,
             "venue_id":152291843
         }
     ],
     "wof:id":152291843,
-    "wof:lastmodified":1449045724,
+    "wof:lastmodified":1453933918,
     "wof:name":"Travel Image",
     "wof:parent_id":85895611,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.827179,43.347706,-79.827179,43.347706],
+  "bbox": [
+    -79.827179,
+    43.347706,
+    -79.827179,
+    43.347706
+],
   "geometry": {"coordinates":[-79.827179,43.347706],"type":"Point"}
 }

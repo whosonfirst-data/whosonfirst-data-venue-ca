@@ -2,13 +2,14 @@
   "id": 168872025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.484306,45.538452,-73.484306,45.538452",
     "geom:latitude":45.538452,
     "geom:longitude":-73.484306,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"618 Rue Barthelemy",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875721,
+        102191575,
         85633041,
-        85875721
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"947a8a2f6dfab4d7d9b4060cbf9c196e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875721,
+            "region_id":136251273,
             "venue_id":168872025
         }
     ],
     "wof:id":168872025,
-    "wof:lastmodified":1449027844,
+    "wof:lastmodified":1453927860,
     "wof:name":"Votre Voisine Catherine",
     "wof:parent_id":85875721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.484306,45.538452,-73.484306,45.538452],
+  "bbox": [
+    -73.484306,
+    45.538452,
+    -73.484306,
+    45.538452
+],
   "geometry": {"coordinates":[-73.484306,45.538452],"type":"Point"}
 }

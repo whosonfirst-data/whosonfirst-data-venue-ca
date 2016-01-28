@@ -2,13 +2,14 @@
   "id": 169078133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.382721,42.960876,-82.382721,42.960876",
     "geom:latitude":42.960876,
     "geom:longitude":-82.382721,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"778 Confederation St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875557,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"988cf74f0e4ab539fc0e9bd8f353203b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875557,
+            "region_id":85682057,
+            "venue_id":169078133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875557,
             "region_id":85682057,
             "venue_id":169078133
         }
     ],
     "wof:id":169078133,
-    "wof:lastmodified":1449035449,
+    "wof:lastmodified":1453931665,
     "wof:name":"Ontario Auto Body",
     "wof:parent_id":85875557,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.382721,42.960876,-82.382721,42.960876],
+  "bbox": [
+    -82.382721,
+    42.960876,
+    -82.382721,
+    42.960876
+],
   "geometry": {"coordinates":[-82.382721,42.960876],"type":"Point"}
 }

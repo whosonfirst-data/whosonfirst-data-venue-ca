@@ -2,13 +2,14 @@
   "id": 152180531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.752777,45.444248,-73.752777,45.444248",
     "geom:latitude":45.444248,
     "geom:longitude":-73.752777,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"295 Av Claude",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85864409,
+        102191575,
         85633041,
-        85864409
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"873075a46d776aacf3b3a403a08c64f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85864409,
+            "region_id":136251273,
             "venue_id":152180531
         }
     ],
     "wof:id":152180531,
-    "wof:lastmodified":1449044478,
+    "wof:lastmodified":1453932960,
     "wof:name":"Intercom Montreal Enr",
     "wof:parent_id":85864409,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.752777,45.444248,-73.752777,45.444248],
-  "geometry": {"coordinates":[-73.752777,45.444248],"type":"Point"}
+  "bbox": [
+    -73.752777,
+    45.444248,
+    -73.752777,
+    45.444248
+],
+  "geometry": {"coordinates":[-73.75277699999999,45.444248],"type":"Point"}
 }

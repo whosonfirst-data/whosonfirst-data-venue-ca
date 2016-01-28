@@ -2,13 +2,14 @@
   "id": 152928055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.042183,43.627892,-80.042183,43.627892",
     "geom:latitude":43.627892,
     "geom:longitude":-80.042183,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"67 Church St W",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895185,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a8361f6320ad379c6d4168ffbf00a010",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895185,
+            "region_id":85682057,
+            "venue_id":152928055
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895185,
             "region_id":85682057,
             "venue_id":152928055
         }
     ],
     "wof:id":152928055,
-    "wof:lastmodified":1449048273,
+    "wof:lastmodified":1453935846,
     "wof:name":"Caledon Marketing Group",
     "wof:parent_id":85895185,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.042183,43.627892,-80.042183,43.627892],
-  "geometry": {"coordinates":[-80.042183,43.627892],"type":"Point"}
+  "bbox": [
+    -80.042183,
+    43.627892,
+    -80.042183,
+    43.627892
+],
+  "geometry": {"coordinates":[-80.04218299999999,43.627892],"type":"Point"}
 }

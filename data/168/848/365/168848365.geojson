@@ -2,13 +2,14 @@
   "id": 168848365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.006294,45.361454,-72.006294,45.361454",
     "geom:latitude":45.361454,
     "geom:longitude":-72.006294,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5711 Boul Bourque",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"df2f7fb800c7dc861b299d21569c5184",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":168848365
         }
     ],
     "wof:id":168848365,
-    "wof:lastmodified":1449027877,
+    "wof:lastmodified":1453927892,
     "wof:name":"Centre DE Renovation Dubreuil",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.006294,45.361454,-72.006294,45.361454],
+  "bbox": [
+    -72.006294,
+    45.361454,
+    -72.006294,
+    45.361454
+],
   "geometry": {"coordinates":[-72.006294,45.361454],"type":"Point"}
 }

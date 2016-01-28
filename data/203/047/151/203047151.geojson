@@ -2,13 +2,14 @@
   "id": 203047151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.473785,45.490116,-73.473785,45.490116",
     "geom:latitude":45.490116,
     "geom:longitude":-73.473785,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3609 Boul Taschereau",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875767,
+        102191575,
         85633041,
-        101738793
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,16 @@
     "wof:geomhash":"fd2e364933bc2046639f6ed5db79cf1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875767,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203047151
         }
     ],
     "wof:id":203047151,
-    "wof:lastmodified":1449026191,
+    "wof:lastmodified":1453927636,
     "wof:name":"Armoires Mirabel Rive-Sud",
     "wof:parent_id":85875767,
     "wof:placetype":"venue",
@@ -66,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.473785,45.490116,-73.473785,45.490116],
-  "geometry": {"coordinates":[-73.473785,45.490116],"type":"Point"}
+  "bbox": [
+    -73.473785,
+    45.490116,
+    -73.473785,
+    45.490116
+],
+  "geometry": {"coordinates":[-73.47378500000001,45.490116],"type":"Point"}
 }

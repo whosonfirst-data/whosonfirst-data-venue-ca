@@ -2,13 +2,14 @@
   "id": 152226183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.722275,45.435509,-75.722275,45.435509",
     "geom:latitude":45.435509,
     "geom:longitude":-75.722275,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"255 Rue Saint-Redempteur",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4fb3936005c06350881e6aaec9fd9cf2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":152226183
         }
     ],
     "wof:id":152226183,
-    "wof:lastmodified":1449047651,
+    "wof:lastmodified":1453935383,
     "wof:name":"DE L'Ile Ecole",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.722275,45.435509,-75.722275,45.435509],
+  "bbox": [
+    -75.722275,
+    45.435509,
+    -75.722275,
+    45.435509
+],
   "geometry": {"coordinates":[-75.722275,45.435509],"type":"Point"}
 }

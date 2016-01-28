@@ -2,13 +2,14 @@
   "id": 169350421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.187752,43.024101,-81.187752,43.024101",
     "geom:latitude":43.024101,
     "geom:longitude":-81.187752,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"168 Stronach Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qJMU8LJaszqZ614FV8GBN_43.024101_-81.187752@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"de3c7868ced2d2ac1231e29d8cd280d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":169350421
+        }
+    ],
     "wof:id":169350421,
-    "wof:lastmodified":1449034365,
+    "wof:lastmodified":1453930538,
     "wof:name":"S & M Auto Repairs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.187752,43.024101,-81.187752,43.024101],
+  "bbox": [
+    -81.187752,
+    43.024101,
+    -81.187752,
+    43.024101
+],
   "geometry": {"coordinates":[-81.187752,43.024101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153088519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.028748,43.637161,-80.028748,43.637161",
     "geom:latitude":43.637161,
     "geom:longitude":-80.028748,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"357 Queen St E",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895185,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a643db557e7f0872667e29bd03095b71",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895185,
+            "region_id":85682057,
+            "venue_id":153088519
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895185,
             "region_id":85682057,
             "venue_id":153088519
         }
     ],
     "wof:id":153088519,
-    "wof:lastmodified":1449040707,
+    "wof:lastmodified":1453932629,
     "wof:name":"Achilles Motors Ltd",
     "wof:parent_id":85895185,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.028748,43.637161,-80.028748,43.637161],
-  "geometry": {"coordinates":[-80.028748,43.637161],"type":"Point"}
+  "bbox": [
+    -80.028748,
+    43.637161,
+    -80.028748,
+    43.637161
+],
+  "geometry": {"coordinates":[-80.02874799999999,43.637161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185749243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.666512,43.621727,-79.666512,43.621727",
     "geom:latitude":43.621727,
     "geom:longitude":-79.666512,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"205 Matheson Blvd E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895105,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"6b5b63e96feaa479ad0ee3555439b6de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":185749243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":185749243
         }
     ],
     "wof:id":185749243,
-    "wof:lastmodified":1449007075,
+    "wof:lastmodified":1453927253,
     "wof:name":"Print Media Finishing",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "bookbinder"
     ]
 },
-  "bbox": [-79.666512,43.621727,-79.666512,43.621727],
+  "bbox": [
+    -79.666512,
+    43.621727,
+    -79.666512,
+    43.621727
+],
   "geometry": {"coordinates":[-79.666512,43.621727],"type":"Point"}
 }

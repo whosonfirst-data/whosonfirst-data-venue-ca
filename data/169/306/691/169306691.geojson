@@ -2,13 +2,14 @@
   "id": 169306691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576401,45.657413,-73.576401,45.657413",
     "geom:latitude":45.657413,
     "geom:longitude":-73.576401,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9311 Boul Gouin O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871105,
+        102191575,
         85633041,
-        85871105
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"16095a65debaf5802bccb02e57284e9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
+            "region_id":136251273,
             "venue_id":169306691
         }
     ],
     "wof:id":169306691,
-    "wof:lastmodified":1449035806,
+    "wof:lastmodified":1453932091,
     "wof:name":"Auto-Pan",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576401,45.657413,-73.576401,45.657413],
+  "bbox": [
+    -73.576401,
+    45.657413,
+    -73.576401,
+    45.657413
+],
   "geometry": {"coordinates":[-73.576401,45.657413],"type":"Point"}
 }

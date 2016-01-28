@@ -2,13 +2,14 @@
   "id": 169077081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.215569,42.962002,-81.215569,42.962002",
     "geom:latitude":42.962002,
     "geom:longitude":-81.215569,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "screen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864539,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25Y1g1C3FWPWO4ULoROW71_42.962002_-81.215569@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5d9e59c13b52ee73f2c7037ff10583e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864539,
+            "region_id":85682057,
+            "venue_id":169077081
+        }
+    ],
     "wof:id":169077081,
-    "wof:lastmodified":1449033217,
+    "wof:lastmodified":1453929309,
     "wof:name":"Sbs Imprints",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864539,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.215569,42.962002,-81.215569,42.962002],
+  "bbox": [
+    -81.215569,
+    42.962002,
+    -81.215569,
+    42.962002
+],
   "geometry": {"coordinates":[-81.215569,42.962002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152842559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.667747,45.592552,-73.667747,45.592552",
     "geom:latitude":45.592552,
     "geom:longitude":-73.667747,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3100 Boul DE LA Concorde E # 19",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875069,
+        102191575,
         85633041,
-        85875069
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"09c47bbbde2924fa324562d143c69598",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
+            "region_id":136251273,
             "venue_id":152842559
         }
     ],
     "wof:id":152842559,
-    "wof:lastmodified":1449044641,
+    "wof:lastmodified":1453933091,
     "wof:name":"Tabagie Varietes Duvernay",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.667747,45.592552,-73.667747,45.592552],
-  "geometry": {"coordinates":[-73.667747,45.592552],"type":"Point"}
+  "bbox": [
+    -73.667747,
+    45.592552,
+    -73.667747,
+    45.592552
+],
+  "geometry": {"coordinates":[-73.66774700000001,45.592552],"type":"Point"}
 }

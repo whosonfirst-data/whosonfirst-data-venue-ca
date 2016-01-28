@@ -2,13 +2,14 @@
   "id": 169270573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.799019,43.36871,-79.799019,43.36871",
     "geom:latitude":43.36871,
     "geom:longitude":-79.799019,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3419 Mainway",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895639,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"05064775bb876b5e2037f1a6199e872b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895639,
+            "region_id":85682057,
+            "venue_id":169270573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895639,
             "region_id":85682057,
             "venue_id":169270573
         }
     ],
     "wof:id":169270573,
-    "wof:lastmodified":1449033280,
+    "wof:lastmodified":1453929395,
     "wof:name":"Dec Express",
     "wof:parent_id":85895639,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.799019,43.36871,-79.799019,43.36871],
+  "bbox": [
+    -79.799019,
+    43.36871,
+    -79.799019,
+    43.36871
+],
   "geometry": {"coordinates":[-79.799019,43.36871],"type":"Point"}
 }

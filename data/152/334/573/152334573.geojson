@@ -2,13 +2,14 @@
   "id": 152334573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.236229,45.555157,-73.236229,45.555157",
     "geom:latitude":45.555157,
     "geom:longitude":-73.236229,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"210 Rue Scott",
     "sg:city":"Mcmasterville",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"14c6d1e14a2f9cf10851ad074790cb69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":152334573
         }
     ],
     "wof:id":152334573,
-    "wof:lastmodified":1449045657,
+    "wof:lastmodified":1453933864,
     "wof:name":"Salon Belle Etoile",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.236229,45.555157,-73.236229,45.555157],
-  "geometry": {"coordinates":[-73.236229,45.555157],"type":"Point"}
+  "bbox": [
+    -73.236229,
+    45.555157,
+    -73.236229,
+    45.555157
+],
+  "geometry": {"coordinates":[-73.23622899999999,45.555157],"type":"Point"}
 }

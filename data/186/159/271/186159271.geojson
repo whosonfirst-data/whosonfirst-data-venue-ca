@@ -2,13 +2,14 @@
   "id": 186159271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.606941,45.599434,-73.606941,45.599434",
     "geom:latitude":45.599434,
     "geom:longitude":-73.606941,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6005 Boul Couture",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784921,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"d1a6906c162f0c2cfce9bbc16af014ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186159271
         }
     ],
     "wof:id":186159271,
-    "wof:lastmodified":1449050590,
+    "wof:lastmodified":1453936538,
     "wof:name":"Bsa Ingredients Alimentaires",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "processing"
     ]
 },
-  "bbox": [-73.606941,45.599434,-73.606941,45.599434],
-  "geometry": {"coordinates":[-73.606941,45.599434],"type":"Point"}
+  "bbox": [
+    -73.606941,
+    45.599434,
+    -73.606941,
+    45.599434
+],
+  "geometry": {"coordinates":[-73.60694100000001,45.599434],"type":"Point"}
 }

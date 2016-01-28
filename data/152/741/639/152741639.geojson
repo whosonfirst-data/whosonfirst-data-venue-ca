@@ -2,13 +2,14 @@
   "id": 152741639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.25119,46.845703,-71.25119,46.845703",
     "geom:latitude":46.845703,
     "geom:longitude":-71.25119,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"160 76E Rue E",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8bae985ba730ad7b8c6b4fedc26df63f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":152741639
         }
     ],
     "wof:id":152741639,
-    "wof:lastmodified":1449044552,
+    "wof:lastmodified":1453933019,
     "wof:name":"Quebec Ingenierie",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.25119,46.845703,-71.25119,46.845703],
-  "geometry": {"coordinates":[-71.25119,46.845703],"type":"Point"}
+  "bbox": [
+    -71.25119,
+    46.845703,
+    -71.25119,
+    46.845703
+],
+  "geometry": {"coordinates":[-71.25118999999999,46.845703],"type":"Point"}
 }

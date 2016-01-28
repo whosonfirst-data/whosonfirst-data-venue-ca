@@ -2,13 +2,14 @@
   "id": 169250765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.13253,45.246265,-74.13253,45.246265",
     "geom:latitude":45.246265,
     "geom:longitude":-74.13253,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"79 Rue Du Zouave",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895785,
+        102191575,
         85633041,
-        85895785
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"8cf94637899398085557ba04fac055d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895785,
+            "region_id":136251273,
             "venue_id":169250765
         }
     ],
     "wof:id":169250765,
-    "wof:lastmodified":1449034570,
+    "wof:lastmodified":1453930783,
     "wof:name":"Maison D'Hebergement Depannage",
     "wof:parent_id":85895785,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.13253,45.246265,-74.13253,45.246265],
+  "bbox": [
+    -74.13253,
+    45.246265,
+    -74.13253,
+    45.246265
+],
   "geometry": {"coordinates":[-74.13253,45.246265],"type":"Point"}
 }

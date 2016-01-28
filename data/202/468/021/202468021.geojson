@@ -2,13 +2,14 @@
   "id": 202468021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.689751,43.453926,-79.689751,43.453926",
     "geom:latitude":43.453926,
     "geom:longitude":-79.689751,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oakville",
     "sg:classifiers":[
         {
@@ -24,8 +25,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895049,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,16 +39,24 @@
     "wof:geomhash":"181871e5b5e566f9ced417b9580eb554",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895049,
+            "region_id":85682057,
+            "venue_id":202468021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895049,
             "region_id":85682057,
             "venue_id":202468021
         }
     ],
     "wof:id":202468021,
-    "wof:lastmodified":1449061915,
+    "wof:lastmodified":1453937352,
     "wof:name":"Oakville Foot Clinic",
     "wof:parent_id":85895049,
     "wof:placetype":"venue",
@@ -52,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.689751,43.453926,-79.689751,43.453926],
+  "bbox": [
+    -79.689751,
+    43.453926,
+    -79.689751,
+    43.453926
+],
   "geometry": {"coordinates":[-79.689751,43.453926],"type":"Point"}
 }

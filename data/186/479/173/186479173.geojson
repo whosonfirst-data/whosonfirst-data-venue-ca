@@ -2,13 +2,14 @@
   "id": 186479173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.630287,43.481087,-79.630287,43.481087",
     "geom:latitude":43.481087,
     "geom:longitude":-79.630287,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2463 Lakeshore Rd E",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895645,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"d39d7dbb89203a92976d05913a4e9603",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895645,
+            "region_id":85682057,
+            "venue_id":186479173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895645,
             "region_id":85682057,
             "venue_id":186479173
         }
     ],
     "wof:id":186479173,
-    "wof:lastmodified":1449052206,
+    "wof:lastmodified":1453936801,
     "wof:name":"Clanmore Montessori School",
     "wof:parent_id":85895645,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "school"
     ]
 },
-  "bbox": [-79.630287,43.481087,-79.630287,43.481087],
+  "bbox": [
+    -79.630287,
+    43.481087,
+    -79.630287,
+    43.481087
+],
   "geometry": {"coordinates":[-79.630287,43.481087],"type":"Point"}
 }

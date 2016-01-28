@@ -2,13 +2,14 @@
   "id": 169350485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.49855,45.672226,-73.49855,45.672226",
     "geom:latitude":45.672226,
     "geom:longitude":-73.49855,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"14273 Rue DE Montigny",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784837,
+        102191575,
         85633041,
-        85784837
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"461ef7e86c9dc5e5ed50587e36366be6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
+            "region_id":136251273,
             "venue_id":169350485
         }
     ],
     "wof:id":169350485,
-    "wof:lastmodified":1449034364,
+    "wof:lastmodified":1453930538,
     "wof:name":"Salon Le Vollier",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.49855,45.672226,-73.49855,45.672226],
-  "geometry": {"coordinates":[-73.49855,45.672226],"type":"Point"}
+  "bbox": [
+    -73.49855,
+    45.672226,
+    -73.49855,
+    45.672226
+],
+  "geometry": {"coordinates":[-73.49854999999999,45.672226],"type":"Point"}
 }

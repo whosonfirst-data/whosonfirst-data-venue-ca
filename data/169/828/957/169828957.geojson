@@ -2,13 +2,14 @@
   "id": 169828957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.233978,48.403881,-71.233978,48.403881",
     "geom:latitude":48.403881,
     "geom:longitude":-71.233978,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2440 Rue Cantin",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785007,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"7691a10d1b288b0ce515b841f6eae6fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169828957
         }
     ],
     "wof:id":169828957,
-    "wof:lastmodified":1449034356,
+    "wof:lastmodified":1453930528,
     "wof:name":"Transporteurs En Vrac",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-71.233978,48.403881,-71.233978,48.403881],
-  "geometry": {"coordinates":[-71.233978,48.403881],"type":"Point"}
+  "bbox": [
+    -71.233978,
+    48.403881,
+    -71.233978,
+    48.403881
+],
+  "geometry": {"coordinates":[-71.23397799999999,48.403881],"type":"Point"}
 }

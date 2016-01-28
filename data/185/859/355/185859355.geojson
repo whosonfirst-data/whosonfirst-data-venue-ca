@@ -2,13 +2,14 @@
   "id": 185859355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.263458,48.414501,-71.263458,48.414501",
     "geom:latitude":48.414501,
     "geom:longitude":-71.263458,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2190 Rue Saint-Edmond",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785007,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"49452e2b20be1c97e57432537fe21a39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185859355
         }
     ],
     "wof:id":185859355,
-    "wof:lastmodified":1449007742,
+    "wof:lastmodified":1453927339,
     "wof:name":"Cooperative D'Habitation",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "cooperative"
     ]
 },
-  "bbox": [-71.263458,48.414501,-71.263458,48.414501],
+  "bbox": [
+    -71.263458,
+    48.414501,
+    -71.263458,
+    48.414501
+],
   "geometry": {"coordinates":[-71.263458,48.414501],"type":"Point"}
 }

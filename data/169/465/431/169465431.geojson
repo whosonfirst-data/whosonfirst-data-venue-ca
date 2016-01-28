@@ -2,13 +2,14 @@
   "id": 169465431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.670898,43.626282,-79.670898,43.626282",
     "geom:latitude":43.626282,
     "geom:longitude":-79.670898,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"de8208fc00529ca90d79d02b4f618d2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":169465431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":169465431
         }
     ],
     "wof:id":169465431,
-    "wof:lastmodified":1449034909,
+    "wof:lastmodified":1453931133,
     "wof:name":"Assure Financial Group",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.670898,43.626282,-79.670898,43.626282],
-  "geometry": {"coordinates":[-79.670898,43.626282],"type":"Point"}
+  "bbox": [
+    -79.670898,
+    43.626282,
+    -79.670898,
+    43.626282
+],
+  "geometry": {"coordinates":[-79.67089799999999,43.626282],"type":"Point"}
 }

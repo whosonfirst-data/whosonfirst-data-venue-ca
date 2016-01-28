@@ -2,13 +2,14 @@
   "id": 152404213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.432701,43.85099,-79.432701,43.85099",
     "geom:latitude":43.85099,
     "geom:longitude":-79.432701,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9174 Yonge St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895707,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"bc2b29df22138047a9ef6766fc79a441",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895707,
+            "region_id":85682057,
+            "venue_id":152404213
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895707,
             "region_id":85682057,
             "venue_id":152404213
         }
     ],
     "wof:id":152404213,
-    "wof:lastmodified":1449047366,
+    "wof:lastmodified":1453935151,
     "wof:name":"Stop N Cash",
     "wof:parent_id":85895707,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.432701,43.85099,-79.432701,43.85099],
-  "geometry": {"coordinates":[-79.432701,43.85099],"type":"Point"}
+  "bbox": [
+    -79.432701,
+    43.85099,
+    -79.432701,
+    43.85099
+],
+  "geometry": {"coordinates":[-79.43270099999999,43.85099],"type":"Point"}
 }

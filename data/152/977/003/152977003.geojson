@@ -2,13 +2,14 @@
   "id": 152977003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.252563,43.048935,-81.252563,43.048935",
     "geom:latitude":43.048935,
     "geom:longitude":-81.252563,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1065 Sunningdale Rd E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5X 4B1",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874941,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HM0ryI51XqUfSToVsoHBr_43.048935_-81.252563@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d3b86fdb9b07ab7056d7547b6662a240",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874941,
+            "region_id":85682057,
+            "venue_id":152977003
+        }
+    ],
     "wof:id":152977003,
-    "wof:lastmodified":1449049003,
+    "wof:lastmodified":1453936438,
     "wof:name":"Mother Teresa Ecole",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.252563,43.048935,-81.252563,43.048935],
-  "geometry": {"coordinates":[-81.252563,43.048935],"type":"Point"}
+  "bbox": [
+    -81.252563,
+    43.048935,
+    -81.252563,
+    43.048935
+],
+  "geometry": {"coordinates":[-81.25256299999999,43.048935],"type":"Point"}
 }

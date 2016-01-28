@@ -2,13 +2,14 @@
   "id": 153022343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.20433,45.561363,-73.20433,45.561363",
     "geom:latitude":45.561363,
     "geom:longitude":-73.20433,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"630 Rue Richelieu",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738643,
+        85894591,
+        102191575,
         85633041,
-        85894591
+        101738643,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4738c8fddd8fed3eb873ca4ba74f8bdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738643,
             "neighbourhood_id":85894591,
+            "region_id":136251273,
             "venue_id":153022343
         }
     ],
     "wof:id":153022343,
-    "wof:lastmodified":1449040492,
+    "wof:lastmodified":1453932436,
     "wof:name":"Regie Intermunicipale DE L'Eau",
     "wof:parent_id":85894591,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.20433,45.561363,-73.20433,45.561363],
+  "bbox": [
+    -73.20433,
+    45.561363,
+    -73.20433,
+    45.561363
+],
   "geometry": {"coordinates":[-73.20433,45.561363],"type":"Point"}
 }

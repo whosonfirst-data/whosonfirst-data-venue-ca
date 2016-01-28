@@ -2,13 +2,14 @@
   "id": 152674103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.306923,46.789371,-71.306923,46.789371",
     "geom:latitude":46.789371,
     "geom:longitude":-71.306923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2670 Av Dalton",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874709,
+        102191575,
         85633041,
-        85874709
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"20e92d875bdd99840c83e8c18c881f38",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874709,
+            "region_id":136251273,
             "venue_id":152674103
         }
     ],
     "wof:id":152674103,
-    "wof:lastmodified":1449047756,
+    "wof:lastmodified":1453935465,
     "wof:name":"Restaurant Le Colbert",
     "wof:parent_id":85874709,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.306923,46.789371,-71.306923,46.789371],
+  "bbox": [
+    -71.306923,
+    46.789371,
+    -71.306923,
+    46.789371
+],
   "geometry": {"coordinates":[-71.306923,46.789371],"type":"Point"}
 }

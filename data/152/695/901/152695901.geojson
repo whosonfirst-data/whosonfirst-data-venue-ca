@@ -2,13 +2,14 @@
   "id": 152695901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.72673,45.568211,-73.72673,45.568211",
     "geom:latitude":45.568211,
     "geom:longitude":-73.72673,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1640 Boul Saint-Martin O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a3a2fc4987a5f6e72e6c5b1d389f4c27",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":152695901
         }
     ],
     "wof:id":152695901,
-    "wof:lastmodified":1449046056,
+    "wof:lastmodified":1453934163,
     "wof:name":"Monsieur Muffler",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.72673,45.568211,-73.72673,45.568211],
+  "bbox": [
+    -73.72673,
+    45.568211,
+    -73.72673,
+    45.568211
+],
   "geometry": {"coordinates":[-73.72673,45.568211],"type":"Point"}
 }

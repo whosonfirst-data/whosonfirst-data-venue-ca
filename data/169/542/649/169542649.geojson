@@ -2,13 +2,14 @@
   "id": 169542649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554253,45.500553,-73.554253,45.500553",
     "geom:latitude":45.500553,
     "geom:longitude":-73.554253,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"137 Rue Saint-Pierre # 214",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866469,
+        102191575,
         85633041,
-        85866469
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"06ef8694429a0548d571185e0daa0976",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866469,
+            "region_id":136251273,
             "venue_id":169542649
         }
     ],
     "wof:id":169542649,
-    "wof:lastmodified":1449035224,
+    "wof:lastmodified":1453931419,
     "wof:name":"Marchand DE Feuilles Editeur",
     "wof:parent_id":85866469,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.554253,45.500553,-73.554253,45.500553],
+  "bbox": [
+    -73.554253,
+    45.500553,
+    -73.554253,
+    45.500553
+],
   "geometry": {"coordinates":[-73.554253,45.500553],"type":"Point"}
 }

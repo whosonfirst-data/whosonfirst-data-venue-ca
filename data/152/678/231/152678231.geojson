@@ -2,13 +2,14 @@
   "id": 152678231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.646301,45.535664,-73.646301,45.535664",
     "geom:latitude":45.535664,
     "geom:longitude":-73.646301,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8710 Av Du Parc # 300",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5921754d381e638ada0844093c411156",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152678231
         }
     ],
     "wof:id":152678231,
-    "wof:lastmodified":1449046536,
+    "wof:lastmodified":1453934529,
     "wof:name":"Ams Industries",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.646301,45.535664,-73.646301,45.535664],
-  "geometry": {"coordinates":[-73.646301,45.535664],"type":"Point"}
+  "bbox": [
+    -73.646301,
+    45.535664,
+    -73.646301,
+    45.535664
+],
+  "geometry": {"coordinates":[-73.64630099999999,45.535664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169155031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.577492,45.499268,-73.577492,45.499268",
     "geom:latitude":45.499268,
     "geom:longitude":-73.577492,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2115 Rue DE LA Montagne",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866491,
+        102191575,
         85633041,
-        85866491
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"478a86fe4baf30a26f058864a479e9ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
+            "region_id":136251273,
             "venue_id":169155031
         }
     ],
     "wof:id":169155031,
-    "wof:lastmodified":1449035381,
+    "wof:lastmodified":1453931582,
     "wof:name":"Cfg Heward Investment Mgmt",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.577492,45.499268,-73.577492,45.499268],
-  "geometry": {"coordinates":[-73.577492,45.499268],"type":"Point"}
+  "bbox": [
+    -73.577492,
+    45.499268,
+    -73.577492,
+    45.499268
+],
+  "geometry": {"coordinates":[-73.57749200000001,45.499268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153053247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.225143,42.993038,-81.225143,42.993038",
     "geom:latitude":42.993038,
     "geom:longitude":-81.225143,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"801 Dufferin Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "oxygen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LbOJUN3ZyY7tjYkzjiE8F_42.993038_-81.225143@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"fccee943851e7571768abffab99341ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":153053247
+        }
+    ],
     "wof:id":153053247,
-    "wof:lastmodified":1449040421,
+    "wof:lastmodified":1453932376,
     "wof:name":"Warren's Respiratory Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.225143,42.993038,-81.225143,42.993038],
+  "bbox": [
+    -81.225143,
+    42.993038,
+    -81.225143,
+    42.993038
+],
   "geometry": {"coordinates":[-81.225143,42.993038],"type":"Point"}
 }

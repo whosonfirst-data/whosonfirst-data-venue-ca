@@ -2,13 +2,14 @@
   "id": 152169119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.483353,43.814709,-79.483353,43.814709",
     "geom:latitude":43.814709,
     "geom:longitude":-79.483353,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"282 North Rivermede Rd # 3B",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895133,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f6dfc9daa66eee3e4c434599d32757d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":152169119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":152169119
         }
     ],
     "wof:id":152169119,
-    "wof:lastmodified":1449047149,
+    "wof:lastmodified":1453934999,
     "wof:name":"Netintegrity Inc",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.483353,43.814709,-79.483353,43.814709],
-  "geometry": {"coordinates":[-79.483353,43.814709],"type":"Point"}
+  "bbox": [
+    -79.483353,
+    43.814709,
+    -79.483353,
+    43.814709
+],
+  "geometry": {"coordinates":[-79.48335299999999,43.814709],"type":"Point"}
 }

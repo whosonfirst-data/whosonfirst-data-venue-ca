@@ -2,13 +2,14 @@
   "id": 152537303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.548004,43.608589,-79.548004,43.608589",
     "geom:latitude":43.608589,
     "geom:longitude":-79.548004,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"811 Browns Line",
     "sg:city":"Etobicoke",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"cc0c0315eee8c16cf507d8799c256589",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":152537303
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":152537303
         }
     ],
     "wof:id":152537303,
-    "wof:lastmodified":1449045428,
+    "wof:lastmodified":1453933692,
     "wof:name":"Alderwood Medical Clinic",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.548004,43.608589,-79.548004,43.608589],
-  "geometry": {"coordinates":[-79.548004,43.608589],"type":"Point"}
+  "bbox": [
+    -79.548004,
+    43.608589,
+    -79.548004,
+    43.608589
+],
+  "geometry": {"coordinates":[-79.54800400000001,43.608589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152206645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.734734,43.368027,-79.734734,43.368027",
     "geom:latitude":43.368027,
     "geom:longitude":-79.734734,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"142 Kenwood Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895641,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"b704bc0bba01ac75bc756b74bded6706",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895641,
+            "region_id":85682057,
+            "venue_id":152206645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895641,
             "region_id":85682057,
             "venue_id":152206645
         }
     ],
     "wof:id":152206645,
-    "wof:lastmodified":1449047437,
+    "wof:lastmodified":1453935203,
     "wof:name":"Creative Memories Consultant",
     "wof:parent_id":85895641,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.734734,43.368027,-79.734734,43.368027],
+  "bbox": [
+    -79.734734,
+    43.368027,
+    -79.734734,
+    43.368027
+],
   "geometry": {"coordinates":[-79.734734,43.368027],"type":"Point"}
 }

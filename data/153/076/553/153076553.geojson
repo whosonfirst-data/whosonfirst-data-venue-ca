@@ -2,13 +2,14 @@
   "id": 153076553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.503685,43.464478,-80.503685,43.464478",
     "geom:latitude":43.464478,
     "geom:longitude":-80.503685,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Weber St S",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874983,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"847f2ad5276e2abd665722390c626f66",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874983,
+            "region_id":85682057,
+            "venue_id":153076553
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85874983,
             "region_id":85682057,
             "venue_id":153076553
         }
     ],
     "wof:id":153076553,
-    "wof:lastmodified":1449040710,
+    "wof:lastmodified":1453932629,
     "wof:name":"Waterloo Dodge Chrysler Ltd",
     "wof:parent_id":85874983,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.503685,43.464478,-80.503685,43.464478],
+  "bbox": [
+    -80.503685,
+    43.464478,
+    -80.503685,
+    43.464478
+],
   "geometry": {"coordinates":[-80.503685,43.464478],"type":"Point"}
 }

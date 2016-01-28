@@ -2,13 +2,14 @@
   "id": 169210831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.805023,45.383545,-75.805023,45.383545",
     "geom:latitude":45.383545,
     "geom:longitude":-75.805023,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Ch Vanier",
     "sg:city":"Aylmer",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85864511,
+        102191575,
         85633041,
-        85864511
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"0220f87f44d63ba3d317dda9c4c77a62",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85864511,
+            "region_id":136251273,
             "venue_id":169210831
         }
     ],
     "wof:id":169210831,
-    "wof:lastmodified":1449033806,
+    "wof:lastmodified":1453929960,
     "wof:name":"Casse-Croute Vanier",
     "wof:parent_id":85864511,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.805023,45.383545,-75.805023,45.383545],
-  "geometry": {"coordinates":[-75.805023,45.383545],"type":"Point"}
+  "bbox": [
+    -75.805023,
+    45.383545,
+    -75.805023,
+    45.383545
+],
+  "geometry": {"coordinates":[-75.80502300000001,45.383545],"type":"Point"}
 }

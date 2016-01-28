@@ -2,13 +2,14 @@
   "id": 219695163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.771156,43.880135,-78.771156,43.880135",
     "geom:latitude":43.880135,
     "geom:longitude":-78.771156,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1692 Baseline Rd W",
     "sg:city":"Courtice",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875159,
+        102191575,
         85633041,
-        85682057
+        101736039,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"e0b9854e1b27d6f3b794fd185c599e7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736039,
+            "neighbourhood_id":85875159,
+            "region_id":85682057,
+            "venue_id":219695163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875159,
             "region_id":85682057,
             "venue_id":219695163
         }
     ],
     "wof:id":219695163,
-    "wof:lastmodified":1449071729,
+    "wof:lastmodified":1453937724,
     "wof:name":"Cooledge Towing",
     "wof:parent_id":85875159,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-78.771156,43.880135,-78.771156,43.880135],
+  "bbox": [
+    -78.771156,
+    43.880135,
+    -78.771156,
+    43.880135
+],
   "geometry": {"coordinates":[-78.771156,43.880135],"type":"Point"}
 }

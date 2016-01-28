@@ -2,13 +2,14 @@
   "id": 152168037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681358,43.53936,-79.681358,43.53936",
     "geom:latitude":43.53936,
     "geom:longitude":-79.681358,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2288 the Collegeway",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"e6f646214f7c0c658f9918d9bd090a61",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152168037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152168037
         }
     ],
     "wof:id":152168037,
-    "wof:lastmodified":1449046714,
+    "wof:lastmodified":1453934660,
     "wof:name":"Mc Dougall & Assoc",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.681358,43.53936,-79.681358,43.53936],
+  "bbox": [
+    -79.681358,
+    43.53936,
+    -79.681358,
+    43.53936
+],
   "geometry": {"coordinates":[-79.681358,43.53936],"type":"Point"}
 }

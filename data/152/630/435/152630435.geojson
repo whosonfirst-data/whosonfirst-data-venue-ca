@@ -2,13 +2,14 @@
   "id": 152630435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.573448,45.526596,-73.573448,45.526596",
     "geom:latitude":45.526596,
     "geom:longitude":-73.573448,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1207 Rue Rachel E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"917eb182c4a8a26b6c1bc5ae3dd1f106",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":152630435
         }
     ],
     "wof:id":152630435,
-    "wof:lastmodified":1449045965,
+    "wof:lastmodified":1453934093,
     "wof:name":"Ouellette, Catherine MD",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.573448,45.526596,-73.573448,45.526596],
+  "bbox": [
+    -73.573448,
+    45.526596,
+    -73.573448,
+    45.526596
+],
   "geometry": {"coordinates":[-73.573448,45.526596],"type":"Point"}
 }

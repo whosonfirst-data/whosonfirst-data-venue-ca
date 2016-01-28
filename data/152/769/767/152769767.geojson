@@ -2,13 +2,14 @@
   "id": 152769767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.509026,45.520962,-73.509026,45.520962",
     "geom:latitude":45.520962,
     "geom:longitude":-73.509026,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"800 Rue Sainte-Helene",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875719,
+        102191575,
         85633041,
-        85875719
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"e75d724cb3b11abb29b53b852edf32b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875719,
+            "region_id":136251273,
             "venue_id":152769767
         }
     ],
     "wof:id":152769767,
-    "wof:lastmodified":1449045837,
+    "wof:lastmodified":1453934001,
     "wof:name":"Coiffure Signe LA Griffe Enr",
     "wof:parent_id":85875719,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.509026,45.520962,-73.509026,45.520962],
-  "geometry": {"coordinates":[-73.509026,45.520962],"type":"Point"}
+  "bbox": [
+    -73.509026,
+    45.520962,
+    -73.509026,
+    45.520962
+],
+  "geometry": {"coordinates":[-73.50902600000001,45.520962],"type":"Point"}
 }

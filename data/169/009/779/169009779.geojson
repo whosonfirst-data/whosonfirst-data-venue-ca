@@ -2,13 +2,14 @@
   "id": 169009779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.648796,45.573795,-73.648796,45.573795",
     "geom:latitude":45.573795,
     "geom:longitude":-73.648796,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2330 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897499,
+        102191575,
         85633041,
-        85897499
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"f62b61ac0b5fb0b30be0220b427e1ea7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897499,
+            "region_id":136251273,
             "venue_id":169009779
         }
     ],
     "wof:id":169009779,
-    "wof:lastmodified":1449035900,
+    "wof:lastmodified":1453932188,
     "wof:name":"Jean Coutu",
     "wof:parent_id":85897499,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.648796,45.573795,-73.648796,45.573795],
+  "bbox": [
+    -73.648796,
+    45.573795,
+    -73.648796,
+    45.573795
+],
   "geometry": {"coordinates":[-73.648796,45.573795],"type":"Point"}
 }

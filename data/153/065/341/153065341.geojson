@@ -2,13 +2,14 @@
   "id": 153065341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.628868,45.504936,-73.628868,45.504936",
     "geom:latitude":45.504936,
     "geom:longitude":-73.628868,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3161 Av Van Horne",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897525,
+        102191575,
         85633041,
-        85897525
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"0d7eccc51e95fa5e369420f81be10345",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897525,
+            "region_id":136251273,
             "venue_id":153065341
         }
     ],
     "wof:id":153065341,
-    "wof:lastmodified":1449040822,
+    "wof:lastmodified":1453932727,
     "wof:name":"Massac, Charles MD",
     "wof:parent_id":85897525,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.628868,45.504936,-73.628868,45.504936],
+  "bbox": [
+    -73.628868,
+    45.504936,
+    -73.628868,
+    45.504936
+],
   "geometry": {"coordinates":[-73.628868,45.504936],"type":"Point"}
 }

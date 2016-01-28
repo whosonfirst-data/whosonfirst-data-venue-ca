@@ -2,13 +2,14 @@
   "id": 186596927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.747215,45.448212,-73.747215,45.448212",
     "geom:latitude":45.448212,
     "geom:longitude":-73.747215,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1015 Boul Montreal-Toronto",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102554351,
         85784727,
+        102191575,
         85633041,
-        101736475
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,23 +40,29 @@
     "wof:geomhash":"eeed895b884cf0418fdc6375f5f08f6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186596927
         }
     ],
     "wof:id":186596927,
-    "wof:lastmodified":1449051745,
+    "wof:lastmodified":1453936714,
     "wof:name":"Mc Donald's",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.747215,45.448212,-73.747215,45.448212],
+  "bbox": [
+    -73.747215,
+    45.448212,
+    -73.747215,
+    45.448212
+],
   "geometry": {"coordinates":[-73.747215,45.448212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152509183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.770721,45.565308,-73.770721,45.565308",
     "geom:latitude":45.565308,
     "geom:longitude":-73.770721,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3670 Aut Laval O",
     "sg:city":"Chomedey",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864423,
+        102191575,
         85633041,
-        85864423
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"8638b5c70748be1fc734da04b25dc032",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864423,
+            "region_id":136251273,
             "venue_id":152509183
         }
     ],
     "wof:id":152509183,
-    "wof:lastmodified":1449044487,
+    "wof:lastmodified":1453932965,
     "wof:name":"Location Auto 440 DE Laval",
     "wof:parent_id":85864423,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.770721,45.565308,-73.770721,45.565308],
-  "geometry": {"coordinates":[-73.770721,45.565308],"type":"Point"}
+  "bbox": [
+    -73.770721,
+    45.565308,
+    -73.770721,
+    45.565308
+],
+  "geometry": {"coordinates":[-73.77072099999999,45.565308],"type":"Point"}
 }

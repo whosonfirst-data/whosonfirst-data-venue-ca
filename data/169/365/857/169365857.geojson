@@ -2,13 +2,14 @@
   "id": 169365857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.021133,49.254608,-123.021133,49.254608",
     "geom:latitude":49.254608,
     "geom:longitude":-123.021133,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3746 Canada Way",
     "sg:city":"Burnaby",
     "sg:classifiers":[
@@ -30,9 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741055,
-        85633041,
         85894651,
+        102191575,
+        85633041,
+        101741055,
         85682117
     ],
     "wof:breaches":[],
@@ -43,6 +45,7 @@
     "wof:geomhash":"00821bd1303c33f3515009195a33d47b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741055,
             "neighbourhood_id":85894651,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":169365857,
-    "wof:lastmodified":1449033226,
+    "wof:lastmodified":1453929326,
     "wof:name":"Charlie's Chocolate Factory",
     "wof:parent_id":85894651,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.021133,49.254608,-123.021133,49.254608],
-  "geometry": {"coordinates":[-123.021133,49.254608],"type":"Point"}
+  "bbox": [
+    -123.021133,
+    49.254608,
+    -123.021133,
+    49.254608
+],
+  "geometry": {"coordinates":[-123.02113300000001,49.254608],"type":"Point"}
 }

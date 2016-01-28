@@ -2,13 +2,14 @@
   "id": 203044249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.216743,42.978985,-81.216743,42.978985",
     "geom:latitude":42.978985,
     "geom:longitude":-81.216743,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"871 Trafalgar St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,7 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85864539,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -39,18 +43,18 @@
     "wof:geomhash":"a08e49b67206453a77c3f677a650b055",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85864539,
             "region_id":85682057,
             "venue_id":203044249
         }
     ],
     "wof:id":203044249,
-    "wof:lastmodified":1449025921,
+    "wof:lastmodified":1453927592,
     "wof:name":"Madame Vanier Children's Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864539,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "welfare"
     ]
 },
-  "bbox": [-81.216743,42.978985,-81.216743,42.978985],
-  "geometry": {"coordinates":[-81.216743,42.978985],"type":"Point"}
+  "bbox": [
+    -81.216743,
+    42.978985,
+    -81.216743,
+    42.978985
+],
+  "geometry": {"coordinates":[-81.21674299999999,42.978985],"type":"Point"}
 }

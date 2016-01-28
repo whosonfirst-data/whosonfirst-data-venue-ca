@@ -2,13 +2,14 @@
   "id": 186292761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.146103,43.003067,-81.146103,43.003067",
     "geom:latitude":43.003067,
     "geom:longitude":-81.146103,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8 Belleisle Crt",
     "sg:city":"London",
     "sg:classifiers":[
@@ -32,7 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85864669,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -43,18 +47,18 @@
     "wof:geomhash":"59be719298507b3e2a5da334e2b7a02c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85864669,
             "region_id":85682057,
             "venue_id":186292761
         }
     ],
     "wof:id":186292761,
-    "wof:lastmodified":1449050471,
+    "wof:lastmodified":1453936520,
     "wof:name":"Trane Canada",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.146103,43.003067,-81.146103,43.003067],
+  "bbox": [
+    -81.146103,
+    43.003067,
+    -81.146103,
+    43.003067
+],
   "geometry": {"coordinates":[-81.146103,43.003067],"type":"Point"}
 }

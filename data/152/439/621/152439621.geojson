@@ -2,13 +2,14 @@
   "id": 152439621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.492668,43.451195,-80.492668,43.451195",
     "geom:latitude":43.451195,
     "geom:longitude":-80.492668,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"198 King St W",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874171,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"90a868972b4fee05cb172c441daac2c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874171,
+            "region_id":85682057,
+            "venue_id":152439621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874171,
             "region_id":85682057,
             "venue_id":152439621
         }
     ],
     "wof:id":152439621,
-    "wof:lastmodified":1449045576,
+    "wof:lastmodified":1453933804,
     "wof:name":"Williams Coffee Pub",
     "wof:parent_id":85874171,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.492668,43.451195,-80.492668,43.451195],
-  "geometry": {"coordinates":[-80.492668,43.451195],"type":"Point"}
+  "bbox": [
+    -80.492668,
+    43.451195,
+    -80.492668,
+    43.451195
+],
+  "geometry": {"coordinates":[-80.49266799999999,43.451195],"type":"Point"}
 }

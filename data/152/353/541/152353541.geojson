@@ -2,13 +2,14 @@
   "id": 152353541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.246429,43.158352,-79.246429,43.158352",
     "geom:latitude":43.158352,
     "geom:longitude":-79.246429,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"71 King St # 202",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c34d082e6af8dda1a3c07a43aa27cddf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":152353541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":152353541
         }
     ],
     "wof:id":152353541,
-    "wof:lastmodified":1449045630,
+    "wof:lastmodified":1453933843,
     "wof:name":"Amalgamated Collection Svc",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.246429,43.158352,-79.246429,43.158352],
-  "geometry": {"coordinates":[-79.246429,43.158352],"type":"Point"}
+  "bbox": [
+    -79.246429,
+    43.158352,
+    -79.246429,
+    43.158352
+],
+  "geometry": {"coordinates":[-79.24642900000001,43.158352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152305265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.361534,44.304962,-79.361534,44.304962",
     "geom:latitude":44.304962,
     "geom:longitude":-79.361534,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"149 High St",
     "sg:city":"Sutton West",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895141,
         102191575,
         85633041,
-        85895141
+        101740741,
+        85682057,
+        101735969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101740741,
             "neighbourhood_id":85895141,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152305265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735969,
+            "neighbourhood_id":85895141,
+            "region_id":85682057,
             "venue_id":152305265
         }
     ],
     "wof:id":152305265,
-    "wof:lastmodified":1449045009,
+    "wof:lastmodified":1453933370,
     "wof:name":"Georgina Art Ctr & Gallery",
     "wof:parent_id":85895141,
     "wof:placetype":"venue",
@@ -59,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.361534,44.304962,-79.361534,44.304962],
-  "geometry": {"coordinates":[-79.361534,44.304962],"type":"Point"}
+  "bbox": [
+    -79.361534,
+    44.304962,
+    -79.361534,
+    44.304962
+],
+  "geometry": {"coordinates":[-79.36153400000001,44.304962],"type":"Point"}
 }

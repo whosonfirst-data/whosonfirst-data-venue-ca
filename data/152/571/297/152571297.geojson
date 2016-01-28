@@ -2,13 +2,14 @@
   "id": 152571297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.441399,45.605724,-73.441399,45.605724",
     "geom:latitude":45.605724,
     "geom:longitude":-73.441399,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"615 Rue DE Verrazano",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875743,
+        102191575,
         85633041,
-        85875743
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"89d9a5b0b0f97b6b9de647481e638ba0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875743,
+            "region_id":136251273,
             "venue_id":152571297
         }
     ],
     "wof:id":152571297,
-    "wof:lastmodified":1449047459,
+    "wof:lastmodified":1453935218,
     "wof:name":"Salon Laurence",
     "wof:parent_id":85875743,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.441399,45.605724,-73.441399,45.605724],
+  "bbox": [
+    -73.441399,
+    45.605724,
+    -73.441399,
+    45.605724
+],
   "geometry": {"coordinates":[-73.441399,45.605724],"type":"Point"}
 }

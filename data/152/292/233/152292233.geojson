@@ -2,13 +2,14 @@
   "id": 152292233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.398941,45.488174,-73.398941,45.488174",
     "geom:latitude":45.488174,
     "geom:longitude":-73.398941,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"c5a77bfb929af2fbcddfee0ab0186c8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":152292233
         }
     ],
     "wof:id":152292233,
-    "wof:lastmodified":1449044691,
+    "wof:lastmodified":1453933132,
     "wof:name":"Techn-Ecologie Inc",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.398941,45.488174,-73.398941,45.488174],
-  "geometry": {"coordinates":[-73.398941,45.488174],"type":"Point"}
+  "bbox": [
+    -73.398941,
+    45.488174,
+    -73.398941,
+    45.488174
+],
+  "geometry": {"coordinates":[-73.39894099999999,45.488174],"type":"Point"}
 }

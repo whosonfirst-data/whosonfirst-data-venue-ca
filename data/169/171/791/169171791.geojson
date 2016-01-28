@@ -2,13 +2,14 @@
   "id": 169171791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.231461,43.04068,-81.231461,43.04068",
     "geom:latitude":43.04068,
     "geom:longitude":-81.231461,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"123 Mclean Dr",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5X 1Y8",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874941,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dOZEWjrl9GactM50r7I2f_43.040680_-81.231461@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"98bea75583a8f5d54fa75934b1c78248",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874941,
+            "region_id":85682057,
+            "venue_id":169171791
+        }
+    ],
     "wof:id":169171791,
-    "wof:lastmodified":1449035983,
+    "wof:lastmodified":1453932245,
     "wof:name":"Northridge Beauty Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.231461,43.04068,-81.231461,43.04068],
+  "bbox": [
+    -81.231461,
+    43.04068,
+    -81.231461,
+    43.04068
+],
   "geometry": {"coordinates":[-81.231461,43.04068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168854093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.491043,43.45969,-80.491043,43.45969",
     "geom:latitude":43.45969,
     "geom:longitude":-80.491043,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"136 Margaret Ave",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874983,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a33ad59e3847d2554be810db511c2fd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874983,
+            "region_id":85682057,
+            "venue_id":168854093
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85874983,
             "region_id":85682057,
             "venue_id":168854093
         }
     ],
     "wof:id":168854093,
-    "wof:lastmodified":1449028554,
+    "wof:lastmodified":1453928647,
     "wof:name":"Grace Lutheran Church",
     "wof:parent_id":85874983,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.491043,43.45969,-80.491043,43.45969],
+  "bbox": [
+    -80.491043,
+    43.45969,
+    -80.491043,
+    43.45969
+],
   "geometry": {"coordinates":[-80.491043,43.45969],"type":"Point"}
 }

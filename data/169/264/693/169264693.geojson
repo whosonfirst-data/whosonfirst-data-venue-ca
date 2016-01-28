@@ -2,13 +2,14 @@
   "id": 169264693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.607719,45.473637,-73.607719,45.473637",
     "geom:latitude":45.473637,
     "geom:longitude":-73.607719,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2116 Boul Decarie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897531,
+        102191575,
         85633041,
-        85897531
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e82d8bf72c7093d02d287a1a7ae1ee3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897531,
+            "region_id":136251273,
             "venue_id":169264693
         }
     ],
     "wof:id":169264693,
-    "wof:lastmodified":1449034828,
+    "wof:lastmodified":1453931058,
     "wof:name":"New Ja Mae",
     "wof:parent_id":85897531,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.607719,45.473637,-73.607719,45.473637],
+  "bbox": [
+    -73.607719,
+    45.473637,
+    -73.607719,
+    45.473637
+],
   "geometry": {"coordinates":[-73.607719,45.473637],"type":"Point"}
 }

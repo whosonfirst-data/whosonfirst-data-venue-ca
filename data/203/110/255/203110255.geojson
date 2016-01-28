@@ -2,13 +2,14 @@
   "id": 203110255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.349052,43.814854,-79.349052,43.814854",
     "geom:latitude":43.814854,
     "geom:longitude":-79.349052,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7030 Woodbine Ave # 100",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895483,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"459329569bd7cf940be54c6c289b7d88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":203110255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":203110255
         }
     ],
     "wof:id":203110255,
-    "wof:lastmodified":1449025541,
+    "wof:lastmodified":1453927524,
     "wof:name":"Abel Placement Consultants",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "opportunity"
     ]
 },
-  "bbox": [-79.349052,43.814854,-79.349052,43.814854],
+  "bbox": [
+    -79.349052,
+    43.814854,
+    -79.349052,
+    43.814854
+],
   "geometry": {"coordinates":[-79.349052,43.814854],"type":"Point"}
 }

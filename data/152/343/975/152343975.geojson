@@ -2,13 +2,14 @@
   "id": 152343975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.61956,43.512501,-79.61956,43.512501",
     "geom:latitude":43.512501,
     "geom:longitude":-79.61956,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"801 Fletcher Valley Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894979,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ef441b7224b8f54471259c14b4aec519",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894979,
+            "region_id":85682057,
+            "venue_id":152343975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894979,
             "region_id":85682057,
             "venue_id":152343975
         }
     ],
     "wof:id":152343975,
-    "wof:lastmodified":1449047585,
+    "wof:lastmodified":1453935330,
     "wof:name":"Anchor Transportation Svc",
     "wof:parent_id":85894979,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.61956,43.512501,-79.61956,43.512501],
-  "geometry": {"coordinates":[-79.61956,43.512501],"type":"Point"}
+  "bbox": [
+    -79.61956,
+    43.512501,
+    -79.61956,
+    43.512501
+],
+  "geometry": {"coordinates":[-79.61956000000001,43.512501],"type":"Point"}
 }

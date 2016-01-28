@@ -2,13 +2,14 @@
   "id": 152720347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.73629,45.611095,-73.73629,45.611095",
     "geom:latitude":45.611095,
     "geom:longitude":-73.73629,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2179 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864417,
+        102191575,
         85633041,
-        85864417
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"0a11d7e516887b624e6a93dcc330c9ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
+            "region_id":136251273,
             "venue_id":152720347
         }
     ],
     "wof:id":152720347,
-    "wof:lastmodified":1449045397,
+    "wof:lastmodified":1453933667,
     "wof:name":"Dagenais, Simon OD",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.73629,45.611095,-73.73629,45.611095],
+  "bbox": [
+    -73.73629,
+    45.611095,
+    -73.73629,
+    45.611095
+],
   "geometry": {"coordinates":[-73.73629,45.611095],"type":"Point"}
 }

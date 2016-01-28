@@ -2,13 +2,14 @@
   "id": 169164525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.710335,43.395462,-79.710335,43.395462",
     "geom:latitude":43.395462,
     "geom:longitude":-79.710335,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2402 Lakeshore Rd W",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"cede66f9fe355148190cc84df6fdd28d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":169164525
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":169164525
         }
     ],
     "wof:id":169164525,
-    "wof:lastmodified":1449033075,
+    "wof:lastmodified":1453929197,
     "wof:name":"Cadet Cleaners",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.710335,43.395462,-79.710335,43.395462],
+  "bbox": [
+    -79.710335,
+    43.395462,
+    -79.710335,
+    43.395462
+],
   "geometry": {"coordinates":[-79.710335,43.395462],"type":"Point"}
 }

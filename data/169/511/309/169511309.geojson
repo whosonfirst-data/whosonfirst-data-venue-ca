@@ -2,13 +2,14 @@
   "id": 169511309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.827499,45.499802,-73.827499,45.499802",
     "geom:latitude":45.499802,
     "geom:longitude":-73.827499,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"21 Rue Pasteur",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"b4c7ab1d1be457e18066b24f025b4511",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":169511309
         }
     ],
     "wof:id":169511309,
-    "wof:lastmodified":1449034195,
+    "wof:lastmodified":1453930383,
     "wof:name":"Ambiance Design Vickie Morin",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.827499,45.499802,-73.827499,45.499802],
+  "bbox": [
+    -73.827499,
+    45.499802,
+    -73.827499,
+    45.499802
+],
   "geometry": {"coordinates":[-73.827499,45.499802],"type":"Point"}
 }

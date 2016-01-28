@@ -2,13 +2,14 @@
   "id": 219163465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.609924,43.587265,-79.609924,43.587265",
     "geom:latitude":43.587265,
     "geom:longitude":-79.609924,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3061 Mikeboro Crt",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895225,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"a18eef40d99fbe261bc77592004ee3e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":219163465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":219163465
         }
     ],
     "wof:id":219163465,
-    "wof:lastmodified":1449073834,
+    "wof:lastmodified":1453938008,
     "wof:name":"Wizzard Logistics",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "courier"
     ]
 },
-  "bbox": [-79.609924,43.587265,-79.609924,43.587265],
-  "geometry": {"coordinates":[-79.609924,43.587265],"type":"Point"}
+  "bbox": [
+    -79.609924,
+    43.587265,
+    -79.609924,
+    43.587265
+],
+  "geometry": {"coordinates":[-79.60992400000001,43.587265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152908285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.19989,43.175159,-79.19989,43.175159",
     "geom:latitude":43.175159,
     "geom:longitude":-79.19989,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"04ea5463d9bdb3b537dda1a57dc74aaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152908285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152908285
         }
     ],
     "wof:id":152908285,
-    "wof:lastmodified":1449046920,
+    "wof:lastmodified":1453934813,
     "wof:name":"Crescent Air Conditioning Ltd",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.19989,43.175159,-79.19989,43.175159],
+  "bbox": [
+    -79.19989,
+    43.175159,
+    -79.19989,
+    43.175159
+],
   "geometry": {"coordinates":[-79.19989,43.175159],"type":"Point"}
 }

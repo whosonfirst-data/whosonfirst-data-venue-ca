@@ -2,13 +2,14 @@
   "id": 169064923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.422737,43.807755,-79.422737,43.807755",
     "geom:latitude":43.807755,
     "geom:longitude":-79.422737,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7378 Yonge St #11B",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895535,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"1a45482715e7054a30b51c32be8439f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895535,
+            "region_id":85682057,
+            "venue_id":169064923
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895535,
             "region_id":85682057,
             "venue_id":169064923
         }
     ],
     "wof:id":169064923,
-    "wof:lastmodified":1449033852,
+    "wof:lastmodified":1453930014,
     "wof:name":"Uni Canada Max Inc",
     "wof:parent_id":85895535,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.422737,43.807755,-79.422737,43.807755],
+  "bbox": [
+    -79.422737,
+    43.807755,
+    -79.422737,
+    43.807755
+],
   "geometry": {"coordinates":[-79.422737,43.807755],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152546417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.663803,45.535942,-73.663803,45.535942",
     "geom:latitude":45.535942,
     "geom:longitude":-73.663803,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9700 Rue Birnam",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897497,
+        102191575,
         85633041,
-        85897497
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"0764bfb3ac3efe0d36325c43ac73ffdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897497,
+            "region_id":136251273,
             "venue_id":152546417
         }
     ],
     "wof:id":152546417,
-    "wof:lastmodified":1449044278,
+    "wof:lastmodified":1453932811,
     "wof:name":"Ben & Ben Auto Repair",
     "wof:parent_id":85897497,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.663803,45.535942,-73.663803,45.535942],
+  "bbox": [
+    -73.663803,
+    45.535942,
+    -73.663803,
+    45.535942
+],
   "geometry": {"coordinates":[-73.663803,45.535942],"type":"Point"}
 }

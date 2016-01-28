@@ -2,13 +2,14 @@
   "id": 169059003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.621964,45.415165,-73.621964,45.415165",
     "geom:latitude":45.415165,
     "geom:longitude":-73.621964,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8760 Boul Lasalle",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897543,
+        102191575,
         85633041,
-        85897543
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"f365623be1256fd49471213ba598c5a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897543,
+            "region_id":136251273,
             "venue_id":169059003
         }
     ],
     "wof:id":169059003,
-    "wof:lastmodified":1449033590,
+    "wof:lastmodified":1453929711,
     "wof:name":"Lasalle Drive-In Restaurant",
     "wof:parent_id":85897543,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.621964,45.415165,-73.621964,45.415165],
-  "geometry": {"coordinates":[-73.621964,45.415165],"type":"Point"}
+  "bbox": [
+    -73.621964,
+    45.415165,
+    -73.621964,
+    45.415165
+],
+  "geometry": {"coordinates":[-73.62196400000001,45.415165],"type":"Point"}
 }

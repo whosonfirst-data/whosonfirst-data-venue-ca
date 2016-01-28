@@ -2,13 +2,14 @@
   "id": 169443805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.513077,45.501522,-73.513077,45.501522",
     "geom:latitude":45.501522,
     "geom:longitude":-73.513077,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"82e078605cc32f92b35f00d7407a3ae8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":169443805
         }
     ],
     "wof:id":169443805,
-    "wof:lastmodified":1449035349,
+    "wof:lastmodified":1453931556,
     "wof:name":"Echoppe Des Fromages Inc",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.513077,45.501522,-73.513077,45.501522],
+  "bbox": [
+    -73.513077,
+    45.501522,
+    -73.513077,
+    45.501522
+],
   "geometry": {"coordinates":[-73.513077,45.501522],"type":"Point"}
 }

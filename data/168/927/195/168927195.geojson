@@ -2,13 +2,14 @@
   "id": 168927195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.817856,45.505093,-73.817856,45.505093",
     "geom:latitude":45.505093,
     "geom:longitude":-73.817856,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4861 Boul Des Sources",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f451ad8deeb4f1a708d7909b9da22a90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":168927195
         }
     ],
     "wof:id":168927195,
-    "wof:lastmodified":1449028509,
+    "wof:lastmodified":1453928601,
     "wof:name":"Bertrand Daoust Dental Office",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.817856,45.505093,-73.817856,45.505093],
-  "geometry": {"coordinates":[-73.817856,45.505093],"type":"Point"}
+  "bbox": [
+    -73.817856,
+    45.505093,
+    -73.817856,
+    45.505093
+],
+  "geometry": {"coordinates":[-73.81785600000001,45.505093],"type":"Point"}
 }

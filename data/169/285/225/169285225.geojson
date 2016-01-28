@@ -2,13 +2,14 @@
   "id": 169285225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867401,45.571869,-73.867401,45.571869",
     "geom:latitude":45.571869,
     "geom:longitude":-73.867401,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"280 Ch DE LA Grande-Cote",
     "sg:city":"Saint-Eustache",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875055,
+        102191575,
         85633041,
-        85875055
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a06cf293a99a8266a410e4de4e50d9aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875055,
+            "region_id":136251273,
             "venue_id":169285225
         }
     ],
     "wof:id":169285225,
-    "wof:lastmodified":1449032781,
+    "wof:lastmodified":1453928898,
     "wof:name":"Artisans Createurs",
     "wof:parent_id":85875055,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.867401,45.571869,-73.867401,45.571869],
+  "bbox": [
+    -73.867401,
+    45.571869,
+    -73.867401,
+    45.571869
+],
   "geometry": {"coordinates":[-73.867401,45.571869],"type":"Point"}
 }

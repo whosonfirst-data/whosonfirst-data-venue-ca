@@ -2,13 +2,14 @@
   "id": 168822319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.111221,43.906792,-80.111221,43.906792",
     "geom:latitude":43.906792,
     "geom:longitude":-80.111221,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9 Robb Blvd",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895083,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"fdc68d3038305aa2d15213be28bd1789",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895083,
+            "region_id":85682057,
+            "venue_id":168822319
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895083,
             "region_id":85682057,
             "venue_id":168822319
         }
     ],
     "wof:id":168822319,
-    "wof:lastmodified":1449028563,
+    "wof:lastmodified":1453928658,
     "wof:name":"Master Woodworking Ctr Ltd",
     "wof:parent_id":85895083,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.111221,43.906792,-80.111221,43.906792],
+  "bbox": [
+    -80.111221,
+    43.906792,
+    -80.111221,
+    43.906792
+],
   "geometry": {"coordinates":[-80.111221,43.906792],"type":"Point"}
 }

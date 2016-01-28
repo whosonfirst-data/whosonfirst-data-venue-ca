@@ -2,13 +2,14 @@
   "id": 152895265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.518074,46.366215,-72.518074,46.366215",
     "geom:latitude":46.366215,
     "geom:longitude":-72.518074,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"232 Rue Saint-Laurent",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874113,
+        102191575,
         85633041,
-        85874113
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"fcea5c4c5139fdb1df341cc1b2381776",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874113,
+            "region_id":136251273,
             "venue_id":152895265
         }
     ],
     "wof:id":152895265,
-    "wof:lastmodified":1449046273,
+    "wof:lastmodified":1453934323,
     "wof:name":"Bain-Miracle",
     "wof:parent_id":85874113,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.518074,46.366215,-72.518074,46.366215],
+  "bbox": [
+    -72.518074,
+    46.366215,
+    -72.518074,
+    46.366215
+],
   "geometry": {"coordinates":[-72.518074,46.366215],"type":"Point"}
 }

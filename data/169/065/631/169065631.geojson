@@ -2,13 +2,14 @@
   "id": 169065631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.732101,45.552135,-73.732101,45.552135",
     "geom:latitude":45.552135,
     "geom:longitude":-73.732101,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"440 Boul Armand-Frappier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897571,
+        102191575,
         85633041,
-        85897571
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"92933f925e53af37d7ee7c5626635c67",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897571,
+            "region_id":136251273,
             "venue_id":169065631
         }
     ],
     "wof:id":169065631,
-    "wof:lastmodified":1449035926,
+    "wof:lastmodified":1453932214,
     "wof:name":"Simgraph Inc",
     "wof:parent_id":85897571,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.732101,45.552135,-73.732101,45.552135],
+  "bbox": [
+    -73.732101,
+    45.552135,
+    -73.732101,
+    45.552135
+],
   "geometry": {"coordinates":[-73.732101,45.552135],"type":"Point"}
 }

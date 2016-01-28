@@ -2,13 +2,14 @@
   "id": 203148417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.131554,45.255741,-74.131554,45.255741",
     "geom:latitude":45.255741,
     "geom:longitude":-74.131554,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"19 Rue Nicholson",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895735,
+        102191575,
         85633041,
-        101736831
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"3353bba871b2bbf7b9d343c2277646ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203148417
         }
     ],
     "wof:id":203148417,
-    "wof:lastmodified":1449026548,
+    "wof:lastmodified":1453927699,
     "wof:name":"Optique Meloche",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "optician"
     ]
 },
-  "bbox": [-74.131554,45.255741,-74.131554,45.255741],
-  "geometry": {"coordinates":[-74.131554,45.255741],"type":"Point"}
+  "bbox": [
+    -74.131554,
+    45.255741,
+    -74.131554,
+    45.255741
+],
+  "geometry": {"coordinates":[-74.13155399999999,45.255741],"type":"Point"}
 }

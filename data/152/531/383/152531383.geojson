@@ -2,13 +2,14 @@
   "id": 152531383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625534,45.528927,-73.625534,45.528927",
     "geom:latitude":45.528927,
     "geom:longitude":-73.625534,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"525 Av Ogilvy",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cf62af861bc7668edb8e0f68a4e9236c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152531383
         }
     ],
     "wof:id":152531383,
-    "wof:lastmodified":1449045386,
+    "wof:lastmodified":1453933658,
     "wof:name":"Alex Paint Shop",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.625534,45.528927,-73.625534,45.528927],
+  "bbox": [
+    -73.625534,
+    45.528927,
+    -73.625534,
+    45.528927
+],
   "geometry": {"coordinates":[-73.625534,45.528927],"type":"Point"}
 }

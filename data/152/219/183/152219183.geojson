@@ -2,13 +2,14 @@
   "id": 152219183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.332314,43.868176,-79.332314,43.868176",
     "geom:latitude":43.868176,
     "geom:longitude":-79.332314,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"74 Liebeck Cres",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895493,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"2a0ab799a866bc8290ff82eeb602972c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895493,
+            "region_id":85682057,
+            "venue_id":152219183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895493,
             "region_id":85682057,
             "venue_id":152219183
         }
     ],
     "wof:id":152219183,
-    "wof:lastmodified":1449048727,
+    "wof:lastmodified":1453936196,
     "wof:name":"Prismatic",
     "wof:parent_id":85895493,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.332314,43.868176,-79.332314,43.868176],
+  "bbox": [
+    -79.332314,
+    43.868176,
+    -79.332314,
+    43.868176
+],
   "geometry": {"coordinates":[-79.332314,43.868176],"type":"Point"}
 }

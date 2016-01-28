@@ -2,13 +2,14 @@
   "id": 152918521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.557869,45.493328,-73.557869,45.493328",
     "geom:latitude":45.493328,
     "geom:longitude":-73.557869,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897617,
+        102191575,
         85633041,
-        85897617
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"dff4db166865a3536995e4ac714912e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897617,
+            "region_id":136251273,
             "venue_id":152918521
         }
     ],
     "wof:id":152918521,
-    "wof:lastmodified":1449047448,
+    "wof:lastmodified":1453935210,
     "wof:name":"Strat-Eg Group",
     "wof:parent_id":85897617,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.557869,45.493328,-73.557869,45.493328],
+  "bbox": [
+    -73.557869,
+    45.493328,
+    -73.557869,
+    45.493328
+],
   "geometry": {"coordinates":[-73.557869,45.493328],"type":"Point"}
 }

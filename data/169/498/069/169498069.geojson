@@ -2,13 +2,14 @@
   "id": 169498069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.309296,46.902794,-71.309296,46.902794",
     "geom:latitude":46.902794,
     "geom:longitude":-71.309296,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"510 Av Notre-Dame",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"3ef5d216896e48c701909a7ba94ab458",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169498069
         }
     ],
     "wof:id":169498069,
-    "wof:lastmodified":1449035162,
+    "wof:lastmodified":1453931377,
     "wof:name":"Voisiniere Charlesbourg",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.309296,46.902794,-71.309296,46.902794],
+  "bbox": [
+    -71.309296,
+    46.902794,
+    -71.309296,
+    46.902794
+],
   "geometry": {"coordinates":[-71.309296,46.902794],"type":"Point"}
 }

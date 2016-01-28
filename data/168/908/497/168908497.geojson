@@ -2,13 +2,14 @@
   "id": 168908497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.308571,43.000488,-81.308571,43.000488",
     "geom:latitude":43.000488,
     "geom:longitude":-81.308571,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1232 Limberlost Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "dressmaker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874923,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1srTmduJEHjPjyOZ1a6ISv_43.000488_-81.308571@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"300da1bdd0f74666208036c9a7ae8bf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874923,
+            "region_id":85682057,
+            "venue_id":168908497
+        }
+    ],
     "wof:id":168908497,
-    "wof:lastmodified":1449028212,
+    "wof:lastmodified":1453928274,
     "wof:name":"Hanna's Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874923,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.308571,43.000488,-81.308571,43.000488],
+  "bbox": [
+    -81.308571,
+    43.000488,
+    -81.308571,
+    43.000488
+],
   "geometry": {"coordinates":[-81.308571,43.000488],"type":"Point"}
 }

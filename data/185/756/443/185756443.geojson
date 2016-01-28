@@ -2,13 +2,14 @@
   "id": 185756443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.837967,45.496567,-73.837967,45.496567",
     "geom:latitude":45.496567,
     "geom:longitude":-73.837967,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"13185 Rue Sunbury",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784833,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"fffdc0c472bb08a43a47dc8e725ce8eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784833,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185756443
         }
     ],
     "wof:id":185756443,
-    "wof:lastmodified":1449007574,
+    "wof:lastmodified":1453927317,
     "wof:name":"Ypergest Inc",
     "wof:parent_id":85784833,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "financing"
     ]
 },
-  "bbox": [-73.837967,45.496567,-73.837967,45.496567],
-  "geometry": {"coordinates":[-73.837967,45.496567],"type":"Point"}
+  "bbox": [
+    -73.837967,
+    45.496567,
+    -73.837967,
+    45.496567
+],
+  "geometry": {"coordinates":[-73.83796700000001,45.496567],"type":"Point"}
 }

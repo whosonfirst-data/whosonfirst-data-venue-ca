@@ -2,13 +2,14 @@
   "id": 153005803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.614716,45.551502,-73.614716,45.551502",
     "geom:latitude":45.551502,
     "geom:longitude":-73.614716,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866495,
+        102191575,
         85633041,
-        85866495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"d9d163b4b94bb17947f760547750f7eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866495,
+            "region_id":136251273,
             "venue_id":153005803
         }
     ],
     "wof:id":153005803,
-    "wof:lastmodified":1449040789,
+    "wof:lastmodified":1453932700,
     "wof:name":"Aube Gareau Ingenieurs Cnsls",
     "wof:parent_id":85866495,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.614716,45.551502,-73.614716,45.551502],
+  "bbox": [
+    -73.614716,
+    45.551502,
+    -73.614716,
+    45.551502
+],
   "geometry": {"coordinates":[-73.614716,45.551502],"type":"Point"}
 }

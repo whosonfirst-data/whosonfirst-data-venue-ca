@@ -2,13 +2,14 @@
   "id": 169275217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.303185,45.457146,-73.303185,45.457146",
     "geom:latitude":45.457146,
     "geom:longitude":-73.303185,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"702 Boul DE Perigny",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895747,
+        102191575,
         85633041,
-        85895747
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9b32d70688e9873674a5070a5d77d08f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
+            "region_id":136251273,
             "venue_id":169275217
         }
     ],
     "wof:id":169275217,
-    "wof:lastmodified":1449033750,
+    "wof:lastmodified":1453929884,
     "wof:name":"Autobus Chambly Inc",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.303185,45.457146,-73.303185,45.457146],
+  "bbox": [
+    -73.303185,
+    45.457146,
+    -73.303185,
+    45.457146
+],
   "geometry": {"coordinates":[-73.303185,45.457146],"type":"Point"}
 }

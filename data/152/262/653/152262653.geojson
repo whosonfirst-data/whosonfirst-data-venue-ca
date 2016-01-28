@@ -2,13 +2,14 @@
   "id": 152262653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.835861,45.449871,-73.835861,45.449871",
     "geom:latitude":45.449871,
     "geom:longitude":-73.835861,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"34 Rue Canvin",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875799,
+        102191575,
         85633041,
-        85875799
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5ba7048f08dcc3f3053232666c1e4456",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875799,
+            "region_id":136251273,
             "venue_id":152262653
         }
     ],
     "wof:id":152262653,
-    "wof:lastmodified":1449047158,
+    "wof:lastmodified":1453935001,
     "wof:name":"Conception Jc Dev Inc",
     "wof:parent_id":85875799,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.835861,45.449871,-73.835861,45.449871],
-  "geometry": {"coordinates":[-73.835861,45.449871],"type":"Point"}
+  "bbox": [
+    -73.835861,
+    45.449871,
+    -73.835861,
+    45.449871
+],
+  "geometry": {"coordinates":[-73.83586099999999,45.449871],"type":"Point"}
 }

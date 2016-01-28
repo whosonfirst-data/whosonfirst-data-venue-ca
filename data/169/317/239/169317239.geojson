@@ -2,13 +2,14 @@
   "id": 169317239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.252327,43.031178,-82.252327,43.031178",
     "geom:latitude":43.031178,
     "geom:longitude":-82.252327,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6568 Waterworks Side Rd",
     "sg:city":"Brights Grove",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864451,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"bb6ecf8b7433743b2f943e9fc460d46b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85864451,
+            "region_id":85682057,
+            "venue_id":169317239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85864451,
             "region_id":85682057,
             "venue_id":169317239
         }
     ],
     "wof:id":169317239,
-    "wof:lastmodified":1449034179,
+    "wof:lastmodified":1453930360,
     "wof:name":"Gibbs Auto Svc",
     "wof:parent_id":85864451,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.252327,43.031178,-82.252327,43.031178],
-  "geometry": {"coordinates":[-82.252327,43.031178],"type":"Point"}
+  "bbox": [
+    -82.252327,
+    43.031178,
+    -82.252327,
+    43.031178
+],
+  "geometry": {"coordinates":[-82.25232699999999,43.031178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169311089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.729568,45.407185,-75.729568,45.407185",
     "geom:latitude":45.407185,
     "geom:longitude":-75.729568,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"117 Carruthers Ave",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"58a711cc4951897ea77067ea56a31e91",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":169311089
         }
     ],
     "wof:id":169311089,
-    "wof:lastmodified":1449033463,
+    "wof:lastmodified":1453929576,
     "wof:name":"Men's Line",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.729568,45.407185,-75.729568,45.407185],
+  "bbox": [
+    -75.729568,
+    45.407185,
+    -75.729568,
+    45.407185
+],
   "geometry": {"coordinates":[-75.729568,45.407185],"type":"Point"}
 }

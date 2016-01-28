@@ -2,13 +2,14 @@
   "id": 169438187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.438477,45.688564,-73.438477,45.688564",
     "geom:latitude":45.688564,
     "geom:longitude":-73.438477,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Rue Saint-Marc",
     "sg:city":"Varennes",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738581,
+        85895719,
+        102191575,
         85633041,
-        85895719
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"87e47f884d2238d2f30be42ff2776f88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
+            "region_id":136251273,
             "venue_id":169438187
         }
     ],
     "wof:id":169438187,
-    "wof:lastmodified":1449033802,
+    "wof:lastmodified":1453929951,
     "wof:name":"Taxi Savaria",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.438477,45.688564,-73.438477,45.688564],
-  "geometry": {"coordinates":[-73.438477,45.688564],"type":"Point"}
+  "bbox": [
+    -73.438477,
+    45.688564,
+    -73.438477,
+    45.688564
+],
+  "geometry": {"coordinates":[-73.43847700000001,45.688564],"type":"Point"}
 }

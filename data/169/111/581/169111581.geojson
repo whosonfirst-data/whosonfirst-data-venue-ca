@@ -2,13 +2,14 @@
   "id": 169111581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.702682,44.361351,-79.702682,44.361351",
     "geom:latitude":44.361351,
     "geom:longitude":-79.702682,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"52 Morrow Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875275,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A3pWjB7SyqHfDB0PYmEeM_44.361351_-79.702682@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"9197b7af9a4e5a5af742182aa7f5bdf3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875275,
+            "region_id":85682057,
+            "venue_id":169111581
+        }
+    ],
     "wof:id":169111581,
-    "wof:lastmodified":1449036074,
+    "wof:lastmodified":1453932308,
     "wof:name":"Georgian Manor Banquet Hall",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875275,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.702682,44.361351,-79.702682,44.361351],
+  "bbox": [
+    -79.702682,
+    44.361351,
+    -79.702682,
+    44.361351
+],
   "geometry": {"coordinates":[-79.702682,44.361351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169411217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.492706,43.451241,-80.492706,43.451241",
     "geom:latitude":43.451241,
     "geom:longitude":-80.492706,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"200 King St W",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874171,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"91c844e05612e2d4477bf2b13454e7b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874171,
+            "region_id":85682057,
+            "venue_id":169411217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874171,
             "region_id":85682057,
             "venue_id":169411217
         }
     ],
     "wof:id":169411217,
-    "wof:lastmodified":1449032843,
+    "wof:lastmodified":1453928984,
     "wof:name":"Harry's Grill",
     "wof:parent_id":85874171,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.492706,43.451241,-80.492706,43.451241],
+  "bbox": [
+    -80.492706,
+    43.451241,
+    -80.492706,
+    43.451241
+],
   "geometry": {"coordinates":[-80.492706,43.451241],"type":"Point"}
 }

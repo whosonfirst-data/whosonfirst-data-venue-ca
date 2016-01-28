@@ -2,13 +2,14 @@
   "id": 169503371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.266731,48.405182,-71.266731,48.405182",
     "geom:latitude":48.405182,
     "geom:longitude":-71.266731,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2468 Rue Saint-Jean-Baptiste",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"8574e83858196697c5703b046f6b4c8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":169503371
         }
     ],
     "wof:id":169503371,
-    "wof:lastmodified":1449035980,
+    "wof:lastmodified":1453932240,
     "wof:name":"Atelier St-Jean Baptiste",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.266731,48.405182,-71.266731,48.405182],
-  "geometry": {"coordinates":[-71.266731,48.405182],"type":"Point"}
+  "bbox": [
+    -71.266731,
+    48.405182,
+    -71.266731,
+    48.405182
+],
+  "geometry": {"coordinates":[-71.26673099999999,48.405182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219189461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.846893,45.642719,-73.846893,45.642719",
     "geom:latitude":45.642719,
     "geom:longitude":-73.846893,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"53 Rue Saint-Lambert",
     "sg:city":"Sainte-Therese",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897563,
+        102191575,
         85633041,
-        101738507
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"ba953b0562b2960f0fa9bee058d91261",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219189461
         }
     ],
     "wof:id":219189461,
-    "wof:lastmodified":1449072893,
+    "wof:lastmodified":1453937884,
     "wof:name":"Maison Des Jeunes Des Basses",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.846893,45.642719,-73.846893,45.642719],
-  "geometry": {"coordinates":[-73.846893,45.642719],"type":"Point"}
+  "bbox": [
+    -73.846893,
+    45.642719,
+    -73.846893,
+    45.642719
+],
+  "geometry": {"coordinates":[-73.84689299999999,45.642719],"type":"Point"}
 }

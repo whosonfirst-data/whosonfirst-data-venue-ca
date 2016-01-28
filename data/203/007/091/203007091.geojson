@@ -2,13 +2,14 @@
   "id": 203007091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.496979,45.406971,-73.496979,45.406971",
     "geom:latitude":45.406971,
     "geom:longitude":-73.496979,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"977 Boul Taschereau",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875779,
+        102191575,
         85633041,
-        101736521
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"95f5a4069d2d2cf8734eb33bd7066d82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875779,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203007091
         }
     ],
     "wof:id":203007091,
-    "wof:lastmodified":1449026516,
+    "wof:lastmodified":1453927693,
     "wof:name":"General Du Dollar",
     "wof:parent_id":85875779,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.496979,45.406971,-73.496979,45.406971],
+  "bbox": [
+    -73.496979,
+    45.406971,
+    -73.496979,
+    45.406971
+],
   "geometry": {"coordinates":[-73.496979,45.406971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169387745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.621506,45.568367,-73.621506,45.568367",
     "geom:latitude":45.568367,
     "geom:longitude":-73.621506,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8735 10E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f25708204b236ba3ba4a6d2d501e6702",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":169387745
         }
     ],
     "wof:id":169387745,
-    "wof:lastmodified":1449035516,
+    "wof:lastmodified":1453931759,
     "wof:name":"St-Michel Automobiles",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.621506,45.568367,-73.621506,45.568367],
+  "bbox": [
+    -73.621506,
+    45.568367,
+    -73.621506,
+    45.568367
+],
   "geometry": {"coordinates":[-73.621506,45.568367],"type":"Point"}
 }

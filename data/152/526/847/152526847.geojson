@@ -2,13 +2,14 @@
   "id": 152526847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556335,45.502365,-73.556335,45.502365",
     "geom:latitude":45.502365,
     "geom:longitude":-73.556335,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"423 Rue Saint-Nicolas",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866469,
+        102191575,
         85633041,
-        85866469
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2cd39ed01c82ee32698763ad7acd9792",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866469,
+            "region_id":136251273,
             "venue_id":152526847
         }
     ],
     "wof:id":152526847,
-    "wof:lastmodified":1449045723,
+    "wof:lastmodified":1453933915,
     "wof:name":"Lovell Litho & Publications",
     "wof:parent_id":85866469,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.556335,45.502365,-73.556335,45.502365],
+  "bbox": [
+    -73.556335,
+    45.502365,
+    -73.556335,
+    45.502365
+],
   "geometry": {"coordinates":[-73.556335,45.502365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152692505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.629868,45.442753,-73.629868,45.442753",
     "geom:latitude":45.442753,
     "geom:longitude":-73.629868,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2534 Rue Lapierre",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897545,
+        102191575,
         85633041,
-        85897545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3107088620420c68b199aa1ffecc99d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897545,
+            "region_id":136251273,
             "venue_id":152692505
         }
     ],
     "wof:id":152692505,
-    "wof:lastmodified":1449045522,
+    "wof:lastmodified":1453933766,
     "wof:name":"Mp Cutting Tools Inc",
     "wof:parent_id":85897545,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.629868,45.442753,-73.629868,45.442753],
+  "bbox": [
+    -73.629868,
+    45.442753,
+    -73.629868,
+    45.442753
+],
   "geometry": {"coordinates":[-73.629868,45.442753],"type":"Point"}
 }

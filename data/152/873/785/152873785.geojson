@@ -2,13 +2,14 @@
   "id": 152873785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.248497,42.997841,-81.248497,42.997841",
     "geom:latitude":42.997841,
     "geom:longitude":-81.248497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"782 Waterloo St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6A 3W4",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cIrOsOaLBNcqGiQLB9KJ7_42.997841_-81.248497@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"926f7665fc06d6457c42b2f40a7a8800",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":152873785
+        }
+    ],
     "wof:id":152873785,
-    "wof:lastmodified":1449045269,
+    "wof:lastmodified":1453933562,
     "wof:name":"St George's School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.248497,42.997841,-81.248497,42.997841],
+  "bbox": [
+    -81.248497,
+    42.997841,
+    -81.248497,
+    42.997841
+],
   "geometry": {"coordinates":[-81.248497,42.997841],"type":"Point"}
 }

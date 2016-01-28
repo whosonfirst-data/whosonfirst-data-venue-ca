@@ -2,13 +2,14 @@
   "id": 152561645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.29332,42.984814,-81.29332,42.984814",
     "geom:latitude":42.984814,
     "geom:longitude":-81.29332,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"666 Wonderland Rd N",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "salon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874923,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RFEh4QS0xpqaDFraIp6i3_42.984814_-81.293320@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4eaf8d7caabd0bc34626a8e182eec42a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874923,
+            "region_id":85682057,
+            "venue_id":152561645
+        }
+    ],
     "wof:id":152561645,
-    "wof:lastmodified":1449047574,
+    "wof:lastmodified":1453935322,
     "wof:name":"Kokomo's Suntanning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874923,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.29332,42.984814,-81.29332,42.984814],
-  "geometry": {"coordinates":[-81.29332,42.984814],"type":"Point"}
+  "bbox": [
+    -81.29332,
+    42.984814,
+    -81.29332,
+    42.984814
+],
+  "geometry": {"coordinates":[-81.29331999999999,42.984814],"type":"Point"}
 }

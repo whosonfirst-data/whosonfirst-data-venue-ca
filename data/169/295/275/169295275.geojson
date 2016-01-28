@@ -2,13 +2,14 @@
   "id": 169295275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.650238,45.569057,-73.650238,45.569057",
     "geom:latitude":45.569057,
     "geom:longitude":-73.650238,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10150 Av Hamelin",
     "sg:city":"Montreal",
     "sg:classifiers":[],
@@ -22,9 +23,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,14 +37,16 @@
     "wof:geomhash":"33184154ebd7fde38b79dda248478435",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":169295275
         }
     ],
     "wof:id":169295275,
-    "wof:lastmodified":1449034016,
+    "wof:lastmodified":1453930185,
     "wof:name":"Rms Svc Enr",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -49,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.650238,45.569057,-73.650238,45.569057],
+  "bbox": [
+    -73.650238,
+    45.569057,
+    -73.650238,
+    45.569057
+],
   "geometry": {"coordinates":[-73.650238,45.569057],"type":"Point"}
 }

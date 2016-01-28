@@ -2,13 +2,14 @@
   "id": 169393951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.558655,45.517761,-73.558655,45.517761",
     "geom:latitude":45.517761,
     "geom:longitude":-73.558655,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1022 Boul DE Maisonneuve E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"6bc486a72abb9eaec1682858587e8b60",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":169393951
         }
     ],
     "wof:id":169393951,
-    "wof:lastmodified":1449033727,
+    "wof:lastmodified":1453929855,
     "wof:name":"Shell Canada Ltee",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.558655,45.517761,-73.558655,45.517761],
+  "bbox": [
+    -73.558655,
+    45.517761,
+    -73.558655,
+    45.517761
+],
   "geometry": {"coordinates":[-73.558655,45.517761],"type":"Point"}
 }

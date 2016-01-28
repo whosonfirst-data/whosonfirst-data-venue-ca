@@ -2,13 +2,14 @@
   "id": 169276031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.988014,45.357651,-71.988014,45.357651",
     "geom:latitude":45.357651,
     "geom:longitude":-71.988014,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"814 Rue Fabien",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"4772e9a215b9afbebe208bab815ff4f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":169276031
         }
     ],
     "wof:id":169276031,
-    "wof:lastmodified":1449032809,
+    "wof:lastmodified":1453928940,
     "wof:name":"Communication Nelson Bilodeau",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.988014,45.357651,-71.988014,45.357651],
-  "geometry": {"coordinates":[-71.988014,45.357651],"type":"Point"}
+  "bbox": [
+    -71.988014,
+    45.357651,
+    -71.988014,
+    45.357651
+],
+  "geometry": {"coordinates":[-71.98801400000001,45.357651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203358355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.521317,43.425449,-80.521317,43.425449",
     "geom:latitude":43.425449,
     "geom:longitude":-80.521317,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"251 Fischer-Hallman Rd",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864537,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"dd3991d72d7f4595e00b7eab113f0832",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864537,
+            "region_id":85682057,
+            "venue_id":203358355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736097,
             "neighbourhood_id":85864537,
             "region_id":85682057,
             "venue_id":203358355
         }
     ],
     "wof:id":203358355,
-    "wof:lastmodified":1449025719,
+    "wof:lastmodified":1453927557,
     "wof:name":"Forest Heights Branch Library",
     "wof:parent_id":85864537,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.521317,43.425449,-80.521317,43.425449],
+  "bbox": [
+    -80.521317,
+    43.425449,
+    -80.521317,
+    43.425449
+],
   "geometry": {"coordinates":[-80.521317,43.425449],"type":"Point"}
 }

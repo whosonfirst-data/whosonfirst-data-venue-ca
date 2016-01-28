@@ -2,13 +2,14 @@
   "id": 152563405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.269821,45.329121,-73.269821,45.329121",
     "geom:latitude":45.329121,
     "geom:longitude":-73.269821,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"385 Rue Laberge",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5474ce6e2ffa118b64f1e347f0d53dfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":152563405
         }
     ],
     "wof:id":152563405,
-    "wof:lastmodified":1449044368,
+    "wof:lastmodified":1453932876,
     "wof:name":"St-Jean Mazda",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.269821,45.329121,-73.269821,45.329121],
-  "geometry": {"coordinates":[-73.269821,45.329121],"type":"Point"}
+  "bbox": [
+    -73.269821,
+    45.329121,
+    -73.269821,
+    45.329121
+],
+  "geometry": {"coordinates":[-73.26982099999999,45.329121],"type":"Point"}
 }

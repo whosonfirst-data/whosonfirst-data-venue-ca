@@ -2,13 +2,14 @@
   "id": 203412157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.579544,43.625507,-79.579544,43.625507",
     "geom:latitude":43.625507,
     "geom:longitude":-79.579544,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895107,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"d8a4f988de22b6722e195d820ddf96ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895107,
+            "region_id":85682057,
+            "venue_id":203412157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895107,
             "region_id":85682057,
             "venue_id":203412157
         }
     ],
     "wof:id":203412157,
-    "wof:lastmodified":1449025325,
+    "wof:lastmodified":1453927483,
     "wof:name":"Sky Teck Labs Inc",
     "wof:parent_id":85895107,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-79.579544,43.625507,-79.579544,43.625507],
+  "bbox": [
+    -79.579544,
+    43.625507,
+    -79.579544,
+    43.625507
+],
   "geometry": {"coordinates":[-79.579544,43.625507],"type":"Point"}
 }

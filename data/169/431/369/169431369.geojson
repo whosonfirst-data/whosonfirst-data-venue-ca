@@ -2,13 +2,14 @@
   "id": 169431369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.226059,46.74913,-71.226059,46.74913",
     "geom:latitude":46.74913,
     "geom:longitude":-71.226059,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2211 Rue Valliere",
     "sg:city":"Saint-Romuald",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"d464a3182c5e30f92c2a4404e0c652d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":169431369
         }
     ],
     "wof:id":169431369,
-    "wof:lastmodified":1449033134,
+    "wof:lastmodified":1453929251,
     "wof:name":"Services Informatiques Rl",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.226059,46.74913,-71.226059,46.74913],
-  "geometry": {"coordinates":[-71.226059,46.74913],"type":"Point"}
+  "bbox": [
+    -71.226059,
+    46.74913,
+    -71.226059,
+    46.74913
+],
+  "geometry": {"coordinates":[-71.22605900000001,46.74913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169025867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576668,45.511444,-73.576668,45.511444",
     "geom:latitude":45.511444,
     "geom:longitude":-73.576668,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300 Rue Leo-Pariseau",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bdf9e0ebd72b4f4a6ecf58f13bb1c63f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":169025867
         }
     ],
     "wof:id":169025867,
-    "wof:lastmodified":1449035420,
+    "wof:lastmodified":1453931630,
     "wof:name":"Iacono, Michel A",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576668,45.511444,-73.576668,45.511444],
+  "bbox": [
+    -73.576668,
+    45.511444,
+    -73.576668,
+    45.511444
+],
   "geometry": {"coordinates":[-73.576668,45.511444],"type":"Point"}
 }

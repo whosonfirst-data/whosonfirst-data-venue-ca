@@ -2,13 +2,14 @@
   "id": 168828953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.230331,43.217926,-79.230331,43.217926",
     "geom:latitude":43.217926,
     "geom:longitude":-79.230331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"31 Butler Cres",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85784889,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e32df53f6797f7ec641a4c18cd864989",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85784889,
+            "region_id":85682057,
+            "venue_id":168828953
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85784889,
             "region_id":85682057,
             "venue_id":168828953
         }
     ],
     "wof:id":168828953,
-    "wof:lastmodified":1449028170,
+    "wof:lastmodified":1453928232,
     "wof:name":"Housemaster Home Inspection",
     "wof:parent_id":85784889,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.230331,43.217926,-79.230331,43.217926],
-  "geometry": {"coordinates":[-79.230331,43.217926],"type":"Point"}
+  "bbox": [
+    -79.230331,
+    43.217926,
+    -79.230331,
+    43.217926
+],
+  "geometry": {"coordinates":[-79.23033100000001,43.217926],"type":"Point"}
 }

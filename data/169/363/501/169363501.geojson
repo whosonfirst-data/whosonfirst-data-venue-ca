@@ -2,13 +2,14 @@
   "id": 169363501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.595802,45.457417,-73.595802,45.457417",
     "geom:latitude":45.457417,
     "geom:longitude":-73.595802,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6145 Boul Monk",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897623,
+        102191575,
         85633041,
-        85897623
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"1c3b1680287ebca05ad6b99f6013aeda",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897623,
+            "region_id":136251273,
             "venue_id":169363501
         }
     ],
     "wof:id":169363501,
-    "wof:lastmodified":1449035558,
+    "wof:lastmodified":1453931807,
     "wof:name":"Superclub Videotron",
     "wof:parent_id":85897623,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.595802,45.457417,-73.595802,45.457417],
-  "geometry": {"coordinates":[-73.595802,45.457417],"type":"Point"}
+  "bbox": [
+    -73.595802,
+    45.457417,
+    -73.595802,
+    45.457417
+],
+  "geometry": {"coordinates":[-73.59580200000001,45.457417],"type":"Point"}
 }

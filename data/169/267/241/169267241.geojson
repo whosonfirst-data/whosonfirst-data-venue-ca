@@ -2,13 +2,14 @@
   "id": 169267241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.742302,45.582096,-73.742302,45.582096",
     "geom:latitude":45.582096,
     "geom:longitude":-73.742302,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1605 Aut Laval O #202A",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875067,
+        102191575,
         85633041,
-        85875067
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"697642b8e570c5a29ac11c92caef8316",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
+            "region_id":136251273,
             "venue_id":169267241
         }
     ],
     "wof:id":169267241,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1453931908,
     "wof:name":"Trudel & Assoc",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.742302,45.582096,-73.742302,45.582096],
+  "bbox": [
+    -73.742302,
+    45.582096,
+    -73.742302,
+    45.582096
+],
   "geometry": {"coordinates":[-73.742302,45.582096],"type":"Point"}
 }

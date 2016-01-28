@@ -2,13 +2,14 @@
   "id": 169219951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.639137,45.603642,-73.639137,45.603642",
     "geom:latitude":45.603642,
     "geom:longitude":-73.639137,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11889 Av Ethier",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784809,
+        102191575,
         85633041,
-        85784809
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c489c873024fbc2834da96cabb12b456",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
+            "region_id":136251273,
             "venue_id":169219951
         }
     ],
     "wof:id":169219951,
-    "wof:lastmodified":1449035822,
+    "wof:lastmodified":1453932113,
     "wof:name":"Imprimerie Omni Inc",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.639137,45.603642,-73.639137,45.603642],
-  "geometry": {"coordinates":[-73.639137,45.603642],"type":"Point"}
+  "bbox": [
+    -73.639137,
+    45.603642,
+    -73.639137,
+    45.603642
+],
+  "geometry": {"coordinates":[-73.63913700000001,45.603642],"type":"Point"}
 }

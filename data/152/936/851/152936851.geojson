@@ -2,13 +2,14 @@
   "id": 152936851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.734589,45.609013,-73.734589,45.609013",
     "geom:latitude":45.609013,
     "geom:longitude":-73.734589,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2133 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864417,
+        102191575,
         85633041,
-        85864417
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"38580ea1f3cf0eafd146647a68fe6938",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
+            "region_id":136251273,
             "venue_id":152936851
         }
     ],
     "wof:id":152936851,
-    "wof:lastmodified":1449045849,
+    "wof:lastmodified":1453934008,
     "wof:name":"Pharmaprix",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.734589,45.609013,-73.734589,45.609013],
+  "bbox": [
+    -73.734589,
+    45.609013,
+    -73.734589,
+    45.609013
+],
   "geometry": {"coordinates":[-73.734589,45.609013],"type":"Point"}
 }

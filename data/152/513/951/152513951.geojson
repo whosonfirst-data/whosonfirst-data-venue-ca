@@ -2,13 +2,14 @@
   "id": 152513951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.72419,43.751537,-79.72419,43.751537",
     "geom:latitude":43.751537,
     "geom:longitude":-79.72419,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2400 North Park Dr",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b2e74ceccfd72b11f35959fda01fa1b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152513951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152513951
         }
     ],
     "wof:id":152513951,
-    "wof:lastmodified":1449047354,
+    "wof:lastmodified":1453935141,
     "wof:name":"Eagle Environmental",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.72419,43.751537,-79.72419,43.751537],
-  "geometry": {"coordinates":[-79.72419,43.751537],"type":"Point"}
+  "bbox": [
+    -79.72419,
+    43.751537,
+    -79.72419,
+    43.751537
+],
+  "geometry": {"coordinates":[-79.72418999999999,43.751537],"type":"Point"}
 }

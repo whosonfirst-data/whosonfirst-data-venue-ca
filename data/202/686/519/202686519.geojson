@@ -2,13 +2,14 @@
   "id": 202686519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.235901,46.842922,-71.235901,46.842922",
     "geom:latitude":46.842922,
     "geom:longitude":-71.235901,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2585 Boul Henri-Bourassa",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864439,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"09396518f93f72d9b0f1f53dd09aad01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864439,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202686519
         }
     ],
     "wof:id":202686519,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1453937377,
     "wof:name":"Centre DE Collision Assoc",
     "wof:parent_id":85864439,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "painting"
     ]
 },
-  "bbox": [-71.235901,46.842922,-71.235901,46.842922],
+  "bbox": [
+    -71.235901,
+    46.842922,
+    -71.235901,
+    46.842922
+],
   "geometry": {"coordinates":[-71.235901,46.842922],"type":"Point"}
 }

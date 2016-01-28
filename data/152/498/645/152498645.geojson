@@ -2,13 +2,14 @@
   "id": 152498645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.237724,43.021469,-81.237724,43.021469",
     "geom:latitude":43.021469,
     "geom:longitude":-81.237724,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"48 Bridle Path",
     "sg:city":"London",
     "sg:classifiers":[
@@ -30,23 +31,43 @@
         "paving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864629,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o9LJaNJfUWHMEoHqP9Bmc_43.021469_-81.237724@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"8b1c738566f2006a55d4e1478a3a449a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864629,
+            "region_id":85682057,
+            "venue_id":152498645
+        }
+    ],
     "wof:id":152498645,
-    "wof:lastmodified":1449047801,
+    "wof:lastmodified":1453935502,
     "wof:name":"Essential Asphalt & Seal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864629,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.237724,43.021469,-81.237724,43.021469],
+  "bbox": [
+    -81.237724,
+    43.021469,
+    -81.237724,
+    43.021469
+],
   "geometry": {"coordinates":[-81.237724,43.021469],"type":"Point"}
 }

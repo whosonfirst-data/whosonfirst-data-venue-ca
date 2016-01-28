@@ -2,13 +2,14 @@
   "id": 152391049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.877846,43.515163,-79.877846,43.515163",
     "geom:latitude":43.515163,
     "geom:longitude":-79.877846,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"366 Pine St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895267,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"a2e0085ea642a009994de139eeb92b69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895267,
+            "region_id":85682057,
+            "venue_id":152391049
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895267,
             "region_id":85682057,
             "venue_id":152391049
         }
     ],
     "wof:id":152391049,
-    "wof:lastmodified":1449047252,
+    "wof:lastmodified":1453935064,
     "wof:name":"Guaranteed Green",
     "wof:parent_id":85895267,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.877846,43.515163,-79.877846,43.515163],
-  "geometry": {"coordinates":[-79.877846,43.515163],"type":"Point"}
+  "bbox": [
+    -79.877846,
+    43.515163,
+    -79.877846,
+    43.515163
+],
+  "geometry": {"coordinates":[-79.87784600000001,43.515163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152340637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.223511,45.545242,-73.223511,45.545242",
     "geom:latitude":45.545242,
     "geom:longitude":-73.223511,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300 Rue Caron",
     "sg:city":"Mcmasterville",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737777,
+        85894601,
+        102191575,
         85633041,
-        85894601
+        101737777,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6052e08ecd5faef286eaeea907a2137a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737777,
             "neighbourhood_id":85894601,
+            "region_id":136251273,
             "venue_id":152340637
         }
     ],
     "wof:id":152340637,
-    "wof:lastmodified":1449047861,
+    "wof:lastmodified":1453935553,
     "wof:name":"Club DE L'Age D'Or DE Mcmaster",
     "wof:parent_id":85894601,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.223511,45.545242,-73.223511,45.545242],
+  "bbox": [
+    -73.223511,
+    45.545242,
+    -73.223511,
+    45.545242
+],
   "geometry": {"coordinates":[-73.223511,45.545242],"type":"Point"}
 }

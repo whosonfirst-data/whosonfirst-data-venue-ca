@@ -2,13 +2,14 @@
   "id": 169719893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.576065,46.407719,-72.576065,46.407719",
     "geom:latitude":46.407719,
     "geom:longitude":-72.576065,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Louis-DE-France",
     "sg:classifiers":[
         {
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785013,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"431dd1d1f6ce8884913106d0de953834",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85785013,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169719893
         }
     ],
     "wof:id":169719893,
-    "wof:lastmodified":1449033112,
+    "wof:lastmodified":1453929233,
     "wof:name":"Weed Man",
     "wof:parent_id":85785013,
     "wof:placetype":"venue",
@@ -65,6 +68,11 @@
         "grounds"
     ]
 },
-  "bbox": [-72.576065,46.407719,-72.576065,46.407719],
+  "bbox": [
+    -72.576065,
+    46.407719,
+    -72.576065,
+    46.407719
+],
   "geometry": {"coordinates":[-72.576065,46.407719],"type":"Point"}
 }

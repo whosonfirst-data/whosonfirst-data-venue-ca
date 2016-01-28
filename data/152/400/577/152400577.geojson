@@ -2,13 +2,14 @@
   "id": 152400577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.65345,52.136738,-106.65345,52.136738",
     "geom:latitude":52.136738,
     "geom:longitude":-106.65345,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"602 Queen St",
     "sg:city":"Saskatoon",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740015,
-        85633041,
         85864765,
+        102191575,
+        85633041,
+        101740015,
         85682113
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"ce0fc8481cfdf1ec82161d4605c3de2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740015,
             "neighbourhood_id":85864765,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":152400577,
-    "wof:lastmodified":1449044762,
+    "wof:lastmodified":1453933183,
     "wof:name":"NY Snaps",
     "wof:parent_id":85864765,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.65345,52.136738,-106.65345,52.136738],
-  "geometry": {"coordinates":[-106.65345,52.136738],"type":"Point"}
+  "bbox": [
+    -106.65345,
+    52.136738,
+    -106.65345,
+    52.136738
+],
+  "geometry": {"coordinates":[-106.65345000000001,52.136738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168853235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554375,45.522861,-73.554375,45.522861",
     "geom:latitude":45.522861,
     "geom:longitude":-73.554375,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1685 Boul DE Maisonneuve O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"73a8d225ad6335ff5e52c4193db005c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":168853235
         }
     ],
     "wof:id":168853235,
-    "wof:lastmodified":1449028076,
+    "wof:lastmodified":1453928126,
     "wof:name":"Pat Tabaconiste",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.554375,45.522861,-73.554375,45.522861],
-  "geometry": {"coordinates":[-73.554375,45.522861],"type":"Point"}
+  "bbox": [
+    -73.554375,
+    45.522861,
+    -73.554375,
+    45.522861
+],
+  "geometry": {"coordinates":[-73.55437499999999,45.522861],"type":"Point"}
 }

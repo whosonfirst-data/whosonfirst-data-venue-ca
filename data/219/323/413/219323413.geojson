@@ -2,13 +2,14 @@
   "id": 219323413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.732933,45.4347,-75.732933,45.4347",
     "geom:latitude":45.4347,
     "geom:longitude":-75.732933,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"212 Boul Saint-Joseph",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874531,
+        102191575,
         85633041,
-        101738041
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"70cb667447ff310f5b2f9f92e9d76b94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219323413
         }
     ],
     "wof:id":219323413,
-    "wof:lastmodified":1449070694,
+    "wof:lastmodified":1453937578,
     "wof:name":"Pizza LA Difference",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "pizza"
     ]
 },
-  "bbox": [-75.732933,45.4347,-75.732933,45.4347],
+  "bbox": [
+    -75.732933,
+    45.4347,
+    -75.732933,
+    45.4347
+],
   "geometry": {"coordinates":[-75.732933,45.4347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169455909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.283394,43.027733,-81.283394,43.027733",
     "geom:latitude":43.027733,
     "geom:longitude":-81.283394,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1737 Richmond St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864487,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z4X82c30OH8glpY9m8Viz_43.027733_-81.283394@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0d3d3bf3210252df92f562424cb2011e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864487,
+            "region_id":85682057,
+            "venue_id":169455909
+        }
+    ],
     "wof:id":169455909,
-    "wof:lastmodified":1449035434,
+    "wof:lastmodified":1453931645,
     "wof:name":"Moores Clothing For Men",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.283394,43.027733,-81.283394,43.027733],
+  "bbox": [
+    -81.283394,
+    43.027733,
+    -81.283394,
+    43.027733
+],
   "geometry": {"coordinates":[-81.283394,43.027733],"type":"Point"}
 }

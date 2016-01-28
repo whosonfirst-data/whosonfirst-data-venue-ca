@@ -2,13 +2,14 @@
   "id": 152654749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.469574,45.564301,-73.469574,45.564301",
     "geom:latitude":45.564301,
     "geom:longitude":-73.469574,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"725 Rue Delage",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897555,
+        102191575,
         85633041,
-        85897555
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"397ccc51bc85a7967a1e6ca79d383d1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897555,
+            "region_id":136251273,
             "venue_id":152654749
         }
     ],
     "wof:id":152654749,
-    "wof:lastmodified":1449045858,
+    "wof:lastmodified":1453934015,
     "wof:name":"Bosch Rexroth Canada",
     "wof:parent_id":85897555,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.469574,45.564301,-73.469574,45.564301],
-  "geometry": {"coordinates":[-73.469574,45.564301],"type":"Point"}
+  "bbox": [
+    -73.469574,
+    45.564301,
+    -73.469574,
+    45.564301
+],
+  "geometry": {"coordinates":[-73.46957399999999,45.564301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168984643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.700012,45.537323,-73.700012,45.537323",
     "geom:latitude":45.537323,
     "geom:longitude":-73.700012,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2872 Rue DE Salaberry",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897495,
+        102191575,
         85633041,
-        85897495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"46a87a7d9f026a7f0170615159ce2a21",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897495,
+            "region_id":136251273,
             "venue_id":168984643
         }
     ],
     "wof:id":168984643,
-    "wof:lastmodified":1449028206,
+    "wof:lastmodified":1453928268,
     "wof:name":"B B Pitchous",
     "wof:parent_id":85897495,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.700012,45.537323,-73.700012,45.537323],
+  "bbox": [
+    -73.700012,
+    45.537323,
+    -73.700012,
+    45.537323
+],
   "geometry": {"coordinates":[-73.700012,45.537323],"type":"Point"}
 }

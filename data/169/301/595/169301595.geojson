@@ -2,13 +2,14 @@
   "id": 169301595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.249161,46.779709,-71.249161,46.779709",
     "geom:latitude":46.779709,
     "geom:longitude":-71.249161,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1940 Ch Saint-Louis",
     "sg:city":"Sillery",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"72c96a5579a51007379f7dec89c8bf5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":169301595
         }
     ],
     "wof:id":169301595,
-    "wof:lastmodified":1449033535,
+    "wof:lastmodified":1453929647,
     "wof:name":"Bergeron, Pierre DDS",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.249161,46.779709,-71.249161,46.779709],
+  "bbox": [
+    -71.249161,
+    46.779709,
+    -71.249161,
+    46.779709
+],
   "geometry": {"coordinates":[-71.249161,46.779709],"type":"Point"}
 }

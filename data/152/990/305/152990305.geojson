@@ -2,13 +2,14 @@
   "id": 152990305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556114,45.503166,-73.556114,45.503166",
     "geom:latitude":45.503166,
     "geom:longitude":-73.556114,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"430 Rue Saint-Francois-Xavier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866469,
+        102191575,
         85633041,
-        85866469
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"601d160c641ea9e7258cfc27473ae024",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866469,
+            "region_id":136251273,
             "venue_id":152990305
         }
     ],
     "wof:id":152990305,
-    "wof:lastmodified":1449047392,
+    "wof:lastmodified":1453935173,
     "wof:name":"Encadrements Martine Henault",
     "wof:parent_id":85866469,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.556114,45.503166,-73.556114,45.503166],
-  "geometry": {"coordinates":[-73.556114,45.503166],"type":"Point"}
+  "bbox": [
+    -73.556114,
+    45.503166,
+    -73.556114,
+    45.503166
+],
+  "geometry": {"coordinates":[-73.55611399999999,45.503166],"type":"Point"}
 }

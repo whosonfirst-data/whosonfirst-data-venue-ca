@@ -2,13 +2,14 @@
   "id": 169506523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.721962,45.584263,-73.721962,45.584263",
     "geom:latitude":45.584263,
     "geom:longitude":-73.721962,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2229 Rue DE Tripoli",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875067,
+        102191575,
         85633041,
-        85875067
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ff74a958221badf53c98d55efae63de8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
+            "region_id":136251273,
             "venue_id":169506523
         }
     ],
     "wof:id":169506523,
-    "wof:lastmodified":1449032758,
+    "wof:lastmodified":1453928873,
     "wof:name":"Pavage Jacques Daudelin Inc",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.721962,45.584263,-73.721962,45.584263],
+  "bbox": [
+    -73.721962,
+    45.584263,
+    -73.721962,
+    45.584263
+],
   "geometry": {"coordinates":[-73.721962,45.584263],"type":"Point"}
 }

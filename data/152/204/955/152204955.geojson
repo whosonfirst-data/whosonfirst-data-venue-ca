@@ -2,13 +2,14 @@
   "id": 152204955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.903038,45.404667,-71.903038,45.404667",
     "geom:latitude":45.404667,
     "geom:longitude":-71.903038,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"422 Rue DE London",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"beb21377df010667e5eb9fc93b2404bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":152204955
         }
     ],
     "wof:id":152204955,
-    "wof:lastmodified":1449049028,
+    "wof:lastmodified":1453936458,
     "wof:name":"Clinique Medical London",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.903038,45.404667,-71.903038,45.404667],
+  "bbox": [
+    -71.903038,
+    45.404667,
+    -71.903038,
+    45.404667
+],
   "geometry": {"coordinates":[-71.903038,45.404667],"type":"Point"}
 }

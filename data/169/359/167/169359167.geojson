@@ -2,13 +2,14 @@
   "id": 169359167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.250366,46.780201,-71.250366,46.780201",
     "geom:latitude":46.780201,
     "geom:longitude":-71.250366,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1432 Av Maguire",
     "sg:city":"Sillery",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"bb844596351b4332511b743c8acd638e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":169359167
         }
     ],
     "wof:id":169359167,
-    "wof:lastmodified":1449032632,
+    "wof:lastmodified":1453928746,
     "wof:name":"Restaurant Erawan",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.250366,46.780201,-71.250366,46.780201],
+  "bbox": [
+    -71.250366,
+    46.780201,
+    -71.250366,
+    46.780201
+],
   "geometry": {"coordinates":[-71.250366,46.780201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152153141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.568817,45.237507,-73.568817,45.237507",
     "geom:latitude":45.237507,
     "geom:longitude":-73.568817,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"415 Rue Clermont",
     "sg:city":"Saint-Michel",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8c1aa417a37492ed7f7d0118daf7bd9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":152153141
         }
     ],
     "wof:id":152153141,
-    "wof:lastmodified":1449047480,
+    "wof:lastmodified":1453935238,
     "wof:name":"Claude Levert Express Inc",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.568817,45.237507,-73.568817,45.237507],
+  "bbox": [
+    -73.568817,
+    45.237507,
+    -73.568817,
+    45.237507
+],
   "geometry": {"coordinates":[-73.568817,45.237507],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152337909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.230324,46.810463,-71.230324,46.810463",
     "geom:latitude":46.810463,
     "geom:longitude":-71.230324,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"496 Boul Langelier",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866509,
+        102191575,
         85633041,
-        85866509
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"3e1de64ee58d1fda3cbb7f742816b693",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
+            "region_id":136251273,
             "venue_id":152337909
         }
     ],
     "wof:id":152337909,
-    "wof:lastmodified":1449046469,
+    "wof:lastmodified":1453934486,
     "wof:name":"Editions Du Grand Midi",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.230324,46.810463,-71.230324,46.810463],
+  "bbox": [
+    -71.230324,
+    46.810463,
+    -71.230324,
+    46.810463
+],
   "geometry": {"coordinates":[-71.230324,46.810463],"type":"Point"}
 }

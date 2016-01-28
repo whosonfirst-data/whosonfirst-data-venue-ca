@@ -2,13 +2,14 @@
   "id": 152737553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.179741,43.013039,-81.179741,43.013039",
     "geom:latitude":43.013039,
     "geom:longitude":-81.179741,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"580 Clarke Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10PNxP2PlIsKrHR5preqqu_43.013039_-81.179741@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ad37260c624a4ddedb8eaf6b8c44550b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":152737553
+        }
+    ],
     "wof:id":152737553,
-    "wof:lastmodified":1449045334,
+    "wof:lastmodified":1453933617,
     "wof:name":"Thermo King of London",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.179741,43.013039,-81.179741,43.013039],
-  "geometry": {"coordinates":[-81.179741,43.013039],"type":"Point"}
+  "bbox": [
+    -81.179741,
+    43.013039,
+    -81.179741,
+    43.013039
+],
+  "geometry": {"coordinates":[-81.17974100000001,43.013039],"type":"Point"}
 }

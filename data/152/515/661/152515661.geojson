@@ -2,13 +2,14 @@
   "id": 152515661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.400391,43.654675,-79.400391,43.654675",
     "geom:latitude":43.654675,
     "geom:longitude":-79.400391,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"181 Baldwin St",
     "sg:city":"Toronto",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
         85866411,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"3774c4bf283a89432507b1d11ea6b3c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85866411,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":152515661,
-    "wof:lastmodified":1449045369,
+    "wof:lastmodified":1453933642,
     "wof:name":"Coffee Cup of Kensington",
     "wof:parent_id":85866411,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.400391,43.654675,-79.400391,43.654675],
+  "bbox": [
+    -79.400391,
+    43.654675,
+    -79.400391,
+    43.654675
+],
   "geometry": {"coordinates":[-79.400391,43.654675],"type":"Point"}
 }

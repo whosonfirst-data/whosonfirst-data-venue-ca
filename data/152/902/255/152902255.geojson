@@ -2,13 +2,14 @@
   "id": 152902255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.727951,45.448662,-75.727951,45.448662",
     "geom:latitude":45.448662,
     "geom:longitude":-75.727951,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3 Boul Du Casino",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874503,
+        102191575,
         85633041,
-        85874503
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5e14a790fe264a430121b66677d9f7ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
+            "region_id":136251273,
             "venue_id":152902255
         }
     ],
     "wof:id":152902255,
-    "wof:lastmodified":1449047722,
+    "wof:lastmodified":1453935444,
     "wof:name":"Minerva",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.727951,45.448662,-75.727951,45.448662],
+  "bbox": [
+    -75.727951,
+    45.448662,
+    -75.727951,
+    45.448662
+],
   "geometry": {"coordinates":[-75.727951,45.448662],"type":"Point"}
 }

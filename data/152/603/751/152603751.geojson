@@ -2,13 +2,14 @@
   "id": 152603751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.777512,43.384846,-79.777512,43.384846",
     "geom:latitude":43.384846,
     "geom:longitude":-79.777512,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895545,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"b9794a2f7dec76cfd777d96b39b177f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895545,
+            "region_id":85682057,
+            "venue_id":152603751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895545,
             "region_id":85682057,
             "venue_id":152603751
         }
     ],
     "wof:id":152603751,
-    "wof:lastmodified":1449048200,
+    "wof:lastmodified":1453935792,
     "wof:name":"Milacron Canada Inc",
     "wof:parent_id":85895545,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.777512,43.384846,-79.777512,43.384846],
+  "bbox": [
+    -79.777512,
+    43.384846,
+    -79.777512,
+    43.384846
+],
   "geometry": {"coordinates":[-79.777512,43.384846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169007371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.221703,46.824394,-71.221703,46.824394",
     "geom:latitude":46.824394,
     "geom:longitude":-71.221703,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864433,
+        102191575,
         85633041,
-        85864433
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"d4845f60c4dcad92a1ae6b9435fa4ccd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864433,
+            "region_id":136251273,
             "venue_id":169007371
         }
     ],
     "wof:id":169007371,
-    "wof:lastmodified":1449035395,
+    "wof:lastmodified":1453931599,
     "wof:name":"Theatre DE L'Aubergine",
     "wof:parent_id":85864433,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.221703,46.824394,-71.221703,46.824394],
-  "geometry": {"coordinates":[-71.221703,46.824394],"type":"Point"}
+  "bbox": [
+    -71.221703,
+    46.824394,
+    -71.221703,
+    46.824394
+],
+  "geometry": {"coordinates":[-71.22170300000001,46.824394],"type":"Point"}
 }

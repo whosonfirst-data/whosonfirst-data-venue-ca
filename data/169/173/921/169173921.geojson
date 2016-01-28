@@ -2,13 +2,14 @@
   "id": 169173921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.692749,43.709335,-79.692749,43.709335",
     "geom:latitude":43.709335,
     "geom:longitude":-79.692749,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"110 East Dr",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"27fe50806385b41dca929cfb0d058942",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":169173921
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":169173921
         }
     ],
     "wof:id":169173921,
-    "wof:lastmodified":1449033327,
+    "wof:lastmodified":1453929432,
     "wof:name":"General Kinetics Engineering",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.692749,43.709335,-79.692749,43.709335],
-  "geometry": {"coordinates":[-79.692749,43.709335],"type":"Point"}
+  "bbox": [
+    -79.692749,
+    43.709335,
+    -79.692749,
+    43.709335
+],
+  "geometry": {"coordinates":[-79.69274900000001,43.709335],"type":"Point"}
 }

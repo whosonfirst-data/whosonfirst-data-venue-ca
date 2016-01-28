@@ -2,13 +2,14 @@
   "id": 169381201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.866104,43.878174,-78.866104,43.878174",
     "geom:latitude":43.878174,
     "geom:longitude":-78.866104,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"288 Bloor St W",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875155,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a4c0090653d2df44972db1455d196d3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875155,
+            "region_id":85682057,
+            "venue_id":169381201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875155,
             "region_id":85682057,
             "venue_id":169381201
         }
     ],
     "wof:id":169381201,
-    "wof:lastmodified":1449032949,
+    "wof:lastmodified":1453929072,
     "wof:name":"Country Style Donuts",
     "wof:parent_id":85875155,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.866104,43.878174,-78.866104,43.878174],
-  "geometry": {"coordinates":[-78.866104,43.878174],"type":"Point"}
+  "bbox": [
+    -78.866104,
+    43.878174,
+    -78.866104,
+    43.878174
+],
+  "geometry": {"coordinates":[-78.86610400000001,43.878174],"type":"Point"}
 }

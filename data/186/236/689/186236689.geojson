@@ -2,13 +2,14 @@
   "id": 186236689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.606026,43.572815,-79.606026,43.572815",
     "geom:latitude":43.572815,
     "geom:longitude":-79.606026,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2250 Hurontario St",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895411,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"e1ca0028e23272abe01cae2b08520123",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895411,
+            "region_id":85682057,
+            "venue_id":186236689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895411,
             "region_id":85682057,
             "venue_id":186236689
         }
     ],
     "wof:id":186236689,
-    "wof:lastmodified":1449050534,
+    "wof:lastmodified":1453936532,
     "wof:name":"Chelsey Park Nursing Home",
     "wof:parent_id":85895411,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-79.606026,43.572815,-79.606026,43.572815],
+  "bbox": [
+    -79.606026,
+    43.572815,
+    -79.606026,
+    43.572815
+],
   "geometry": {"coordinates":[-79.606026,43.572815],"type":"Point"}
 }

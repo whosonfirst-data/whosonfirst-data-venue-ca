@@ -2,13 +2,14 @@
   "id": 152645235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.650742,45.583714,-73.650742,45.583714",
     "geom:latitude":45.583714,
     "geom:longitude":-73.650742,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"b4af7d575ae316bcd69197f3900bd20d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":152645235
         }
     ],
     "wof:id":152645235,
-    "wof:lastmodified":1449044772,
+    "wof:lastmodified":1453933187,
     "wof:name":"Clinique Dentaire M Percio",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.650742,45.583714,-73.650742,45.583714],
-  "geometry": {"coordinates":[-73.650742,45.583714],"type":"Point"}
+  "bbox": [
+    -73.650742,
+    45.583714,
+    -73.650742,
+    45.583714
+],
+  "geometry": {"coordinates":[-73.65074199999999,45.583714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219243949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.752663,45.645584,-73.752663,45.645584",
     "geom:latitude":45.645584,
     "geom:longitude":-73.752663,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7255 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784663,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"01745bc7940d946e25755a7f5f416ac5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784663,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219243949
         }
     ],
     "wof:id":219243949,
-    "wof:lastmodified":1449071541,
+    "wof:lastmodified":1453937698,
     "wof:name":"Couche-Tard",
     "wof:parent_id":85784663,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.752663,45.645584,-73.752663,45.645584],
+  "bbox": [
+    -73.752663,
+    45.645584,
+    -73.752663,
+    45.645584
+],
   "geometry": {"coordinates":[-73.752663,45.645584],"type":"Point"}
 }

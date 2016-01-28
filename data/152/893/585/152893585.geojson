@@ -2,13 +2,14 @@
   "id": 152893585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.218979,43.024014,-81.218979,43.024014",
     "geom:latitude":43.024014,
     "geom:longitude":-81.218979,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dl7l5bpcCEiiFU6H80g6p_43.024014_-81.218979@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0ea7bc0a8e3e811ac7752b25c418bf9b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":152893585
+        }
+    ],
     "wof:id":152893585,
-    "wof:lastmodified":1449048046,
+    "wof:lastmodified":1453935686,
     "wof:name":"Mardon Engineering Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.218979,43.024014,-81.218979,43.024014],
+  "bbox": [
+    -81.218979,
+    43.024014,
+    -81.218979,
+    43.024014
+],
   "geometry": {"coordinates":[-81.218979,43.024014],"type":"Point"}
 }

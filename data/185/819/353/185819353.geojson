@@ -2,13 +2,14 @@
   "id": 185819353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.554245,43.767254,-79.554245,43.767254",
     "geom:latitude":43.767254,
     "geom:longitude":-79.554245,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1147 Barmac Dr #12",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895557,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"8f9169857b8dcf89568b8468ce251d68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":185819353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":185819353
         }
     ],
     "wof:id":185819353,
-    "wof:lastmodified":1449006992,
+    "wof:lastmodified":1453927244,
     "wof:name":"Phil's Auto Repair",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.554245,43.767254,-79.554245,43.767254],
-  "geometry": {"coordinates":[-79.554245,43.767254],"type":"Point"}
+  "bbox": [
+    -79.554245,
+    43.767254,
+    -79.554245,
+    43.767254
+],
+  "geometry": {"coordinates":[-79.55424499999999,43.767254],"type":"Point"}
 }

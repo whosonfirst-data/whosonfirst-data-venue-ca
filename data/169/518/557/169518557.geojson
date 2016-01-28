@@ -2,13 +2,14 @@
   "id": 169518557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.606651,43.773899,-79.606651,43.773899",
     "geom:latitude":43.773899,
     "geom:longitude":-79.606651,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"176 Woodstream Blvd",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895625,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"845d7a8bd53bccb0d9d2d285ea9330ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895625,
+            "region_id":85682057,
+            "venue_id":169518557
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895625,
             "region_id":85682057,
             "venue_id":169518557
         }
     ],
     "wof:id":169518557,
-    "wof:lastmodified":1449034557,
+    "wof:lastmodified":1453930765,
     "wof:name":"Polo Stoves & Fireplaces",
     "wof:parent_id":85895625,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.606651,43.773899,-79.606651,43.773899],
+  "bbox": [
+    -79.606651,
+    43.773899,
+    -79.606651,
+    43.773899
+],
   "geometry": {"coordinates":[-79.606651,43.773899],"type":"Point"}
 }

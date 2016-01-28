@@ -2,13 +2,14 @@
   "id": 169535549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.760826,43.383617,-79.760826,43.383617",
     "geom:latitude":43.383617,
     "geom:longitude":-79.760826,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5230 Harvester Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895033,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"728c68ee2abfe68387a15a805423b7a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895033,
+            "region_id":85682057,
+            "venue_id":169535549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895033,
             "region_id":85682057,
             "venue_id":169535549
         }
     ],
     "wof:id":169535549,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1453929398,
     "wof:name":"Grimsby Packaging Ltd",
     "wof:parent_id":85895033,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.760826,43.383617,-79.760826,43.383617],
-  "geometry": {"coordinates":[-79.760826,43.383617],"type":"Point"}
+  "bbox": [
+    -79.760826,
+    43.383617,
+    -79.760826,
+    43.383617
+],
+  "geometry": {"coordinates":[-79.76082599999999,43.383617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152499155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.69622,45.559605,-73.69622,45.559605",
     "geom:latitude":45.559605,
     "geom:longitude":-73.69622,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"295 Rue Des Baladins",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875065,
+        102191575,
         85633041,
-        85875065
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"3e1dd4802d78c6e73f0ca635410d410b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875065,
+            "region_id":136251273,
             "venue_id":152499155
         }
     ],
     "wof:id":152499155,
-    "wof:lastmodified":1449045185,
+    "wof:lastmodified":1453933500,
     "wof:name":"Entreprises Valbourg Enr",
     "wof:parent_id":85875065,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.69622,45.559605,-73.69622,45.559605],
+  "bbox": [
+    -73.69622,
+    45.559605,
+    -73.69622,
+    45.559605
+],
   "geometry": {"coordinates":[-73.69622,45.559605],"type":"Point"}
 }

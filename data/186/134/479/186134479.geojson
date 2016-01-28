@@ -2,13 +2,14 @@
   "id": 186134479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588684,45.47374,-73.588684,45.47374",
     "geom:latitude":45.47374,
     "geom:longitude":-73.588684,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"544 Rue Therien",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897621,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"e072075e13d8cec76d5c745940090f0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897621,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186134479
         }
     ],
     "wof:id":186134479,
-    "wof:lastmodified":1449052886,
+    "wof:lastmodified":1453936920,
     "wof:name":"Dmc Canada",
     "wof:parent_id":85897621,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.588684,45.47374,-73.588684,45.47374],
+  "bbox": [
+    -73.588684,
+    45.47374,
+    -73.588684,
+    45.47374
+],
   "geometry": {"coordinates":[-73.588684,45.47374],"type":"Point"}
 }

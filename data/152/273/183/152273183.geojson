@@ -2,13 +2,14 @@
   "id": 152273183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.5737,45.519638,-73.5737,45.519638",
     "geom:latitude":45.519638,
     "geom:longitude":-73.5737,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3866 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866475,
+        102191575,
         85633041,
-        85866475
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ccb86653e4420847325c7c0433e39797",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
+            "region_id":136251273,
             "venue_id":152273183
         }
     ],
     "wof:id":152273183,
-    "wof:lastmodified":1449046701,
+    "wof:lastmodified":1453934649,
     "wof:name":"Architectes Tremblay & Assoc",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.5737,45.519638,-73.5737,45.519638],
+  "bbox": [
+    -73.5737,
+    45.519638,
+    -73.5737,
+    45.519638
+],
   "geometry": {"coordinates":[-73.5737,45.519638],"type":"Point"}
 }

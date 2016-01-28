@@ -2,13 +2,14 @@
   "id": 152257717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.216133,43.020805,-81.216133,43.020805",
     "geom:latitude":43.020805,
     "geom:longitude":-81.216133,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1295 Highbury Ave N #A9",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5Y 5L3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BlkN0cr0OpqyuYU10LCj1_43.020805_-81.216133@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ae3e1b3595807538d78cbf0ed0d0269d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":152257717
+        }
+    ],
     "wof:id":152257717,
-    "wof:lastmodified":1449045666,
+    "wof:lastmodified":1453933869,
     "wof:name":"J Seigel Footwear Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.216133,43.020805,-81.216133,43.020805],
+  "bbox": [
+    -81.216133,
+    43.020805,
+    -81.216133,
+    43.020805
+],
   "geometry": {"coordinates":[-81.216133,43.020805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152428945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.580727,45.517452,-73.580727,45.517452",
     "geom:latitude":45.517452,
     "geom:longitude":-73.580727,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4100 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"eb61b93c51346fc1b8b3f183e6ec310d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152428945
         }
     ],
     "wof:id":152428945,
-    "wof:lastmodified":1449048605,
+    "wof:lastmodified":1453936092,
     "wof:name":"Bois Ideal",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.580727,45.517452,-73.580727,45.517452],
+  "bbox": [
+    -73.580727,
+    45.517452,
+    -73.580727,
+    45.517452
+],
   "geometry": {"coordinates":[-73.580727,45.517452],"type":"Point"}
 }

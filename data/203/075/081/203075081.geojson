@@ -2,13 +2,14 @@
   "id": 203075081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.941536,43.878639,-78.941536,43.878639",
     "geom:latitude":43.878639,
     "geom:longitude":-78.941536,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"211 Brock St S",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895409,
+        102191575,
         85633041,
-        85682057
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"9c426501d93fe476cb8598215dfea6b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":203075081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":203075081
         }
     ],
     "wof:id":203075081,
-    "wof:lastmodified":1449025973,
+    "wof:lastmodified":1453927600,
     "wof:name":"Gems",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-78.941536,43.878639,-78.941536,43.878639],
+  "bbox": [
+    -78.941536,
+    43.878639,
+    -78.941536,
+    43.878639
+],
   "geometry": {"coordinates":[-78.941536,43.878639],"type":"Point"}
 }

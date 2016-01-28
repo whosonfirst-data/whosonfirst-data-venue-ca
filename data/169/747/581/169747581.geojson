@@ -2,13 +2,14 @@
   "id": 169747581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720428,45.463676,-73.720428,45.463676",
     "geom:latitude":45.463676,
     "geom:longitude":-73.720428,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10590 Ch DE LA Cote-DE-Liesse",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784727,
+        102191575,
         85633041,
-        101736475
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"2893223abf2919f2b43da9469b3764c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169747581
         }
     ],
     "wof:id":169747581,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1453929400,
     "wof:name":"Tim Hortons",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "doughnut"
     ]
 },
-  "bbox": [-73.720428,45.463676,-73.720428,45.463676],
+  "bbox": [
+    -73.720428,
+    45.463676,
+    -73.720428,
+    45.463676
+],
   "geometry": {"coordinates":[-73.720428,45.463676],"type":"Point"}
 }

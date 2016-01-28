@@ -2,13 +2,14 @@
   "id": 153021359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.282112,46.795197,-71.282112,46.795197",
     "geom:latitude":46.795197,
     "geom:longitude":-71.282112,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2200 Rue Jean-Talon N",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"6a96020aefcd7cf32bc1f6a23be767d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":153021359
         }
     ],
     "wof:id":153021359,
-    "wof:lastmodified":1449040659,
+    "wof:lastmodified":1453932582,
     "wof:name":"Atelier Du Moteur Tg Inc",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.282112,46.795197,-71.282112,46.795197],
+  "bbox": [
+    -71.282112,
+    46.795197,
+    -71.282112,
+    46.795197
+],
   "geometry": {"coordinates":[-71.282112,46.795197],"type":"Point"}
 }

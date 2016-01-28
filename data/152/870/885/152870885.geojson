@@ -2,13 +2,14 @@
   "id": 152870885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.705406,43.430706,-79.705406,43.430706",
     "geom:latitude":43.430706,
     "geom:longitude":-79.705406,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1079 Speers Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895183,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"7a05fb0f3aed045e0b4f79363342f397",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895183,
+            "region_id":85682057,
+            "venue_id":152870885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895183,
             "region_id":85682057,
             "venue_id":152870885
         }
     ],
     "wof:id":152870885,
-    "wof:lastmodified":1449045512,
+    "wof:lastmodified":1453933757,
     "wof:name":"Action Collision Svc",
     "wof:parent_id":85895183,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.705406,43.430706,-79.705406,43.430706],
+  "bbox": [
+    -79.705406,
+    43.430706,
+    -79.705406,
+    43.430706
+],
   "geometry": {"coordinates":[-79.705406,43.430706],"type":"Point"}
 }

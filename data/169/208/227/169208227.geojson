@@ -2,13 +2,14 @@
   "id": 169208227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.386925,48.443359,-123.386925,48.443359",
     "geom:latitude":48.443359,
     "geom:longitude":-123.386925,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"77 Gorge Rd W",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741111,
-        85633041,
         85875101,
+        102191575,
+        85633041,
+        101741111,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"9ece26ef1cb3b254b19c4f90505506f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741111,
             "neighbourhood_id":85875101,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":169208227,
-    "wof:lastmodified":1449033066,
+    "wof:lastmodified":1453929189,
     "wof:name":"Cedar Shores Apartments",
     "wof:parent_id":85875101,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.386925,48.443359,-123.386925,48.443359],
-  "geometry": {"coordinates":[-123.386925,48.443359],"type":"Point"}
+  "bbox": [
+    -123.386925,
+    48.443359,
+    -123.386925,
+    48.443359
+],
+  "geometry": {"coordinates":[-123.38692500000001,48.443359],"type":"Point"}
 }

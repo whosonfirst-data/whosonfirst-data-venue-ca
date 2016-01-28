@@ -2,13 +2,14 @@
   "id": 169384069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.182144,48.424782,-71.182144,48.424782",
     "geom:latitude":48.424782,
     "geom:longitude":-71.182144,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1961 Rue Davis",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a67ed5fc8df247131356cd00adf1b727",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169384069
         }
     ],
     "wof:id":169384069,
-    "wof:lastmodified":1449033095,
+    "wof:lastmodified":1453929225,
     "wof:name":"Cordonnerie Girard",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.182144,48.424782,-71.182144,48.424782],
-  "geometry": {"coordinates":[-71.182144,48.424782],"type":"Point"}
+  "bbox": [
+    -71.182144,
+    48.424782,
+    -71.182144,
+    48.424782
+],
+  "geometry": {"coordinates":[-71.18214399999999,48.424782],"type":"Point"}
 }

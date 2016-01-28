@@ -2,13 +2,14 @@
   "id": 186462127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589973,45.589748,-73.589973,45.589748",
     "geom:latitude":45.589748,
     "geom:longitude":-73.589973,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5860 Rue Des Artisans",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784921,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"770dd53c22f049e63f375ac0ffae446f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186462127
         }
     ],
     "wof:id":186462127,
-    "wof:lastmodified":1449052937,
+    "wof:lastmodified":1453936929,
     "wof:name":"Mottola, Luigi",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.589973,45.589748,-73.589973,45.589748],
+  "bbox": [
+    -73.589973,
+    45.589748,
+    -73.589973,
+    45.589748
+],
   "geometry": {"coordinates":[-73.589973,45.589748],"type":"Point"}
 }

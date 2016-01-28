@@ -2,13 +2,14 @@
   "id": 152941459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.616325,43.618698,-79.616325,43.618698",
     "geom:latitude":43.618698,
     "geom:longitude":-79.616325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4232 Starlight Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895107,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"8de12be10b2cdd3ad3be45e0e6fa76e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895107,
+            "region_id":85682057,
+            "venue_id":152941459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895107,
             "region_id":85682057,
             "venue_id":152941459
         }
     ],
     "wof:id":152941459,
-    "wof:lastmodified":1449047057,
+    "wof:lastmodified":1453934921,
     "wof:name":"Bella Vista Paint & Design Ltd",
     "wof:parent_id":85895107,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.616325,43.618698,-79.616325,43.618698],
+  "bbox": [
+    -79.616325,
+    43.618698,
+    -79.616325,
+    43.618698
+],
   "geometry": {"coordinates":[-79.616325,43.618698],"type":"Point"}
 }

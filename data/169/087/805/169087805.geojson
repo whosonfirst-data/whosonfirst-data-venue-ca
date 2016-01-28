@@ -2,13 +2,14 @@
   "id": 169087805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.650261,43.638702,-79.650261,43.638702",
     "geom:latitude":43.638702,
     "geom:longitude":-79.650261,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"4be4916d585b8e7f96a1a3e00bd96ee6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":169087805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":169087805
         }
     ],
     "wof:id":169087805,
-    "wof:lastmodified":1449034198,
+    "wof:lastmodified":1453930392,
     "wof:name":"Carpenters' District Council",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.650261,43.638702,-79.650261,43.638702],
+  "bbox": [
+    -79.650261,
+    43.638702,
+    -79.650261,
+    43.638702
+],
   "geometry": {"coordinates":[-79.650261,43.638702],"type":"Point"}
 }

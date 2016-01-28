@@ -2,13 +2,14 @@
   "id": 152220665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.283829,42.939949,-81.283829,42.939949",
     "geom:latitude":42.939949,
     "geom:longitude":-81.283829,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"151 Pine Valley Blvd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874933,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09C3USQiMyBqy3yTdjxQIj_42.939949_-81.283829@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"83244061fd09fa6a4cb4e750cb6f520f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874933,
+            "region_id":85682057,
+            "venue_id":152220665
+        }
+    ],
     "wof:id":152220665,
-    "wof:lastmodified":1449048751,
+    "wof:lastmodified":1453936218,
     "wof:name":"Ferreira, Frank DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.283829,42.939949,-81.283829,42.939949],
+  "bbox": [
+    -81.283829,
+    42.939949,
+    -81.283829,
+    42.939949
+],
   "geometry": {"coordinates":[-81.283829,42.939949],"type":"Point"}
 }

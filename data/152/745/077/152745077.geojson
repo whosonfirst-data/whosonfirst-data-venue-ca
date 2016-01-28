@@ -2,13 +2,14 @@
   "id": 152745077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.411926,45.782776,-73.411926,45.782776",
     "geom:latitude":45.782776,
     "geom:longitude":-73.411926,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1293 Rue DE Vienne",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"47079d73498fa1a66cdc71210795a907",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":152745077
         }
     ],
     "wof:id":152745077,
-    "wof:lastmodified":1449048709,
+    "wof:lastmodified":1453936181,
     "wof:name":"Physiopro",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.411926,45.782776,-73.411926,45.782776],
-  "geometry": {"coordinates":[-73.411926,45.782776],"type":"Point"}
+  "bbox": [
+    -73.411926,
+    45.782776,
+    -73.411926,
+    45.782776
+],
+  "geometry": {"coordinates":[-73.41192599999999,45.782776],"type":"Point"}
 }

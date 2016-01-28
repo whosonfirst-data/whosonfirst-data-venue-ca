@@ -2,13 +2,14 @@
   "id": 152272309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.27578,45.345669,-73.27578,45.345669",
     "geom:latitude":45.345669,
     "geom:longitude":-73.27578,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"132 Rue Saint-Gerard",
     "sg:city":"Saint-Luc",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85864393,
+        102191575,
         85633041,
-        85864393
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f4bd5614af2b71257cd8e9de8a6689e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85864393,
+            "region_id":136251273,
             "venue_id":152272309
         }
     ],
     "wof:id":152272309,
-    "wof:lastmodified":1449048603,
+    "wof:lastmodified":1453936089,
     "wof:name":"Clinique Dentaire Aux Quatre",
     "wof:parent_id":85864393,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.27578,45.345669,-73.27578,45.345669],
+  "bbox": [
+    -73.27578,
+    45.345669,
+    -73.27578,
+    45.345669
+],
   "geometry": {"coordinates":[-73.27578,45.345669],"type":"Point"}
 }

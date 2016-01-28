@@ -2,13 +2,14 @@
   "id": 169213481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.353714,43.825275,-79.353714,43.825275",
     "geom:latitude":43.825275,
     "geom:longitude":-79.353714,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2900 John St",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895483,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"0c28896a5a00f7ffb9fa05a9ac441188",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":169213481
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":169213481
         }
     ],
     "wof:id":169213481,
-    "wof:lastmodified":1449032721,
+    "wof:lastmodified":1453928835,
     "wof:name":"Kaplan Talkins",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.353714,43.825275,-79.353714,43.825275],
+  "bbox": [
+    -79.353714,
+    43.825275,
+    -79.353714,
+    43.825275
+],
   "geometry": {"coordinates":[-79.353714,43.825275],"type":"Point"}
 }

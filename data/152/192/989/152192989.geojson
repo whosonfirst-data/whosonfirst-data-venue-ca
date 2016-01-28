@@ -2,13 +2,14 @@
   "id": 152192989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681206,43.660908,-79.681206,43.660908",
     "geom:latitude":43.660908,
     "geom:longitude":-79.681206,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6819 Pacific Cir",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"48a38b19c39084f1cc002ae4f7839423",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":152192989
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":152192989
         }
     ],
     "wof:id":152192989,
-    "wof:lastmodified":1449047574,
+    "wof:lastmodified":1453935320,
     "wof:name":"Camilla House Import",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.681206,43.660908,-79.681206,43.660908],
+  "bbox": [
+    -79.681206,
+    43.660908,
+    -79.681206,
+    43.660908
+],
   "geometry": {"coordinates":[-79.681206,43.660908],"type":"Point"}
 }

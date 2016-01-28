@@ -2,13 +2,14 @@
   "id": 153035155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.383934,43.384075,-80.383934,43.384075",
     "geom:latitude":43.384075,
     "geom:longitude":-80.383934,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1660 Blair Rd",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874989,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f384383c0313ca8373dff30c53775dfb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874989,
+            "region_id":85682057,
+            "venue_id":153035155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736143,
             "neighbourhood_id":85874989,
             "region_id":85682057,
             "venue_id":153035155
         }
     ],
     "wof:id":153035155,
-    "wof:lastmodified":1449040729,
+    "wof:lastmodified":1453932649,
     "wof:name":"Blair House Gifts",
     "wof:parent_id":85874989,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.383934,43.384075,-80.383934,43.384075],
+  "bbox": [
+    -80.383934,
+    43.384075,
+    -80.383934,
+    43.384075
+],
   "geometry": {"coordinates":[-80.383934,43.384075],"type":"Point"}
 }

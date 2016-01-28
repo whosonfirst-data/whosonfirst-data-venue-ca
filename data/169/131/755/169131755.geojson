@@ -2,13 +2,14 @@
   "id": 169131755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494217,45.451664,-73.494217,45.451664",
     "geom:latitude":45.451664,
     "geom:longitude":-73.494217,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brossard",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"8f8a3a9164ba8fbbaf4458f8dce84add",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169131755
         }
     ],
     "wof:id":169131755,
-    "wof:lastmodified":1449033680,
+    "wof:lastmodified":1453929815,
     "wof:name":"Hebergement Mont Tremblant",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.494217,45.451664,-73.494217,45.451664],
-  "geometry": {"coordinates":[-73.494217,45.451664],"type":"Point"}
+  "bbox": [
+    -73.494217,
+    45.451664,
+    -73.494217,
+    45.451664
+],
+  "geometry": {"coordinates":[-73.49421700000001,45.451664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203261717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.178146,43.004257,-81.178146,43.004257",
     "geom:latitude":43.004257,
     "geom:longitude":-81.178146,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1866 Dundas St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874955,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -38,18 +42,18 @@
     "wof:geomhash":"b5ea9fe8030d1fd166d8144d94c831d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
             "region_id":85682057,
             "venue_id":203261717
         }
     ],
     "wof:id":203261717,
-    "wof:lastmodified":1449024969,
+    "wof:lastmodified":1453927412,
     "wof:name":"Mike's Meat Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "butchering"
     ]
 },
-  "bbox": [-81.178146,43.004257,-81.178146,43.004257],
+  "bbox": [
+    -81.178146,
+    43.004257,
+    -81.178146,
+    43.004257
+],
   "geometry": {"coordinates":[-81.178146,43.004257],"type":"Point"}
 }

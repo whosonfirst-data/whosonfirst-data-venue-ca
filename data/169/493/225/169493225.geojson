@@ -2,13 +2,14 @@
   "id": 169493225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.592766,43.575378,-79.592766,43.575378",
     "geom:latitude":43.575378,
     "geom:longitude":-79.592766,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"329 North Service Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894977,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"fc5c270ea1899164cf613e94f0ce11db",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894977,
+            "region_id":85682057,
+            "venue_id":169493225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894977,
             "region_id":85682057,
             "venue_id":169493225
         }
     ],
     "wof:id":169493225,
-    "wof:lastmodified":1449033736,
+    "wof:lastmodified":1453929865,
     "wof:name":"Autobest Corp",
     "wof:parent_id":85894977,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.592766,43.575378,-79.592766,43.575378],
+  "bbox": [
+    -79.592766,
+    43.575378,
+    -79.592766,
+    43.575378
+],
   "geometry": {"coordinates":[-79.592766,43.575378],"type":"Point"}
 }

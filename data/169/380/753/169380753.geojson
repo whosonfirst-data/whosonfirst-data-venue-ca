@@ -2,13 +2,14 @@
   "id": 169380753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.278351,46.832596,-71.278351,46.832596",
     "geom:latitude":46.832596,
     "geom:longitude":-71.278351,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"986 Rue Bouvier",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864425,
+        102191575,
         85633041,
-        85864425
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"02bf2e36fcc7889baa3bfb70d970f6a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864425,
+            "region_id":136251273,
             "venue_id":169380753
         }
     ],
     "wof:id":169380753,
-    "wof:lastmodified":1449034203,
+    "wof:lastmodified":1453930395,
     "wof:name":"Restaurant Normandin",
     "wof:parent_id":85864425,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.278351,46.832596,-71.278351,46.832596],
+  "bbox": [
+    -71.278351,
+    46.832596,
+    -71.278351,
+    46.832596
+],
   "geometry": {"coordinates":[-71.278351,46.832596],"type":"Point"}
 }

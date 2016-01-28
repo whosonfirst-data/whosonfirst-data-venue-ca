@@ -2,13 +2,14 @@
   "id": 169432699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.45002,45.56889,-73.45002,45.56889",
     "geom:latitude":45.56889,
     "geom:longitude":-73.45002,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Boul DE Mortagne",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875753,
+        102191575,
         85633041,
-        85875753
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"17ebeda50ae980c0caae57393d4dbe1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
+            "region_id":136251273,
             "venue_id":169432699
         }
     ],
     "wof:id":169432699,
-    "wof:lastmodified":1449032623,
+    "wof:lastmodified":1453928730,
     "wof:name":"Quebec Deneigement Entretien",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.45002,45.56889,-73.45002,45.56889],
-  "geometry": {"coordinates":[-73.45002,45.56889],"type":"Point"}
+  "bbox": [
+    -73.45002,
+    45.56889,
+    -73.45002,
+    45.56889
+],
+  "geometry": {"coordinates":[-73.45001999999999,45.56889],"type":"Point"}
 }

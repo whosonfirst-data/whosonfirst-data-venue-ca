@@ -2,13 +2,14 @@
   "id": 152784829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.653091,43.600906,-79.653091,43.600906",
     "geom:latitude":43.600906,
     "geom:longitude":-79.653091,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4581 Bismark Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"9743a75da016f1f5df848bb15e048bd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":152784829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":152784829
         }
     ],
     "wof:id":152784829,
-    "wof:lastmodified":1449047382,
+    "wof:lastmodified":1453935168,
     "wof:name":"Aeroport Taxi Svc",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.653091,43.600906,-79.653091,43.600906],
+  "bbox": [
+    -79.653091,
+    43.600906,
+    -79.653091,
+    43.600906
+],
   "geometry": {"coordinates":[-79.653091,43.600906],"type":"Point"}
 }

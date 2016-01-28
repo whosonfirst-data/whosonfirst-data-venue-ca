@@ -2,13 +2,14 @@
   "id": 169434305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.662445,45.562416,-73.662445,45.562416",
     "geom:latitude":45.562416,
     "geom:longitude":-73.662445,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1394 Boul Henri-Bourassa E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"31c6d2e1a78055a403746cae99e245bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":169434305
         }
     ],
     "wof:id":169434305,
-    "wof:lastmodified":1449033399,
+    "wof:lastmodified":1453929498,
     "wof:name":"Abc Launderette",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.662445,45.562416,-73.662445,45.562416],
-  "geometry": {"coordinates":[-73.662445,45.562416],"type":"Point"}
+  "bbox": [
+    -73.662445,
+    45.562416,
+    -73.662445,
+    45.562416
+],
+  "geometry": {"coordinates":[-73.66244500000001,45.562416],"type":"Point"}
 }

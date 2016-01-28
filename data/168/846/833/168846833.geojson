@@ -2,13 +2,14 @@
   "id": 168846833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.561783,43.573841,-79.561783,43.573841",
     "geom:latitude":43.573841,
     "geom:longitude":-79.561783,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"880 Lakeshore Rd E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895227,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1eba3f439823b19f3dc3e275aba98d29",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895227,
+            "region_id":85682057,
+            "venue_id":168846833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895227,
             "region_id":85682057,
             "venue_id":168846833
         }
     ],
     "wof:id":168846833,
-    "wof:lastmodified":1449028406,
+    "wof:lastmodified":1453928486,
     "wof:name":"Chantler Packaging Inc",
     "wof:parent_id":85895227,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.561783,43.573841,-79.561783,43.573841],
-  "geometry": {"coordinates":[-79.561783,43.573841],"type":"Point"}
+  "bbox": [
+    -79.561783,
+    43.573841,
+    -79.561783,
+    43.573841
+],
+  "geometry": {"coordinates":[-79.56178300000001,43.573841],"type":"Point"}
 }

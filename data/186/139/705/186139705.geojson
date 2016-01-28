@@ -2,13 +2,14 @@
   "id": 186139705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.587044,45.545795,-73.587044,45.545795",
     "geom:latitude":45.545795,
     "geom:longitude":-73.587044,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2395 Boul Rosemont",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874357,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"1f5de5d90837158ad5f8882aab7ede00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186139705
         }
     ],
     "wof:id":186139705,
-    "wof:lastmodified":1449050497,
+    "wof:lastmodified":1453936522,
     "wof:name":"Clinique Dentaire Enrico",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.587044,45.545795,-73.587044,45.545795],
-  "geometry": {"coordinates":[-73.587044,45.545795],"type":"Point"}
+  "bbox": [
+    -73.587044,
+    45.545795,
+    -73.587044,
+    45.545795
+],
+  "geometry": {"coordinates":[-73.58704400000001,45.545795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169443517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.280518,43.871067,-79.280518,43.871067",
     "geom:latitude":43.871067,
     "geom:longitude":-79.280518,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"30 Heritage Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895363,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b2a30bda31e64593f60da26165214bbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895363,
+            "region_id":85682057,
+            "venue_id":169443517
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895363,
             "region_id":85682057,
             "venue_id":169443517
         }
     ],
     "wof:id":169443517,
-    "wof:lastmodified":1449035350,
+    "wof:lastmodified":1453931558,
     "wof:name":"Rugman.com",
     "wof:parent_id":85895363,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.280518,43.871067,-79.280518,43.871067],
+  "bbox": [
+    -79.280518,
+    43.871067,
+    -79.280518,
+    43.871067
+],
   "geometry": {"coordinates":[-79.280518,43.871067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169410765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.703659,43.524139,-79.703659,43.524139",
     "geom:latitude":43.524139,
     "geom:longitude":-79.703659,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"d1ae605279eca1271b7f37d1f776830c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":169410765
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":169410765
         }
     ],
     "wof:id":169410765,
-    "wof:lastmodified":1449032727,
+    "wof:lastmodified":1453928843,
     "wof:name":"Prince Cleaners",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.703659,43.524139,-79.703659,43.524139],
+  "bbox": [
+    -79.703659,
+    43.524139,
+    -79.703659,
+    43.524139
+],
   "geometry": {"coordinates":[-79.703659,43.524139],"type":"Point"}
 }

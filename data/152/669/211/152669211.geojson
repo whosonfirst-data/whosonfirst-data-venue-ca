@@ -2,13 +2,14 @@
   "id": 152669211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.643326,45.566628,-73.643326,45.566628",
     "geom:latitude":45.566628,
     "geom:longitude":-73.643326,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2015 Av Charland",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"64995d4a04c2b6a1677e4de2c88906bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":152669211
         }
     ],
     "wof:id":152669211,
-    "wof:lastmodified":1449044834,
+    "wof:lastmodified":1453933235,
     "wof:name":"Merola Auto Correction Enrg",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.643326,45.566628,-73.643326,45.566628],
+  "bbox": [
+    -73.643326,
+    45.566628,
+    -73.643326,
+    45.566628
+],
   "geometry": {"coordinates":[-73.643326,45.566628],"type":"Point"}
 }

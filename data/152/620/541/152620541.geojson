@@ -2,13 +2,14 @@
   "id": 152620541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.7771,43.368309,-79.7771,43.368309",
     "geom:latitude":43.368309,
     "geom:longitude":-79.7771,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4180 Harvester Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895545,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"c7ad8259af719fa58a96e7c279230051",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895545,
+            "region_id":85682057,
+            "venue_id":152620541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895545,
             "region_id":85682057,
             "venue_id":152620541
         }
     ],
     "wof:id":152620541,
-    "wof:lastmodified":1449048518,
+    "wof:lastmodified":1453936045,
     "wof:name":"Johnson Worldwide Assoc Canada",
     "wof:parent_id":85895545,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.7771,43.368309,-79.7771,43.368309],
+  "bbox": [
+    -79.7771,
+    43.368309,
+    -79.7771,
+    43.368309
+],
   "geometry": {"coordinates":[-79.7771,43.368309],"type":"Point"}
 }

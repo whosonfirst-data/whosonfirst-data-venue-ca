@@ -2,13 +2,14 @@
   "id": 168910027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494431,45.502197,-73.494431,45.502197",
     "geom:latitude":45.502197,
     "geom:longitude":-73.494431,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"500 Rue Upper Edison",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875765,
+        102191575,
         85633041,
-        85875765
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f5ee65df330ba5394ecd2bbde7c90915",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875765,
+            "region_id":136251273,
             "venue_id":168910027
         }
     ],
     "wof:id":168910027,
-    "wof:lastmodified":1449028092,
+    "wof:lastmodified":1453928143,
     "wof:name":"Taille D'Arbres Ornementaux",
     "wof:parent_id":85875765,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.494431,45.502197,-73.494431,45.502197],
-  "geometry": {"coordinates":[-73.494431,45.502197],"type":"Point"}
+  "bbox": [
+    -73.494431,
+    45.502197,
+    -73.494431,
+    45.502197
+],
+  "geometry": {"coordinates":[-73.49443100000001,45.502197],"type":"Point"}
 }

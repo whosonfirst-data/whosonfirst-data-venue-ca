@@ -2,13 +2,14 @@
   "id": 152837283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576141,45.495617,-73.576141,45.495617",
     "geom:latitude":45.495617,
     "geom:longitude":-73.576141,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1255 Rue Mackay",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866491,
+        102191575,
         85633041,
-        85866491
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"10027603201e6dc9a8deb6f73783b47c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
+            "region_id":136251273,
             "venue_id":152837283
         }
     ],
     "wof:id":152837283,
-    "wof:lastmodified":1449045027,
+    "wof:lastmodified":1453933382,
     "wof:name":"Via Route",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576141,45.495617,-73.576141,45.495617],
-  "geometry": {"coordinates":[-73.576141,45.495617],"type":"Point"}
+  "bbox": [
+    -73.576141,
+    45.495617,
+    -73.576141,
+    45.495617
+],
+  "geometry": {"coordinates":[-73.57614100000001,45.495617],"type":"Point"}
 }

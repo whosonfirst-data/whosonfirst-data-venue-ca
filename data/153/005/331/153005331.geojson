@@ -2,13 +2,14 @@
   "id": 153005331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.701035,43.738766,-79.701035,43.738766",
     "geom:latitude":43.738766,
     "geom:longitude":-79.701035,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2 Gateway Blvd",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d14c95525c636beb83d69073a37abe7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":153005331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":153005331
         }
     ],
     "wof:id":153005331,
-    "wof:lastmodified":1449040788,
+    "wof:lastmodified":1453932699,
     "wof:name":"Gateway Chevrolet Oldsmobile",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.701035,43.738766,-79.701035,43.738766],
+  "bbox": [
+    -79.701035,
+    43.738766,
+    -79.701035,
+    43.738766
+],
   "geometry": {"coordinates":[-79.701035,43.738766],"type":"Point"}
 }

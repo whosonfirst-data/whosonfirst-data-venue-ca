@@ -2,13 +2,14 @@
   "id": 169711207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566833,45.521423,-73.566833,45.521423",
     "geom:latitude":45.521423,
     "geom:longitude":-73.566833,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1010 Rue Cherrier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866475,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"e862b61eece734dce29cba7bca0ffdf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169711207
         }
     ],
     "wof:id":169711207,
-    "wof:lastmodified":1449035353,
+    "wof:lastmodified":1453931561,
     "wof:name":"Cherrier Sur Le Parc",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.566833,45.521423,-73.566833,45.521423],
+  "bbox": [
+    -73.566833,
+    45.521423,
+    -73.566833,
+    45.521423
+],
   "geometry": {"coordinates":[-73.566833,45.521423],"type":"Point"}
 }

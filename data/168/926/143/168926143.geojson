@@ -2,13 +2,14 @@
   "id": 168926143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.747864,43.449261,-79.747864,43.449261",
     "geom:latitude":43.449261,
     "geom:longitude":-79.747864,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1348 Roundwood Cres",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895441,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d758e0572db273e72bfa08e0fa7f16e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895441,
+            "region_id":85682057,
+            "venue_id":168926143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895441,
             "region_id":85682057,
             "venue_id":168926143
         }
     ],
     "wof:id":168926143,
-    "wof:lastmodified":1449028021,
+    "wof:lastmodified":1453928071,
     "wof:name":"Erinway Greenscaping",
     "wof:parent_id":85895441,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.747864,43.449261,-79.747864,43.449261],
-  "geometry": {"coordinates":[-79.747864,43.449261],"type":"Point"}
+  "bbox": [
+    -79.747864,
+    43.449261,
+    -79.747864,
+    43.449261
+],
+  "geometry": {"coordinates":[-79.74786400000001,43.449261],"type":"Point"}
 }

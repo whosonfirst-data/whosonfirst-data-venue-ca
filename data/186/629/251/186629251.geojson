@@ -2,13 +2,14 @@
   "id": 186629251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.715393,43.5284,-79.715393,43.5284",
     "geom:latitude":43.5284,
     "geom:longitude":-79.715393,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895311,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"9453baefef7eadf3939c6bd16a377e0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895311,
+            "region_id":85682057,
+            "venue_id":186629251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895311,
             "region_id":85682057,
             "venue_id":186629251
         }
     ],
     "wof:id":186629251,
-    "wof:lastmodified":1449052375,
+    "wof:lastmodified":1453936834,
     "wof:name":"Gsp Industries",
     "wof:parent_id":85895311,
     "wof:placetype":"venue",
@@ -61,6 +73,11 @@
         "soap"
     ]
 },
-  "bbox": [-79.715393,43.5284,-79.715393,43.5284],
-  "geometry": {"coordinates":[-79.715393,43.5284],"type":"Point"}
+  "bbox": [
+    -79.715393,
+    43.5284,
+    -79.715393,
+    43.5284
+],
+  "geometry": {"coordinates":[-79.71539300000001,43.5284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152396819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.2239,43.49831,-80.2239,43.49831",
     "geom:latitude":43.49831,
     "geom:longitude":-80.2239,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5700 Hwy 6 N",
     "sg:city":"Guelph",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875535,
-        85682057
+        102191575,
+        85633041,
+        101735909,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d33d377e2628f0148769727a9b798d7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735909,
+            "neighbourhood_id":85875535,
+            "region_id":85682057,
+            "venue_id":152396819
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875535,
             "region_id":85682057,
             "venue_id":152396819
         }
     ],
     "wof:id":152396819,
-    "wof:lastmodified":1449047329,
+    "wof:lastmodified":1453935119,
     "wof:name":"Tommy Wilson Recreation",
     "wof:parent_id":85875535,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.2239,43.49831,-80.2239,43.49831],
+  "bbox": [
+    -80.2239,
+    43.49831,
+    -80.2239,
+    43.49831
+],
   "geometry": {"coordinates":[-80.2239,43.49831],"type":"Point"}
 }

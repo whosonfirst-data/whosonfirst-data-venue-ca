@@ -2,13 +2,14 @@
   "id": 186630319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574211,45.549538,-73.574211,45.549538",
     "geom:latitude":45.549538,
     "geom:longitude":-73.574211,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3119 Rue Masson",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871111,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"40a25827508d89aa595f1a264f7f4a4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871111,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186630319
         }
     ],
     "wof:id":186630319,
-    "wof:lastmodified":1449051352,
+    "wof:lastmodified":1453936643,
     "wof:name":"Cafe Lezard",
     "wof:parent_id":85871111,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "coffee"
     ]
 },
-  "bbox": [-73.574211,45.549538,-73.574211,45.549538],
-  "geometry": {"coordinates":[-73.574211,45.549538],"type":"Point"}
+  "bbox": [
+    -73.574211,
+    45.549538,
+    -73.574211,
+    45.549538
+],
+  "geometry": {"coordinates":[-73.57421100000001,45.549538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169460611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.202972,46.812412,-71.202972,46.812412",
     "geom:latitude":46.812412,
     "geom:longitude":-71.202972,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Rue Du Cul-DE-Sac",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866515,
+        102191575,
         85633041,
-        85866515
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"63e34beac081818cb813c4832187e940",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866515,
+            "region_id":136251273,
             "venue_id":169460611
         }
     ],
     "wof:id":169460611,
-    "wof:lastmodified":1449035772,
+    "wof:lastmodified":1453932045,
     "wof:name":"Centre DE Valorisation",
     "wof:parent_id":85866515,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.202972,46.812412,-71.202972,46.812412],
+  "bbox": [
+    -71.202972,
+    46.812412,
+    -71.202972,
+    46.812412
+],
   "geometry": {"coordinates":[-71.202972,46.812412],"type":"Point"}
 }

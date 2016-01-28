@@ -2,13 +2,14 @@
   "id": 186579237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.648483,45.52673,-73.648483,45.52673",
     "geom:latitude":45.52673,
     "geom:longitude":-73.648483,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2305 Ch Rockland",
     "sg:city":"Mont-Royal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897497,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"4986bad449070f5320c66876113ea383",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897497,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186579237
         }
     ],
     "wof:id":186579237,
-    "wof:lastmodified":1449051240,
+    "wof:lastmodified":1453936623,
     "wof:name":"Cremerie Centre Rockland",
     "wof:parent_id":85897497,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "cream"
     ]
 },
-  "bbox": [-73.648483,45.52673,-73.648483,45.52673],
+  "bbox": [
+    -73.648483,
+    45.52673,
+    -73.648483,
+    45.52673
+],
   "geometry": {"coordinates":[-73.648483,45.52673],"type":"Point"}
 }

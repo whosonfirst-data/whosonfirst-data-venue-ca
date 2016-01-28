@@ -2,13 +2,14 @@
   "id": 152819463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.260857,43.968861,-79.260857,43.968861",
     "geom:latitude":43.968861,
     "geom:longitude":-79.260857,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 West Lawn Cres",
     "sg:city":"Stouffville",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895527,
         102191575,
         85633041,
-        85895527
+        101736037,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736037,
             "neighbourhood_id":85895527,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152819463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895527,
+            "region_id":85682057,
             "venue_id":152819463
         }
     ],
     "wof:id":152819463,
-    "wof:lastmodified":1449045395,
+    "wof:lastmodified":1453933664,
     "wof:name":"Bank of Montreal",
     "wof:parent_id":85895527,
     "wof:placetype":"venue",
@@ -54,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.260857,43.968861,-79.260857,43.968861],
+  "bbox": [
+    -79.260857,
+    43.968861,
+    -79.260857,
+    43.968861
+],
   "geometry": {"coordinates":[-79.260857,43.968861],"type":"Point"}
 }

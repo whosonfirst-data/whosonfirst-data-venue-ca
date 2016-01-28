@@ -2,13 +2,14 @@
   "id": 169002113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.677544,43.584286,-79.677544,43.584286",
     "geom:latitude":43.584286,
     "geom:longitude":-79.677544,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4684 Crosscreek Crt",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"a84c2e6f286ad22b71792e6b443837bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":169002113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":169002113
         }
     ],
     "wof:id":169002113,
-    "wof:lastmodified":1449035363,
+    "wof:lastmodified":1453931571,
     "wof:name":"Myrock Systems Corp",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.677544,43.584286,-79.677544,43.584286],
+  "bbox": [
+    -79.677544,
+    43.584286,
+    -79.677544,
+    43.584286
+],
   "geometry": {"coordinates":[-79.677544,43.584286],"type":"Point"}
 }

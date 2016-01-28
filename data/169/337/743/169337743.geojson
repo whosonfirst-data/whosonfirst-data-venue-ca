@@ -2,13 +2,14 @@
   "id": 169337743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.670807,44.348759,-79.670807,44.348759",
     "geom:latitude":44.348759,
     "geom:longitude":-79.670807,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"88 Ellis Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875279,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pjgTCGV4Ij7kIMBwaQT7s_44.348759_-79.670807@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"6501feb4dcc55aa7d61515a9247337b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875279,
+            "region_id":85682057,
+            "venue_id":169337743
+        }
+    ],
     "wof:id":169337743,
-    "wof:lastmodified":1449034226,
+    "wof:lastmodified":1453930418,
     "wof:name":"Excel Mould Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.670807,44.348759,-79.670807,44.348759],
+  "bbox": [
+    -79.670807,
+    44.348759,
+    -79.670807,
+    44.348759
+],
   "geometry": {"coordinates":[-79.670807,44.348759],"type":"Point"}
 }

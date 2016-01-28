@@ -2,13 +2,14 @@
   "id": 169065197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.268349,46.787598,-71.268349,46.787598",
     "geom:latitude":46.787598,
     "geom:longitude":-71.268349,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"867 Av Myrand",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"1556c1037ca1ccdcb51d907f257afa2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":169065197
         }
     ],
     "wof:id":169065197,
-    "wof:lastmodified":1449035929,
+    "wof:lastmodified":1453932217,
     "wof:name":"Cafe Au Temps Perdu",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.268349,46.787598,-71.268349,46.787598],
+  "bbox": [
+    -71.268349,
+    46.787598,
+    -71.268349,
+    46.787598
+],
   "geometry": {"coordinates":[-71.268349,46.787598],"type":"Point"}
 }

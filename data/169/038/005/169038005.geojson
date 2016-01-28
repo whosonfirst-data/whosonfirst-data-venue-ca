@@ -2,13 +2,14 @@
   "id": 169038005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.820396,45.507675,-73.820396,45.507675",
     "geom:latitude":45.507675,
     "geom:longitude":-73.820396,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4989 Boul Des Sources",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"95b942b59981701894c8638f7b760a71",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":169038005
         }
     ],
     "wof:id":169038005,
-    "wof:lastmodified":1449034805,
+    "wof:lastmodified":1453931042,
     "wof:name":"Ameublement L & L",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.820396,45.507675,-73.820396,45.507675],
+  "bbox": [
+    -73.820396,
+    45.507675,
+    -73.820396,
+    45.507675
+],
   "geometry": {"coordinates":[-73.820396,45.507675],"type":"Point"}
 }

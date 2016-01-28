@@ -2,13 +2,14 @@
   "id": 169006529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.723846,43.431274,-79.723846,43.431274",
     "geom:latitude":43.431274,
     "geom:longitude":-79.723846,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1380 Fieldcrest Lane",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895687,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"1160a4dd4fabc815591d54aa8a96903b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895687,
+            "region_id":85682057,
+            "venue_id":169006529
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895687,
             "region_id":85682057,
             "venue_id":169006529
         }
     ],
     "wof:id":169006529,
-    "wof:lastmodified":1449035317,
+    "wof:lastmodified":1453931523,
     "wof:name":"Corpben Insurance Inc",
     "wof:parent_id":85895687,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.723846,43.431274,-79.723846,43.431274],
-  "geometry": {"coordinates":[-79.723846,43.431274],"type":"Point"}
+  "bbox": [
+    -79.723846,
+    43.431274,
+    -79.723846,
+    43.431274
+],
+  "geometry": {"coordinates":[-79.72384599999999,43.431274],"type":"Point"}
 }

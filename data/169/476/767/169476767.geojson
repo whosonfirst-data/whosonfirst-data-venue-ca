@@ -2,13 +2,14 @@
   "id": 169476767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.710876,43.757427,-79.710876,43.757427",
     "geom:latitude":43.757427,
     "geom:longitude":-79.710876,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"35 Automatic Rd",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"322b5ce465e3e951f96f4559e2161ed2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":169476767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":169476767
         }
     ],
     "wof:id":169476767,
-    "wof:lastmodified":1449034013,
+    "wof:lastmodified":1453930179,
     "wof:name":"Tamefield Warehousing Ltd",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.710876,43.757427,-79.710876,43.757427],
+  "bbox": [
+    -79.710876,
+    43.757427,
+    -79.710876,
+    43.757427
+],
   "geometry": {"coordinates":[-79.710876,43.757427],"type":"Point"}
 }

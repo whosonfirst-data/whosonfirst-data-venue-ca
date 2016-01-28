@@ -2,13 +2,14 @@
   "id": 169269527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.251556,45.306301,-73.251556,45.306301",
     "geom:latitude":45.306301,
     "geom:longitude":-73.251556,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"37 Rue Saint-Jacques",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85875681,
+        102191575,
         85633041,
-        85875681
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"490a127b460856fcffd4d53ce19a0c69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85875681,
+            "region_id":136251273,
             "venue_id":169269527
         }
     ],
     "wof:id":169269527,
-    "wof:lastmodified":1449034757,
+    "wof:lastmodified":1453930978,
     "wof:name":"Studio DE Photographie Michel",
     "wof:parent_id":85875681,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.251556,45.306301,-73.251556,45.306301],
-  "geometry": {"coordinates":[-73.251556,45.306301],"type":"Point"}
+  "bbox": [
+    -73.251556,
+    45.306301,
+    -73.251556,
+    45.306301
+],
+  "geometry": {"coordinates":[-73.25155599999999,45.306301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169524519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.584015,45.665333,-73.584015,45.665333",
     "geom:latitude":45.665333,
     "geom:longitude":-73.584015,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"735 Rue Louise",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871105,
+        102191575,
         85633041,
-        85871105
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"82dd6cf10fccc8bdf577182dd4b266f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
+            "region_id":136251273,
             "venue_id":169524519
         }
     ],
     "wof:id":169524519,
-    "wof:lastmodified":1449032652,
+    "wof:lastmodified":1453928772,
     "wof:name":"Rendez-Vous Du Tricot Enr",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.584015,45.665333,-73.584015,45.665333],
-  "geometry": {"coordinates":[-73.584015,45.665333],"type":"Point"}
+  "bbox": [
+    -73.584015,
+    45.665333,
+    -73.584015,
+    45.665333
+],
+  "geometry": {"coordinates":[-73.58401499999999,45.665333],"type":"Point"}
 }

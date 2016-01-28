@@ -2,13 +2,14 @@
   "id": 152747807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.818321,43.33913,-79.818321,43.33913",
     "geom:latitude":43.33913,
     "geom:longitude":-79.818321,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1035 Brant St # 1A1",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895611,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d9a6260fa7c8fb7e28325711b4acb0f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895611,
+            "region_id":85682057,
+            "venue_id":152747807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895611,
             "region_id":85682057,
             "venue_id":152747807
         }
     ],
     "wof:id":152747807,
-    "wof:lastmodified":1449045149,
+    "wof:lastmodified":1453933473,
     "wof:name":"Canadianprinting.com",
     "wof:parent_id":85895611,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.818321,43.33913,-79.818321,43.33913],
+  "bbox": [
+    -79.818321,
+    43.33913,
+    -79.818321,
+    43.33913
+],
   "geometry": {"coordinates":[-79.818321,43.33913],"type":"Point"}
 }

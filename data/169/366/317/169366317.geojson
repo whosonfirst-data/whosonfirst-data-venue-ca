@@ -2,13 +2,14 @@
   "id": 169366317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.696373,45.348129,-73.696373,45.348129",
     "geom:latitude":45.348129,
     "geom:longitude":-73.696373,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Rue Belanger",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"77513fa6c9abc502928d8e671822bc2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169366317
         }
     ],
     "wof:id":169366317,
-    "wof:lastmodified":1449035084,
+    "wof:lastmodified":1453931319,
     "wof:name":"Polyrol Paper Tube Inc",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.696373,45.348129,-73.696373,45.348129],
-  "geometry": {"coordinates":[-73.696373,45.348129],"type":"Point"}
+  "bbox": [
+    -73.696373,
+    45.348129,
+    -73.696373,
+    45.348129
+],
+  "geometry": {"coordinates":[-73.69637299999999,45.348129],"type":"Point"}
 }

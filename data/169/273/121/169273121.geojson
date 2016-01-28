@@ -2,13 +2,14 @@
   "id": 169273121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.451889,45.451412,-73.451889,45.451412",
     "geom:latitude":45.451412,
     "geom:longitude":-73.451889,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3920 Place Martin",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897511,
+        102191575,
         85633041,
-        85897511
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ef6de5940ac19737788e9599fb4e0576",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897511,
+            "region_id":136251273,
             "venue_id":169273121
         }
     ],
     "wof:id":169273121,
-    "wof:lastmodified":1449034396,
+    "wof:lastmodified":1453930575,
     "wof:name":"Gvl Enrg",
     "wof:parent_id":85897511,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.451889,45.451412,-73.451889,45.451412],
-  "geometry": {"coordinates":[-73.451889,45.451412],"type":"Point"}
+  "bbox": [
+    -73.451889,
+    45.451412,
+    -73.451889,
+    45.451412
+],
+  "geometry": {"coordinates":[-73.45188899999999,45.451412],"type":"Point"}
 }

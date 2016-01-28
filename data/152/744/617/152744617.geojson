@@ -2,13 +2,14 @@
   "id": 152744617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.210083,43.179188,-79.210083,43.179188",
     "geom:latitude":43.179188,
     "geom:longitude":-79.210083,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"97022ba78bd3c8b330f5b19fd1772b83",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152744617
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152744617
         }
     ],
     "wof:id":152744617,
-    "wof:lastmodified":1449045975,
+    "wof:lastmodified":1453934104,
     "wof:name":"Scizzons Salon For Men & Women",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.210083,43.179188,-79.210083,43.179188],
+  "bbox": [
+    -79.210083,
+    43.179188,
+    -79.210083,
+    43.179188
+],
   "geometry": {"coordinates":[-79.210083,43.179188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169166879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.738144,45.428905,-75.738144,45.428905",
     "geom:latitude":45.428905,
     "geom:longitude":-75.738144,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"101 Rue Saint-Jean-Bosco",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"679c5c61f377cf57601d1055c8ddd909",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":169166879
         }
     ],
     "wof:id":169166879,
-    "wof:lastmodified":1449034534,
+    "wof:lastmodified":1453930733,
     "wof:name":"Universite Du Quebec",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.738144,45.428905,-75.738144,45.428905],
-  "geometry": {"coordinates":[-75.738144,45.428905],"type":"Point"}
+  "bbox": [
+    -75.738144,
+    45.428905,
+    -75.738144,
+    45.428905
+],
+  "geometry": {"coordinates":[-75.73814400000001,45.428905],"type":"Point"}
 }

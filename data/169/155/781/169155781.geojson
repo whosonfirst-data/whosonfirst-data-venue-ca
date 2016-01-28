@@ -2,13 +2,14 @@
   "id": 169155781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.692314,45.346584,-73.692314,45.346584",
     "geom:latitude":45.346584,
     "geom:longitude":-73.692314,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1155 Boul Ford",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"89d3e379907cdf7341386712cdf712aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169155781
         }
     ],
     "wof:id":169155781,
-    "wof:lastmodified":1449035381,
+    "wof:lastmodified":1453931581,
     "wof:name":"Clermont Limitee",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.692314,45.346584,-73.692314,45.346584],
+  "bbox": [
+    -73.692314,
+    45.346584,
+    -73.692314,
+    45.346584
+],
   "geometry": {"coordinates":[-73.692314,45.346584],"type":"Point"}
 }

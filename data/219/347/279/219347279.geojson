@@ -2,13 +2,14 @@
   "id": 219347279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.128479,43.972527,-79.128479,43.972527",
     "geom:latitude":43.972527,
     "geom:longitude":-79.128479,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3800 Paddock Rd",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895291,
         102191575,
         85633041,
-        85895291
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736359,
             "neighbourhood_id":85895291,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":219347279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
+            "neighbourhood_id":85895291,
+            "region_id":85682057,
             "venue_id":219347279
         }
     ],
     "wof:id":219347279,
-    "wof:lastmodified":1449072100,
+    "wof:lastmodified":1453937771,
     "wof:name":"Pickering Horse Ctr",
     "wof:parent_id":85895291,
     "wof:placetype":"venue",
@@ -63,6 +74,11 @@
         "stable"
     ]
 },
-  "bbox": [-79.128479,43.972527,-79.128479,43.972527],
+  "bbox": [
+    -79.128479,
+    43.972527,
+    -79.128479,
+    43.972527
+],
   "geometry": {"coordinates":[-79.128479,43.972527],"type":"Point"}
 }

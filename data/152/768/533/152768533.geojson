@@ -2,13 +2,14 @@
   "id": 152768533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.35183,48.448475,-123.35183,48.448475",
     "geom:latitude":48.448475,
     "geom:longitude":-123.35183,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1342 Merritt St",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741111,
-        85633041,
         85875095,
+        102191575,
+        85633041,
+        101741111,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"fa721e1058b9ca2821426cbefbf9abea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741111,
             "neighbourhood_id":85875095,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":152768533,
-    "wof:lastmodified":1449046084,
+    "wof:lastmodified":1453934182,
     "wof:name":"Palmer Appraisals Ltd",
     "wof:parent_id":85875095,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.35183,48.448475,-123.35183,48.448475],
-  "geometry": {"coordinates":[-123.35183,48.448475],"type":"Point"}
+  "bbox": [
+    -123.35183,
+    48.448475,
+    -123.35183,
+    48.448475
+],
+  "geometry": {"coordinates":[-123.35183000000001,48.448475],"type":"Point"}
 }

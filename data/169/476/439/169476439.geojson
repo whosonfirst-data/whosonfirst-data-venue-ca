@@ -2,13 +2,14 @@
   "id": 169476439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.416931,43.870895,-79.416931,43.870895",
     "geom:latitude":43.870895,
     "geom:longitude":-79.416931,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"418 Paliser Cres N",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895247,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d8eaa274dab90f64d89bfaac2e07e440",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895247,
+            "region_id":85682057,
+            "venue_id":169476439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895247,
             "region_id":85682057,
             "venue_id":169476439
         }
     ],
     "wof:id":169476439,
-    "wof:lastmodified":1449034012,
+    "wof:lastmodified":1453930179,
     "wof:name":"Groupe Guerin",
     "wof:parent_id":85895247,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.416931,43.870895,-79.416931,43.870895],
-  "geometry": {"coordinates":[-79.416931,43.870895],"type":"Point"}
+  "bbox": [
+    -79.416931,
+    43.870895,
+    -79.416931,
+    43.870895
+],
+  "geometry": {"coordinates":[-79.41693100000001,43.870895],"type":"Point"}
 }

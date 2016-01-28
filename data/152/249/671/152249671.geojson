@@ -2,13 +2,14 @@
   "id": 152249671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.657204,45.455128,-73.657204,45.455128",
     "geom:latitude":45.455128,
     "geom:longitude":-73.657204,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"36 Crois Roxton",
     "sg:city":"Montreal-Ouest",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736483,
+        85784813,
+        102191575,
         85633041,
-        85784813
+        101736483,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6d6ddf6b5bb6dc05dd4632fa223b1531",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736483,
             "neighbourhood_id":85784813,
+            "region_id":136251273,
             "venue_id":152249671
         }
     ],
     "wof:id":152249671,
-    "wof:lastmodified":1449044537,
+    "wof:lastmodified":1453933007,
     "wof:name":"Systemes D'Energie Integree",
     "wof:parent_id":85784813,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.657204,45.455128,-73.657204,45.455128],
-  "geometry": {"coordinates":[-73.657204,45.455128],"type":"Point"}
+  "bbox": [
+    -73.657204,
+    45.455128,
+    -73.657204,
+    45.455128
+],
+  "geometry": {"coordinates":[-73.65720399999999,45.455128],"type":"Point"}
 }

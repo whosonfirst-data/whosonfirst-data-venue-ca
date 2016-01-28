@@ -2,13 +2,14 @@
   "id": 169227833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62516,45.591618,-73.62516,45.591618",
     "geom:latitude":45.591618,
     "geom:longitude":-73.62516,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10457 Av Bellevois",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"825425f02c47d6eed9f5aea472598e0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":169227833
         }
     ],
     "wof:id":169227833,
-    "wof:lastmodified":1449033407,
+    "wof:lastmodified":1453929505,
     "wof:name":"Precision Inspection Svc Inc",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.62516,45.591618,-73.62516,45.591618],
-  "geometry": {"coordinates":[-73.62516,45.591618],"type":"Point"}
+  "bbox": [
+    -73.62516,
+    45.591618,
+    -73.62516,
+    45.591618
+],
+  "geometry": {"coordinates":[-73.62515999999999,45.591618],"type":"Point"}
 }

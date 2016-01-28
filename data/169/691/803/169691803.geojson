@@ -2,13 +2,14 @@
   "id": 169691803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.751396,45.454407,-73.751396,45.454407",
     "geom:latitude":45.454407,
     "geom:longitude":-73.751396,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"700 Place Leigh-Capreol #1F",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102554351,
         85784727,
+        102191575,
         85633041,
-        101736475
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,19 @@
     "wof:geomhash":"5e7198eda52f6f311013a5f03d117c8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169691803
         }
     ],
     "wof:id":169691803,
-    "wof:lastmodified":1449032953,
+    "wof:lastmodified":1453929083,
     "wof:name":"Carson Custom's Brokers Ltd",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "customs"
     ]
 },
-  "bbox": [-73.751396,45.454407,-73.751396,45.454407],
+  "bbox": [
+    -73.751396,
+    45.454407,
+    -73.751396,
+    45.454407
+],
   "geometry": {"coordinates":[-73.751396,45.454407],"type":"Point"}
 }

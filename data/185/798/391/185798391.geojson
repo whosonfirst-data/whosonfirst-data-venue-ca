@@ -2,13 +2,14 @@
   "id": 185798391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.799675,45.498077,-73.799675,45.498077",
     "geom:latitude":45.498077,
     "geom:longitude":-73.799675,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Place DE LA Concorde",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874361,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"d916bf264a078e48d61524fd1b6a99ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874361,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185798391
         }
     ],
     "wof:id":185798391,
-    "wof:lastmodified":1449006920,
+    "wof:lastmodified":1453927232,
     "wof:name":"Norand Entreprises Enrg",
     "wof:parent_id":85874361,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.799675,45.498077,-73.799675,45.498077],
-  "geometry": {"coordinates":[-73.799675,45.498077],"type":"Point"}
+  "bbox": [
+    -73.799675,
+    45.498077,
+    -73.799675,
+    45.498077
+],
+  "geometry": {"coordinates":[-73.79967499999999,45.498077],"type":"Point"}
 }

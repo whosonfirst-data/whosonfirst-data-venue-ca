@@ -2,13 +2,14 @@
   "id": 168916799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.282944,46.876308,-71.282944,46.876308",
     "geom:latitude":46.876308,
     "geom:longitude":-71.282944,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2101 Rue Des Bouvreuils",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4a1fdce27afa65ddcf18dc489827a190",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":168916799
         }
     ],
     "wof:id":168916799,
-    "wof:lastmodified":1449028193,
+    "wof:lastmodified":1453928253,
     "wof:name":"Bar Orsainville",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.282944,46.876308,-71.282944,46.876308],
+  "bbox": [
+    -71.282944,
+    46.876308,
+    -71.282944,
+    46.876308
+],
   "geometry": {"coordinates":[-71.282944,46.876308],"type":"Point"}
 }

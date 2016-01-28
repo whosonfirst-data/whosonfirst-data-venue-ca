@@ -2,13 +2,14 @@
   "id": 152244041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.661407,45.507248,-73.661407,45.507248",
     "geom:latitude":45.507248,
     "geom:longitude":-73.661407,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2342 Ch Lucerne",
     "sg:city":"Mont-Royal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895725,
+        102191575,
         85633041,
-        85895725
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"016853c8e2fa1dbbd4265ca9b40329af",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
+            "region_id":136251273,
             "venue_id":152244041
         }
     ],
     "wof:id":152244041,
-    "wof:lastmodified":1449046148,
+    "wof:lastmodified":1453934227,
     "wof:name":"Galerie Flament",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.661407,45.507248,-73.661407,45.507248],
+  "bbox": [
+    -73.661407,
+    45.507248,
+    -73.661407,
+    45.507248
+],
   "geometry": {"coordinates":[-73.661407,45.507248],"type":"Point"}
 }

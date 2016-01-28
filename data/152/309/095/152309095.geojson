@@ -2,13 +2,14 @@
   "id": 152309095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.327675,43.824612,-79.327675,43.824612",
     "geom:latitude":43.824612,
     "geom:longitude":-79.327675,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"232 Hood Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895023,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f76b715f8c8ffaf7f28ceace37a92976",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":152309095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":152309095
         }
     ],
     "wof:id":152309095,
-    "wof:lastmodified":1449045327,
+    "wof:lastmodified":1453933615,
     "wof:name":"Diros Technology Inc",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.327675,43.824612,-79.327675,43.824612],
+  "bbox": [
+    -79.327675,
+    43.824612,
+    -79.327675,
+    43.824612
+],
   "geometry": {"coordinates":[-79.327675,43.824612],"type":"Point"}
 }

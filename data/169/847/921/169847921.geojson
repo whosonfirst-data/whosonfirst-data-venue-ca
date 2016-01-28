@@ -2,13 +2,14 @@
   "id": 169847921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.86338,43.293465,-79.86338,43.293465",
     "geom:latitude":43.293465,
     "geom:longitude":-79.86338,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"901 Danforth Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895263,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"645c67ba213c41b2ac98170f1c48ca45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895263,
+            "region_id":85682057,
+            "venue_id":169847921
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895263,
             "region_id":85682057,
             "venue_id":169847921
         }
     ],
     "wof:id":169847921,
-    "wof:lastmodified":1449033889,
+    "wof:lastmodified":1453930051,
     "wof:name":"Kenwood Trenching & Excavating",
     "wof:parent_id":85895263,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.86338,43.293465,-79.86338,43.293465],
-  "geometry": {"coordinates":[-79.86338,43.293465],"type":"Point"}
+  "bbox": [
+    -79.86338,
+    43.293465,
+    -79.86338,
+    43.293465
+],
+  "geometry": {"coordinates":[-79.86338000000001,43.293465],"type":"Point"}
 }

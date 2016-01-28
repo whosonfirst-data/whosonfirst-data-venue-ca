@@ -2,13 +2,14 @@
   "id": 152486367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.517136,45.51318,-73.517136,45.51318",
     "geom:latitude":45.51318,
     "geom:longitude":-73.517136,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"105 Av DE Brixton",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897641,
+        102191575,
         85633041,
-        85897641
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4b9f5cde0b597c92376264a6ff01cbee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897641,
+            "region_id":136251273,
             "venue_id":152486367
         }
     ],
     "wof:id":152486367,
-    "wof:lastmodified":1449046877,
+    "wof:lastmodified":1453934772,
     "wof:name":"Blain, Pierre Luc",
     "wof:parent_id":85897641,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.517136,45.51318,-73.517136,45.51318],
-  "geometry": {"coordinates":[-73.517136,45.51318],"type":"Point"}
+  "bbox": [
+    -73.517136,
+    45.51318,
+    -73.517136,
+    45.51318
+],
+  "geometry": {"coordinates":[-73.51713599999999,45.51318],"type":"Point"}
 }

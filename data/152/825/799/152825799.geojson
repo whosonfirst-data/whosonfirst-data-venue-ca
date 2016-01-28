@@ -2,13 +2,14 @@
   "id": 152825799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.680405,45.451122,-75.680405,45.451122",
     "geom:latitude":45.451122,
     "geom:longitude":-75.680405,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"261 Buena Vista Rd",
     "sg:city":"Rockcliffe",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874503,
+        102191575,
         85633041,
-        85874503
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"a88b71455d0143c4acef3345bc837f16",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
+            "region_id":136251273,
             "venue_id":152825799
         }
     ],
     "wof:id":152825799,
-    "wof:lastmodified":1449044476,
+    "wof:lastmodified":1453932959,
     "wof:name":"Elmwood School",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.680405,45.451122,-75.680405,45.451122],
-  "geometry": {"coordinates":[-75.680405,45.451122],"type":"Point"}
+  "bbox": [
+    -75.680405,
+    45.451122,
+    -75.680405,
+    45.451122
+],
+  "geometry": {"coordinates":[-75.68040499999999,45.451122],"type":"Point"}
 }

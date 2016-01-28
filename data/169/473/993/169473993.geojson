@@ -2,13 +2,14 @@
   "id": 169473993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.537193,43.34985,-80.537193,43.34985",
     "geom:latitude":43.34985,
     "geom:longitude":-80.537193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"PO Box 22",
     "sg:city":"New Dundee",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874959,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c71dfe4a52887f7ad40238d2c91b88b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874959,
+            "region_id":85682057,
+            "venue_id":169473993
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736097,
             "neighbourhood_id":85874959,
             "region_id":85682057,
             "venue_id":169473993
         }
     ],
     "wof:id":169473993,
-    "wof:lastmodified":1449033373,
+    "wof:lastmodified":1453929481,
     "wof:name":"Bendix Landscaping",
     "wof:parent_id":85874959,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.537193,43.34985,-80.537193,43.34985],
+  "bbox": [
+    -80.537193,
+    43.34985,
+    -80.537193,
+    43.34985
+],
   "geometry": {"coordinates":[-80.537193,43.34985],"type":"Point"}
 }

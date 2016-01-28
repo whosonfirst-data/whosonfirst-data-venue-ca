@@ -2,13 +2,14 @@
   "id": 219728311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.719231,43.464886,-79.719231,43.464886",
     "geom:latitude":43.464886,
     "geom:longitude":-79.719231,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"133 River Oaks Blvd W",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895643,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"67b9ad9d8b951b0dead0334703200f58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895643,
+            "region_id":85682057,
+            "venue_id":219728311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895643,
             "region_id":85682057,
             "venue_id":219728311
         }
     ],
     "wof:id":219728311,
-    "wof:lastmodified":1449071215,
+    "wof:lastmodified":1453937653,
     "wof:name":"Panda Interiors",
     "wof:parent_id":85895643,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "drapery"
     ]
 },
-  "bbox": [-79.719231,43.464886,-79.719231,43.464886],
-  "geometry": {"coordinates":[-79.719231,43.464886],"type":"Point"}
+  "bbox": [
+    -79.719231,
+    43.464886,
+    -79.719231,
+    43.464886
+],
+  "geometry": {"coordinates":[-79.71923099999999,43.464886],"type":"Point"}
 }

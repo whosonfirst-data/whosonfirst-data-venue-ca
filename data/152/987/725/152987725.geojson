@@ -2,13 +2,14 @@
   "id": 152987725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.780762,45.581509,-73.780762,45.581509",
     "geom:latitude":45.581509,
     "geom:longitude":-73.780762,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2885 Boul Dagenais O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864423,
+        102191575,
         85633041,
-        85864423
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"6c010998ac960f0ddec5d66051f7924c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864423,
+            "region_id":136251273,
             "venue_id":152987725
         }
     ],
     "wof:id":152987725,
-    "wof:lastmodified":1449046885,
+    "wof:lastmodified":1453934780,
     "wof:name":"C A Spencer Inc",
     "wof:parent_id":85864423,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.780762,45.581509,-73.780762,45.581509],
+  "bbox": [
+    -73.780762,
+    45.581509,
+    -73.780762,
+    45.581509
+],
   "geometry": {"coordinates":[-73.780762,45.581509],"type":"Point"}
 }

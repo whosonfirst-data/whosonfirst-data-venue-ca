@@ -2,13 +2,14 @@
   "id": 152139227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.139046,42.993187,-81.139046,42.993187",
     "geom:latitude":42.993187,
     "geom:longitude":-81.139046,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"354 Neptune Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864669,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00mYQ8vJPNL6n9boPzVFRt_42.993187_-81.139046@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b6b33b6bd8405d427b5ab98dc57029fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864669,
+            "region_id":85682057,
+            "venue_id":152139227
+        }
+    ],
     "wof:id":152139227,
-    "wof:lastmodified":1449044741,
+    "wof:lastmodified":1453933168,
     "wof:name":"O'Drowsky Plumbing & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.139046,42.993187,-81.139046,42.993187],
-  "geometry": {"coordinates":[-81.139046,42.993187],"type":"Point"}
+  "bbox": [
+    -81.139046,
+    42.993187,
+    -81.139046,
+    42.993187
+],
+  "geometry": {"coordinates":[-81.13904599999999,42.993187],"type":"Point"}
 }

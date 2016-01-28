@@ -2,13 +2,14 @@
   "id": 152835447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.040947,43.528027,-80.040947,43.528027",
     "geom:latitude":43.528027,
     "geom:longitude":-80.040947,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"RR 1",
     "sg:city":"Moffat",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895319,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"48a98a58fcdc563e00e66ef4136bae1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895319,
+            "region_id":85682057,
+            "venue_id":152835447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895319,
             "region_id":85682057,
             "venue_id":152835447
         }
     ],
     "wof:id":152835447,
-    "wof:lastmodified":1449044963,
+    "wof:lastmodified":1453933338,
     "wof:name":"Heavy Metal Movers",
     "wof:parent_id":85895319,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.040947,43.528027,-80.040947,43.528027],
+  "bbox": [
+    -80.040947,
+    43.528027,
+    -80.040947,
+    43.528027
+],
   "geometry": {"coordinates":[-80.040947,43.528027],"type":"Point"}
 }

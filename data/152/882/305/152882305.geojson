@@ -2,13 +2,14 @@
   "id": 152882305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.731628,43.367393,-79.731628,43.367393",
     "geom:latitude":43.367393,
     "geom:longitude":-79.731628,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5353 Lakeshore Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895641,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"c612b222ed0b96c28eb0074337704802",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895641,
+            "region_id":85682057,
+            "venue_id":152882305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895641,
             "region_id":85682057,
             "venue_id":152882305
         }
     ],
     "wof:id":152882305,
-    "wof:lastmodified":1449045131,
+    "wof:lastmodified":1453933461,
     "wof:name":"Ontario Early Years Ctr",
     "wof:parent_id":85895641,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.731628,43.367393,-79.731628,43.367393],
+  "bbox": [
+    -79.731628,
+    43.367393,
+    -79.731628,
+    43.367393
+],
   "geometry": {"coordinates":[-79.731628,43.367393],"type":"Point"}
 }

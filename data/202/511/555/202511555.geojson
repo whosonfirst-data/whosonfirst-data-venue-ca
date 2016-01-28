@@ -2,13 +2,14 @@
   "id": 202511555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625893,45.604908,-73.625893,45.604908",
     "geom:latitude":45.604908,
     "geom:longitude":-73.625893,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5333 Boul Henri-Bourassa E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784809,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"dbd3f743320a9dcd80cd0cbc960a7721",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202511555
         }
     ],
     "wof:id":202511555,
-    "wof:lastmodified":1449061294,
+    "wof:lastmodified":1453937224,
     "wof:name":"Jean Coutu",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.625893,45.604908,-73.625893,45.604908],
+  "bbox": [
+    -73.625893,
+    45.604908,
+    -73.625893,
+    45.604908
+],
   "geometry": {"coordinates":[-73.625893,45.604908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153019823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.675369,45.435028,-73.675369,45.435028",
     "geom:latitude":45.435028,
     "geom:longitude":-73.675369,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1290 Rue Notre-Dame",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784771,
+        102191575,
         85633041,
-        85784771
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"7947dc0c7a784cbc150a8648b5f09e1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784771,
+            "region_id":136251273,
             "venue_id":153019823
         }
     ],
     "wof:id":153019823,
-    "wof:lastmodified":1449040637,
+    "wof:lastmodified":1453932564,
     "wof:name":"Houblon & Cepages",
     "wof:parent_id":85784771,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.675369,45.435028,-73.675369,45.435028],
+  "bbox": [
+    -73.675369,
+    45.435028,
+    -73.675369,
+    45.435028
+],
   "geometry": {"coordinates":[-73.675369,45.435028],"type":"Point"}
 }

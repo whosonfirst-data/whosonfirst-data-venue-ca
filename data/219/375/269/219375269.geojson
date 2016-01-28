@@ -2,13 +2,14 @@
   "id": 219375269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.467453,45.473621,-73.467453,45.473621",
     "geom:latitude":45.473621,
     "geom:longitude":-73.467453,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6400 Boul Taschereau",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897507,
+        102191575,
         85633041,
-        101736555
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"722daabad8595766d1a91b424eb74a10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897507,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219375269
         }
     ],
     "wof:id":219375269,
-    "wof:lastmodified":1449070496,
+    "wof:lastmodified":1453937550,
     "wof:name":"Restaurant Pacini",
     "wof:parent_id":85897507,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.467453,45.473621,-73.467453,45.473621],
-  "geometry": {"coordinates":[-73.467453,45.473621],"type":"Point"}
+  "bbox": [
+    -73.467453,
+    45.473621,
+    -73.467453,
+    45.473621
+],
+  "geometry": {"coordinates":[-73.46745300000001,45.473621],"type":"Point"}
 }

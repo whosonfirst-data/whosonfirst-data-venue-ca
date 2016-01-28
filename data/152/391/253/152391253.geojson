@@ -2,13 +2,14 @@
   "id": 152391253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.6539,45.537895,-73.6539,45.537895",
     "geom:latitude":45.537895,
     "geom:longitude":-73.6539,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9250 Av Du Parc",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"df52580265dbd4353337f8c540335819",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152391253
         }
     ],
     "wof:id":152391253,
-    "wof:lastmodified":1449047254,
+    "wof:lastmodified":1453935066,
     "wof:name":"Rap Demim Inc",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.6539,45.537895,-73.6539,45.537895],
-  "geometry": {"coordinates":[-73.6539,45.537895],"type":"Point"}
+  "bbox": [
+    -73.6539,
+    45.537895,
+    -73.6539,
+    45.537895
+],
+  "geometry": {"coordinates":[-73.65389999999999,45.537895],"type":"Point"}
 }

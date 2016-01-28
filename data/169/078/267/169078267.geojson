@@ -2,13 +2,14 @@
   "id": 169078267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.772652,45.596577,-73.772652,45.596577",
     "geom:latitude":45.596577,
     "geom:longitude":-73.772652,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6055 Boul Des Rossignols",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871107,
+        102191575,
         85633041,
-        85871107
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"90cc67427b0946d4098aa4986f80b967",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871107,
+            "region_id":136251273,
             "venue_id":169078267
         }
     ],
     "wof:id":169078267,
-    "wof:lastmodified":1449035450,
+    "wof:lastmodified":1453931666,
     "wof:name":"Lautar Inc",
     "wof:parent_id":85871107,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.772652,45.596577,-73.772652,45.596577],
-  "geometry": {"coordinates":[-73.772652,45.596577],"type":"Point"}
+  "bbox": [
+    -73.772652,
+    45.596577,
+    -73.772652,
+    45.596577
+],
+  "geometry": {"coordinates":[-73.77265199999999,45.596577],"type":"Point"}
 }

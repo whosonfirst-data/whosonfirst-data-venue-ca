@@ -2,13 +2,14 @@
   "id": 152335263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.65432,43.695183,-79.65432,43.695183",
     "geom:latitude":43.695183,
     "geom:longitude":-79.65432,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7040 Torbram Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102555091,
+        85866433,
+        102191575,
         85633041,
-        85895633,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -40,22 +44,29 @@
     "wof:geomhash":"da44f4f2277fa72cf00cd2c6cca92f8d",
     "wof:hierarchy":[
         {
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":85895633,
+            "locality_id":101735835,
+            "neighbourhood_id":85866433,
             "region_id":85682057,
             "venue_id":152335263
         }
     ],
     "wof:id":152335263,
-    "wof:lastmodified":1449047348,
+    "wof:lastmodified":1453935136,
     "wof:name":"Aircon",
-    "wof:parent_id":85895633,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.65432,43.695183,-79.65432,43.695183],
+  "bbox": [
+    -79.65432,
+    43.695183,
+    -79.65432,
+    43.695183
+],
   "geometry": {"coordinates":[-79.65432,43.695183],"type":"Point"}
 }

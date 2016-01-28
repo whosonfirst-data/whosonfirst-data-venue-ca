@@ -2,13 +2,14 @@
   "id": 152630193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.404053,43.405289,-80.404053,43.405289",
     "geom:latitude":43.405289,
     "geom:longitude":-80.404053,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"28 Maple Manor Crt",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874997,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"11ff8f8f2e1ad943171698ba69528088",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874997,
+            "region_id":85682057,
+            "venue_id":152630193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736143,
             "neighbourhood_id":85874997,
             "region_id":85682057,
             "venue_id":152630193
         }
     ],
     "wof:id":152630193,
-    "wof:lastmodified":1449045963,
+    "wof:lastmodified":1453934090,
     "wof:name":"Regional Safety Inc",
     "wof:parent_id":85874997,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.404053,43.405289,-80.404053,43.405289],
+  "bbox": [
+    -80.404053,
+    43.405289,
+    -80.404053,
+    43.405289
+],
   "geometry": {"coordinates":[-80.404053,43.405289],"type":"Point"}
 }

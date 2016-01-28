@@ -2,13 +2,14 @@
   "id": 153045665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.568275,45.487526,-73.568275,45.487526",
     "geom:latitude":45.487526,
     "geom:longitude":-73.568275,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"417 Rue Des Seigneurs",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897609,
+        102191575,
         85633041,
-        85897609
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"eca4f3a5639502c30079caf03abea0d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897609,
+            "region_id":136251273,
             "venue_id":153045665
         }
     ],
     "wof:id":153045665,
-    "wof:lastmodified":1449040766,
+    "wof:lastmodified":1453932683,
     "wof:name":"Amstutz Mac Kenzie",
     "wof:parent_id":85897609,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.568275,45.487526,-73.568275,45.487526],
+  "bbox": [
+    -73.568275,
+    45.487526,
+    -73.568275,
+    45.487526
+],
   "geometry": {"coordinates":[-73.568275,45.487526],"type":"Point"}
 }

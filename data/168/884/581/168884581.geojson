@@ -2,13 +2,14 @@
   "id": 168884581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.817314,45.448025,-73.817314,45.448025",
     "geom:latitude":45.448025,
     "geom:longitude":-73.817314,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Av DE Winston Circle",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85784843,
+        102191575,
         85633041,
-        85784843
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"7d4e692c0b4bdc0c70f7403678c9e00f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85784843,
+            "region_id":136251273,
             "venue_id":168884581
         }
     ],
     "wof:id":168884581,
-    "wof:lastmodified":1449028429,
+    "wof:lastmodified":1453928512,
     "wof:name":"Galerie Quartier Des Arts",
     "wof:parent_id":85784843,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.817314,45.448025,-73.817314,45.448025],
+  "bbox": [
+    -73.817314,
+    45.448025,
+    -73.817314,
+    45.448025
+],
   "geometry": {"coordinates":[-73.817314,45.448025],"type":"Point"}
 }

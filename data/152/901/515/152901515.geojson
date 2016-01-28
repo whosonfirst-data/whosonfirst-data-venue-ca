@@ -2,13 +2,14 @@
   "id": 152901515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.441963,50.705338,-120.441963,50.705338",
     "geom:latitude":50.705338,
     "geom:longitude":-120.441963,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3025 Airport Rd",
     "sg:city":"Kamloops",
     "sg:classifiers":[
@@ -24,8 +25,11 @@
     "sg:province":"BC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741047,
+        102555499,
+        85865045,
+        102191575,
         85633041,
+        101741047,
         85682117
     ],
     "wof:breaches":[],
@@ -36,21 +40,29 @@
     "wof:geomhash":"7f93762554d55c98ff1895a4598d3d3b",
     "wof:hierarchy":[
         {
+            "campus_id":102555499,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741047,
+            "neighbourhood_id":85865045,
             "region_id":85682117,
             "venue_id":152901515
         }
     ],
     "wof:id":152901515,
-    "wof:lastmodified":1449046251,
+    "wof:lastmodified":1453934305,
     "wof:name":"Toast Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":102555499,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.441963,50.705338,-120.441963,50.705338],
+  "bbox": [
+    -120.441963,
+    50.705338,
+    -120.441963,
+    50.705338
+],
   "geometry": {"coordinates":[-120.441963,50.705338],"type":"Point"}
 }

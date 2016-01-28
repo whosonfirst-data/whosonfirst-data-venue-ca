@@ -2,13 +2,14 @@
   "id": 169361655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.666306,43.449047,-79.666306,43.449047",
     "geom:latitude":43.449047,
     "geom:longitude":-79.666306,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"345 Church St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895269,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"e3c04788dd3d88d7c98139190ddb8be7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895269,
+            "region_id":85682057,
+            "venue_id":169361655
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895269,
             "region_id":85682057,
             "venue_id":169361655
         }
     ],
     "wof:id":169361655,
-    "wof:lastmodified":1449035081,
+    "wof:lastmodified":1453931313,
     "wof:name":"Churchill Place Retirement",
     "wof:parent_id":85895269,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.666306,43.449047,-79.666306,43.449047],
-  "geometry": {"coordinates":[-79.666306,43.449047],"type":"Point"}
+  "bbox": [
+    -79.666306,
+    43.449047,
+    -79.666306,
+    43.449047
+],
+  "geometry": {"coordinates":[-79.66630600000001,43.449047],"type":"Point"}
 }

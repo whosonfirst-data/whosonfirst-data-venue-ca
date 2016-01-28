@@ -2,13 +2,14 @@
   "id": 152190965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.565849,45.520119,-73.565849,45.520119",
     "geom:latitude":45.520119,
     "geom:longitude":-73.565849,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"908 Rue Sherbrooke O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866475,
+        102191575,
         85633041,
-        85866475
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"498c8ac300cea4e268c4c9f117daec7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
+            "region_id":136251273,
             "venue_id":152190965
         }
     ],
     "wof:id":152190965,
-    "wof:lastmodified":1449048626,
+    "wof:lastmodified":1453936112,
     "wof:name":"Abacus",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.565849,45.520119,-73.565849,45.520119],
+  "bbox": [
+    -73.565849,
+    45.520119,
+    -73.565849,
+    45.520119
+],
   "geometry": {"coordinates":[-73.565849,45.520119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169148563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.944069,45.396736,-71.944069,45.396736",
     "geom:latitude":45.396736,
     "geom:longitude":-71.944069,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2990 Rue King O",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874131,
+        102191575,
         85633041,
-        85874131
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"68284504d33c1e31503828b63e76ff3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
+            "region_id":136251273,
             "venue_id":169148563
         }
     ],
     "wof:id":169148563,
-    "wof:lastmodified":1449035442,
+    "wof:lastmodified":1453931655,
     "wof:name":"Quebec Manadataires",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.944069,45.396736,-71.944069,45.396736],
+  "bbox": [
+    -71.944069,
+    45.396736,
+    -71.944069,
+    45.396736
+],
   "geometry": {"coordinates":[-71.944069,45.396736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169472265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.177017,45.296982,-74.177017,45.296982",
     "geom:latitude":45.296982,
     "geom:longitude":-74.177017,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Coteau-Du-Lac",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736785,
+        85897645,
+        102191575,
         85633041,
-        85897645
+        101736785,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"25269e27500367410057f50752e5171b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736785,
             "neighbourhood_id":85897645,
+            "region_id":136251273,
             "venue_id":169472265
         }
     ],
     "wof:id":169472265,
-    "wof:lastmodified":1449032935,
+    "wof:lastmodified":1453929057,
     "wof:name":"Coteau-Du-Lac Patinoire Parc",
     "wof:parent_id":85897645,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.177017,45.296982,-74.177017,45.296982],
-  "geometry": {"coordinates":[-74.177017,45.296982],"type":"Point"}
+  "bbox": [
+    -74.177017,
+    45.296982,
+    -74.177017,
+    45.296982
+],
+  "geometry": {"coordinates":[-74.17701700000001,45.296982],"type":"Point"}
 }

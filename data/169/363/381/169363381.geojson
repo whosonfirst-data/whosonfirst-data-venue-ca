@@ -2,13 +2,14 @@
   "id": 169363381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.379005,43.94339,-79.379005,43.94339",
     "geom:latitude":43.94339,
     "geom:longitude":-79.379005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"31 Norbett Dr",
     "sg:city":"Gormley",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895629,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"3bd8df996b8ea56a94785259dbc3807a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895629,
+            "region_id":85682057,
+            "venue_id":169363381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895629,
             "region_id":85682057,
             "venue_id":169363381
         }
     ],
     "wof:id":169363381,
-    "wof:lastmodified":1449035553,
+    "wof:lastmodified":1453931801,
     "wof:name":"Cobra Slinger Mfg Inc",
     "wof:parent_id":85895629,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.379005,43.94339,-79.379005,43.94339],
-  "geometry": {"coordinates":[-79.379005,43.94339],"type":"Point"}
+  "bbox": [
+    -79.379005,
+    43.94339,
+    -79.379005,
+    43.94339
+],
+  "geometry": {"coordinates":[-79.37900500000001,43.94339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169018307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.287704,43.182037,-79.287704,43.182037",
     "geom:latitude":43.182037,
     "geom:longitude":-79.287704,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1406 Third St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875035,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"7847b17a821da08f675de25940131a95",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875035,
+            "region_id":85682057,
+            "venue_id":169018307
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875035,
             "region_id":85682057,
             "venue_id":169018307
         }
     ],
     "wof:id":169018307,
-    "wof:lastmodified":1449034327,
+    "wof:lastmodified":1453930502,
     "wof:name":"Westport Golf Practice",
     "wof:parent_id":85875035,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.287704,43.182037,-79.287704,43.182037],
-  "geometry": {"coordinates":[-79.287704,43.182037],"type":"Point"}
+  "bbox": [
+    -79.287704,
+    43.182037,
+    -79.287704,
+    43.182037
+],
+  "geometry": {"coordinates":[-79.28770400000001,43.182037],"type":"Point"}
 }

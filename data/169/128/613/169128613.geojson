@@ -2,13 +2,14 @@
   "id": 169128613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.544533,46.343506,-72.544533,46.343506",
     "geom:latitude":46.343506,
     "geom:longitude":-72.544533,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"473 Rue Radisson",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874119,
+        102191575,
         85633041,
-        85874119
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f8d4aa24b621ed2cfef7ab01432804c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
+            "region_id":136251273,
             "venue_id":169128613
         }
     ],
     "wof:id":169128613,
-    "wof:lastmodified":1449033966,
+    "wof:lastmodified":1453930125,
     "wof:name":"Bordeleau, Pierre",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.544533,46.343506,-72.544533,46.343506],
+  "bbox": [
+    -72.544533,
+    46.343506,
+    -72.544533,
+    46.343506
+],
   "geometry": {"coordinates":[-72.544533,46.343506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152502295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673233,52.163769,-106.673233,52.163769",
     "geom:latitude":52.163769,
     "geom:longitude":-106.673233,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saskatoon",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740015,
-        85633041,
+        102555161,
         85784799,
+        102191575,
+        85633041,
+        101740015,
         85682113
     ],
     "wof:breaches":[],
@@ -39,6 +42,8 @@
     "wof:geomhash":"81aa31906ba072862667f5591d6aa09a",
     "wof:hierarchy":[
         {
+            "campus_id":102555161,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740015,
             "neighbourhood_id":85784799,
@@ -47,14 +52,19 @@
         }
     ],
     "wof:id":152502295,
-    "wof:lastmodified":1449046427,
+    "wof:lastmodified":1453934455,
     "wof:name":"Chef-Redi Meats Inc",
-    "wof:parent_id":85784799,
+    "wof:parent_id":102555161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.673233,52.163769,-106.673233,52.163769],
+  "bbox": [
+    -106.673233,
+    52.163769,
+    -106.673233,
+    52.163769
+],
   "geometry": {"coordinates":[-106.673233,52.163769],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219612095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.543221,45.547325,-73.543221,45.547325",
     "geom:latitude":45.547325,
     "geom:longitude":-73.543221,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3798 Rue Ontario E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874387,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"0b3904e3539f4b93c8517dc9d7b8ca56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219612095
         }
     ],
     "wof:id":219612095,
-    "wof:lastmodified":1449071953,
+    "wof:lastmodified":1453937752,
     "wof:name":"Salon DE Billard Orleans",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-73.543221,45.547325,-73.543221,45.547325],
+  "bbox": [
+    -73.543221,
+    45.547325,
+    -73.543221,
+    45.547325
+],
   "geometry": {"coordinates":[-73.543221,45.547325],"type":"Point"}
 }

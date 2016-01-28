@@ -2,13 +2,14 @@
   "id": 169324015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.357208,43.395416,-80.357208,43.395416",
     "geom:latitude":43.395416,
     "geom:longitude":-80.357208,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"769 King St E",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874989,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"60a7420234082ed1f5c883b93a464636",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874989,
+            "region_id":85682057,
+            "venue_id":169324015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736143,
             "neighbourhood_id":85874989,
             "region_id":85682057,
             "venue_id":169324015
         }
     ],
     "wof:id":169324015,
-    "wof:lastmodified":1449034613,
+    "wof:lastmodified":1453930816,
     "wof:name":"Mary's Nails",
     "wof:parent_id":85874989,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.357208,43.395416,-80.357208,43.395416],
+  "bbox": [
+    -80.357208,
+    43.395416,
+    -80.357208,
+    43.395416
+],
   "geometry": {"coordinates":[-80.357208,43.395416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169149795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.386292,43.845379,-79.386292,43.845379",
     "geom:latitude":43.845379,
     "geom:longitude":-79.386292,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"30 Wertheim Crt # 8",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895681,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5b9397a918b5bf7f5d24ffeb7489d0bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895681,
+            "region_id":85682057,
+            "venue_id":169149795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895681,
             "region_id":85682057,
             "venue_id":169149795
         }
     ],
     "wof:id":169149795,
-    "wof:lastmodified":1449032696,
+    "wof:lastmodified":1453928806,
     "wof:name":"Lee, Andy C CA",
     "wof:parent_id":85895681,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.386292,43.845379,-79.386292,43.845379],
+  "bbox": [
+    -79.386292,
+    43.845379,
+    -79.386292,
+    43.845379
+],
   "geometry": {"coordinates":[-79.386292,43.845379],"type":"Point"}
 }

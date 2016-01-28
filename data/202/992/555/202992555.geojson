@@ -2,13 +2,14 @@
   "id": 202992555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.05825,48.427383,-71.05825,48.427383",
     "geom:latitude":48.427383,
     "geom:longitude":-71.05825,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"334 Rue Racine E",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785001,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"3eb5e3b7abd2cf992b3d46b382941d33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202992555
         }
     ],
     "wof:id":202992555,
-    "wof:lastmodified":1449061316,
+    "wof:lastmodified":1453937232,
     "wof:name":"Auberge Bosse",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [-71.05825,48.427383,-71.05825,48.427383],
+  "bbox": [
+    -71.05825,
+    48.427383,
+    -71.05825,
+    48.427383
+],
   "geometry": {"coordinates":[-71.05825,48.427383],"type":"Point"}
 }

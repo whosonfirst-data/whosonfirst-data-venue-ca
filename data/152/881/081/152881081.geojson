@@ -2,13 +2,14 @@
   "id": 152881081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585884,45.481667,-73.585884,45.481667",
     "geom:latitude":45.481667,
     "geom:longitude":-73.585884,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3711 Rue Saint-Antoine O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85897627,
+        102191575,
         85633041,
-        85897627
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"6550e1c3ce01f807599870c99217e245",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897627,
+            "region_id":136251273,
             "venue_id":152881081
         }
     ],
     "wof:id":152881081,
-    "wof:lastmodified":1449046985,
+    "wof:lastmodified":1453934857,
     "wof:name":"Imperial Tobacco Canada Ltd",
     "wof:parent_id":85897627,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.585884,45.481667,-73.585884,45.481667],
-  "geometry": {"coordinates":[-73.585884,45.481667],"type":"Point"}
+  "bbox": [
+    -73.585884,
+    45.481667,
+    -73.585884,
+    45.481667
+],
+  "geometry": {"coordinates":[-73.58588399999999,45.481667],"type":"Point"}
 }

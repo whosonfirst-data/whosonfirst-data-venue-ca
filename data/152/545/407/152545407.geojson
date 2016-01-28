@@ -2,13 +2,14 @@
   "id": 152545407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.18866,43.008671,-81.18866,43.008671",
     "geom:latitude":43.008671,
     "geom:longitude":-81.18866,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"555 Third St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -29,23 +30,43 @@
         "award"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QkWzBiF5nIsqvOathV8Nw_43.008671_-81.188660@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"47c816cdd22d0ba68eed44c31bc1c50c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":152545407
+        }
+    ],
     "wof:id":152545407,
-    "wof:lastmodified":1449045407,
+    "wof:lastmodified":1453933676,
     "wof:name":"Ross Trophies",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.18866,43.008671,-81.18866,43.008671],
+  "bbox": [
+    -81.18866,
+    43.008671,
+    -81.18866,
+    43.008671
+],
   "geometry": {"coordinates":[-81.18866,43.008671],"type":"Point"}
 }

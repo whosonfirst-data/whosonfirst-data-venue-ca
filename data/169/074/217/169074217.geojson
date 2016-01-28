@@ -2,13 +2,14 @@
   "id": 169074217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.855011,45.446198,-73.855011,45.446198",
     "geom:latitude":45.446198,
     "geom:longitude":-73.855011,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15 Boul Kirkland",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736461,
+        85864411,
+        102191575,
         85633041,
-        85864411
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ce6271927191f3047dfa1a8bad0c939a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85864411,
+            "region_id":136251273,
             "venue_id":169074217
         }
     ],
     "wof:id":169074217,
-    "wof:lastmodified":1449034470,
+    "wof:lastmodified":1453930660,
     "wof:name":"R B Intermark Inc",
     "wof:parent_id":85864411,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.855011,45.446198,-73.855011,45.446198],
+  "bbox": [
+    -73.855011,
+    45.446198,
+    -73.855011,
+    45.446198
+],
   "geometry": {"coordinates":[-73.855011,45.446198],"type":"Point"}
 }

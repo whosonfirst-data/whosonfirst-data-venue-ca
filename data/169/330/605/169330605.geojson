@@ -2,13 +2,14 @@
   "id": 169330605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.83493,45.605984,-73.83493,45.605984",
     "geom:latitude":45.605984,
     "geom:longitude":-73.83493,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"403 Ch DE LA Grande-Cote",
     "sg:city":"Boisbriand",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"54fcf92d424ffa135c40e071994dd28b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":169330605
         }
     ],
     "wof:id":169330605,
-    "wof:lastmodified":1449034332,
+    "wof:lastmodified":1453930509,
     "wof:name":"Coiffure Grain DE Beaute",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.83493,45.605984,-73.83493,45.605984],
+  "bbox": [
+    -73.83493,
+    45.605984,
+    -73.83493,
+    45.605984
+],
   "geometry": {"coordinates":[-73.83493,45.605984],"type":"Point"}
 }

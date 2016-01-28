@@ -2,13 +2,14 @@
   "id": 152933713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.273773,43.172882,-79.273773,43.172882",
     "geom:latitude":43.172882,
     "geom:longitude":-79.273773,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864569,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c37e7334f1c75c5af8ecd176f757b695",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864569,
+            "region_id":85682057,
+            "venue_id":152933713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864569,
             "region_id":85682057,
             "venue_id":152933713
         }
     ],
     "wof:id":152933713,
-    "wof:lastmodified":1449045253,
+    "wof:lastmodified":1453933550,
     "wof:name":"Ladson Creative Mill Work",
     "wof:parent_id":85864569,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.273773,43.172882,-79.273773,43.172882],
-  "geometry": {"coordinates":[-79.273773,43.172882],"type":"Point"}
+  "bbox": [
+    -79.273773,
+    43.172882,
+    -79.273773,
+    43.172882
+],
+  "geometry": {"coordinates":[-79.27377300000001,43.172882],"type":"Point"}
 }

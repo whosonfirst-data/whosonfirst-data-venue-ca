@@ -2,13 +2,14 @@
   "id": 169383583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.82148,45.503014,-73.82148,45.503014",
     "geom:latitude":45.503014,
     "geom:longitude":-73.82148,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"47 Rue Trottier",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"c02b7e4cac08dc11e238568885e82141",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":169383583
         }
     ],
     "wof:id":169383583,
-    "wof:lastmodified":1449034070,
+    "wof:lastmodified":1453930266,
     "wof:name":"Bodyshield",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.82148,45.503014,-73.82148,45.503014],
-  "geometry": {"coordinates":[-73.82148,45.503014],"type":"Point"}
+  "bbox": [
+    -73.82148,
+    45.503014,
+    -73.82148,
+    45.503014
+],
+  "geometry": {"coordinates":[-73.82147999999999,45.503014],"type":"Point"}
 }

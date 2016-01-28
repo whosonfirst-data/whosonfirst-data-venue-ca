@@ -2,13 +2,14 @@
   "id": 202970681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.191246,45.590775,-73.191246,45.590775",
     "geom:latitude":45.590775,
     "geom:longitude":-73.191246,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1810 Rue Richelieu",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897639,
+        102191575,
         85633041,
-        101738793
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"63e9e2640c59f0758fa7f26293da4753",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202970681
         }
     ],
     "wof:id":202970681,
-    "wof:lastmodified":1449062588,
+    "wof:lastmodified":1453937494,
     "wof:name":"Hostellerie Rive Gauche",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.191246,45.590775,-73.191246,45.590775],
-  "geometry": {"coordinates":[-73.191246,45.590775],"type":"Point"}
+  "bbox": [
+    -73.191246,
+    45.590775,
+    -73.191246,
+    45.590775
+],
+  "geometry": {"coordinates":[-73.19124600000001,45.590775],"type":"Point"}
 }

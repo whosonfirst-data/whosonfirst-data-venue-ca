@@ -2,13 +2,14 @@
   "id": 168979453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.230576,42.984753,-81.230576,42.984753",
     "geom:latitude":42.984753,
     "geom:longitude":-81.230576,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"663 Bathurst St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x7H0mWpXVdk30E4GORxh6_42.984753_-81.230576@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f1ac6114e46da4bfdf5d9b7ced7d6451",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":168979453
+        }
+    ],
     "wof:id":168979453,
-    "wof:lastmodified":1449028322,
+    "wof:lastmodified":1453928395,
     "wof:name":"London Purchasing Div",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.230576,42.984753,-81.230576,42.984753],
+  "bbox": [
+    -81.230576,
+    42.984753,
+    -81.230576,
+    42.984753
+],
   "geometry": {"coordinates":[-81.230576,42.984753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169143005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.785187,43.354652,-79.785187,43.354652",
     "geom:latitude":43.354652,
     "geom:longitude":-79.785187,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3365 Fairview St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895369,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a3953ce2fc333d20eb3577f7f91cf17d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895369,
+            "region_id":85682057,
+            "venue_id":169143005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895369,
             "region_id":85682057,
             "venue_id":169143005
         }
     ],
     "wof:id":169143005,
-    "wof:lastmodified":1449035406,
+    "wof:lastmodified":1453931607,
     "wof:name":"Ultra Food & Drug",
     "wof:parent_id":85895369,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.785187,43.354652,-79.785187,43.354652],
-  "geometry": {"coordinates":[-79.785187,43.354652],"type":"Point"}
+  "bbox": [
+    -79.785187,
+    43.354652,
+    -79.785187,
+    43.354652
+],
+  "geometry": {"coordinates":[-79.78518699999999,43.354652],"type":"Point"}
 }

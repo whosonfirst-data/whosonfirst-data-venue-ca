@@ -2,13 +2,14 @@
   "id": 169398269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.281067,46.842323,-71.281067,46.842323",
     "geom:latitude":46.842323,
     "geom:longitude":-71.281067,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"780 Boul Lebourgneuf #10",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864425,
+        102191575,
         85633041,
-        85864425
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"342bc97ba7af7ebc801c2c1dd635c34a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864425,
+            "region_id":136251273,
             "venue_id":169398269
         }
     ],
     "wof:id":169398269,
-    "wof:lastmodified":1449032944,
+    "wof:lastmodified":1453929065,
     "wof:name":"Jardin Lebourgneuf",
     "wof:parent_id":85864425,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.281067,46.842323,-71.281067,46.842323],
-  "geometry": {"coordinates":[-71.281067,46.842323],"type":"Point"}
+  "bbox": [
+    -71.281067,
+    46.842323,
+    -71.281067,
+    46.842323
+],
+  "geometry": {"coordinates":[-71.28106699999999,46.842323],"type":"Point"}
 }

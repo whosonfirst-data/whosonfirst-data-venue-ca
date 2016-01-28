@@ -2,13 +2,14 @@
   "id": 152668483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.774834,45.658298,-73.774834,45.658298",
     "geom:latitude":45.658298,
     "geom:longitude":-73.774834,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"31 Boul DE Gaulle",
     "sg:city":"Lorraine",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784663,
+        102191575,
         85633041,
-        85784663
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"f63542f045fb5f2cd732eab1a317e518",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784663,
+            "region_id":136251273,
             "venue_id":152668483
         }
     ],
     "wof:id":152668483,
-    "wof:lastmodified":1449047520,
+    "wof:lastmodified":1453935275,
     "wof:name":"Lorraine Bibliotheque",
     "wof:parent_id":85784663,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.774834,45.658298,-73.774834,45.658298],
+  "bbox": [
+    -73.774834,
+    45.658298,
+    -73.774834,
+    45.658298
+],
   "geometry": {"coordinates":[-73.774834,45.658298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169535533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.733894,45.454288,-73.733894,45.454288",
     "geom:latitude":45.454288,
     "geom:longitude":-73.733894,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Dorval",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        102554351,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,21 +42,29 @@
     "wof:geomhash":"09b1f045b85e36fab584358de8a2e50f",
     "wof:hierarchy":[
         {
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":169535533
         }
     ],
     "wof:id":169535533,
-    "wof:lastmodified":1449033283,
+    "wof:lastmodified":1453929397,
     "wof:name":"Hkk Transport Inc",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.733894,45.454288,-73.733894,45.454288],
-  "geometry": {"coordinates":[-73.733894,45.454288],"type":"Point"}
+  "bbox": [
+    -73.733894,
+    45.454288,
+    -73.733894,
+    45.454288
+],
+  "geometry": {"coordinates":[-73.73389400000001,45.454288],"type":"Point"}
 }

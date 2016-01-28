@@ -2,13 +2,14 @@
   "id": 152588155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.243134,43.112328,-79.243134,43.112328",
     "geom:latitude":43.112328,
     "geom:longitude":-79.243134,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Thorold",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864483,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"cc4965863993a7d1055fb26f294d6f65",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864483,
+            "region_id":85682057,
+            "venue_id":152588155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85864483,
             "region_id":85682057,
             "venue_id":152588155
         }
     ],
     "wof:id":152588155,
-    "wof:lastmodified":1449048012,
+    "wof:lastmodified":1453935662,
     "wof:name":"Coyne, James G DDS",
     "wof:parent_id":85864483,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.243134,43.112328,-79.243134,43.112328],
+  "bbox": [
+    -79.243134,
+    43.112328,
+    -79.243134,
+    43.112328
+],
   "geometry": {"coordinates":[-79.243134,43.112328],"type":"Point"}
 }

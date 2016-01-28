@@ -2,13 +2,14 @@
   "id": 152388803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.280525,42.969566,-81.280525,42.969566",
     "geom:latitude":42.969566,
     "geom:longitude":-81.280525,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"360 Springbank Dr",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6J 1G5",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864623,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IKu2Sd06H8uGZfg1h3Jz1_42.969566_-81.280525@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c6db351cb24dfa1249e19fda53669bd2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864623,
+            "region_id":85682057,
+            "venue_id":152388803
+        }
+    ],
     "wof:id":152388803,
-    "wof:lastmodified":1449044468,
+    "wof:lastmodified":1453932955,
     "wof:name":"Cyzzle Cycles",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.280525,42.969566,-81.280525,42.969566],
+  "bbox": [
+    -81.280525,
+    42.969566,
+    -81.280525,
+    42.969566
+],
   "geometry": {"coordinates":[-81.280525,42.969566],"type":"Point"}
 }

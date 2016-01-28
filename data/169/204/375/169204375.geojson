@@ -2,13 +2,14 @@
   "id": 169204375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.443489,45.565258,-73.443489,45.565258",
     "geom:latitude":45.565258,
     "geom:longitude":-73.443489,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1261 Rue Volta",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875753,
+        102191575,
         85633041,
-        85875753
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"715026e3e74a119f87d95563f2c3ce64",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
+            "region_id":136251273,
             "venue_id":169204375
         }
     ],
     "wof:id":169204375,
-    "wof:lastmodified":1449036060,
+    "wof:lastmodified":1453932300,
     "wof:name":"Abf System Inc",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.443489,45.565258,-73.443489,45.565258],
+  "bbox": [
+    -73.443489,
+    45.565258,
+    -73.443489,
+    45.565258
+],
   "geometry": {"coordinates":[-73.443489,45.565258],"type":"Point"}
 }

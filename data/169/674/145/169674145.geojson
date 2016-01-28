@@ -2,13 +2,14 @@
   "id": 169674145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.225159,46.815117,-71.225159,46.815117",
     "geom:latitude":46.815117,
     "geom:longitude":-71.225159,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"333 Rue DE LA Couronne",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866509,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"034f16950a340babc982735dc8a2f4e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866509,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169674145
         }
     ],
     "wof:id":169674145,
-    "wof:lastmodified":1449035137,
+    "wof:lastmodified":1453931362,
     "wof:name":"Depanneur Proprio",
     "wof:parent_id":85866509,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-71.225159,46.815117,-71.225159,46.815117],
+  "bbox": [
+    -71.225159,
+    46.815117,
+    -71.225159,
+    46.815117
+],
   "geometry": {"coordinates":[-71.225159,46.815117],"type":"Point"}
 }

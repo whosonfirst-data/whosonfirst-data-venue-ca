@@ -2,13 +2,14 @@
   "id": 169337507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.727081,43.654137,-79.727081,43.654137",
     "geom:latitude":43.654137,
     "geom:longitude":-79.727081,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4 Marlatt Crt",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5d31222fcc192fa948a6755af02cd5f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":169337507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":169337507
         }
     ],
     "wof:id":169337507,
-    "wof:lastmodified":1449034224,
+    "wof:lastmodified":1453930415,
     "wof:name":"West Side General Contracting",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.727081,43.654137,-79.727081,43.654137],
+  "bbox": [
+    -79.727081,
+    43.654137,
+    -79.727081,
+    43.654137
+],
   "geometry": {"coordinates":[-79.727081,43.654137],"type":"Point"}
 }

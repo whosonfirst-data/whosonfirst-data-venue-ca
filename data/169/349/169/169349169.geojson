@@ -2,13 +2,14 @@
   "id": 169349169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.840782,43.871758,-78.840782,43.871758",
     "geom:latitude":43.871758,
     "geom:longitude":-78.840782,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1188 Simcoe St S #11",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864469,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"77642ac47748548e77c25982c8231a51",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85864469,
+            "region_id":85682057,
+            "venue_id":169349169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85864469,
             "region_id":85682057,
             "venue_id":169349169
         }
     ],
     "wof:id":169349169,
-    "wof:lastmodified":1449033941,
+    "wof:lastmodified":1453930104,
     "wof:name":"Trader Joe's 2nd Hand Store",
     "wof:parent_id":85864469,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.840782,43.871758,-78.840782,43.871758],
+  "bbox": [
+    -78.840782,
+    43.871758,
+    -78.840782,
+    43.871758
+],
   "geometry": {"coordinates":[-78.840782,43.871758],"type":"Point"}
 }

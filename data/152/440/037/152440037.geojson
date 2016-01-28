@@ -2,13 +2,14 @@
   "id": 152440037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.711639,45.433495,-75.711639,45.433495",
     "geom:latitude":45.433495,
     "geom:longitude":-75.711639,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"239 Rue Champlain",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d0c4fe226e231db6c7ae48b003543d3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":152440037
         }
     ],
     "wof:id":152440037,
-    "wof:lastmodified":1449045952,
+    "wof:lastmodified":1453934080,
     "wof:name":"Marc Levesque Peinture & Decor",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.711639,45.433495,-75.711639,45.433495],
-  "geometry": {"coordinates":[-75.711639,45.433495],"type":"Point"}
+  "bbox": [
+    -75.711639,
+    45.433495,
+    -75.711639,
+    45.433495
+],
+  "geometry": {"coordinates":[-75.71163900000001,45.433495],"type":"Point"}
 }

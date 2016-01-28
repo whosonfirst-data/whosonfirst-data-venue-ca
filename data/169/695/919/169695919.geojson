@@ -2,13 +2,14 @@
   "id": 169695919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.60479,45.749279,-73.60479,45.749279",
     "geom:latitude":45.749279,
     "geom:longitude":-73.60479,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2884 Ch Sainte-Marie",
     "sg:city":"Mascouche",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897643,
+        102191575,
         85633041,
-        101737337
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"98273fe2a5a838f545d3b9737115c154",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169695919
         }
     ],
     "wof:id":169695919,
-    "wof:lastmodified":1449033943,
+    "wof:lastmodified":1453930108,
     "wof:name":"Patisserie Madeline",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.60479,45.749279,-73.60479,45.749279],
-  "geometry": {"coordinates":[-73.60479,45.749279],"type":"Point"}
+  "bbox": [
+    -73.60479,
+    45.749279,
+    -73.60479,
+    45.749279
+],
+  "geometry": {"coordinates":[-73.60478999999999,45.749279],"type":"Point"}
 }

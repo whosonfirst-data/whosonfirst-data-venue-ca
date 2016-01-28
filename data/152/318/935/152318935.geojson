@@ -2,13 +2,14 @@
   "id": 152318935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.206482,45.563076,-73.206482,45.563076",
     "geom:latitude":45.563076,
     "geom:longitude":-73.206482,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"624 Boul Sir-Wilfrid-Laurier",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738643,
+        85894591,
+        102191575,
         85633041,
-        85894591
+        101738643,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3ebf1990ba1cb6bbdeeb15b549a8cd49",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738643,
             "neighbourhood_id":85894591,
+            "region_id":136251273,
             "venue_id":152318935
         }
     ],
     "wof:id":152318935,
-    "wof:lastmodified":1449045324,
+    "wof:lastmodified":1453933610,
     "wof:name":"Garage Hubert Normand Inc",
     "wof:parent_id":85894591,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.206482,45.563076,-73.206482,45.563076],
-  "geometry": {"coordinates":[-73.206482,45.563076],"type":"Point"}
+  "bbox": [
+    -73.206482,
+    45.563076,
+    -73.206482,
+    45.563076
+],
+  "geometry": {"coordinates":[-73.20648199999999,45.563076],"type":"Point"}
 }

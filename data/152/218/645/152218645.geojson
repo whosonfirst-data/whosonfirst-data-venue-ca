@@ -2,13 +2,14 @@
   "id": 152218645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.473,45.753788,-73.473,45.753788",
     "geom:latitude":45.753788,
     "geom:longitude":-73.473,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"91 Rue Saint-Paul",
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"18791260874aa23348ed5a185d2786e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":152218645
         }
     ],
     "wof:id":152218645,
-    "wof:lastmodified":1449047225,
+    "wof:lastmodified":1453935041,
     "wof:name":"Trinorth Equipment Inc",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.473,45.753788,-73.473,45.753788],
+  "bbox": [
+    -73.473,
+    45.753788,
+    -73.473,
+    45.753788
+],
   "geometry": {"coordinates":[-73.473,45.753788],"type":"Point"}
 }

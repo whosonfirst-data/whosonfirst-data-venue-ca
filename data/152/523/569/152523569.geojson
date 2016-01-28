@@ -2,13 +2,14 @@
   "id": 152523569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.309128,46.826168,-71.309128,46.826168",
     "geom:latitude":46.826168,
     "geom:longitude":-71.309128,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2320 Rue DE Celles",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"25a118f7778ea9ae4273471601270e07",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152523569
         }
     ],
     "wof:id":152523569,
-    "wof:lastmodified":1449046968,
+    "wof:lastmodified":1453934844,
     "wof:name":"Laboratoires D'Expertises Ltee",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.309128,46.826168,-71.309128,46.826168],
+  "bbox": [
+    -71.309128,
+    46.826168,
+    -71.309128,
+    46.826168
+],
   "geometry": {"coordinates":[-71.309128,46.826168],"type":"Point"}
 }

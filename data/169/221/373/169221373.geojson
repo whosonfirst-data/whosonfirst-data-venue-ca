@@ -2,13 +2,14 @@
   "id": 169221373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.58062,45.475201,-73.58062,45.475201",
     "geom:latitude":45.475201,
     "geom:longitude":-73.58062,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4020 Rue Saint-Ambroise",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866497,
+        102191575,
         85633041,
-        85866497
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a47a8e9fc9cbb4f24c1c6085becb1669",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866497,
+            "region_id":136251273,
             "venue_id":169221373
         }
     ],
     "wof:id":169221373,
-    "wof:lastmodified":1449034124,
+    "wof:lastmodified":1453930310,
     "wof:name":"Point Tournant Communications",
     "wof:parent_id":85866497,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.58062,45.475201,-73.58062,45.475201],
+  "bbox": [
+    -73.58062,
+    45.475201,
+    -73.58062,
+    45.475201
+],
   "geometry": {"coordinates":[-73.58062,45.475201],"type":"Point"}
 }

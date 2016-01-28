@@ -2,13 +2,14 @@
   "id": 152482343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801895,43.328312,-79.801895,43.328312",
     "geom:latitude":43.328312,
     "geom:longitude":-79.801895,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"534 Brant St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895437,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a25ae5229f9646b66eaaedc358e2ada0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895437,
+            "region_id":85682057,
+            "venue_id":152482343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895437,
             "region_id":85682057,
             "venue_id":152482343
         }
     ],
     "wof:id":152482343,
-    "wof:lastmodified":1449045954,
+    "wof:lastmodified":1453934083,
     "wof:name":"Sirius Web Labs",
     "wof:parent_id":85895437,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.801895,43.328312,-79.801895,43.328312],
+  "bbox": [
+    -79.801895,
+    43.328312,
+    -79.801895,
+    43.328312
+],
   "geometry": {"coordinates":[-79.801895,43.328312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152909495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.823692,45.461689,-73.823692,45.461689",
     "geom:latitude":45.461689,
     "geom:longitude":-73.823692,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"700 Boul Saint-Jean",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875799,
+        102191575,
         85633041,
-        85875799
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"7920b7c7eb577e961f235fe74ac24b78",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875799,
+            "region_id":136251273,
             "venue_id":152909495
         }
     ],
     "wof:id":152909495,
-    "wof:lastmodified":1449047774,
+    "wof:lastmodified":1453935482,
     "wof:name":"Comfort Inn",
     "wof:parent_id":85875799,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.823692,45.461689,-73.823692,45.461689],
-  "geometry": {"coordinates":[-73.823692,45.461689],"type":"Point"}
+  "bbox": [
+    -73.823692,
+    45.461689,
+    -73.823692,
+    45.461689
+],
+  "geometry": {"coordinates":[-73.82369199999999,45.461689],"type":"Point"}
 }

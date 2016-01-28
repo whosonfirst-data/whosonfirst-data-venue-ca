@@ -2,13 +2,14 @@
   "id": 152999723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.606758,43.778316,-79.606758,43.778316",
     "geom:latitude":43.778316,
     "geom:longitude":-79.606758,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Woodbridge",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895625,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7355bb95e4ed0326e3d17975d7eb95c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895625,
+            "region_id":85682057,
+            "venue_id":152999723
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895625,
             "region_id":85682057,
             "venue_id":152999723
         }
     ],
     "wof:id":152999723,
-    "wof:lastmodified":1449048347,
+    "wof:lastmodified":1453935908,
     "wof:name":"Marvir Contracting",
     "wof:parent_id":85895625,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.606758,43.778316,-79.606758,43.778316],
+  "bbox": [
+    -79.606758,
+    43.778316,
+    -79.606758,
+    43.778316
+],
   "geometry": {"coordinates":[-79.606758,43.778316],"type":"Point"}
 }

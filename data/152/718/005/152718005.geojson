@@ -2,13 +2,14 @@
   "id": 152718005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.724716,44.32737,-79.724716,44.32737",
     "geom:latitude":44.32737,
     "geom:longitude":-79.724716,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"211 Marsellus Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875271,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZfcgFJ0R3GpJvcf9nwtle_44.327370_-79.724716@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"03d83aeaf208ef14bd0db2c382e5d26a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875271,
+            "region_id":85682057,
+            "venue_id":152718005
+        }
+    ],
     "wof:id":152718005,
-    "wof:lastmodified":1449045302,
+    "wof:lastmodified":1453933587,
     "wof:name":"Mapleview Community Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875271,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.724716,44.32737,-79.724716,44.32737],
+  "bbox": [
+    -79.724716,
+    44.32737,
+    -79.724716,
+    44.32737
+],
   "geometry": {"coordinates":[-79.724716,44.32737],"type":"Point"}
 }

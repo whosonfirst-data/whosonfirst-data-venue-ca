@@ -2,13 +2,14 @@
   "id": 152623355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.587494,45.486256,-73.587494,45.486256",
     "geom:latitude":45.486256,
     "geom:longitude":-73.587494,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4192 Rue Sainte-Catherine O",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85897627,
+        102191575,
         85633041,
-        85897627
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"559ec06ad60f921beda01d2ad8cabeeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897627,
+            "region_id":136251273,
             "venue_id":152623355
         }
     ],
     "wof:id":152623355,
-    "wof:lastmodified":1449047539,
+    "wof:lastmodified":1453935291,
     "wof:name":"Henrietta Antony Inc",
     "wof:parent_id":85897627,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.587494,45.486256,-73.587494,45.486256],
-  "geometry": {"coordinates":[-73.587494,45.486256],"type":"Point"}
+  "bbox": [
+    -73.587494,
+    45.486256,
+    -73.587494,
+    45.486256
+],
+  "geometry": {"coordinates":[-73.58749400000001,45.486256],"type":"Point"}
 }

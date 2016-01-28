@@ -2,13 +2,14 @@
   "id": 169256399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.604729,45.550323,-73.604729,45.550323",
     "geom:latitude":45.550323,
     "geom:longitude":-73.604729,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2114 Rue Jean-Talon E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3287e2416f653c7e2a5ffa83df18d86a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":169256399
         }
     ],
     "wof:id":169256399,
-    "wof:lastmodified":1449035173,
+    "wof:lastmodified":1453931385,
     "wof:name":"Voyages Horizon 2000",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.604729,45.550323,-73.604729,45.550323],
-  "geometry": {"coordinates":[-73.604729,45.550323],"type":"Point"}
+  "bbox": [
+    -73.604729,
+    45.550323,
+    -73.604729,
+    45.550323
+],
+  "geometry": {"coordinates":[-73.60472900000001,45.550323],"type":"Point"}
 }

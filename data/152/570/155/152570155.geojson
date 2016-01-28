@@ -2,13 +2,14 @@
   "id": 152570155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.902847,45.504478,-73.902847,45.504478",
     "geom:latitude":45.504478,
     "geom:longitude":-73.902847,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"200 Rue Saint-Raphael",
     "sg:city":"L'Ile-Bizard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874393,
+        102191575,
         85633041,
-        85874393
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"36b0bbb8d3ae978bd4c8ccdc78cc5580",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874393,
+            "region_id":136251273,
             "venue_id":152570155
         }
     ],
     "wof:id":152570155,
-    "wof:lastmodified":1449047042,
+    "wof:lastmodified":1453934905,
     "wof:name":"Rene Gervais Inc",
     "wof:parent_id":85874393,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.902847,45.504478,-73.902847,45.504478],
-  "geometry": {"coordinates":[-73.902847,45.504478],"type":"Point"}
+  "bbox": [
+    -73.902847,
+    45.504478,
+    -73.902847,
+    45.504478
+],
+  "geometry": {"coordinates":[-73.90284699999999,45.504478],"type":"Point"}
 }

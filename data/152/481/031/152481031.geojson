@@ -2,13 +2,14 @@
   "id": 152481031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.266708,45.349819,-73.266708,45.349819",
     "geom:latitude":45.349819,
     "geom:longitude":-73.266708,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"144 Rue Jean-Talon",
     "sg:city":"Saint-Luc",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85864393,
+        102191575,
         85633041,
-        85864393
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8cb8bf41928b500005d66b2208bcd9b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85864393,
+            "region_id":136251273,
             "venue_id":152481031
         }
     ],
     "wof:id":152481031,
-    "wof:lastmodified":1449048330,
+    "wof:lastmodified":1453935894,
     "wof:name":"Esthetique & Electrolyse",
     "wof:parent_id":85864393,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.266708,45.349819,-73.266708,45.349819],
-  "geometry": {"coordinates":[-73.266708,45.349819],"type":"Point"}
+  "bbox": [
+    -73.266708,
+    45.349819,
+    -73.266708,
+    45.349819
+],
+  "geometry": {"coordinates":[-73.26670799999999,45.349819],"type":"Point"}
 }

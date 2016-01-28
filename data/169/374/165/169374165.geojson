@@ -2,13 +2,14 @@
   "id": 169374165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.504173,45.375874,-73.504173,45.375874",
     "geom:latitude":45.375874,
     "geom:longitude":-73.504173,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"204 Boul Jean-Leman",
     "sg:city":"Candiac",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738229,
+        85895773,
+        102191575,
         85633041,
-        85895773
+        101738229,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a31082d96d874b4bf01337f921554fea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738229,
             "neighbourhood_id":85895773,
+            "region_id":136251273,
             "venue_id":169374165
         }
     ],
     "wof:id":169374165,
-    "wof:lastmodified":1449034106,
+    "wof:lastmodified":1453930289,
     "wof:name":"Groupe Maison Candiac Inc",
     "wof:parent_id":85895773,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.504173,45.375874,-73.504173,45.375874],
-  "geometry": {"coordinates":[-73.504173,45.375874],"type":"Point"}
+  "bbox": [
+    -73.504173,
+    45.375874,
+    -73.504173,
+    45.375874
+],
+  "geometry": {"coordinates":[-73.50417299999999,45.375874],"type":"Point"}
 }

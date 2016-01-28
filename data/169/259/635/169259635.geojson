@@ -2,13 +2,14 @@
   "id": 169259635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.772583,43.879822,-78.772583,43.879822",
     "geom:latitude":43.879822,
     "geom:longitude":-78.772583,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1672 Baseline Rd W",
     "sg:city":"Courtice",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875159,
-        85682057
+        102191575,
+        85633041,
+        101736039,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"888f420fc68b24b655e93e80202af3b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736039,
+            "neighbourhood_id":85875159,
+            "region_id":85682057,
+            "venue_id":169259635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875159,
             "region_id":85682057,
             "venue_id":169259635
         }
     ],
     "wof:id":169259635,
-    "wof:lastmodified":1449033444,
+    "wof:lastmodified":1453929556,
     "wof:name":"G P Tanner Equipment Inc",
     "wof:parent_id":85875159,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.772583,43.879822,-78.772583,43.879822],
+  "bbox": [
+    -78.772583,
+    43.879822,
+    -78.772583,
+    43.879822
+],
   "geometry": {"coordinates":[-78.772583,43.879822],"type":"Point"}
 }

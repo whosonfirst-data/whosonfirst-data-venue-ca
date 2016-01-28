@@ -2,13 +2,14 @@
   "id": 169068385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620468,45.587841,-73.620468,45.587841",
     "geom:latitude":45.587841,
     "geom:longitude":-73.620468,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4755 Boul Des Grandes-Prairies",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874359,
+        102191575,
         85633041,
-        85874359
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"37a9f2f665e9f9899ac832676b74cb89",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
+            "region_id":136251273,
             "venue_id":169068385
         }
     ],
     "wof:id":169068385,
-    "wof:lastmodified":1449034379,
+    "wof:lastmodified":1453930558,
     "wof:name":"Glopak Inc",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.620468,45.587841,-73.620468,45.587841],
+  "bbox": [
+    -73.620468,
+    45.587841,
+    -73.620468,
+    45.587841
+],
   "geometry": {"coordinates":[-73.620468,45.587841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152257973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.583405,43.555199,-79.583405,43.555199",
     "geom:latitude":43.555199,
     "geom:longitude":-79.583405,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Ann St",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895115,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"7176df5617d6b85360f5bb2780878d17",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":152257973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":152257973
         }
     ],
     "wof:id":152257973,
-    "wof:lastmodified":1449045666,
+    "wof:lastmodified":1453933872,
     "wof:name":"Internet Pipeline",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.583405,43.555199,-79.583405,43.555199],
+  "bbox": [
+    -79.583405,
+    43.555199,
+    -79.583405,
+    43.555199
+],
   "geometry": {"coordinates":[-79.583405,43.555199],"type":"Point"}
 }

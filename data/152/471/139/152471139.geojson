@@ -2,13 +2,14 @@
   "id": 152471139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.344933,45.315578,-73.344933,45.315578",
     "geom:latitude":45.315578,
     "geom:longitude":-73.344933,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1322 Ch Du Clocher",
     "sg:city":"L'Acadie",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85864403,
+        102191575,
         85633041,
-        85864403
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cdc009c5518240947f80da2eda718ef4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85864403,
+            "region_id":136251273,
             "venue_id":152471139
         }
     ],
     "wof:id":152471139,
-    "wof:lastmodified":1449046160,
+    "wof:lastmodified":1453934240,
     "wof:name":"L'Acadie Centre Communautaire",
     "wof:parent_id":85864403,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.344933,45.315578,-73.344933,45.315578],
+  "bbox": [
+    -73.344933,
+    45.315578,
+    -73.344933,
+    45.315578
+],
   "geometry": {"coordinates":[-73.344933,45.315578],"type":"Point"}
 }

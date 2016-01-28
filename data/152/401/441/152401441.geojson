@@ -2,13 +2,14 @@
   "id": 152401441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.39566,43.677181,-79.39566,43.677181",
     "geom:latitude":43.677181,
     "geom:longitude":-79.39566,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"138 Roxborough St W",
     "sg:city":"Toronto",
     "sg:classifiers":[
@@ -30,9 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
         85864661,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -43,6 +45,7 @@
     "wof:geomhash":"4a5c2dca2dc2716264883b8f15071323",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85864661,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":152401441,
-    "wof:lastmodified":1449048232,
+    "wof:lastmodified":1453935816,
     "wof:name":"Bettencourt Air Ltd",
     "wof:parent_id":85864661,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.39566,43.677181,-79.39566,43.677181],
-  "geometry": {"coordinates":[-79.39566,43.677181],"type":"Point"}
+  "bbox": [
+    -79.39566,
+    43.677181,
+    -79.39566,
+    43.677181
+],
+  "geometry": {"coordinates":[-79.39566000000001,43.677181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152845531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.511024,45.498756,-73.511024,45.498756",
     "geom:latitude":45.498756,
     "geom:longitude":-73.511024,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"357 Rue Elm",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"601f5793fcf1e0237158f3f966afccc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":152845531
         }
     ],
     "wof:id":152845531,
-    "wof:lastmodified":1449045057,
+    "wof:lastmodified":1453933404,
     "wof:name":"Garage Almeida Inc",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.511024,45.498756,-73.511024,45.498756],
-  "geometry": {"coordinates":[-73.511024,45.498756],"type":"Point"}
+  "bbox": [
+    -73.511024,
+    45.498756,
+    -73.511024,
+    45.498756
+],
+  "geometry": {"coordinates":[-73.51102400000001,45.498756],"type":"Point"}
 }

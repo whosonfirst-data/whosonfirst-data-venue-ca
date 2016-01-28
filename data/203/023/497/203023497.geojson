@@ -2,13 +2,14 @@
   "id": 203023497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.46965,45.75386,-73.46965,45.75386",
     "geom:latitude":45.75386,
     "geom:longitude":-73.46965,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"433 Boul Lacombe",
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784893,
+        102191575,
         85633041,
-        101737691
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"264a5fb79701a2884c778aff2d19f094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203023497
         }
     ],
     "wof:id":203023497,
-    "wof:lastmodified":1449026689,
+    "wof:lastmodified":1453927726,
     "wof:name":"Salon Renaud",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.46965,45.75386,-73.46965,45.75386],
+  "bbox": [
+    -73.46965,
+    45.75386,
+    -73.46965,
+    45.75386
+],
   "geometry": {"coordinates":[-73.46965,45.75386],"type":"Point"}
 }

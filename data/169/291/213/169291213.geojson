@@ -2,13 +2,14 @@
   "id": 169291213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.259331,43.038464,-81.259331,43.038464",
     "geom:latitude":43.038464,
     "geom:longitude":-81.259331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1848 Phillbrook Dr",
     "sg:city":"London",
     "sg:classifiers":[
@@ -30,23 +31,43 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864487,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LRVnJ9D59LTlqGMVH0osQ_43.038464_-81.259331@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"679ff7931dac1cdd42361d4db1051b33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864487,
+            "region_id":85682057,
+            "venue_id":169291213
+        }
+    ],
     "wof:id":169291213,
-    "wof:lastmodified":1449033704,
+    "wof:lastmodified":1453929828,
     "wof:name":"Librairie Chez Lucie",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.259331,43.038464,-81.259331,43.038464],
+  "bbox": [
+    -81.259331,
+    43.038464,
+    -81.259331,
+    43.038464
+],
   "geometry": {"coordinates":[-81.259331,43.038464],"type":"Point"}
 }

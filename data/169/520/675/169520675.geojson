@@ -2,13 +2,14 @@
   "id": 169520675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.70565,45.49633,-73.70565,45.49633",
     "geom:latitude":45.49633,
     "geom:longitude":-73.70565,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"ab4fa7e442cc90670065c3981f3c1bec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169520675
         }
     ],
     "wof:id":169520675,
-    "wof:lastmodified":1449033776,
+    "wof:lastmodified":1453929929,
     "wof:name":"Parametric Technology Corp",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.70565,45.49633,-73.70565,45.49633],
-  "geometry": {"coordinates":[-73.70565,45.49633],"type":"Point"}
+  "bbox": [
+    -73.70565,
+    45.49633,
+    -73.70565,
+    45.49633
+],
+  "geometry": {"coordinates":[-73.70565000000001,45.49633],"type":"Point"}
 }

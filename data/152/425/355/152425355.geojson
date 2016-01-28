@@ -2,13 +2,14 @@
   "id": 152425355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.672684,43.534798,-79.672684,43.534798",
     "geom:latitude":43.534798,
     "geom:longitude":-79.672684,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"2a0da5f190cfd518142c7dfcbf10ac90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152425355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152425355
         }
     ],
     "wof:id":152425355,
-    "wof:lastmodified":1449045941,
+    "wof:lastmodified":1453934073,
     "wof:name":"Niscon Inc",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.672684,43.534798,-79.672684,43.534798],
+  "bbox": [
+    -79.672684,
+    43.534798,
+    -79.672684,
+    43.534798
+],
   "geometry": {"coordinates":[-79.672684,43.534798],"type":"Point"}
 }

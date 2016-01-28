@@ -2,13 +2,14 @@
   "id": 169430225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.775459,45.62384,-73.775459,45.62384",
     "geom:latitude":45.62384,
     "geom:longitude":-73.775459,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2 Boul Sainte-Rose E",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897567,
+        102191575,
         85633041,
-        85897567
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"d9ec8ce1d01098ace0a3b26fca3bd64e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897567,
+            "region_id":136251273,
             "venue_id":169430225
         }
     ],
     "wof:id":169430225,
-    "wof:lastmodified":1449034790,
+    "wof:lastmodified":1453931024,
     "wof:name":"Michel Station DE Svc Enr",
     "wof:parent_id":85897567,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.775459,45.62384,-73.775459,45.62384],
+  "bbox": [
+    -73.775459,
+    45.62384,
+    -73.775459,
+    45.62384
+],
   "geometry": {"coordinates":[-73.775459,45.62384],"type":"Point"}
 }

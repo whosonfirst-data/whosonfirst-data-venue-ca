@@ -2,13 +2,14 @@
   "id": 202704373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.610207,45.533535,-73.610207,45.533535",
     "geom:latitude":45.533535,
     "geom:longitude":-73.610207,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"202 Rue Saint-Zotique O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874369,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"4b4b6b34c0bf1bfc6ea31c20c40d711f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202704373
         }
     ],
     "wof:id":202704373,
-    "wof:lastmodified":1449060777,
+    "wof:lastmodified":1453937116,
     "wof:name":"Roth, Kathe",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-73.610207,45.533535,-73.610207,45.533535],
+  "bbox": [
+    -73.610207,
+    45.533535,
+    -73.610207,
+    45.533535
+],
   "geometry": {"coordinates":[-73.610207,45.533535],"type":"Point"}
 }

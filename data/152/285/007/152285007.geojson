@@ -2,13 +2,14 @@
   "id": 152285007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.582916,45.490875,-73.582916,45.490875",
     "geom:latitude":45.490875,
     "geom:longitude":-73.582916,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897631,
+        102191575,
         85633041,
-        85897631
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"2c7bbb2f54629ee7fae40f40d3b81324",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897631,
+            "region_id":136251273,
             "venue_id":152285007
         }
     ],
     "wof:id":152285007,
-    "wof:lastmodified":1449044428,
+    "wof:lastmodified":1453932921,
     "wof:name":"Skam Sir Inc",
     "wof:parent_id":85897631,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.582916,45.490875,-73.582916,45.490875],
+  "bbox": [
+    -73.582916,
+    45.490875,
+    -73.582916,
+    45.490875
+],
   "geometry": {"coordinates":[-73.582916,45.490875],"type":"Point"}
 }

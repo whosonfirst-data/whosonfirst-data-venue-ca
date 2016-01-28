@@ -2,13 +2,14 @@
   "id": 152579939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.562317,45.493134,-73.562317,45.493134",
     "geom:latitude":45.493134,
     "geom:longitude":-73.562317,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1198 Rue William",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897617,
+        102191575,
         85633041,
-        85897617
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"fd82891df4d4a5abb64f87df05c2a91f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897617,
+            "region_id":136251273,
             "venue_id":152579939
         }
     ],
     "wof:id":152579939,
-    "wof:lastmodified":1449045772,
+    "wof:lastmodified":1453933955,
     "wof:name":"Bremer Electric CO",
     "wof:parent_id":85897617,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.562317,45.493134,-73.562317,45.493134],
-  "geometry": {"coordinates":[-73.562317,45.493134],"type":"Point"}
+  "bbox": [
+    -73.562317,
+    45.493134,
+    -73.562317,
+    45.493134
+],
+  "geometry": {"coordinates":[-73.56231699999999,45.493134],"type":"Point"}
 }

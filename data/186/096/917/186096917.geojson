@@ -2,13 +2,14 @@
   "id": 186096917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.465813,45.470627,-73.465813,45.470627",
     "geom:latitude":45.470627,
     "geom:longitude":-73.465813,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2424 Boul Lapiniere",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897507,
+        102191575,
         85633041,
-        101736555
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"f9e0b098781280845ba63dcc77c2be89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897507,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186096917
         }
     ],
     "wof:id":186096917,
-    "wof:lastmodified":1449051257,
+    "wof:lastmodified":1453936627,
     "wof:name":"Centre Medico-Pro DE Brossard",
     "wof:parent_id":85897507,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "clinic"
     ]
 },
-  "bbox": [-73.465813,45.470627,-73.465813,45.470627],
+  "bbox": [
+    -73.465813,
+    45.470627,
+    -73.465813,
+    45.470627
+],
   "geometry": {"coordinates":[-73.465813,45.470627],"type":"Point"}
 }

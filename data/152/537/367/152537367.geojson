@@ -2,13 +2,14 @@
   "id": 152537367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.872589,43.896301,-78.872589,43.896301",
     "geom:latitude":43.896301,
     "geom:longitude":-78.872589,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"27 Warren Ave",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875157,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"30eda5c79ec9b97fc5be8c4f95803ceb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875157,
+            "region_id":85682057,
+            "venue_id":152537367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875157,
             "region_id":85682057,
             "venue_id":152537367
         }
     ],
     "wof:id":152537367,
-    "wof:lastmodified":1449045428,
+    "wof:lastmodified":1453933694,
     "wof:name":"E Vaillancourt Plumbing & Htg",
     "wof:parent_id":85875157,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.872589,43.896301,-78.872589,43.896301],
+  "bbox": [
+    -78.872589,
+    43.896301,
+    -78.872589,
+    43.896301
+],
   "geometry": {"coordinates":[-78.872589,43.896301],"type":"Point"}
 }

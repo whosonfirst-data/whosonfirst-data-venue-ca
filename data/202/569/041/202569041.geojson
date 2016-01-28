@@ -2,13 +2,14 @@
   "id": 202569041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.727341,44.350216,-79.727341,44.350216",
     "geom:latitude":44.350216,
     "geom:longitude":-79.727341,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"51 Grants Way",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -29,7 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875271,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -40,18 +44,18 @@
     "wof:geomhash":"2a86e36393fb8bdc85b1958f2f86b990",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875271,
             "region_id":85682057,
             "venue_id":202569041
         }
     ],
     "wof:id":202569041,
-    "wof:lastmodified":1449062539,
+    "wof:lastmodified":1453937482,
     "wof:name":"Agnew Fire Protection Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875271,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "sprinkler"
     ]
 },
-  "bbox": [-79.727341,44.350216,-79.727341,44.350216],
+  "bbox": [
+    -79.727341,
+    44.350216,
+    -79.727341,
+    44.350216
+],
   "geometry": {"coordinates":[-79.727341,44.350216],"type":"Point"}
 }

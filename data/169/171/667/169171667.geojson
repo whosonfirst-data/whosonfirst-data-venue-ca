@@ -2,13 +2,14 @@
   "id": 169171667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.306099,48.379379,-89.306099,48.379379",
     "geom:latitude":48.379379,
     "geom:longitude":-89.306099,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Valhalla Inn Rd",
     "sg:city":"Thunder Bay",
     "sg:classifiers":[
@@ -24,10 +25,11 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735591,
+        102555169,
+        85682057,
+        102191575,
         85633041,
-        85864655,
-        85682057
+        101735591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +39,28 @@
     "wof:geomhash":"ad96f34887c711f306ffcafe9fe13008",
     "wof:hierarchy":[
         {
+            "campus_id":102555169,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735591,
-            "neighbourhood_id":85864655,
             "region_id":85682057,
             "venue_id":169171667
         }
     ],
     "wof:id":169171667,
-    "wof:lastmodified":1449035983,
+    "wof:lastmodified":1453932245,
     "wof:name":"Valhalla Inn",
-    "wof:parent_id":85864655,
+    "wof:parent_id":102555169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.306099,48.379379,-89.306099,48.379379],
+  "bbox": [
+    -89.306099,
+    48.379379,
+    -89.306099,
+    48.379379
+],
   "geometry": {"coordinates":[-89.306099,48.379379],"type":"Point"}
 }

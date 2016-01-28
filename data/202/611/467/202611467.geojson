@@ -2,13 +2,14 @@
   "id": 202611467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.700027,45.537285,-73.700027,45.537285",
     "geom:latitude":45.537285,
     "geom:longitude":-73.700027,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2700 Rue DE Salaberry",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897495,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"5e69900943a6fc8ae56b8b89f11877b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897495,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202611467
         }
     ],
     "wof:id":202611467,
-    "wof:lastmodified":1449062124,
+    "wof:lastmodified":1453937395,
     "wof:name":"Quincaillerie Gf Enr",
     "wof:parent_id":85897495,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.700027,45.537285,-73.700027,45.537285],
-  "geometry": {"coordinates":[-73.700027,45.537285],"type":"Point"}
+  "bbox": [
+    -73.700027,
+    45.537285,
+    -73.700027,
+    45.537285
+],
+  "geometry": {"coordinates":[-73.70002700000001,45.537285],"type":"Point"}
 }

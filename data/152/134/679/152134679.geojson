@@ -2,13 +2,14 @@
   "id": 152134679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.641968,45.504299,-73.641968,45.504299",
     "geom:latitude":45.504299,
     "geom:longitude":-73.641968,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7207 Rue DE Nancy",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736469,
+        85784817,
+        102191575,
         85633041,
-        85784817
+        101736469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"3198b75d565b34af5cd62dc1aab1af57",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736469,
             "neighbourhood_id":85784817,
+            "region_id":136251273,
             "venue_id":152134679
         }
     ],
     "wof:id":152134679,
-    "wof:lastmodified":1449048664,
+    "wof:lastmodified":1453936135,
     "wof:name":"Arro Bo Brin Inc",
     "wof:parent_id":85784817,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.641968,45.504299,-73.641968,45.504299],
-  "geometry": {"coordinates":[-73.641968,45.504299],"type":"Point"}
+  "bbox": [
+    -73.641968,
+    45.504299,
+    -73.641968,
+    45.504299
+],
+  "geometry": {"coordinates":[-73.64196800000001,45.504299],"type":"Point"}
 }

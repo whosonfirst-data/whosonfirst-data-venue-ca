@@ -2,13 +2,14 @@
   "id": 169464229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.79007,45.604721,-73.79007,45.604721",
     "geom:latitude":45.604721,
     "geom:longitude":-73.79007,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"202 Boul Cure-Labelle",
     "sg:city":"Sainte-Rose",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897567,
+        102191575,
         85633041,
-        85897567
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bd354de696f1dd45e0767bf170a08641",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897567,
+            "region_id":136251273,
             "venue_id":169464229
         }
     ],
     "wof:id":169464229,
-    "wof:lastmodified":1449033574,
+    "wof:lastmodified":1453929695,
     "wof:name":"Garage Gabriel Lussier",
     "wof:parent_id":85897567,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.79007,45.604721,-73.79007,45.604721],
+  "bbox": [
+    -73.79007,
+    45.604721,
+    -73.79007,
+    45.604721
+],
   "geometry": {"coordinates":[-73.79007,45.604721],"type":"Point"}
 }

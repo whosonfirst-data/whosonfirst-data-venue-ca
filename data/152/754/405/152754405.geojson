@@ -2,13 +2,14 @@
   "id": 152754405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.873024,45.488194,-73.873024,45.488194",
     "geom:latitude":45.488194,
     "geom:longitude":-73.873024,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"248 Rue Dupont",
     "sg:city":"L'Ile-Bizard",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874393,
+        102191575,
         85633041,
-        85874393
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"b8ad6d77105eb03786f453f33654f91c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874393,
+            "region_id":136251273,
             "venue_id":152754405
         }
     ],
     "wof:id":152754405,
-    "wof:lastmodified":1449047330,
+    "wof:lastmodified":1453935117,
     "wof:name":"Centre DE Yoga Laurence Cote",
     "wof:parent_id":85874393,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.873024,45.488194,-73.873024,45.488194],
+  "bbox": [
+    -73.873024,
+    45.488194,
+    -73.873024,
+    45.488194
+],
   "geometry": {"coordinates":[-73.873024,45.488194],"type":"Point"}
 }

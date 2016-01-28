@@ -2,13 +2,14 @@
   "id": 152808149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.352325,46.786629,-71.352325,46.786629",
     "geom:latitude":46.786629,
     "geom:longitude":-71.352325,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1180 Aut Duplessis",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737245,
+        85874723,
+        102191575,
         85633041,
-        85874723
+        101737245,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4dbcd253bcf1f11de0f1773ebbf024e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737245,
             "neighbourhood_id":85874723,
+            "region_id":136251273,
             "venue_id":152808149
         }
     ],
     "wof:id":152808149,
-    "wof:lastmodified":1449044515,
+    "wof:lastmodified":1453932989,
     "wof:name":"Burger King",
     "wof:parent_id":85874723,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.352325,46.786629,-71.352325,46.786629],
-  "geometry": {"coordinates":[-71.352325,46.786629],"type":"Point"}
+  "bbox": [
+    -71.352325,
+    46.786629,
+    -71.352325,
+    46.786629
+],
+  "geometry": {"coordinates":[-71.35232499999999,46.786629],"type":"Point"}
 }

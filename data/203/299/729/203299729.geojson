@@ -2,13 +2,14 @@
   "id": 203299729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.287422,43.165359,-79.287422,43.165359",
     "geom:latitude":43.165359,
     "geom:longitude":-79.287422,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1713 Third St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864569,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"69dec03edcc25ce7e28843f8627fd728",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864569,
+            "region_id":85682057,
+            "venue_id":203299729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864569,
             "region_id":85682057,
             "venue_id":203299729
         }
     ],
     "wof:id":203299729,
-    "wof:lastmodified":1449025399,
+    "wof:lastmodified":1453927498,
     "wof:name":"L & L Contracting",
     "wof:parent_id":85864569,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.287422,43.165359,-79.287422,43.165359],
-  "geometry": {"coordinates":[-79.287422,43.165359],"type":"Point"}
+  "bbox": [
+    -79.287422,
+    43.165359,
+    -79.287422,
+    43.165359
+],
+  "geometry": {"coordinates":[-79.28742200000001,43.165359],"type":"Point"}
 }

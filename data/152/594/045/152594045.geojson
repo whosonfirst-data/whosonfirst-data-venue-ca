@@ -2,13 +2,14 @@
   "id": 152594045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.183418,49.234692,-123.183418,49.234692",
     "geom:latitude":49.234692,
     "geom:longitude":-123.183418,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Vancouver",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865071,
-        85682117
+        102191575,
+        85633041,
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"8a9827dbf228e1502346bb36e89dea6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":152594045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":152594045
         }
     ],
     "wof:id":152594045,
-    "wof:lastmodified":1449044970,
+    "wof:lastmodified":1453933344,
     "wof:name":"Chan, Alex K H DDS",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.183418,49.234692,-123.183418,49.234692],
+  "bbox": [
+    -123.183418,
+    49.234692,
+    -123.183418,
+    49.234692
+],
   "geometry": {"coordinates":[-123.183418,49.234692],"type":"Point"}
 }

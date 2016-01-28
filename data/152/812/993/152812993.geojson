@@ -2,13 +2,14 @@
   "id": 152812993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.542641,46.345154,-72.542641,46.345154",
     "geom:latitude":46.345154,
     "geom:longitude":-72.542641,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"985 Rue Royale",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874119,
+        102191575,
         85633041,
-        85874119
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9d401a5bcf9432bd8bfeb10cb3d4efbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
+            "region_id":136251273,
             "venue_id":152812993
         }
     ],
     "wof:id":152812993,
-    "wof:lastmodified":1449044419,
+    "wof:lastmodified":1453932915,
     "wof:name":"Service D'Integration A L'Empl",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.542641,46.345154,-72.542641,46.345154],
+  "bbox": [
+    -72.542641,
+    46.345154,
+    -72.542641,
+    46.345154
+],
   "geometry": {"coordinates":[-72.542641,46.345154],"type":"Point"}
 }

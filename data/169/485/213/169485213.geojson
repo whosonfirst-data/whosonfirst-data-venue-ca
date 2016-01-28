@@ -2,13 +2,14 @@
   "id": 169485213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.28521,45.323936,-73.28521,45.323936",
     "geom:latitude":45.323936,
     "geom:longitude":-73.28521,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"720 Boul Industriel",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ea8040369b0dcc6d63837dfe9d1f85e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":169485213
         }
     ],
     "wof:id":169485213,
-    "wof:lastmodified":1449034695,
+    "wof:lastmodified":1453930898,
     "wof:name":"Moulage Q-Zip Inc",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.28521,45.323936,-73.28521,45.323936],
-  "geometry": {"coordinates":[-73.28521,45.323936],"type":"Point"}
+  "bbox": [
+    -73.28521,
+    45.323936,
+    -73.28521,
+    45.323936
+],
+  "geometry": {"coordinates":[-73.28521000000001,45.323936],"type":"Point"}
 }

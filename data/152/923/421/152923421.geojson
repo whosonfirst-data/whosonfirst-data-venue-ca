@@ -2,13 +2,14 @@
   "id": 152923421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.664215,44.350533,-79.664215,44.350533",
     "geom:latitude":44.350533,
     "geom:longitude":-79.664215,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -22,23 +23,43 @@
     "sg:postcode":"L4N 9B3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864601,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EzfpXifo83fjd1oH6YFoe_44.350533_-79.664215@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c0da5f6fe3f75305a89e6b8420926a4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85864601,
+            "region_id":85682057,
+            "venue_id":152923421
+        }
+    ],
     "wof:id":152923421,
-    "wof:lastmodified":1449048762,
+    "wof:lastmodified":1453936223,
     "wof:name":"Pencorp Life Insurance CO",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864601,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.664215,44.350533,-79.664215,44.350533],
+  "bbox": [
+    -79.664215,
+    44.350533,
+    -79.664215,
+    44.350533
+],
   "geometry": {"coordinates":[-79.664215,44.350533],"type":"Point"}
 }

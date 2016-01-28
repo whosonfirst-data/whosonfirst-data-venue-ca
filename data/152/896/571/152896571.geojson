@@ -2,13 +2,14 @@
   "id": 152896571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.440186,45.570213,-73.440186,45.570213",
     "geom:latitude":45.570213,
     "geom:longitude":-73.440186,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Boucherville",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875753,
+        102191575,
         85633041,
-        85875753
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c569e36941cfc75d848b87e21afdda19",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
+            "region_id":136251273,
             "venue_id":152896571
         }
     ],
     "wof:id":152896571,
-    "wof:lastmodified":1449045996,
+    "wof:lastmodified":1453934119,
     "wof:name":"J L Freeman Inc",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.440186,45.570213,-73.440186,45.570213],
+  "bbox": [
+    -73.440186,
+    45.570213,
+    -73.440186,
+    45.570213
+],
   "geometry": {"coordinates":[-73.440186,45.570213],"type":"Point"}
 }

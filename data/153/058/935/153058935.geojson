@@ -2,13 +2,14 @@
   "id": 153058935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55368,45.508961,-73.55368,45.508961",
     "geom:latitude":45.508961,
     "geom:longitude":-73.55368,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"275 Rue Notre-Dame E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a515b1642888b19e8af3a784a1509867",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":153058935
         }
     ],
     "wof:id":153058935,
-    "wof:lastmodified":1449040399,
+    "wof:lastmodified":1453932354,
     "wof:name":"Montreal Hotel DE Ville",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.55368,45.508961,-73.55368,45.508961],
+  "bbox": [
+    -73.55368,
+    45.508961,
+    -73.55368,
+    45.508961
+],
   "geometry": {"coordinates":[-73.55368,45.508961],"type":"Point"}
 }

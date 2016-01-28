@@ -2,13 +2,14 @@
   "id": 153009885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.941071,43.877537,-78.941071,43.877537",
     "geom:latitude":43.877537,
     "geom:longitude":-78.941071,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"319 Brock St S",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895409,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"88b3e407767d60c2fc7a9e5fabdde29d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":153009885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":153009885
         }
     ],
     "wof:id":153009885,
-    "wof:lastmodified":1449040814,
+    "wof:lastmodified":1453932720,
     "wof:name":"Scotties Skiis & Boards",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.941071,43.877537,-78.941071,43.877537],
-  "geometry": {"coordinates":[-78.941071,43.877537],"type":"Point"}
+  "bbox": [
+    -78.941071,
+    43.877537,
+    -78.941071,
+    43.877537
+],
+  "geometry": {"coordinates":[-78.94107099999999,43.877537],"type":"Point"}
 }

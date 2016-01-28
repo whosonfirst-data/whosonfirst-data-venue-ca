@@ -2,13 +2,14 @@
   "id": 152393349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.707306,45.532356,-73.707306,45.532356",
     "geom:latitude":45.532356,
     "geom:longitude":-73.707306,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5025 Rue DE Salaberry",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897493,
+        102191575,
         85633041,
-        85897493
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e3c402bd95067d2e2230f0c4ddc90663",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897493,
+            "region_id":136251273,
             "venue_id":152393349
         }
     ],
     "wof:id":152393349,
-    "wof:lastmodified":1449045753,
+    "wof:lastmodified":1453933937,
     "wof:name":"Jma Diagnostics",
     "wof:parent_id":85897493,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.707306,45.532356,-73.707306,45.532356],
+  "bbox": [
+    -73.707306,
+    45.532356,
+    -73.707306,
+    45.532356
+],
   "geometry": {"coordinates":[-73.707306,45.532356],"type":"Point"}
 }

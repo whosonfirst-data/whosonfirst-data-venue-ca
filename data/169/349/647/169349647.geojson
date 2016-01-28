@@ -2,13 +2,14 @@
   "id": 169349647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.725456,43.574848,-79.725456,43.574848",
     "geom:latitude":43.574848,
     "geom:longitude":-79.725456,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"89 Vista Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"b045430b6a784ab69d86c67d080f6561",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":169349647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":169349647
         }
     ],
     "wof:id":169349647,
-    "wof:lastmodified":1449033941,
+    "wof:lastmodified":1453930103,
     "wof:name":"Vista Heights School",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.725456,43.574848,-79.725456,43.574848],
-  "geometry": {"coordinates":[-79.725456,43.574848],"type":"Point"}
+  "bbox": [
+    -79.725456,
+    43.574848,
+    -79.725456,
+    43.574848
+],
+  "geometry": {"coordinates":[-79.72545599999999,43.574848],"type":"Point"}
 }

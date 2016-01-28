@@ -2,13 +2,14 @@
   "id": 152465087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.265877,43.854977,-79.265877,43.854977",
     "geom:latitude":43.854977,
     "geom:longitude":-79.265877,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Travail Rd # 15",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895357,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"cdfb4fd9bfbaa819d2f1725291a4c7a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895357,
+            "region_id":85682057,
+            "venue_id":152465087
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895357,
             "region_id":85682057,
             "venue_id":152465087
         }
     ],
     "wof:id":152465087,
-    "wof:lastmodified":1449047405,
+    "wof:lastmodified":1453935182,
     "wof:name":"Exotic Motoring Accessories",
     "wof:parent_id":85895357,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.265877,43.854977,-79.265877,43.854977],
+  "bbox": [
+    -79.265877,
+    43.854977,
+    -79.265877,
+    43.854977
+],
   "geometry": {"coordinates":[-79.265877,43.854977],"type":"Point"}
 }

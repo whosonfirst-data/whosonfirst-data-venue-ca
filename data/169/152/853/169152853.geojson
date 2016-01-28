@@ -2,13 +2,14 @@
   "id": 169152853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.529518,45.55368,-73.529518,45.55368",
     "geom:latitude":45.55368,
     "geom:longitude":-73.529518,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4686 Rue Notre-Dame O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"fee3d52da93fe1827544a55c74d67a09",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":169152853
         }
     ],
     "wof:id":169152853,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1453931398,
     "wof:name":"J M Auto Body",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.529518,45.55368,-73.529518,45.55368],
+  "bbox": [
+    -73.529518,
+    45.55368,
+    -73.529518,
+    45.55368
+],
   "geometry": {"coordinates":[-73.529518,45.55368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169052785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.700104,45.463161,-75.700104,45.463161",
     "geom:latitude":45.463161,
     "geom:longitude":-75.700104,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"68 Boul Greber",
     "sg:city":"Gatineau",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874503,
+        102191575,
         85633041,
-        85874503
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"63b001697876119e09b62c99a8d552ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
+            "region_id":136251273,
             "venue_id":169052785
         }
     ],
     "wof:id":169052785,
-    "wof:lastmodified":1449034174,
+    "wof:lastmodified":1453930350,
     "wof:name":"National Bank of Canada",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.700104,45.463161,-75.700104,45.463161],
+  "bbox": [
+    -75.700104,
+    45.463161,
+    -75.700104,
+    45.463161
+],
   "geometry": {"coordinates":[-75.700104,45.463161],"type":"Point"}
 }

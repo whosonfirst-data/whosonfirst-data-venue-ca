@@ -2,13 +2,14 @@
   "id": 169325515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.718964,45.461697,-73.718964,45.461697",
     "geom:latitude":45.461697,
     "geom:longitude":-73.718964,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2300 46E Av",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ed93138c13b1041c6506b82914c570a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":169325515
         }
     ],
     "wof:id":169325515,
-    "wof:lastmodified":1449033970,
+    "wof:lastmodified":1453930131,
     "wof:name":"Clariant Canada Inc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.718964,45.461697,-73.718964,45.461697],
+  "bbox": [
+    -73.718964,
+    45.461697,
+    -73.718964,
+    45.461697
+],
   "geometry": {"coordinates":[-73.718964,45.461697],"type":"Point"}
 }

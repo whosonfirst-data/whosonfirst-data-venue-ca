@@ -2,13 +2,14 @@
   "id": 169410643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.731552,45.580685,-73.731552,45.580685",
     "geom:latitude":45.580685,
     "geom:longitude":-73.731552,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2250 Boul Industriel",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875067,
+        102191575,
         85633041,
-        85875067
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7714139915182288f5246349e58d0817",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
+            "region_id":136251273,
             "venue_id":169410643
         }
     ],
     "wof:id":169410643,
-    "wof:lastmodified":1449032729,
+    "wof:lastmodified":1453928845,
     "wof:name":"Duret & Landry Equipement",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.731552,45.580685,-73.731552,45.580685],
-  "geometry": {"coordinates":[-73.731552,45.580685],"type":"Point"}
+  "bbox": [
+    -73.731552,
+    45.580685,
+    -73.731552,
+    45.580685
+],
+  "geometry": {"coordinates":[-73.73155199999999,45.580685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153081127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.851723,43.88147,-78.851723,43.88147",
     "geom:latitude":43.88147,
     "geom:longitude":-78.851723,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"116 Bloor St E",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864469,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"26d65590f648ad78f325bb582da89d5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85864469,
+            "region_id":85682057,
+            "venue_id":153081127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85864469,
             "region_id":85682057,
             "venue_id":153081127
         }
     ],
     "wof:id":153081127,
-    "wof:lastmodified":1449040477,
+    "wof:lastmodified":1453932428,
     "wof:name":"Hagiz Halal Poultry Inc",
     "wof:parent_id":85864469,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.851723,43.88147,-78.851723,43.88147],
-  "geometry": {"coordinates":[-78.851723,43.88147],"type":"Point"}
+  "bbox": [
+    -78.851723,
+    43.88147,
+    -78.851723,
+    43.88147
+],
+  "geometry": {"coordinates":[-78.85172300000001,43.88147],"type":"Point"}
 }

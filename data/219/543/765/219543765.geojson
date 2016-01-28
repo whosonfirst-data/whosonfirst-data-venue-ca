@@ -2,13 +2,14 @@
   "id": 219543765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.583557,45.569492,-73.583557,45.569492",
     "geom:latitude":45.569492,
     "geom:longitude":-73.583557,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4541 Rue Belanger",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874371,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"a5f056492064043137c82ce941f6cc2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219543765
         }
     ],
     "wof:id":219543765,
-    "wof:lastmodified":1449071083,
+    "wof:lastmodified":1453937635,
     "wof:name":"Italiana Grosseria",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.583557,45.569492,-73.583557,45.569492],
+  "bbox": [
+    -73.583557,
+    45.569492,
+    -73.583557,
+    45.569492
+],
   "geometry": {"coordinates":[-73.583557,45.569492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152962399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815483,43.348789,-79.815483,43.348789",
     "geom:latitude":43.348789,
     "geom:longitude":-79.815483,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2247 Harold Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895611,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b1a33d6cbd29db4a046f44f61999f0a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895611,
+            "region_id":85682057,
+            "venue_id":152962399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895611,
             "region_id":85682057,
             "venue_id":152962399
         }
     ],
     "wof:id":152962399,
-    "wof:lastmodified":1449047020,
+    "wof:lastmodified":1453934885,
     "wof:name":"Rice Tool & Mfg Inc",
     "wof:parent_id":85895611,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.815483,43.348789,-79.815483,43.348789],
+  "bbox": [
+    -79.815483,
+    43.348789,
+    -79.815483,
+    43.348789
+],
   "geometry": {"coordinates":[-79.815483,43.348789],"type":"Point"}
 }

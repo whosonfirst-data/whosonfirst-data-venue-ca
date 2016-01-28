@@ -2,13 +2,14 @@
   "id": 152307483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.567764,49.194054,-122.567764,49.194054",
     "geom:latitude":49.194054,
     "geom:longitude":-122.567764,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"23588 105 Ave",
     "sg:city":"Maple Ridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894779,
-        85682117
+        102191575,
+        85633041,
+        101740805,
+        85682117,
+        101746133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"e14aaebb57cc5a8f73feaea78ab8741f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740805,
+            "neighbourhood_id":85894779,
+            "region_id":85682117,
+            "venue_id":152307483
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101746133,
             "neighbourhood_id":85894779,
             "region_id":85682117,
             "venue_id":152307483
         }
     ],
     "wof:id":152307483,
-    "wof:lastmodified":1449045492,
+    "wof:lastmodified":1453933739,
     "wof:name":"Maple Ridge Figure Skating Clb",
     "wof:parent_id":85894779,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.567764,49.194054,-122.567764,49.194054],
+  "bbox": [
+    -122.567764,
+    49.194054,
+    -122.567764,
+    49.194054
+],
   "geometry": {"coordinates":[-122.567764,49.194054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152361629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.70961,45.491753,-73.70961,45.491753",
     "geom:latitude":45.491753,
     "geom:longitude":-73.70961,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"950 Rue Begin",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"205e117116ce11ae0f211bd94cf05745",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152361629
         }
     ],
     "wof:id":152361629,
-    "wof:lastmodified":1449047667,
+    "wof:lastmodified":1453935396,
     "wof:name":"Nergiflex Inc",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.70961,45.491753,-73.70961,45.491753],
+  "bbox": [
+    -73.70961,
+    45.491753,
+    -73.70961,
+    45.491753
+],
   "geometry": {"coordinates":[-73.70961,45.491753],"type":"Point"}
 }

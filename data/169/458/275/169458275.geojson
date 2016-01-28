@@ -2,13 +2,14 @@
   "id": 169458275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.222908,49.899376,-97.222908,49.899376",
     "geom:latitude":49.899376,
     "geom:longitude":-97.222908,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Winnipeg",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101734959,
+        102554591,
+        85874725,
+        102191575,
         85633041,
-        85866619,
+        101734959,
         85682085
     ],
     "wof:breaches":[],
@@ -41,22 +44,29 @@
     "wof:geomhash":"4a61cea7fd41ee746e628d1861a96829",
     "wof:hierarchy":[
         {
+            "campus_id":102554591,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101734959,
-            "neighbourhood_id":85866619,
+            "neighbourhood_id":85874725,
             "region_id":85682085,
             "venue_id":169458275
         }
     ],
     "wof:id":169458275,
-    "wof:lastmodified":1449035028,
+    "wof:lastmodified":1453931244,
     "wof:name":"Eagle Global Logistics",
-    "wof:parent_id":85866619,
+    "wof:parent_id":102554591,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.222908,49.899376,-97.222908,49.899376],
+  "bbox": [
+    -97.222908,
+    49.899376,
+    -97.222908,
+    49.899376
+],
   "geometry": {"coordinates":[-97.222908,49.899376],"type":"Point"}
 }

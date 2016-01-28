@@ -2,13 +2,14 @@
   "id": 169256777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.96946,43.886898,-78.96946,43.886898",
     "geom:latitude":43.886898,
     "geom:longitude":-78.96946,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"810 Mcquay Blvd",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895409,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"91a8232c70ddc4696f5de05d0bd4eeab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85895409,
+            "region_id":85682057,
+            "venue_id":169256777
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895409,
             "region_id":85682057,
             "venue_id":169256777
         }
     ],
     "wof:id":169256777,
-    "wof:lastmodified":1449035173,
+    "wof:lastmodified":1453931388,
     "wof:name":"Colonel Je Farewell Pub Schl",
     "wof:parent_id":85895409,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.96946,43.886898,-78.96946,43.886898],
+  "bbox": [
+    -78.96946,
+    43.886898,
+    -78.96946,
+    43.886898
+],
   "geometry": {"coordinates":[-78.96946,43.886898],"type":"Point"}
 }

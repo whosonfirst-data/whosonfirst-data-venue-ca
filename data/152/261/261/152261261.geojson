@@ -2,13 +2,14 @@
   "id": 152261261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572403,45.666115,-73.572403,45.666115",
     "geom:latitude":45.666115,
     "geom:longitude":-73.572403,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8528 Boul Levesque E",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871105,
+        102191575,
         85633041,
-        85871105
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"0c0647fe7b0c07baeaaa6fbe1dc5aa9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
+            "region_id":136251273,
             "venue_id":152261261
         }
     ],
     "wof:id":152261261,
-    "wof:lastmodified":1449044370,
+    "wof:lastmodified":1453932877,
     "wof:name":"Residence L'Eden",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572403,45.666115,-73.572403,45.666115],
-  "geometry": {"coordinates":[-73.572403,45.666115],"type":"Point"}
+  "bbox": [
+    -73.572403,
+    45.666115,
+    -73.572403,
+    45.666115
+],
+  "geometry": {"coordinates":[-73.57240299999999,45.666115],"type":"Point"}
 }

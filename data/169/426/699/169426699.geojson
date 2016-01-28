@@ -2,13 +2,14 @@
   "id": 169426699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.516975,45.601162,-73.516975,45.601162",
     "geom:latitude":45.601162,
     "geom:longitude":-73.516975,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8780 Av Dubuisson",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895727,
+        102191575,
         85633041,
-        85895727
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"303e299f665d616c5a464638ae89a455",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895727,
+            "region_id":136251273,
             "venue_id":169426699
         }
     ],
     "wof:id":169426699,
-    "wof:lastmodified":1449033389,
+    "wof:lastmodified":1453929490,
     "wof:name":"Montreal Arenas Municipales",
     "wof:parent_id":85895727,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.516975,45.601162,-73.516975,45.601162],
+  "bbox": [
+    -73.516975,
+    45.601162,
+    -73.516975,
+    45.601162
+],
   "geometry": {"coordinates":[-73.516975,45.601162],"type":"Point"}
 }

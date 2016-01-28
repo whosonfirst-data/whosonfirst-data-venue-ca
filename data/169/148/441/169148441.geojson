@@ -2,13 +2,14 @@
   "id": 169148441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.611938,46.437923,-72.611938,46.437923",
     "geom:latitude":46.437923,
     "geom:longitude":-72.611938,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"101 Place Jourdain",
     "sg:city":"Saint-Louis-DE-France",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85785013,
+        102191575,
         85633041,
-        85785013
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"87667d03c032d539c9ba8b62c16de01e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85785013,
+            "region_id":136251273,
             "venue_id":169148441
         }
     ],
     "wof:id":169148441,
-    "wof:lastmodified":1449035443,
+    "wof:lastmodified":1453931656,
     "wof:name":"Bonetti Canada Inc",
     "wof:parent_id":85785013,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.611938,46.437923,-72.611938,46.437923],
-  "geometry": {"coordinates":[-72.611938,46.437923],"type":"Point"}
+  "bbox": [
+    -72.611938,
+    46.437923,
+    -72.611938,
+    46.437923
+],
+  "geometry": {"coordinates":[-72.61193799999999,46.437923],"type":"Point"}
 }

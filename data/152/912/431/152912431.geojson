@@ -2,13 +2,14 @@
   "id": 152912431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.407272,43.465912,-80.407272,43.465912",
     "geom:latitude":43.465912,
     "geom:longitude":-80.407272,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"350 Woolwich St S",
     "sg:city":"Breslau",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875015,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a009ceb8ed525aefb7297d61b2721e3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875015,
+            "region_id":85682057,
+            "venue_id":152912431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875015,
             "region_id":85682057,
             "venue_id":152912431
         }
     ],
     "wof:id":152912431,
-    "wof:lastmodified":1449046580,
+    "wof:lastmodified":1453934557,
     "wof:name":"C 3 Environmental",
     "wof:parent_id":85875015,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.407272,43.465912,-80.407272,43.465912],
-  "geometry": {"coordinates":[-80.407272,43.465912],"type":"Point"}
+  "bbox": [
+    -80.407272,
+    43.465912,
+    -80.407272,
+    43.465912
+],
+  "geometry": {"coordinates":[-80.40727200000001,43.465912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152607679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.579842,45.368038,-73.579842,45.368038",
     "geom:latitude":45.368038,
     "geom:longitude":-73.579842,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Rue Des Premontres",
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"96bc0d22a3325009748b3c35f6648c58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":152607679
         }
     ],
     "wof:id":152607679,
-    "wof:lastmodified":1449044915,
+    "wof:lastmodified":1453933304,
     "wof:name":"Peres Premontres",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.579842,45.368038,-73.579842,45.368038],
+  "bbox": [
+    -73.579842,
+    45.368038,
+    -73.579842,
+    45.368038
+],
   "geometry": {"coordinates":[-73.579842,45.368038],"type":"Point"}
 }

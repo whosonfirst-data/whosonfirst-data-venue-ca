@@ -2,13 +2,14 @@
   "id": 169169431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.478508,45.456841,-73.478508,45.456841",
     "geom:latitude":45.456841,
     "geom:longitude":-73.478508,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1550 Boul Rome",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897509,
+        102191575,
         85633041,
-        85897509
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"951c805913c8aa590fb5fa01f597d4fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897509,
+            "region_id":136251273,
             "venue_id":169169431
         }
     ],
     "wof:id":169169431,
-    "wof:lastmodified":1449034720,
+    "wof:lastmodified":1453930925,
     "wof:name":"Couche-Tard",
     "wof:parent_id":85897509,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.478508,45.456841,-73.478508,45.456841],
-  "geometry": {"coordinates":[-73.478508,45.456841],"type":"Point"}
+  "bbox": [
+    -73.478508,
+    45.456841,
+    -73.478508,
+    45.456841
+],
+  "geometry": {"coordinates":[-73.47850800000001,45.456841],"type":"Point"}
 }

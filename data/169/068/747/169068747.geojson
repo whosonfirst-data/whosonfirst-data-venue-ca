@@ -2,13 +2,14 @@
   "id": 169068747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.658577,43.708687,-79.658577,43.708687",
     "geom:latitude":43.708687,
     "geom:longitude":-79.658577,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2784 Slough St",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894971,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"32912812d8264a28e014b5848c201482",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894971,
+            "region_id":85682057,
+            "venue_id":169068747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894971,
             "region_id":85682057,
             "venue_id":169068747
         }
     ],
     "wof:id":169068747,
-    "wof:lastmodified":1449034379,
+    "wof:lastmodified":1453930556,
     "wof:name":"Harbour Print & Distribution",
     "wof:parent_id":85894971,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.658577,43.708687,-79.658577,43.708687],
-  "geometry": {"coordinates":[-79.658577,43.708687],"type":"Point"}
+  "bbox": [
+    -79.658577,
+    43.708687,
+    -79.658577,
+    43.708687
+],
+  "geometry": {"coordinates":[-79.65857699999999,43.708687],"type":"Point"}
 }

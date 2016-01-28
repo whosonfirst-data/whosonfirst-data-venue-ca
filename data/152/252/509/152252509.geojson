@@ -2,13 +2,14 @@
   "id": 152252509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.680641,43.433968,-79.680641,43.433968",
     "geom:latitude":43.433968,
     "geom:longitude":-79.680641,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"304 Lakeshore Rd W",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895051,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"3aad403accc5322af7f0a31b3311ac9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895051,
+            "region_id":85682057,
+            "venue_id":152252509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895051,
             "region_id":85682057,
             "venue_id":152252509
         }
     ],
     "wof:id":152252509,
-    "wof:lastmodified":1449044911,
+    "wof:lastmodified":1453933299,
     "wof:name":"Ruth Anne Winter Group",
     "wof:parent_id":85895051,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.680641,43.433968,-79.680641,43.433968],
-  "geometry": {"coordinates":[-79.680641,43.433968],"type":"Point"}
+  "bbox": [
+    -79.680641,
+    43.433968,
+    -79.680641,
+    43.433968
+],
+  "geometry": {"coordinates":[-79.68064099999999,43.433968],"type":"Point"}
 }

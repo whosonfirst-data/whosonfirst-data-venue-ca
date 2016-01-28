@@ -2,13 +2,14 @@
   "id": 152689019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.010536,45.383911,-74.010536,45.383911",
     "geom:latitude":45.383911,
     "geom:longitude":-74.010536,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"127 Boul Harwood",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895767,
+        102191575,
         85633041,
-        85895767
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"f10577d11238d372591273e679466e6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895767,
+            "region_id":136251273,
             "venue_id":152689019
         }
     ],
     "wof:id":152689019,
-    "wof:lastmodified":1449048142,
+    "wof:lastmodified":1453935752,
     "wof:name":"Domon Meubles Ltee",
     "wof:parent_id":85895767,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.010536,45.383911,-74.010536,45.383911],
+  "bbox": [
+    -74.010536,
+    45.383911,
+    -74.010536,
+    45.383911
+],
   "geometry": {"coordinates":[-74.010536,45.383911],"type":"Point"}
 }

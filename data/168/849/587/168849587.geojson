@@ -2,13 +2,14 @@
   "id": 168849587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.244461,48.417149,-71.244461,48.417149",
     "geom:latitude":48.417149,
     "geom:longitude":-71.244461,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2249 Rue Saint-Hubert",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"35718b2198b5d5bc7def4fc53d548b57",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":168849587
         }
     ],
     "wof:id":168849587,
-    "wof:lastmodified":1449027915,
+    "wof:lastmodified":1453927945,
     "wof:name":"Intercar",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.244461,48.417149,-71.244461,48.417149],
+  "bbox": [
+    -71.244461,
+    48.417149,
+    -71.244461,
+    48.417149
+],
   "geometry": {"coordinates":[-71.244461,48.417149],"type":"Point"}
 }

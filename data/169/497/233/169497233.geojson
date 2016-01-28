@@ -2,13 +2,14 @@
   "id": 169497233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.107704,49.318012,-123.107704,49.318012",
     "geom:latitude":49.318012,
     "geom:longitude":-123.107704,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"152 Pemberton Ave",
     "sg:city":"North Vancouver",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"BC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865021,
-        85682117
+        102191575,
+        85633041,
+        101741069,
+        85682117,
+        101744669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"c60f05f7bb4c48f478dd6dead88eb494",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":169497233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":169497233
         }
     ],
     "wof:id":169497233,
-    "wof:lastmodified":1449035923,
+    "wof:lastmodified":1453932213,
     "wof:name":"Lunch Bucket Deli",
     "wof:parent_id":85865021,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.107704,49.318012,-123.107704,49.318012],
+  "bbox": [
+    -123.107704,
+    49.318012,
+    -123.107704,
+    49.318012
+],
   "geometry": {"coordinates":[-123.107704,49.318012],"type":"Point"}
 }

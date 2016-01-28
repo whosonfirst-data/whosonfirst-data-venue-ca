@@ -2,13 +2,14 @@
   "id": 152210015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.888535,45.398842,-71.888535,45.398842",
     "geom:latitude":45.398842,
     "geom:longitude":-71.888535,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874135,
+        102191575,
         85633041,
-        85874135
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"ba5d4d617d8f4b2d88b706c2ad35f805",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874135,
+            "region_id":136251273,
             "venue_id":152210015
         }
     ],
     "wof:id":152210015,
-    "wof:lastmodified":1449045875,
+    "wof:lastmodified":1453934031,
     "wof:name":"Mivan Pizza 2 Pour 1",
     "wof:parent_id":85874135,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.888535,45.398842,-71.888535,45.398842],
+  "bbox": [
+    -71.888535,
+    45.398842,
+    -71.888535,
+    45.398842
+],
   "geometry": {"coordinates":[-71.888535,45.398842],"type":"Point"}
 }

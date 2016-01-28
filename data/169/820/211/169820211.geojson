@@ -2,13 +2,14 @@
   "id": 169820211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635895,45.584721,-73.635895,45.584721",
     "geom:latitude":45.584721,
     "geom:longitude":-73.635895,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3855 Rue Fleury E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874395,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"cb8e452b3d4637213d65bbf72dec2462",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169820211
         }
     ],
     "wof:id":169820211,
-    "wof:lastmodified":1449034387,
+    "wof:lastmodified":1453930561,
     "wof:name":"Residence Fleury",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-73.635895,45.584721,-73.635895,45.584721],
+  "bbox": [
+    -73.635895,
+    45.584721,
+    -73.635895,
+    45.584721
+],
   "geometry": {"coordinates":[-73.635895,45.584721],"type":"Point"}
 }

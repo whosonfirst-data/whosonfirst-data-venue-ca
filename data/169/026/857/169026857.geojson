@@ -2,13 +2,14 @@
   "id": 169026857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.822723,45.505699,-73.822723,45.505699",
     "geom:latitude":45.505699,
     "geom:longitude":-73.822723,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11857 Boul DE Pierrefonds",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"8e2e64f42e19859f8b04e64b2d5b36a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":169026857
         }
     ],
     "wof:id":169026857,
-    "wof:lastmodified":1449034635,
+    "wof:lastmodified":1453930841,
     "wof:name":"Superclub Videotron",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.822723,45.505699,-73.822723,45.505699],
+  "bbox": [
+    -73.822723,
+    45.505699,
+    -73.822723,
+    45.505699
+],
   "geometry": {"coordinates":[-73.822723,45.505699],"type":"Point"}
 }

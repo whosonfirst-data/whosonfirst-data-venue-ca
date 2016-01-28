@@ -2,13 +2,14 @@
   "id": 169422591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.446869,45.571564,-73.446869,45.571564",
     "geom:latitude":45.571564,
     "geom:longitude":-73.446869,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1200 Place Nobel",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875753,
+        102191575,
         85633041,
-        85875753
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"be21632faf0cab418eaecd2260d9651e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875753,
+            "region_id":136251273,
             "venue_id":169422591
         }
     ],
     "wof:id":169422591,
-    "wof:lastmodified":1449032909,
+    "wof:lastmodified":1453929033,
     "wof:name":"Clement Limitee",
     "wof:parent_id":85875753,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.446869,45.571564,-73.446869,45.571564],
-  "geometry": {"coordinates":[-73.446869,45.571564],"type":"Point"}
+  "bbox": [
+    -73.446869,
+    45.571564,
+    -73.446869,
+    45.571564
+],
+  "geometry": {"coordinates":[-73.44686900000001,45.571564],"type":"Point"}
 }

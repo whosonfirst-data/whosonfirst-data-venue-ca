@@ -2,13 +2,14 @@
   "id": 152616261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.525993,46.381248,-72.525993,46.381248",
     "geom:latitude":46.381248,
     "geom:longitude":-72.525993,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"522 Rue Des Erables",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874113,
+        102191575,
         85633041,
-        85874113
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"e5769afdc418ccb2168dd0391c1be09e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874113,
+            "region_id":136251273,
             "venue_id":152616261
         }
     ],
     "wof:id":152616261,
-    "wof:lastmodified":1449047697,
+    "wof:lastmodified":1453935419,
     "wof:name":"Distamax Inc",
     "wof:parent_id":85874113,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.525993,46.381248,-72.525993,46.381248],
+  "bbox": [
+    -72.525993,
+    46.381248,
+    -72.525993,
+    46.381248
+],
   "geometry": {"coordinates":[-72.525993,46.381248],"type":"Point"}
 }

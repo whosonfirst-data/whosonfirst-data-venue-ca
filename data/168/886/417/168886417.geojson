@@ -2,13 +2,14 @@
   "id": 168886417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.452866,43.999729,-79.452866,43.999729",
     "geom:latitude":43.999729,
     "geom:longitude":-79.452866,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"75 Mary St #10",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895063,
         102191575,
         85633041,
-        85895063
+        101736049,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736049,
             "neighbourhood_id":85895063,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":168886417
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895063,
+            "region_id":85682057,
             "venue_id":168886417
         }
     ],
     "wof:id":168886417,
-    "wof:lastmodified":1449028194,
+    "wof:lastmodified":1453928255,
     "wof:name":"B & B Dixon Automotive Inc",
     "wof:parent_id":85895063,
     "wof:placetype":"venue",
@@ -58,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.452866,43.999729,-79.452866,43.999729],
+  "bbox": [
+    -79.452866,
+    43.999729,
+    -79.452866,
+    43.999729
+],
   "geometry": {"coordinates":[-79.452866,43.999729],"type":"Point"}
 }

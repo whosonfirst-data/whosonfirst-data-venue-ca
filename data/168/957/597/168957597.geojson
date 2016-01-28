@@ -2,13 +2,14 @@
   "id": 168957597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.701698,44.386978,-79.701698,44.386978",
     "geom:latitude":44.386978,
     "geom:longitude":-79.701698,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"44 Donald St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vt8DI4HYWlhhFXPTNs4AI_44.386978_-79.701698@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ce70cb31d03b5b533dc852d6ad91c286",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":168957597
+        }
+    ],
     "wof:id":168957597,
-    "wof:lastmodified":1449028465,
+    "wof:lastmodified":1453928556,
     "wof:name":"Simcoe Terrace",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.701698,44.386978,-79.701698,44.386978],
-  "geometry": {"coordinates":[-79.701698,44.386978],"type":"Point"}
+  "bbox": [
+    -79.701698,
+    44.386978,
+    -79.701698,
+    44.386978
+],
+  "geometry": {"coordinates":[-79.70169799999999,44.386978],"type":"Point"}
 }

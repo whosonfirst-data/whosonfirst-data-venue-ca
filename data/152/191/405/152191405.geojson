@@ -2,13 +2,14 @@
   "id": 152191405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.53257,46.467968,-72.53257,46.467968",
     "geom:latitude":46.467968,
     "geom:longitude":-72.53257,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2391 Boul St-Jean",
     "sg:city":"Saint-Maurice",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85785013,
+        102191575,
         85633041,
-        85785013
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9c2fa00256b205b16968f14d1de8829d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85785013,
+            "region_id":136251273,
             "venue_id":152191405
         }
     ],
     "wof:id":152191405,
-    "wof:lastmodified":1449047101,
+    "wof:lastmodified":1453934956,
     "wof:name":"Eglise St Maurice",
     "wof:parent_id":85785013,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.53257,46.467968,-72.53257,46.467968],
-  "geometry": {"coordinates":[-72.53257,46.467968],"type":"Point"}
+  "bbox": [
+    -72.53257,
+    46.467968,
+    -72.53257,
+    46.467968
+],
+  "geometry": {"coordinates":[-72.53257000000001,46.467968],"type":"Point"}
 }

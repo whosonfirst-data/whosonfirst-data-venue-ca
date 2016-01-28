@@ -2,13 +2,14 @@
   "id": 185777507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801903,43.320858,-79.801903,43.320858",
     "geom:latitude":43.320858,
     "geom:longitude":-79.801903,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"439 Brock Ave # A",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895035,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"5c875d21dcc9df45d6b2b8578febf73a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895035,
+            "region_id":85682057,
+            "venue_id":185777507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895035,
             "region_id":85682057,
             "venue_id":185777507
         }
     ],
     "wof:id":185777507,
-    "wof:lastmodified":1449007472,
+    "wof:lastmodified":1453927307,
     "wof:name":"Dee Signs",
     "wof:parent_id":85895035,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.801903,43.320858,-79.801903,43.320858],
+  "bbox": [
+    -79.801903,
+    43.320858,
+    -79.801903,
+    43.320858
+],
   "geometry": {"coordinates":[-79.801903,43.320858],"type":"Point"}
 }

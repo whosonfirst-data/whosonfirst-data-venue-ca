@@ -2,13 +2,14 @@
   "id": 169063647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.854881,43.938469,-78.854881,43.938469",
     "geom:latitude":43.938469,
     "geom:longitude":-78.854881,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"650 Taunton Rd W",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864695,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"3f3fa38cbf7f924415dbfe05449d755e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85864695,
+            "region_id":85682057,
+            "venue_id":169063647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85864695,
             "region_id":85682057,
             "venue_id":169063647
         }
     ],
     "wof:id":169063647,
-    "wof:lastmodified":1449032962,
+    "wof:lastmodified":1453929100,
     "wof:name":"Romano's Fruit Market & Deli",
     "wof:parent_id":85864695,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.854881,43.938469,-78.854881,43.938469],
-  "geometry": {"coordinates":[-78.854881,43.938469],"type":"Point"}
+  "bbox": [
+    -78.854881,
+    43.938469,
+    -78.854881,
+    43.938469
+],
+  "geometry": {"coordinates":[-78.85488100000001,43.938469],"type":"Point"}
 }

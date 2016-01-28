@@ -2,13 +2,14 @@
   "id": 169389235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.712555,43.397926,-79.712555,43.397926",
     "geom:latitude":43.397926,
     "geom:longitude":-79.712555,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2383 Belyea St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895373,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"542367ceab0efb423e6524834dfd83f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":169389235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":169389235
         }
     ],
     "wof:id":169389235,
-    "wof:lastmodified":1449035283,
+    "wof:lastmodified":1453931489,
     "wof:name":"Lantec Communications",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.712555,43.397926,-79.712555,43.397926],
-  "geometry": {"coordinates":[-79.712555,43.397926],"type":"Point"}
+  "bbox": [
+    -79.712555,
+    43.397926,
+    -79.712555,
+    43.397926
+],
+  "geometry": {"coordinates":[-79.71255499999999,43.397926],"type":"Point"}
 }

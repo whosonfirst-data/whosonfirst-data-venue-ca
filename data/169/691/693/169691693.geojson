@@ -2,13 +2,14 @@
   "id": 169691693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.425217,45.566132,-73.425217,45.566132",
     "geom:latitude":45.566132,
     "geom:longitude":-73.425217,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1351 Rue Newton",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875755,
+        102191575,
         85633041,
-        101738135
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"2fcc3d2251d5ec55f17c45fde337ad11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875755,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169691693
         }
     ],
     "wof:id":169691693,
-    "wof:lastmodified":1449032949,
+    "wof:lastmodified":1453929074,
     "wof:name":"Labon Inc",
     "wof:parent_id":85875755,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.425217,45.566132,-73.425217,45.566132],
+  "bbox": [
+    -73.425217,
+    45.566132,
+    -73.425217,
+    45.566132
+],
   "geometry": {"coordinates":[-73.425217,45.566132],"type":"Point"}
 }

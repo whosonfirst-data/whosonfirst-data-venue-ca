@@ -2,13 +2,14 @@
   "id": 152260189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.890984,45.402813,-71.890984,45.402813",
     "geom:latitude":45.402813,
     "geom:longitude":-71.890984,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"86 Rue Wellington N",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874135,
+        102191575,
         85633041,
-        85874135
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5f9bff70bc4d5a5e234326b2cc453b06",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874135,
+            "region_id":136251273,
             "venue_id":152260189
         }
     ],
     "wof:id":152260189,
-    "wof:lastmodified":1449045078,
+    "wof:lastmodified":1453933420,
     "wof:name":"Art Azo",
     "wof:parent_id":85874135,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.890984,45.402813,-71.890984,45.402813],
+  "bbox": [
+    -71.890984,
+    45.402813,
+    -71.890984,
+    45.402813
+],
   "geometry": {"coordinates":[-71.890984,45.402813],"type":"Point"}
 }

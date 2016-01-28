@@ -2,13 +2,14 @@
   "id": 169059883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.179192,43.01112,-81.179192,43.01112",
     "geom:latitude":43.01112,
     "geom:longitude":-81.179192,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"547 Clarke Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -29,23 +30,43 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23W5tYo0BVYcARUmOKnJ7Z_43.011120_-81.179192@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"367636b0d9e4ff87ce8d3bedc08a40ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":169059883
+        }
+    ],
     "wof:id":169059883,
-    "wof:lastmodified":1449033589,
+    "wof:lastmodified":1453929710,
     "wof:name":"Continental Cabinet CO",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.179192,43.01112,-81.179192,43.01112],
+  "bbox": [
+    -81.179192,
+    43.01112,
+    -81.179192,
+    43.01112
+],
   "geometry": {"coordinates":[-81.179192,43.01112],"type":"Point"}
 }

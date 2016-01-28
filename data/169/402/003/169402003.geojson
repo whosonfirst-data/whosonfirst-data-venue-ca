@@ -2,13 +2,14 @@
   "id": 169402003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.758461,45.552509,-73.758461,45.552509",
     "geom:latitude":45.552509,
     "geom:longitude":-73.758461,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3835 Boul Saint-Martin O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875053,
+        102191575,
         85633041,
-        85875053
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d15b5e495f72d9c0b0b07f1c5055289f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875053,
+            "region_id":136251273,
             "venue_id":169402003
         }
     ],
     "wof:id":169402003,
-    "wof:lastmodified":1449033749,
+    "wof:lastmodified":1453929876,
     "wof:name":"Imprimerie Lm Inc",
     "wof:parent_id":85875053,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.758461,45.552509,-73.758461,45.552509],
+  "bbox": [
+    -73.758461,
+    45.552509,
+    -73.758461,
+    45.552509
+],
   "geometry": {"coordinates":[-73.758461,45.552509],"type":"Point"}
 }

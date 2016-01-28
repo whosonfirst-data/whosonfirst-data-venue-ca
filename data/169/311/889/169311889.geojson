@@ -2,13 +2,14 @@
   "id": 169311889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576988,45.50161,-73.576988,45.50161",
     "geom:latitude":45.50161,
     "geom:longitude":-73.576988,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866501,
+        102191575,
         85633041,
-        85866501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"0aa27d9eb13b2c071b6eb31bd6db8fad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
+            "region_id":136251273,
             "venue_id":169311889
         }
     ],
     "wof:id":169311889,
-    "wof:lastmodified":1449033462,
+    "wof:lastmodified":1453929575,
     "wof:name":"Meridican Travel",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576988,45.50161,-73.576988,45.50161],
+  "bbox": [
+    -73.576988,
+    45.50161,
+    -73.576988,
+    45.50161
+],
   "geometry": {"coordinates":[-73.576988,45.50161],"type":"Point"}
 }

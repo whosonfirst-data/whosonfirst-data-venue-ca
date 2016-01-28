@@ -2,13 +2,14 @@
   "id": 153061919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.647263,44.409672,-79.647263,44.409672",
     "geom:latitude":44.409672,
     "geom:longitude":-79.647263,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"268 Penetanguishene Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875263,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1loUBAEdFJpQVkiFpJpIku_44.409672_-79.647263@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"44ebb53ea5e010a29e26f69f603f6bf4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875263,
+            "region_id":85682057,
+            "venue_id":153061919
+        }
+    ],
     "wof:id":153061919,
-    "wof:lastmodified":1449040693,
+    "wof:lastmodified":1453932612,
     "wof:name":"Lake Simcoe Glass & Mirror Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.647263,44.409672,-79.647263,44.409672],
+  "bbox": [
+    -79.647263,
+    44.409672,
+    -79.647263,
+    44.409672
+],
   "geometry": {"coordinates":[-79.647263,44.409672],"type":"Point"}
 }

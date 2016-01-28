@@ -2,13 +2,14 @@
   "id": 169170549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.063599,48.437759,-71.063599,48.437759",
     "geom:latitude":48.437759,
     "geom:longitude":-71.063599,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2148 Rue Roussel",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"3822145a174a26a287491b6ca185a297",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169170549
         }
     ],
     "wof:id":169170549,
-    "wof:lastmodified":1449032978,
+    "wof:lastmodified":1453929105,
     "wof:name":"Ecole DE Danse F Fourcaudot",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.063599,48.437759,-71.063599,48.437759],
+  "bbox": [
+    -71.063599,
+    48.437759,
+    -71.063599,
+    48.437759
+],
   "geometry": {"coordinates":[-71.063599,48.437759],"type":"Point"}
 }

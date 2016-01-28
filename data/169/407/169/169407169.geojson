@@ -2,13 +2,14 @@
   "id": 169407169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.048256,43.636646,-80.048256,43.636646",
     "geom:latitude":43.636646,
     "geom:longitude":-80.048256,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"211 Wallace St",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895185,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f4332084bf7abe2b6ed397edbf41adb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895185,
+            "region_id":85682057,
+            "venue_id":169407169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895185,
             "region_id":85682057,
             "venue_id":169407169
         }
     ],
     "wof:id":169407169,
-    "wof:lastmodified":1449034522,
+    "wof:lastmodified":1453930718,
     "wof:name":"Speyside Truck & Equipment",
     "wof:parent_id":85895185,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.048256,43.636646,-80.048256,43.636646],
-  "geometry": {"coordinates":[-80.048256,43.636646],"type":"Point"}
+  "bbox": [
+    -80.048256,
+    43.636646,
+    -80.048256,
+    43.636646
+],
+  "geometry": {"coordinates":[-80.04825599999999,43.636646],"type":"Point"}
 }

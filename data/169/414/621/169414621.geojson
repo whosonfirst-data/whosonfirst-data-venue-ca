@@ -2,13 +2,14 @@
   "id": 169414621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.657112,43.478992,-79.657112,43.478992",
     "geom:latitude":43.478992,
     "geom:longitude":-79.657112,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oakville",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895589,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"48169f6298a2fbc0c34418680ccd4187",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895589,
+            "region_id":85682057,
+            "venue_id":169414621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895589,
             "region_id":85682057,
             "venue_id":169414621
         }
     ],
     "wof:id":169414621,
-    "wof:lastmodified":1449034223,
+    "wof:lastmodified":1453930411,
     "wof:name":"Maplegrove Home Hardware",
     "wof:parent_id":85895589,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.657112,43.478992,-79.657112,43.478992],
+  "bbox": [
+    -79.657112,
+    43.478992,
+    -79.657112,
+    43.478992
+],
   "geometry": {"coordinates":[-79.657112,43.478992],"type":"Point"}
 }

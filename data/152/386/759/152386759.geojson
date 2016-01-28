@@ -2,13 +2,14 @@
   "id": 152386759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.569054,45.241154,-73.569054,45.241154",
     "geom:latitude":45.241154,
     "geom:longitude":-73.569054,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Michel",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"4a9d5392850c5fe345b1e63aae6bc96a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":152386759
         }
     ],
     "wof:id":152386759,
-    "wof:lastmodified":1449046731,
+    "wof:lastmodified":1453934675,
     "wof:name":"Carrosserie Marcel",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.569054,45.241154,-73.569054,45.241154],
-  "geometry": {"coordinates":[-73.569054,45.241154],"type":"Point"}
+  "bbox": [
+    -73.569054,
+    45.241154,
+    -73.569054,
+    45.241154
+],
+  "geometry": {"coordinates":[-73.56905399999999,45.241154],"type":"Point"}
 }

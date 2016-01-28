@@ -2,13 +2,14 @@
   "id": 152222743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.289009,45.446644,-73.289009,45.446644",
     "geom:latitude":45.446644,
     "geom:longitude":-73.289009,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1255 Boul DE Perigny",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895771,
+        102191575,
         85633041,
-        85895771
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9cc6eb9633480dbf838b8e2578d1be47",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895771,
+            "region_id":136251273,
             "venue_id":152222743
         }
     ],
     "wof:id":152222743,
-    "wof:lastmodified":1449047391,
+    "wof:lastmodified":1453935172,
     "wof:name":"Librairie Larico",
     "wof:parent_id":85895771,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.289009,45.446644,-73.289009,45.446644],
-  "geometry": {"coordinates":[-73.289009,45.446644],"type":"Point"}
+  "bbox": [
+    -73.289009,
+    45.446644,
+    -73.289009,
+    45.446644
+],
+  "geometry": {"coordinates":[-73.28900899999999,45.446644],"type":"Point"}
 }

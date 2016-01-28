@@ -2,13 +2,14 @@
   "id": 152249627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.624908,45.529285,-73.624908,45.529285",
     "geom:latitude":45.529285,
     "geom:longitude":-73.624908,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"476 Av Ogilvy",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"8d160d51eab46ea81e44c29f05b803ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152249627
         }
     ],
     "wof:id":152249627,
-    "wof:lastmodified":1449044539,
+    "wof:lastmodified":1453933010,
     "wof:name":"Sandhu Video & Audio",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.624908,45.529285,-73.624908,45.529285],
+  "bbox": [
+    -73.624908,
+    45.529285,
+    -73.624908,
+    45.529285
+],
   "geometry": {"coordinates":[-73.624908,45.529285],"type":"Point"}
 }

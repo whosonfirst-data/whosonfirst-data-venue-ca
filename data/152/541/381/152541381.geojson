@@ -2,13 +2,14 @@
   "id": 152541381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.544815,43.800453,-79.544815,43.800453",
     "geom:latitude":43.800453,
     "geom:longitude":-79.544815,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"380 Chrislea Rd",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"bc2312c9d99dfec4ca2746c08d46660e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152541381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152541381
         }
     ],
     "wof:id":152541381,
-    "wof:lastmodified":1449044819,
+    "wof:lastmodified":1453933220,
     "wof:name":"G Cinelli Mfg Corp",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.544815,43.800453,-79.544815,43.800453],
+  "bbox": [
+    -79.544815,
+    43.800453,
+    -79.544815,
+    43.800453
+],
   "geometry": {"coordinates":[-79.544815,43.800453],"type":"Point"}
 }

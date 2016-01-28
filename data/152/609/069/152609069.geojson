@@ -2,13 +2,14 @@
   "id": 152609069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.680267,43.482529,-79.680267,43.482529",
     "geom:latitude":43.482529,
     "geom:longitude":-79.680267,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1318 Falgarwood Dr",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895683,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5e9bda3a021525e0014b119719c0c1c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895683,
+            "region_id":85682057,
+            "venue_id":152609069
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895683,
             "region_id":85682057,
             "venue_id":152609069
         }
     ],
     "wof:id":152609069,
-    "wof:lastmodified":1449046027,
+    "wof:lastmodified":1453934141,
     "wof:name":"Flag CO",
     "wof:parent_id":85895683,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.680267,43.482529,-79.680267,43.482529],
+  "bbox": [
+    -79.680267,
+    43.482529,
+    -79.680267,
+    43.482529
+],
   "geometry": {"coordinates":[-79.680267,43.482529],"type":"Point"}
 }

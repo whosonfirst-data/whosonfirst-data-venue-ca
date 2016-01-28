@@ -2,13 +2,14 @@
   "id": 169522457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.671288,45.499813,-73.671288,45.499813",
     "geom:latitude":45.499813,
     "geom:longitude":-73.671288,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5485 Ch DE LA Cote-DE-Liesse",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"e6ef1062433afebcbd1384ae36917381",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169522457
         }
     ],
     "wof:id":169522457,
-    "wof:lastmodified":1449034253,
+    "wof:lastmodified":1453930437,
     "wof:name":"Uni-Select Cote DE Liesse",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.671288,45.499813,-73.671288,45.499813],
+  "bbox": [
+    -73.671288,
+    45.499813,
+    -73.671288,
+    45.499813
+],
   "geometry": {"coordinates":[-73.671288,45.499813],"type":"Point"}
 }

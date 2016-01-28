@@ -2,13 +2,14 @@
   "id": 203338435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.519791,45.601913,-73.519791,45.601913",
     "geom:latitude":45.601913,
     "geom:longitude":-73.519791,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8737 Rue Hochelaga",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895727,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"37c91a721b9d1edd0034ceaa5bd84f65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203338435
         }
     ],
     "wof:id":203338435,
-    "wof:lastmodified":1449025575,
+    "wof:lastmodified":1453927529,
     "wof:name":"Cordonnerie Peppe's",
     "wof:parent_id":85895727,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "boot"
     ]
 },
-  "bbox": [-73.519791,45.601913,-73.519791,45.601913],
+  "bbox": [
+    -73.519791,
+    45.601913,
+    -73.519791,
+    45.601913
+],
   "geometry": {"coordinates":[-73.519791,45.601913],"type":"Point"}
 }

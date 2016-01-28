@@ -2,13 +2,14 @@
   "id": 219196419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.363449,43.807392,-79.363449,43.807392",
     "geom:latitude":43.807392,
     "geom:longitude":-79.363449,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Aspenwood Dr",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895483,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"52d0294e3006aa28dcc4159798998367",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":219196419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":219196419
         }
     ],
     "wof:id":219196419,
-    "wof:lastmodified":1449071194,
+    "wof:lastmodified":1453937649,
     "wof:name":"Holy Redeemer",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.363449,43.807392,-79.363449,43.807392],
+  "bbox": [
+    -79.363449,
+    43.807392,
+    -79.363449,
+    43.807392
+],
   "geometry": {"coordinates":[-79.363449,43.807392],"type":"Point"}
 }

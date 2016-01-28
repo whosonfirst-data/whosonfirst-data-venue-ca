@@ -2,13 +2,14 @@
   "id": 152332815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.648491,45.549377,-73.648491,45.549377",
     "geom:latitude":45.549377,
     "geom:longitude":-73.648491,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9300 Rue Lajeunesse",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"f4b717e1351597dc9b6d52034f4f0653",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152332815
         }
     ],
     "wof:id":152332815,
-    "wof:lastmodified":1449046874,
+    "wof:lastmodified":1453934767,
     "wof:name":"Hydromax",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.648491,45.549377,-73.648491,45.549377],
-  "geometry": {"coordinates":[-73.648491,45.549377],"type":"Point"}
+  "bbox": [
+    -73.648491,
+    45.549377,
+    -73.648491,
+    45.549377
+],
+  "geometry": {"coordinates":[-73.64849100000001,45.549377],"type":"Point"}
 }

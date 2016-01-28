@@ -2,13 +2,14 @@
   "id": 152870055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.297974,45.452728,-73.297974,45.452728",
     "geom:latitude":45.452728,
     "geom:longitude":-73.297974,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1315 Av Bourgogne",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895747,
+        102191575,
         85633041,
-        85895747
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a2077b85333c03cd45178ab0fe8033f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
+            "region_id":136251273,
             "venue_id":152870055
         }
     ],
     "wof:id":152870055,
-    "wof:lastmodified":1449045511,
+    "wof:lastmodified":1453933755,
     "wof:name":"Centre Chiropratique DE Chmbly",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.297974,45.452728,-73.297974,45.452728],
+  "bbox": [
+    -73.297974,
+    45.452728,
+    -73.297974,
+    45.452728
+],
   "geometry": {"coordinates":[-73.297974,45.452728],"type":"Point"}
 }

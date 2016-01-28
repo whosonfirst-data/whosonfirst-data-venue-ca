@@ -2,13 +2,14 @@
   "id": 168849715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.021034,43.849663,-79.021034,43.849663",
     "geom:latitude":43.849663,
     "geom:longitude":-79.021034,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"118 Harwood Ave S",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895635,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e921aeec75db1065082e293784b307fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":168849715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":168849715
         }
     ],
     "wof:id":168849715,
-    "wof:lastmodified":1449027914,
+    "wof:lastmodified":1453927947,
     "wof:name":"Family Fashion Outlet",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.021034,43.849663,-79.021034,43.849663],
+  "bbox": [
+    -79.021034,
+    43.849663,
+    -79.021034,
+    43.849663
+],
   "geometry": {"coordinates":[-79.021034,43.849663],"type":"Point"}
 }

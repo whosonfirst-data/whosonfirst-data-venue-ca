@@ -2,13 +2,14 @@
   "id": 169249235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.229347,42.981037,-81.229347,42.981037",
     "geom:latitude":42.981037,
     "geom:longitude":-81.229347,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"573 1/2 Grey St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "gutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IG9DJtWzVj2JLoZv4TZ3k_42.981037_-81.229347@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c50e8661b71e145d5b73a5814b775305",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":169249235
+        }
+    ],
     "wof:id":169249235,
-    "wof:lastmodified":1449032854,
+    "wof:lastmodified":1453928994,
     "wof:name":"Ken Geddes & Son Sheet Metal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.229347,42.981037,-81.229347,42.981037],
+  "bbox": [
+    -81.229347,
+    42.981037,
+    -81.229347,
+    42.981037
+],
   "geometry": {"coordinates":[-81.229347,42.981037],"type":"Point"}
 }

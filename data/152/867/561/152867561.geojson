@@ -2,13 +2,14 @@
   "id": 152867561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.747765,43.667671,-79.747765,43.667671",
     "geom:latitude":43.667671,
     "geom:longitude":-79.747765,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"247 Mcmurchy Ave S",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"af03cd2c18e4b41415c1ecb07ef41e10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152867561
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152867561
         }
     ],
     "wof:id":152867561,
-    "wof:lastmodified":1449046311,
+    "wof:lastmodified":1453934353,
     "wof:name":"Kiwanis Club of Brampton",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.747765,43.667671,-79.747765,43.667671],
+  "bbox": [
+    -79.747765,
+    43.667671,
+    -79.747765,
+    43.667671
+],
   "geometry": {"coordinates":[-79.747765,43.667671],"type":"Point"}
 }

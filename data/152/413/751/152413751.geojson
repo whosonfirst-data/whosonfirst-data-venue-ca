@@ -2,13 +2,14 @@
   "id": 152413751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.270004,43.144478,-79.270004,43.144478",
     "geom:latitude":43.144478,
     "geom:longitude":-79.270004,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"320 Vansickle Rd # 2",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864651,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"4d8ae34b00d7ecafdd714c438588af66",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864651,
+            "region_id":85682057,
+            "venue_id":152413751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864651,
             "region_id":85682057,
             "venue_id":152413751
         }
     ],
     "wof:id":152413751,
-    "wof:lastmodified":1449045034,
+    "wof:lastmodified":1453933391,
     "wof:name":"Silver Cross",
     "wof:parent_id":85864651,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.270004,43.144478,-79.270004,43.144478],
+  "bbox": [
+    -79.270004,
+    43.144478,
+    -79.270004,
+    43.144478
+],
   "geometry": {"coordinates":[-79.270004,43.144478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203095029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.606056,45.523327,-73.606056,45.523327",
     "geom:latitude":45.523327,
     "geom:longitude":-73.606056,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"365 Rue Bernard O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784831,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"439dbc3962ad2db6a05dba7ff76b1efc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203095029
         }
     ],
     "wof:id":203095029,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1453927585,
     "wof:name":"Papaye Verte",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.606056,45.523327,-73.606056,45.523327],
+  "bbox": [
+    -73.606056,
+    45.523327,
+    -73.606056,
+    45.523327
+],
   "geometry": {"coordinates":[-73.606056,45.523327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152690061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.833672,43.907196,-78.833672,43.907196",
     "geom:latitude":43.907196,
     "geom:longitude":-78.833672,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"71 Southwood St",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875173,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"d1ef2fdf7e0d4f3eebf3117e02584b15",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875173,
+            "region_id":85682057,
+            "venue_id":152690061
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875173,
             "region_id":85682057,
             "venue_id":152690061
         }
     ],
     "wof:id":152690061,
-    "wof:lastmodified":1449046749,
+    "wof:lastmodified":1453934682,
     "wof:name":"Southwoods Bed & Breakfast",
     "wof:parent_id":85875173,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.833672,43.907196,-78.833672,43.907196],
-  "geometry": {"coordinates":[-78.833672,43.907196],"type":"Point"}
+  "bbox": [
+    -78.833672,
+    43.907196,
+    -78.833672,
+    43.907196
+],
+  "geometry": {"coordinates":[-78.83367200000001,43.907196],"type":"Point"}
 }

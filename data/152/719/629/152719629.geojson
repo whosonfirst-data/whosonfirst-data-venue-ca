@@ -2,13 +2,14 @@
   "id": 152719629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616737,45.495026,-73.616737,45.495026",
     "geom:latitude":45.495026,
     "geom:longitude":-73.616737,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4942 Ch DE LA Cote-Des-Neiges",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897533,
+        102191575,
         85633041,
-        85897533
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"0e056325754a9b965824be7c05524a0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897533,
+            "region_id":136251273,
             "venue_id":152719629
         }
     ],
     "wof:id":152719629,
-    "wof:lastmodified":1449044902,
+    "wof:lastmodified":1453933294,
     "wof:name":"Austrian Ski Shop Regd",
     "wof:parent_id":85897533,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.616737,45.495026,-73.616737,45.495026],
+  "bbox": [
+    -73.616737,
+    45.495026,
+    -73.616737,
+    45.495026
+],
   "geometry": {"coordinates":[-73.616737,45.495026],"type":"Point"}
 }

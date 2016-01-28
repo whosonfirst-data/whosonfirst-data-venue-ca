@@ -2,13 +2,14 @@
   "id": 152217867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.752975,45.488472,-73.752975,45.488472",
     "geom:latitude":45.488472,
     "geom:longitude":-73.752975,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6455 Rue Abrams",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"230c5ab09b66dd8645c94de31e98307a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152217867
         }
     ],
     "wof:id":152217867,
-    "wof:lastmodified":1449048641,
+    "wof:lastmodified":1453936120,
     "wof:name":"Groupe Master Ltee",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.752975,45.488472,-73.752975,45.488472],
-  "geometry": {"coordinates":[-73.752975,45.488472],"type":"Point"}
+  "bbox": [
+    -73.752975,
+    45.488472,
+    -73.752975,
+    45.488472
+],
+  "geometry": {"coordinates":[-73.75297500000001,45.488472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152272839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.456734,45.451347,-73.456734,45.451347",
     "geom:latitude":45.451347,
     "geom:longitude":-73.456734,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brossard",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897511,
+        102191575,
         85633041,
-        85897511
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"7364cf6e36fc3faf02602e2a42cbd98c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897511,
+            "region_id":136251273,
             "venue_id":152272839
         }
     ],
     "wof:id":152272839,
-    "wof:lastmodified":1449048604,
+    "wof:lastmodified":1453936090,
     "wof:name":"J P Lazure Dentureoligist",
     "wof:parent_id":85897511,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.456734,45.451347,-73.456734,45.451347],
+  "bbox": [
+    -73.456734,
+    45.451347,
+    -73.456734,
+    45.451347
+],
   "geometry": {"coordinates":[-73.456734,45.451347],"type":"Point"}
 }

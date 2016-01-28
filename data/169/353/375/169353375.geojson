@@ -2,13 +2,14 @@
   "id": 169353375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.681442,45.501274,-73.681442,45.501274",
     "geom:latitude":45.501274,
     "geom:longitude":-73.681442,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2141 Rue Saint-Louis",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ac600e2d4ff9562a17652ff92e47c2c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169353375
         }
     ],
     "wof:id":169353375,
-    "wof:lastmodified":1449033630,
+    "wof:lastmodified":1453929746,
     "wof:name":"Tabagie St-Louis",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.681442,45.501274,-73.681442,45.501274],
+  "bbox": [
+    -73.681442,
+    45.501274,
+    -73.681442,
+    45.501274
+],
   "geometry": {"coordinates":[-73.681442,45.501274],"type":"Point"}
 }

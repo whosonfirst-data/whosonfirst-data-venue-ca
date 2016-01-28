@@ -2,13 +2,14 @@
   "id": 152370403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.82605,43.897449,-78.82605,43.897449",
     "geom:latitude":43.897449,
     "geom:longitude":-78.82605,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"294 Lorindale Dr",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875163,
-        85682057
+        102191575,
+        85633041,
+        101736039,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"40b485ce0a2086f337a1c0c36ad8f9d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736039,
+            "neighbourhood_id":85875163,
+            "region_id":85682057,
+            "venue_id":152370403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875163,
             "region_id":85682057,
             "venue_id":152370403
         }
     ],
     "wof:id":152370403,
-    "wof:lastmodified":1449046823,
+    "wof:lastmodified":1453934734,
     "wof:name":"Mitchell's Piano Tuning",
     "wof:parent_id":85875163,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.82605,43.897449,-78.82605,43.897449],
+  "bbox": [
+    -78.82605,
+    43.897449,
+    -78.82605,
+    43.897449
+],
   "geometry": {"coordinates":[-78.82605,43.897449],"type":"Point"}
 }

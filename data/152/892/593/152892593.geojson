@@ -2,13 +2,14 @@
   "id": 152892593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.796333,45.483936,-73.796333,45.483936",
     "geom:latitude":45.483936,
     "geom:longitude":-73.796333,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
         {
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85784719,
+        102191575,
         85633041,
-        85784719
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"b7b299530480627640f6d608912da153",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85784719,
+            "region_id":136251273,
             "venue_id":152892593
         }
     ],
     "wof:id":152892593,
-    "wof:lastmodified":1449044990,
+    "wof:lastmodified":1453933354,
     "wof:name":"Woofers Inc",
     "wof:parent_id":85784719,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.796333,45.483936,-73.796333,45.483936],
+  "bbox": [
+    -73.796333,
+    45.483936,
+    -73.796333,
+    45.483936
+],
   "geometry": {"coordinates":[-73.796333,45.483936],"type":"Point"}
 }

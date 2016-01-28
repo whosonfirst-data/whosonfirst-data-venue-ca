@@ -2,13 +2,14 @@
   "id": 203191663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.544037,45.528915,-73.544037,45.528915",
     "geom:latitude":45.528915,
     "geom:longitude":-73.544037,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2490 Rue Notre-Dame O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874353,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"b5b2186ad26ddea4ad57c903742eb60b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203191663
         }
     ],
     "wof:id":203191663,
-    "wof:lastmodified":1449026085,
+    "wof:lastmodified":1453927616,
     "wof:name":"Theatre Corona",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.544037,45.528915,-73.544037,45.528915],
+  "bbox": [
+    -73.544037,
+    45.528915,
+    -73.544037,
+    45.528915
+],
   "geometry": {"coordinates":[-73.544037,45.528915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152329067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.849297,48.31778,-70.849297,48.31778",
     "geom:latitude":48.31778,
     "geom:longitude":-70.849297,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3671 Boul DE LA Grande-Baie S",
     "sg:city":"LA Baie",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785011,
+        102191575,
         85633041,
-        85785011
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"724c8c890df129304951c957c012a88a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
+            "region_id":136251273,
             "venue_id":152329067
         }
     ],
     "wof:id":152329067,
-    "wof:lastmodified":1449045583,
+    "wof:lastmodified":1453933811,
     "wof:name":"Epicerie Simard Benoit Ltee",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.849297,48.31778,-70.849297,48.31778],
-  "geometry": {"coordinates":[-70.849297,48.31778],"type":"Point"}
+  "bbox": [
+    -70.849297,
+    48.31778,
+    -70.849297,
+    48.31778
+],
+  "geometry": {"coordinates":[-70.84929700000001,48.31778],"type":"Point"}
 }

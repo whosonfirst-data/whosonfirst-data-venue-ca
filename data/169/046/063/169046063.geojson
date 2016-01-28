@@ -2,13 +2,14 @@
   "id": 169046063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.737259,45.453693,-73.737259,45.453693",
     "geom:latitude":45.453693,
     "geom:longitude":-73.737259,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12505 Ch Cote-DE-Liesse",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        102554351,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,21 +40,29 @@
     "wof:geomhash":"205366ad7d014b445557a435f1c51225",
     "wof:hierarchy":[
         {
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":169046063
         }
     ],
     "wof:id":169046063,
-    "wof:lastmodified":1449034518,
+    "wof:lastmodified":1453930711,
     "wof:name":"Hilton",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.737259,45.453693,-73.737259,45.453693],
-  "geometry": {"coordinates":[-73.737259,45.453693],"type":"Point"}
+  "bbox": [
+    -73.737259,
+    45.453693,
+    -73.737259,
+    45.453693
+],
+  "geometry": {"coordinates":[-73.73725899999999,45.453693],"type":"Point"}
 }

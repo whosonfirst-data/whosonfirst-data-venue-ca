@@ -2,13 +2,14 @@
   "id": 169239221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.545334,45.544624,-73.545334,45.544624",
     "geom:latitude":45.544624,
     "geom:longitude":-73.545334,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3537 Rue Ontario E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4bac79a14ccc4de90a69427778792fdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":169239221
         }
     ],
     "wof:id":169239221,
-    "wof:lastmodified":1449032987,
+    "wof:lastmodified":1453929119,
     "wof:name":"Bilboquet",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.545334,45.544624,-73.545334,45.544624],
+  "bbox": [
+    -73.545334,
+    45.544624,
+    -73.545334,
+    45.544624
+],
   "geometry": {"coordinates":[-73.545334,45.544624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202831563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.524574,43.462864,-80.524574,43.462864",
     "geom:latitude":43.462864,
     "geom:longitude":-80.524574,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Waterloo",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864657,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"b080f70525a6bbda63aa1e3ac37a49db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864657,
+            "region_id":85682057,
+            "venue_id":202831563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85864657,
             "region_id":85682057,
             "venue_id":202831563
         }
     ],
     "wof:id":202831563,
-    "wof:lastmodified":1449061600,
+    "wof:lastmodified":1453937288,
     "wof:name":"Ampersand Studios",
     "wof:parent_id":85864657,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "designer"
     ]
 },
-  "bbox": [-80.524574,43.462864,-80.524574,43.462864],
+  "bbox": [
+    -80.524574,
+    43.462864,
+    -80.524574,
+    43.462864
+],
   "geometry": {"coordinates":[-80.524574,43.462864],"type":"Point"}
 }

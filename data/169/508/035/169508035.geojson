@@ -2,13 +2,14 @@
   "id": 169508035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.742561,45.443718,-73.742561,45.443718",
     "geom:latitude":45.443718,
     "geom:longitude":-73.742561,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"855 Av Carson",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85864409,
+        102191575,
         85633041,
-        85864409
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"4a25f3615abbe623cbd543b9046e52f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85864409,
+            "region_id":136251273,
             "venue_id":169508035
         }
     ],
     "wof:id":169508035,
-    "wof:lastmodified":1449034542,
+    "wof:lastmodified":1453930745,
     "wof:name":"Choquette & Choquette",
     "wof:parent_id":85864409,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.742561,45.443718,-73.742561,45.443718],
-  "geometry": {"coordinates":[-73.742561,45.443718],"type":"Point"}
+  "bbox": [
+    -73.742561,
+    45.443718,
+    -73.742561,
+    45.443718
+],
+  "geometry": {"coordinates":[-73.74256099999999,45.443718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169413203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.31662,43.00742,-81.31662,43.00742",
     "geom:latitude":43.00742,
     "geom:longitude":-81.31662,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Sandalwood Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874935,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vMa1CNn6wRImTswSojH0u_43.007420_-81.316620@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"80b33c8588f35fc26988d73d10837477",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
+            "region_id":85682057,
+            "venue_id":169413203
+        }
+    ],
     "wof:id":169413203,
-    "wof:lastmodified":1449033213,
+    "wof:lastmodified":1453929303,
     "wof:name":"Mostly Residential",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.31662,43.00742,-81.31662,43.00742],
+  "bbox": [
+    -81.31662,
+    43.00742,
+    -81.31662,
+    43.00742
+],
   "geometry": {"coordinates":[-81.31662,43.00742],"type":"Point"}
 }

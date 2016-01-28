@@ -2,13 +2,14 @@
   "id": 152870575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.251518,46.845882,-71.251518,46.845882",
     "geom:latitude":46.845882,
     "geom:longitude":-71.251518,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"645 65E Rue E",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"de7a11684f3e8a009df428cb71c65a6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":152870575
         }
     ],
     "wof:id":152870575,
-    "wof:lastmodified":1449045510,
+    "wof:lastmodified":1453933756,
     "wof:name":"Martin & Parent Enr",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.251518,46.845882,-71.251518,46.845882],
+  "bbox": [
+    -71.251518,
+    46.845882,
+    -71.251518,
+    46.845882
+],
   "geometry": {"coordinates":[-71.251518,46.845882],"type":"Point"}
 }

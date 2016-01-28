@@ -2,13 +2,14 @@
   "id": 169525137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.880272,43.930313,-78.880272,43.930313",
     "geom:latitude":43.930313,
     "geom:longitude":-78.880272,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"86 Russett Ave",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875145,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"34c8c9ead6386f2efce4e01afff1f3f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875145,
+            "region_id":85682057,
+            "venue_id":169525137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875145,
             "region_id":85682057,
             "venue_id":169525137
         }
     ],
     "wof:id":169525137,
-    "wof:lastmodified":1449035274,
+    "wof:lastmodified":1453931478,
     "wof:name":"Don Butt Auto Body Inc",
     "wof:parent_id":85875145,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.880272,43.930313,-78.880272,43.930313],
-  "geometry": {"coordinates":[-78.880272,43.930313],"type":"Point"}
+  "bbox": [
+    -78.880272,
+    43.930313,
+    -78.880272,
+    43.930313
+],
+  "geometry": {"coordinates":[-78.88027200000001,43.930313],"type":"Point"}
 }

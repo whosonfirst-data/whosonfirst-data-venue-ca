@@ -2,13 +2,14 @@
   "id": 169024459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.638527,45.493088,-73.638527,45.493088",
     "geom:latitude":45.493088,
     "geom:longitude":-73.638527,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4880 Av Van Horne",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871113,
+        102191575,
         85633041,
-        85871113
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"1126d221514e418712f699744cae4768",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871113,
+            "region_id":136251273,
             "venue_id":169024459
         }
     ],
     "wof:id":169024459,
-    "wof:lastmodified":1449034263,
+    "wof:lastmodified":1453930447,
     "wof:name":"Cote Des Neige Sport Ctr",
     "wof:parent_id":85871113,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.638527,45.493088,-73.638527,45.493088],
+  "bbox": [
+    -73.638527,
+    45.493088,
+    -73.638527,
+    45.493088
+],
   "geometry": {"coordinates":[-73.638527,45.493088],"type":"Point"}
 }

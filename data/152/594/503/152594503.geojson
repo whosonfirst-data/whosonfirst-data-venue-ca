@@ -2,13 +2,14 @@
   "id": 152594503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.365288,46.907696,-71.365288,46.907696",
     "geom:latitude":46.907696,
     "geom:longitude":-71.365288,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1319 Rue Hamann",
     "sg:city":"Lac-Saint-Charles",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864387,
+        102191575,
         85633041,
-        85864387
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"313ec0b5b44595f52084e1640999fcd4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864387,
+            "region_id":136251273,
             "venue_id":152594503
         }
     ],
     "wof:id":152594503,
-    "wof:lastmodified":1449044971,
+    "wof:lastmodified":1453933344,
     "wof:name":"Air-Pro Ventilation Inc",
     "wof:parent_id":85864387,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.365288,46.907696,-71.365288,46.907696],
-  "geometry": {"coordinates":[-71.365288,46.907696],"type":"Point"}
+  "bbox": [
+    -71.365288,
+    46.907696,
+    -71.365288,
+    46.907696
+],
+  "geometry": {"coordinates":[-71.36528800000001,46.907696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169481485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.711533,43.719418,-79.711533,43.719418",
     "geom:latitude":43.719418,
     "geom:longitude":-79.711533,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"375 Clark Blvd",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"08f9041f66363dbe1b1ed75216b59999",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":169481485
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":169481485
         }
     ],
     "wof:id":169481485,
-    "wof:lastmodified":1449035530,
+    "wof:lastmodified":1453931772,
     "wof:name":"Redeemer Lutheran Church",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.711533,43.719418,-79.711533,43.719418],
+  "bbox": [
+    -79.711533,
+    43.719418,
+    -79.711533,
+    43.719418
+],
   "geometry": {"coordinates":[-79.711533,43.719418],"type":"Point"}
 }

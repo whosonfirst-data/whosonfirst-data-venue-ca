@@ -2,13 +2,14 @@
   "id": 169188125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.56424,45.378868,-73.56424,45.378868",
     "geom:latitude":45.378868,
     "geom:longitude":-73.56424,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"78 Rue Saint-Pierre",
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"fdfd670cc63908f430f5c5cab22edefe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":169188125
         }
     ],
     "wof:id":169188125,
-    "wof:lastmodified":1449034327,
+    "wof:lastmodified":1453930500,
     "wof:name":"Centre DE Karate St Constant",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.56424,45.378868,-73.56424,45.378868],
+  "bbox": [
+    -73.56424,
+    45.378868,
+    -73.56424,
+    45.378868
+],
   "geometry": {"coordinates":[-73.56424,45.378868],"type":"Point"}
 }

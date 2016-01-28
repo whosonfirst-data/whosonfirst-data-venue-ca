@@ -2,13 +2,14 @@
   "id": 152522981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563911,45.379848,-73.563911,45.379848",
     "geom:latitude":45.379848,
     "geom:longitude":-73.563911,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"f4de4a2f326d560f23c8510e71d02216",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":152522981
         }
     ],
     "wof:id":152522981,
-    "wof:lastmodified":1449046513,
+    "wof:lastmodified":1453934510,
     "wof:name":"Rivard & Rivard",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.563911,45.379848,-73.563911,45.379848],
+  "bbox": [
+    -73.563911,
+    45.379848,
+    -73.563911,
+    45.379848
+],
   "geometry": {"coordinates":[-73.563911,45.379848],"type":"Point"}
 }

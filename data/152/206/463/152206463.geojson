@@ -2,13 +2,14 @@
   "id": 152206463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.623703,43.640507,-79.623703,43.640507",
     "geom:latitude":43.640507,
     "geom:longitude":-79.623703,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1691 Matheson Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8d2f7423f37f71b57c732136f47d5d07",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152206463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152206463
         }
     ],
     "wof:id":152206463,
-    "wof:lastmodified":1449047438,
+    "wof:lastmodified":1453935205,
     "wof:name":"Sonoco Flexible Packaging",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.623703,43.640507,-79.623703,43.640507],
-  "geometry": {"coordinates":[-79.623703,43.640507],"type":"Point"}
+  "bbox": [
+    -79.623703,
+    43.640507,
+    -79.623703,
+    43.640507
+],
+  "geometry": {"coordinates":[-79.62370300000001,43.640507],"type":"Point"}
 }

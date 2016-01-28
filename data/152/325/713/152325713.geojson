@@ -2,13 +2,14 @@
   "id": 152325713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.540962,45.590767,-73.540962,45.590767",
     "geom:latitude":45.590767,
     "geom:longitude":-73.540962,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874169,
+        102191575,
         85633041,
-        85874169
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"ff7df45a880564d087c161008876b304",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
+            "region_id":136251273,
             "venue_id":152325713
         }
     ],
     "wof:id":152325713,
-    "wof:lastmodified":1449046126,
+    "wof:lastmodified":1453934213,
     "wof:name":"Sansregret Taillefer Assurance",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.540962,45.590767,-73.540962,45.590767],
-  "geometry": {"coordinates":[-73.540962,45.590767],"type":"Point"}
+  "bbox": [
+    -73.540962,
+    45.590767,
+    -73.540962,
+    45.590767
+],
+  "geometry": {"coordinates":[-73.54096199999999,45.590767],"type":"Point"}
 }

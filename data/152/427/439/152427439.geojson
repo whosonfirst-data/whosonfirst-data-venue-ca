@@ -2,13 +2,14 @@
   "id": 152427439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.6064,45.612946,-73.6064,45.612946",
     "geom:latitude":45.612946,
     "geom:longitude":-73.6064,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11281 Boul Albert-Hudon",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9b2223294815e82bc1dee04dbe9e448b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":152427439
         }
     ],
     "wof:id":152427439,
-    "wof:lastmodified":1449045690,
+    "wof:lastmodified":1453933889,
     "wof:name":"Iga Canada",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.6064,45.612946,-73.6064,45.612946],
-  "geometry": {"coordinates":[-73.6064,45.612946],"type":"Point"}
+  "bbox": [
+    -73.6064,
+    45.612946,
+    -73.6064,
+    45.612946
+],
+  "geometry": {"coordinates":[-73.60639999999999,45.612946],"type":"Point"}
 }

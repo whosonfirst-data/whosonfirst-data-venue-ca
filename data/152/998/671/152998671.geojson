@@ -2,13 +2,14 @@
   "id": 152998671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.266586,43.202251,-79.266586,43.202251",
     "geom:latitude":43.202251,
     "geom:longitude":-79.266586,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"17 Lock St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85784853,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"3f036062e6b93774c79d3c91d80470eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85784853,
+            "region_id":85682057,
+            "venue_id":152998671
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85784853,
             "region_id":85682057,
             "venue_id":152998671
         }
     ],
     "wof:id":152998671,
-    "wof:lastmodified":1449045836,
+    "wof:lastmodified":1453933997,
     "wof:name":"Kilt & Clover",
     "wof:parent_id":85784853,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.266586,43.202251,-79.266586,43.202251],
+  "bbox": [
+    -79.266586,
+    43.202251,
+    -79.266586,
+    43.202251
+],
   "geometry": {"coordinates":[-79.266586,43.202251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152414585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.73465,43.876816,-79.73465,43.876816",
     "geom:latitude":43.876816,
     "geom:longitude":-79.73465,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Queen St S",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895067,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101736249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"0e6c0b4a219fa5e5f585b368d8f65147",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895067,
+            "region_id":85682057,
+            "venue_id":152414585
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736249,
             "neighbourhood_id":85895067,
             "region_id":85682057,
             "venue_id":152414585
         }
     ],
     "wof:id":152414585,
-    "wof:lastmodified":1449046466,
+    "wof:lastmodified":1453934480,
     "wof:name":"Georges Arena Sports Ltd",
     "wof:parent_id":85895067,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.73465,43.876816,-79.73465,43.876816],
+  "bbox": [
+    -79.73465,
+    43.876816,
+    -79.73465,
+    43.876816
+],
   "geometry": {"coordinates":[-79.73465,43.876816],"type":"Point"}
 }

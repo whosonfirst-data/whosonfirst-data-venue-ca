@@ -2,13 +2,14 @@
   "id": 169018099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.739143,45.493874,-73.739143,45.493874",
     "geom:latitude":45.493874,
     "geom:longitude":-73.739143,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5060 Rue Levy",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ec1a68faaf33a5b04019d7478588caff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":169018099
         }
     ],
     "wof:id":169018099,
-    "wof:lastmodified":1449034329,
+    "wof:lastmodified":1453930504,
     "wof:name":"Carrier Canada Ltee",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.739143,45.493874,-73.739143,45.493874],
+  "bbox": [
+    -73.739143,
+    45.493874,
+    -73.739143,
+    45.493874
+],
   "geometry": {"coordinates":[-73.739143,45.493874],"type":"Point"}
 }

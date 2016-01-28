@@ -2,13 +2,14 @@
   "id": 152296529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566063,45.376675,-73.566063,45.376675",
     "geom:latitude":45.376675,
     "geom:longitude":-73.566063,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"93 Rang Saint-Pierre N",
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b2cd430f9a1c4d763d5513e95aa8c7d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":152296529
         }
     ],
     "wof:id":152296529,
-    "wof:lastmodified":1449048063,
+    "wof:lastmodified":1453935694,
     "wof:name":"Clinique Dentaire R Ferland",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566063,45.376675,-73.566063,45.376675],
+  "bbox": [
+    -73.566063,
+    45.376675,
+    -73.566063,
+    45.376675
+],
   "geometry": {"coordinates":[-73.566063,45.376675],"type":"Point"}
 }

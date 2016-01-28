@@ -2,13 +2,14 @@
   "id": 202460043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.664764,45.508263,-73.664764,45.508263",
     "geom:latitude":45.508263,
     "geom:longitude":-73.664764,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"130 Av Sainte-Croix",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895725,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"8398e025bdf7c35312955f456410f83e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202460043
         }
     ],
     "wof:id":202460043,
-    "wof:lastmodified":1449062508,
+    "wof:lastmodified":1453937477,
     "wof:name":"Abs Canada Inc",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "brakes"
     ]
 },
-  "bbox": [-73.664764,45.508263,-73.664764,45.508263],
-  "geometry": {"coordinates":[-73.664764,45.508263],"type":"Point"}
+  "bbox": [
+    -73.664764,
+    45.508263,
+    -73.664764,
+    45.508263
+],
+  "geometry": {"coordinates":[-73.66476400000001,45.508263],"type":"Point"}
 }

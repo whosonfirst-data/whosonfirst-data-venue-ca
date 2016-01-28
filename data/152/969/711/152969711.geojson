@@ -2,13 +2,14 @@
   "id": 152969711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.645103,43.492226,-79.645103,43.492226",
     "geom:latitude":43.492226,
     "geom:longitude":-79.645103,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2440 Beryl Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895177,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"3413ec7628f8261595347337a1a7c007",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895177,
+            "region_id":85682057,
+            "venue_id":152969711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895177,
             "region_id":85682057,
             "venue_id":152969711
         }
     ],
     "wof:id":152969711,
-    "wof:lastmodified":1449045403,
+    "wof:lastmodified":1453933673,
     "wof:name":"Millennium",
     "wof:parent_id":85895177,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.645103,43.492226,-79.645103,43.492226],
-  "geometry": {"coordinates":[-79.645103,43.492226],"type":"Point"}
+  "bbox": [
+    -79.645103,
+    43.492226,
+    -79.645103,
+    43.492226
+],
+  "geometry": {"coordinates":[-79.64510300000001,43.492226],"type":"Point"}
 }

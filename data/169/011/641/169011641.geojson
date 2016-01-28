@@ -2,13 +2,14 @@
   "id": 169011641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.674423,43.626492,-79.674423,43.626492",
     "geom:latitude":43.626492,
     "geom:longitude":-79.674423,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5895 Whittle Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"3ed4d450e04fd63b4d3c8d205fcfdebd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":169011641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":169011641
         }
     ],
     "wof:id":169011641,
-    "wof:lastmodified":1449035360,
+    "wof:lastmodified":1453931565,
     "wof:name":"Graybar Electric Ltd",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.674423,43.626492,-79.674423,43.626492],
+  "bbox": [
+    -79.674423,
+    43.626492,
+    -79.674423,
+    43.626492
+],
   "geometry": {"coordinates":[-79.674423,43.626492],"type":"Point"}
 }

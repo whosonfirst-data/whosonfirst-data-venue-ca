@@ -2,13 +2,14 @@
   "id": 169229825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.290855,45.450108,-73.290855,45.450108",
     "geom:latitude":45.450108,
     "geom:longitude":-73.290855,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"56 Rue Martel",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895771,
+        102191575,
         85633041,
-        85895771
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7711bb2b23e1804a766117fd0492defd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895771,
+            "region_id":136251273,
             "venue_id":169229825
         }
     ],
     "wof:id":169229825,
-    "wof:lastmodified":1449035292,
+    "wof:lastmodified":1453931500,
     "wof:name":"Chambly Maison Culturelle",
     "wof:parent_id":85895771,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.290855,45.450108,-73.290855,45.450108],
-  "geometry": {"coordinates":[-73.290855,45.450108],"type":"Point"}
+  "bbox": [
+    -73.290855,
+    45.450108,
+    -73.290855,
+    45.450108
+],
+  "geometry": {"coordinates":[-73.29085499999999,45.450108],"type":"Point"}
 }

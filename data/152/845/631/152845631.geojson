@@ -2,13 +2,14 @@
   "id": 152845631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.213989,43.012131,-81.213989,43.012131",
     "geom:latitude":43.012131,
     "geom:longitude":-81.213989,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1230 Landor St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "sealing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aZIfVukbZk3qooKaoawtz_43.012131_-81.213989@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e1bbb827df7ba110eff31c2c5acb13cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":152845631
+        }
+    ],
     "wof:id":152845631,
-    "wof:lastmodified":1449045057,
+    "wof:lastmodified":1453933404,
     "wof:name":"Black Magic Asphalt Constr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.213989,43.012131,-81.213989,43.012131],
+  "bbox": [
+    -81.213989,
+    43.012131,
+    -81.213989,
+    43.012131
+],
   "geometry": {"coordinates":[-81.213989,43.012131],"type":"Point"}
 }

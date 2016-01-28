@@ -2,13 +2,14 @@
   "id": 169436829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.095451,43.918465,-80.095451,43.918465",
     "geom:latitude":43.918465,
     "geom:longitude":-80.095451,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"37 Mill St",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895287,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f7a26cabe11a6bafe974812c7ba62a82",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895287,
+            "region_id":85682057,
+            "venue_id":169436829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895287,
             "region_id":85682057,
             "venue_id":169436829
         }
     ],
     "wof:id":169436829,
-    "wof:lastmodified":1449035643,
+    "wof:lastmodified":1453931886,
     "wof:name":"Orangeville Banner",
     "wof:parent_id":85895287,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.095451,43.918465,-80.095451,43.918465],
+  "bbox": [
+    -80.095451,
+    43.918465,
+    -80.095451,
+    43.918465
+],
   "geometry": {"coordinates":[-80.095451,43.918465],"type":"Point"}
 }

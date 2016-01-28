@@ -2,13 +2,14 @@
   "id": 169473013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.215561,45.548107,-73.215561,45.548107",
     "geom:latitude":45.548107,
     "geom:longitude":-73.215561,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"219 Rue Saint-Georges",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737777,
+        85894601,
+        102191575,
         85633041,
-        85894601
+        101737777,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"ab7ef08ea2796937389ba26d16883b32",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737777,
             "neighbourhood_id":85894601,
+            "region_id":136251273,
             "venue_id":169473013
         }
     ],
     "wof:id":169473013,
-    "wof:lastmodified":1449033374,
+    "wof:lastmodified":1453929483,
     "wof:name":"Fibrocap Inc",
     "wof:parent_id":85894601,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.215561,45.548107,-73.215561,45.548107],
-  "geometry": {"coordinates":[-73.215561,45.548107],"type":"Point"}
+  "bbox": [
+    -73.215561,
+    45.548107,
+    -73.215561,
+    45.548107
+],
+  "geometry": {"coordinates":[-73.21556099999999,45.548107],"type":"Point"}
 }

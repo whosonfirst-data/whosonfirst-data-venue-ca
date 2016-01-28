@@ -2,13 +2,14 @@
   "id": 169121789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.614899,45.696056,-73.614899,45.696056",
     "geom:latitude":45.696056,
     "geom:longitude":-73.614899,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1740 Ch Saint-Charles",
     "sg:city":"Lachenaie",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871105,
+        102191575,
         85633041,
-        85871105
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bc7193e7b0ddf0cc1354eb2f7aed3069",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
+            "region_id":136251273,
             "venue_id":169121789
         }
     ],
     "wof:id":169121789,
-    "wof:lastmodified":1449035234,
+    "wof:lastmodified":1453931436,
     "wof:name":"Centre Medical St Charles Enr",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.614899,45.696056,-73.614899,45.696056],
-  "geometry": {"coordinates":[-73.614899,45.696056],"type":"Point"}
+  "bbox": [
+    -73.614899,
+    45.696056,
+    -73.614899,
+    45.696056
+],
+  "geometry": {"coordinates":[-73.61489899999999,45.696056],"type":"Point"}
 }

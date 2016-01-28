@@ -2,13 +2,14 @@
   "id": 219359117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.629112,45.43335,-73.629112,45.43335",
     "geom:latitude":45.43335,
     "geom:longitude":-73.629112,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8301 Boul Newman",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897545,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"599bf0cfd0dec1a259b1106bfacf1455",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897545,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219359117
         }
     ],
     "wof:id":219359117,
-    "wof:lastmodified":1449070330,
+    "wof:lastmodified":1453937528,
     "wof:name":"Petro-Canada",
     "wof:parent_id":85897545,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-73.629112,45.43335,-73.629112,45.43335],
-  "geometry": {"coordinates":[-73.629112,45.43335],"type":"Point"}
+  "bbox": [
+    -73.629112,
+    45.43335,
+    -73.629112,
+    45.43335
+],
+  "geometry": {"coordinates":[-73.62911200000001,45.43335],"type":"Point"}
 }

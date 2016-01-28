@@ -2,13 +2,14 @@
   "id": 152986715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.64389,43.631996,-79.64389,43.631996",
     "geom:latitude":43.631996,
     "geom:longitude":-79.64389,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"919 Matheson Blvd E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"d356396dcff0afde8c9c039805354643",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":152986715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":152986715
         }
     ],
     "wof:id":152986715,
-    "wof:lastmodified":1449048020,
+    "wof:lastmodified":1453935672,
     "wof:name":"Lowrance Canada",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.64389,43.631996,-79.64389,43.631996],
+  "bbox": [
+    -79.64389,
+    43.631996,
+    -79.64389,
+    43.631996
+],
   "geometry": {"coordinates":[-79.64389,43.631996],"type":"Point"}
 }

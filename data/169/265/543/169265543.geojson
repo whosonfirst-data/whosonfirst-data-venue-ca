@@ -2,13 +2,14 @@
   "id": 169265543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.599464,45.550919,-73.599464,45.550919",
     "geom:latitude":45.550919,
     "geom:longitude":-73.599464,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2350 Rue Belanger",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"045b01958ac072b8939ea56c2b9ee6d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":169265543
         }
     ],
     "wof:id":169265543,
-    "wof:lastmodified":1449033812,
+    "wof:lastmodified":1453929966,
     "wof:name":"Salon Du Tapis Enrg",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.599464,45.550919,-73.599464,45.550919],
+  "bbox": [
+    -73.599464,
+    45.550919,
+    -73.599464,
+    45.550919
+],
   "geometry": {"coordinates":[-73.599464,45.550919],"type":"Point"}
 }

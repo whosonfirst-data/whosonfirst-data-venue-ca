@@ -2,13 +2,14 @@
   "id": 169233025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.560173,43.769764,-79.560173,43.769764",
     "geom:latitude":43.769764,
     "geom:longitude":-79.560173,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"221 Hanlan Rd",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"1cedd89ed7710832442f575fc8502c85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":169233025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":169233025
         }
     ],
     "wof:id":169233025,
-    "wof:lastmodified":1449036029,
+    "wof:lastmodified":1453932275,
     "wof:name":"Lucebella Inc",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.560173,43.769764,-79.560173,43.769764],
-  "geometry": {"coordinates":[-79.560173,43.769764],"type":"Point"}
+  "bbox": [
+    -79.560173,
+    43.769764,
+    -79.560173,
+    43.769764
+],
+  "geometry": {"coordinates":[-79.56017300000001,43.769764],"type":"Point"}
 }

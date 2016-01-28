@@ -2,13 +2,14 @@
   "id": 152938633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.596436,45.549133,-73.596436,45.549133",
     "geom:latitude":45.549133,
     "geom:longitude":-73.596436,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2345 Rue Saint-Zotique E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3ff3ad606ca4375dcf5b452ccb48ad7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152938633
         }
     ],
     "wof:id":152938633,
-    "wof:lastmodified":1449047748,
+    "wof:lastmodified":1453935463,
     "wof:name":"Centre DE Renovation",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.596436,45.549133,-73.596436,45.549133],
+  "bbox": [
+    -73.596436,
+    45.549133,
+    -73.596436,
+    45.549133
+],
   "geometry": {"coordinates":[-73.596436,45.549133],"type":"Point"}
 }

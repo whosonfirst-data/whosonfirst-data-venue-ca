@@ -2,13 +2,14 @@
   "id": 152585687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.568016,43.605751,-79.568016,43.605751",
     "geom:latitude":43.605751,
     "geom:longitude":-79.568016,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2175 Denise Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"35b9f89689f15aa762f8f33d623fe850",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":152585687
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":152585687
         }
     ],
     "wof:id":152585687,
-    "wof:lastmodified":1449047370,
+    "wof:lastmodified":1453935158,
     "wof:name":"Accurate Carpentry & General",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.568016,43.605751,-79.568016,43.605751],
+  "bbox": [
+    -79.568016,
+    43.605751,
+    -79.568016,
+    43.605751
+],
   "geometry": {"coordinates":[-79.568016,43.605751],"type":"Point"}
 }

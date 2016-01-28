@@ -2,13 +2,14 @@
   "id": 152332129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.565689,45.37701,-73.565689,45.37701",
     "geom:latitude":45.37701,
     "geom:longitude":-73.565689,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"89A Rang Saint-Pierre N",
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"47c18f4d78e53e586c1ed7e7b34c4857",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":152332129
         }
     ],
     "wof:id":152332129,
-    "wof:lastmodified":1449046875,
+    "wof:lastmodified":1453934768,
     "wof:name":"Pizza Sema",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.565689,45.37701,-73.565689,45.37701],
-  "geometry": {"coordinates":[-73.565689,45.37701],"type":"Point"}
+  "bbox": [
+    -73.565689,
+    45.37701,
+    -73.565689,
+    45.37701
+],
+  "geometry": {"coordinates":[-73.56568900000001,45.37701],"type":"Point"}
 }

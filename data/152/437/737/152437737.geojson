@@ -2,13 +2,14 @@
   "id": 152437737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.302879,42.95097,-81.302879,42.95097",
     "geom:latitude":42.95097,
     "geom:longitude":-81.302879,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"505 Cranbrook Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "envelope"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864587,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l2C5a1mqPmwZj15UiD64e_42.950970_-81.302879@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c20b2dbefb0f8259e6e79f8b67b3a08e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864587,
+            "region_id":85682057,
+            "venue_id":152437737
+        }
+    ],
     "wof:id":152437737,
-    "wof:lastmodified":1449047638,
+    "wof:lastmodified":1453935374,
     "wof:name":"Royal Envelope Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864587,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.302879,42.95097,-81.302879,42.95097],
+  "bbox": [
+    -81.302879,
+    42.95097,
+    -81.302879,
+    42.95097
+],
   "geometry": {"coordinates":[-81.302879,42.95097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153040067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.862213,43.874577,-78.862213,43.874577",
     "geom:latitude":43.874577,
     "geom:longitude":-78.862213,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"339 Malaga Rd",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875171,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"2b45fcfee58d0dcd3cd57c6fbbcb37d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875171,
+            "region_id":85682057,
+            "venue_id":153040067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875171,
             "region_id":85682057,
             "venue_id":153040067
         }
     ],
     "wof:id":153040067,
-    "wof:lastmodified":1449040801,
+    "wof:lastmodified":1453932709,
     "wof:name":"My Sister's Place",
     "wof:parent_id":85875171,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.862213,43.874577,-78.862213,43.874577],
+  "bbox": [
+    -78.862213,
+    43.874577,
+    -78.862213,
+    43.874577
+],
   "geometry": {"coordinates":[-78.862213,43.874577],"type":"Point"}
 }

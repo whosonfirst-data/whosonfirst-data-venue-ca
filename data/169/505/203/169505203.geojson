@@ -2,13 +2,14 @@
   "id": 169505203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.58622,45.564831,-73.58622,45.564831",
     "geom:latitude":45.564831,
     "geom:longitude":-73.58622,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6917 Boul Pie-Ix",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874371,
+        102191575,
         85633041,
-        85874371
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ef4950d1059617eacd599205e8e08a61",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
+            "region_id":136251273,
             "venue_id":169505203
         }
     ],
     "wof:id":169505203,
-    "wof:lastmodified":1449035426,
+    "wof:lastmodified":1453931636,
     "wof:name":"Laberge, Claude",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.58622,45.564831,-73.58622,45.564831],
+  "bbox": [
+    -73.58622,
+    45.564831,
+    -73.58622,
+    45.564831
+],
   "geometry": {"coordinates":[-73.58622,45.564831],"type":"Point"}
 }

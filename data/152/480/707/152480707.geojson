@@ -2,13 +2,14 @@
   "id": 152480707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.862068,43.29937,-79.862068,43.29937",
     "geom:latitude":43.29937,
     "geom:longitude":-79.862068,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"280 Plains Rd W",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895263,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"f5c361c71d07b5716a98fbd659a9150f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895263,
+            "region_id":85682057,
+            "venue_id":152480707
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895263,
             "region_id":85682057,
             "venue_id":152480707
         }
     ],
     "wof:id":152480707,
-    "wof:lastmodified":1449045814,
+    "wof:lastmodified":1453933983,
     "wof:name":"Smith, J Martin PhD",
     "wof:parent_id":85895263,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.862068,43.29937,-79.862068,43.29937],
-  "geometry": {"coordinates":[-79.862068,43.29937],"type":"Point"}
+  "bbox": [
+    -79.862068,
+    43.29937,
+    -79.862068,
+    43.29937
+],
+  "geometry": {"coordinates":[-79.86206799999999,43.29937],"type":"Point"}
 }

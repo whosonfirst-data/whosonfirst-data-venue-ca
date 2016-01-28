@@ -2,13 +2,14 @@
   "id": 152195915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578545,45.498425,-73.578545,45.498425",
     "geom:latitude":45.498425,
     "geom:longitude":-73.578545,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2150 Rue Crescent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866491,
+        102191575,
         85633041,
-        85866491
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"2f14a7b04698f4c72b5e8c48a824501b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
+            "region_id":136251273,
             "venue_id":152195915
         }
     ],
     "wof:id":152195915,
-    "wof:lastmodified":1449047336,
+    "wof:lastmodified":1453935128,
     "wof:name":"Shan Boutique",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578545,45.498425,-73.578545,45.498425],
-  "geometry": {"coordinates":[-73.578545,45.498425],"type":"Point"}
+  "bbox": [
+    -73.578545,
+    45.498425,
+    -73.578545,
+    45.498425
+],
+  "geometry": {"coordinates":[-73.57854500000001,45.498425],"type":"Point"}
 }

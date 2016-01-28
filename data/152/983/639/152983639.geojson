@@ -2,13 +2,14 @@
   "id": 152983639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.608887,45.546417,-73.608887,45.546417",
     "geom:latitude":45.546417,
     "geom:longitude":-73.608887,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7163 Rue Garnier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866495,
+        102191575,
         85633041,
-        85866495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"68efdbbb338c5861e119ea4366612740",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866495,
+            "region_id":136251273,
             "venue_id":152983639
         }
     ],
     "wof:id":152983639,
-    "wof:lastmodified":1449048533,
+    "wof:lastmodified":1453936056,
     "wof:name":"Salon Mylene Coiffure",
     "wof:parent_id":85866495,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.608887,45.546417,-73.608887,45.546417],
+  "bbox": [
+    -73.608887,
+    45.546417,
+    -73.608887,
+    45.546417
+],
   "geometry": {"coordinates":[-73.608887,45.546417],"type":"Point"}
 }

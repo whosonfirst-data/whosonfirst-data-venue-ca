@@ -2,13 +2,14 @@
   "id": 169252319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.846352,45.590069,-73.846352,45.590069",
     "geom:latitude":45.590069,
     "geom:longitude":-73.846352,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"740 Ch DE LA Grande-Cote",
     "sg:city":"Boisbriand",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875055,
+        102191575,
         85633041,
-        85875055
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fcb25fcaa5e4ebaa57c4bb720f9a3c4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875055,
+            "region_id":136251273,
             "venue_id":169252319
         }
     ],
     "wof:id":169252319,
-    "wof:lastmodified":1449033119,
+    "wof:lastmodified":1453929237,
     "wof:name":"Boisbriand Services Des",
     "wof:parent_id":85875055,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.846352,45.590069,-73.846352,45.590069],
+  "bbox": [
+    -73.846352,
+    45.590069,
+    -73.846352,
+    45.590069
+],
   "geometry": {"coordinates":[-73.846352,45.590069],"type":"Point"}
 }

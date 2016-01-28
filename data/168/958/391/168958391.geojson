@@ -2,13 +2,14 @@
   "id": 168958391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.869759,45.546009,-73.869759,45.546009",
     "geom:latitude":45.546009,
     "geom:longitude":-73.869759,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6000 31E Av",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784779,
+        102191575,
         85633041,
-        85784779
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6e779c384c6319fa8ae21521af1d989f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784779,
+            "region_id":136251273,
             "venue_id":168958391
         }
     ],
     "wof:id":168958391,
-    "wof:lastmodified":1449028413,
+    "wof:lastmodified":1453928495,
     "wof:name":"St-Theophile Church",
     "wof:parent_id":85784779,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.869759,45.546009,-73.869759,45.546009],
+  "bbox": [
+    -73.869759,
+    45.546009,
+    -73.869759,
+    45.546009
+],
   "geometry": {"coordinates":[-73.869759,45.546009],"type":"Point"}
 }

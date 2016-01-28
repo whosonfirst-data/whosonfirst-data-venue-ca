@@ -2,13 +2,14 @@
   "id": 203361303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.245766,43.1553,-79.245766,43.1553",
     "geom:latitude":43.1553,
     "geom:longitude":-79.245766,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 St. Paul St # 605",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875047,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"37befbe3b25792356d608dab2ca6d5ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":203361303
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":203361303
         }
     ],
     "wof:id":203361303,
-    "wof:lastmodified":1449026342,
+    "wof:lastmodified":1453927662,
     "wof:name":"Niagara Training & Adjustment",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "referral"
     ]
 },
-  "bbox": [-79.245766,43.1553,-79.245766,43.1553],
+  "bbox": [
+    -79.245766,
+    43.1553,
+    -79.245766,
+    43.1553
+],
   "geometry": {"coordinates":[-79.245766,43.1553],"type":"Point"}
 }

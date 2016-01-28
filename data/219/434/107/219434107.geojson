@@ -2,13 +2,14 @@
   "id": 219434107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.299934,45.454582,-73.299934,45.454582",
     "geom:latitude":45.454582,
     "geom:longitude":-73.299934,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1245 Av Bourgogne",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895747,
+        102191575,
         85633041,
-        101737807
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"8e22fa8442b70d84f739055498cbdc8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219434107
         }
     ],
     "wof:id":219434107,
-    "wof:lastmodified":1449071159,
+    "wof:lastmodified":1453937646,
     "wof:name":"Centre DE L'Auto Almeida Inc",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-73.299934,45.454582,-73.299934,45.454582],
-  "geometry": {"coordinates":[-73.299934,45.454582],"type":"Point"}
+  "bbox": [
+    -73.299934,
+    45.454582,
+    -73.299934,
+    45.454582
+],
+  "geometry": {"coordinates":[-73.29993399999999,45.454582],"type":"Point"}
 }

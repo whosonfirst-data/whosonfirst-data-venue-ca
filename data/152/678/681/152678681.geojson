@@ -2,13 +2,14 @@
   "id": 152678681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.750198,45.542873,-73.750198,45.542873",
     "geom:latitude":45.542873,
     "geom:longitude":-73.750198,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1003 Boul Cure-Labelle",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"e20e30abf8472203032aca374a811153",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":152678681
         }
     ],
     "wof:id":152678681,
-    "wof:lastmodified":1449046536,
+    "wof:lastmodified":1453934530,
     "wof:name":"Video Super Choix",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.750198,45.542873,-73.750198,45.542873],
+  "bbox": [
+    -73.750198,
+    45.542873,
+    -73.750198,
+    45.542873
+],
   "geometry": {"coordinates":[-73.750198,45.542873],"type":"Point"}
 }

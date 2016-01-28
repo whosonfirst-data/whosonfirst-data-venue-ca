@@ -2,13 +2,14 @@
   "id": 169517337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.233376,46.830097,-71.233376,46.830097",
     "geom:latitude":46.830097,
     "geom:longitude":-71.233376,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1575 3E Av",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864443,
+        102191575,
         85633041,
-        85864443
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c0d4d527c5492844f4126df603490627",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864443,
+            "region_id":136251273,
             "venue_id":169517337
         }
     ],
     "wof:id":169517337,
-    "wof:lastmodified":1449034571,
+    "wof:lastmodified":1453930788,
     "wof:name":"Autonhommie Centre-Ressources",
     "wof:parent_id":85864443,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.233376,46.830097,-71.233376,46.830097],
-  "geometry": {"coordinates":[-71.233376,46.830097],"type":"Point"}
+  "bbox": [
+    -71.233376,
+    46.830097,
+    -71.233376,
+    46.830097
+],
+  "geometry": {"coordinates":[-71.23337600000001,46.830097],"type":"Point"}
 }

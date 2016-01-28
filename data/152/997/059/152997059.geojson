@@ -2,13 +2,14 @@
   "id": 152997059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.740715,45.485901,-73.740715,45.485901",
     "geom:latitude":45.485901,
     "geom:longitude":-73.740715,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5947 Ch Saint-Francois",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3afd42cd7ca285d490cd1586b8b73fe8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":152997059
         }
     ],
     "wof:id":152997059,
-    "wof:lastmodified":1449048090,
+    "wof:lastmodified":1453935716,
     "wof:name":"Redemac Inc",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.740715,45.485901,-73.740715,45.485901],
-  "geometry": {"coordinates":[-73.740715,45.485901],"type":"Point"}
+  "bbox": [
+    -73.740715,
+    45.485901,
+    -73.740715,
+    45.485901
+],
+  "geometry": {"coordinates":[-73.74071499999999,45.485901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185801803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.613029,45.531643,-73.613029,45.531643",
     "geom:latitude":45.531643,
     "geom:longitude":-73.613029,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6707 Rue Clark",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874369,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"81a899887bdfb5daff2aded7e63eaeb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185801803
         }
     ],
     "wof:id":185801803,
-    "wof:lastmodified":1449007953,
+    "wof:lastmodified":1453927361,
     "wof:name":"Garage Guy Houle Enr",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.613029,45.531643,-73.613029,45.531643],
+  "bbox": [
+    -73.613029,
+    45.531643,
+    -73.613029,
+    45.531643
+],
   "geometry": {"coordinates":[-73.613029,45.531643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169372387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.677483,43.441196,-79.677483,43.441196",
     "geom:latitude":43.441196,
     "geom:longitude":-79.677483,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oakville",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895051,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7031e8c43b3256a176fb71ac1183cb5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895051,
+            "region_id":85682057,
+            "venue_id":169372387
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895051,
             "region_id":85682057,
             "venue_id":169372387
         }
     ],
     "wof:id":169372387,
-    "wof:lastmodified":1449034688,
+    "wof:lastmodified":1453930889,
     "wof:name":"Waywell Associates Ltd",
     "wof:parent_id":85895051,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.677483,43.441196,-79.677483,43.441196],
+  "bbox": [
+    -79.677483,
+    43.441196,
+    -79.677483,
+    43.441196
+],
   "geometry": {"coordinates":[-79.677483,43.441196],"type":"Point"}
 }

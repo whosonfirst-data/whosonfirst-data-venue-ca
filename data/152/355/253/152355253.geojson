@@ -2,13 +2,14 @@
   "id": 152355253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.48188,43.446354,-80.48188,43.446354",
     "geom:latitude":43.446354,
     "geom:longitude":-80.48188,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"471 King St E",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875017,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"69ee59ac3b6d06b45504c67af3f35daa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875017,
+            "region_id":85682057,
+            "venue_id":152355253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875017,
             "region_id":85682057,
             "venue_id":152355253
         }
     ],
     "wof:id":152355253,
-    "wof:lastmodified":1449045593,
+    "wof:lastmodified":1453933819,
     "wof:name":"Kitchener Honda",
     "wof:parent_id":85875017,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.48188,43.446354,-80.48188,43.446354],
+  "bbox": [
+    -80.48188,
+    43.446354,
+    -80.48188,
+    43.446354
+],
   "geometry": {"coordinates":[-80.48188,43.446354],"type":"Point"}
 }

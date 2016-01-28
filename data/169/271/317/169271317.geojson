@@ -2,13 +2,14 @@
   "id": 169271317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.215202,45.546989,-73.215202,45.546989",
     "geom:latitude":45.546989,
     "geom:longitude":-73.215202,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Rue Richelieu",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737777,
+        85894601,
+        102191575,
         85633041,
-        85894601
+        101737777,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c4b4b0f3cd339c0722dd4148db3f2e94",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737777,
             "neighbourhood_id":85894601,
+            "region_id":136251273,
             "venue_id":169271317
         }
     ],
     "wof:id":169271317,
-    "wof:lastmodified":1449034413,
+    "wof:lastmodified":1453930598,
     "wof:name":"Roger Jeannotte Inc",
     "wof:parent_id":85894601,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.215202,45.546989,-73.215202,45.546989],
-  "geometry": {"coordinates":[-73.215202,45.546989],"type":"Point"}
+  "bbox": [
+    -73.215202,
+    45.546989,
+    -73.215202,
+    45.546989
+],
+  "geometry": {"coordinates":[-73.21520200000001,45.546989],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153090741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.653122,45.555996,-73.653122,45.555996",
     "geom:latitude":45.555996,
     "geom:longitude":-73.653122,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1000 Rue Sauve O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897505,
+        102191575,
         85633041,
-        85897505
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"3e7c57699371acf33ed726513800dbe0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897505,
+            "region_id":136251273,
             "venue_id":153090741
         }
     ],
     "wof:id":153090741,
-    "wof:lastmodified":1449040717,
+    "wof:lastmodified":1453932635,
     "wof:name":"Home Depot",
     "wof:parent_id":85897505,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.653122,45.555996,-73.653122,45.555996],
+  "bbox": [
+    -73.653122,
+    45.555996,
+    -73.653122,
+    45.555996
+],
   "geometry": {"coordinates":[-73.653122,45.555996],"type":"Point"}
 }

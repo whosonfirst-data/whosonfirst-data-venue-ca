@@ -2,13 +2,14 @@
   "id": 152728399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.50766,43.835255,-79.50766,43.835255",
     "geom:latitude":43.835255,
     "geom:longitude":-79.50766,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9151 Keele St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895339,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"fc2384058b6a56b1e6271a9c2681134e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895339,
+            "region_id":85682057,
+            "venue_id":152728399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895339,
             "region_id":85682057,
             "venue_id":152728399
         }
     ],
     "wof:id":152728399,
-    "wof:lastmodified":1449045370,
+    "wof:lastmodified":1453933644,
     "wof:name":"Tim Hortons",
     "wof:parent_id":85895339,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.50766,43.835255,-79.50766,43.835255],
+  "bbox": [
+    -79.50766,
+    43.835255,
+    -79.50766,
+    43.835255
+],
   "geometry": {"coordinates":[-79.50766,43.835255],"type":"Point"}
 }

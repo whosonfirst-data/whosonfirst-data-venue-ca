@@ -2,13 +2,14 @@
   "id": 169024839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.509796,45.500557,-73.509796,45.500557",
     "geom:latitude":45.500557,
     "geom:longitude":-73.509796,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"209 Rue DE Woodstock",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4dd9857ad0851a3e1f4fe1563cd27c39",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":169024839
         }
     ],
     "wof:id":169024839,
-    "wof:lastmodified":1449034264,
+    "wof:lastmodified":1453930448,
     "wof:name":"Poulin, Louise",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.509796,45.500557,-73.509796,45.500557],
-  "geometry": {"coordinates":[-73.509796,45.500557],"type":"Point"}
+  "bbox": [
+    -73.509796,
+    45.500557,
+    -73.509796,
+    45.500557
+],
+  "geometry": {"coordinates":[-73.50979599999999,45.500557],"type":"Point"}
 }

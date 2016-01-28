@@ -2,13 +2,14 @@
   "id": 169048857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.649193,44.224201,-76.649193,44.224201",
     "geom:latitude":44.224201,
     "geom:longitude":-76.649193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"54 Harvard Pl",
     "sg:city":"Amherstview",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875393,
-        85682057
+        102191575,
+        85633041,
+        101740731,
+        85682057,
+        101735963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"52cb7796e97eedd92d7228e8eeb23ecd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740731,
+            "neighbourhood_id":85875393,
+            "region_id":85682057,
+            "venue_id":169048857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735963,
             "neighbourhood_id":85875393,
             "region_id":85682057,
             "venue_id":169048857
         }
     ],
     "wof:id":169048857,
-    "wof:lastmodified":1449033837,
+    "wof:lastmodified":1453930000,
     "wof:name":"Amherst Driveway Sealing",
     "wof:parent_id":85875393,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.649193,44.224201,-76.649193,44.224201],
+  "bbox": [
+    -76.649193,
+    44.224201,
+    -76.649193,
+    44.224201
+],
   "geometry": {"coordinates":[-76.649193,44.224201],"type":"Point"}
 }

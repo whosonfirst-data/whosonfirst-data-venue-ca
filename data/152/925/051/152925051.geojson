@@ -2,13 +2,14 @@
   "id": 152925051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.593842,45.54734,-73.593842,45.54734",
     "geom:latitude":45.54734,
     "geom:longitude":-73.593842,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6521 Rue Louis-Hemon",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"387a5ce72232fab007eef0ccba479629",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152925051
         }
     ],
     "wof:id":152925051,
-    "wof:lastmodified":1449044326,
+    "wof:lastmodified":1453932842,
     "wof:name":"Editions Du Roseau",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.593842,45.54734,-73.593842,45.54734],
+  "bbox": [
+    -73.593842,
+    45.54734,
+    -73.593842,
+    45.54734
+],
   "geometry": {"coordinates":[-73.593842,45.54734],"type":"Point"}
 }

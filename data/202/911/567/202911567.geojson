@@ -2,13 +2,14 @@
   "id": 202911567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.784477,45.474628,-73.784477,45.474628",
     "geom:latitude":45.474628,
     "geom:longitude":-73.784477,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"123 Av Avro",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784719,
+        102191575,
         85633041,
-        101736467
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"792aabbc19b1ab8c8a1af2b7c978bf52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85784719,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202911567
         }
     ],
     "wof:id":202911567,
-    "wof:lastmodified":1449062247,
+    "wof:lastmodified":1453937419,
     "wof:name":"Heroux-Devtek Aerostructure",
     "wof:parent_id":85784719,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "aerospace"
     ]
 },
-  "bbox": [-73.784477,45.474628,-73.784477,45.474628],
+  "bbox": [
+    -73.784477,
+    45.474628,
+    -73.784477,
+    45.474628
+],
   "geometry": {"coordinates":[-73.784477,45.474628],"type":"Point"}
 }

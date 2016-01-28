@@ -2,13 +2,14 @@
   "id": 153011107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.584381,45.5224,-73.584381,45.5224",
     "geom:latitude":45.5224,
     "geom:longitude":-73.584381,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"237 Av Du Mont-Royal O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"cc67374341c6cea11199d62b18fff9be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":153011107
         }
     ],
     "wof:id":153011107,
-    "wof:lastmodified":1449040731,
+    "wof:lastmodified":1453932651,
     "wof:name":"Marche Des Plantes Venus",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.584381,45.5224,-73.584381,45.5224],
-  "geometry": {"coordinates":[-73.584381,45.5224],"type":"Point"}
+  "bbox": [
+    -73.584381,
+    45.5224,
+    -73.584381,
+    45.5224
+],
+  "geometry": {"coordinates":[-73.58438099999999,45.5224],"type":"Point"}
 }

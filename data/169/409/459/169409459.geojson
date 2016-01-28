@@ -2,13 +2,14 @@
   "id": 169409459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556496,45.512081,-73.556496,45.512081",
     "geom:latitude":45.512081,
     "geom:longitude":-73.556496,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1037 Rue Saint-Denis # 203",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c767df2e98dd82b1ca8104d0a73b21c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":169409459
         }
     ],
     "wof:id":169409459,
-    "wof:lastmodified":1449034033,
+    "wof:lastmodified":1453930214,
     "wof:name":"Centre Dentaire Ginette Martin",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.556496,45.512081,-73.556496,45.512081],
+  "bbox": [
+    -73.556496,
+    45.512081,
+    -73.556496,
+    45.512081
+],
   "geometry": {"coordinates":[-73.556496,45.512081],"type":"Point"}
 }

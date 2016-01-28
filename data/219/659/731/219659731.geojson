@@ -2,13 +2,14 @@
   "id": 219659731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.185326,43.002731,-81.185326,43.002731",
     "geom:latitude":43.002731,
     "geom:longitude":-81.185326,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"410 Third St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874947,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -38,18 +42,18 @@
     "wof:geomhash":"7a583e395cd6e1bf6ace8da995f14e7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
             "region_id":85682057,
             "venue_id":219659731
         }
     ],
     "wof:id":219659731,
-    "wof:lastmodified":1449070772,
+    "wof:lastmodified":1453937591,
     "wof:name":"Third Street Pawnbrokers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "pawnbroker"
     ]
 },
-  "bbox": [-81.185326,43.002731,-81.185326,43.002731],
+  "bbox": [
+    -81.185326,
+    43.002731,
+    -81.185326,
+    43.002731
+],
   "geometry": {"coordinates":[-81.185326,43.002731],"type":"Point"}
 }

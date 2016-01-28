@@ -2,13 +2,14 @@
   "id": 152734657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.729729,43.698128,-79.729729,43.698128",
     "geom:latitude":43.698128,
     "geom:longitude":-79.729729,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"143 Heart Lake Rd",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5249f4d355a0647dbaa32039914c2342",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152734657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152734657
         }
     ],
     "wof:id":152734657,
-    "wof:lastmodified":1449048332,
+    "wof:lastmodified":1453935897,
     "wof:name":"Falcon Overhead Doors & Docks",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.729729,43.698128,-79.729729,43.698128],
-  "geometry": {"coordinates":[-79.729729,43.698128],"type":"Point"}
+  "bbox": [
+    -79.729729,
+    43.698128,
+    -79.729729,
+    43.698128
+],
+  "geometry": {"coordinates":[-79.72972900000001,43.698128],"type":"Point"}
 }

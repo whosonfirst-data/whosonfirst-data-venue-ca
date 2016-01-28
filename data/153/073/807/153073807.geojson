@@ -2,13 +2,14 @@
   "id": 153073807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.798798,45.645481,-73.798798,45.645481",
     "geom:latitude":45.645481,
     "geom:longitude":-73.798798,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"352 Rue Des Plaines",
     "sg:city":"Rosemere",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7c880b5eb7e43105dc6d8b9ce9581505",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":153073807
         }
     ],
     "wof:id":153073807,
-    "wof:lastmodified":1449040387,
+    "wof:lastmodified":1453932347,
     "wof:name":"Decor Elegantia",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.798798,45.645481,-73.798798,45.645481],
-  "geometry": {"coordinates":[-73.798798,45.645481],"type":"Point"}
+  "bbox": [
+    -73.798798,
+    45.645481,
+    -73.798798,
+    45.645481
+],
+  "geometry": {"coordinates":[-73.79879800000001,45.645481],"type":"Point"}
 }

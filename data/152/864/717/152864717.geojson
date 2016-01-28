@@ -2,13 +2,14 @@
   "id": 152864717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.440552,45.610115,-73.440552,45.610115",
     "geom:latitude":45.610115,
     "geom:longitude":-73.440552,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"675 Rue Des Ateliers",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875743,
+        102191575,
         85633041,
-        85875743
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"b032c0e51262b90405cad5f2482c82df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875743,
+            "region_id":136251273,
             "venue_id":152864717
         }
     ],
     "wof:id":152864717,
-    "wof:lastmodified":1449048947,
+    "wof:lastmodified":1453936392,
     "wof:name":"Lpl Piscines Inc",
     "wof:parent_id":85875743,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.440552,45.610115,-73.440552,45.610115],
+  "bbox": [
+    -73.440552,
+    45.610115,
+    -73.440552,
+    45.610115
+],
   "geometry": {"coordinates":[-73.440552,45.610115],"type":"Point"}
 }

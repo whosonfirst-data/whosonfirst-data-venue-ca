@@ -2,13 +2,14 @@
   "id": 169109371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.956573,45.403027,-71.956573,45.403027",
     "geom:latitude":45.403027,
     "geom:longitude":-71.956573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3280 Boul DE Portland",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874133,
+        102191575,
         85633041,
-        85874133
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a2c2224d0eacf2ff525355690198e885",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874133,
+            "region_id":136251273,
             "venue_id":169109371
         }
     ],
     "wof:id":169109371,
-    "wof:lastmodified":1449033833,
+    "wof:lastmodified":1453929995,
     "wof:name":"Future Shops",
     "wof:parent_id":85874133,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.956573,45.403027,-71.956573,45.403027],
-  "geometry": {"coordinates":[-71.956573,45.403027],"type":"Point"}
+  "bbox": [
+    -71.956573,
+    45.403027,
+    -71.956573,
+    45.403027
+],
+  "geometry": {"coordinates":[-71.95657300000001,45.403027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152379865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.638138,46.383579,-72.638138,46.383579",
     "geom:latitude":46.383579,
     "geom:longitude":-72.638138,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8765 Boul Des Forges",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874097,
+        102191575,
         85633041,
-        85874097
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"e1df7fe7ad45e531e21e495e5dd5ced8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874097,
+            "region_id":136251273,
             "venue_id":152379865
         }
     ],
     "wof:id":152379865,
-    "wof:lastmodified":1449046990,
+    "wof:lastmodified":1453934863,
     "wof:name":"Equipements Jacques Arsenault",
     "wof:parent_id":85874097,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.638138,46.383579,-72.638138,46.383579],
+  "bbox": [
+    -72.638138,
+    46.383579,
+    -72.638138,
+    46.383579
+],
   "geometry": {"coordinates":[-72.638138,46.383579],"type":"Point"}
 }

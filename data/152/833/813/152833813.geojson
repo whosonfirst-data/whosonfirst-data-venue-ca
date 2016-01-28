@@ -2,13 +2,14 @@
   "id": 152833813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.565201,43.571049,-79.565201,43.571049",
     "geom:latitude":43.571049,
     "geom:longitude":-79.565201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895227,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a84f576c67b41e79b76b54079ed4fa55",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895227,
+            "region_id":85682057,
+            "venue_id":152833813
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895227,
             "region_id":85682057,
             "venue_id":152833813
         }
     ],
     "wof:id":152833813,
-    "wof:lastmodified":1449044897,
+    "wof:lastmodified":1453933285,
     "wof:name":"J & D Gas Heating Ltd",
     "wof:parent_id":85895227,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.565201,43.571049,-79.565201,43.571049],
+  "bbox": [
+    -79.565201,
+    43.571049,
+    -79.565201,
+    43.571049
+],
   "geometry": {"coordinates":[-79.565201,43.571049],"type":"Point"}
 }

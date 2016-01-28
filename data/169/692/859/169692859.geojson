@@ -2,13 +2,14 @@
   "id": 169692859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.678284,43.441658,-79.678284,43.441658",
     "geom:latitude":43.441658,
     "geom:longitude":-79.678284,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"218 Kerr St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895051,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"6bba6f0a54ed0fa59d3fcfca18832064",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895051,
+            "region_id":85682057,
+            "venue_id":169692859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895051,
             "region_id":85682057,
             "venue_id":169692859
         }
     ],
     "wof:id":169692859,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1453929675,
     "wof:name":"Oakville Animal Clinic",
     "wof:parent_id":85895051,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-79.678284,43.441658,-79.678284,43.441658],
+  "bbox": [
+    -79.678284,
+    43.441658,
+    -79.678284,
+    43.441658
+],
   "geometry": {"coordinates":[-79.678284,43.441658],"type":"Point"}
 }

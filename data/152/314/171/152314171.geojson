@@ -2,13 +2,14 @@
   "id": 152314171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578285,45.587646,-73.578285,45.587646",
     "geom:latitude":45.587646,
     "geom:longitude":-73.578285,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6052 Rue Jean-Talon E",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784921,
+        102191575,
         85633041,
-        85784921
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"4668d37764d875990bb5de8caa07d8bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
+            "region_id":136251273,
             "venue_id":152314171
         }
     ],
     "wof:id":152314171,
-    "wof:lastmodified":1449048726,
+    "wof:lastmodified":1453936194,
     "wof:name":"Patronato Enasco",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578285,45.587646,-73.578285,45.587646],
-  "geometry": {"coordinates":[-73.578285,45.587646],"type":"Point"}
+  "bbox": [
+    -73.578285,
+    45.587646,
+    -73.578285,
+    45.587646
+],
+  "geometry": {"coordinates":[-73.57828499999999,45.587646],"type":"Point"}
 }

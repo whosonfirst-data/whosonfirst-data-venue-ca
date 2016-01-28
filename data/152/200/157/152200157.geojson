@@ -2,13 +2,14 @@
   "id": 152200157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.435921,45.486839,-73.435921,45.486839",
     "geom:latitude":45.486839,
     "geom:longitude":-73.435921,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4415 Montee Saint-Hubert",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"2bbf18e5abf86d210813f5144da95703",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":152200157
         }
     ],
     "wof:id":152200157,
-    "wof:lastmodified":1449046158,
+    "wof:lastmodified":1453934239,
     "wof:name":"Dlf Oligny Vitrerie Inc",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.435921,45.486839,-73.435921,45.486839],
-  "geometry": {"coordinates":[-73.435921,45.486839],"type":"Point"}
+  "bbox": [
+    -73.435921,
+    45.486839,
+    -73.435921,
+    45.486839
+],
+  "geometry": {"coordinates":[-73.43592099999999,45.486839],"type":"Point"}
 }

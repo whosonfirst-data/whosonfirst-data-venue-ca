@@ -2,13 +2,14 @@
   "id": 169445821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.417,43.875832,-79.417,43.875832",
     "geom:latitude":43.875832,
     "geom:longitude":-79.417,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"696 Major Mackenzie Dr E",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895247,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5902b40f4118baf6395e727fb11b3a55",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895247,
+            "region_id":85682057,
+            "venue_id":169445821
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895247,
             "region_id":85682057,
             "venue_id":169445821
         }
     ],
     "wof:id":169445821,
-    "wof:lastmodified":1449033126,
+    "wof:lastmodified":1453929243,
     "wof:name":"Allencourt Variety & Gifts",
     "wof:parent_id":85895247,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.417,43.875832,-79.417,43.875832],
+  "bbox": [
+    -79.417,
+    43.875832,
+    -79.417,
+    43.875832
+],
   "geometry": {"coordinates":[-79.417,43.875832],"type":"Point"}
 }

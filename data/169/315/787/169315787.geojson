@@ -2,13 +2,14 @@
   "id": 169315787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.59153,45.593014,-73.59153,45.593014",
     "geom:latitude":45.593014,
     "geom:longitude":-73.59153,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6029 Boul Robert",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874367,
+        102191575,
         85633041,
-        85874367
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"668b42b1d619b945150f27037ec86d8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874367,
+            "region_id":136251273,
             "venue_id":169315787
         }
     ],
     "wof:id":169315787,
-    "wof:lastmodified":1449035789,
+    "wof:lastmodified":1453932064,
     "wof:name":"Cafe Vanessa",
     "wof:parent_id":85874367,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.59153,45.593014,-73.59153,45.593014],
-  "geometry": {"coordinates":[-73.59153,45.593014],"type":"Point"}
+  "bbox": [
+    -73.59153,
+    45.593014,
+    -73.59153,
+    45.593014
+],
+  "geometry": {"coordinates":[-73.59153000000001,45.593014],"type":"Point"}
 }

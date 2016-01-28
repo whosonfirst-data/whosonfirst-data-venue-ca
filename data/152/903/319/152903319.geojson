@@ -2,13 +2,14 @@
   "id": 152903319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688995,43.447754,-79.688995,43.447754",
     "geom:latitude":43.447754,
     "geom:longitude":-79.688995,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"568 Kerr St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895051,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"798c6bdd7a8a40c37d613b3fad6111f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895051,
+            "region_id":85682057,
+            "venue_id":152903319
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895051,
             "region_id":85682057,
             "venue_id":152903319
         }
     ],
     "wof:id":152903319,
-    "wof:lastmodified":1449044575,
+    "wof:lastmodified":1453933041,
     "wof:name":"Parties N More",
     "wof:parent_id":85895051,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688995,43.447754,-79.688995,43.447754],
-  "geometry": {"coordinates":[-79.688995,43.447754],"type":"Point"}
+  "bbox": [
+    -79.688995,
+    43.447754,
+    -79.688995,
+    43.447754
+],
+  "geometry": {"coordinates":[-79.68899500000001,43.447754],"type":"Point"}
 }

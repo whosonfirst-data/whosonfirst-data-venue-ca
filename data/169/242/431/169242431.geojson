@@ -2,13 +2,14 @@
   "id": 169242431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.670296,43.603897,-79.670296,43.603897",
     "geom:latitude":43.603897,
     "geom:longitude":-79.670296,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"442 Bristol Rd W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d2f35f6f2bec6860e9b8ddbf6ab13c20",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":169242431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":169242431
         }
     ],
     "wof:id":169242431,
-    "wof:lastmodified":1449035562,
+    "wof:lastmodified":1453931808,
     "wof:name":"Tony Stauskas Surveying Inc",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.670296,43.603897,-79.670296,43.603897],
-  "geometry": {"coordinates":[-79.670296,43.603897],"type":"Point"}
+  "bbox": [
+    -79.670296,
+    43.603897,
+    -79.670296,
+    43.603897
+],
+  "geometry": {"coordinates":[-79.67029599999999,43.603897],"type":"Point"}
 }

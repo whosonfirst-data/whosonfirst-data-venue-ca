@@ -2,13 +2,14 @@
   "id": 169010895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.52417,43.450375,-80.52417,43.450375",
     "geom:latitude":43.450375,
     "geom:longitude":-80.52417,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"656 Westmount Rd W",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874977,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"ecfbf03028fd709ef9c288f9939b3900",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874977,
+            "region_id":85682057,
+            "venue_id":169010895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874977,
             "region_id":85682057,
             "venue_id":169010895
         }
     ],
     "wof:id":169010895,
-    "wof:lastmodified":1449034743,
+    "wof:lastmodified":1453930952,
     "wof:name":"Assante Financial Management",
     "wof:parent_id":85874977,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.52417,43.450375,-80.52417,43.450375],
+  "bbox": [
+    -80.52417,
+    43.450375,
+    -80.52417,
+    43.450375
+],
   "geometry": {"coordinates":[-80.52417,43.450375],"type":"Point"}
 }

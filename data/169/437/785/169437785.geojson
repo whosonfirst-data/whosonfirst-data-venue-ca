@@ -2,13 +2,14 @@
   "id": 169437785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.12661,45.253452,-74.12661,45.253452",
     "geom:latitude":45.253452,
     "geom:longitude":-74.12661,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"145 Rue Salaberry O",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895785,
+        102191575,
         85633041,
-        85895785
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3ffdeb6791f6d0395690f3c426292c0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895785,
+            "region_id":136251273,
             "venue_id":169437785
         }
     ],
     "wof:id":169437785,
-    "wof:lastmodified":1449035066,
+    "wof:lastmodified":1453931296,
     "wof:name":"Quebec Centre Comm Juridique",
     "wof:parent_id":85895785,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.12661,45.253452,-74.12661,45.253452],
+  "bbox": [
+    -74.12661,
+    45.253452,
+    -74.12661,
+    45.253452
+],
   "geometry": {"coordinates":[-74.12661,45.253452],"type":"Point"}
 }

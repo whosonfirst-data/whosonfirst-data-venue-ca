@@ -2,13 +2,14 @@
   "id": 169185387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.444405,45.475796,-73.444405,45.475796",
     "geom:latitude":45.475796,
     "geom:longitude":-73.444405,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5556 LA Grande-Allee",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897547,
+        102191575,
         85633041,
-        85897547
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"d3f203ef6604efae826aa2908ddae149",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897547,
+            "region_id":136251273,
             "venue_id":169185387
         }
     ],
     "wof:id":169185387,
-    "wof:lastmodified":1449033240,
+    "wof:lastmodified":1453929338,
     "wof:name":"Salle DE Reception LA Ka-Danse",
     "wof:parent_id":85897547,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.444405,45.475796,-73.444405,45.475796],
+  "bbox": [
+    -73.444405,
+    45.475796,
+    -73.444405,
+    45.475796
+],
   "geometry": {"coordinates":[-73.444405,45.475796],"type":"Point"}
 }

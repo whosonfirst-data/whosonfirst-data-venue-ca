@@ -2,13 +2,14 @@
   "id": 185740355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.713921,45.555351,-73.713921,45.555351",
     "geom:latitude":45.555351,
     "geom:longitude":-73.713921,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"298 Av Michaud",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784775,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"c1e957634f6ac0f99e59068d37b29445",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185740355
         }
     ],
     "wof:id":185740355,
-    "wof:lastmodified":1449007349,
+    "wof:lastmodified":1453927292,
     "wof:name":"Richard & Fils",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-73.713921,45.555351,-73.713921,45.555351],
+  "bbox": [
+    -73.713921,
+    45.555351,
+    -73.713921,
+    45.555351
+],
   "geometry": {"coordinates":[-73.713921,45.555351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186169583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.621269,45.567947,-73.621269,45.567947",
     "geom:latitude":45.567947,
     "geom:longitude":-73.621269,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8730 10E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871109,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"08fb917883383a14bb53d93f2bb82883",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186169583
         }
     ],
     "wof:id":186169583,
-    "wof:lastmodified":1449052019,
+    "wof:lastmodified":1453936766,
     "wof:name":"Eclipse Groupe Ltee",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.621269,45.567947,-73.621269,45.567947],
+  "bbox": [
+    -73.621269,
+    45.567947,
+    -73.621269,
+    45.567947
+],
   "geometry": {"coordinates":[-73.621269,45.567947],"type":"Point"}
 }

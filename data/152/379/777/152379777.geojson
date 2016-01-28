@@ -2,13 +2,14 @@
   "id": 152379777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.233673,43.040096,-81.233673,43.040096",
     "geom:latitude":43.040096,
     "geom:longitude":-81.233673,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"75 Tweed Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -29,23 +30,43 @@
         "smoker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874941,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i1t3g1399dYt31HMXeCyV_43.040096_-81.233673@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"8b2c0b4fab0c514378900889cbb2ee9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874941,
+            "region_id":85682057,
+            "venue_id":152379777
+        }
+    ],
     "wof:id":152379777,
-    "wof:lastmodified":1449046991,
+    "wof:lastmodified":1453934862,
     "wof:name":"X Smokers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.233673,43.040096,-81.233673,43.040096],
+  "bbox": [
+    -81.233673,
+    43.040096,
+    -81.233673,
+    43.040096
+],
   "geometry": {"coordinates":[-81.233673,43.040096],"type":"Point"}
 }

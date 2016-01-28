@@ -2,13 +2,14 @@
   "id": 169375741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.769661,43.750309,-79.769661,43.750309",
     "geom:latitude":43.750309,
     "geom:longitude":-79.769661,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Egypt Dr",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"342fec4c6d693e8f0af39ab9edccc9dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":169375741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":169375741
         }
     ],
     "wof:id":169375741,
-    "wof:lastmodified":1449032801,
+    "wof:lastmodified":1453928930,
     "wof:name":"Nick Trombetta Disc Jockey Svc",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.769661,43.750309,-79.769661,43.750309],
+  "bbox": [
+    -79.769661,
+    43.750309,
+    -79.769661,
+    43.750309
+],
   "geometry": {"coordinates":[-79.769661,43.750309],"type":"Point"}
 }

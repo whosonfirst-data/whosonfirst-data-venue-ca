@@ -2,13 +2,14 @@
   "id": 169335965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.085571,43.829235,-79.085571,43.829235",
     "geom:latitude":43.829235,
     "geom:longitude":-79.085571,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1322 Bayly St",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895619,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"66787967df20adbeb1c4e73fe3bb0676",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895619,
+            "region_id":85682057,
+            "venue_id":169335965
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895619,
             "region_id":85682057,
             "venue_id":169335965
         }
     ],
     "wof:id":169335965,
-    "wof:lastmodified":1449034864,
+    "wof:lastmodified":1453931097,
     "wof:name":"New Stop",
     "wof:parent_id":85895619,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.085571,43.829235,-79.085571,43.829235],
+  "bbox": [
+    -79.085571,
+    43.829235,
+    -79.085571,
+    43.829235
+],
   "geometry": {"coordinates":[-79.085571,43.829235],"type":"Point"}
 }

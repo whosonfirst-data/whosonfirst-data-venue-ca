@@ -2,13 +2,14 @@
   "id": 169525119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.04744,43.857792,-79.04744,43.857792",
     "geom:latitude":43.857792,
     "geom:longitude":-79.04744,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"82 Sherwood Rd E",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895697,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"fecf39f4b8bc421f9c587aadadebe66c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895697,
+            "region_id":85682057,
+            "venue_id":169525119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895697,
             "region_id":85682057,
             "venue_id":169525119
         }
     ],
     "wof:id":169525119,
-    "wof:lastmodified":1449035275,
+    "wof:lastmodified":1453931478,
     "wof:name":"Henry Kortekaas & Assoc",
     "wof:parent_id":85895697,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.04744,43.857792,-79.04744,43.857792],
-  "geometry": {"coordinates":[-79.04744,43.857792],"type":"Point"}
+  "bbox": [
+    -79.04744,
+    43.857792,
+    -79.04744,
+    43.857792
+],
+  "geometry": {"coordinates":[-79.04743999999999,43.857792],"type":"Point"}
 }

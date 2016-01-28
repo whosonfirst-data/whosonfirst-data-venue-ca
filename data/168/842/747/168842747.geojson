@@ -2,13 +2,14 @@
   "id": 168842747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.703323,43.512466,-79.703323,43.512466",
     "geom:latitude":43.512466,
     "geom:longitude":-79.703323,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3164 Ninth Line",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895587,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"90c314539f00c68f9baf025255aa5031",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895587,
+            "region_id":85682057,
+            "venue_id":168842747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895587,
             "region_id":85682057,
             "venue_id":168842747
         }
     ],
     "wof:id":168842747,
-    "wof:lastmodified":1449027825,
+    "wof:lastmodified":1453927842,
     "wof:name":"Glen Oaks Memorial Gardens",
     "wof:parent_id":85895587,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.703323,43.512466,-79.703323,43.512466],
+  "bbox": [
+    -79.703323,
+    43.512466,
+    -79.703323,
+    43.512466
+],
   "geometry": {"coordinates":[-79.703323,43.512466],"type":"Point"}
 }

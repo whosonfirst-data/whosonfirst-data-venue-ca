@@ -2,13 +2,14 @@
   "id": 152517763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.04425,43.632656,-80.04425,43.632656",
     "geom:latitude":43.632656,
     "geom:longitude":-80.04425,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"41 School Lane",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895185,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"23a14d6a5a810fda9b714df89be0a6b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895185,
+            "region_id":85682057,
+            "venue_id":152517763
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895185,
             "region_id":85682057,
             "venue_id":152517763
         }
     ],
     "wof:id":152517763,
-    "wof:lastmodified":1449046948,
+    "wof:lastmodified":1453934827,
     "wof:name":"Robert Little Elementary Schl",
     "wof:parent_id":85895185,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.04425,43.632656,-80.04425,43.632656],
-  "geometry": {"coordinates":[-80.04425,43.632656],"type":"Point"}
+  "bbox": [
+    -80.04425,
+    43.632656,
+    -80.04425,
+    43.632656
+],
+  "geometry": {"coordinates":[-80.04425000000001,43.632656],"type":"Point"}
 }

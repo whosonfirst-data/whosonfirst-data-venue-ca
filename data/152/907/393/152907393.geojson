@@ -2,13 +2,14 @@
   "id": 152907393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.37838,42.984909,-82.37838,42.984909",
     "geom:latitude":42.984909,
     "geom:longitude":-82.37838,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"861 Exmouth St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875567,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"75611e7deefd5071449692da5437680b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875567,
+            "region_id":85682057,
+            "venue_id":152907393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875567,
             "region_id":85682057,
             "venue_id":152907393
         }
     ],
     "wof:id":152907393,
-    "wof:lastmodified":1449048563,
+    "wof:lastmodified":1453936068,
     "wof:name":"Doherty, W L DDS",
     "wof:parent_id":85875567,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.37838,42.984909,-82.37838,42.984909],
-  "geometry": {"coordinates":[-82.37838,42.984909],"type":"Point"}
+  "bbox": [
+    -82.37838,
+    42.984909,
+    -82.37838,
+    42.984909
+],
+  "geometry": {"coordinates":[-82.37838000000001,42.984909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152465615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.551216,45.54134,-73.551216,45.54134",
     "geom:latitude":45.54134,
     "geom:longitude":-73.551216,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2584 Rue Prefontaine",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"58ca72d372cca62f1a51ee9611a49f6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":152465615
         }
     ],
     "wof:id":152465615,
-    "wof:lastmodified":1449047406,
+    "wof:lastmodified":1453935182,
     "wof:name":"Real Goulet Enr",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.551216,45.54134,-73.551216,45.54134],
+  "bbox": [
+    -73.551216,
+    45.54134,
+    -73.551216,
+    45.54134
+],
   "geometry": {"coordinates":[-73.551216,45.54134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152912743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.255257,43.011005,-81.255257,43.011005",
     "geom:latitude":43.011005,
     "geom:longitude":-81.255257,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1070 Waterloo St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874939,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EJnQNUCCfelX0OV0Cpi0b_43.011005_-81.255257@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ce21809f04f7fff6036420d717b78595",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
+            "region_id":85682057,
+            "venue_id":152912743
+        }
+    ],
     "wof:id":152912743,
-    "wof:lastmodified":1449046584,
+    "wof:lastmodified":1453934560,
     "wof:name":"Roman Catholic Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.255257,43.011005,-81.255257,43.011005],
+  "bbox": [
+    -81.255257,
+    43.011005,
+    -81.255257,
+    43.011005
+],
   "geometry": {"coordinates":[-81.255257,43.011005],"type":"Point"}
 }

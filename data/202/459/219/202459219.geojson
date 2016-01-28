@@ -2,13 +2,14 @@
   "id": 202459219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.607254,45.522003,-73.607254,45.522003",
     "geom:latitude":45.522003,
     "geom:longitude":-73.607254,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1085 Av Bernard",
     "sg:city":"Outremont",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784831,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"c0e08808c905dcffacf0e81ece1291da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202459219
         }
     ],
     "wof:id":202459219,
-    "wof:lastmodified":1449061145,
+    "wof:lastmodified":1453937193,
     "wof:name":"Home Made Kosher Bakery",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.607254,45.522003,-73.607254,45.522003],
+  "bbox": [
+    -73.607254,
+    45.522003,
+    -73.607254,
+    45.522003
+],
   "geometry": {"coordinates":[-73.607254,45.522003],"type":"Point"}
 }

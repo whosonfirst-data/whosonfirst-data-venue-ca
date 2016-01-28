@@ -2,13 +2,14 @@
   "id": 152147829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.28019,42.965843,-81.28019,42.965843",
     "geom:latitude":42.965843,
     "geom:longitude":-81.28019,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"311 Bloxam Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "balloon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864623,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01JuoQwsVDxDErKKjZ5HKo_42.965843_-81.280190@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"253c4809cb1dea321fdf2e2bba3342db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864623,
+            "region_id":85682057,
+            "venue_id":152147829
+        }
+    ],
     "wof:id":152147829,
-    "wof:lastmodified":1449048424,
+    "wof:lastmodified":1453935969,
     "wof:name":"S & E Parker",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.28019,42.965843,-81.28019,42.965843],
+  "bbox": [
+    -81.28019,
+    42.965843,
+    -81.28019,
+    42.965843
+],
   "geometry": {"coordinates":[-81.28019,42.965843],"type":"Point"}
 }

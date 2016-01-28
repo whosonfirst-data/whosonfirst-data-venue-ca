@@ -2,13 +2,14 @@
   "id": 169271617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.517189,43.446144,-80.517189,43.446144",
     "geom:latitude":43.446144,
     "geom:longitude":-80.517189,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Kitchener",
     "sg:classifiers":[
         {
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874977,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"0daf42d5f0af74a26b16ead063c1bcfd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874977,
+            "region_id":85682057,
+            "venue_id":169271617
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874977,
             "region_id":85682057,
             "venue_id":169271617
         }
     ],
     "wof:id":169271617,
-    "wof:lastmodified":1449034410,
+    "wof:lastmodified":1453930595,
     "wof:name":"Scarlet Dragon Society",
     "wof:parent_id":85874977,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.517189,43.446144,-80.517189,43.446144],
+  "bbox": [
+    -80.517189,
+    43.446144,
+    -80.517189,
+    43.446144
+],
   "geometry": {"coordinates":[-80.517189,43.446144],"type":"Point"}
 }

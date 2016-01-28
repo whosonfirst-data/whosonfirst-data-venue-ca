@@ -2,13 +2,14 @@
   "id": 168833155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.201286,45.584404,-73.201286,45.584404",
     "geom:latitude":45.584404,
     "geom:longitude":-73.201286,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"201 Rue Du Buisson",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737201,
+        85894597,
+        102191575,
         85633041,
-        85894597
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"28be4bbc379e385f6e9eb198b7dc3697",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894597,
+            "region_id":136251273,
             "venue_id":168833155
         }
     ],
     "wof:id":168833155,
-    "wof:lastmodified":1449027873,
+    "wof:lastmodified":1453927891,
     "wof:name":"Ecole Le Tournesol",
     "wof:parent_id":85894597,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.201286,45.584404,-73.201286,45.584404],
+  "bbox": [
+    -73.201286,
+    45.584404,
+    -73.201286,
+    45.584404
+],
   "geometry": {"coordinates":[-73.201286,45.584404],"type":"Point"}
 }

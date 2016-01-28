@@ -2,13 +2,14 @@
   "id": 186644591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.471046,44.037285,-79.471046,44.037285",
     "geom:latitude":44.037285,
     "geom:longitude":-79.471046,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"130 Mulock Dr",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895563,
         102191575,
         85633041,
-        85895563
+        101736295,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736295,
             "neighbourhood_id":85895563,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":186644591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895563,
+            "region_id":85682057,
             "venue_id":186644591
         }
     ],
     "wof:id":186644591,
-    "wof:lastmodified":1449051919,
+    "wof:lastmodified":1453936744,
     "wof:name":"Surfside Dream Builders",
     "wof:parent_id":85895563,
     "wof:placetype":"venue",
@@ -65,6 +76,11 @@
         "swimming"
     ]
 },
-  "bbox": [-79.471046,44.037285,-79.471046,44.037285],
+  "bbox": [
+    -79.471046,
+    44.037285,
+    -79.471046,
+    44.037285
+],
   "geometry": {"coordinates":[-79.471046,44.037285],"type":"Point"}
 }

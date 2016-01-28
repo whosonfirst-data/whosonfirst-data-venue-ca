@@ -2,13 +2,14 @@
   "id": 169408419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.361542,46.784447,-71.361542,46.784447",
     "geom:latitude":46.784447,
     "geom:longitude":-71.361542,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7175 Boul Wilfrid-Hamel",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85784683,
+        102191575,
         85633041,
-        85784683
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"952625b7fc6a07c43e49cdd34c126b8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784683,
+            "region_id":136251273,
             "venue_id":169408419
         }
     ],
     "wof:id":169408419,
-    "wof:lastmodified":1449033092,
+    "wof:lastmodified":1453929221,
     "wof:name":"Club Action",
     "wof:parent_id":85784683,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.361542,46.784447,-71.361542,46.784447],
+  "bbox": [
+    -71.361542,
+    46.784447,
+    -71.361542,
+    46.784447
+],
   "geometry": {"coordinates":[-71.361542,46.784447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185613809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.261909,43.855717,-79.261909,43.855717",
     "geom:latitude":43.855717,
     "geom:longitude":-79.261909,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"230 Travail Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895357,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"b2eec193af35de243aca317d39f6b7a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895357,
+            "region_id":85682057,
+            "venue_id":185613809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895357,
             "region_id":85682057,
             "venue_id":185613809
         }
     ],
     "wof:id":185613809,
-    "wof:lastmodified":1449007363,
+    "wof:lastmodified":1453927293,
     "wof:name":"Cabletel Communications Corp",
     "wof:parent_id":85895357,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "optics"
     ]
 },
-  "bbox": [-79.261909,43.855717,-79.261909,43.855717],
+  "bbox": [
+    -79.261909,
+    43.855717,
+    -79.261909,
+    43.855717
+],
   "geometry": {"coordinates":[-79.261909,43.855717],"type":"Point"}
 }

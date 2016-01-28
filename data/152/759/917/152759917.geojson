@@ -2,13 +2,14 @@
   "id": 152759917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.741287,45.444874,-73.741287,45.444874",
     "geom:latitude":45.444874,
     "geom:longitude":-73.741287,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Dorval",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"0322543f13aa6cba4699c38cb2ebe9c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":152759917
         }
     ],
     "wof:id":152759917,
-    "wof:lastmodified":1449048966,
+    "wof:lastmodified":1453936405,
     "wof:name":"Tiki Wok",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.741287,45.444874,-73.741287,45.444874],
+  "bbox": [
+    -73.741287,
+    45.444874,
+    -73.741287,
+    45.444874
+],
   "geometry": {"coordinates":[-73.741287,45.444874],"type":"Point"}
 }

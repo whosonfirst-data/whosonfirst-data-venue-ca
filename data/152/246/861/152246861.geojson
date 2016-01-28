@@ -2,13 +2,14 @@
   "id": 152246861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.931969,45.382996,-71.931969,45.382996",
     "geom:latitude":45.382996,
     "geom:longitude":-71.931969,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1555 Rue Gauvin",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874183,
+        102191575,
         85633041,
-        85874183
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"76a1982004ebb52e8768ddd9d415aedf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874183,
+            "region_id":136251273,
             "venue_id":152246861
         }
     ],
     "wof:id":152246861,
-    "wof:lastmodified":1449044620,
+    "wof:lastmodified":1453933069,
     "wof:name":"Messagerie Mario Enr",
     "wof:parent_id":85874183,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.931969,45.382996,-71.931969,45.382996],
+  "bbox": [
+    -71.931969,
+    45.382996,
+    -71.931969,
+    45.382996
+],
   "geometry": {"coordinates":[-71.931969,45.382996],"type":"Point"}
 }

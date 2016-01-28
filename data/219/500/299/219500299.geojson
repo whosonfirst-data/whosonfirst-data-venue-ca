@@ -2,13 +2,14 @@
   "id": 219500299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.695061,43.700634,-79.695061,43.700634",
     "geom:latitude":43.700634,
     "geom:longitude":-79.695061,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1730 Steeles Ave E",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895633,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"f18343fc5458bc09b198a20b61f6439e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":219500299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":219500299
         }
     ],
     "wof:id":219500299,
-    "wof:lastmodified":1449071281,
+    "wof:lastmodified":1453937662,
     "wof:name":"J K Tours & Travel",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "bureau"
     ]
 },
-  "bbox": [-79.695061,43.700634,-79.695061,43.700634],
+  "bbox": [
+    -79.695061,
+    43.700634,
+    -79.695061,
+    43.700634
+],
   "geometry": {"coordinates":[-79.695061,43.700634],"type":"Point"}
 }

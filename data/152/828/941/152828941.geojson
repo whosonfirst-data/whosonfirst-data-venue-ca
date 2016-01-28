@@ -2,13 +2,14 @@
   "id": 152828941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.217201,43.165852,-79.217201,43.165852",
     "geom:latitude":43.165852,
     "geom:longitude":-79.217201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"14 Wright St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"11f3d4457a010d21e1b8a89eefec41a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152828941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152828941
         }
     ],
     "wof:id":152828941,
-    "wof:lastmodified":1449046645,
+    "wof:lastmodified":1453934608,
     "wof:name":"R W Hamilton Ltd",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.217201,43.165852,-79.217201,43.165852],
+  "bbox": [
+    -79.217201,
+    43.165852,
+    -79.217201,
+    43.165852
+],
   "geometry": {"coordinates":[-79.217201,43.165852],"type":"Point"}
 }

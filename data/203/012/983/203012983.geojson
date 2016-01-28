@@ -2,13 +2,14 @@
   "id": 203012983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619858,45.518074,-73.619858,45.518074",
     "geom:latitude":45.518074,
     "geom:longitude":-73.619858,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1641 Av Ducharme",
     "sg:city":"Outremont",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784831,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"52062e4d818dee17a8d1ac7a8cb55b5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203012983
         }
     ],
     "wof:id":203012983,
-    "wof:lastmodified":1449026681,
+    "wof:lastmodified":1453927725,
     "wof:name":"Marche Wg Enr",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.619858,45.518074,-73.619858,45.518074],
-  "geometry": {"coordinates":[-73.619858,45.518074],"type":"Point"}
+  "bbox": [
+    -73.619858,
+    45.518074,
+    -73.619858,
+    45.518074
+],
+  "geometry": {"coordinates":[-73.61985799999999,45.518074],"type":"Point"}
 }

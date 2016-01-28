@@ -2,13 +2,14 @@
   "id": 152492551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.229164,43.175415,-79.229164,43.175415",
     "geom:latitude":43.175415,
     "geom:longitude":-79.229164,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"210 Niagara St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"e6e1c5e08cdad7d32a513d81ef9c954f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152492551
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152492551
         }
     ],
     "wof:id":152492551,
-    "wof:lastmodified":1449044284,
+    "wof:lastmodified":1453932814,
     "wof:name":"Ferrante Picture Framing",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.229164,43.175415,-79.229164,43.175415],
+  "bbox": [
+    -79.229164,
+    43.175415,
+    -79.229164,
+    43.175415
+],
   "geometry": {"coordinates":[-79.229164,43.175415],"type":"Point"}
 }

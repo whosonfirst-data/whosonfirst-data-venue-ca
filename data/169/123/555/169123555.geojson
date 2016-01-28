@@ -2,13 +2,14 @@
   "id": 169123555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.542595,45.548489,-73.542595,45.548489",
     "geom:latitude":45.548489,
     "geom:longitude":-73.542595,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3911 Rue Ontario E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"81dd6435672d3f730d1ab87752c9a5b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":169123555
         }
     ],
     "wof:id":169123555,
-    "wof:lastmodified":1449033673,
+    "wof:lastmodified":1453929805,
     "wof:name":"Animalerie Ontario",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.542595,45.548489,-73.542595,45.548489],
-  "geometry": {"coordinates":[-73.542595,45.548489],"type":"Point"}
+  "bbox": [
+    -73.542595,
+    45.548489,
+    -73.542595,
+    45.548489
+],
+  "geometry": {"coordinates":[-73.54259500000001,45.548489],"type":"Point"}
 }

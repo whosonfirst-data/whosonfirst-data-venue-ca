@@ -2,13 +2,14 @@
   "id": 168870409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.7127,45.431328,-75.7127,45.431328",
     "geom:latitude":45.431328,
     "geom:longitude":-75.7127,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"174 Boul Maisonneuve",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3425b6902d8e14ffcb778e6e074d35c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":168870409
         }
     ],
     "wof:id":168870409,
-    "wof:lastmodified":1449027966,
+    "wof:lastmodified":1453928001,
     "wof:name":"Taverne Whip",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.7127,45.431328,-75.7127,45.431328],
+  "bbox": [
+    -75.7127,
+    45.431328,
+    -75.7127,
+    45.431328
+],
   "geometry": {"coordinates":[-75.7127,45.431328],"type":"Point"}
 }

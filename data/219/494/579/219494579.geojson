@@ -2,13 +2,14 @@
   "id": 219494579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.093491,43.920116,-80.093491,43.920116",
     "geom:latitude":43.920116,
     "geom:longitude":-80.093491,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Orangeville",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895287,
+        102191575,
         85633041,
-        85682057
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"93b29c83b222ae1d054d059ea3c079cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895287,
+            "region_id":85682057,
+            "venue_id":219494579
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895287,
             "region_id":85682057,
             "venue_id":219494579
         }
     ],
     "wof:id":219494579,
-    "wof:lastmodified":1449073534,
+    "wof:lastmodified":1453937961,
     "wof:name":"Orangeville Lighting Svc",
     "wof:parent_id":85895287,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.093491,43.920116,-80.093491,43.920116],
+  "bbox": [
+    -80.093491,
+    43.920116,
+    -80.093491,
+    43.920116
+],
   "geometry": {"coordinates":[-80.093491,43.920116],"type":"Point"}
 }

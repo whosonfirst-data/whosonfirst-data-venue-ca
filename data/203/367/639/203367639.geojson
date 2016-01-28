@@ -2,13 +2,14 @@
   "id": 203367639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.552032,46.37352,-72.552032,46.37352",
     "geom:latitude":46.37352,
     "geom:longitude":-72.552032,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"315 Rue Vachon",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874111,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"364f8bed874f34d88d7cd118ccf812b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874111,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203367639
         }
     ],
     "wof:id":203367639,
-    "wof:lastmodified":1449026070,
+    "wof:lastmodified":1453927614,
     "wof:name":"Biolab",
     "wof:parent_id":85874111,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "ecological"
     ]
 },
-  "bbox": [-72.552032,46.37352,-72.552032,46.37352],
+  "bbox": [
+    -72.552032,
+    46.37352,
+    -72.552032,
+    46.37352
+],
   "geometry": {"coordinates":[-72.552032,46.37352],"type":"Point"}
 }

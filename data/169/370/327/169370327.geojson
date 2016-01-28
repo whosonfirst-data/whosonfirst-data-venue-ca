@@ -2,13 +2,14 @@
   "id": 169370327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.819626,43.888672,-78.819626,43.888672",
     "geom:latitude":43.888672,
     "geom:longitude":-78.819626,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1000 Bloor St E",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875163,
-        85682057
+        102191575,
+        85633041,
+        101736039,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"25137d88e0a7b18d5d0a379dc48269d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736039,
+            "neighbourhood_id":85875163,
+            "region_id":85682057,
+            "venue_id":169370327
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875163,
             "region_id":85682057,
             "venue_id":169370327
         }
     ],
     "wof:id":169370327,
-    "wof:lastmodified":1449034493,
+    "wof:lastmodified":1453930675,
     "wof:name":"Harmony Creek Golf Course",
     "wof:parent_id":85875163,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.819626,43.888672,-78.819626,43.888672],
+  "bbox": [
+    -78.819626,
+    43.888672,
+    -78.819626,
+    43.888672
+],
   "geometry": {"coordinates":[-78.819626,43.888672],"type":"Point"}
 }

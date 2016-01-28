@@ -2,13 +2,14 @@
   "id": 152790089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.834045,43.875008,-78.834045,43.875008",
     "geom:latitude":43.875008,
     "geom:longitude":-78.834045,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"486 Waterloo Crt",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875151,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"492abc39d66b1325b9b615aab4293238",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875151,
+            "region_id":85682057,
+            "venue_id":152790089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875151,
             "region_id":85682057,
             "venue_id":152790089
         }
     ],
     "wof:id":152790089,
-    "wof:lastmodified":1449047838,
+    "wof:lastmodified":1453935530,
     "wof:name":"R H Cabinet & Carpentry Ltd",
     "wof:parent_id":85875151,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.834045,43.875008,-78.834045,43.875008],
+  "bbox": [
+    -78.834045,
+    43.875008,
+    -78.834045,
+    43.875008
+],
   "geometry": {"coordinates":[-78.834045,43.875008],"type":"Point"}
 }

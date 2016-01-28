@@ -2,13 +2,14 @@
   "id": 152605739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572861,45.497829,-73.572861,45.497829",
     "geom:latitude":45.497829,
     "geom:longitude":-73.572861,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866491,
+        102191575,
         85633041,
-        85866491
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"aa750f99f09e272e08bb2bbed7cda94c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
+            "region_id":136251273,
             "venue_id":152605739
         }
     ],
     "wof:id":152605739,
-    "wof:lastmodified":1449046558,
+    "wof:lastmodified":1453934545,
     "wof:name":"Som Inc",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.572861,45.497829,-73.572861,45.497829],
+  "bbox": [
+    -73.572861,
+    45.497829,
+    -73.572861,
+    45.497829
+],
   "geometry": {"coordinates":[-73.572861,45.497829],"type":"Point"}
 }

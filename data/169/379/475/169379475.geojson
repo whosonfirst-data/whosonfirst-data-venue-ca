@@ -2,13 +2,14 @@
   "id": 169379475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.203735,46.812187,-71.203735,46.812187",
     "geom:latitude":46.812187,
     "geom:longitude":-71.203735,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866517,
+        102191575,
         85633041,
-        85866517
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"2a95a05b7df90e8a8778082cf16d5fdd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
+            "region_id":136251273,
             "venue_id":169379475
         }
     ],
     "wof:id":169379475,
-    "wof:lastmodified":1449034605,
+    "wof:lastmodified":1453930809,
     "wof:name":"Galerie D'Art Laroche & Denis",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.203735,46.812187,-71.203735,46.812187],
-  "geometry": {"coordinates":[-71.203735,46.812187],"type":"Point"}
+  "bbox": [
+    -71.203735,
+    46.812187,
+    -71.203735,
+    46.812187
+],
+  "geometry": {"coordinates":[-71.20373499999999,46.812187],"type":"Point"}
 }

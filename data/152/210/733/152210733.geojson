@@ -2,13 +2,14 @@
   "id": 152210733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.818558,45.505013,-73.818558,45.505013",
     "geom:latitude":45.505013,
     "geom:longitude":-73.818558,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4894 Boul Des Sources",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d6a66bfbf2afa964cf051f181dce48ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":152210733
         }
     ],
     "wof:id":152210733,
-    "wof:lastmodified":1449045874,
+    "wof:lastmodified":1453934030,
     "wof:name":"Jean Coutu",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.818558,45.505013,-73.818558,45.505013],
+  "bbox": [
+    -73.818558,
+    45.505013,
+    -73.818558,
+    45.505013
+],
   "geometry": {"coordinates":[-73.818558,45.505013],"type":"Point"}
 }

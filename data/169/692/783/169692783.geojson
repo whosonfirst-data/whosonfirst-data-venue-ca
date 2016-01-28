@@ -2,13 +2,14 @@
   "id": 169692783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.632011,45.505108,-73.632011,45.505108",
     "geom:latitude":45.505108,
     "geom:longitude":-73.632011,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3220 Av Appleton",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897525,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"a82a8c782ffeaa19e7ef9d5a31fd186d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897525,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169692783
         }
     ],
     "wof:id":169692783,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1453929669,
     "wof:name":"Maison Des Jeunes DE LA Cote",
     "wof:parent_id":85897525,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.632011,45.505108,-73.632011,45.505108],
-  "geometry": {"coordinates":[-73.632011,45.505108],"type":"Point"}
+  "bbox": [
+    -73.632011,
+    45.505108,
+    -73.632011,
+    45.505108
+],
+  "geometry": {"coordinates":[-73.63201100000001,45.505108],"type":"Point"}
 }

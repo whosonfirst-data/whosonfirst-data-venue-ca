@@ -2,13 +2,14 @@
   "id": 169324301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.590187,43.605148,-79.590187,43.605148",
     "geom:latitude":43.605148,
     "geom:longitude":-79.590187,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3071 Palstan Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c1f0ce3432194095cc8f58b62985fe64",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":169324301
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":169324301
         }
     ],
     "wof:id":169324301,
-    "wof:lastmodified":1449034614,
+    "wof:lastmodified":1453930817,
     "wof:name":"Keith's Gourmet Catering",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.590187,43.605148,-79.590187,43.605148],
+  "bbox": [
+    -79.590187,
+    43.605148,
+    -79.590187,
+    43.605148
+],
   "geometry": {"coordinates":[-79.590187,43.605148],"type":"Point"}
 }

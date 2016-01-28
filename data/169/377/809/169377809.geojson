@@ -2,13 +2,14 @@
   "id": 169377809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.462105,45.468002,-73.462105,45.468002",
     "geom:latitude":45.468002,
     "geom:longitude":-73.462105,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2550 Boul Lapiniere",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897509,
+        102191575,
         85633041,
-        85897509
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"45d263db8dd24b909d90be2f8bcc40dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897509,
+            "region_id":136251273,
             "venue_id":169377809
         }
     ],
     "wof:id":169377809,
-    "wof:lastmodified":1449033934,
+    "wof:lastmodified":1453930089,
     "wof:name":"Kohinoor Import & Export",
     "wof:parent_id":85897509,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.462105,45.468002,-73.462105,45.468002],
-  "geometry": {"coordinates":[-73.462105,45.468002],"type":"Point"}
+  "bbox": [
+    -73.462105,
+    45.468002,
+    -73.462105,
+    45.468002
+],
+  "geometry": {"coordinates":[-73.46210499999999,45.468002],"type":"Point"}
 }

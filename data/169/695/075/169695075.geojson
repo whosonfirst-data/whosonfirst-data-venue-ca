@@ -2,13 +2,14 @@
   "id": 169695075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.481026,44.032177,-79.481026,44.032177",
     "geom:latitude":44.032177,
     "geom:longitude":-79.481026,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"705 Columbus Way",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895563,
         102191575,
         85633041,
-        85895563
+        101736295,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736295,
             "neighbourhood_id":85895563,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169695075
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895563,
+            "region_id":85682057,
             "venue_id":169695075
         }
     ],
     "wof:id":169695075,
-    "wof:lastmodified":1449033943,
+    "wof:lastmodified":1453930108,
     "wof:name":"Sir William Mulock Secondary",
     "wof:parent_id":85895563,
     "wof:placetype":"venue",
@@ -54,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.481026,44.032177,-79.481026,44.032177],
+  "bbox": [
+    -79.481026,
+    44.032177,
+    -79.481026,
+    44.032177
+],
   "geometry": {"coordinates":[-79.481026,44.032177],"type":"Point"}
 }

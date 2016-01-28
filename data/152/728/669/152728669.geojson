@@ -2,13 +2,14 @@
   "id": 152728669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.553757,45.496407,-73.553757,45.496407",
     "geom:latitude":45.496407,
     "geom:longitude":-73.553757,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"33 Rue Prince",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897617,
+        102191575,
         85633041,
-        85897617
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"eb13dc75571fbfe1512e9a6bef4eedd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897617,
+            "region_id":136251273,
             "venue_id":152728669
         }
     ],
     "wof:id":152728669,
-    "wof:lastmodified":1449045370,
+    "wof:lastmodified":1453933644,
     "wof:name":"Cybercap",
     "wof:parent_id":85897617,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.553757,45.496407,-73.553757,45.496407],
+  "bbox": [
+    -73.553757,
+    45.496407,
+    -73.553757,
+    45.496407
+],
   "geometry": {"coordinates":[-73.553757,45.496407],"type":"Point"}
 }

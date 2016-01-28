@@ -2,13 +2,14 @@
   "id": 152641433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.612854,45.541161,-73.612854,45.541161",
     "geom:latitude":45.541161,
     "geom:longitude":-73.612854,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"900 Rue Jean-Talon E # B",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b11708baf4923704ae14e620512538b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":152641433
         }
     ],
     "wof:id":152641433,
-    "wof:lastmodified":1449047803,
+    "wof:lastmodified":1453935505,
     "wof:name":"Auto Stop Svc",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.612854,45.541161,-73.612854,45.541161],
+  "bbox": [
+    -73.612854,
+    45.541161,
+    -73.612854,
+    45.541161
+],
   "geometry": {"coordinates":[-73.612854,45.541161],"type":"Point"}
 }

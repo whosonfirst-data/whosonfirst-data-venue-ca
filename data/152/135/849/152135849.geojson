@@ -2,13 +2,14 @@
   "id": 152135849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.287102,44.292778,-78.287102,44.292778",
     "geom:latitude":44.292778,
     "geom:longitude":-78.287102,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Peterborough",
     "sg:classifiers":[
         {
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"34ccbe223171ab3f89e8b49c5fdcf5a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":152135849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":152135849
         }
     ],
     "wof:id":152135849,
-    "wof:lastmodified":1449046080,
+    "wof:lastmodified":1453934178,
     "wof:name":"Peterborough-Northumberland",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.287102,44.292778,-78.287102,44.292778],
+  "bbox": [
+    -78.287102,
+    44.292778,
+    -78.287102,
+    44.292778
+],
   "geometry": {"coordinates":[-78.287102,44.292778],"type":"Point"}
 }

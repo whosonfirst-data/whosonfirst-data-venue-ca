@@ -2,13 +2,14 @@
   "id": 203105953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566978,45.511257,-73.566978,45.511257",
     "geom:latitude":45.511257,
     "geom:longitude":-73.566978,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2000 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866487,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"78c7b05c9dac2c9d00e5c95c438d4f5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203105953
         }
     ],
     "wof:id":203105953,
-    "wof:lastmodified":1449025642,
+    "wof:lastmodified":1453927541,
     "wof:name":"Distributeur DE Montres Mtl",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "watch"
     ]
 },
-  "bbox": [-73.566978,45.511257,-73.566978,45.511257],
-  "geometry": {"coordinates":[-73.566978,45.511257],"type":"Point"}
+  "bbox": [
+    -73.566978,
+    45.511257,
+    -73.566978,
+    45.511257
+],
+  "geometry": {"coordinates":[-73.56697800000001,45.511257],"type":"Point"}
 }

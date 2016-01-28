@@ -2,13 +2,14 @@
   "id": 152528323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.703575,45.497982,-73.703575,45.497982",
     "geom:latitude":45.497982,
     "geom:longitude":-73.703575,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"6105e0ef646c5940faace232e15656cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152528323
         }
     ],
     "wof:id":152528323,
-    "wof:lastmodified":1449045535,
+    "wof:lastmodified":1453933775,
     "wof:name":"Kompass",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.703575,45.497982,-73.703575,45.497982],
+  "bbox": [
+    -73.703575,
+    45.497982,
+    -73.703575,
+    45.497982
+],
   "geometry": {"coordinates":[-73.703575,45.497982],"type":"Point"}
 }

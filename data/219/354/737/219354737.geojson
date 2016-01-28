@@ -2,13 +2,14 @@
   "id": 219354737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682838,43.673576,-79.682838,43.673576",
     "geom:latitude":43.673576,
     "geom:longitude":-79.682838,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1246 Cardiff Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895633,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"6624dc8db2d80d6485e198d4053e89e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":219354737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":219354737
         }
     ],
     "wof:id":219354737,
-    "wof:lastmodified":1449073519,
+    "wof:lastmodified":1453937960,
     "wof:name":"Miracles in Glass Inc",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "aquarium"
     ]
 },
-  "bbox": [-79.682838,43.673576,-79.682838,43.673576],
+  "bbox": [
+    -79.682838,
+    43.673576,
+    -79.682838,
+    43.673576
+],
   "geometry": {"coordinates":[-79.682838,43.673576],"type":"Point"}
 }

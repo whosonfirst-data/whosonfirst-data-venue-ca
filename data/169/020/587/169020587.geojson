@@ -2,13 +2,14 @@
   "id": 169020587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.241875,46.813049,-71.241875,46.813049",
     "geom:latitude":46.813049,
     "geom:longitude":-71.241875,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"451 Rue Saint-Mathias",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874719,
+        102191575,
         85633041,
-        85874719
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a6cb0921dd3c44ec6fd6290e81ca51bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874719,
+            "region_id":136251273,
             "venue_id":169020587
         }
     ],
     "wof:id":169020587,
-    "wof:lastmodified":1449034216,
+    "wof:lastmodified":1453930403,
     "wof:name":"Garage Guy Ruelland",
     "wof:parent_id":85874719,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.241875,46.813049,-71.241875,46.813049],
-  "geometry": {"coordinates":[-71.241875,46.813049],"type":"Point"}
+  "bbox": [
+    -71.241875,
+    46.813049,
+    -71.241875,
+    46.813049
+],
+  "geometry": {"coordinates":[-71.24187499999999,46.813049],"type":"Point"}
 }

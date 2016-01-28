@@ -2,13 +2,14 @@
   "id": 185627749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.250183,43.202751,-79.250183,43.202751",
     "geom:latitude":43.202751,
     "geom:longitude":-79.250183,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7 Fallingbrook Crt",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875045,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"7852277b01d08929f6ca79699db74f34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875045,
+            "region_id":85682057,
+            "venue_id":185627749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875045,
             "region_id":85682057,
             "venue_id":185627749
         }
     ],
     "wof:id":185627749,
-    "wof:lastmodified":1449008252,
+    "wof:lastmodified":1453927397,
     "wof:name":"Mary Kay Cosmetics",
     "wof:parent_id":85875045,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "perfume"
     ]
 },
-  "bbox": [-79.250183,43.202751,-79.250183,43.202751],
-  "geometry": {"coordinates":[-79.250183,43.202751],"type":"Point"}
+  "bbox": [
+    -79.250183,
+    43.202751,
+    -79.250183,
+    43.202751
+],
+  "geometry": {"coordinates":[-79.25018300000001,43.202751],"type":"Point"}
 }

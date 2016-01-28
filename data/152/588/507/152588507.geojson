@@ -2,13 +2,14 @@
   "id": 152588507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.112907,43.90707,-80.112907,43.90707",
     "geom:latitude":43.90707,
     "geom:longitude":-80.112907,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"63 Centennial Rd",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895083,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e8a5f2fec37d0a835a255f5d4572a6f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895083,
+            "region_id":85682057,
+            "venue_id":152588507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895083,
             "region_id":85682057,
             "venue_id":152588507
         }
     ],
     "wof:id":152588507,
-    "wof:lastmodified":1449048009,
+    "wof:lastmodified":1453935659,
     "wof:name":"Brafasco",
     "wof:parent_id":85895083,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.112907,43.90707,-80.112907,43.90707],
-  "geometry": {"coordinates":[-80.112907,43.90707],"type":"Point"}
+  "bbox": [
+    -80.112907,
+    43.90707,
+    -80.112907,
+    43.90707
+],
+  "geometry": {"coordinates":[-80.11290700000001,43.90707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152330363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.813988,45.647835,-73.813988,45.647835",
     "geom:latitude":45.647835,
     "geom:longitude":-73.813988,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Rue Martin",
     "sg:city":"Blainville",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871107,
+        102191575,
         85633041,
-        85871107
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"28fbf844684d9a6899d1295025042bd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871107,
+            "region_id":136251273,
             "venue_id":152330363
         }
     ],
     "wof:id":152330363,
-    "wof:lastmodified":1449046611,
+    "wof:lastmodified":1453934574,
     "wof:name":"Coiffure Au Diapason",
     "wof:parent_id":85871107,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.813988,45.647835,-73.813988,45.647835],
-  "geometry": {"coordinates":[-73.813988,45.647835],"type":"Point"}
+  "bbox": [
+    -73.813988,
+    45.647835,
+    -73.813988,
+    45.647835
+],
+  "geometry": {"coordinates":[-73.81398799999999,45.647835],"type":"Point"}
 }

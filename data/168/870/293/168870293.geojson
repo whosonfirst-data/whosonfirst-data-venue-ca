@@ -2,13 +2,14 @@
   "id": 168870293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.460815,43.464161,-80.460815,43.464161",
     "geom:latitude":43.464161,
     "geom:longitude":-80.460815,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"58 Turner Ave",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864615,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5084caac2ff6c90b0756022ffba8cafc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864615,
+            "region_id":85682057,
+            "venue_id":168870293
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864615,
             "region_id":85682057,
             "venue_id":168870293
         }
     ],
     "wof:id":168870293,
-    "wof:lastmodified":1449027961,
+    "wof:lastmodified":1453928000,
     "wof:name":"P F Kaudewitz Landscape Archs",
     "wof:parent_id":85864615,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.460815,43.464161,-80.460815,43.464161],
+  "bbox": [
+    -80.460815,
+    43.464161,
+    -80.460815,
+    43.464161
+],
   "geometry": {"coordinates":[-80.460815,43.464161],"type":"Point"}
 }

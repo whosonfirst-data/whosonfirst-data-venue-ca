@@ -2,13 +2,14 @@
   "id": 169334945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.339813,43.855621,-79.339813,43.855621",
     "geom:latitude":43.855621,
     "geom:longitude":-79.339813,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"101 Town Centre Blvd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895015,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"eb7220c04fbca920c0131decdfd250ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895015,
+            "region_id":85682057,
+            "venue_id":169334945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895015,
             "region_id":85682057,
             "venue_id":169334945
         }
     ],
     "wof:id":169334945,
-    "wof:lastmodified":1449033650,
+    "wof:lastmodified":1453929767,
     "wof:name":"Markham Legal Department",
     "wof:parent_id":85895015,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.339813,43.855621,-79.339813,43.855621],
-  "geometry": {"coordinates":[-79.339813,43.855621],"type":"Point"}
+  "bbox": [
+    -79.339813,
+    43.855621,
+    -79.339813,
+    43.855621
+],
+  "geometry": {"coordinates":[-79.33981300000001,43.855621],"type":"Point"}
 }

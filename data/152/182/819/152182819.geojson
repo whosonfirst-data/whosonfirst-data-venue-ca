@@ -2,13 +2,14 @@
   "id": 152182819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.640022,45.58556,-73.640022,45.58556",
     "geom:latitude":45.58556,
     "geom:longitude":-73.640022,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3711 Rue Prieur E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bcbd6d3ff2a45d1817b86ec792b876a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":152182819
         }
     ],
     "wof:id":152182819,
-    "wof:lastmodified":1449047220,
+    "wof:lastmodified":1453935038,
     "wof:name":"Principale Deneig & Excavation",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.640022,45.58556,-73.640022,45.58556],
+  "bbox": [
+    -73.640022,
+    45.58556,
+    -73.640022,
+    45.58556
+],
   "geometry": {"coordinates":[-73.640022,45.58556],"type":"Point"}
 }

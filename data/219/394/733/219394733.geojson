@@ -2,13 +2,14 @@
   "id": 219394733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.380615,42.960838,-82.380615,42.960838",
     "geom:latitude":42.960838,
     "geom:longitude":-82.380615,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"824 Confederation St",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875565,
+        102191575,
         85633041,
-        85682057
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"d3208112ad25f8609ee268bf36763a3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875565,
+            "region_id":85682057,
+            "venue_id":219394733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875565,
             "region_id":85682057,
             "venue_id":219394733
         }
     ],
     "wof:id":219394733,
-    "wof:lastmodified":1449071076,
+    "wof:lastmodified":1453937633,
     "wof:name":"Battlefield Equipment Rentals",
     "wof:parent_id":85875565,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.380615,42.960838,-82.380615,42.960838],
-  "geometry": {"coordinates":[-82.380615,42.960838],"type":"Point"}
+  "bbox": [
+    -82.380615,
+    42.960838,
+    -82.380615,
+    42.960838
+],
+  "geometry": {"coordinates":[-82.38061500000001,42.960838],"type":"Point"}
 }

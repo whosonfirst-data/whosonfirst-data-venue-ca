@@ -2,13 +2,14 @@
   "id": 152729853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.939369,49.152557,-123.939369,49.152557",
     "geom:latitude":49.152557,
     "geom:longitude":-123.939369,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"140 Princess St",
     "sg:city":"Nanaimo",
     "sg:classifiers":[
@@ -31,9 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741011,
-        85633041,
         85875635,
+        102191575,
+        85633041,
+        101741011,
         85682117
     ],
     "wof:breaches":[],
@@ -44,6 +46,7 @@
     "wof:geomhash":"506eb32a0ff94ad8d69748f87337011b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741011,
             "neighbourhood_id":85875635,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":152729853,
-    "wof:lastmodified":1449046632,
+    "wof:lastmodified":1453934596,
     "wof:name":"Bill's Custom Sheet Metal",
     "wof:parent_id":85875635,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.939369,49.152557,-123.939369,49.152557],
+  "bbox": [
+    -123.939369,
+    49.152557,
+    -123.939369,
+    49.152557
+],
   "geometry": {"coordinates":[-123.939369,49.152557],"type":"Point"}
 }

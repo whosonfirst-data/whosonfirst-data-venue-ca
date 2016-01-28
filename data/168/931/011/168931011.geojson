@@ -2,13 +2,14 @@
   "id": 168931011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.081367,43.814724,-79.081367,43.814724",
     "geom:latitude":43.814724,
     "geom:longitude":-79.081367,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"590 Liverpool Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895513,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e26cfae3f5d65dd650194a8176203e8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895513,
+            "region_id":85682057,
+            "venue_id":168931011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895513,
             "region_id":85682057,
             "venue_id":168931011
         }
     ],
     "wof:id":168931011,
-    "wof:lastmodified":1449028520,
+    "wof:lastmodified":1453928612,
     "wof:name":"Swans Marina Ltd",
     "wof:parent_id":85895513,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.081367,43.814724,-79.081367,43.814724],
+  "bbox": [
+    -79.081367,
+    43.814724,
+    -79.081367,
+    43.814724
+],
   "geometry": {"coordinates":[-79.081367,43.814724],"type":"Point"}
 }

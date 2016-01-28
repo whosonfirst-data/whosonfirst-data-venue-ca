@@ -2,13 +2,14 @@
   "id": 152875873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620934,45.568115,-73.620934,45.568115",
     "geom:latitude":45.568115,
     "geom:longitude":-73.620934,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8701 10E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"6c7d1264e8116eae940c7c9d835e8939",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":152875873
         }
     ],
     "wof:id":152875873,
-    "wof:lastmodified":1449047736,
+    "wof:lastmodified":1453935451,
     "wof:name":"Nadeau Electrix Inc",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.620934,45.568115,-73.620934,45.568115],
-  "geometry": {"coordinates":[-73.620934,45.568115],"type":"Point"}
+  "bbox": [
+    -73.620934,
+    45.568115,
+    -73.620934,
+    45.568115
+],
+  "geometry": {"coordinates":[-73.62093400000001,45.568115],"type":"Point"}
 }

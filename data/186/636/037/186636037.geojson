@@ -2,13 +2,14 @@
   "id": 186636037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.49778,45.406776,-73.49778,45.406776",
     "geom:latitude":45.406776,
     "geom:longitude":-73.49778,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1020 Boul Taschereau",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875779,
+        102191575,
         85633041,
-        101736521
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"b20795518c5f91343a567ec9f200e252",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875779,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186636037
         }
     ],
     "wof:id":186636037,
-    "wof:lastmodified":1449051432,
+    "wof:lastmodified":1453936660,
     "wof:name":"Cibc",
     "wof:parent_id":85875779,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.49778,45.406776,-73.49778,45.406776],
-  "geometry": {"coordinates":[-73.49778,45.406776],"type":"Point"}
+  "bbox": [
+    -73.49778,
+    45.406776,
+    -73.49778,
+    45.406776
+],
+  "geometry": {"coordinates":[-73.49778000000001,45.406776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152652271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.681213,45.344635,-73.681213,45.344635",
     "geom:latitude":45.344635,
     "geom:longitude":-73.681213,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2575 Boul Ford",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"4cd3b7247edb30a418730857de86de52",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":152652271
         }
     ],
     "wof:id":152652271,
-    "wof:lastmodified":1449047274,
+    "wof:lastmodified":1453935081,
     "wof:name":"Pyro-Air Ltee",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.681213,45.344635,-73.681213,45.344635],
+  "bbox": [
+    -73.681213,
+    45.344635,
+    -73.681213,
+    45.344635
+],
   "geometry": {"coordinates":[-73.681213,45.344635],"type":"Point"}
 }

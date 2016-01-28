@@ -2,13 +2,14 @@
   "id": 202652907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.27562,46.773235,-71.27562,46.773235",
     "geom:latitude":46.773235,
     "geom:longitude":-71.27562,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2505 Boul Laurier",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874713,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"16ea8a0f8e00cdda769d0682c220a005",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202652907
         }
     ],
     "wof:id":202652907,
-    "wof:lastmodified":1449061730,
+    "wof:lastmodified":1453937315,
     "wof:name":"Radio Canada",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-71.27562,46.773235,-71.27562,46.773235],
+  "bbox": [
+    -71.27562,
+    46.773235,
+    -71.27562,
+    46.773235
+],
   "geometry": {"coordinates":[-71.27562,46.773235],"type":"Point"}
 }

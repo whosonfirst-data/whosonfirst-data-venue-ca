@@ -2,13 +2,14 @@
   "id": 169194119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.659935,45.532501,-73.659935,45.532501",
     "geom:latitude":45.532501,
     "geom:longitude":-73.659935,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1395 Rue Mazurette",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897497,
+        102191575,
         85633041,
-        85897497
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"640fa32125cadcf4af5bf31f2e7b81d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897497,
+            "region_id":136251273,
             "venue_id":169194119
         }
     ],
     "wof:id":169194119,
-    "wof:lastmodified":1449035486,
+    "wof:lastmodified":1453931718,
     "wof:name":"Atelier DE Gravure Stepko Engr",
     "wof:parent_id":85897497,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.659935,45.532501,-73.659935,45.532501],
+  "bbox": [
+    -73.659935,
+    45.532501,
+    -73.659935,
+    45.532501
+],
   "geometry": {"coordinates":[-73.659935,45.532501],"type":"Point"}
 }

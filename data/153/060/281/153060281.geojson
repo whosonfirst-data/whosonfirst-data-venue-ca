@@ -2,13 +2,14 @@
   "id": 153060281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.763306,45.589649,-73.763306,45.589649",
     "geom:latitude":45.589649,
     "geom:longitude":-73.763306,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1980 Boul Dagenais O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897573,
+        102191575,
         85633041,
-        85897573
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"cb34c6b3adafbc7d377d02625f6942eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897573,
+            "region_id":136251273,
             "venue_id":153060281
         }
     ],
     "wof:id":153060281,
-    "wof:lastmodified":1449040786,
+    "wof:lastmodified":1453932695,
     "wof:name":"Service Jer Inc",
     "wof:parent_id":85897573,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.763306,45.589649,-73.763306,45.589649],
+  "bbox": [
+    -73.763306,
+    45.589649,
+    -73.763306,
+    45.589649
+],
   "geometry": {"coordinates":[-73.763306,45.589649],"type":"Point"}
 }

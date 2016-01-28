@@ -2,13 +2,14 @@
   "id": 153004865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.744659,43.401112,-79.744659,43.401112",
     "geom:latitude":43.401112,
     "geom:longitude":-79.744659,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"801 Mcpherson Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895179,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"bdae00e919bd682cd2941633b3517f05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895179,
+            "region_id":85682057,
+            "venue_id":153004865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895179,
             "region_id":85682057,
             "venue_id":153004865
         }
     ],
     "wof:id":153004865,
-    "wof:lastmodified":1449040511,
+    "wof:lastmodified":1453932454,
     "wof:name":"3Fff Paving CO Ltd",
     "wof:parent_id":85895179,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.744659,43.401112,-79.744659,43.401112],
+  "bbox": [
+    -79.744659,
+    43.401112,
+    -79.744659,
+    43.401112
+],
   "geometry": {"coordinates":[-79.744659,43.401112],"type":"Point"}
 }

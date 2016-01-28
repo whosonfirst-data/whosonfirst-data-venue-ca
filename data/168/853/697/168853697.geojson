@@ -2,13 +2,14 @@
   "id": 168853697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.113205,49.261654,-123.113205,49.261654",
     "geom:latitude":49.261654,
     "geom:longitude":-123.113205,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2675 Yukon St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865005,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"474529970d6188a6b9a2be35fc520448",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865005,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":168853697,
-    "wof:lastmodified":1449028080,
+    "wof:lastmodified":1453928128,
     "wof:name":"Vancouver Board of Variance",
     "wof:parent_id":85865005,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.113205,49.261654,-123.113205,49.261654],
-  "geometry": {"coordinates":[-123.113205,49.261654],"type":"Point"}
+  "bbox": [
+    -123.113205,
+    49.261654,
+    -123.113205,
+    49.261654
+],
+  "geometry": {"coordinates":[-123.11320499999999,49.261654],"type":"Point"}
 }

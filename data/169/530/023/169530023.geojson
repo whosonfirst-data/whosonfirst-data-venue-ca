@@ -2,13 +2,14 @@
   "id": 169530023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.455368,45.506008,-73.455368,45.506008",
     "geom:latitude":45.506008,
     "geom:longitude":-73.455368,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3450 Boul Sir-Wilfrid-Laurier",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"77c30036b20a1516200172f552b6129b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":169530023
         }
     ],
     "wof:id":169530023,
-    "wof:lastmodified":1449034445,
+    "wof:lastmodified":1453930645,
     "wof:name":"Hewitt Equipement Ltee",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.455368,45.506008,-73.455368,45.506008],
-  "geometry": {"coordinates":[-73.455368,45.506008],"type":"Point"}
+  "bbox": [
+    -73.455368,
+    45.506008,
+    -73.455368,
+    45.506008
+],
+  "geometry": {"coordinates":[-73.45536800000001,45.506008],"type":"Point"}
 }

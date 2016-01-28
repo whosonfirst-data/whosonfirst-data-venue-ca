@@ -2,13 +2,14 @@
   "id": 169203965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.305038,44.306854,-78.305038,44.306854",
     "geom:latitude":44.306854,
     "geom:longitude":-78.305038,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"380 Armour Rd # 220",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"f1dd5105c56633cb0c4fbb7002891673",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":169203965
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":169203965
         }
     ],
     "wof:id":169203965,
-    "wof:lastmodified":1449034135,
+    "wof:lastmodified":1453930326,
     "wof:name":"Minacs Worldwide Inc",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.305038,44.306854,-78.305038,44.306854],
+  "bbox": [
+    -78.305038,
+    44.306854,
+    -78.305038,
+    44.306854
+],
   "geometry": {"coordinates":[-78.305038,44.306854],"type":"Point"}
 }

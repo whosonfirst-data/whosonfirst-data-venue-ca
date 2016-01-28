@@ -2,13 +2,14 @@
   "id": 169073645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682854,43.518276,-79.682854,43.518276",
     "geom:latitude":43.518276,
     "geom:longitude":-79.682854,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2536 Bristol Cir",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"dae4a0916696dbed351acf330d78b4c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":169073645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":169073645
         }
     ],
     "wof:id":169073645,
-    "wof:lastmodified":1449033143,
+    "wof:lastmodified":1453929260,
     "wof:name":"My Ole Man's Sports Cards",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.682854,43.518276,-79.682854,43.518276],
-  "geometry": {"coordinates":[-79.682854,43.518276],"type":"Point"}
+  "bbox": [
+    -79.682854,
+    43.518276,
+    -79.682854,
+    43.518276
+],
+  "geometry": {"coordinates":[-79.68285400000001,43.518276],"type":"Point"}
 }

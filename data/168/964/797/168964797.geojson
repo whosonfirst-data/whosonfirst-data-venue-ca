@@ -2,13 +2,14 @@
   "id": 168964797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.266998,42.958881,-81.266998,42.958881",
     "geom:latitude":42.958881,
     "geom:longitude":-81.266998,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"90 Base Line Rd W",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874933,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wbWUsnRQjMIJ8MkCPsT6z_42.958881_-81.266998@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"5e17314de5a9e324d3dd8840e2e88838",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874933,
+            "region_id":85682057,
+            "venue_id":168964797
+        }
+    ],
     "wof:id":168964797,
-    "wof:lastmodified":1449028380,
+    "wof:lastmodified":1453928459,
     "wof:name":"Packwood Place",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.266998,42.958881,-81.266998,42.958881],
+  "bbox": [
+    -81.266998,
+    42.958881,
+    -81.266998,
+    42.958881
+],
   "geometry": {"coordinates":[-81.266998,42.958881],"type":"Point"}
 }

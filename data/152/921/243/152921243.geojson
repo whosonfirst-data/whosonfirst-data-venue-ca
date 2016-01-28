@@ -2,13 +2,14 @@
   "id": 152921243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620308,45.440895,-73.620308,45.440895",
     "geom:latitude":45.440895,
     "geom:longitude":-73.620308,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Lasalle",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897545,
+        102191575,
         85633041,
-        85897545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"361e4df967e8d8f427a5778d5f073e27",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897545,
+            "region_id":136251273,
             "venue_id":152921243
         }
     ],
     "wof:id":152921243,
-    "wof:lastmodified":1449047262,
+    "wof:lastmodified":1453935072,
     "wof:name":"Clinique Physio-Impact",
     "wof:parent_id":85897545,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.620308,45.440895,-73.620308,45.440895],
-  "geometry": {"coordinates":[-73.620308,45.440895],"type":"Point"}
+  "bbox": [
+    -73.620308,
+    45.440895,
+    -73.620308,
+    45.440895
+],
+  "geometry": {"coordinates":[-73.62030799999999,45.440895],"type":"Point"}
 }

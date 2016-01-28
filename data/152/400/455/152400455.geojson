@@ -2,13 +2,14 @@
   "id": 152400455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.867096,44.148457,-79.867096,44.148457",
     "geom:latitude":44.148457,
     "geom:longitude":-79.867096,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"130 Church St S",
     "sg:city":"Alliston",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895189,
         102191575,
         85633041,
-        85895189
+        101736229,
+        85682057,
+        101740747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736229,
             "neighbourhood_id":85895189,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152400455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740747,
+            "neighbourhood_id":85895189,
+            "region_id":85682057,
             "venue_id":152400455
         }
     ],
     "wof:id":152400455,
-    "wof:lastmodified":1449044760,
+    "wof:lastmodified":1453933182,
     "wof:name":"New Tecumseth Fire Dept",
     "wof:parent_id":85895189,
     "wof:placetype":"venue",
@@ -57,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.867096,44.148457,-79.867096,44.148457],
+  "bbox": [
+    -79.867096,
+    44.148457,
+    -79.867096,
+    44.148457
+],
   "geometry": {"coordinates":[-79.867096,44.148457],"type":"Point"}
 }

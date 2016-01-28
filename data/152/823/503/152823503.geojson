@@ -2,13 +2,14 @@
   "id": 152823503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.458542,45.519524,-73.458542,45.519524",
     "geom:latitude":45.519524,
     "geom:longitude":-73.458542,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2930 Ch DE Chambly",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"e63f7407e04c4db246952c17637c186e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":152823503
         }
     ],
     "wof:id":152823503,
-    "wof:lastmodified":1449048869,
+    "wof:lastmodified":1453936309,
     "wof:name":"Superclub Videotron Ltee",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.458542,45.519524,-73.458542,45.519524],
-  "geometry": {"coordinates":[-73.458542,45.519524],"type":"Point"}
+  "bbox": [
+    -73.458542,
+    45.519524,
+    -73.458542,
+    45.519524
+],
+  "geometry": {"coordinates":[-73.45854199999999,45.519524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169480149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.44178,45.512917,-73.44178,45.512917",
     "geom:latitude":45.512917,
     "geom:longitude":-73.44178,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3653 Ch DE Chambly",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"6b484e07a5054914c99c42f6a6ba2a29",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":169480149
         }
     ],
     "wof:id":169480149,
-    "wof:lastmodified":1449033763,
+    "wof:lastmodified":1453929904,
     "wof:name":"Enviram Inc Group Conseil",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.44178,45.512917,-73.44178,45.512917],
-  "geometry": {"coordinates":[-73.44178,45.512917],"type":"Point"}
+  "bbox": [
+    -73.44178,
+    45.512917,
+    -73.44178,
+    45.512917
+],
+  "geometry": {"coordinates":[-73.44177999999999,45.512917],"type":"Point"}
 }

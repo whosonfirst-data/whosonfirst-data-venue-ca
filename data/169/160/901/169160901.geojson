@@ -2,13 +2,14 @@
   "id": 169160901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.590874,45.488831,-73.590874,45.488831",
     "geom:latitude":45.488831,
     "geom:longitude":-73.590874,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4119 Rue Sherbrooke O",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85784969,
+        102191575,
         85633041,
-        85784969
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e15b2c83cb44b539be8f6ff2c8c999cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85784969,
+            "region_id":136251273,
             "venue_id":169160901
         }
     ],
     "wof:id":169160901,
-    "wof:lastmodified":1449035436,
+    "wof:lastmodified":1453931649,
     "wof:name":"Irving Mitchell & Associes",
     "wof:parent_id":85784969,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.590874,45.488831,-73.590874,45.488831],
+  "bbox": [
+    -73.590874,
+    45.488831,
+    -73.590874,
+    45.488831
+],
   "geometry": {"coordinates":[-73.590874,45.488831],"type":"Point"}
 }

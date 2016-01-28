@@ -2,13 +2,14 @@
   "id": 169843001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.610741,45.543655,-73.610741,45.543655",
     "geom:latitude":45.543655,
     "geom:longitude":-73.610741,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1236 Rue Jean-Talon E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874369,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"c98ce2fcf57c136c346f25e1d5bfa5ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169843001
         }
     ],
     "wof:id":169843001,
-    "wof:lastmodified":1449032968,
+    "wof:lastmodified":1453929102,
     "wof:name":"Salon Louis T",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.610741,45.543655,-73.610741,45.543655],
+  "bbox": [
+    -73.610741,
+    45.543655,
+    -73.610741,
+    45.543655
+],
   "geometry": {"coordinates":[-73.610741,45.543655],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186435503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.746498,45.593758,-73.746498,45.593758",
     "geom:latitude":45.593758,
     "geom:longitude":-73.746498,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3452 Boul Industriel",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897565,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"dec799692b705e8a6c87c8f65542e771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897565,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186435503
         }
     ],
     "wof:id":186435503,
-    "wof:lastmodified":1449052776,
+    "wof:lastmodified":1453936900,
     "wof:name":"Selena Coffee",
     "wof:parent_id":85897565,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.746498,45.593758,-73.746498,45.593758],
+  "bbox": [
+    -73.746498,
+    45.593758,
+    -73.746498,
+    45.593758
+],
   "geometry": {"coordinates":[-73.746498,45.593758],"type":"Point"}
 }

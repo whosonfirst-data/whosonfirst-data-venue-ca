@@ -2,13 +2,14 @@
   "id": 185803151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.918526,45.399349,-71.918526,45.399349",
     "geom:latitude":45.399349,
     "geom:longitude":-71.918526,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Boul Jacques-Cartier N",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874131,
+        102191575,
         85633041,
-        101738289
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"b26e3af7fb7838f71b954724ec11daeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185803151
         }
     ],
     "wof:id":185803151,
-    "wof:lastmodified":1449008226,
+    "wof:lastmodified":1453927392,
     "wof:name":"Pantagruel Traiteur",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "caterer"
     ]
 },
-  "bbox": [-71.918526,45.399349,-71.918526,45.399349],
+  "bbox": [
+    -71.918526,
+    45.399349,
+    -71.918526,
+    45.399349
+],
   "geometry": {"coordinates":[-71.918526,45.399349],"type":"Point"}
 }

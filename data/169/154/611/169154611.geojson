@@ -2,13 +2,14 @@
   "id": 169154611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.559761,45.510715,-73.559761,45.510715",
     "geom:latitude":45.510715,
     "geom:longitude":-73.559761,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"4d3524e1d856754ee4c73c4d78abaea5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":169154611
         }
     ],
     "wof:id":169154611,
-    "wof:lastmodified":1449036016,
+    "wof:lastmodified":1453932268,
     "wof:name":"Centre Dentaire Guy Favreau",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.559761,45.510715,-73.559761,45.510715],
-  "geometry": {"coordinates":[-73.559761,45.510715],"type":"Point"}
+  "bbox": [
+    -73.559761,
+    45.510715,
+    -73.559761,
+    45.510715
+],
+  "geometry": {"coordinates":[-73.55976099999999,45.510715],"type":"Point"}
 }

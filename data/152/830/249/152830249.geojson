@@ -2,13 +2,14 @@
   "id": 152830249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.330276,42.999142,-81.330276,42.999142",
     "geom:latitude":42.999142,
     "geom:longitude":-81.330276,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1010 Gainsborough Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -30,23 +31,43 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874935,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A9QvKcAIGur0TSl193GB6_42.999142_-81.330276@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"95d490464de7c52e2344a9af0bcb1048",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
+            "region_id":85682057,
+            "venue_id":152830249
+        }
+    ],
     "wof:id":152830249,
-    "wof:lastmodified":1449045281,
+    "wof:lastmodified":1453933572,
     "wof:name":"Unger Farm Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.330276,42.999142,-81.330276,42.999142],
+  "bbox": [
+    -81.330276,
+    42.999142,
+    -81.330276,
+    42.999142
+],
   "geometry": {"coordinates":[-81.330276,42.999142],"type":"Point"}
 }

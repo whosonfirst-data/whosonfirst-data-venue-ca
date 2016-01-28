@@ -2,13 +2,14 @@
   "id": 152883605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.679222,43.528633,-79.679222,43.528633",
     "geom:latitude":43.528633,
     "geom:longitude":-79.679222,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3089 Woodchester Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ac24eebac972d912ffda2e584b6cfdfa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152883605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152883605
         }
     ],
     "wof:id":152883605,
-    "wof:lastmodified":1449047828,
+    "wof:lastmodified":1453935522,
     "wof:name":"Woodchester Kia",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.679222,43.528633,-79.679222,43.528633],
+  "bbox": [
+    -79.679222,
+    43.528633,
+    -79.679222,
+    43.528633
+],
   "geometry": {"coordinates":[-79.679222,43.528633],"type":"Point"}
 }

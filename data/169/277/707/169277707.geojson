@@ -2,13 +2,14 @@
   "id": 169277707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.711418,45.487103,-73.711418,45.487103",
     "geom:latitude":45.487103,
     "geom:longitude":-73.711418,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"851 Rue Mccaffrey",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"9083543f268ac2a0efa10c6482c06d07",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169277707
         }
     ],
     "wof:id":169277707,
-    "wof:lastmodified":1449033057,
+    "wof:lastmodified":1453929178,
     "wof:name":"Tuboquip Inc",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.711418,45.487103,-73.711418,45.487103],
-  "geometry": {"coordinates":[-73.711418,45.487103],"type":"Point"}
+  "bbox": [
+    -73.711418,
+    45.487103,
+    -73.711418,
+    45.487103
+],
+  "geometry": {"coordinates":[-73.71141799999999,45.487103],"type":"Point"}
 }

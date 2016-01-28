@@ -2,13 +2,14 @@
   "id": 202440833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.549591,46.333839,-72.549591,46.333839",
     "geom:latitude":46.333839,
     "geom:longitude":-72.549591,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2565 Rue Royale",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874115,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"c02e6f39f8df1c5e3432e75fc0ef782e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874115,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202440833
         }
     ],
     "wof:id":202440833,
-    "wof:lastmodified":1449060998,
+    "wof:lastmodified":1453937166,
     "wof:name":"Atelier Matteau 2002",
     "wof:parent_id":85874115,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-72.549591,46.333839,-72.549591,46.333839],
-  "geometry": {"coordinates":[-72.549591,46.333839],"type":"Point"}
+  "bbox": [
+    -72.549591,
+    46.333839,
+    -72.549591,
+    46.333839
+],
+  "geometry": {"coordinates":[-72.54959100000001,46.333839],"type":"Point"}
 }

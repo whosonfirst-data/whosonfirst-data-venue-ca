@@ -2,13 +2,14 @@
   "id": 152474261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.647934,43.593849,-79.647934,43.593849",
     "geom:latitude":43.593849,
     "geom:longitude":-79.647934,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"187 Rathburn Rd W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895329,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ee616563d59dcf5c0061517728c75f11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895329,
+            "region_id":85682057,
+            "venue_id":152474261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895329,
             "region_id":85682057,
             "venue_id":152474261
         }
     ],
     "wof:id":152474261,
-    "wof:lastmodified":1449044487,
+    "wof:lastmodified":1453932967,
     "wof:name":"D B Steel Fabricating Ltd",
     "wof:parent_id":85895329,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.647934,43.593849,-79.647934,43.593849],
-  "geometry": {"coordinates":[-79.647934,43.593849],"type":"Point"}
+  "bbox": [
+    -79.647934,
+    43.593849,
+    -79.647934,
+    43.593849
+],
+  "geometry": {"coordinates":[-79.64793400000001,43.593849],"type":"Point"}
 }

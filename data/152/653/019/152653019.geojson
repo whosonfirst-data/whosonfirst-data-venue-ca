@@ -2,13 +2,14 @@
   "id": 152653019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.670807,44.348476,-79.670807,44.348476",
     "geom:latitude":44.348476,
     "geom:longitude":-79.670807,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"85 Ellis Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875279,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W37i5OYQ1afU1gPvg2zCr_44.348476_-79.670807@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"713c5a9551afcc14f334983c1b2fac2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875279,
+            "region_id":85682057,
+            "venue_id":152653019
+        }
+    ],
     "wof:id":152653019,
-    "wof:lastmodified":1449044635,
+    "wof:lastmodified":1453933087,
     "wof:name":"Larway Transportation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.670807,44.348476,-79.670807,44.348476],
+  "bbox": [
+    -79.670807,
+    44.348476,
+    -79.670807,
+    44.348476
+],
   "geometry": {"coordinates":[-79.670807,44.348476],"type":"Point"}
 }

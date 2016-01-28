@@ -2,13 +2,14 @@
   "id": 219689947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.617691,45.551662,-73.617691,45.551662",
     "geom:latitude":45.551662,
     "geom:longitude":-73.617691,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7950 Rue Marquette",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866495,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"0701b696539cf949300de68079c19232",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866495,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219689947
         }
     ],
     "wof:id":219689947,
-    "wof:lastmodified":1449073325,
+    "wof:lastmodified":1453937932,
     "wof:name":"Eglise St-Gregoire-Le-Grand",
     "wof:parent_id":85866495,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "church"
     ]
 },
-  "bbox": [-73.617691,45.551662,-73.617691,45.551662],
-  "geometry": {"coordinates":[-73.617691,45.551662],"type":"Point"}
+  "bbox": [
+    -73.617691,
+    45.551662,
+    -73.617691,
+    45.551662
+],
+  "geometry": {"coordinates":[-73.61769099999999,45.551662],"type":"Point"}
 }

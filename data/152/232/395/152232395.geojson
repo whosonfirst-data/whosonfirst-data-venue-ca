@@ -2,13 +2,14 @@
   "id": 152232395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.945656,45.391869,-71.945656,45.391869",
     "geom:latitude":45.391869,
     "geom:longitude":-71.945656,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"791 Rue Genest",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874131,
+        102191575,
         85633041,
-        85874131
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"42df9ac6b5237922598e1c7f92ad58e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874131,
+            "region_id":136251273,
             "venue_id":152232395
         }
     ],
     "wof:id":152232395,
-    "wof:lastmodified":1449045794,
+    "wof:lastmodified":1453933975,
     "wof:name":"Leo Leclerc Enr",
     "wof:parent_id":85874131,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.945656,45.391869,-71.945656,45.391869],
+  "bbox": [
+    -71.945656,
+    45.391869,
+    -71.945656,
+    45.391869
+],
   "geometry": {"coordinates":[-71.945656,45.391869],"type":"Point"}
 }

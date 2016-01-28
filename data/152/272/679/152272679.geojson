@@ -2,13 +2,14 @@
   "id": 152272679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.478844,43.446606,-80.478844,43.446606",
     "geom:latitude":43.446606,
     "geom:longitude":-80.478844,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300 Duke St E",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875017,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"9c47e0b09eb65bb2f62ffde288d0dcce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875017,
+            "region_id":85682057,
+            "venue_id":152272679
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875017,
             "region_id":85682057,
             "venue_id":152272679
         }
     ],
     "wof:id":152272679,
-    "wof:lastmodified":1449048602,
+    "wof:lastmodified":1453936090,
     "wof:name":"Top Choice Fashion Designing",
     "wof:parent_id":85875017,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.478844,43.446606,-80.478844,43.446606],
+  "bbox": [
+    -80.478844,
+    43.446606,
+    -80.478844,
+    43.446606
+],
   "geometry": {"coordinates":[-80.478844,43.446606],"type":"Point"}
 }

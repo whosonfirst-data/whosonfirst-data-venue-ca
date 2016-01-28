@@ -2,13 +2,14 @@
   "id": 152902707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681038,43.55484,-79.681038,43.55484",
     "geom:latitude":43.55484,
     "geom:longitude":-79.681038,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1833 Folkway Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[],
@@ -23,9 +24,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"a1680166324de18ae14d8b64604a4320",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152902707
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152902707
         }
     ],
     "wof:id":152902707,
-    "wof:lastmodified":1449047724,
+    "wof:lastmodified":1453935445,
     "wof:name":"Qms Intl",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.681038,43.55484,-79.681038,43.55484],
+  "bbox": [
+    -79.681038,
+    43.55484,
+    -79.681038,
+    43.55484
+],
   "geometry": {"coordinates":[-79.681038,43.55484],"type":"Point"}
 }

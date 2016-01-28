@@ -2,13 +2,14 @@
   "id": 169344687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.629807,45.483181,-73.629807,45.483181",
     "geom:latitude":45.483181,
     "geom:longitude":-73.629807,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5325 Ch Queen-Mary",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897527,
+        102191575,
         85633041,
-        85897527
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"611524ab37599c614248c4c57e92db7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897527,
+            "region_id":136251273,
             "venue_id":169344687
         }
     ],
     "wof:id":169344687,
-    "wof:lastmodified":1449032850,
+    "wof:lastmodified":1453928988,
     "wof:name":"Viva",
     "wof:parent_id":85897527,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.629807,45.483181,-73.629807,45.483181],
+  "bbox": [
+    -73.629807,
+    45.483181,
+    -73.629807,
+    45.483181
+],
   "geometry": {"coordinates":[-73.629807,45.483181],"type":"Point"}
 }

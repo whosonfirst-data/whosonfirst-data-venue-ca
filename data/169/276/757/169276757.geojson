@@ -2,13 +2,14 @@
   "id": 169276757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.029442,43.843868,-79.029442,43.843868",
     "geom:latitude":43.843868,
     "geom:longitude":-79.029442,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Ajax",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895635,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"280ad2a40827445c7f7f0a8dcc780358",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":169276757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":169276757
         }
     ],
     "wof:id":169276757,
-    "wof:lastmodified":1449032808,
+    "wof:lastmodified":1453928940,
     "wof:name":"Shanks Auto Body Repair",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.029442,43.843868,-79.029442,43.843868],
+  "bbox": [
+    -79.029442,
+    43.843868,
+    -79.029442,
+    43.843868
+],
   "geometry": {"coordinates":[-79.029442,43.843868],"type":"Point"}
 }

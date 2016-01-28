@@ -2,13 +2,14 @@
   "id": 169278521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815987,43.359226,-79.815987,43.359226",
     "geom:latitude":43.359226,
     "geom:longitude":-79.815987,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2451 Mount Forest Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895639,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2ac33354e0e038c6931e7005a66ea9ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895639,
+            "region_id":85682057,
+            "venue_id":169278521
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895639,
             "region_id":85682057,
             "venue_id":169278521
         }
     ],
     "wof:id":169278521,
-    "wof:lastmodified":1449034516,
+    "wof:lastmodified":1453930708,
     "wof:name":"Mount Forest Laundry 2000",
     "wof:parent_id":85895639,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.815987,43.359226,-79.815987,43.359226],
-  "geometry": {"coordinates":[-79.815987,43.359226],"type":"Point"}
+  "bbox": [
+    -79.815987,
+    43.359226,
+    -79.815987,
+    43.359226
+],
+  "geometry": {"coordinates":[-79.81598700000001,43.359226],"type":"Point"}
 }

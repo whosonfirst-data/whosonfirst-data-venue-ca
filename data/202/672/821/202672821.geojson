@@ -2,13 +2,14 @@
   "id": 202672821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.978951,43.638409,-79.978951,43.638409",
     "geom:latitude":43.638409,
     "geom:longitude":-79.978951,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"RR 1",
     "sg:city":"Limehouse",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895187,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"dc5be2d8c9e5858cdd55a8fb6ad14ad1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895187,
+            "region_id":85682057,
+            "venue_id":202672821
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895187,
             "region_id":85682057,
             "venue_id":202672821
         }
     ],
     "wof:id":202672821,
-    "wof:lastmodified":1449060272,
+    "wof:lastmodified":1453937008,
     "wof:name":"Ams Plumbing Ltd",
     "wof:parent_id":85895187,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.978951,43.638409,-79.978951,43.638409],
+  "bbox": [
+    -79.978951,
+    43.638409,
+    -79.978951,
+    43.638409
+],
   "geometry": {"coordinates":[-79.978951,43.638409],"type":"Point"}
 }

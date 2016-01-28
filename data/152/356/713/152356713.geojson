@@ -2,13 +2,14 @@
   "id": 152356713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.643333,45.490379,-73.643333,45.490379",
     "geom:latitude":45.490379,
     "geom:longitude":-73.643333,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6245 Boul Decarie",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866499,
+        102191575,
         85633041,
-        85866499
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8be3a4a1869b0be79c7b22507d489038",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866499,
+            "region_id":136251273,
             "venue_id":152356713
         }
     ],
     "wof:id":152356713,
-    "wof:lastmodified":1449048102,
+    "wof:lastmodified":1453935722,
     "wof:name":"Standard Orfevres",
     "wof:parent_id":85866499,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.643333,45.490379,-73.643333,45.490379],
+  "bbox": [
+    -73.643333,
+    45.490379,
+    -73.643333,
+    45.490379
+],
   "geometry": {"coordinates":[-73.643333,45.490379],"type":"Point"}
 }

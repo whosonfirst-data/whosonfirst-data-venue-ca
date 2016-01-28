@@ -2,13 +2,14 @@
   "id": 169042757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.612152,45.54792,-73.612152,45.54792",
     "geom:latitude":45.54792,
     "geom:longitude":-73.612152,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1501 Rue Everett",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866495,
+        102191575,
         85633041,
-        85866495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fa3c29dfd5e5fa433e0d5e18711e2e4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866495,
+            "region_id":136251273,
             "venue_id":169042757
         }
     ],
     "wof:id":169042757,
-    "wof:lastmodified":1449035164,
+    "wof:lastmodified":1453931382,
     "wof:name":"St Mark Coptic Orthodox Church",
     "wof:parent_id":85866495,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.612152,45.54792,-73.612152,45.54792],
-  "geometry": {"coordinates":[-73.612152,45.54792],"type":"Point"}
+  "bbox": [
+    -73.612152,
+    45.54792,
+    -73.612152,
+    45.54792
+],
+  "geometry": {"coordinates":[-73.61215199999999,45.54792],"type":"Point"}
 }

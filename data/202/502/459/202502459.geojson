@@ -2,13 +2,14 @@
   "id": 202502459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.498299,43.82608,-79.498299,43.82608",
     "geom:latitude":43.82608,
     "geom:longitude":-79.498299,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"250 Basaltic Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895339,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"06fb1ecc710598cb8a47a209787275ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895339,
+            "region_id":85682057,
+            "venue_id":202502459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895339,
             "region_id":85682057,
             "venue_id":202502459
         }
     ],
     "wof:id":202502459,
-    "wof:lastmodified":1449061288,
+    "wof:lastmodified":1453937223,
     "wof:name":"York Auto",
     "wof:parent_id":85895339,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "painting"
     ]
 },
-  "bbox": [-79.498299,43.82608,-79.498299,43.82608],
+  "bbox": [
+    -79.498299,
+    43.82608,
+    -79.498299,
+    43.82608
+],
   "geometry": {"coordinates":[-79.498299,43.82608],"type":"Point"}
 }

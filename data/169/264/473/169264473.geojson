@@ -2,13 +2,14 @@
   "id": 169264473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.260742,42.957111,-81.260742,42.957111",
     "geom:latitude":42.957111,
     "geom:longitude":-81.260742,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"515 Wharncliffe Rd S",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "drapery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874933,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jniZOIGNkQG3FWozCf5Yz_42.957111_-81.260742@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"488dc6b970faf358993a53c756c9f1df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874933,
+            "region_id":85682057,
+            "venue_id":169264473
+        }
+    ],
     "wof:id":169264473,
-    "wof:lastmodified":1449034828,
+    "wof:lastmodified":1453931059,
     "wof:name":"Nancy's Drapery of London Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.260742,42.957111,-81.260742,42.957111],
-  "geometry": {"coordinates":[-81.260742,42.957111],"type":"Point"}
+  "bbox": [
+    -81.260742,
+    42.957111,
+    -81.260742,
+    42.957111
+],
+  "geometry": {"coordinates":[-81.26074199999999,42.957111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219317315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.551712,43.461243,-80.551712,43.461243",
     "geom:latitude":43.461243,
     "geom:longitude":-80.551712,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"141 Amos Ave",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864657,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"1a1c863ae1d3b73c8f61865b65f6ff8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864657,
+            "region_id":85682057,
+            "venue_id":219317315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85864657,
             "region_id":85682057,
             "venue_id":219317315
         }
     ],
     "wof:id":219317315,
-    "wof:lastmodified":1449072012,
+    "wof:lastmodified":1453937758,
     "wof:name":"Centennial Public School",
     "wof:parent_id":85864657,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.551712,43.461243,-80.551712,43.461243],
-  "geometry": {"coordinates":[-80.551712,43.461243],"type":"Point"}
+  "bbox": [
+    -80.551712,
+    43.461243,
+    -80.551712,
+    43.461243
+],
+  "geometry": {"coordinates":[-80.55171199999999,43.461243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169107139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.228378,46.803486,-71.228378,46.803486",
     "geom:latitude":46.803486,
     "geom:longitude":-71.228378,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"991 Av DE Bourlamaque",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85866505,
+        102191575,
         85633041,
-        85866505
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c96fde058b3562943eb5894fc1c75985",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85866505,
+            "region_id":136251273,
             "venue_id":169107139
         }
     ],
     "wof:id":169107139,
-    "wof:lastmodified":1449032697,
+    "wof:lastmodified":1453928809,
     "wof:name":"Cordonnier Du Quartier",
     "wof:parent_id":85866505,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.228378,46.803486,-71.228378,46.803486],
-  "geometry": {"coordinates":[-71.228378,46.803486],"type":"Point"}
+  "bbox": [
+    -71.228378,
+    46.803486,
+    -71.228378,
+    46.803486
+],
+  "geometry": {"coordinates":[-71.22837800000001,46.803486],"type":"Point"}
 }

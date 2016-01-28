@@ -2,13 +2,14 @@
   "id": 169210023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.71067,45.586906,-73.71067,45.586906",
     "geom:latitude":45.586906,
     "geom:longitude":-73.71067,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1355 Boul Des Laurentides",
     "sg:city":"Vimont",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897577,
+        102191575,
         85633041,
-        85897577
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a5c3520fa102c320f65e2056bc7cec4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897577,
+            "region_id":136251273,
             "venue_id":169210023
         }
     ],
     "wof:id":169210023,
-    "wof:lastmodified":1449033809,
+    "wof:lastmodified":1453929963,
     "wof:name":"Boutique Du Plongeur",
     "wof:parent_id":85897577,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.71067,45.586906,-73.71067,45.586906],
-  "geometry": {"coordinates":[-73.71067,45.586906],"type":"Point"}
+  "bbox": [
+    -73.71067,
+    45.586906,
+    -73.71067,
+    45.586906
+],
+  "geometry": {"coordinates":[-73.71066999999999,45.586906],"type":"Point"}
 }

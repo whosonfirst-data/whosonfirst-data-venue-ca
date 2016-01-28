@@ -2,13 +2,14 @@
   "id": 152658857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.456833,45.582687,-73.456833,45.582687",
     "geom:latitude":45.582687,
     "geom:longitude":-73.456833,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Boul Industriel",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875737,
+        102191575,
         85633041,
-        85875737
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"05f88eaa85bb78d97f78d7148aaa8b3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875737,
+            "region_id":136251273,
             "venue_id":152658857
         }
     ],
     "wof:id":152658857,
-    "wof:lastmodified":1449044181,
+    "wof:lastmodified":1453932740,
     "wof:name":"Hamelin Entreprises",
     "wof:parent_id":85875737,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.456833,45.582687,-73.456833,45.582687],
+  "bbox": [
+    -73.456833,
+    45.582687,
+    -73.456833,
+    45.582687
+],
   "geometry": {"coordinates":[-73.456833,45.582687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168860635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.610687,43.594631,-79.610687,43.594631",
     "geom:latitude":43.594631,
     "geom:longitude":-79.610687,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"628 Mississauga Valley Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895225,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"a12df3ba18484168469c7e862a3054a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":168860635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":168860635
         }
     ],
     "wof:id":168860635,
-    "wof:lastmodified":1449028126,
+    "wof:lastmodified":1453928182,
     "wof:name":"Can Steam",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.610687,43.594631,-79.610687,43.594631],
+  "bbox": [
+    -79.610687,
+    43.594631,
+    -79.610687,
+    43.594631
+],
   "geometry": {"coordinates":[-79.610687,43.594631],"type":"Point"}
 }

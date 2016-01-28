@@ -2,13 +2,14 @@
   "id": 202989147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.690643,45.442059,-75.690643,45.442059",
     "geom:latitude":45.442059,
     "geom:longitude":-75.690643,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Crichton St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874503,
+        102191575,
         85633041,
-        101738041
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"1a64078bfa5faa3ba6fad36227203662",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202989147
         }
     ],
     "wof:id":202989147,
-    "wof:lastmodified":1449061957,
+    "wof:lastmodified":1453937363,
     "wof:name":"Metaphrase Inc",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-75.690643,45.442059,-75.690643,45.442059],
-  "geometry": {"coordinates":[-75.690643,45.442059],"type":"Point"}
+  "bbox": [
+    -75.690643,
+    45.442059,
+    -75.690643,
+    45.442059
+],
+  "geometry": {"coordinates":[-75.69064299999999,45.442059],"type":"Point"}
 }

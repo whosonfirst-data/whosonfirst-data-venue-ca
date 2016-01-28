@@ -2,13 +2,14 @@
   "id": 169121013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.175568,43.010738,-81.175568,43.010738",
     "geom:latitude":43.010738,
     "geom:longitude":-81.175568,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -28,23 +29,43 @@
         "refinishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aOk4wCdD3BveXEDHoM3UJ_43.010738_-81.175568@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"651303b3f833458df58a8125ba79783e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":169121013
+        }
+    ],
     "wof:id":169121013,
-    "wof:lastmodified":1449035234,
+    "wof:lastmodified":1453931437,
     "wof:name":"Bath Fitter",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.175568,43.010738,-81.175568,43.010738],
+  "bbox": [
+    -81.175568,
+    43.010738,
+    -81.175568,
+    43.010738
+],
   "geometry": {"coordinates":[-81.175568,43.010738],"type":"Point"}
 }

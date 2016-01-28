@@ -2,13 +2,14 @@
   "id": 152778179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.122589,43.816532,-79.122589,43.816532",
     "geom:latitude":43.816532,
     "geom:longitude":-79.122589,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"529 Steeple Hill",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895621,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"03d5507c63694d2bb4191566d773f2e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895621,
+            "region_id":85682057,
+            "venue_id":152778179
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895621,
             "region_id":85682057,
             "venue_id":152778179
         }
     ],
     "wof:id":152778179,
-    "wof:lastmodified":1449044385,
+    "wof:lastmodified":1453932888,
     "wof:name":"Jondy Retail Interiors Inc",
     "wof:parent_id":85895621,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.122589,43.816532,-79.122589,43.816532],
+  "bbox": [
+    -79.122589,
+    43.816532,
+    -79.122589,
+    43.816532
+],
   "geometry": {"coordinates":[-79.122589,43.816532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152273723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.676407,45.498898,-73.676407,45.498898",
     "geom:latitude":45.498898,
     "geom:longitude":-73.676407,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1900 Rue Bourdon",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"9b37e6207c7f266b624d7838a5900e14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152273723
         }
     ],
     "wof:id":152273723,
-    "wof:lastmodified":1449046701,
+    "wof:lastmodified":1453934649,
     "wof:name":"Ecole Maimonde",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.676407,45.498898,-73.676407,45.498898],
+  "bbox": [
+    -73.676407,
+    45.498898,
+    -73.676407,
+    45.498898
+],
   "geometry": {"coordinates":[-73.676407,45.498898],"type":"Point"}
 }

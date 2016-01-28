@@ -2,13 +2,14 @@
   "id": 169169675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.025986,43.830685,-79.025986,43.830685",
     "geom:latitude":43.830685,
     "geom:longitude":-79.025986,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Ajax",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895475,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a89123074290c311f19c09f8001b05ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895475,
+            "region_id":85682057,
+            "venue_id":169169675
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895475,
             "region_id":85682057,
             "venue_id":169169675
         }
     ],
     "wof:id":169169675,
-    "wof:lastmodified":1449034720,
+    "wof:lastmodified":1453930927,
     "wof:name":"Sage Electric Ltd",
     "wof:parent_id":85895475,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.025986,43.830685,-79.025986,43.830685],
+  "bbox": [
+    -79.025986,
+    43.830685,
+    -79.025986,
+    43.830685
+],
   "geometry": {"coordinates":[-79.025986,43.830685],"type":"Point"}
 }

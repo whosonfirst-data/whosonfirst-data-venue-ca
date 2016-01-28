@@ -2,13 +2,14 @@
   "id": 169298133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.742867,43.582447,-79.742867,43.582447",
     "geom:latitude":43.582447,
     "geom:longitude":-79.742867,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6120 Montevideo Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895103,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"6f3ece8131bb269019f8684fc6b0f004",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895103,
+            "region_id":85682057,
+            "venue_id":169298133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895103,
             "region_id":85682057,
             "venue_id":169298133
         }
     ],
     "wof:id":169298133,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1453929703,
     "wof:name":"Stop & Go Food Market",
     "wof:parent_id":85895103,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.742867,43.582447,-79.742867,43.582447],
+  "bbox": [
+    -79.742867,
+    43.582447,
+    -79.742867,
+    43.582447
+],
   "geometry": {"coordinates":[-79.742867,43.582447],"type":"Point"}
 }

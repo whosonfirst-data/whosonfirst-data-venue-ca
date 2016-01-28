@@ -2,13 +2,14 @@
   "id": 203095391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.518272,43.454132,-80.518272,43.454132",
     "geom:latitude":43.454132,
     "geom:longitude":-80.518272,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"710 Belmont Ave W",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874977,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"4ceb49d1b3ba2ce14ef1e16acea49a53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874977,
+            "region_id":85682057,
+            "venue_id":203095391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874977,
             "region_id":85682057,
             "venue_id":203095391
         }
     ],
     "wof:id":203095391,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1453927586,
     "wof:name":"Old Kitchen Cupboard",
     "wof:parent_id":85874977,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "diet"
     ]
 },
-  "bbox": [-80.518272,43.454132,-80.518272,43.454132],
+  "bbox": [
+    -80.518272,
+    43.454132,
+    -80.518272,
+    43.454132
+],
   "geometry": {"coordinates":[-80.518272,43.454132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152592285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.283752,43.844723,-79.283752,43.844723",
     "geom:latitude":43.844723,
     "geom:longitude":-79.283752,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"237 Highglen Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895359,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"e3b29dfe3b141f5d5f0265ae853ec4fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895359,
+            "region_id":85682057,
+            "venue_id":152592285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895359,
             "region_id":85682057,
             "venue_id":152592285
         }
     ],
     "wof:id":152592285,
-    "wof:lastmodified":1449046954,
+    "wof:lastmodified":1453934831,
     "wof:name":"St Francis Xavier Catholic Sch",
     "wof:parent_id":85895359,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.283752,43.844723,-79.283752,43.844723],
-  "geometry": {"coordinates":[-79.283752,43.844723],"type":"Point"}
+  "bbox": [
+    -79.283752,
+    43.844723,
+    -79.283752,
+    43.844723
+],
+  "geometry": {"coordinates":[-79.28375200000001,43.844723],"type":"Point"}
 }

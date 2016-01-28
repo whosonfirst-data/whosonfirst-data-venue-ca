@@ -2,13 +2,14 @@
   "id": 152542559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.872437,45.488056,-73.872437,45.488056",
     "geom:latitude":45.488056,
     "geom:longitude":-73.872437,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"241 Rue Dupont",
     "sg:city":"L'Ile-Bizard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874393,
+        102191575,
         85633041,
-        85874393
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"8b7c47e8115ce292dd8a8b481a5ce2f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874393,
+            "region_id":136251273,
             "venue_id":152542559
         }
     ],
     "wof:id":152542559,
-    "wof:lastmodified":1449047886,
+    "wof:lastmodified":1453935573,
     "wof:name":"Brunet Marine Enrg",
     "wof:parent_id":85874393,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.872437,45.488056,-73.872437,45.488056],
-  "geometry": {"coordinates":[-73.872437,45.488056],"type":"Point"}
+  "bbox": [
+    -73.872437,
+    45.488056,
+    -73.872437,
+    45.488056
+],
+  "geometry": {"coordinates":[-73.87243700000001,45.488056],"type":"Point"}
 }

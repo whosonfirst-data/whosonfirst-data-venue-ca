@@ -2,13 +2,14 @@
   "id": 168835615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.313499,43.841335,-79.313499,43.841335",
     "geom:latitude":43.841335,
     "geom:longitude":-79.313499,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4255 14th Ave",
     "sg:city":"Markham",
     "sg:classifiers":[],
@@ -22,9 +23,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895359,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +38,24 @@
     "wof:geomhash":"1a64d76eb87ac6aaeddeb06ab40c1360",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895359,
+            "region_id":85682057,
+            "venue_id":168835615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895359,
             "region_id":85682057,
             "venue_id":168835615
         }
     ],
     "wof:id":168835615,
-    "wof:lastmodified":1449027880,
+    "wof:lastmodified":1453927899,
     "wof:name":"Abbey Store Fixtures Ltd",
     "wof:parent_id":85895359,
     "wof:placetype":"venue",
@@ -50,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.313499,43.841335,-79.313499,43.841335],
-  "geometry": {"coordinates":[-79.313499,43.841335],"type":"Point"}
+  "bbox": [
+    -79.313499,
+    43.841335,
+    -79.313499,
+    43.841335
+],
+  "geometry": {"coordinates":[-79.31349899999999,43.841335],"type":"Point"}
 }

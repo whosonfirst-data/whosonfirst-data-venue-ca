@@ -2,13 +2,14 @@
   "id": 169088703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.137794,49.236355,-123.137794,49.236355",
     "geom:latitude":49.236355,
     "geom:longitude":-123.137794,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1425 39th Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865025,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"b23bc13785890c3415cb1dd79847dade",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865025,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":169088703,
-    "wof:lastmodified":1449035229,
+    "wof:lastmodified":1453931431,
     "wof:name":"St Peter & Paul Parish",
     "wof:parent_id":85865025,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.137794,49.236355,-123.137794,49.236355],
+  "bbox": [
+    -123.137794,
+    49.236355,
+    -123.137794,
+    49.236355
+],
   "geometry": {"coordinates":[-123.137794,49.236355],"type":"Point"}
 }

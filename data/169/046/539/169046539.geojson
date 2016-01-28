@@ -2,13 +2,14 @@
   "id": 169046539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22332,42.978664,-81.22332,42.978664",
     "geom:latitude":42.978664,
     "geom:longitude":-81.22332,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"707 Nelson St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22DtcWShfYmEcN8qTZKUUc_42.978664_-81.223320@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"2c92aae6af39d61d4f71de473d5cf1ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":169046539
+        }
+    ],
     "wof:id":169046539,
-    "wof:lastmodified":1449034522,
+    "wof:lastmodified":1453930714,
     "wof:name":"Ukrainian Catholic Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.22332,42.978664,-81.22332,42.978664],
+  "bbox": [
+    -81.22332,
+    42.978664,
+    -81.22332,
+    42.978664
+],
   "geometry": {"coordinates":[-81.22332,42.978664],"type":"Point"}
 }

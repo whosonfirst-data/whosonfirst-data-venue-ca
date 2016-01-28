@@ -2,13 +2,14 @@
   "id": 168935899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.238853,42.972309,-81.238853,42.972309",
     "geom:latitude":42.972309,
     "geom:longitude":-81.238853,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"162 Grand Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uiX9ABlro5G2rfjm4wb7Q_42.972309_-81.238853@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0174be46d0f4de9c00ec9886647e1a75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":168935899
+        }
+    ],
     "wof:id":168935899,
-    "wof:lastmodified":1449028440,
+    "wof:lastmodified":1453928529,
     "wof:name":"Thames Glass Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.238853,42.972309,-81.238853,42.972309],
-  "geometry": {"coordinates":[-81.238853,42.972309],"type":"Point"}
+  "bbox": [
+    -81.238853,
+    42.972309,
+    -81.238853,
+    42.972309
+],
+  "geometry": {"coordinates":[-81.23885300000001,42.972309],"type":"Point"}
 }

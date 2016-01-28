@@ -2,13 +2,14 @@
   "id": 152745449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.647263,45.584557,-73.647263,45.584557",
     "geom:latitude":45.584557,
     "geom:longitude":-73.647263,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3346 Rue Monselet",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"18bcbd9facf1e1ff06ce32e20f90323e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":152745449
         }
     ],
     "wof:id":152745449,
-    "wof:lastmodified":1449048715,
+    "wof:lastmodified":1453936185,
     "wof:name":"Ours'Air Inc",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.647263,45.584557,-73.647263,45.584557],
+  "bbox": [
+    -73.647263,
+    45.584557,
+    -73.647263,
+    45.584557
+],
   "geometry": {"coordinates":[-73.647263,45.584557],"type":"Point"}
 }

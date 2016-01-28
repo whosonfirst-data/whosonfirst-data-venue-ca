@@ -2,13 +2,14 @@
   "id": 169471123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.176369,45.293995,-74.176369,45.293995",
     "geom:latitude":45.293995,
     "geom:longitude":-74.176369,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Coteau-Du-Lac",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736785,
+        85897649,
+        102191575,
         85633041,
-        85897649
+        101736785,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"cb2d224ce21cd7fd457392b4af8fcf2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736785,
             "neighbourhood_id":85897649,
+            "region_id":136251273,
             "venue_id":169471123
         }
     ],
     "wof:id":169471123,
-    "wof:lastmodified":1449034003,
+    "wof:lastmodified":1453930167,
     "wof:name":"Marche Daniel Pigeon",
     "wof:parent_id":85897649,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.176369,45.293995,-74.176369,45.293995],
-  "geometry": {"coordinates":[-74.176369,45.293995],"type":"Point"}
+  "bbox": [
+    -74.176369,
+    45.293995,
+    -74.176369,
+    45.293995
+],
+  "geometry": {"coordinates":[-74.17636899999999,45.293995],"type":"Point"}
 }

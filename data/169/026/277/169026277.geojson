@@ -2,13 +2,14 @@
   "id": 169026277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.450905,45.614067,-73.450905,45.614067",
     "geom:latitude":45.614067,
     "geom:longitude":-73.450905,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Boucherville",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875751,
+        102191575,
         85633041,
-        85875751
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"11824ffcf7fb8e2a19da70da2aa64821",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875751,
+            "region_id":136251273,
             "venue_id":169026277
         }
     ],
     "wof:id":169026277,
-    "wof:lastmodified":1449034632,
+    "wof:lastmodified":1453930838,
     "wof:name":"Tabagie Au Calumet Inc",
     "wof:parent_id":85875751,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.450905,45.614067,-73.450905,45.614067],
-  "geometry": {"coordinates":[-73.450905,45.614067],"type":"Point"}
+  "bbox": [
+    -73.450905,
+    45.614067,
+    -73.450905,
+    45.614067
+],
+  "geometry": {"coordinates":[-73.45090500000001,45.614067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169286803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589523,45.740307,-73.589523,45.740307",
     "geom:latitude":45.740307,
     "geom:longitude":-73.589523,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"860 Boul Industriel",
     "sg:city":"Mascouche",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"8c7ef688d4c025b91db029895b530585",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169286803
         }
     ],
     "wof:id":169286803,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1453929668,
     "wof:name":"Real Huot Inc",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.589523,45.740307,-73.589523,45.740307],
+  "bbox": [
+    -73.589523,
+    45.740307,
+    -73.589523,
+    45.740307
+],
   "geometry": {"coordinates":[-73.589523,45.740307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152325523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.64521,44.218311,-76.64521,44.218311",
     "geom:latitude":44.218311,
     "geom:longitude":-76.64521,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4501 Bath Rd",
     "sg:city":"Amherstview",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875393,
-        85682057
+        102191575,
+        85633041,
+        101740731,
+        85682057,
+        101735963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"5592ecdb3a776cb6fc86c163594cf59e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740731,
+            "neighbourhood_id":85875393,
+            "region_id":85682057,
+            "venue_id":152325523
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735963,
             "neighbourhood_id":85875393,
             "region_id":85682057,
             "venue_id":152325523
         }
     ],
     "wof:id":152325523,
-    "wof:lastmodified":1449046126,
+    "wof:lastmodified":1453934211,
     "wof:name":"Becker Milk CO Ltd",
     "wof:parent_id":85875393,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.64521,44.218311,-76.64521,44.218311],
-  "geometry": {"coordinates":[-76.64521,44.218311],"type":"Point"}
+  "bbox": [
+    -76.64521,
+    44.218311,
+    -76.64521,
+    44.218311
+],
+  "geometry": {"coordinates":[-76.64521000000001,44.218311],"type":"Point"}
 }

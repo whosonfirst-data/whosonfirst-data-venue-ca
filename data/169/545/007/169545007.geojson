@@ -2,13 +2,14 @@
   "id": 169545007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.800201,45.551079,-73.800201,45.551079",
     "geom:latitude":45.551079,
     "geom:longitude":-73.800201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5319 Boul Cleroux",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875061,
+        102191575,
         85633041,
-        85875061
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"94b2f03a8e704c36606e2024e346379c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875061,
+            "region_id":136251273,
             "venue_id":169545007
         }
     ],
     "wof:id":169545007,
-    "wof:lastmodified":1449033487,
+    "wof:lastmodified":1453929596,
     "wof:name":"Styropak Inc",
     "wof:parent_id":85875061,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.800201,45.551079,-73.800201,45.551079],
+  "bbox": [
+    -73.800201,
+    45.551079,
+    -73.800201,
+    45.551079
+],
   "geometry": {"coordinates":[-73.800201,45.551079],"type":"Point"}
 }

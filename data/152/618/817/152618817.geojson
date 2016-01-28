@@ -2,13 +2,14 @@
   "id": 152618817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.730827,45.366848,-73.730827,45.366848",
     "geom:latitude":45.366848,
     "geom:longitude":-73.730827,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"151 Boul Maple",
     "sg:city":"Chateauguay",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738001,
+        85895755,
+        102191575,
         85633041,
-        85895755
+        101738001,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a7f4b882c51e67d907a9345923193e4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738001,
             "neighbourhood_id":85895755,
+            "region_id":136251273,
             "venue_id":152618817
         }
     ],
     "wof:id":152618817,
-    "wof:lastmodified":1449047177,
+    "wof:lastmodified":1453935016,
     "wof:name":"Pitou-Net Lave-O-Dog",
     "wof:parent_id":85895755,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.730827,45.366848,-73.730827,45.366848],
-  "geometry": {"coordinates":[-73.730827,45.366848],"type":"Point"}
+  "bbox": [
+    -73.730827,
+    45.366848,
+    -73.730827,
+    45.366848
+],
+  "geometry": {"coordinates":[-73.73082700000001,45.366848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186384839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.262566,43.029621,-82.262566,43.029621",
     "geom:latitude":43.029621,
     "geom:longitude":-82.262566,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2565 Hamilton Rd",
     "sg:city":"Brights Grove",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864451,
+        102191575,
         85633041,
-        85682057
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"3e9669a8624a7fd332cf795c9ba11042",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85864451,
+            "region_id":85682057,
+            "venue_id":186384839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85864451,
             "region_id":85682057,
             "venue_id":186384839
         }
     ],
     "wof:id":186384839,
-    "wof:lastmodified":1449050628,
+    "wof:lastmodified":1453936540,
     "wof:name":"Brights Grove Public School",
     "wof:parent_id":85864451,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.262566,43.029621,-82.262566,43.029621],
-  "geometry": {"coordinates":[-82.262566,43.029621],"type":"Point"}
+  "bbox": [
+    -82.262566,
+    43.029621,
+    -82.262566,
+    43.029621
+],
+  "geometry": {"coordinates":[-82.26256600000001,43.029621],"type":"Point"}
 }

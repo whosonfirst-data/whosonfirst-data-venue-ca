@@ -2,13 +2,14 @@
   "id": 168993447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.341377,43.006462,-81.341377,43.006462",
     "geom:latitude":43.006462,
     "geom:longitude":-81.341377,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1930 Mallard Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874935,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xyVwpFgQp6cWrDrztkmYe_43.006462_-81.341377@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"6ae694e5abffa1923120caf753178701",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
+            "region_id":85682057,
+            "venue_id":168993447
+        }
+    ],
     "wof:id":168993447,
-    "wof:lastmodified":1449028123,
+    "wof:lastmodified":1453928177,
     "wof:name":"Hudson Boat Works",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.341377,43.006462,-81.341377,43.006462],
-  "geometry": {"coordinates":[-81.341377,43.006462],"type":"Point"}
+  "bbox": [
+    -81.341377,
+    43.006462,
+    -81.341377,
+    43.006462
+],
+  "geometry": {"coordinates":[-81.34137699999999,43.006462],"type":"Point"}
 }

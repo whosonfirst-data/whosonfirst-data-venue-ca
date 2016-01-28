@@ -2,13 +2,14 @@
   "id": 152892481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250084,42.984097,-81.250084,42.984097",
     "geom:latitude":42.984097,
     "geom:longitude":-81.250084,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"425 Richmond St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6A 3C8",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dJ98XlTPiAYwvIT5F6WGa_42.984097_-81.250084@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"c6857685542aca8853907924e99f1c33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":152892481
+        }
+    ],
     "wof:id":152892481,
-    "wof:lastmodified":1449044989,
+    "wof:lastmodified":1453933355,
     "wof:name":"Cousin Vinny's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.250084,42.984097,-81.250084,42.984097],
+  "bbox": [
+    -81.250084,
+    42.984097,
+    -81.250084,
+    42.984097
+],
   "geometry": {"coordinates":[-81.250084,42.984097],"type":"Point"}
 }

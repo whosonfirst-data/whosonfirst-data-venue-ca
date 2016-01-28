@@ -2,13 +2,14 @@
   "id": 202574561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.733925,45.450443,-73.733925,45.450443",
     "geom:latitude":45.450443,
     "geom:longitude":-73.733925,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"525 Av Edward Vii # 525",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102554351,
         85784727,
+        102191575,
         85633041,
-        101736475
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,19 @@
     "wof:geomhash":"e73e47e563bfcfe5c2755c2c594911f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202574561
         }
     ],
     "wof:id":202574561,
-    "wof:lastmodified":1449060095,
+    "wof:lastmodified":1453936973,
     "wof:name":"Industrial Combustion Equip",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "burner"
     ]
 },
-  "bbox": [-73.733925,45.450443,-73.733925,45.450443],
+  "bbox": [
+    -73.733925,
+    45.450443,
+    -73.733925,
+    45.450443
+],
   "geometry": {"coordinates":[-73.733925,45.450443],"type":"Point"}
 }

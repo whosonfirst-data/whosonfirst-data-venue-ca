@@ -2,13 +2,14 @@
   "id": 169495779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.314178,45.517971,-73.314178,45.517971",
     "geom:latitude":45.517971,
     "geom:longitude":-73.314178,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"404 Boul Grand",
     "sg:city":"Saint-Basile-Le-Grand",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"807446aa14a059040b15e14e62fd1944",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169495779
         }
     ],
     "wof:id":169495779,
-    "wof:lastmodified":1449034126,
+    "wof:lastmodified":1453930314,
     "wof:name":"Voilerie Air Terre Mer",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.314178,45.517971,-73.314178,45.517971],
+  "bbox": [
+    -73.314178,
+    45.517971,
+    -73.314178,
+    45.517971
+],
   "geometry": {"coordinates":[-73.314178,45.517971],"type":"Point"}
 }

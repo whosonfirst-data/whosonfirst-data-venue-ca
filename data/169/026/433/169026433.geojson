@@ -2,13 +2,14 @@
   "id": 169026433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.414955,45.571369,-73.414955,45.571369",
     "geom:latitude":45.571369,
     "geom:longitude":-73.414955,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1570 Rue Ampere",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875755,
+        102191575,
         85633041,
-        85875755
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9f5ae899870619b7e2adf5da06d1b83a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875755,
+            "region_id":136251273,
             "venue_id":169026433
         }
     ],
     "wof:id":169026433,
-    "wof:lastmodified":1449034632,
+    "wof:lastmodified":1453930838,
     "wof:name":"James Richardson Intl Ltd",
     "wof:parent_id":85875755,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.414955,45.571369,-73.414955,45.571369],
-  "geometry": {"coordinates":[-73.414955,45.571369],"type":"Point"}
+  "bbox": [
+    -73.414955,
+    45.571369,
+    -73.414955,
+    45.571369
+],
+  "geometry": {"coordinates":[-73.41495500000001,45.571369],"type":"Point"}
 }

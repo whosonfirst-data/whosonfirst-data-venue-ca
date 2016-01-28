@@ -2,13 +2,14 @@
   "id": 169522465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.054474,49.240025,-123.054474,49.240025",
     "geom:latitude":49.240025,
     "geom:longitude":-123.054474,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2504 Kingsway",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865077,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"ad54353ef1f242bce6d7e74abe986511",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865077,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":169522465,
-    "wof:lastmodified":1449034253,
+    "wof:lastmodified":1453930437,
     "wof:name":"Church's Chicken",
     "wof:parent_id":85865077,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.054474,49.240025,-123.054474,49.240025],
+  "bbox": [
+    -123.054474,
+    49.240025,
+    -123.054474,
+    49.240025
+],
   "geometry": {"coordinates":[-123.054474,49.240025],"type":"Point"}
 }

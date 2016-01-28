@@ -2,13 +2,14 @@
   "id": 152362447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.880791,48.331692,-70.880791,48.331692",
     "geom:latitude":48.331692,
     "geom:longitude":-70.880791,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"431 Boul DE LA Grande-Baie S",
     "sg:city":"LA Baie",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785011,
+        102191575,
         85633041,
-        85785011
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7a76593c94dd8ccb1770f5cd84684b64",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
+            "region_id":136251273,
             "venue_id":152362447
         }
     ],
     "wof:id":152362447,
-    "wof:lastmodified":1449047286,
+    "wof:lastmodified":1453935085,
     "wof:name":"Garage Jean-Pierre Tremblay",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.880791,48.331692,-70.880791,48.331692],
+  "bbox": [
+    -70.880791,
+    48.331692,
+    -70.880791,
+    48.331692
+],
   "geometry": {"coordinates":[-70.880791,48.331692],"type":"Point"}
 }

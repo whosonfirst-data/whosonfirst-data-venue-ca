@@ -2,13 +2,14 @@
   "id": 152286473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.53376,45.385201,-73.53376,45.385201",
     "geom:latitude":45.385201,
     "geom:longitude":-73.53376,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Candiac",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"71fcb9bd9148afd30f367f812bbb218c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":152286473
         }
     ],
     "wof:id":152286473,
-    "wof:lastmodified":1449045505,
+    "wof:lastmodified":1453933751,
     "wof:name":"Clinique Chiropractique",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.53376,45.385201,-73.53376,45.385201],
+  "bbox": [
+    -73.53376,
+    45.385201,
+    -73.53376,
+    45.385201
+],
   "geometry": {"coordinates":[-73.53376,45.385201],"type":"Point"}
 }

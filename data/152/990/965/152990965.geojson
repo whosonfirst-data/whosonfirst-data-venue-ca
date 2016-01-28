@@ -2,13 +2,14 @@
   "id": 152990965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.595581,45.579258,-73.595581,45.579258",
     "geom:latitude":45.579258,
     "geom:longitude":-73.595581,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4890 Rue Jarry E",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874359,
+        102191575,
         85633041,
-        85874359
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b0c457645c6313f652f85e93ed19d8ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874359,
+            "region_id":136251273,
             "venue_id":152990965
         }
     ],
     "wof:id":152990965,
-    "wof:lastmodified":1449047391,
+    "wof:lastmodified":1453935175,
     "wof:name":"Agence DE Voyages Venise",
     "wof:parent_id":85874359,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.595581,45.579258,-73.595581,45.579258],
+  "bbox": [
+    -73.595581,
+    45.579258,
+    -73.595581,
+    45.579258
+],
   "geometry": {"coordinates":[-73.595581,45.579258],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169331105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.712318,45.433506,-75.712318,45.433506",
     "geom:latitude":45.433506,
     "geom:longitude":-75.712318,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"218 Boul Maisonneuve",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4e8b396bcbce9f12b74aa9b97d776ac5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":169331105
         }
     ],
     "wof:id":169331105,
-    "wof:lastmodified":1449034692,
+    "wof:lastmodified":1453930893,
     "wof:name":"Hudon, Carmen",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.712318,45.433506,-75.712318,45.433506],
+  "bbox": [
+    -75.712318,
+    45.433506,
+    -75.712318,
+    45.433506
+],
   "geometry": {"coordinates":[-75.712318,45.433506],"type":"Point"}
 }

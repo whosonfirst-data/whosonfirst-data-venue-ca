@@ -2,13 +2,14 @@
   "id": 169531309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.733665,45.426384,-75.733665,45.426384",
     "geom:latitude":45.426384,
     "geom:longitude":-75.733665,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"47 Boul Saint-Joseph",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"b9cb0db03be38327c9d073e703835f75",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":169531309
         }
     ],
     "wof:id":169531309,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1453929590,
     "wof:name":"Coiffure Millenaire",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.733665,45.426384,-75.733665,45.426384],
+  "bbox": [
+    -75.733665,
+    45.426384,
+    -75.733665,
+    45.426384
+],
   "geometry": {"coordinates":[-75.733665,45.426384],"type":"Point"}
 }

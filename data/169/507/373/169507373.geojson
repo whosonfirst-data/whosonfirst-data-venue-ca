@@ -2,13 +2,14 @@
   "id": 169507373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.203766,43.183308,-79.203766,43.183308",
     "geom:latitude":43.183308,
     "geom:longitude":-79.203766,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"47 Huntley Cres",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"b67e63bbb408c4570132d611b5227136",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":169507373
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":169507373
         }
     ],
     "wof:id":169507373,
-    "wof:lastmodified":1449034376,
+    "wof:lastmodified":1453930551,
     "wof:name":"D Propper Electric",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.203766,43.183308,-79.203766,43.183308],
+  "bbox": [
+    -79.203766,
+    43.183308,
+    -79.203766,
+    43.183308
+],
   "geometry": {"coordinates":[-79.203766,43.183308],"type":"Point"}
 }

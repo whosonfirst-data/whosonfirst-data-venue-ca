@@ -2,13 +2,14 @@
   "id": 152928453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.674522,43.465607,-79.674522,43.465607",
     "geom:latitude":43.465607,
     "geom:longitude":-79.674522,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"557 Chartwell Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895549,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"f5b7cbbccae88c64e2d115efdec05d4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895549,
+            "region_id":85682057,
+            "venue_id":152928453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895549,
             "region_id":85682057,
             "venue_id":152928453
         }
     ],
     "wof:id":152928453,
-    "wof:lastmodified":1449048275,
+    "wof:lastmodified":1453935847,
     "wof:name":"Messenger Mechanical",
     "wof:parent_id":85895549,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.674522,43.465607,-79.674522,43.465607],
+  "bbox": [
+    -79.674522,
+    43.465607,
+    -79.674522,
+    43.465607
+],
   "geometry": {"coordinates":[-79.674522,43.465607],"type":"Point"}
 }

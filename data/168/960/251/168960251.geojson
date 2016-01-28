@@ -2,13 +2,14 @@
   "id": 168960251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.494553,43.825905,-79.494553,43.825905",
     "geom:latitude":43.825905,
     "geom:longitude":-79.494553,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"70 Villarboit Cres",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895537,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d7662dfd4233c9ece77cb3409dd69ed6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895537,
+            "region_id":85682057,
+            "venue_id":168960251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895537,
             "region_id":85682057,
             "venue_id":168960251
         }
     ],
     "wof:id":168960251,
-    "wof:lastmodified":1449028329,
+    "wof:lastmodified":1453928402,
     "wof:name":"A G Reat Construction CO",
     "wof:parent_id":85895537,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.494553,43.825905,-79.494553,43.825905],
+  "bbox": [
+    -79.494553,
+    43.825905,
+    -79.494553,
+    43.825905
+],
   "geometry": {"coordinates":[-79.494553,43.825905],"type":"Point"}
 }

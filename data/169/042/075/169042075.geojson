@@ -2,13 +2,14 @@
   "id": 169042075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.50412,45.629147,-73.50412,45.629147",
     "geom:latitude":45.629147,
     "geom:longitude":-73.50412,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal-Est",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736479,
+        85784803,
+        102191575,
         85633041,
-        85784803
+        101736479,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"e5de5add9374d8bec7a7a0e213358e00",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736479,
             "neighbourhood_id":85784803,
+            "region_id":136251273,
             "venue_id":169042075
         }
     ],
     "wof:id":169042075,
-    "wof:lastmodified":1449035165,
+    "wof:lastmodified":1453931382,
     "wof:name":"Versailles Inc",
     "wof:parent_id":85784803,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.50412,45.629147,-73.50412,45.629147],
+  "bbox": [
+    -73.50412,
+    45.629147,
+    -73.50412,
+    45.629147
+],
   "geometry": {"coordinates":[-73.50412,45.629147],"type":"Point"}
 }

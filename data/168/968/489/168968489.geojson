@@ -2,13 +2,14 @@
   "id": 168968489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.468712,45.567257,-73.468712,45.567257",
     "geom:latitude":45.567257,
     "geom:longitude":-73.468712,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"650 Boul Guimond",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897555,
+        102191575,
         85633041,
-        85897555
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"48e1c38624a410494aba26f8e1e9177c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897555,
+            "region_id":136251273,
             "venue_id":168968489
         }
     ],
     "wof:id":168968489,
-    "wof:lastmodified":1449027818,
+    "wof:lastmodified":1453927834,
     "wof:name":"Metal Style Bouvet Ltee",
     "wof:parent_id":85897555,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.468712,45.567257,-73.468712,45.567257],
+  "bbox": [
+    -73.468712,
+    45.567257,
+    -73.468712,
+    45.567257
+],
   "geometry": {"coordinates":[-73.468712,45.567257],"type":"Point"}
 }

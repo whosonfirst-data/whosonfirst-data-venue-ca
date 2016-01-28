@@ -2,13 +2,14 @@
   "id": 153088337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.68264,45.51812,-73.68264,45.51812",
     "geom:latitude":45.51812,
     "geom:longitude":-73.68264,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1225 Av Sainte-Croix",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895729,
+        102191575,
         85633041,
-        85895729
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5e53f8d023ff69633fd13e81dec7bdac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895729,
+            "region_id":136251273,
             "venue_id":153088337
         }
     ],
     "wof:id":153088337,
-    "wof:lastmodified":1449040707,
+    "wof:lastmodified":1453932626,
     "wof:name":"Demeures Ste Croix Inc",
     "wof:parent_id":85895729,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.68264,45.51812,-73.68264,45.51812],
-  "geometry": {"coordinates":[-73.68264,45.51812],"type":"Point"}
+  "bbox": [
+    -73.68264,
+    45.51812,
+    -73.68264,
+    45.51812
+],
+  "geometry": {"coordinates":[-73.68264000000001,45.51812],"type":"Point"}
 }

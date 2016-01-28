@@ -2,13 +2,14 @@
   "id": 152612839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.093704,48.407249,-71.093704,48.407249",
     "geom:latitude":48.407249,
     "geom:longitude":-71.093704,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1312 Boul Saint-Paul",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2ffae915d610372f5cdeaf181884bb58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152612839
         }
     ],
     "wof:id":152612839,
-    "wof:lastmodified":1449046356,
+    "wof:lastmodified":1453934391,
     "wof:name":"Super Sagamie",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.093704,48.407249,-71.093704,48.407249],
+  "bbox": [
+    -71.093704,
+    48.407249,
+    -71.093704,
+    48.407249
+],
   "geometry": {"coordinates":[-71.093704,48.407249],"type":"Point"}
 }

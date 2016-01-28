@@ -2,13 +2,14 @@
   "id": 169019345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.204803,43.538395,-80.204803,43.538395",
     "geom:latitude":43.538395,
     "geom:longitude":-80.204803,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"760 Victoria Rd S",
     "sg:city":"Guelph",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875519,
-        85682057
+        102191575,
+        85633041,
+        101735927,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"20af82d0f9cf9e13f066aaddfe6d06f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735927,
+            "neighbourhood_id":85875519,
+            "region_id":85682057,
+            "venue_id":169019345
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875519,
             "region_id":85682057,
             "venue_id":169019345
         }
     ],
     "wof:id":169019345,
-    "wof:lastmodified":1449034581,
+    "wof:lastmodified":1453930796,
     "wof:name":"Fred Elliott Coach Lines Ltd",
     "wof:parent_id":85875519,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.204803,43.538395,-80.204803,43.538395],
+  "bbox": [
+    -80.204803,
+    43.538395,
+    -80.204803,
+    43.538395
+],
   "geometry": {"coordinates":[-80.204803,43.538395],"type":"Point"}
 }

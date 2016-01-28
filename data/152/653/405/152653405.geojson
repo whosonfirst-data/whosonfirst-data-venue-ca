@@ -2,13 +2,14 @@
   "id": 152653405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.20726,43.124832,-79.20726,43.124832",
     "geom:latitude":43.124832,
     "geom:longitude":-79.20726,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Thorold",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"8bc5abd393ca8920b74421191f98097a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":152653405
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":152653405
         }
     ],
     "wof:id":152653405,
-    "wof:lastmodified":1449044641,
+    "wof:lastmodified":1453933088,
     "wof:name":"Mc Millan, D A MD",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.20726,43.124832,-79.20726,43.124832],
-  "geometry": {"coordinates":[-79.20726,43.124832],"type":"Point"}
+  "bbox": [
+    -79.20726,
+    43.124832,
+    -79.20726,
+    43.124832
+],
+  "geometry": {"coordinates":[-79.20726000000001,43.124832],"type":"Point"}
 }

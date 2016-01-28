@@ -2,13 +2,14 @@
   "id": 219498937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.79174,43.36396,-79.79174,43.36396",
     "geom:latitude":43.36396,
     "geom:longitude":-79.79174,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3375 North Service Rd #B1",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895639,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"8957617076734020fe46f0d5fc0a5197",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895639,
+            "region_id":85682057,
+            "venue_id":219498937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895639,
             "region_id":85682057,
             "venue_id":219498937
         }
     ],
     "wof:id":219498937,
-    "wof:lastmodified":1449073078,
+    "wof:lastmodified":1453937903,
     "wof:name":"Correct Tool & Cutter Grinding",
     "wof:parent_id":85895639,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "machine"
     ]
 },
-  "bbox": [-79.79174,43.36396,-79.79174,43.36396],
+  "bbox": [
+    -79.79174,
+    43.36396,
+    -79.79174,
+    43.36396
+],
   "geometry": {"coordinates":[-79.79174,43.36396],"type":"Point"}
 }

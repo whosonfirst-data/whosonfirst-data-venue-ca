@@ -2,13 +2,14 @@
   "id": 152174531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.648048,45.578369,-73.648048,45.578369",
     "geom:latitude":45.578369,
     "geom:longitude":-73.648048,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10460 Av Vianney",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897499,
+        102191575,
         85633041,
-        85897499
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"2a7ce7e89bcd25c1abcec11019e96f7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897499,
+            "region_id":136251273,
             "venue_id":152174531
         }
     ],
     "wof:id":152174531,
-    "wof:lastmodified":1449044932,
+    "wof:lastmodified":1453933317,
     "wof:name":"Planchers Michel Cloutier",
     "wof:parent_id":85897499,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.648048,45.578369,-73.648048,45.578369],
+  "bbox": [
+    -73.648048,
+    45.578369,
+    -73.648048,
+    45.578369
+],
   "geometry": {"coordinates":[-73.648048,45.578369],"type":"Point"}
 }

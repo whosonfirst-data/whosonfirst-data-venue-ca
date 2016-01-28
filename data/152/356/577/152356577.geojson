@@ -2,13 +2,14 @@
   "id": 152356577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.255554,48.411514,-71.255554,48.411514",
     "geom:latitude":48.411514,
     "geom:longitude":-71.255554,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2416 Rue Saint-Dominique",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"6cd6efdca0ac3f3eac8e57a7974da823",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152356577
         }
     ],
     "wof:id":152356577,
-    "wof:lastmodified":1449048102,
+    "wof:lastmodified":1453935722,
     "wof:name":"Atelier DE Coiffure",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.255554,48.411514,-71.255554,48.411514],
+  "bbox": [
+    -71.255554,
+    48.411514,
+    -71.255554,
+    48.411514
+],
   "geometry": {"coordinates":[-71.255554,48.411514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152239755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.864594,43.916737,-78.864594,43.916737",
     "geom:latitude":43.916737,
     "geom:longitude":-78.864594,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"180 Rossland Rd E",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875153,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"e8c02322cf03ed0073adafbad7be8916",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875153,
+            "region_id":85682057,
+            "venue_id":152239755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875153,
             "region_id":85682057,
             "venue_id":152239755
         }
     ],
     "wof:id":152239755,
-    "wof:lastmodified":1449044751,
+    "wof:lastmodified":1453933176,
     "wof:name":"Christian Science Church",
     "wof:parent_id":85875153,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.864594,43.916737,-78.864594,43.916737],
+  "bbox": [
+    -78.864594,
+    43.916737,
+    -78.864594,
+    43.916737
+],
   "geometry": {"coordinates":[-78.864594,43.916737],"type":"Point"}
 }

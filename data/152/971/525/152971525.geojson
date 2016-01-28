@@ -2,13 +2,14 @@
   "id": 152971525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.710503,45.427849,-75.710503,45.427849",
     "geom:latitude":45.427849,
     "geom:longitude":-75.710503,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Gatineau",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"e835194ebdbbaded08d044d243dd3265",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":152971525
         }
     ],
     "wof:id":152971525,
-    "wof:lastmodified":1449046643,
+    "wof:lastmodified":1453934605,
     "wof:name":"Services A Domicile Outaouais",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.710503,45.427849,-75.710503,45.427849],
+  "bbox": [
+    -75.710503,
+    45.427849,
+    -75.710503,
+    45.427849
+],
   "geometry": {"coordinates":[-75.710503,45.427849],"type":"Point"}
 }

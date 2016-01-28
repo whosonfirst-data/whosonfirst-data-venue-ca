@@ -2,13 +2,14 @@
   "id": 152282317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.131104,45.256325,-74.131104,45.256325",
     "geom:latitude":45.256325,
     "geom:longitude":-74.131104,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"229 Rue Victoria",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e444de633dfe3d25dc4be74c24e9d924",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":152282317
         }
     ],
     "wof:id":152282317,
-    "wof:lastmodified":1449047191,
+    "wof:lastmodified":1453935023,
     "wof:name":"Boutique LA Pantalomaine Pour",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.131104,45.256325,-74.131104,45.256325],
-  "geometry": {"coordinates":[-74.131104,45.256325],"type":"Point"}
+  "bbox": [
+    -74.131104,
+    45.256325,
+    -74.131104,
+    45.256325
+],
+  "geometry": {"coordinates":[-74.13110399999999,45.256325],"type":"Point"}
 }

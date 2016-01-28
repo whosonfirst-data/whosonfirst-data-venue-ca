@@ -2,13 +2,14 @@
   "id": 152195037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.239517,43.140881,-79.239517,43.140881",
     "geom:latitude":43.140881,
     "geom:longitude":-79.239517,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864541,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"5d29825cc3c5b67d928dfd5d1bfcf2a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864541,
+            "region_id":85682057,
+            "venue_id":152195037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864541,
             "region_id":85682057,
             "venue_id":152195037
         }
     ],
     "wof:id":152195037,
-    "wof:lastmodified":1449047342,
+    "wof:lastmodified":1453935128,
     "wof:name":"Victoria Variety",
     "wof:parent_id":85864541,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.239517,43.140881,-79.239517,43.140881],
-  "geometry": {"coordinates":[-79.239517,43.140881],"type":"Point"}
+  "bbox": [
+    -79.239517,
+    43.140881,
+    -79.239517,
+    43.140881
+],
+  "geometry": {"coordinates":[-79.23951700000001,43.140881],"type":"Point"}
 }

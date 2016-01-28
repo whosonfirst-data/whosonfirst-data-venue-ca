@@ -2,13 +2,14 @@
   "id": 169290413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.425751,45.759575,-73.425751,45.759575",
     "geom:latitude":45.759575,
     "geom:longitude":-73.425751,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"765 Rue Notre-Dame",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6d3062830f542dcf7dc7cca9401b6d5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169290413
         }
     ],
     "wof:id":169290413,
-    "wof:lastmodified":1449034090,
+    "wof:lastmodified":1453930276,
     "wof:name":"Charles E Rajotte Inc Rsdnc",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.425751,45.759575,-73.425751,45.759575],
-  "geometry": {"coordinates":[-73.425751,45.759575],"type":"Point"}
+  "bbox": [
+    -73.425751,
+    45.759575,
+    -73.425751,
+    45.759575
+],
+  "geometry": {"coordinates":[-73.42575100000001,45.759575],"type":"Point"}
 }

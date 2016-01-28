@@ -2,13 +2,14 @@
   "id": 152284621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.342766,46.805733,-71.342766,46.805733",
     "geom:latitude":46.805733,
     "geom:longitude":-71.342766,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1437 Rue Grandpre",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"367018b1ee738b4b7d07531531902a76",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152284621
         }
     ],
     "wof:id":152284621,
-    "wof:lastmodified":1449047171,
+    "wof:lastmodified":1453935012,
     "wof:name":"Louis Pichette Enr",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.342766,46.805733,-71.342766,46.805733],
+  "bbox": [
+    -71.342766,
+    46.805733,
+    -71.342766,
+    46.805733
+],
   "geometry": {"coordinates":[-71.342766,46.805733],"type":"Point"}
 }

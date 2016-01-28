@@ -2,13 +2,14 @@
   "id": 152575747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720726,45.577339,-73.720726,45.577339",
     "geom:latitude":45.577339,
     "geom:longitude":-73.720726,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"810 Rue Salaberry",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875067,
+        102191575,
         85633041,
-        85875067
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7820af7a8ff8920bc6ccb274b3b287fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
+            "region_id":136251273,
             "venue_id":152575747
         }
     ],
     "wof:id":152575747,
-    "wof:lastmodified":1449045641,
+    "wof:lastmodified":1453933854,
     "wof:name":"Photographe Studio France",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.720726,45.577339,-73.720726,45.577339],
+  "bbox": [
+    -73.720726,
+    45.577339,
+    -73.720726,
+    45.577339
+],
   "geometry": {"coordinates":[-73.720726,45.577339],"type":"Point"}
 }

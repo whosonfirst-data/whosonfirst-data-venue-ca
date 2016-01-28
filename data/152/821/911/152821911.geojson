@@ -2,13 +2,14 @@
   "id": 152821911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.856529,45.658165,-73.856529,45.658165",
     "geom:latitude":45.658165,
     "geom:longitude":-73.856529,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Blainville",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738507,
+        85897563,
+        102191575,
         85633041,
-        85897563
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"f562e3fcfdd2cf7bf010e90afc8f45a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
+            "region_id":136251273,
             "venue_id":152821911
         }
     ],
     "wof:id":152821911,
-    "wof:lastmodified":1449046818,
+    "wof:lastmodified":1453934729,
     "wof:name":"Nettoyeur Charron",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.856529,45.658165,-73.856529,45.658165],
-  "geometry": {"coordinates":[-73.856529,45.658165],"type":"Point"}
+  "bbox": [
+    -73.856529,
+    45.658165,
+    -73.856529,
+    45.658165
+],
+  "geometry": {"coordinates":[-73.85652899999999,45.658165],"type":"Point"}
 }

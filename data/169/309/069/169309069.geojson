@@ -2,13 +2,14 @@
   "id": 169309069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.534157,45.572304,-73.534157,45.572304",
     "geom:latitude":45.572304,
     "geom:longitude":-73.534157,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874169,
+        102191575,
         85633041,
-        85874169
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"16a38c2fd4a3322f9238829538e3707a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
+            "region_id":136251273,
             "venue_id":169309069
         }
     ],
     "wof:id":169309069,
-    "wof:lastmodified":1449033417,
+    "wof:lastmodified":1453929523,
     "wof:name":"Maison Du Pharillon Inc",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.534157,45.572304,-73.534157,45.572304],
-  "geometry": {"coordinates":[-73.534157,45.572304],"type":"Point"}
+  "bbox": [
+    -73.534157,
+    45.572304,
+    -73.534157,
+    45.572304
+],
+  "geometry": {"coordinates":[-73.53415699999999,45.572304],"type":"Point"}
 }

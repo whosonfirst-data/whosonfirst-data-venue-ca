@@ -2,13 +2,14 @@
   "id": 202624405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.668396,45.584583,-73.668396,45.584583",
     "geom:latitude":45.584583,
     "geom:longitude":-73.668396,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"650 Rue Des Forges",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875069,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"8a58ab3758db22c08f7f4e0f05ee38e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202624405
         }
     ],
     "wof:id":202624405,
-    "wof:lastmodified":1449061833,
+    "wof:lastmodified":1453937336,
     "wof:name":"Entreprises Zyrcon",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.668396,45.584583,-73.668396,45.584583],
+  "bbox": [
+    -73.668396,
+    45.584583,
+    -73.668396,
+    45.584583
+],
   "geometry": {"coordinates":[-73.668396,45.584583],"type":"Point"}
 }

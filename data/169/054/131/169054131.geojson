@@ -2,13 +2,14 @@
   "id": 169054131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.721703,44.378082,-79.721703,44.378082",
     "geom:latitude":44.378082,
     "geom:longitude":-79.721703,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"143 Ferndale Dr N",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23AeIrPMMRvpfNvVxLPrx8_44.378082_-79.721703@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e66b5ecec34ec0f7a2994e45ce7ebaf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":169054131
+        }
+    ],
     "wof:id":169054131,
-    "wof:lastmodified":1449034230,
+    "wof:lastmodified":1453930420,
     "wof:name":"Resonance Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.721703,44.378082,-79.721703,44.378082],
-  "geometry": {"coordinates":[-79.721703,44.378082],"type":"Point"}
+  "bbox": [
+    -79.721703,
+    44.378082,
+    -79.721703,
+    44.378082
+],
+  "geometry": {"coordinates":[-79.72170300000001,44.378082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168871515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.481575,45.757782,-73.481575,45.757782",
     "geom:latitude":45.757782,
     "geom:longitude":-73.481575,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"318 Rue Saint-Paul",
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"9940f0009ff8adab18643aafcdbf2b7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":168871515
         }
     ],
     "wof:id":168871515,
-    "wof:lastmodified":1449027998,
+    "wof:lastmodified":1453928044,
     "wof:name":"Huile A Chauffage",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.481575,45.757782,-73.481575,45.757782],
-  "geometry": {"coordinates":[-73.481575,45.757782],"type":"Point"}
+  "bbox": [
+    -73.481575,
+    45.757782,
+    -73.481575,
+    45.757782
+],
+  "geometry": {"coordinates":[-73.48157500000001,45.757782],"type":"Point"}
 }

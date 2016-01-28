@@ -2,13 +2,14 @@
   "id": 152353411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.804001,45.49123,-73.804001,45.49123",
     "geom:latitude":45.49123,
     "geom:longitude":-73.804001,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3869 Boul Des Sources #204",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85784719,
+        102191575,
         85633041,
-        85784719
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4d785f3b48bd7d191198d370aa7e750c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85784719,
+            "region_id":136251273,
             "venue_id":152353411
         }
     ],
     "wof:id":152353411,
-    "wof:lastmodified":1449045629,
+    "wof:lastmodified":1453933843,
     "wof:name":"Kommunicom Editions",
     "wof:parent_id":85784719,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.804001,45.49123,-73.804001,45.49123],
+  "bbox": [
+    -73.804001,
+    45.49123,
+    -73.804001,
+    45.49123
+],
   "geometry": {"coordinates":[-73.804001,45.49123],"type":"Point"}
 }

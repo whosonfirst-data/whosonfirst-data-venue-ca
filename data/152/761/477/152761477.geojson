@@ -2,13 +2,14 @@
   "id": 152761477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.243011,42.988682,-81.243011,42.988682",
     "geom:latitude":42.988682,
     "geom:longitude":-81.243011,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"362 Dufferin Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_137Q7vsPv9wMayCU9JuOQK_42.988682_-81.243011@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f0c3ffb57e9955fdc16c31969e357653",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":152761477
+        }
+    ],
     "wof:id":152761477,
-    "wof:lastmodified":1449047816,
+    "wof:lastmodified":1453935513,
     "wof:name":"Allen Personnel Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.243011,42.988682,-81.243011,42.988682],
+  "bbox": [
+    -81.243011,
+    42.988682,
+    -81.243011,
+    42.988682
+],
   "geometry": {"coordinates":[-81.243011,42.988682],"type":"Point"}
 }

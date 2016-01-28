@@ -2,13 +2,14 @@
   "id": 169091455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.790092,43.730343,-79.790092,43.730343",
     "geom:latitude":43.730343,
     "geom:longitude":-79.790092,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895445,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2ff25f90ba354485ed0289cde46d9452",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895445,
+            "region_id":85682057,
+            "venue_id":169091455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895445,
             "region_id":85682057,
             "venue_id":169091455
         }
     ],
     "wof:id":169091455,
-    "wof:lastmodified":1449033002,
+    "wof:lastmodified":1453929132,
     "wof:name":"Cardboard Memories Inc",
     "wof:parent_id":85895445,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.790092,43.730343,-79.790092,43.730343],
+  "bbox": [
+    -79.790092,
+    43.730343,
+    -79.790092,
+    43.730343
+],
   "geometry": {"coordinates":[-79.790092,43.730343],"type":"Point"}
 }

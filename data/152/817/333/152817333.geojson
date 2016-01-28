@@ -2,13 +2,14 @@
   "id": 152817333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.559296,45.642895,-73.559296,45.642895",
     "geom:latitude":45.642895,
     "geom:longitude":-73.559296,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11450 54E Av",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871105,
+        102191575,
         85633041,
-        85871105
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"a90ecfe196c71d67f44d7a7130cea9cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
+            "region_id":136251273,
             "venue_id":152817333
         }
     ],
     "wof:id":152817333,
-    "wof:lastmodified":1449048019,
+    "wof:lastmodified":1453935668,
     "wof:name":"Forage Expert Gr Inc",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.559296,45.642895,-73.559296,45.642895],
+  "bbox": [
+    -73.559296,
+    45.642895,
+    -73.559296,
+    45.642895
+],
   "geometry": {"coordinates":[-73.559296,45.642895],"type":"Point"}
 }

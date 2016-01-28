@@ -2,13 +2,14 @@
   "id": 152593861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656334,45.461304,-73.656334,45.461304",
     "geom:latitude":45.461304,
     "geom:longitude":-73.656334,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5423 Rue Robert-Burns",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85874165,
+        102191575,
         85633041,
-        85874165
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"69b0da13e3d9730bfc6544c4e45f907e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85874165,
+            "region_id":136251273,
             "venue_id":152593861
         }
     ],
     "wof:id":152593861,
-    "wof:lastmodified":1449047365,
+    "wof:lastmodified":1453935150,
     "wof:name":"Robert Burns Pub",
     "wof:parent_id":85874165,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.656334,45.461304,-73.656334,45.461304],
+  "bbox": [
+    -73.656334,
+    45.461304,
+    -73.656334,
+    45.461304
+],
   "geometry": {"coordinates":[-73.656334,45.461304],"type":"Point"}
 }

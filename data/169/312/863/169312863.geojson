@@ -2,13 +2,14 @@
   "id": 169312863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.518463,43.831696,-79.518463,43.831696",
     "geom:latitude":43.831696,
     "geom:longitude":-79.518463,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Tigi Crt # B",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"fae1a2b8cf547f1948846e160021e2d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":169312863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":169312863
         }
     ],
     "wof:id":169312863,
-    "wof:lastmodified":1449034351,
+    "wof:lastmodified":1453930525,
     "wof:name":"King York Paving",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.518463,43.831696,-79.518463,43.831696],
+  "bbox": [
+    -79.518463,
+    43.831696,
+    -79.518463,
+    43.831696
+],
   "geometry": {"coordinates":[-79.518463,43.831696],"type":"Point"}
 }

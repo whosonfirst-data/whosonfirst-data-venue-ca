@@ -2,13 +2,14 @@
   "id": 152388125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578529,45.587299,-73.578529,45.587299",
     "geom:latitude":45.587299,
     "geom:longitude":-73.578529,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6020 Rue Jean-Talon E # 310",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784921,
+        102191575,
         85633041,
-        85784921
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"64763e2183126531d36971d004aa7593",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784921,
+            "region_id":136251273,
             "venue_id":152388125
         }
     ],
     "wof:id":152388125,
-    "wof:lastmodified":1449044469,
+    "wof:lastmodified":1453932954,
     "wof:name":"Groupe Forget-Parent",
     "wof:parent_id":85784921,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578529,45.587299,-73.578529,45.587299],
+  "bbox": [
+    -73.578529,
+    45.587299,
+    -73.578529,
+    45.587299
+],
   "geometry": {"coordinates":[-73.578529,45.587299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169419073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.529877,45.553768,-73.529877,45.553768",
     "geom:latitude":45.553768,
     "geom:longitude":-73.529877,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4685 Rue Notre-Dame O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7b1ae8d798f6d6beda68820cb9c2b080",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":169419073
         }
     ],
     "wof:id":169419073,
-    "wof:lastmodified":1449035905,
+    "wof:lastmodified":1453932193,
     "wof:name":"Bar DE Courcelles",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.529877,45.553768,-73.529877,45.553768],
+  "bbox": [
+    -73.529877,
+    45.553768,
+    -73.529877,
+    45.553768
+],
   "geometry": {"coordinates":[-73.529877,45.553768],"type":"Point"}
 }

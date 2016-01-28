@@ -2,13 +2,14 @@
   "id": 169061693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.265442,45.312378,-73.265442,45.312378",
     "geom:latitude":45.312378,
     "geom:longitude":-73.265442,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
         {
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"939b4e2223c1eb7da8aaaa98445cef00",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":169061693
         }
     ],
     "wof:id":169061693,
-    "wof:lastmodified":1449035060,
+    "wof:lastmodified":1453931286,
     "wof:name":"Super Club Videotron",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.265442,45.312378,-73.265442,45.312378],
-  "geometry": {"coordinates":[-73.265442,45.312378],"type":"Point"}
+  "bbox": [
+    -73.265442,
+    45.312378,
+    -73.265442,
+    45.312378
+],
+  "geometry": {"coordinates":[-73.26544199999999,45.312378],"type":"Point"}
 }

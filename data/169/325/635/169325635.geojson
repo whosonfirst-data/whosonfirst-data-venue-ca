@@ -2,13 +2,14 @@
   "id": 169325635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.603287,43.631737,-79.603287,43.631737",
     "geom:latitude":43.631737,
     "geom:longitude":-79.603287,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4249 Anworld Pl",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895107,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"82acbe8382f7428a0f79c55996f265ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895107,
+            "region_id":85682057,
+            "venue_id":169325635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895107,
             "region_id":85682057,
             "venue_id":169325635
         }
     ],
     "wof:id":169325635,
-    "wof:lastmodified":1449033970,
+    "wof:lastmodified":1453930132,
     "wof:name":"G P Sales",
     "wof:parent_id":85895107,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.603287,43.631737,-79.603287,43.631737],
-  "geometry": {"coordinates":[-79.603287,43.631737],"type":"Point"}
+  "bbox": [
+    -79.603287,
+    43.631737,
+    -79.603287,
+    43.631737
+],
+  "geometry": {"coordinates":[-79.60328699999999,43.631737],"type":"Point"}
 }

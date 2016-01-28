@@ -2,13 +2,14 @@
   "id": 152159321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.632256,45.481625,-73.632256,45.481625",
     "geom:latitude":45.481625,
     "geom:longitude":-73.632256,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5145 Av Clanranald",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897527,
+        102191575,
         85633041,
-        85897527
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"61f2034569a4b679ed18d0ab16c782da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897527,
+            "region_id":136251273,
             "venue_id":152159321
         }
     ],
     "wof:id":152159321,
-    "wof:lastmodified":1449044857,
+    "wof:lastmodified":1453933257,
     "wof:name":"Centre DE Consultation",
     "wof:parent_id":85897527,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.632256,45.481625,-73.632256,45.481625],
+  "bbox": [
+    -73.632256,
+    45.481625,
+    -73.632256,
+    45.481625
+],
   "geometry": {"coordinates":[-73.632256,45.481625],"type":"Point"}
 }

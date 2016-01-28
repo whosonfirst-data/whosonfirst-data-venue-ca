@@ -2,13 +2,14 @@
   "id": 202583469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.590019,45.466488,-73.590019,45.466488",
     "geom:latitude":45.466488,
     "geom:longitude":-73.590019,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5200 Rue Saint-Patrick",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897613,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"a8c98b1673fa2d6f08b336782db20b7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897613,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202583469
         }
     ],
     "wof:id":202583469,
-    "wof:lastmodified":1449062130,
+    "wof:lastmodified":1453937396,
     "wof:name":"Silonex",
     "wof:parent_id":85897613,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.590019,45.466488,-73.590019,45.466488],
+  "bbox": [
+    -73.590019,
+    45.466488,
+    -73.590019,
+    45.466488
+],
   "geometry": {"coordinates":[-73.590019,45.466488],"type":"Point"}
 }

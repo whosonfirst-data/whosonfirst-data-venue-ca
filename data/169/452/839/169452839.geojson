@@ -2,13 +2,14 @@
   "id": 169452839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.35553,43.001705,-82.35553,43.001705",
     "geom:latitude":43.001705,
     "geom:longitude":-82.35553,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1341 Blackwell Rd",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875569,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"c537f71d23198f444c58c85405c13444",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875569,
+            "region_id":85682057,
+            "venue_id":169452839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875569,
             "region_id":85682057,
             "venue_id":169452839
         }
     ],
     "wof:id":169452839,
-    "wof:lastmodified":1449033470,
+    "wof:lastmodified":1453929586,
     "wof:name":"S Kershaw Sewing Machine",
     "wof:parent_id":85875569,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.35553,43.001705,-82.35553,43.001705],
+  "bbox": [
+    -82.35553,
+    43.001705,
+    -82.35553,
+    43.001705
+],
   "geometry": {"coordinates":[-82.35553,43.001705],"type":"Point"}
 }

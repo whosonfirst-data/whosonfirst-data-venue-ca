@@ -2,13 +2,14 @@
   "id": 152540097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.225883,43.010426,-81.225883,43.010426",
     "geom:latitude":43.010426,
     "geom:longitude":-81.225883,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"149 Boullee St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QceWuxKpjpjo3NI3Z2vy9_43.010426_-81.225883@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b206a8bcc18e67233e1c437e0cb19c4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":152540097
+        }
+    ],
     "wof:id":152540097,
-    "wof:lastmodified":1449046128,
+    "wof:lastmodified":1453934215,
     "wof:name":"Ace Mini Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.225883,43.010426,-81.225883,43.010426],
+  "bbox": [
+    -81.225883,
+    43.010426,
+    -81.225883,
+    43.010426
+],
   "geometry": {"coordinates":[-81.225883,43.010426],"type":"Point"}
 }

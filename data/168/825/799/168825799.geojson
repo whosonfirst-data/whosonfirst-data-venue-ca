@@ -2,13 +2,14 @@
   "id": 168825799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.831192,43.323025,-79.831192,43.323025",
     "geom:latitude":43.323025,
     "geom:longitude":-79.831192,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895581,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"1a913094daf6196a0fb999dc1921008b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895581,
+            "region_id":85682057,
+            "venue_id":168825799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895581,
             "region_id":85682057,
             "venue_id":168825799
         }
     ],
     "wof:id":168825799,
-    "wof:lastmodified":1449027793,
+    "wof:lastmodified":1453927805,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85895581,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.831192,43.323025,-79.831192,43.323025],
+  "bbox": [
+    -79.831192,
+    43.323025,
+    -79.831192,
+    43.323025
+],
   "geometry": {"coordinates":[-79.831192,43.323025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152418863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58448,43.202763,-79.58448,43.202763",
     "geom:latitude":43.202763,
     "geom:longitude":-79.58448,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"215 Roberts Rd RR 2",
     "sg:city":"Grimsby",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895027,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101735899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"dff65fd158a0a18867d543406e0d22ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85895027,
+            "region_id":85682057,
+            "venue_id":152418863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735899,
             "neighbourhood_id":85895027,
             "region_id":85682057,
             "venue_id":152418863
         }
     ],
     "wof:id":152418863,
-    "wof:lastmodified":1449047919,
+    "wof:lastmodified":1453935593,
     "wof:name":"Oza Public Storage Inc",
     "wof:parent_id":85895027,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.58448,43.202763,-79.58448,43.202763],
+  "bbox": [
+    -79.58448,
+    43.202763,
+    -79.58448,
+    43.202763
+],
   "geometry": {"coordinates":[-79.58448,43.202763],"type":"Point"}
 }

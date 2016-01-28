@@ -2,13 +2,14 @@
   "id": 169247139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.533234,43.805523,-79.533234,43.805523",
     "geom:latitude":43.805523,
     "geom:longitude":-79.533234,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"160 Cidermill Ave # 23",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"6f3bf695b1ff7cb6ebfb796a688bb2c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":169247139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":169247139
         }
     ],
     "wof:id":169247139,
-    "wof:lastmodified":1449034619,
+    "wof:lastmodified":1453930824,
     "wof:name":"C & S Power Tools",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.533234,43.805523,-79.533234,43.805523],
-  "geometry": {"coordinates":[-79.533234,43.805523],"type":"Point"}
+  "bbox": [
+    -79.533234,
+    43.805523,
+    -79.533234,
+    43.805523
+],
+  "geometry": {"coordinates":[-79.53323399999999,43.805523],"type":"Point"}
 }

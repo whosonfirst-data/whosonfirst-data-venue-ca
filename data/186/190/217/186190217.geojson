@@ -2,13 +2,14 @@
   "id": 186190217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.552353,45.568954,-73.552353,45.568954",
     "geom:latitude":45.568954,
     "geom:longitude":-73.552353,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5219 Rue Sherbrooke O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874371,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"91334c07973b3aadde64428941b627d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186190217
         }
     ],
     "wof:id":186190217,
-    "wof:lastmodified":1449052863,
+    "wof:lastmodified":1453936915,
     "wof:name":"Nettoyeur Sparkle",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.552353,45.568954,-73.552353,45.568954],
+  "bbox": [
+    -73.552353,
+    45.568954,
+    -73.552353,
+    45.568954
+],
   "geometry": {"coordinates":[-73.552353,45.568954],"type":"Point"}
 }

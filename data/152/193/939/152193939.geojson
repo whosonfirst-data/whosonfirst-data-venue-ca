@@ -2,13 +2,14 @@
   "id": 152193939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.663559,45.518932,-73.663559,45.518932",
     "geom:latitude":45.518932,
     "geom:longitude":-73.663559,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"405 Boul Montpellier",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895725,
+        102191575,
         85633041,
-        85895725
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"693b208e1478e090f8e790eb3d3cb5f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
+            "region_id":136251273,
             "venue_id":152193939
         }
     ],
     "wof:id":152193939,
-    "wof:lastmodified":1449045055,
+    "wof:lastmodified":1453933400,
     "wof:name":"Revac",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.663559,45.518932,-73.663559,45.518932],
-  "geometry": {"coordinates":[-73.663559,45.518932],"type":"Point"}
+  "bbox": [
+    -73.663559,
+    45.518932,
+    -73.663559,
+    45.518932
+],
+  "geometry": {"coordinates":[-73.66355900000001,45.518932],"type":"Point"}
 }

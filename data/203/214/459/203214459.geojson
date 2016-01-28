@@ -2,13 +2,14 @@
   "id": 203214459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.239494,46.829517,-71.239494,46.829517",
     "geom:latitude":46.829517,
     "geom:longitude":-71.239494,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"40 Av Lamontagne",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864443,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"3f98ab70314f36d2fe75f5498398e07d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864443,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203214459
         }
     ],
     "wof:id":203214459,
-    "wof:lastmodified":1449026816,
+    "wof:lastmodified":1453927750,
     "wof:name":"Club L'Euro",
     "wof:parent_id":85864443,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-71.239494,46.829517,-71.239494,46.829517],
-  "geometry": {"coordinates":[-71.239494,46.829517],"type":"Point"}
+  "bbox": [
+    -71.239494,
+    46.829517,
+    -71.239494,
+    46.829517
+],
+  "geometry": {"coordinates":[-71.23949399999999,46.829517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169526455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.302818,45.450237,-73.302818,45.450237",
     "geom:latitude":45.450237,
     "geom:longitude":-73.302818,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"505 Boul Brassard",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895747,
+        102191575,
         85633041,
-        85895747
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"f0e1029a1ef1d6e2d4cbd58df53acef9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
+            "region_id":136251273,
             "venue_id":169526455
         }
     ],
     "wof:id":169526455,
-    "wof:lastmodified":1449033704,
+    "wof:lastmodified":1453929827,
     "wof:name":"Centre Amitie Jeunesse",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.302818,45.450237,-73.302818,45.450237],
+  "bbox": [
+    -73.302818,
+    45.450237,
+    -73.302818,
+    45.450237
+],
   "geometry": {"coordinates":[-73.302818,45.450237],"type":"Point"}
 }

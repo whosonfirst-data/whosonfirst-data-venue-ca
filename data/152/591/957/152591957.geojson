@@ -2,13 +2,14 @@
   "id": 152591957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.522202,53.566429,-113.522202,53.566429",
     "geom:latitude":53.566429,
     "geom:longitude":-113.522202,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11727 Kingsway NW",
     "sg:city":"Edmonton",
     "sg:classifiers":[
@@ -25,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633041,
+        102554483,
         85874655,
         85682091
     ],
@@ -36,6 +38,7 @@
     "wof:geomhash":"29cc48215a3ebcb20024a7a085c1f516",
     "wof:hierarchy":[
         {
+            "campus_id":102554483,
             "country_id":85633041,
             "neighbourhood_id":85874655,
             "region_id":85682091,
@@ -43,14 +46,19 @@
         }
     ],
     "wof:id":152591957,
-    "wof:lastmodified":1449046777,
+    "wof:lastmodified":1453934703,
     "wof:name":"Chateau Louis Hotel",
-    "wof:parent_id":85874655,
+    "wof:parent_id":102554483,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.522202,53.566429,-113.522202,53.566429],
-  "geometry": {"coordinates":[-113.522202,53.566429],"type":"Point"}
+  "bbox": [
+    -113.522202,
+    53.566429,
+    -113.522202,
+    53.566429
+],
+  "geometry": {"coordinates":[-113.52220199999999,53.566429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168979165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.622581,43.518009,-79.622581,43.518009",
     "geom:latitude":43.518009,
     "geom:longitude":-79.622581,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1715 Lakeshore Rd W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894979,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"6797ad924e81c796bb2a36f97f4abb1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894979,
+            "region_id":85682057,
+            "venue_id":168979165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894979,
             "region_id":85682057,
             "venue_id":168979165
         }
     ],
     "wof:id":168979165,
-    "wof:lastmodified":1449028322,
+    "wof:lastmodified":1453928396,
     "wof:name":"Chartwells",
     "wof:parent_id":85894979,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.622581,43.518009,-79.622581,43.518009],
+  "bbox": [
+    -79.622581,
+    43.518009,
+    -79.622581,
+    43.518009
+],
   "geometry": {"coordinates":[-79.622581,43.518009],"type":"Point"}
 }

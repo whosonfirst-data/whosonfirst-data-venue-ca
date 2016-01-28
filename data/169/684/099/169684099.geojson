@@ -2,13 +2,14 @@
   "id": 169684099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.24572,43.971733,-79.24572,43.971733",
     "geom:latitude":43.971733,
     "geom:longitude":-79.24572,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6306 Main St",
     "sg:city":"Stouffville",
     "sg:classifiers":[
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895097,
         102191575,
         85633041,
-        85895097
+        101736037,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736037,
             "neighbourhood_id":85895097,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":169684099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895097,
+            "region_id":85682057,
             "venue_id":169684099
         }
     ],
     "wof:id":169684099,
-    "wof:lastmodified":1449033510,
+    "wof:lastmodified":1453929614,
     "wof:name":"Curves For Women",
     "wof:parent_id":85895097,
     "wof:placetype":"venue",
@@ -69,6 +80,11 @@
         "studio"
     ]
 },
-  "bbox": [-79.24572,43.971733,-79.24572,43.971733],
-  "geometry": {"coordinates":[-79.24572,43.971733],"type":"Point"}
+  "bbox": [
+    -79.24572,
+    43.971733,
+    -79.24572,
+    43.971733
+],
+  "geometry": {"coordinates":[-79.24572000000001,43.971733],"type":"Point"}
 }

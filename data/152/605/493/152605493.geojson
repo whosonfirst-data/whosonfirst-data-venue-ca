@@ -2,13 +2,14 @@
   "id": 152605493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.119011,49.267509,-123.119011,49.267509",
     "geom:latitude":49.267509,
     "geom:longitude":-123.119011,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Vancouver",
     "sg:classifiers":[
         {
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865005,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"81878d4d3e8e361cf31b23087c1334bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865005,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":152605493,
-    "wof:lastmodified":1449046557,
+    "wof:lastmodified":1453934545,
     "wof:name":"Globespan Travel",
     "wof:parent_id":85865005,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.119011,49.267509,-123.119011,49.267509],
+  "bbox": [
+    -123.119011,
+    49.267509,
+    -123.119011,
+    49.267509
+],
   "geometry": {"coordinates":[-123.119011,49.267509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152233853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.876259,43.897552,-78.876259,43.897552",
     "geom:latitude":43.897552,
     "geom:longitude":-78.876259,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oshawa",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875157,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"e7539a70cbf0b109b92e41676afc2a16",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875157,
+            "region_id":85682057,
+            "venue_id":152233853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875157,
             "region_id":85682057,
             "venue_id":152233853
         }
     ],
     "wof:id":152233853,
-    "wof:lastmodified":1449048971,
+    "wof:lastmodified":1453936411,
     "wof:name":"Durham Properties Management",
     "wof:parent_id":85875157,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.876259,43.897552,-78.876259,43.897552],
+  "bbox": [
+    -78.876259,
+    43.897552,
+    -78.876259,
+    43.897552
+],
   "geometry": {"coordinates":[-78.876259,43.897552],"type":"Point"}
 }

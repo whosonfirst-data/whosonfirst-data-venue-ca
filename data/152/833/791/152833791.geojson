@@ -2,13 +2,14 @@
   "id": 152833791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.586159,45.530563,-73.586159,45.530563",
     "geom:latitude":45.530563,
     "geom:longitude":-73.586159,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1032 Av Laurier E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bcc0d041b2d5ab279e91749917e1a991",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152833791
         }
     ],
     "wof:id":152833791,
-    "wof:lastmodified":1449044899,
+    "wof:lastmodified":1453933289,
     "wof:name":"Ecole DE Guitaire DE Montreal",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.586159,45.530563,-73.586159,45.530563],
-  "geometry": {"coordinates":[-73.586159,45.530563],"type":"Point"}
+  "bbox": [
+    -73.586159,
+    45.530563,
+    -73.586159,
+    45.530563
+],
+  "geometry": {"coordinates":[-73.58615899999999,45.530563],"type":"Point"}
 }

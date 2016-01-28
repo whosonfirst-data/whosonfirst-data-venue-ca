@@ -2,13 +2,14 @@
   "id": 152396683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.622505,43.633877,-79.622505,43.633877",
     "geom:latitude":43.633877,
     "geom:longitude":-79.622505,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1290 Eglinton Ave E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895107,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"087acee1af65a62ba72a78fdf3c16149",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895107,
+            "region_id":85682057,
+            "venue_id":152396683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895107,
             "region_id":85682057,
             "venue_id":152396683
         }
     ],
     "wof:id":152396683,
-    "wof:lastmodified":1449047331,
+    "wof:lastmodified":1453935119,
     "wof:name":"Nitsch & Assoc Inc",
     "wof:parent_id":85895107,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.622505,43.633877,-79.622505,43.633877],
+  "bbox": [
+    -79.622505,
+    43.633877,
+    -79.622505,
+    43.633877
+],
   "geometry": {"coordinates":[-79.622505,43.633877],"type":"Point"}
 }

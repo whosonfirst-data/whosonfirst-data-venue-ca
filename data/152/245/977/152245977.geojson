@@ -2,13 +2,14 @@
   "id": 152245977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.610451,45.649464,-73.610451,45.649464",
     "geom:latitude":45.649464,
     "geom:longitude":-73.610451,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"260 Place Du Tangara",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f0d2e1b04c4dcd7e49dc9ebd1772b33a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":152245977
         }
     ],
     "wof:id":152245977,
-    "wof:lastmodified":1449048771,
+    "wof:lastmodified":1453936229,
     "wof:name":"Ouellette, Jean CA",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.610451,45.649464,-73.610451,45.649464],
+  "bbox": [
+    -73.610451,
+    45.649464,
+    -73.610451,
+    45.649464
+],
   "geometry": {"coordinates":[-73.610451,45.649464],"type":"Point"}
 }

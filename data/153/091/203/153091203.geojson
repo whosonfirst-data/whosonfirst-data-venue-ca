@@ -2,13 +2,14 @@
   "id": 153091203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.552513,45.50798,-73.552513,45.50798",
     "geom:latitude":45.50798,
     "geom:longitude":-73.552513,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"227 Rue Saint-Paul O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"3beab120cc5d6f16fdeb74bfa4d69899",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":153091203
         }
     ],
     "wof:id":153091203,
-    "wof:lastmodified":1449040374,
+    "wof:lastmodified":1453932332,
     "wof:name":"Galerie Art & Culture",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.552513,45.50798,-73.552513,45.50798],
+  "bbox": [
+    -73.552513,
+    45.50798,
+    -73.552513,
+    45.50798
+],
   "geometry": {"coordinates":[-73.552513,45.50798],"type":"Point"}
 }

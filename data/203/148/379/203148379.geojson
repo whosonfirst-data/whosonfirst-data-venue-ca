@@ -2,13 +2,14 @@
   "id": 203148379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.736198,45.449455,-73.736198,45.449455",
     "geom:latitude":45.449455,
     "geom:longitude":-73.736198,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"550 Av Marshall",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102554351,
         85784727,
+        102191575,
         85633041,
-        101736475
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,19 @@
     "wof:geomhash":"7d336ca94708aff0ba0fadf065ca0c6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203148379
         }
     ],
     "wof:id":203148379,
-    "wof:lastmodified":1449026550,
+    "wof:lastmodified":1453927699,
     "wof:name":"Dural",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "glue"
     ]
 },
-  "bbox": [-73.736198,45.449455,-73.736198,45.449455],
+  "bbox": [
+    -73.736198,
+    45.449455,
+    -73.736198,
+    45.449455
+],
   "geometry": {"coordinates":[-73.736198,45.449455],"type":"Point"}
 }

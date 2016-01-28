@@ -2,13 +2,14 @@
   "id": 152317203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.700485,45.421692,-75.700485,45.421692",
     "geom:latitude":45.421692,
     "geom:longitude":-75.700485,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"191 Sparks St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7eac5d50de92d51bbafb1efece83ceec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":152317203
         }
     ],
     "wof:id":152317203,
-    "wof:lastmodified":1449046425,
+    "wof:lastmodified":1453934449,
     "wof:name":"Papillon Boutique",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.700485,45.421692,-75.700485,45.421692],
+  "bbox": [
+    -75.700485,
+    45.421692,
+    -75.700485,
+    45.421692
+],
   "geometry": {"coordinates":[-75.700485,45.421692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169080895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.441147,43.887306,-79.441147,43.887306",
     "geom:latitude":43.887306,
     "geom:longitude":-79.441147,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10670 Yonge St #200",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895349,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"cc95ccbf642aa8d2494506940f807a83",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895349,
+            "region_id":85682057,
+            "venue_id":169080895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895349,
             "region_id":85682057,
             "venue_id":169080895
         }
     ],
     "wof:id":169080895,
-    "wof:lastmodified":1449035874,
+    "wof:lastmodified":1453932165,
     "wof:name":"Pinnacle Roofing Consultants",
     "wof:parent_id":85895349,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.441147,43.887306,-79.441147,43.887306],
+  "bbox": [
+    -79.441147,
+    43.887306,
+    -79.441147,
+    43.887306
+],
   "geometry": {"coordinates":[-79.441147,43.887306],"type":"Point"}
 }

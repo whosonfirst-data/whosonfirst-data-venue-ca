@@ -2,13 +2,14 @@
   "id": 169761181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.615967,45.431286,-73.615967,45.431286",
     "geom:latitude":45.431286,
     "geom:longitude":-73.615967,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1199 Boul Shevchenko",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897545,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"99ba7149b7def3123dc5dee0159beac2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897545,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169761181
         }
     ],
     "wof:id":169761181,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1453931390,
     "wof:name":"Instalatel Dd",
     "wof:parent_id":85897545,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.615967,45.431286,-73.615967,45.431286],
+  "bbox": [
+    -73.615967,
+    45.431286,
+    -73.615967,
+    45.431286
+],
   "geometry": {"coordinates":[-73.615967,45.431286],"type":"Point"}
 }

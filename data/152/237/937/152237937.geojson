@@ -2,13 +2,14 @@
   "id": 152237937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.662361,43.615292,-79.662361,43.615292",
     "geom:latitude":43.615292,
     "geom:longitude":-79.662361,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"ac37c39c4959869bf9ae95f77b462f9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":152237937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":152237937
         }
     ],
     "wof:id":152237937,
-    "wof:lastmodified":1449044404,
+    "wof:lastmodified":1453932905,
     "wof:name":"Bombay Chopsticks",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.662361,43.615292,-79.662361,43.615292],
+  "bbox": [
+    -79.662361,
+    43.615292,
+    -79.662361,
+    43.615292
+],
   "geometry": {"coordinates":[-79.662361,43.615292],"type":"Point"}
 }

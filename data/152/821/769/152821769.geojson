@@ -2,13 +2,14 @@
   "id": 152821769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.650284,44.345428,-79.650284,44.345428",
     "geom:latitude":44.345428,
     "geom:longitude":-79.650284,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"321 Esther Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864601,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19Isz4wAp15gmqyCVfcP9D_44.345428_-79.650284@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"762f9a5e22696481a2d378de31a40df4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85864601,
+            "region_id":85682057,
+            "venue_id":152821769
+        }
+    ],
     "wof:id":152821769,
-    "wof:lastmodified":1449046816,
+    "wof:lastmodified":1453934727,
     "wof:name":"Archie's Property Maintenance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864601,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.650284,44.345428,-79.650284,44.345428],
+  "bbox": [
+    -79.650284,
+    44.345428,
+    -79.650284,
+    44.345428
+],
   "geometry": {"coordinates":[-79.650284,44.345428],"type":"Point"}
 }

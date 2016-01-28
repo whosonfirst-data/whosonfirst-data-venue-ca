@@ -2,13 +2,14 @@
   "id": 152727611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.244568,43.203285,-79.244568,43.203285",
     "geom:latitude":43.203285,
     "geom:longitude":-79.244568,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875041,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"24e8788675868cbb72bb3c03b5aa69d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875041,
+            "region_id":85682057,
+            "venue_id":152727611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875041,
             "region_id":85682057,
             "venue_id":152727611
         }
     ],
     "wof:id":152727611,
-    "wof:lastmodified":1449045005,
+    "wof:lastmodified":1453933367,
     "wof:name":"Yanover, Lawrence DDS",
     "wof:parent_id":85875041,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.244568,43.203285,-79.244568,43.203285],
+  "bbox": [
+    -79.244568,
+    43.203285,
+    -79.244568,
+    43.203285
+],
   "geometry": {"coordinates":[-79.244568,43.203285],"type":"Point"}
 }

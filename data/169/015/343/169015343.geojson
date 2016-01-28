@@ -2,13 +2,14 @@
   "id": 169015343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.456139,45.459763,-73.456139,45.459763",
     "geom:latitude":45.459763,
     "geom:longitude":-73.456139,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3140 Rue Massenet",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897509,
+        102191575,
         85633041,
-        85897509
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9500c7290fa3454ce2e261bacb68b52c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897509,
+            "region_id":136251273,
             "venue_id":169015343
         }
     ],
     "wof:id":169015343,
-    "wof:lastmodified":1449033442,
+    "wof:lastmodified":1453929548,
     "wof:name":"Velikoff Services Inc",
     "wof:parent_id":85897509,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.456139,45.459763,-73.456139,45.459763],
-  "geometry": {"coordinates":[-73.456139,45.459763],"type":"Point"}
+  "bbox": [
+    -73.456139,
+    45.459763,
+    -73.456139,
+    45.459763
+],
+  "geometry": {"coordinates":[-73.45613899999999,45.459763],"type":"Point"}
 }

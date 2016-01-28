@@ -2,13 +2,14 @@
   "id": 185634635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.690659,43.736263,-79.690659,43.736263",
     "geom:latitude":43.736263,
     "geom:longitude":-79.690659,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4 Indell Lane",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895229,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"2ede6b47a376b39a5be86f3c02443138",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":185634635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":185634635
         }
     ],
     "wof:id":185634635,
-    "wof:lastmodified":1449007388,
+    "wof:lastmodified":1453927296,
     "wof:name":"Delta Coatings Canada",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "paint"
     ]
 },
-  "bbox": [-79.690659,43.736263,-79.690659,43.736263],
+  "bbox": [
+    -79.690659,
+    43.736263,
+    -79.690659,
+    43.736263
+],
   "geometry": {"coordinates":[-79.690659,43.736263],"type":"Point"}
 }

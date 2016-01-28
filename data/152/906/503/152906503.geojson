@@ -2,13 +2,14 @@
   "id": 152906503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.674973,44.332626,-79.674973,44.332626",
     "geom:latitude":44.332626,
     "geom:longitude":-79.674973,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"181 Saunders Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "maker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875279,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eaknppNhy4m1VtWXDYQyP_44.332626_-79.674973@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"346cc8372dc117c6f790b9febac61c32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875279,
+            "region_id":85682057,
+            "venue_id":152906503
+        }
+    ],
     "wof:id":152906503,
-    "wof:lastmodified":1449046067,
+    "wof:lastmodified":1453934169,
     "wof:name":"Beta Tech Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.674973,44.332626,-79.674973,44.332626],
-  "geometry": {"coordinates":[-79.674973,44.332626],"type":"Point"}
+  "bbox": [
+    -79.674973,
+    44.332626,
+    -79.674973,
+    44.332626
+],
+  "geometry": {"coordinates":[-79.67497299999999,44.332626],"type":"Point"}
 }

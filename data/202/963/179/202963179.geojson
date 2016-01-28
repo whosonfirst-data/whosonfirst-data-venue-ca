@@ -2,13 +2,14 @@
   "id": 202963179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.32354,43.841938,-79.32354,43.841938",
     "geom:latitude":43.841938,
     "geom:longitude":-79.32354,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"220 Royal Crest Crt",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895023,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"419d22f8202fe0f2714991b0f46e50b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":202963179
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":202963179
         }
     ],
     "wof:id":202963179,
-    "wof:lastmodified":1449060360,
+    "wof:lastmodified":1453937027,
     "wof:name":"Interface Exhibits Inc",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "producer"
     ]
 },
-  "bbox": [-79.32354,43.841938,-79.32354,43.841938],
-  "geometry": {"coordinates":[-79.32354,43.841938],"type":"Point"}
+  "bbox": [
+    -79.32354,
+    43.841938,
+    -79.32354,
+    43.841938
+],
+  "geometry": {"coordinates":[-79.32353999999999,43.841938],"type":"Point"}
 }

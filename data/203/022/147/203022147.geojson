@@ -2,13 +2,14 @@
   "id": 203022147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.67688,44.410202,-79.67688,44.410202",
     "geom:latitude":44.410202,
     "geom:longitude":-79.67688,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -29,7 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875263,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -40,18 +44,18 @@
     "wof:geomhash":"d2ef55656ec58de8374ad162fa0d4e4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875263,
             "region_id":85682057,
             "venue_id":203022147
         }
     ],
     "wof:id":203022147,
-    "wof:lastmodified":1449025550,
+    "wof:lastmodified":1453927524,
     "wof:name":"Barrie Hearing Aid Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +66,11 @@
         "impaired"
     ]
 },
-  "bbox": [-79.67688,44.410202,-79.67688,44.410202],
+  "bbox": [
+    -79.67688,
+    44.410202,
+    -79.67688,
+    44.410202
+],
   "geometry": {"coordinates":[-79.67688,44.410202],"type":"Point"}
 }

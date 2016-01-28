@@ -2,13 +2,14 @@
   "id": 169248727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.676971,45.488888,-73.676971,45.488888",
     "geom:latitude":45.488888,
     "geom:longitude":-73.676971,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5750 Av Andover # A",
     "sg:city":"Mont-Royal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"995d7cd6fd636ba382c6ec9637613d8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169248727
         }
     ],
     "wof:id":169248727,
-    "wof:lastmodified":1449034503,
+    "wof:lastmodified":1453930690,
     "wof:name":"Productions Hemisphere Inc",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.676971,45.488888,-73.676971,45.488888],
-  "geometry": {"coordinates":[-73.676971,45.488888],"type":"Point"}
+  "bbox": [
+    -73.676971,
+    45.488888,
+    -73.676971,
+    45.488888
+],
+  "geometry": {"coordinates":[-73.67697099999999,45.488888],"type":"Point"}
 }

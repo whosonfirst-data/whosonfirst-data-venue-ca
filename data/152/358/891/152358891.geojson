@@ -2,13 +2,14 @@
   "id": 152358891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.624809,43.840214,-79.624809,43.840214",
     "geom:latitude":43.840214,
     "geom:longitude":-79.624809,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Kleinburg",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895459,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ec2ad1ba6b5f17f27ddd38686d40a745",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895459,
+            "region_id":85682057,
+            "venue_id":152358891
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895459,
             "region_id":85682057,
             "venue_id":152358891
         }
     ],
     "wof:id":152358891,
-    "wof:lastmodified":1449046257,
+    "wof:lastmodified":1453934311,
     "wof:name":"Bcf Consulting Inc",
     "wof:parent_id":85895459,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.624809,43.840214,-79.624809,43.840214],
+  "bbox": [
+    -79.624809,
+    43.840214,
+    -79.624809,
+    43.840214
+],
   "geometry": {"coordinates":[-79.624809,43.840214],"type":"Point"}
 }

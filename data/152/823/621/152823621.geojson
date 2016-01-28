@@ -2,13 +2,14 @@
   "id": 152823621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.844208,43.877945,-78.844208,43.877945",
     "geom:latitude":43.877945,
     "geom:longitude":-78.844208,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"838 Ritson Rd S",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864469,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"16d4b5cd1e6dda782241dd20e3778e6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85864469,
+            "region_id":85682057,
+            "venue_id":152823621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85864469,
             "region_id":85682057,
             "venue_id":152823621
         }
     ],
     "wof:id":152823621,
-    "wof:lastmodified":1449048869,
+    "wof:lastmodified":1453936308,
     "wof:name":"C K Collision Ctr Inc",
     "wof:parent_id":85864469,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.844208,43.877945,-78.844208,43.877945],
-  "geometry": {"coordinates":[-78.844208,43.877945],"type":"Point"}
+  "bbox": [
+    -78.844208,
+    43.877945,
+    -78.844208,
+    43.877945
+],
+  "geometry": {"coordinates":[-78.84420799999999,43.877945],"type":"Point"}
 }

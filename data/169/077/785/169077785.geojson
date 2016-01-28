@@ -2,13 +2,14 @@
   "id": 169077785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.739853,45.571068,-73.739853,45.571068",
     "geom:latitude":45.571068,
     "geom:longitude":-73.739853,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2200 Boul Le Corbusier",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897571,
+        102191575,
         85633041,
-        85897571
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"2afbe9e56194387c241b7b2423d4f371",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897571,
+            "region_id":136251273,
             "venue_id":169077785
         }
     ],
     "wof:id":169077785,
-    "wof:lastmodified":1449033219,
+    "wof:lastmodified":1453929312,
     "wof:name":"Maison Sony",
     "wof:parent_id":85897571,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.739853,45.571068,-73.739853,45.571068],
+  "bbox": [
+    -73.739853,
+    45.571068,
+    -73.739853,
+    45.571068
+],
   "geometry": {"coordinates":[-73.739853,45.571068],"type":"Point"}
 }

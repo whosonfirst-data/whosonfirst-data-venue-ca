@@ -2,13 +2,14 @@
   "id": 169500131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.165794,42.980293,-81.165794,42.980293",
     "geom:latitude":42.980293,
     "geom:longitude":-81.165794,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1728 Gore Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5W 5L5",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874925,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35l2Rjnt7Q2P6XjVLKQtOb_42.980293_-81.165794@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e3251f69b0ef8c1121861538c7e691dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874925,
+            "region_id":85682057,
+            "venue_id":169500131
+        }
+    ],
     "wof:id":169500131,
-    "wof:lastmodified":1449033511,
+    "wof:lastmodified":1453929616,
     "wof:name":"Van Luyk Floral Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874925,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.165794,42.980293,-81.165794,42.980293],
-  "geometry": {"coordinates":[-81.165794,42.980293],"type":"Point"}
+  "bbox": [
+    -81.165794,
+    42.980293,
+    -81.165794,
+    42.980293
+],
+  "geometry": {"coordinates":[-81.16579400000001,42.980293],"type":"Point"}
 }

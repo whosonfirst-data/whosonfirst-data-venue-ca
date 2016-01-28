@@ -2,13 +2,14 @@
   "id": 152760875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.424583,43.816982,-79.424583,43.816982",
     "geom:latitude":43.816982,
     "geom:longitude":-79.424583,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Thornhill",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895567,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"4e05f3726243fbf823f7566f7b1ce851",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895567,
+            "region_id":85682057,
+            "venue_id":152760875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895567,
             "region_id":85682057,
             "venue_id":152760875
         }
     ],
     "wof:id":152760875,
-    "wof:lastmodified":1449048741,
+    "wof:lastmodified":1453936211,
     "wof:name":"Hairfree Electrolysis",
     "wof:parent_id":85895567,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.424583,43.816982,-79.424583,43.816982],
+  "bbox": [
+    -79.424583,
+    43.816982,
+    -79.424583,
+    43.816982
+],
   "geometry": {"coordinates":[-79.424583,43.816982],"type":"Point"}
 }

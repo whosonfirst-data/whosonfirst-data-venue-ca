@@ -2,13 +2,14 @@
   "id": 153021619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.053925,49.213299,-123.053925,49.213299",
     "geom:latitude":49.213299,
     "geom:longitude":-123.053925,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7800 Vivian Dr",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -30,9 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865083,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -43,6 +45,7 @@
     "wof:geomhash":"364ab6d1ba4aac94cd45edaaead22366",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865083,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":153021619,
-    "wof:lastmodified":1449040658,
+    "wof:lastmodified":1453932583,
     "wof:name":"Fraserview Golf Course",
     "wof:parent_id":85865083,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.053925,49.213299,-123.053925,49.213299],
-  "geometry": {"coordinates":[-123.053925,49.213299],"type":"Point"}
+  "bbox": [
+    -123.053925,
+    49.213299,
+    -123.053925,
+    49.213299
+],
+  "geometry": {"coordinates":[-123.05392500000001,49.213299],"type":"Point"}
 }

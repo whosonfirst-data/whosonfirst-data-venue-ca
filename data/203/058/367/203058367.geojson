@@ -2,13 +2,14 @@
   "id": 203058367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.679977,45.559113,-73.679977,45.559113",
     "geom:latitude":45.559113,
     "geom:longitude":-73.679977,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"30 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875065,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"621eb1f5b2549fc126bd65e0530798e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875065,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203058367
         }
     ],
     "wof:id":203058367,
-    "wof:lastmodified":1449025215,
+    "wof:lastmodified":1453927461,
     "wof:name":"Blouin, Richard CA",
     "wof:parent_id":85875065,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "accountant"
     ]
 },
-  "bbox": [-73.679977,45.559113,-73.679977,45.559113],
-  "geometry": {"coordinates":[-73.679977,45.559113],"type":"Point"}
+  "bbox": [
+    -73.679977,
+    45.559113,
+    -73.679977,
+    45.559113
+],
+  "geometry": {"coordinates":[-73.67997699999999,45.559113],"type":"Point"}
 }

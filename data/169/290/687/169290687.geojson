@@ -2,13 +2,14 @@
   "id": 169290687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.288757,46.806721,-71.288757,46.806721",
     "geom:latitude":46.806721,
     "geom:longitude":-71.288757,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"2bcfbf0d2f89d0fba369516db9931fd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169290687
         }
     ],
     "wof:id":169290687,
-    "wof:lastmodified":1449034091,
+    "wof:lastmodified":1453930277,
     "wof:name":"Delisle Despaux & Assoc Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.288757,46.806721,-71.288757,46.806721],
+  "bbox": [
+    -71.288757,
+    46.806721,
+    -71.288757,
+    46.806721
+],
   "geometry": {"coordinates":[-71.288757,46.806721],"type":"Point"}
 }

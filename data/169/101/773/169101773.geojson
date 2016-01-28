@@ -2,13 +2,14 @@
   "id": 169101773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.487511,45.500797,-73.487511,45.500797",
     "geom:latitude":45.500797,
     "geom:longitude":-73.487511,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3279 Boul Taschereau",
     "sg:city":"Greenfield Park",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897549,
+        102191575,
         85633041,
-        85897549
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d869b58461ade06e4b8b636ce0ee950c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897549,
+            "region_id":136251273,
             "venue_id":169101773
         }
     ],
     "wof:id":169101773,
-    "wof:lastmodified":1449034420,
+    "wof:lastmodified":1453930610,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85897549,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.487511,45.500797,-73.487511,45.500797],
+  "bbox": [
+    -73.487511,
+    45.500797,
+    -73.487511,
+    45.500797
+],
   "geometry": {"coordinates":[-73.487511,45.500797],"type":"Point"}
 }

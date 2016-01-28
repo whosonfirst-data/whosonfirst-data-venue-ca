@@ -2,13 +2,14 @@
   "id": 219449461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.627289,45.486092,-73.627289,45.486092",
     "geom:latitude":45.486092,
     "geom:longitude":-73.627289,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5047 Ch Queen-Mary # B",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897527,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"4cfff6ddac3def8d7415bba29cd9a4bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897527,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219449461
         }
     ],
     "wof:id":219449461,
-    "wof:lastmodified":1449073648,
+    "wof:lastmodified":1453937980,
     "wof:name":"Clinique Dentaire Marie",
     "wof:parent_id":85897527,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.627289,45.486092,-73.627289,45.486092],
+  "bbox": [
+    -73.627289,
+    45.486092,
+    -73.627289,
+    45.486092
+],
   "geometry": {"coordinates":[-73.627289,45.486092],"type":"Point"}
 }

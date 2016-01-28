@@ -2,13 +2,14 @@
   "id": 169441969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.685059,44.328403,-79.685059,44.328403",
     "geom:latitude":44.328403,
     "geom:longitude":-79.685059,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"41 Commerce Park Dr #A",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -30,23 +31,43 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xYadGnEyVLdPnqwfk2z8a_44.328403_-79.685059@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0df45539a54aecf79172a1e44fec5c40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":169441969
+        }
+    ],
     "wof:id":169441969,
-    "wof:lastmodified":1449032932,
+    "wof:lastmodified":1453929047,
     "wof:name":"C Yanch Heating & Air Cond Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.685059,44.328403,-79.685059,44.328403],
+  "bbox": [
+    -79.685059,
+    44.328403,
+    -79.685059,
+    44.328403
+],
   "geometry": {"coordinates":[-79.685059,44.328403],"type":"Point"}
 }

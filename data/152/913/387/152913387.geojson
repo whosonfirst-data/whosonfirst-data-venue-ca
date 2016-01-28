@@ -2,13 +2,14 @@
   "id": 152913387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.069061,43.835526,-79.069061,43.835526",
     "geom:latitude":43.835526,
     "geom:longitude":-79.069061,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1050 Brock Rd #11",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895087,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,24 @@
     "wof:geomhash":"4613a40d95bb734ed3c42aca81d9e615",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895087,
+            "region_id":85682057,
+            "venue_id":152913387
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895087,
             "region_id":85682057,
             "venue_id":152913387
         }
     ],
     "wof:id":152913387,
-    "wof:lastmodified":1449046093,
+    "wof:lastmodified":1453934190,
     "wof:name":"Curves For Women",
     "wof:parent_id":85895087,
     "wof:placetype":"venue",
@@ -61,6 +74,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.069061,43.835526,-79.069061,43.835526],
+  "bbox": [
+    -79.069061,
+    43.835526,
+    -79.069061,
+    43.835526
+],
   "geometry": {"coordinates":[-79.069061,43.835526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169355455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.21891,42.980457,-81.21891,42.980457",
     "geom:latitude":42.980457,
     "geom:longitude":-81.21891,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"445 Hamilton Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QVXyGfxwQ0dteUKvmG1vE_42.980457_-81.218910@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"00978db0c8e24e3a4686f2bd1700a83f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":169355455
+        }
+    ],
     "wof:id":169355455,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1453929734,
     "wof:name":"Krakofsky, S L MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.21891,42.980457,-81.21891,42.980457],
-  "geometry": {"coordinates":[-81.21891,42.980457],"type":"Point"}
+  "bbox": [
+    -81.21891,
+    42.980457,
+    -81.21891,
+    42.980457
+],
+  "geometry": {"coordinates":[-81.21890999999999,42.980457],"type":"Point"}
 }

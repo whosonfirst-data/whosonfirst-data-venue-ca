@@ -2,13 +2,14 @@
   "id": 169331799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.683136,44.395603,-79.683136,44.395603",
     "geom:latitude":44.395603,
     "geom:longitude":-79.683136,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"45 Penetang St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4M 1V5",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ozwreMLM1mljeJbAwJEF6_44.395603_-79.683136@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"639b49875db5995ca2a904b31bd7b10f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":169331799
+        }
+    ],
     "wof:id":169331799,
-    "wof:lastmodified":1449034693,
+    "wof:lastmodified":1453930898,
     "wof:name":"North Star Real Estate Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.683136,44.395603,-79.683136,44.395603],
+  "bbox": [
+    -79.683136,
+    44.395603,
+    -79.683136,
+    44.395603
+],
   "geometry": {"coordinates":[-79.683136,44.395603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202794231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.690147,44.333683,-79.690147,44.333683",
     "geom:latitude":44.333683,
     "geom:longitude":-79.690147,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"450 Bryne Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -24,7 +25,10 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875265,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -35,23 +39,28 @@
     "wof:geomhash":"f127ce334b160aaf0016f21591425145",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
             "region_id":85682057,
             "venue_id":202794231
         }
     ],
     "wof:id":202794231,
-    "wof:lastmodified":1449061347,
+    "wof:lastmodified":1453937238,
     "wof:name":"Wendy's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.690147,44.333683,-79.690147,44.333683],
+  "bbox": [
+    -79.690147,
+    44.333683,
+    -79.690147,
+    44.333683
+],
   "geometry": {"coordinates":[-79.690147,44.333683],"type":"Point"}
 }

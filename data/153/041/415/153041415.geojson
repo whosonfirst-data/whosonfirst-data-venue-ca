@@ -2,13 +2,14 @@
   "id": 153041415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.816193,45.503326,-73.816193,45.503326",
     "geom:latitude":45.503326,
     "geom:longitude":-73.816193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4759 Boul Des Sources",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b8747493d91c2061bd64c73dfdcaa578",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":153041415
         }
     ],
     "wof:id":153041415,
-    "wof:lastmodified":1449040504,
+    "wof:lastmodified":1453932450,
     "wof:name":"Marche Victoria Oriental Inc",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.816193,45.503326,-73.816193,45.503326],
+  "bbox": [
+    -73.816193,
+    45.503326,
+    -73.816193,
+    45.503326
+],
   "geometry": {"coordinates":[-73.816193,45.503326],"type":"Point"}
 }

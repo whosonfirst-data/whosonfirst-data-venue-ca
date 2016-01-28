@@ -2,13 +2,14 @@
   "id": 152217745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.272728,42.989609,-81.272728,42.989609",
     "geom:latitude":42.989609,
     "geom:longitude":-81.272728,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"224 Oxford St W",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "tailor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874923,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08wTbkPAIGOfW148PbkV06_42.989609_-81.272728@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"78d4f76506ec9c79e342d13eeef80c17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874923,
+            "region_id":85682057,
+            "venue_id":152217745
+        }
+    ],
     "wof:id":152217745,
-    "wof:lastmodified":1449048642,
+    "wof:lastmodified":1453936122,
     "wof:name":"Franco Paglione Exclusive",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874923,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.272728,42.989609,-81.272728,42.989609],
+  "bbox": [
+    -81.272728,
+    42.989609,
+    -81.272728,
+    42.989609
+],
   "geometry": {"coordinates":[-81.272728,42.989609],"type":"Point"}
 }

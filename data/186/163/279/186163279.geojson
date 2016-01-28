@@ -2,13 +2,14 @@
   "id": 186163279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.403366,42.978771,-82.403366,42.978771",
     "geom:latitude":42.978771,
     "geom:longitude":-82.403366,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"440 Mcgregor Side Rd",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875555,
+        102191575,
         85633041,
-        85682057
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"fffb0dd462758adddb3c75c6bdfbdc53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875555,
+            "region_id":85682057,
+            "venue_id":186163279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875555,
             "region_id":85682057,
             "venue_id":186163279
         }
     ],
     "wof:id":186163279,
-    "wof:lastmodified":1449052975,
+    "wof:lastmodified":1453936936,
     "wof:name":"Lambton Woodworks",
     "wof:parent_id":85875555,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "skid"
     ]
 },
-  "bbox": [-82.403366,42.978771,-82.403366,42.978771],
-  "geometry": {"coordinates":[-82.403366,42.978771],"type":"Point"}
+  "bbox": [
+    -82.403366,
+    42.978771,
+    -82.403366,
+    42.978771
+],
+  "geometry": {"coordinates":[-82.40336600000001,42.978771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153062727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.058395,48.437664,-71.058395,48.437664",
     "geom:latitude":48.437664,
     "geom:longitude":-71.058395,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"150 Rue Sainte-Claire",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9e99dc6c8b91b23e904b0a97bfa252af",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":153062727
         }
     ],
     "wof:id":153062727,
-    "wof:lastmodified":1449040797,
+    "wof:lastmodified":1453932705,
     "wof:name":"Bellechasse Demenagement Inc",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.058395,48.437664,-71.058395,48.437664],
+  "bbox": [
+    -71.058395,
+    48.437664,
+    -71.058395,
+    48.437664
+],
   "geometry": {"coordinates":[-71.058395,48.437664],"type":"Point"}
 }

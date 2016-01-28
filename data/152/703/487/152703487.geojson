@@ -2,13 +2,14 @@
   "id": 152703487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.247292,43.043575,-81.247292,43.043575",
     "geom:latitude":43.043575,
     "geom:longitude":-81.247292,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"58 Balcarres Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5X 2H4",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874941,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yNg3KziPB5Pgccm2m1yiM_43.043575_-81.247292@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4e360d7be171cd2e98f3c19c0aa6e466",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874941,
+            "region_id":85682057,
+            "venue_id":152703487
+        }
+    ],
     "wof:id":152703487,
-    "wof:lastmodified":1449045708,
+    "wof:lastmodified":1453933899,
     "wof:name":"Lew Lint Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.247292,43.043575,-81.247292,43.043575],
+  "bbox": [
+    -81.247292,
+    43.043575,
+    -81.247292,
+    43.043575
+],
   "geometry": {"coordinates":[-81.247292,43.043575],"type":"Point"}
 }

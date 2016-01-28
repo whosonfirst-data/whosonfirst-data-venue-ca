@@ -2,13 +2,14 @@
   "id": 169158965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.518379,45.706394,-73.518379,45.706394",
     "geom:latitude":45.706394,
     "geom:longitude":-73.518379,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4347 Ch Saint-Charles",
     "sg:city":"Lachenaie",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"9618b1484d59f7b103a88118085b5b87",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169158965
         }
     ],
     "wof:id":169158965,
-    "wof:lastmodified":1449034892,
+    "wof:lastmodified":1453931114,
     "wof:name":"Bourgeois Burger",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.518379,45.706394,-73.518379,45.706394],
+  "bbox": [
+    -73.518379,
+    45.706394,
+    -73.518379,
+    45.706394
+],
   "geometry": {"coordinates":[-73.518379,45.706394],"type":"Point"}
 }

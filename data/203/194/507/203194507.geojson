@@ -2,13 +2,14 @@
   "id": 203194507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.569946,45.579956,-73.569946,45.579956",
     "geom:latitude":45.579956,
     "geom:longitude":-73.569946,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5700 Rue Saint-Zotique E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874371,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"b07751f74bc7b43fd79d3ee77de0132c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203194507
         }
     ],
     "wof:id":203194507,
-    "wof:lastmodified":1449026581,
+    "wof:lastmodified":1453927707,
     "wof:name":"Centre Pour Le Developpement",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "psychologist"
     ]
 },
-  "bbox": [-73.569946,45.579956,-73.569946,45.579956],
+  "bbox": [
+    -73.569946,
+    45.579956,
+    -73.569946,
+    45.579956
+],
   "geometry": {"coordinates":[-73.569946,45.579956],"type":"Point"}
 }

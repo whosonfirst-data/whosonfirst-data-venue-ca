@@ -2,13 +2,14 @@
   "id": 169541351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.647255,45.699791,-73.647255,45.699791",
     "geom:latitude":45.699791,
     "geom:longitude":-73.647255,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"978 Boul Moody",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85895715,
+        102191575,
         85633041,
-        85895715
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"7cd7f37d7f89d298d5647585bf3a2062",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85895715,
+            "region_id":136251273,
             "venue_id":169541351
         }
     ],
     "wof:id":169541351,
-    "wof:lastmodified":1449033043,
+    "wof:lastmodified":1453929168,
     "wof:name":"Animalerie Bouffe Tout Inc",
     "wof:parent_id":85895715,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.647255,45.699791,-73.647255,45.699791],
+  "bbox": [
+    -73.647255,
+    45.699791,
+    -73.647255,
+    45.699791
+],
   "geometry": {"coordinates":[-73.647255,45.699791],"type":"Point"}
 }

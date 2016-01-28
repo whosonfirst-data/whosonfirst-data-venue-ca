@@ -2,13 +2,14 @@
   "id": 186335267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.308914,43.010845,-81.308914,43.010845",
     "geom:latitude":43.010845,
     "geom:longitude":-81.308914,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Yardley Wood Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -29,7 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85874935,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -40,18 +44,18 @@
     "wof:geomhash":"033dd2ddb2f1223a2b3c55b5d6121640",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
             "region_id":85682057,
             "venue_id":186335267
         }
     ],
     "wof:id":186335267,
-    "wof:lastmodified":1449052139,
+    "wof:lastmodified":1453936787,
     "wof:name":"Canada Mac Ctr Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-81.308914,43.010845,-81.308914,43.010845],
+  "bbox": [
+    -81.308914,
+    43.010845,
+    -81.308914,
+    43.010845
+],
   "geometry": {"coordinates":[-81.308914,43.010845],"type":"Point"}
 }

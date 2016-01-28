@@ -2,13 +2,14 @@
   "id": 152648479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.422455,43.841148,-79.422455,43.841148",
     "geom:latitude":43.841148,
     "geom:longitude":-79.422455,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"47 Maple Rd",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895347,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"f7d0de8377ff75ec27b04ec5d35b7c1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895347,
+            "region_id":85682057,
+            "venue_id":152648479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895347,
             "region_id":85682057,
             "venue_id":152648479
         }
     ],
     "wof:id":152648479,
-    "wof:lastmodified":1449045560,
+    "wof:lastmodified":1453933793,
     "wof:name":"Phaeton Rent A Car",
     "wof:parent_id":85895347,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.422455,43.841148,-79.422455,43.841148],
+  "bbox": [
+    -79.422455,
+    43.841148,
+    -79.422455,
+    43.841148
+],
   "geometry": {"coordinates":[-79.422455,43.841148],"type":"Point"}
 }

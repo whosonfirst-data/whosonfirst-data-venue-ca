@@ -2,13 +2,14 @@
   "id": 168880339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.670212,43.443676,-79.670212,43.443676",
     "geom:latitude":43.443676,
     "geom:longitude":-79.670212,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"114 Lakeshore Rd E",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895269,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"9254ecc6b6c7a3a15183528d2c264f97",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895269,
+            "region_id":85682057,
+            "venue_id":168880339
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895269,
             "region_id":85682057,
             "venue_id":168880339
         }
     ],
     "wof:id":168880339,
-    "wof:lastmodified":1449028594,
+    "wof:lastmodified":1453928688,
     "wof:name":"Smileworx",
     "wof:parent_id":85895269,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.670212,43.443676,-79.670212,43.443676],
-  "geometry": {"coordinates":[-79.670212,43.443676],"type":"Point"}
+  "bbox": [
+    -79.670212,
+    43.443676,
+    -79.670212,
+    43.443676
+],
+  "geometry": {"coordinates":[-79.67021200000001,43.443676],"type":"Point"}
 }

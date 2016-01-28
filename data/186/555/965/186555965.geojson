@@ -2,13 +2,14 @@
   "id": 186555965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.296181,45.336491,-73.296181,45.336491",
     "geom:latitude":45.336491,
     "geom:longitude":-73.296181,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1045 Boul Alexis-Lebert",
     "sg:city":"Saint-Luc",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785071,
+        102191575,
         85633041,
-        101738721
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"dc80ab32dd74db6ed147203af810a255",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186555965
         }
     ],
     "wof:id":186555965,
-    "wof:lastmodified":1449052634,
+    "wof:lastmodified":1453936879,
     "wof:name":"Bro Design",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "painter"
     ]
 },
-  "bbox": [-73.296181,45.336491,-73.296181,45.336491],
+  "bbox": [
+    -73.296181,
+    45.336491,
+    -73.296181,
+    45.336491
+],
   "geometry": {"coordinates":[-73.296181,45.336491],"type":"Point"}
 }

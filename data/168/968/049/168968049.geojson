@@ -2,13 +2,14 @@
   "id": 168968049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.125343,45.25655,-74.125343,45.25655",
     "geom:latitude":45.25655,
     "geom:longitude":-74.125343,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9 Rue Champlain",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"6205e6f750f181ff47af5797acd09786",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":168968049
         }
     ],
     "wof:id":168968049,
-    "wof:lastmodified":1449027817,
+    "wof:lastmodified":1453927832,
     "wof:name":"Audette & Audette",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.125343,45.25655,-74.125343,45.25655],
+  "bbox": [
+    -74.125343,
+    45.25655,
+    -74.125343,
+    45.25655
+],
   "geometry": {"coordinates":[-74.125343,45.25655],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169174759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616165,45.55098,-73.616165,45.55098",
     "geom:latitude":45.55098,
     "geom:longitude":-73.616165,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7820 Rue Marquette",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866495,
+        102191575,
         85633041,
-        85866495
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c2dca17a1381c3722ba56513462dad7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866495,
+            "region_id":136251273,
             "venue_id":169174759
         }
     ],
     "wof:id":169174759,
-    "wof:lastmodified":1449033137,
+    "wof:lastmodified":1453929259,
     "wof:name":"Clinique Dentaire Jeanne Mance",
     "wof:parent_id":85866495,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.616165,45.55098,-73.616165,45.55098],
+  "bbox": [
+    -73.616165,
+    45.55098,
+    -73.616165,
+    45.55098
+],
   "geometry": {"coordinates":[-73.616165,45.55098],"type":"Point"}
 }

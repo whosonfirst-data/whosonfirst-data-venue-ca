@@ -2,13 +2,14 @@
   "id": 169014027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.267426,46.888378,-71.267426,46.888378",
     "geom:latitude":46.888378,
     "geom:longitude":-71.267426,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1431 Rue Pompadour",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"29731da6fd2622cb909cd369af84bf04",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169014027
         }
     ],
     "wof:id":169014027,
-    "wof:lastmodified":1449034305,
+    "wof:lastmodified":1453930476,
     "wof:name":"Centre DE Beaute C Giguere Enr",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.267426,46.888378,-71.267426,46.888378],
+  "bbox": [
+    -71.267426,
+    46.888378,
+    -71.267426,
+    46.888378
+],
   "geometry": {"coordinates":[-71.267426,46.888378],"type":"Point"}
 }

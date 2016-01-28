@@ -2,13 +2,14 @@
   "id": 169510945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.559608,45.518864,-73.559608,45.518864",
     "geom:latitude":45.518864,
     "geom:longitude":-73.559608,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1637 Rue Amherst #C",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"9c6c2b76b6945a136e391127b5461625",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":169510945
         }
     ],
     "wof:id":169510945,
-    "wof:lastmodified":1449034669,
+    "wof:lastmodified":1453930864,
     "wof:name":"Roy D'Carreau",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.559608,45.518864,-73.559608,45.518864],
+  "bbox": [
+    -73.559608,
+    45.518864,
+    -73.559608,
+    45.518864
+],
   "geometry": {"coordinates":[-73.559608,45.518864],"type":"Point"}
 }

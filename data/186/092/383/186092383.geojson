@@ -2,13 +2,14 @@
   "id": 186092383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.629021,45.615543,-73.629021,45.615543",
     "geom:latitude":45.615543,
     "geom:longitude":-73.629021,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12421 Boul Lacordaire",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874365,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"424457db4c08f2058541cc9e5d1f18fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186092383
         }
     ],
     "wof:id":186092383,
-    "wof:lastmodified":1449052507,
+    "wof:lastmodified":1453936858,
     "wof:name":"Duro Auto Glass",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "plate"
     ]
 },
-  "bbox": [-73.629021,45.615543,-73.629021,45.615543],
-  "geometry": {"coordinates":[-73.629021,45.615543],"type":"Point"}
+  "bbox": [
+    -73.629021,
+    45.615543,
+    -73.629021,
+    45.615543
+],
+  "geometry": {"coordinates":[-73.62902099999999,45.615543],"type":"Point"}
 }

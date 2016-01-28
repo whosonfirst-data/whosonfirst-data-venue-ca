@@ -2,13 +2,14 @@
   "id": 185884943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.543777,46.343006,-72.543777,46.343006",
     "geom:latitude":46.343006,
     "geom:longitude":-72.543777,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1401 Rue Royale",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874119,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"fc8e7010cb920401a76878aa660296c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185884943
         }
     ],
     "wof:id":185884943,
-    "wof:lastmodified":1449007915,
+    "wof:lastmodified":1453927356,
     "wof:name":"Trois-Rivieres Verificateur",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "village"
     ]
 },
-  "bbox": [-72.543777,46.343006,-72.543777,46.343006],
-  "geometry": {"coordinates":[-72.543777,46.343006],"type":"Point"}
+  "bbox": [
+    -72.543777,
+    46.343006,
+    -72.543777,
+    46.343006
+],
+  "geometry": {"coordinates":[-72.54377700000001,46.343006],"type":"Point"}
 }

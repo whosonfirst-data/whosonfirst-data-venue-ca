@@ -2,13 +2,14 @@
   "id": 152979711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.58326,45.539238,-73.58326,45.539238",
     "geom:latitude":45.539238,
     "geom:longitude":-73.58326,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5450 Rue DE Bordeaux # 102",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874357,
+        102191575,
         85633041,
-        85874357
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bce2d461a8e3c33a995297acd16f9f55",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
+            "region_id":136251273,
             "venue_id":152979711
         }
     ],
     "wof:id":152979711,
-    "wof:lastmodified":1449047560,
+    "wof:lastmodified":1453935307,
     "wof:name":"Manufacture DE Matelas Selecti",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.58326,45.539238,-73.58326,45.539238],
+  "bbox": [
+    -73.58326,
+    45.539238,
+    -73.58326,
+    45.539238
+],
   "geometry": {"coordinates":[-73.58326,45.539238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152614285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.645767,45.558578,-73.645767,45.558578",
     "geom:latitude":45.558578,
     "geom:longitude":-73.645767,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1150 Rue DE Louvain O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874389,
+        102191575,
         85633041,
-        85874389
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c3a02e61198bfa3d55f677ba791f5c36",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874389,
+            "region_id":136251273,
             "venue_id":152614285
         }
     ],
     "wof:id":152614285,
-    "wof:lastmodified":1449049024,
+    "wof:lastmodified":1453936451,
     "wof:name":"Gestion Confitax",
     "wof:parent_id":85874389,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.645767,45.558578,-73.645767,45.558578],
-  "geometry": {"coordinates":[-73.645767,45.558578],"type":"Point"}
+  "bbox": [
+    -73.645767,
+    45.558578,
+    -73.645767,
+    45.558578
+],
+  "geometry": {"coordinates":[-73.64576700000001,45.558578],"type":"Point"}
 }

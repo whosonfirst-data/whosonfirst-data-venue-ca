@@ -2,13 +2,14 @@
   "id": 169495709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556526,45.529808,-73.556526,45.529808",
     "geom:latitude":45.529808,
     "geom:longitude":-73.556526,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2025 Rue Parthenais",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"be68e84097d86e60c95839a5ef2da9cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":169495709
         }
     ],
     "wof:id":169495709,
-    "wof:lastmodified":1449034125,
+    "wof:lastmodified":1453930314,
     "wof:name":"Theatre II VA Sans Dire",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.556526,45.529808,-73.556526,45.529808],
-  "geometry": {"coordinates":[-73.556526,45.529808],"type":"Point"}
+  "bbox": [
+    -73.556526,
+    45.529808,
+    -73.556526,
+    45.529808
+],
+  "geometry": {"coordinates":[-73.55652600000001,45.529808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169445923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.468452,45.758877,-73.468452,45.758877",
     "geom:latitude":45.758877,
     "geom:longitude":-73.468452,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"239 Boul J.-A.-Pare",
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"af53298141dd97436cfb4a0e542c77c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169445923
         }
     ],
     "wof:id":169445923,
-    "wof:lastmodified":1449033129,
+    "wof:lastmodified":1453929245,
     "wof:name":"Maison Des Jeunes-Le Gardeur",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.468452,45.758877,-73.468452,45.758877],
+  "bbox": [
+    -73.468452,
+    45.758877,
+    -73.468452,
+    45.758877
+],
   "geometry": {"coordinates":[-73.468452,45.758877],"type":"Point"}
 }

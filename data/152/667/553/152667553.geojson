@@ -2,13 +2,14 @@
   "id": 152667553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.253693,42.952328,-81.253693,42.952328",
     "geom:latitude":42.952328,
     "geom:longitude":-81.253693,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"70 Rossmore Crt",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874933,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WTfM8QEImZRoTMmkduD3W_42.952328_-81.253693@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"3c7d97b52a6a476a2e3a33c1ec1394f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874933,
+            "region_id":85682057,
+            "venue_id":152667553
+        }
+    ],
     "wof:id":152667553,
-    "wof:lastmodified":1449047318,
+    "wof:lastmodified":1453935109,
     "wof:name":"Faith Unitied Pentecostal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.253693,42.952328,-81.253693,42.952328],
+  "bbox": [
+    -81.253693,
+    42.952328,
+    -81.253693,
+    42.952328
+],
   "geometry": {"coordinates":[-81.253693,42.952328],"type":"Point"}
 }

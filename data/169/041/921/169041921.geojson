@@ -2,13 +2,14 @@
   "id": 169041921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.350563,46.795513,-71.350563,46.795513",
     "geom:latitude":46.795513,
     "geom:longitude":-71.350563,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6320 Boul Wilfrid-Hamel",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"916e8f5753aa10bdea373c67ee96d4f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169041921
         }
     ],
     "wof:id":169041921,
-    "wof:lastmodified":1449033883,
+    "wof:lastmodified":1453930046,
     "wof:name":"Bucco Dentaire",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.350563,46.795513,-71.350563,46.795513],
-  "geometry": {"coordinates":[-71.350563,46.795513],"type":"Point"}
+  "bbox": [
+    -71.350563,
+    46.795513,
+    -71.350563,
+    46.795513
+],
+  "geometry": {"coordinates":[-71.35056299999999,46.795513],"type":"Point"}
 }

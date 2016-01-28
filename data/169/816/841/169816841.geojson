@@ -2,13 +2,14 @@
   "id": 169816841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.589607,43.194069,-79.589607,43.194069",
     "geom:latitude":43.194069,
     "geom:longitude":-79.589607,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"319 Main St W",
     "sg:city":"Grimsby",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895027,
+        102191575,
         85633041,
-        85682057
+        101740727,
+        85682057,
+        101735899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"936e23750b13c0bb15f1e3ef7b1dcf36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85895027,
+            "region_id":85682057,
+            "venue_id":169816841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735899,
             "neighbourhood_id":85895027,
             "region_id":85682057,
             "venue_id":169816841
         }
     ],
     "wof:id":169816841,
-    "wof:lastmodified":1449034609,
+    "wof:lastmodified":1453930814,
     "wof:name":"Barnstorm Image Group Inc",
     "wof:parent_id":85895027,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.589607,43.194069,-79.589607,43.194069],
+  "bbox": [
+    -79.589607,
+    43.194069,
+    -79.589607,
+    43.194069
+],
   "geometry": {"coordinates":[-79.589607,43.194069],"type":"Point"}
 }

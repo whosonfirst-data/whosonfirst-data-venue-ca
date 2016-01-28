@@ -2,13 +2,14 @@
   "id": 152546483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.296776,43.824387,-79.296776,43.824387",
     "geom:latitude":43.824387,
     "geom:longitude":-79.296776,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4200 Midland Ave",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895663,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"20aa494af00a0a5fc06f4505fdbe05e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895663,
+            "region_id":85682057,
+            "venue_id":152546483
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895663,
             "region_id":85682057,
             "venue_id":152546483
         }
     ],
     "wof:id":152546483,
-    "wof:lastmodified":1449044280,
+    "wof:lastmodified":1453932812,
     "wof:name":"Asto Mobile Sandblasting",
     "wof:parent_id":85895663,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.296776,43.824387,-79.296776,43.824387],
-  "geometry": {"coordinates":[-79.296776,43.824387],"type":"Point"}
+  "bbox": [
+    -79.296776,
+    43.824387,
+    -79.296776,
+    43.824387
+],
+  "geometry": {"coordinates":[-79.29677599999999,43.824387],"type":"Point"}
 }

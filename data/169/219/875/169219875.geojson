@@ -2,13 +2,14 @@
   "id": 169219875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.727676,45.445801,-73.727676,45.445801",
     "geom:latitude":45.445801,
     "geom:longitude":-73.727676,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"200 Boul Bouchard",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"884764a6655f1e1b3df7f95b42dc017b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":169219875
         }
     ],
     "wof:id":169219875,
-    "wof:lastmodified":1449035828,
+    "wof:lastmodified":1453932117,
     "wof:name":"Tabagie Bell",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.727676,45.445801,-73.727676,45.445801],
+  "bbox": [
+    -73.727676,
+    45.445801,
+    -73.727676,
+    45.445801
+],
   "geometry": {"coordinates":[-73.727676,45.445801],"type":"Point"}
 }

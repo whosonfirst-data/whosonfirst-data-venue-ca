@@ -2,13 +2,14 @@
   "id": 152660161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.175308,49.264305,-123.175308,49.264305",
     "geom:latitude":49.264305,
     "geom:longitude":-123.175308,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3183 Broadway W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865011,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"69ba859f3f30fdf9963acb8e8bedb948",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865011,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":152660161,
-    "wof:lastmodified":1449048446,
+    "wof:lastmodified":1453935983,
     "wof:name":"Broadway Dry Cleaners",
     "wof:parent_id":85865011,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.175308,49.264305,-123.175308,49.264305],
+  "bbox": [
+    -123.175308,
+    49.264305,
+    -123.175308,
+    49.264305
+],
   "geometry": {"coordinates":[-123.175308,49.264305],"type":"Point"}
 }

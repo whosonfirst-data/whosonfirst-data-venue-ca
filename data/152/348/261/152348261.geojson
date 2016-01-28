@@ -2,13 +2,14 @@
   "id": 152348261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.559433,46.334835,-72.559433,46.334835",
     "geom:latitude":46.334835,
     "geom:longitude":-72.559433,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874115,
+        102191575,
         85633041,
-        85874115
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"df75ab498b67b79934ec342b1ac1ecfa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874115,
+            "region_id":136251273,
             "venue_id":152348261
         }
     ],
     "wof:id":152348261,
-    "wof:lastmodified":1449044491,
+    "wof:lastmodified":1453932971,
     "wof:name":"Martel Express Ltee",
     "wof:parent_id":85874115,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.559433,46.334835,-72.559433,46.334835],
+  "bbox": [
+    -72.559433,
+    46.334835,
+    -72.559433,
+    46.334835
+],
   "geometry": {"coordinates":[-72.559433,46.334835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168882359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.627792,43.716553,-79.627792,43.716553",
     "geom:latitude":43.716553,
     "geom:longitude":-79.627792,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6990 Rexwood Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894971,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"350d833580148c25691e60cbfab43d92",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894971,
+            "region_id":85682057,
+            "venue_id":168882359
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894971,
             "region_id":85682057,
             "venue_id":168882359
         }
     ],
     "wof:id":168882359,
-    "wof:lastmodified":1449027909,
+    "wof:lastmodified":1453927938,
     "wof:name":"Shell Canada Products",
     "wof:parent_id":85894971,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.627792,43.716553,-79.627792,43.716553],
+  "bbox": [
+    -79.627792,
+    43.716553,
+    -79.627792,
+    43.716553
+],
   "geometry": {"coordinates":[-79.627792,43.716553],"type":"Point"}
 }

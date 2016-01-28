@@ -2,13 +2,14 @@
   "id": 186267739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.147324,43.003525,-81.147324,43.003525",
     "geom:latitude":43.003525,
     "geom:longitude":-81.147324,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"565 Sovereign Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -30,7 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85864669,
+        102191575,
         85633041,
+        101735809,
         85682057
     ],
     "wof:breaches":[],
@@ -41,18 +45,18 @@
     "wof:geomhash":"acd135ad7c7e0211f89535b64282cc56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735809,
+            "neighbourhood_id":85864669,
             "region_id":85682057,
             "venue_id":186267739
         }
     ],
     "wof:id":186267739,
-    "wof:lastmodified":1449052781,
+    "wof:lastmodified":1453936901,
     "wof:name":"Classic Marble Granite & Tile",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +67,11 @@
         "marble"
     ]
 },
-  "bbox": [-81.147324,43.003525,-81.147324,43.003525],
+  "bbox": [
+    -81.147324,
+    43.003525,
+    -81.147324,
+    43.003525
+],
   "geometry": {"coordinates":[-81.147324,43.003525],"type":"Point"}
 }

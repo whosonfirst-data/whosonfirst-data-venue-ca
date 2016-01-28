@@ -2,13 +2,14 @@
   "id": 152148615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.608086,43.600513,-79.608086,43.600513",
     "geom:latitude":43.600513,
     "geom:longitude":-79.608086,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3301 Cawthra Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895225,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ce9471ef1b314c1158e9fb971416c6bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":152148615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":152148615
         }
     ],
     "wof:id":152148615,
-    "wof:lastmodified":1449048193,
+    "wof:lastmodified":1453935789,
     "wof:name":"Zazula, M MD",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.608086,43.600513,-79.608086,43.600513],
+  "bbox": [
+    -79.608086,
+    43.600513,
+    -79.608086,
+    43.600513
+],
   "geometry": {"coordinates":[-79.608086,43.600513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152346683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.614929,45.565937,-73.614929,45.565937",
     "geom:latitude":45.565937,
     "geom:longitude":-73.614929,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8408 Boul Saint-Michel",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"30ab7a9aefa4e78bec55975032103176",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":152346683
         }
     ],
     "wof:id":152346683,
-    "wof:lastmodified":1449044265,
+    "wof:lastmodified":1453932798,
     "wof:name":"Blaise Mode Exclusive Unisexe",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.614929,45.565937,-73.614929,45.565937],
+  "bbox": [
+    -73.614929,
+    45.565937,
+    -73.614929,
+    45.565937
+],
   "geometry": {"coordinates":[-73.614929,45.565937],"type":"Point"}
 }

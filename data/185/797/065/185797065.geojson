@@ -2,13 +2,14 @@
   "id": 185797065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.544548,46.339954,-72.544548,46.339954",
     "geom:latitude":46.339954,
     "geom:longitude":-72.544548,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"351 Rue Saint-Roch",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874119,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"eba2318491a7ce9628853d51af0668b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185797065
         }
     ],
     "wof:id":185797065,
-    "wof:lastmodified":1449008066,
+    "wof:lastmodified":1453927372,
     "wof:name":"Signalisation 3D",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "painter"
     ]
 },
-  "bbox": [-72.544548,46.339954,-72.544548,46.339954],
-  "geometry": {"coordinates":[-72.544548,46.339954],"type":"Point"}
+  "bbox": [
+    -72.544548,
+    46.339954,
+    -72.544548,
+    46.339954
+],
+  "geometry": {"coordinates":[-72.54454800000001,46.339954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202932035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.594429,45.454781,-73.594429,45.454781",
     "geom:latitude":45.454781,
     "geom:longitude":-73.594429,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6400 Boul Monk",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897623,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"c701b7234c62e3b599a2dbbc6ed07a06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897623,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202932035
         }
     ],
     "wof:id":202932035,
-    "wof:lastmodified":1449061054,
+    "wof:lastmodified":1453937176,
     "wof:name":"Marche Gregoire Inc",
     "wof:parent_id":85897623,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.594429,45.454781,-73.594429,45.454781],
-  "geometry": {"coordinates":[-73.594429,45.454781],"type":"Point"}
+  "bbox": [
+    -73.594429,
+    45.454781,
+    -73.594429,
+    45.454781
+],
+  "geometry": {"coordinates":[-73.59442900000001,45.454781],"type":"Point"}
 }

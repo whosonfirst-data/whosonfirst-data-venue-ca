@@ -2,13 +2,14 @@
   "id": 169347455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.595146,43.603207,-79.595146,43.603207",
     "geom:latitude":43.603207,
     "geom:longitude":-79.595146,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1018 Orcades Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a4a15d7a5faf1d0477e3dccf1ca82f1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":169347455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":169347455
         }
     ],
     "wof:id":169347455,
-    "wof:lastmodified":1449034277,
+    "wof:lastmodified":1453930459,
     "wof:name":"Speedy Delivery",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.595146,43.603207,-79.595146,43.603207],
+  "bbox": [
+    -79.595146,
+    43.603207,
+    -79.595146,
+    43.603207
+],
   "geometry": {"coordinates":[-79.595146,43.603207],"type":"Point"}
 }

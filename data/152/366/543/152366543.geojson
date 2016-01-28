@@ -2,13 +2,14 @@
   "id": 152366543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.790085,45.602638,-73.790085,45.602638",
     "geom:latitude":45.602638,
     "geom:longitude":-73.790085,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"219 Boul Cure-Labelle",
     "sg:city":"Sainte-Rose",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871107,
+        102191575,
         85633041,
-        85871107
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"3813e7be527423f0a264f6a9bd37fdbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871107,
+            "region_id":136251273,
             "venue_id":152366543
         }
     ],
     "wof:id":152366543,
-    "wof:lastmodified":1449047666,
+    "wof:lastmodified":1453935398,
     "wof:name":"Monsieur Muffler",
     "wof:parent_id":85871107,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.790085,45.602638,-73.790085,45.602638],
+  "bbox": [
+    -73.790085,
+    45.602638,
+    -73.790085,
+    45.602638
+],
   "geometry": {"coordinates":[-73.790085,45.602638],"type":"Point"}
 }

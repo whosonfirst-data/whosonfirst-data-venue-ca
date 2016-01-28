@@ -2,13 +2,14 @@
   "id": 152256751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.595421,45.562313,-73.595421,45.562313",
     "geom:latitude":45.562313,
     "geom:longitude":-73.595421,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7e922453311bcdc079146ea7aebbcd72",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":152256751
         }
     ],
     "wof:id":152256751,
-    "wof:lastmodified":1449047812,
+    "wof:lastmodified":1453935509,
     "wof:name":"Librairie Erotique",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.595421,45.562313,-73.595421,45.562313],
+  "bbox": [
+    -73.595421,
+    45.562313,
+    -73.595421,
+    45.562313
+],
   "geometry": {"coordinates":[-73.595421,45.562313],"type":"Point"}
 }

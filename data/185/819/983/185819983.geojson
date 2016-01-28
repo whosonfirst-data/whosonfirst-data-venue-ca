@@ -2,13 +2,14 @@
   "id": 185819983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.811943,43.343964,-79.811943,43.343964",
     "geom:latitude":43.343964,
     "geom:longitude":-79.811943,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895611,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"a5628ac3cb654cdb9e415d7da1d63040",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895611,
+            "region_id":85682057,
+            "venue_id":185819983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895611,
             "region_id":85682057,
             "venue_id":185819983
         }
     ],
     "wof:id":185819983,
-    "wof:lastmodified":1449006994,
+    "wof:lastmodified":1453927244,
     "wof:name":"Bruce's Clipping & Grooming",
     "wof:parent_id":85895611,
     "wof:placetype":"venue",
@@ -61,6 +73,11 @@
         "washing"
     ]
 },
-  "bbox": [-79.811943,43.343964,-79.811943,43.343964],
+  "bbox": [
+    -79.811943,
+    43.343964,
+    -79.811943,
+    43.343964
+],
   "geometry": {"coordinates":[-79.811943,43.343964],"type":"Point"}
 }

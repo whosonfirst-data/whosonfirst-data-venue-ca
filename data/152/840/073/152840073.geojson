@@ -2,13 +2,14 @@
   "id": 152840073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.158539,43.009624,-81.158539,43.009624",
     "geom:latitude":43.009624,
     "geom:longitude":-81.158539,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2200 Dundas St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aPjquSbTayurMdvWhf2nQ_43.009624_-81.158539@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4b7da9e8d12a98b494317d41053860f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":152840073
+        }
+    ],
     "wof:id":152840073,
-    "wof:lastmodified":1449047871,
+    "wof:lastmodified":1453935561,
     "wof:name":"Ryder Truck Rental Canada Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.158539,43.009624,-81.158539,43.009624],
+  "bbox": [
+    -81.158539,
+    43.009624,
+    -81.158539,
+    43.009624
+],
   "geometry": {"coordinates":[-81.158539,43.009624],"type":"Point"}
 }

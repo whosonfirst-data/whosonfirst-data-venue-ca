@@ -2,13 +2,14 @@
   "id": 169546625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.114319,48.388664,-71.114319,48.388664",
     "geom:latitude":48.388664,
     "geom:longitude":-71.114319,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2318 Boul Saint-Paul",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"0106d402ba43f9f2657e5726d45b956e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":169546625
         }
     ],
     "wof:id":169546625,
-    "wof:lastmodified":1449032682,
+    "wof:lastmodified":1453928792,
     "wof:name":"Atelier DE Debosslage Gauthier",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.114319,48.388664,-71.114319,48.388664],
-  "geometry": {"coordinates":[-71.114319,48.388664],"type":"Point"}
+  "bbox": [
+    -71.114319,
+    48.388664,
+    -71.114319,
+    48.388664
+],
+  "geometry": {"coordinates":[-71.11431899999999,48.388664],"type":"Point"}
 }

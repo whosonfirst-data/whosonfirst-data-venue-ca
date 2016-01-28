@@ -2,13 +2,14 @@
   "id": 168906851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.560333,45.510643,-73.560333,45.510643",
     "geom:latitude":45.510643,
     "geom:longitude":-73.560333,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"175 Boul Rene-Levesque O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"deb8c786e7bf25703989c7191926caec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":168906851
         }
     ],
     "wof:id":168906851,
-    "wof:lastmodified":1449028050,
+    "wof:lastmodified":1453928098,
     "wof:name":"DE Magique",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.560333,45.510643,-73.560333,45.510643],
+  "bbox": [
+    -73.560333,
+    45.510643,
+    -73.560333,
+    45.510643
+],
   "geometry": {"coordinates":[-73.560333,45.510643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169154303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.733528,45.430309,-75.733528,45.430309",
     "geom:latitude":45.430309,
     "geom:longitude":-75.733528,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"111 Boul Saint-Joseph",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"603209d6e7b32679bda636c9de49c8fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":169154303
         }
     ],
     "wof:id":169154303,
-    "wof:lastmodified":1449036012,
+    "wof:lastmodified":1453932265,
     "wof:name":"Huard Sabourin & Fortin",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.733528,45.430309,-75.733528,45.430309],
-  "geometry": {"coordinates":[-75.733528,45.430309],"type":"Point"}
+  "bbox": [
+    -75.733528,
+    45.430309,
+    -75.733528,
+    45.430309
+],
+  "geometry": {"coordinates":[-75.73352800000001,45.430309],"type":"Point"}
 }

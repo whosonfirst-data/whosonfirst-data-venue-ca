@@ -2,13 +2,14 @@
   "id": 169386559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.301659,44.285866,-78.301659,44.285866",
     "geom:latitude":44.285866,
     "geom:longitude":-78.301659,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"633 Cloverleaf St",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"b162445690b186f5e12cb4ba557f87bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":169386559
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":169386559
         }
     ],
     "wof:id":169386559,
-    "wof:lastmodified":1449034416,
+    "wof:lastmodified":1453930607,
     "wof:name":"Bob's Tv & Vcr Svc",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.301659,44.285866,-78.301659,44.285866],
+  "bbox": [
+    -78.301659,
+    44.285866,
+    -78.301659,
+    44.285866
+],
   "geometry": {"coordinates":[-78.301659,44.285866],"type":"Point"}
 }

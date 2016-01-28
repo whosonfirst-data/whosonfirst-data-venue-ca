@@ -2,13 +2,14 @@
   "id": 202975225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.202179,45.566551,-73.202179,45.566551",
     "geom:latitude":45.566551,
     "geom:longitude":-73.202179,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"45 Boul DE L'Hotel-DE-Ville",
     "sg:city":"Val-D'Or",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894595,
+        102191575,
         85633041,
-        101737201
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"a40f4b9ebbc60cff76e209407ac6965a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894595,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202975225
         }
     ],
     "wof:id":202975225,
-    "wof:lastmodified":1449062305,
+    "wof:lastmodified":1453937432,
     "wof:name":"Cablevision Du Nord DE Quebec",
     "wof:parent_id":85894595,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "television"
     ]
 },
-  "bbox": [-73.202179,45.566551,-73.202179,45.566551],
+  "bbox": [
+    -73.202179,
+    45.566551,
+    -73.202179,
+    45.566551
+],
   "geometry": {"coordinates":[-73.202179,45.566551],"type":"Point"}
 }

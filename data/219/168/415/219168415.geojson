@@ -2,13 +2,14 @@
   "id": 219168415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.472801,43.39991,-80.472801,43.39991",
     "geom:latitude":43.39991,
     "geom:longitude":-80.472801,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Kitchener",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874963,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"0fa3293e534c0639cab8d2aedd34b1b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874963,
+            "region_id":85682057,
+            "venue_id":219168415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874963,
             "region_id":85682057,
             "venue_id":219168415
         }
     ],
     "wof:id":219168415,
-    "wof:lastmodified":1449072223,
+    "wof:lastmodified":1453937787,
     "wof:name":"Smith Energy Inc",
     "wof:parent_id":85874963,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "boiler"
     ]
 },
-  "bbox": [-80.472801,43.39991,-80.472801,43.39991],
+  "bbox": [
+    -80.472801,
+    43.39991,
+    -80.472801,
+    43.39991
+],
   "geometry": {"coordinates":[-80.472801,43.39991],"type":"Point"}
 }

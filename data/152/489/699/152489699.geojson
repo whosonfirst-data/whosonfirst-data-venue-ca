@@ -2,13 +2,14 @@
   "id": 152489699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.626465,45.477219,-73.626465,45.477219",
     "geom:latitude":45.477219,
     "geom:longitude":-73.626465,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4512 Av Marcil",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85864407,
+        102191575,
         85633041,
-        85864407
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"018a576995b222308e311cceb275e755",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
             "venue_id":152489699
         }
     ],
     "wof:id":152489699,
-    "wof:lastmodified":1449046825,
+    "wof:lastmodified":1453934735,
     "wof:name":"Pouls Aide Inc",
     "wof:parent_id":85864407,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.626465,45.477219,-73.626465,45.477219],
+  "bbox": [
+    -73.626465,
+    45.477219,
+    -73.626465,
+    45.477219
+],
   "geometry": {"coordinates":[-73.626465,45.477219],"type":"Point"}
 }

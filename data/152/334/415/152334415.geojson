@@ -2,13 +2,14 @@
   "id": 152334415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.847664,45.447826,-73.847664,45.447826",
     "geom:latitude":45.447826,
     "geom:longitude":-73.847664,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"24 Rue DE Cherbourg",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736453,
+        85897587,
+        102191575,
         85633041,
-        85897587
+        101736453,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"32360ebb19b9a0e1f1b237823e5c8755",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736453,
             "neighbourhood_id":85897587,
+            "region_id":136251273,
             "venue_id":152334415
         }
     ],
     "wof:id":152334415,
-    "wof:lastmodified":1449045656,
+    "wof:lastmodified":1453933864,
     "wof:name":"Skean Design",
     "wof:parent_id":85897587,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.847664,45.447826,-73.847664,45.447826],
-  "geometry": {"coordinates":[-73.847664,45.447826],"type":"Point"}
+  "bbox": [
+    -73.847664,
+    45.447826,
+    -73.847664,
+    45.447826
+],
+  "geometry": {"coordinates":[-73.84766399999999,45.447826],"type":"Point"}
 }

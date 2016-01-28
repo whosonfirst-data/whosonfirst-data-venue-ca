@@ -2,13 +2,14 @@
   "id": 168929525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.276833,43.173672,-79.276833,43.173672",
     "geom:latitude":43.173672,
     "geom:longitude":-79.276833,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"82 Hannover Dr",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875035,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"4d09779fe9feb1f8c2737dd181eecd9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875035,
+            "region_id":85682057,
+            "venue_id":168929525
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875035,
             "region_id":85682057,
             "venue_id":168929525
         }
     ],
     "wof:id":168929525,
-    "wof:lastmodified":1449028061,
+    "wof:lastmodified":1453928109,
     "wof:name":"Family Counselling Ctr",
     "wof:parent_id":85875035,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.276833,43.173672,-79.276833,43.173672],
+  "bbox": [
+    -79.276833,
+    43.173672,
+    -79.276833,
+    43.173672
+],
   "geometry": {"coordinates":[-79.276833,43.173672],"type":"Point"}
 }

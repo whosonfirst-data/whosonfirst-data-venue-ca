@@ -2,13 +2,14 @@
   "id": 169084831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.246902,42.957668,-81.246902,42.957668",
     "geom:latitude":42.957668,
     "geom:longitude":-81.246902,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"250 Commissioners Rd E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26vMWVlSB5gcyB8qqCafjC_42.957668_-81.246902@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"37fe3b0d2ed9300572f5b5e421e7457e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":169084831
+        }
+    ],
     "wof:id":169084831,
-    "wof:lastmodified":1449033035,
+    "wof:lastmodified":1453929163,
     "wof:name":"Wortley Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.246902,42.957668,-81.246902,42.957668],
-  "geometry": {"coordinates":[-81.246902,42.957668],"type":"Point"}
+  "bbox": [
+    -81.246902,
+    42.957668,
+    -81.246902,
+    42.957668
+],
+  "geometry": {"coordinates":[-81.24690200000001,42.957668],"type":"Point"}
 }

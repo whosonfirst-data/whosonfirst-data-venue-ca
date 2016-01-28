@@ -2,13 +2,14 @@
   "id": 152134559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488144,45.693256,-73.488144,45.693256",
     "geom:latitude":45.693256,
     "geom:longitude":-73.488144,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15848 Rue Notre-Dame E",
     "sg:city":"Pointe-Aux-Trembles",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"6fdbd54cbce33f67fc8dc6192a710cf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":152134559
         }
     ],
     "wof:id":152134559,
-    "wof:lastmodified":1449048664,
+    "wof:lastmodified":1453936136,
     "wof:name":"Carrefour Beaute Sergerie",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.488144,45.693256,-73.488144,45.693256],
-  "geometry": {"coordinates":[-73.488144,45.693256],"type":"Point"}
+  "bbox": [
+    -73.488144,
+    45.693256,
+    -73.488144,
+    45.693256
+],
+  "geometry": {"coordinates":[-73.48814400000001,45.693256],"type":"Point"}
 }

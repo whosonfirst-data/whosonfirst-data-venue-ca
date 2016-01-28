@@ -2,13 +2,14 @@
   "id": 169245461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.505356,43.709114,-79.505356,43.709114",
     "geom:latitude":43.709114,
     "geom:longitude":-79.505356,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1887 Jane St",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
         85784973,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"6d2971c913811ea7eb227f1be81131b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85784973,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":169245461,
-    "wof:lastmodified":1449035852,
+    "wof:lastmodified":1453932141,
     "wof:name":"Dollars Corp",
     "wof:parent_id":85784973,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.505356,43.709114,-79.505356,43.709114],
-  "geometry": {"coordinates":[-79.505356,43.709114],"type":"Point"}
+  "bbox": [
+    -79.505356,
+    43.709114,
+    -79.505356,
+    43.709114
+],
+  "geometry": {"coordinates":[-79.50535600000001,43.709114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152384057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.798729,45.485634,-73.798729,45.485634",
     "geom:latitude":45.485634,
     "geom:longitude":-73.798729,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3500 Boul Des Sources",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85784719,
+        102191575,
         85633041,
-        85784719
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"12c64eb0d0c37ac72f12aa4383d7bf19",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85784719,
+            "region_id":136251273,
             "venue_id":152384057
         }
     ],
     "wof:id":152384057,
-    "wof:lastmodified":1449044880,
+    "wof:lastmodified":1453933274,
     "wof:name":"Banque Laurentienne Du Canada",
     "wof:parent_id":85784719,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.798729,45.485634,-73.798729,45.485634],
-  "geometry": {"coordinates":[-73.798729,45.485634],"type":"Point"}
+  "bbox": [
+    -73.798729,
+    45.485634,
+    -73.798729,
+    45.485634
+],
+  "geometry": {"coordinates":[-73.79872899999999,45.485634],"type":"Point"}
 }

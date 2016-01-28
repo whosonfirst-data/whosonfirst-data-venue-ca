@@ -2,13 +2,14 @@
   "id": 152879465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.306488,43.008114,-81.306488,43.008114",
     "geom:latitude":43.008114,
     "geom:longitude":-81.306488,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"193 Homestead Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874935,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cSgRR1lNj3ofGTZ5QG2Uq_43.008114_-81.306488@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"9499f35f36a6bfb7669d1362482affa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
+            "region_id":85682057,
+            "venue_id":152879465
+        }
+    ],
     "wof:id":152879465,
-    "wof:lastmodified":1449044334,
+    "wof:lastmodified":1453932847,
     "wof:name":"Montessori House of Children",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.306488,43.008114,-81.306488,43.008114],
+  "bbox": [
+    -81.306488,
+    43.008114,
+    -81.306488,
+    43.008114
+],
   "geometry": {"coordinates":[-81.306488,43.008114],"type":"Point"}
 }

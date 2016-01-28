@@ -2,13 +2,14 @@
   "id": 169443115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.586151,45.477345,-73.586151,45.477345",
     "geom:latitude":45.477345,
     "geom:longitude":-73.586151,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897621,
+        102191575,
         85633041,
-        85897621
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"6ff9859bdc6b1d395fc59fcb20f36fe3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897621,
+            "region_id":136251273,
             "venue_id":169443115
         }
     ],
     "wof:id":169443115,
-    "wof:lastmodified":1449035349,
+    "wof:lastmodified":1453931554,
     "wof:name":"Banque Laurentienne Du Canada",
     "wof:parent_id":85897621,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.586151,45.477345,-73.586151,45.477345],
+  "bbox": [
+    -73.586151,
+    45.477345,
+    -73.586151,
+    45.477345
+],
   "geometry": {"coordinates":[-73.586151,45.477345],"type":"Point"}
 }

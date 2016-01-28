@@ -2,13 +2,14 @@
   "id": 152735381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.710068,45.471416,-73.710068,45.471416",
     "geom:latitude":45.471416,
     "geom:longitude":-73.710068,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9244 Ch DE LA Cote-DE-Liesse",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"428962ca58a7c3c0c217e33ddbbfe7c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":152735381
         }
     ],
     "wof:id":152735381,
-    "wof:lastmodified":1449048802,
+    "wof:lastmodified":1453936254,
     "wof:name":"Mcf Equipement Inc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.710068,45.471416,-73.710068,45.471416],
-  "geometry": {"coordinates":[-73.710068,45.471416],"type":"Point"}
+  "bbox": [
+    -73.710068,
+    45.471416,
+    -73.710068,
+    45.471416
+],
+  "geometry": {"coordinates":[-73.71006800000001,45.471416],"type":"Point"}
 }

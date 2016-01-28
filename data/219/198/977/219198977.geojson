@@ -2,13 +2,14 @@
   "id": 219198977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.666328,43.647381,-79.666328,43.647381",
     "geom:latitude":43.647381,
     "geom:longitude":-79.666328,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6202 Kestrel Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894975,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"bdefd13ea136f787297221353ef4d674",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":219198977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":219198977
         }
     ],
     "wof:id":219198977,
-    "wof:lastmodified":1449071671,
+    "wof:lastmodified":1453937717,
     "wof:name":"Quality Offset Printers",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "printer"
     ]
 },
-  "bbox": [-79.666328,43.647381,-79.666328,43.647381],
-  "geometry": {"coordinates":[-79.666328,43.647381],"type":"Point"}
+  "bbox": [
+    -79.666328,
+    43.647381,
+    -79.666328,
+    43.647381
+],
+  "geometry": {"coordinates":[-79.66632799999999,43.647381],"type":"Point"}
 }

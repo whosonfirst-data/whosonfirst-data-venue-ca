@@ -2,13 +2,14 @@
   "id": 169298457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.917168,43.519135,-79.917168,43.519135",
     "geom:latitude":43.519135,
     "geom:longitude":-79.917168,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"75 Peru Rd",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895323,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"4a88ca026ddcbefd91aee1ba935629da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895323,
+            "region_id":85682057,
+            "venue_id":169298457
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895323,
             "region_id":85682057,
             "venue_id":169298457
         }
     ],
     "wof:id":169298457,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1453929702,
     "wof:name":"Rego's Repair Svc",
     "wof:parent_id":85895323,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.917168,43.519135,-79.917168,43.519135],
+  "bbox": [
+    -79.917168,
+    43.519135,
+    -79.917168,
+    43.519135
+],
   "geometry": {"coordinates":[-79.917168,43.519135],"type":"Point"}
 }

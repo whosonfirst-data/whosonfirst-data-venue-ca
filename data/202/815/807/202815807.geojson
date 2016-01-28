@@ -2,13 +2,14 @@
   "id": 202815807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.777,43.603519,-79.777,43.603519",
     "geom:latitude":43.603519,
     "geom:longitude":-79.777,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2530 Meadowpine Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895103,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"e751f20c91c38430a452691305ea13c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895103,
+            "region_id":85682057,
+            "venue_id":202815807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895103,
             "region_id":85682057,
             "venue_id":202815807
         }
     ],
     "wof:id":202815807,
-    "wof:lastmodified":1449061359,
+    "wof:lastmodified":1453937240,
     "wof:name":"Dadco Canada",
     "wof:parent_id":85895103,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "maker"
     ]
 },
-  "bbox": [-79.777,43.603519,-79.777,43.603519],
+  "bbox": [
+    -79.777,
+    43.603519,
+    -79.777,
+    43.603519
+],
   "geometry": {"coordinates":[-79.777,43.603519],"type":"Point"}
 }

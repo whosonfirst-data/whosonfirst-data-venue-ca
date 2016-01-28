@@ -2,13 +2,14 @@
   "id": 169431539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.20401,43.1409,-79.20401,43.1409",
     "geom:latitude":43.1409,
     "geom:longitude":-79.20401,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"427 Glendale Ave",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"3506d50977f16f5f7e2ea09a93626e76",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":169431539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":169431539
         }
     ],
     "wof:id":169431539,
-    "wof:lastmodified":1449033135,
+    "wof:lastmodified":1453929251,
     "wof:name":"Donut Diner",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.20401,43.1409,-79.20401,43.1409],
+  "bbox": [
+    -79.20401,
+    43.1409,
+    -79.20401,
+    43.1409
+],
   "geometry": {"coordinates":[-79.20401,43.1409],"type":"Point"}
 }

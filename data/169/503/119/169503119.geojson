@@ -2,13 +2,14 @@
   "id": 169503119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.187607,43.551083,-80.187607,43.551083",
     "geom:latitude":43.551083,
     "geom:longitude":-80.187607,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15 Glenholme Dr",
     "sg:city":"Guelph",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875519,
-        85682057
+        102191575,
+        85633041,
+        101735927,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"59855114f89de79df844dee5dcab4a8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735927,
+            "neighbourhood_id":85875519,
+            "region_id":85682057,
+            "venue_id":169503119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85875519,
             "region_id":85682057,
             "venue_id":169503119
         }
     ],
     "wof:id":169503119,
-    "wof:lastmodified":1449035979,
+    "wof:lastmodified":1453932239,
     "wof:name":"Lewis House Interiors Ltd",
     "wof:parent_id":85875519,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.187607,43.551083,-80.187607,43.551083],
+  "bbox": [
+    -80.187607,
+    43.551083,
+    -80.187607,
+    43.551083
+],
   "geometry": {"coordinates":[-80.187607,43.551083],"type":"Point"}
 }

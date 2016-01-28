@@ -2,13 +2,14 @@
   "id": 169466695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.543343,43.793839,-79.543343,43.793839",
     "geom:latitude":43.793839,
     "geom:longitude":-79.543343,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"137 Chrislea Rd",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"3c72893151c72115cd66550246b70822",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":169466695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":169466695
         }
     ],
     "wof:id":169466695,
-    "wof:lastmodified":1449033669,
+    "wof:lastmodified":1453929798,
     "wof:name":"Cupps Coffee House Homeshow",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.543343,43.793839,-79.543343,43.793839],
-  "geometry": {"coordinates":[-79.543343,43.793839],"type":"Point"}
+  "bbox": [
+    -79.543343,
+    43.793839,
+    -79.543343,
+    43.793839
+],
+  "geometry": {"coordinates":[-79.54334299999999,43.793839],"type":"Point"}
 }

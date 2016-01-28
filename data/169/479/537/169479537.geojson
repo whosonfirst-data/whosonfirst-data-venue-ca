@@ -2,13 +2,14 @@
   "id": 169479537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.070099,43.834698,-79.070099,43.834698",
     "geom:latitude":43.834698,
     "geom:longitude":-79.070099,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Pickering",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895087,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"fa1431ad2013b090efbc95f74f341d29",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895087,
+            "region_id":85682057,
+            "venue_id":169479537
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895087,
             "region_id":85682057,
             "venue_id":169479537
         }
     ],
     "wof:id":169479537,
-    "wof:lastmodified":1449034950,
+    "wof:lastmodified":1453931173,
     "wof:name":"Albert's Auto Reconditioning",
     "wof:parent_id":85895087,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.070099,43.834698,-79.070099,43.834698],
+  "bbox": [
+    -79.070099,
+    43.834698,
+    -79.070099,
+    43.834698
+],
   "geometry": {"coordinates":[-79.070099,43.834698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169382937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.360245,46.802059,-71.360245,46.802059",
     "geom:latitude":46.802059,
     "geom:longitude":-71.360245,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1366 Rue Saint-Jacques",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"6d08831ae86a7d769743e782cc96d2f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169382937
         }
     ],
     "wof:id":169382937,
-    "wof:lastmodified":1449033564,
+    "wof:lastmodified":1453929680,
     "wof:name":"Banque Nationale Du Canada",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.360245,46.802059,-71.360245,46.802059],
-  "geometry": {"coordinates":[-71.360245,46.802059],"type":"Point"}
+  "bbox": [
+    -71.360245,
+    46.802059,
+    -71.360245,
+    46.802059
+],
+  "geometry": {"coordinates":[-71.36024500000001,46.802059],"type":"Point"}
 }

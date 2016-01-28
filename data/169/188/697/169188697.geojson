@@ -2,13 +2,14 @@
   "id": 169188697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.614426,45.604324,-73.614426,45.604324",
     "geom:latitude":45.604324,
     "geom:longitude":-73.614426,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10989 Rue Masse",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f2f13850485ae541a014809baac17618",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":169188697
         }
     ],
     "wof:id":169188697,
-    "wof:lastmodified":1449034324,
+    "wof:lastmodified":1453930498,
     "wof:name":"Ferra Giacomo",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.614426,45.604324,-73.614426,45.604324],
-  "geometry": {"coordinates":[-73.614426,45.604324],"type":"Point"}
+  "bbox": [
+    -73.614426,
+    45.604324,
+    -73.614426,
+    45.604324
+],
+  "geometry": {"coordinates":[-73.61442599999999,45.604324],"type":"Point"}
 }

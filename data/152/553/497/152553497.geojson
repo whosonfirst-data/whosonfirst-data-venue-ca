@@ -2,13 +2,14 @@
   "id": 152553497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.480331,43.444763,-80.480331,43.444763",
     "geom:latitude":43.444763,
     "geom:longitude":-80.480331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"332 Charles St E",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875017,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"092dd73eb4285a52589bf14c1ae76cfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875017,
+            "region_id":85682057,
+            "venue_id":152553497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875017,
             "region_id":85682057,
             "venue_id":152553497
         }
     ],
     "wof:id":152553497,
-    "wof:lastmodified":1449044321,
+    "wof:lastmodified":1453932835,
     "wof:name":"M Machel & Assoc Ltd",
     "wof:parent_id":85875017,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.480331,43.444763,-80.480331,43.444763],
-  "geometry": {"coordinates":[-80.480331,43.444763],"type":"Point"}
+  "bbox": [
+    -80.480331,
+    43.444763,
+    -80.480331,
+    43.444763
+],
+  "geometry": {"coordinates":[-80.48033100000001,43.444763],"type":"Point"}
 }

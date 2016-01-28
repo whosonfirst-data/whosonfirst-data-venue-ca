@@ -2,13 +2,14 @@
   "id": 168876349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.575401,45.669582,-73.575401,45.669582",
     "geom:latitude":45.669582,
     "geom:longitude":-73.575401,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"600 Montee Du Moulin",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871105,
+        102191575,
         85633041,
-        85871105
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"fd5016f61b43fd5abd0c7678b5284efe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871105,
+            "region_id":136251273,
             "venue_id":168876349
         }
     ],
     "wof:id":168876349,
-    "wof:lastmodified":1449027924,
+    "wof:lastmodified":1453927956,
     "wof:name":"Promenades St-Francois",
     "wof:parent_id":85871105,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.575401,45.669582,-73.575401,45.669582],
+  "bbox": [
+    -73.575401,
+    45.669582,
+    -73.575401,
+    45.669582
+],
   "geometry": {"coordinates":[-73.575401,45.669582],"type":"Point"}
 }

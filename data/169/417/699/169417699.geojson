@@ -2,13 +2,14 @@
   "id": 169417699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.481262,43.502277,-80.481262,43.502277",
     "geom:latitude":43.502277,
     "geom:longitude":-80.481262,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"365 River Oak Pl",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874975,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a860488782b267a9a923a0cea8ccbe5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874975,
+            "region_id":85682057,
+            "venue_id":169417699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736239,
             "neighbourhood_id":85874975,
             "region_id":85682057,
             "venue_id":169417699
         }
     ],
     "wof:id":169417699,
-    "wof:lastmodified":1449034030,
+    "wof:lastmodified":1453930207,
     "wof:name":"S C Imports",
     "wof:parent_id":85874975,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.481262,43.502277,-80.481262,43.502277],
+  "bbox": [
+    -80.481262,
+    43.502277,
+    -80.481262,
+    43.502277
+],
   "geometry": {"coordinates":[-80.481262,43.502277],"type":"Point"}
 }

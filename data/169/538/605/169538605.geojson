@@ -2,13 +2,14 @@
   "id": 169538605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.449196,43.412281,-80.449196,43.412281",
     "geom:latitude":43.412281,
     "geom:longitude":-80.449196,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"110 Manitou Dr",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874993,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"8d0a4cd2f6f61f83f89f94c6b4b68ed7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874993,
+            "region_id":85682057,
+            "venue_id":169538605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874993,
             "region_id":85682057,
             "venue_id":169538605
         }
     ],
     "wof:id":169538605,
-    "wof:lastmodified":1449033098,
+    "wof:lastmodified":1453929229,
     "wof:name":"Columbus Centre",
     "wof:parent_id":85874993,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.449196,43.412281,-80.449196,43.412281],
+  "bbox": [
+    -80.449196,
+    43.412281,
+    -80.449196,
+    43.412281
+],
   "geometry": {"coordinates":[-80.449196,43.412281],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152757625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.279106,43.885036,-79.279106,43.885036",
     "geom:latitude":43.885036,
     "geom:longitude":-79.279106,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"91 Cairns Dr",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895435,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"77e99cf747308389ba1378d22ff9945e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895435,
+            "region_id":85682057,
+            "venue_id":152757625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895435,
             "region_id":85682057,
             "venue_id":152757625
         }
     ],
     "wof:id":152757625,
-    "wof:lastmodified":1449046910,
+    "wof:lastmodified":1453934803,
     "wof:name":"Robert Wheatley Assoc",
     "wof:parent_id":85895435,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.279106,43.885036,-79.279106,43.885036],
+  "bbox": [
+    -79.279106,
+    43.885036,
+    -79.279106,
+    43.885036
+],
   "geometry": {"coordinates":[-79.279106,43.885036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203164537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.637993,45.488003,-73.637993,45.488003",
     "geom:latitude":45.488003,
     "geom:longitude":-73.637993,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5745 Boul Decarie # A",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866499,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"3082d3e2096ef04e4782dc79a3cdece6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866499,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203164537
         }
     ],
     "wof:id":203164537,
-    "wof:lastmodified":1449025168,
+    "wof:lastmodified":1453927452,
     "wof:name":"Mam Imprimerie Inc",
     "wof:parent_id":85866499,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "printer"
     ]
 },
-  "bbox": [-73.637993,45.488003,-73.637993,45.488003],
-  "geometry": {"coordinates":[-73.637993,45.488003],"type":"Point"}
+  "bbox": [
+    -73.637993,
+    45.488003,
+    -73.637993,
+    45.488003
+],
+  "geometry": {"coordinates":[-73.63799299999999,45.488003],"type":"Point"}
 }

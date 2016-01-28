@@ -2,13 +2,14 @@
   "id": 169430557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.460121,45.731655,-73.460121,45.731655",
     "geom:latitude":45.731655,
     "geom:longitude":-73.460121,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"305 Boul Iberville",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85895717,
+        102191575,
         85633041,
-        85895717
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4be4fcb9afb4ba7540215fd1ff9da0c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85895717,
+            "region_id":136251273,
             "venue_id":169430557
         }
     ],
     "wof:id":169430557,
-    "wof:lastmodified":1449034791,
+    "wof:lastmodified":1453931026,
     "wof:name":"Super Marche Iberville",
     "wof:parent_id":85895717,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.460121,45.731655,-73.460121,45.731655],
+  "bbox": [
+    -73.460121,
+    45.731655,
+    -73.460121,
+    45.731655
+],
   "geometry": {"coordinates":[-73.460121,45.731655],"type":"Point"}
 }

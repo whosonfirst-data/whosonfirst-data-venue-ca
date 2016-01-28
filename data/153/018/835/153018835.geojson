@@ -2,13 +2,14 @@
   "id": 153018835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.873039,45.465664,-73.873039,45.465664",
     "geom:latitude":45.465664,
     "geom:longitude":-73.873039,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4819 Boul Saint-Charles",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897581,
+        102191575,
         85633041,
-        85897581
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"00ee91162f214d99511e601ca0fc0ccd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897581,
+            "region_id":136251273,
             "venue_id":153018835
         }
     ],
     "wof:id":153018835,
-    "wof:lastmodified":1449040580,
+    "wof:lastmodified":1453932516,
     "wof:name":"Home Builder Magazine",
     "wof:parent_id":85897581,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.873039,45.465664,-73.873039,45.465664],
-  "geometry": {"coordinates":[-73.873039,45.465664],"type":"Point"}
+  "bbox": [
+    -73.873039,
+    45.465664,
+    -73.873039,
+    45.465664
+],
+  "geometry": {"coordinates":[-73.87303900000001,45.465664],"type":"Point"}
 }

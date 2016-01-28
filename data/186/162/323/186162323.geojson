@@ -2,13 +2,14 @@
   "id": 186162323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.378616,42.96175,-82.378616,42.96175",
     "geom:latitude":42.96175,
     "geom:longitude":-82.378616,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sarnia",
     "sg:classifiers":[
         {
@@ -27,8 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875565,
+        102191575,
         85633041,
-        85682057
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,24 @@
     "wof:geomhash":"29f2ced2a534b0ca948b544bfb72eb43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875565,
+            "region_id":85682057,
+            "venue_id":186162323
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875565,
             "region_id":85682057,
             "venue_id":186162323
         }
     ],
     "wof:id":186162323,
-    "wof:lastmodified":1449052619,
+    "wof:lastmodified":1453936876,
     "wof:name":"Moose Lodge 1046",
     "wof:parent_id":85875565,
     "wof:placetype":"venue",
@@ -57,6 +69,11 @@
         "club"
     ]
 },
-  "bbox": [-82.378616,42.96175,-82.378616,42.96175],
-  "geometry": {"coordinates":[-82.378616,42.96175],"type":"Point"}
+  "bbox": [
+    -82.378616,
+    42.96175,
+    -82.378616,
+    42.96175
+],
+  "geometry": {"coordinates":[-82.37861599999999,42.96175],"type":"Point"}
 }

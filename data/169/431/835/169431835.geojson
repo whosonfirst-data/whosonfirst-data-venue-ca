@@ -2,13 +2,14 @@
   "id": 169431835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.278511,43.871468,-79.278511,43.871468",
     "geom:latitude":43.871468,
     "geom:longitude":-79.278511,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Laidlaw Blvd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895363,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"1b2b8a490aa46547b7ce4361db1d2b01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895363,
+            "region_id":85682057,
+            "venue_id":169431835
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895363,
             "region_id":85682057,
             "venue_id":169431835
         }
     ],
     "wof:id":169431835,
-    "wof:lastmodified":1449033130,
+    "wof:lastmodified":1453929247,
     "wof:name":"Fine Line Collision Ctr",
     "wof:parent_id":85895363,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.278511,43.871468,-79.278511,43.871468],
-  "geometry": {"coordinates":[-79.278511,43.871468],"type":"Point"}
+  "bbox": [
+    -79.278511,
+    43.871468,
+    -79.278511,
+    43.871468
+],
+  "geometry": {"coordinates":[-79.27851099999999,43.871468],"type":"Point"}
 }

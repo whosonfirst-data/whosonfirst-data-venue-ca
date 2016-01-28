@@ -2,13 +2,14 @@
   "id": 152776209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.577843,43.798138,-79.577843,43.798138",
     "geom:latitude":43.798138,
     "geom:longitude":-79.577843,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Hayhoe Ave",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894991,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"21d9d9d6ff30bf0aa66b62016c46c287",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85894991,
+            "region_id":85682057,
+            "venue_id":152776209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85894991,
             "region_id":85682057,
             "venue_id":152776209
         }
     ],
     "wof:id":152776209,
-    "wof:lastmodified":1449045313,
+    "wof:lastmodified":1453933597,
     "wof:name":"AAA Home Inspection Svc",
     "wof:parent_id":85894991,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.577843,43.798138,-79.577843,43.798138],
+  "bbox": [
+    -79.577843,
+    43.798138,
+    -79.577843,
+    43.798138
+],
   "geometry": {"coordinates":[-79.577843,43.798138],"type":"Point"}
 }

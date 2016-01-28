@@ -2,13 +2,14 @@
   "id": 152781137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.637421,43.591591,-79.637421,43.591591",
     "geom:latitude":43.591591,
     "geom:longitude":-79.637421,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895329,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7f8ddb47db546c024170a48bd1e640dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895329,
+            "region_id":85682057,
+            "venue_id":152781137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895329,
             "region_id":85682057,
             "venue_id":152781137
         }
     ],
     "wof:id":152781137,
-    "wof:lastmodified":1449045172,
+    "wof:lastmodified":1453933491,
     "wof:name":"Ernst & Young",
     "wof:parent_id":85895329,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.637421,43.591591,-79.637421,43.591591],
+  "bbox": [
+    -79.637421,
+    43.591591,
+    -79.637421,
+    43.591591
+],
   "geometry": {"coordinates":[-79.637421,43.591591],"type":"Point"}
 }

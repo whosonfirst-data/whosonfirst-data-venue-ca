@@ -2,13 +2,14 @@
   "id": 152928335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.385254,43.855274,-79.385254,43.855274",
     "geom:latitude":43.855274,
     "geom:longitude":-79.385254,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895249,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"9cc3a2e7041d3709a3a7fc8241bfb40c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895249,
+            "region_id":85682057,
+            "venue_id":152928335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895249,
             "region_id":85682057,
             "venue_id":152928335
         }
     ],
     "wof:id":152928335,
-    "wof:lastmodified":1449048275,
+    "wof:lastmodified":1453935847,
     "wof:name":"Ontario Equestrian Federation",
     "wof:parent_id":85895249,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.385254,43.855274,-79.385254,43.855274],
+  "bbox": [
+    -79.385254,
+    43.855274,
+    -79.385254,
+    43.855274
+],
   "geometry": {"coordinates":[-79.385254,43.855274],"type":"Point"}
 }

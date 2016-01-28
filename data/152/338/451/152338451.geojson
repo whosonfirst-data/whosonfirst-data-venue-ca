@@ -2,13 +2,14 @@
   "id": 152338451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.79776,45.603954,-73.79776,45.603954",
     "geom:latitude":45.603954,
     "geom:longitude":-73.79776,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"413 Rue Philippe-Laperle",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85871107,
+        102191575,
         85633041,
-        85871107
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"412960a7ae56c5ed61ee67943202915d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871107,
+            "region_id":136251273,
             "venue_id":152338451
         }
     ],
     "wof:id":152338451,
-    "wof:lastmodified":1449045906,
+    "wof:lastmodified":1453934055,
     "wof:name":"S G Techplus",
     "wof:parent_id":85871107,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.79776,45.603954,-73.79776,45.603954],
+  "bbox": [
+    -73.79776,
+    45.603954,
+    -73.79776,
+    45.603954
+],
   "geometry": {"coordinates":[-73.79776,45.603954],"type":"Point"}
 }

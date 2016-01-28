@@ -2,13 +2,14 @@
   "id": 169456369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.573318,45.55637,-73.573318,45.55637",
     "geom:latitude":45.55637,
     "geom:longitude":-73.573318,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3730 Rue Dandurand",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866481,
+        102191575,
         85633041,
-        85866481
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5143d5fd454281095371d4c7b108d405",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866481,
+            "region_id":136251273,
             "venue_id":169456369
         }
     ],
     "wof:id":169456369,
-    "wof:lastmodified":1449033668,
+    "wof:lastmodified":1453929794,
     "wof:name":"Conference St Francois Solano",
     "wof:parent_id":85866481,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.573318,45.55637,-73.573318,45.55637],
+  "bbox": [
+    -73.573318,
+    45.55637,
+    -73.573318,
+    45.55637
+],
   "geometry": {"coordinates":[-73.573318,45.55637],"type":"Point"}
 }

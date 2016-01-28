@@ -2,13 +2,14 @@
   "id": 152737585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.398392,45.503956,-73.398392,45.503956",
     "geom:latitude":45.503956,
     "geom:longitude":-73.398392,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1423 Rue Des Melezes",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736553,
+        85864415,
+        102191575,
         85633041,
-        85864415
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"47de15b8081317f31283ac3fffad69ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
+            "region_id":136251273,
             "venue_id":152737585
         }
     ],
     "wof:id":152737585,
-    "wof:lastmodified":1449045336,
+    "wof:lastmodified":1453933619,
     "wof:name":"Les Interieurs Louise Rancourt",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.398392,45.503956,-73.398392,45.503956],
+  "bbox": [
+    -73.398392,
+    45.503956,
+    -73.398392,
+    45.503956
+],
   "geometry": {"coordinates":[-73.398392,45.503956],"type":"Point"}
 }

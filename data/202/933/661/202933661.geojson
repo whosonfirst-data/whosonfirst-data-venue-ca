@@ -2,13 +2,14 @@
   "id": 202933661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.697151,45.575085,-73.697151,45.575085",
     "geom:latitude":45.575085,
     "geom:longitude":-73.697151,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1013 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875049,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"6f81818a3f1e26fc7dfe313201d008e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875049,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202933661
         }
     ],
     "wof:id":202933661,
-    "wof:lastmodified":1449060631,
+    "wof:lastmodified":1453937084,
     "wof:name":"Lave-Auto Sonic",
     "wof:parent_id":85875049,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-73.697151,45.575085,-73.697151,45.575085],
-  "geometry": {"coordinates":[-73.697151,45.575085],"type":"Point"}
+  "bbox": [
+    -73.697151,
+    45.575085,
+    -73.697151,
+    45.575085
+],
+  "geometry": {"coordinates":[-73.69715100000001,45.575085],"type":"Point"}
 }

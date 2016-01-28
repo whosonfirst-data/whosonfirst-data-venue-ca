@@ -2,13 +2,14 @@
   "id": 169516285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681335,44.393875,-79.681335,44.393875",
     "geom:latitude":44.393875,
     "geom:longitude":-79.681335,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"29 Albert St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38A90KkwiD9P1n4MVz0XNd_44.393875_-79.681335@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f3f44c5f52d39c870286269d68d6d195",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":169516285
+        }
+    ],
     "wof:id":169516285,
-    "wof:lastmodified":1449033318,
+    "wof:lastmodified":1453929422,
     "wof:name":"Wise Choice Educational Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.681335,44.393875,-79.681335,44.393875],
+  "bbox": [
+    -79.681335,
+    44.393875,
+    -79.681335,
+    44.393875
+],
   "geometry": {"coordinates":[-79.681335,44.393875],"type":"Point"}
 }

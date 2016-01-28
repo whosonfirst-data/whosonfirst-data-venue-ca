@@ -2,13 +2,14 @@
   "id": 169459049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.30146,46.805176,-71.30146,46.805176",
     "geom:latitude":46.805176,
     "geom:longitude":-71.30146,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1400 Av Galilee",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"eca89d2c149ca4fc85e9edeb6713bf79",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169459049
         }
     ],
     "wof:id":169459049,
-    "wof:lastmodified":1449034024,
+    "wof:lastmodified":1453930195,
     "wof:name":"Affi Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.30146,46.805176,-71.30146,46.805176],
-  "geometry": {"coordinates":[-71.30146,46.805176],"type":"Point"}
+  "bbox": [
+    -71.30146,
+    46.805176,
+    -71.30146,
+    46.805176
+],
+  "geometry": {"coordinates":[-71.30146000000001,46.805176],"type":"Point"}
 }

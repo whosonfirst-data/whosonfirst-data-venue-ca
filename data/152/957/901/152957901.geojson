@@ -2,13 +2,14 @@
   "id": 152957901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.083755,45.269691,-74.083755,45.269691",
     "geom:latitude":45.269691,
     "geom:longitude":-74.083755,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"902 Rue Leger",
     "sg:city":"Saint-Timothee",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895763,
+        102191575,
         85633041,
-        85895763
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"978d61951496d318329e6f4867b0f265",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895763,
+            "region_id":136251273,
             "venue_id":152957901
         }
     ],
     "wof:id":152957901,
-    "wof:lastmodified":1449048230,
+    "wof:lastmodified":1453935812,
     "wof:name":"Quebec Agriculture",
     "wof:parent_id":85895763,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.083755,45.269691,-74.083755,45.269691],
+  "bbox": [
+    -74.083755,
+    45.269691,
+    -74.083755,
+    45.269691
+],
   "geometry": {"coordinates":[-74.083755,45.269691],"type":"Point"}
 }

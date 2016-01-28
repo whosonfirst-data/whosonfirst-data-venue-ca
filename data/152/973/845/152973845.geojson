@@ -2,13 +2,14 @@
   "id": 152973845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.422676,43.807484,-79.422676,43.807484",
     "geom:latitude":43.807484,
     "geom:longitude":-79.422676,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Thornhill",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895535,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"509d388882e3b42ce18d2b20dcc05269",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895535,
+            "region_id":85682057,
+            "venue_id":152973845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895535,
             "region_id":85682057,
             "venue_id":152973845
         }
     ],
     "wof:id":152973845,
-    "wof:lastmodified":1449047068,
+    "wof:lastmodified":1453934928,
     "wof:name":"Thornhill Health & Beauty Clnc",
     "wof:parent_id":85895535,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.422676,43.807484,-79.422676,43.807484],
+  "bbox": [
+    -79.422676,
+    43.807484,
+    -79.422676,
+    43.807484
+],
   "geometry": {"coordinates":[-79.422676,43.807484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152541743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.784164,45.628826,-73.784164,45.628826",
     "geom:latitude":45.628826,
     "geom:longitude":-73.784164,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"28 Rue Senecal",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897567,
+        102191575,
         85633041,
-        85897567
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c6d724f1c71dd9db3142744db50cb197",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897567,
+            "region_id":136251273,
             "venue_id":152541743
         }
     ],
     "wof:id":152541743,
-    "wof:lastmodified":1449044822,
+    "wof:lastmodified":1453933226,
     "wof:name":"Production Bl Audio",
     "wof:parent_id":85897567,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.784164,45.628826,-73.784164,45.628826],
+  "bbox": [
+    -73.784164,
+    45.628826,
+    -73.784164,
+    45.628826
+],
   "geometry": {"coordinates":[-73.784164,45.628826],"type":"Point"}
 }

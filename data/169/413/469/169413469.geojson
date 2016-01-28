@@ -2,13 +2,14 @@
   "id": 169413469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681091,44.330406,-79.681091,44.330406",
     "geom:latitude":44.330406,
     "geom:longitude":-79.681091,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875265,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vMsDFPTxBsG7rpp80cUQd_44.330406_-79.681091@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"acbcd8911eae8333c88e8766c39c30e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
+            "region_id":85682057,
+            "venue_id":169413469
+        }
+    ],
     "wof:id":169413469,
-    "wof:lastmodified":1449033217,
+    "wof:lastmodified":1453929308,
     "wof:name":"Glen Martin Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.681091,44.330406,-79.681091,44.330406],
+  "bbox": [
+    -79.681091,
+    44.330406,
+    -79.681091,
+    44.330406
+],
   "geometry": {"coordinates":[-79.681091,44.330406],"type":"Point"}
 }

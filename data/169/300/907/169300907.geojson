@@ -2,13 +2,14 @@
   "id": 169300907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.200104,43.12096,-79.200104,43.12096",
     "geom:latitude":43.12096,
     "geom:longitude":-79.200104,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3 Cleveland St",
     "sg:city":"Thorold",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"eff9eb1e81cdd9f95b4a430f0ccc8864",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":169300907
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":169300907
         }
     ],
     "wof:id":169300907,
-    "wof:lastmodified":1449034549,
+    "wof:lastmodified":1453930759,
     "wof:name":"St Mary's Ukranian Catholic",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.200104,43.12096,-79.200104,43.12096],
+  "bbox": [
+    -79.200104,
+    43.12096,
+    -79.200104,
+    43.12096
+],
   "geometry": {"coordinates":[-79.200104,43.12096],"type":"Point"}
 }

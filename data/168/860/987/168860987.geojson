@@ -2,13 +2,14 @@
   "id": 168860987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.187698,49.241322,-123.187698,49.241322",
     "geom:latitude":49.241322,
     "geom:longitude":-123.187698,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3792 34th Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865071,
-        85682117
+        102191575,
+        85633041,
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"e86eeb24ffd7fd4fe394dec662a41d08",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":168860987
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":168860987
         }
     ],
     "wof:id":168860987,
-    "wof:lastmodified":1449028126,
+    "wof:lastmodified":1453928182,
     "wof:name":"Castle Gardeners Ltd",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.187698,49.241322,-123.187698,49.241322],
+  "bbox": [
+    -123.187698,
+    49.241322,
+    -123.187698,
+    49.241322
+],
   "geometry": {"coordinates":[-123.187698,49.241322],"type":"Point"}
 }

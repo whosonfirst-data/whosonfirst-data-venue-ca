@@ -2,13 +2,14 @@
   "id": 152705973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.008827,45.384434,-74.008827,45.384434",
     "geom:latitude":45.384434,
     "geom:longitude":-74.008827,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"84 Boul Harwood",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895767,
+        102191575,
         85633041,
-        85895767
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"8fdcaf218b7090d7de7cc86904d417ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895767,
+            "region_id":136251273,
             "venue_id":152705973
         }
     ],
     "wof:id":152705973,
-    "wof:lastmodified":1449048925,
+    "wof:lastmodified":1453936368,
     "wof:name":"Billard Riviera",
     "wof:parent_id":85895767,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.008827,45.384434,-74.008827,45.384434],
+  "bbox": [
+    -74.008827,
+    45.384434,
+    -74.008827,
+    45.384434
+],
   "geometry": {"coordinates":[-74.008827,45.384434],"type":"Point"}
 }

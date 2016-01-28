@@ -2,13 +2,14 @@
   "id": 152403857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.614105,45.603188,-73.614105,45.603188",
     "geom:latitude":45.603188,
     "geom:longitude":-73.614105,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5920 Boul Industriel",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"f4e155c6cadd22b3b41fa05417eaae25",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":152403857
         }
     ],
     "wof:id":152403857,
-    "wof:lastmodified":1449048267,
+    "wof:lastmodified":1453935843,
     "wof:name":"Garage Mj Contach",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.614105,45.603188,-73.614105,45.603188],
+  "bbox": [
+    -73.614105,
+    45.603188,
+    -73.614105,
+    45.603188
+],
   "geometry": {"coordinates":[-73.614105,45.603188],"type":"Point"}
 }

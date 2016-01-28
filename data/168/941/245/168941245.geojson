@@ -2,13 +2,14 @@
   "id": 168941245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.548096,45.609749,-73.548096,45.609749",
     "geom:latitude":45.609749,
     "geom:longitude":-73.548096,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8621 Av Chaumont",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"718c1dfd5265e2c3218543a030adf381",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":168941245
         }
     ],
     "wof:id":168941245,
-    "wof:lastmodified":1449028239,
+    "wof:lastmodified":1453928304,
     "wof:name":"Restaurant Chaumont",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.548096,45.609749,-73.548096,45.609749],
+  "bbox": [
+    -73.548096,
+    45.609749,
+    -73.548096,
+    45.609749
+],
   "geometry": {"coordinates":[-73.548096,45.609749],"type":"Point"}
 }

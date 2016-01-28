@@ -2,13 +2,14 @@
   "id": 169142647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.481659,45.413296,-73.481659,45.413296",
     "geom:latitude":45.413296,
     "geom:longitude":-73.481659,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"825 Ch DE Saint-Jean",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875773,
+        102191575,
         85633041,
-        85875773
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7701d206f686c50d636179accc5d282a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875773,
+            "region_id":136251273,
             "venue_id":169142647
         }
     ],
     "wof:id":169142647,
-    "wof:lastmodified":1449035300,
+    "wof:lastmodified":1453931507,
     "wof:name":"Chatel",
     "wof:parent_id":85875773,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.481659,45.413296,-73.481659,45.413296],
-  "geometry": {"coordinates":[-73.481659,45.413296],"type":"Point"}
+  "bbox": [
+    -73.481659,
+    45.413296,
+    -73.481659,
+    45.413296
+],
+  "geometry": {"coordinates":[-73.48165899999999,45.413296],"type":"Point"}
 }

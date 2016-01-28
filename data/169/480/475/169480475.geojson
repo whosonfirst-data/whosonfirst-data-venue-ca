@@ -2,13 +2,14 @@
   "id": 169480475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.221901,43.191757,-79.221901,43.191757",
     "geom:latitude":43.191757,
     "geom:longitude":-79.221901,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4 Kamla Dr",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"1336b7ae4959c65c6c9d479a1e481373",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":169480475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":169480475
         }
     ],
     "wof:id":169480475,
-    "wof:lastmodified":1449033766,
+    "wof:lastmodified":1453929907,
     "wof:name":"Dave's Carpentry",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.221901,43.191757,-79.221901,43.191757],
+  "bbox": [
+    -79.221901,
+    43.191757,
+    -79.221901,
+    43.191757
+],
   "geometry": {"coordinates":[-79.221901,43.191757],"type":"Point"}
 }

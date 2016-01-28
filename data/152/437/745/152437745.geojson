@@ -2,13 +2,14 @@
   "id": 152437745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.405281,43.870342,-79.405281,43.870342",
     "geom:latitude":43.870342,
     "geom:longitude":-79.405281,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"454 Weldrick Rd E",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894999,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"7203c8d9d167e7ee2ffbb8d932fe2557",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85894999,
+            "region_id":85682057,
+            "venue_id":152437745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85894999,
             "region_id":85682057,
             "venue_id":152437745
         }
     ],
     "wof:id":152437745,
-    "wof:lastmodified":1449047641,
+    "wof:lastmodified":1453935377,
     "wof:name":"Tristar Business Systems",
     "wof:parent_id":85894999,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.405281,43.870342,-79.405281,43.870342],
+  "bbox": [
+    -79.405281,
+    43.870342,
+    -79.405281,
+    43.870342
+],
   "geometry": {"coordinates":[-79.405281,43.870342],"type":"Point"}
 }

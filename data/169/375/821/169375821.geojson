@@ -2,13 +2,14 @@
   "id": 169375821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.540077,45.549728,-73.540077,45.549728",
     "geom:latitude":45.549728,
     "geom:longitude":-73.540077,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1870 Boul Pie-Ix",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"345997e43e032e46c974bc9735e5d20d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":169375821
         }
     ],
     "wof:id":169375821,
-    "wof:lastmodified":1449032804,
+    "wof:lastmodified":1453928934,
     "wof:name":"Hopital Notre Dame DE Lourdes",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.540077,45.549728,-73.540077,45.549728],
+  "bbox": [
+    -73.540077,
+    45.549728,
+    -73.540077,
+    45.549728
+],
   "geometry": {"coordinates":[-73.540077,45.549728],"type":"Point"}
 }

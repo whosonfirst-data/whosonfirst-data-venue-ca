@@ -2,13 +2,14 @@
   "id": 169137957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.248482,43.183521,-79.248482,43.183521",
     "geom:latitude":43.183521,
     "geom:longitude":-79.248482,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"27 Secord Dr",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875041,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"782901b092c7b8dcdfcb71539e73b1ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875041,
+            "region_id":85682057,
+            "venue_id":169137957
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875041,
             "region_id":85682057,
             "venue_id":169137957
         }
     ],
     "wof:id":169137957,
-    "wof:lastmodified":1449035506,
+    "wof:lastmodified":1453931743,
     "wof:name":"Norman's Automotive Repair",
     "wof:parent_id":85875041,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.248482,43.183521,-79.248482,43.183521],
+  "bbox": [
+    -79.248482,
+    43.183521,
+    -79.248482,
+    43.183521
+],
   "geometry": {"coordinates":[-79.248482,43.183521],"type":"Point"}
 }

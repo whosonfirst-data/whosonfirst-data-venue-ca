@@ -2,13 +2,14 @@
   "id": 169411665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.253616,45.304035,-73.253616,45.304035",
     "geom:latitude":45.304035,
     "geom:longitude":-73.253616,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"148 Rue Jacques-Cartier N",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85875681,
+        102191575,
         85633041,
-        85875681
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"91d957181076d89f62053055b86bfd0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85875681,
+            "region_id":136251273,
             "venue_id":169411665
         }
     ],
     "wof:id":169411665,
-    "wof:lastmodified":1449032842,
+    "wof:lastmodified":1453928980,
     "wof:name":"St James Anglican Church",
     "wof:parent_id":85875681,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.253616,45.304035,-73.253616,45.304035],
-  "geometry": {"coordinates":[-73.253616,45.304035],"type":"Point"}
+  "bbox": [
+    -73.253616,
+    45.304035,
+    -73.253616,
+    45.304035
+],
+  "geometry": {"coordinates":[-73.25361599999999,45.304035],"type":"Point"}
 }

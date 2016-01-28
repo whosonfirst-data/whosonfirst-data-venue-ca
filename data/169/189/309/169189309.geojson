@@ -2,13 +2,14 @@
   "id": 169189309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.361443,43.392082,-80.361443,43.392082",
     "geom:latitude":43.392082,
     "geom:longitude":-80.361443,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"724 Vine St",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874989,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"24e4b142a07bfd4e85f87c6c9686958c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874989,
+            "region_id":85682057,
+            "venue_id":169189309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736143,
             "neighbourhood_id":85874989,
             "region_id":85682057,
             "venue_id":169189309
         }
     ],
     "wof:id":169189309,
-    "wof:lastmodified":1449035010,
+    "wof:lastmodified":1453931222,
     "wof:name":"Black Electric Inc",
     "wof:parent_id":85874989,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.361443,43.392082,-80.361443,43.392082],
-  "geometry": {"coordinates":[-80.361443,43.392082],"type":"Point"}
+  "bbox": [
+    -80.361443,
+    43.392082,
+    -80.361443,
+    43.392082
+],
+  "geometry": {"coordinates":[-80.36144299999999,43.392082],"type":"Point"}
 }

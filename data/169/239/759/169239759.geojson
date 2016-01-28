@@ -2,13 +2,14 @@
   "id": 169239759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.357437,43.846634,-79.357437,43.846634",
     "geom:latitude":43.846634,
     "geom:longitude":-79.357437,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8366 Woodbine Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895015,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"437a6c7ea4bb1d8918d2897866a56dc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895015,
+            "region_id":85682057,
+            "venue_id":169239759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895015,
             "region_id":85682057,
             "venue_id":169239759
         }
     ],
     "wof:id":169239759,
-    "wof:lastmodified":1449032989,
+    "wof:lastmodified":1453929122,
     "wof:name":"Tokyo Sushi",
     "wof:parent_id":85895015,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.357437,43.846634,-79.357437,43.846634],
+  "bbox": [
+    -79.357437,
+    43.846634,
+    -79.357437,
+    43.846634
+],
   "geometry": {"coordinates":[-79.357437,43.846634],"type":"Point"}
 }

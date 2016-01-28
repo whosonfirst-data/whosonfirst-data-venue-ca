@@ -2,13 +2,14 @@
   "id": 169066401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.559425,45.502232,-73.559425,45.502232",
     "geom:latitude":45.502232,
     "geom:longitude":-73.559425,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866469,
+        102191575,
         85633041,
-        85866469
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a333ca6ff7e2e5c2bf6d16810fcca548",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866469,
+            "region_id":136251273,
             "venue_id":169066401
         }
     ],
     "wof:id":169066401,
-    "wof:lastmodified":1449033651,
+    "wof:lastmodified":1453929765,
     "wof:name":"Institut DE Strategies",
     "wof:parent_id":85866469,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.559425,45.502232,-73.559425,45.502232],
+  "bbox": [
+    -73.559425,
+    45.502232,
+    -73.559425,
+    45.502232
+],
   "geometry": {"coordinates":[-73.559425,45.502232],"type":"Point"}
 }

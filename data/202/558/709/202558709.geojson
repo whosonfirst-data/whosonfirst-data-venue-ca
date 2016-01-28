@@ -2,13 +2,14 @@
   "id": 202558709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589348,45.542114,-73.589348,45.542114",
     "geom:latitude":45.542114,
     "geom:longitude":-73.589348,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5872 Rue DE Bordeaux",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874357,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,16 @@
     "wof:geomhash":"bd896c4c861fd827f0a387ee4898b02c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202558709
         }
     ],
     "wof:id":202558709,
-    "wof:lastmodified":1449060811,
+    "wof:lastmodified":1453937122,
     "wof:name":"Multi Ventilation Inc",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -66,6 +69,11 @@
         "air"
     ]
 },
-  "bbox": [-73.589348,45.542114,-73.589348,45.542114],
+  "bbox": [
+    -73.589348,
+    45.542114,
+    -73.589348,
+    45.542114
+],
   "geometry": {"coordinates":[-73.589348,45.542114],"type":"Point"}
 }

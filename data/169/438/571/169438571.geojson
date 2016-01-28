@@ -2,13 +2,14 @@
   "id": 169438571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.819977,43.363716,-79.819977,43.363716",
     "geom:latitude":43.363716,
     "geom:longitude":-79.819977,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1505 Guelph Line # 19",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895639,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"0ce8be6422d1d0efca9f843351456807",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895639,
+            "region_id":85682057,
+            "venue_id":169438571
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895639,
             "region_id":85682057,
             "venue_id":169438571
         }
     ],
     "wof:id":169438571,
-    "wof:lastmodified":1449033805,
+    "wof:lastmodified":1453929956,
     "wof:name":"Mr Sub",
     "wof:parent_id":85895639,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.819977,43.363716,-79.819977,43.363716],
-  "geometry": {"coordinates":[-79.819977,43.363716],"type":"Point"}
+  "bbox": [
+    -79.819977,
+    43.363716,
+    -79.819977,
+    43.363716
+],
+  "geometry": {"coordinates":[-79.81997699999999,43.363716],"type":"Point"}
 }

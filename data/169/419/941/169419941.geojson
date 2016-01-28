@@ -2,13 +2,14 @@
   "id": 169419941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.561203,43.610424,-79.561203,43.610424",
     "geom:latitude":43.610424,
     "geom:longitude":-79.561203,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Etobicoke",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"07096dcf3e17bcccf18feb2c4bef56d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":169419941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":169419941
         }
     ],
     "wof:id":169419941,
-    "wof:lastmodified":1449035908,
+    "wof:lastmodified":1453932196,
     "wof:name":"Thyme Maternity",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.561203,43.610424,-79.561203,43.610424],
-  "geometry": {"coordinates":[-79.561203,43.610424],"type":"Point"}
+  "bbox": [
+    -79.561203,
+    43.610424,
+    -79.561203,
+    43.610424
+],
+  "geometry": {"coordinates":[-79.56120300000001,43.610424],"type":"Point"}
 }

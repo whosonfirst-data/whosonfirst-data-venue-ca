@@ -2,13 +2,14 @@
   "id": 152852411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.251923,45.308056,-73.251923,45.308056",
     "geom:latitude":45.308056,
     "geom:longitude":-73.251923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"251 Rue Champlain",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85875681,
+        102191575,
         85633041,
-        85875681
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f7ddf0646a3b943f5601a69aee05686a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85875681,
+            "region_id":136251273,
             "venue_id":152852411
         }
     ],
     "wof:id":152852411,
-    "wof:lastmodified":1449048127,
+    "wof:lastmodified":1453935742,
     "wof:name":"Boulangerie Bissonnette",
     "wof:parent_id":85875681,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.251923,45.308056,-73.251923,45.308056],
-  "geometry": {"coordinates":[-73.251923,45.308056],"type":"Point"}
+  "bbox": [
+    -73.251923,
+    45.308056,
+    -73.251923,
+    45.308056
+],
+  "geometry": {"coordinates":[-73.25192300000001,45.308056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152425777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.55204,43.771435,-79.55204,43.771435",
     "geom:latitude":43.771435,
     "geom:longitude":-79.55204,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"461 Hanlan Rd",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"5e106b2a7ef107ecddcf583e82803d3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152425777
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152425777
         }
     ],
     "wof:id":152425777,
-    "wof:lastmodified":1449045942,
+    "wof:lastmodified":1453934074,
     "wof:name":"Interglass Inc",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.55204,43.771435,-79.55204,43.771435],
-  "geometry": {"coordinates":[-79.55204,43.771435],"type":"Point"}
+  "bbox": [
+    -79.55204,
+    43.771435,
+    -79.55204,
+    43.771435
+],
+  "geometry": {"coordinates":[-79.55204000000001,43.771435],"type":"Point"}
 }

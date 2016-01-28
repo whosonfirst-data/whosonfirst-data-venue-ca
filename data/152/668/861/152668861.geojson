@@ -2,13 +2,14 @@
   "id": 152668861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.87812,43.894352,-78.87812,43.894352",
     "geom:latitude":43.894352,
     "geom:longitude":-78.87812,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oshawa",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875157,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d87881b6f598c56af3a89d55138cc79b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875157,
+            "region_id":85682057,
+            "venue_id":152668861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875157,
             "region_id":85682057,
             "venue_id":152668861
         }
     ],
     "wof:id":152668861,
-    "wof:lastmodified":1449047522,
+    "wof:lastmodified":1453935276,
     "wof:name":"Carolyn's Beauty Supply",
     "wof:parent_id":85875157,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.87812,43.894352,-78.87812,43.894352],
+  "bbox": [
+    -78.87812,
+    43.894352,
+    -78.87812,
+    43.894352
+],
   "geometry": {"coordinates":[-78.87812,43.894352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169153789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.794289,43.334988,-79.794289,43.334988",
     "geom:latitude":43.334988,
     "geom:longitude":-79.794289,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"544 Drury Lane",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895673,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"d84bdaefc8f50d81c2a9572bb1764926",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895673,
+            "region_id":85682057,
+            "venue_id":169153789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895673,
             "region_id":85682057,
             "venue_id":169153789
         }
     ],
     "wof:id":169153789,
-    "wof:lastmodified":1449034964,
+    "wof:lastmodified":1453931187,
     "wof:name":"Regency Sign Svc",
     "wof:parent_id":85895673,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.794289,43.334988,-79.794289,43.334988],
-  "geometry": {"coordinates":[-79.794289,43.334988],"type":"Point"}
+  "bbox": [
+    -79.794289,
+    43.334988,
+    -79.794289,
+    43.334988
+],
+  "geometry": {"coordinates":[-79.79428900000001,43.334988],"type":"Point"}
 }

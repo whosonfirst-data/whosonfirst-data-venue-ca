@@ -2,13 +2,14 @@
   "id": 169367145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488312,45.734879,-73.488312,45.734879",
     "geom:latitude":45.734879,
     "geom:longitude":-73.488312,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"33 Rue Royal",
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737739,
+        85784693,
+        102191575,
         85633041,
-        85784693
+        101737739,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"641153bd3df7066cc08c7715787291fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737739,
             "neighbourhood_id":85784693,
+            "region_id":136251273,
             "venue_id":169367145
         }
     ],
     "wof:id":169367145,
-    "wof:lastmodified":1449034637,
+    "wof:lastmodified":1453930845,
     "wof:name":"Auto-Chem Inc",
     "wof:parent_id":85784693,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.488312,45.734879,-73.488312,45.734879],
-  "geometry": {"coordinates":[-73.488312,45.734879],"type":"Point"}
+  "bbox": [
+    -73.488312,
+    45.734879,
+    -73.488312,
+    45.734879
+],
+  "geometry": {"coordinates":[-73.48831199999999,45.734879],"type":"Point"}
 }

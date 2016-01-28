@@ -2,13 +2,14 @@
   "id": 153037147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.479393,43.444305,-80.479393,43.444305",
     "geom:latitude":43.444305,
     "geom:longitude":-80.479393,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"354 Charles St E",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875017,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"0e7a748a92ec2be25fdf4edd89a7dd2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875017,
+            "region_id":85682057,
+            "venue_id":153037147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875017,
             "region_id":85682057,
             "venue_id":153037147
         }
     ],
     "wof:id":153037147,
-    "wof:lastmodified":1449040824,
+    "wof:lastmodified":1453932730,
     "wof:name":"Better Business Bureau Inc",
     "wof:parent_id":85875017,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.479393,43.444305,-80.479393,43.444305],
+  "bbox": [
+    -80.479393,
+    43.444305,
+    -80.479393,
+    43.444305
+],
   "geometry": {"coordinates":[-80.479393,43.444305],"type":"Point"}
 }

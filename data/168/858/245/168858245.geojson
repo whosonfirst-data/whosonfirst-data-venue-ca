@@ -2,13 +2,14 @@
   "id": 168858245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.24926,46.742325,-71.24926,46.742325",
     "geom:latitude":46.742325,
     "geom:longitude":-71.24926,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Romuald",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85784941,
+        102191575,
         85633041,
-        85784941
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a70e8644462d5e289a3c28b467baafc5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85784941,
+            "region_id":136251273,
             "venue_id":168858245
         }
     ],
     "wof:id":168858245,
-    "wof:lastmodified":1449027866,
+    "wof:lastmodified":1453927883,
     "wof:name":"Superieur Propane",
     "wof:parent_id":85784941,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.24926,46.742325,-71.24926,46.742325],
-  "geometry": {"coordinates":[-71.24926,46.742325],"type":"Point"}
+  "bbox": [
+    -71.24926,
+    46.742325,
+    -71.24926,
+    46.742325
+],
+  "geometry": {"coordinates":[-71.24926000000001,46.742325],"type":"Point"}
 }

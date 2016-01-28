@@ -2,13 +2,14 @@
   "id": 153088753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.333664,43.00164,-81.333664,43.00164",
     "geom:latitude":43.00164,
     "geom:longitude":-81.333664,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874935,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ndeyRBvEEA2V39sdDlazR_43.001640_-81.333664@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"3edeb15589ab9de1d0c958ed1d32065c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
+            "region_id":85682057,
+            "venue_id":153088753
+        }
+    ],
     "wof:id":153088753,
-    "wof:lastmodified":1449040705,
+    "wof:lastmodified":1453932624,
     "wof:name":"Peter Courneya Collection Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.333664,43.00164,-81.333664,43.00164],
+  "bbox": [
+    -81.333664,
+    43.00164,
+    -81.333664,
+    43.00164
+],
   "geometry": {"coordinates":[-81.333664,43.00164],"type":"Point"}
 }

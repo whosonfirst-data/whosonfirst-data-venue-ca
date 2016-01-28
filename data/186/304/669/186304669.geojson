@@ -2,13 +2,14 @@
   "id": 186304669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.87162,43.520508,-79.87162,43.520508",
     "geom:latitude":43.520508,
     "geom:longitude":-79.87162,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Milton",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895175,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"5528eda362d99e7d66fbafc27d2d9cb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895175,
+            "region_id":85682057,
+            "venue_id":186304669
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895175,
             "region_id":85682057,
             "venue_id":186304669
         }
     ],
     "wof:id":186304669,
-    "wof:lastmodified":1449052344,
+    "wof:lastmodified":1453936829,
     "wof:name":"All Fired Up Ltd",
     "wof:parent_id":85895175,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-79.87162,43.520508,-79.87162,43.520508],
-  "geometry": {"coordinates":[-79.87162,43.520508],"type":"Point"}
+  "bbox": [
+    -79.87162,
+    43.520508,
+    -79.87162,
+    43.520508
+],
+  "geometry": {"coordinates":[-79.87161999999999,43.520508],"type":"Point"}
 }

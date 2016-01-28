@@ -2,13 +2,14 @@
   "id": 219277239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567322,45.614395,-73.567322,45.614395",
     "geom:latitude":45.614395,
     "geom:longitude":-73.567322,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8300 Place Lorraine",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785125,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"929f9682ad03e518c47b842f547cdbd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219277239
         }
     ],
     "wof:id":219277239,
-    "wof:lastmodified":1449070786,
+    "wof:lastmodified":1453937594,
     "wof:name":"Nadeau Inc",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.567322,45.614395,-73.567322,45.614395],
+  "bbox": [
+    -73.567322,
+    45.614395,
+    -73.567322,
+    45.614395
+],
   "geometry": {"coordinates":[-73.567322,45.614395],"type":"Point"}
 }

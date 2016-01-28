@@ -2,13 +2,14 @@
   "id": 153020495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.467018,45.565952,-73.467018,45.565952",
     "geom:latitude":45.565952,
     "geom:longitude":-73.467018,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"694 Boul Guimond",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897555,
+        102191575,
         85633041,
-        85897555
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"9890911a4d952180e8fe545ed99926d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897555,
+            "region_id":136251273,
             "venue_id":153020495
         }
     ],
     "wof:id":153020495,
-    "wof:lastmodified":1449040536,
+    "wof:lastmodified":1453932476,
     "wof:name":"Duvet Etc",
     "wof:parent_id":85897555,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.467018,45.565952,-73.467018,45.565952],
+  "bbox": [
+    -73.467018,
+    45.565952,
+    -73.467018,
+    45.565952
+],
   "geometry": {"coordinates":[-73.467018,45.565952],"type":"Point"}
 }

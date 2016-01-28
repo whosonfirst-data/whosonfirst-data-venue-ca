@@ -2,13 +2,14 @@
   "id": 169261019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656754,45.546631,-73.656754,45.546631",
     "geom:latitude":45.546631,
     "geom:longitude":-73.656754,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"44 Rue DE Port-Royal O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897505,
+        102191575,
         85633041,
-        85897505
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"d5e8b165aa340d6bdc9801b63ccbf86b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897505,
+            "region_id":136251273,
             "venue_id":169261019
         }
     ],
     "wof:id":169261019,
-    "wof:lastmodified":1449032735,
+    "wof:lastmodified":1453928852,
     "wof:name":"Mpr Neigex Inc",
     "wof:parent_id":85897505,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.656754,45.546631,-73.656754,45.546631],
-  "geometry": {"coordinates":[-73.656754,45.546631],"type":"Point"}
+  "bbox": [
+    -73.656754,
+    45.546631,
+    -73.656754,
+    45.546631
+],
+  "geometry": {"coordinates":[-73.65675400000001,45.546631],"type":"Point"}
 }

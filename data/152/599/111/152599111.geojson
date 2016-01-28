@@ -2,13 +2,14 @@
   "id": 152599111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.718452,45.485809,-73.718452,45.485809",
     "geom:latitude":45.485809,
     "geom:longitude":-73.718452,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4720 Boul DE LA Cote-Vertu",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"d00f885b38336125d16839139536e70a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152599111
         }
     ],
     "wof:id":152599111,
-    "wof:lastmodified":1449046458,
+    "wof:lastmodified":1453934474,
     "wof:name":"Communication Jowatel",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.718452,45.485809,-73.718452,45.485809],
+  "bbox": [
+    -73.718452,
+    45.485809,
+    -73.718452,
+    45.485809
+],
   "geometry": {"coordinates":[-73.718452,45.485809],"type":"Point"}
 }

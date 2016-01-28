@@ -2,13 +2,14 @@
   "id": 152570929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.21981,46.834846,-71.21981,46.834846",
     "geom:latitude":46.834846,
     "geom:longitude":-71.21981,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1580 Rue DE LA Trinite",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864427,
+        102191575,
         85633041,
-        85864427
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"76c70d5bc430115241c51c6fbb31cc5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864427,
+            "region_id":136251273,
             "venue_id":152570929
         }
     ],
     "wof:id":152570929,
-    "wof:lastmodified":1449047037,
+    "wof:lastmodified":1453934903,
     "wof:name":"Bar Le 18",
     "wof:parent_id":85864427,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.21981,46.834846,-71.21981,46.834846],
+  "bbox": [
+    -71.21981,
+    46.834846,
+    -71.21981,
+    46.834846
+],
   "geometry": {"coordinates":[-71.21981,46.834846],"type":"Point"}
 }

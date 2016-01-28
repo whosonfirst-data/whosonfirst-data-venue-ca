@@ -2,13 +2,14 @@
   "id": 202956017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.85466,43.899529,-78.85466,43.899529",
     "geom:latitude":43.899529,
     "geom:longitude":-78.85466,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"245 King St E",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875143,
+        102191575,
         85633041,
-        85682057
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"d2756c4816bfd85d477771f0e767f8d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875143,
+            "region_id":85682057,
+            "venue_id":202956017
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875143,
             "region_id":85682057,
             "venue_id":202956017
         }
     ],
     "wof:id":202956017,
-    "wof:lastmodified":1449060529,
+    "wof:lastmodified":1453937061,
     "wof:name":"Bernie's Foto Source",
     "wof:parent_id":85875143,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.85466,43.899529,-78.85466,43.899529],
+  "bbox": [
+    -78.85466,
+    43.899529,
+    -78.85466,
+    43.899529
+],
   "geometry": {"coordinates":[-78.85466,43.899529],"type":"Point"}
 }

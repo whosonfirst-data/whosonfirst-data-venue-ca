@@ -2,13 +2,14 @@
   "id": 169323751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.597137,45.517887,-73.597137,45.517887",
     "geom:latitude":45.517887,
     "geom:longitude":-73.597137,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1059 Av Laurier O",
     "sg:city":"Outremont",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784831,
+        102191575,
         85633041,
-        85784831
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5b1c0b6cc33f120c783d71cd940f62d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
+            "region_id":136251273,
             "venue_id":169323751
         }
     ],
     "wof:id":169323751,
-    "wof:lastmodified":1449032958,
+    "wof:lastmodified":1453929091,
     "wof:name":"Club Voyages Outremont",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.597137,45.517887,-73.597137,45.517887],
+  "bbox": [
+    -73.597137,
+    45.517887,
+    -73.597137,
+    45.517887
+],
   "geometry": {"coordinates":[-73.597137,45.517887],"type":"Point"}
 }

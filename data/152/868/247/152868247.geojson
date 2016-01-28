@@ -2,13 +2,14 @@
   "id": 152868247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.479507,43.438496,-80.479507,43.438496",
     "geom:latitude":43.438496,
     "geom:longitude":-80.479507,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"380 Courtland Ave E",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864611,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"41f7ffa9d8b770e345bd8c90241206cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864611,
+            "region_id":85682057,
+            "venue_id":152868247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864611,
             "region_id":85682057,
             "venue_id":152868247
         }
     ],
     "wof:id":152868247,
-    "wof:lastmodified":1449044506,
+    "wof:lastmodified":1453932982,
     "wof:name":"Fitzgerald Motors",
     "wof:parent_id":85864611,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.479507,43.438496,-80.479507,43.438496],
+  "bbox": [
+    -80.479507,
+    43.438496,
+    -80.479507,
+    43.438496
+],
   "geometry": {"coordinates":[-80.479507,43.438496],"type":"Point"}
 }

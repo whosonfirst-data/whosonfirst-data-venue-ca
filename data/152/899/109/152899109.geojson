@@ -2,13 +2,14 @@
   "id": 152899109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.842934,45.639427,-73.842934,45.639427",
     "geom:latitude":45.639427,
     "geom:longitude":-73.842934,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sainte-Therese",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738507,
+        85897563,
+        102191575,
         85633041,
-        85897563
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"c891da3476aec29a12a2df43817a3543",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
+            "region_id":136251273,
             "venue_id":152899109
         }
     ],
     "wof:id":152899109,
-    "wof:lastmodified":1449048687,
+    "wof:lastmodified":1453936159,
     "wof:name":"Taxi Central Inc",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.842934,45.639427,-73.842934,45.639427],
+  "bbox": [
+    -73.842934,
+    45.639427,
+    -73.842934,
+    45.639427
+],
   "geometry": {"coordinates":[-73.842934,45.639427],"type":"Point"}
 }

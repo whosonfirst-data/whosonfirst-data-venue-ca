@@ -2,13 +2,14 @@
   "id": 152167943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.674454,52.164032,-106.674454,52.164032",
     "geom:latitude":52.164032,
     "geom:longitude":-106.674454,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"600 45th St W",
     "sg:city":"Saskatoon",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740015,
-        85633041,
+        102555161,
         85784799,
+        102191575,
+        85633041,
+        101740015,
         85682113
     ],
     "wof:breaches":[],
@@ -40,6 +43,8 @@
     "wof:geomhash":"ecded84fcd927ea584412a1f7f8d5010",
     "wof:hierarchy":[
         {
+            "campus_id":102555161,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740015,
             "neighbourhood_id":85784799,
@@ -48,14 +53,19 @@
         }
     ],
     "wof:id":152167943,
-    "wof:lastmodified":1449046703,
+    "wof:lastmodified":1453934652,
     "wof:name":"Mennonite Central Committee",
-    "wof:parent_id":85784799,
+    "wof:parent_id":102555161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.674454,52.164032,-106.674454,52.164032],
+  "bbox": [
+    -106.674454,
+    52.164032,
+    -106.674454,
+    52.164032
+],
   "geometry": {"coordinates":[-106.674454,52.164032],"type":"Point"}
 }

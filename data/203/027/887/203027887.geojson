@@ -2,13 +2,14 @@
   "id": 203027887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.137589,49.327599,-123.137589,49.327599",
     "geom:latitude":49.327599,
     "geom:longitude":-123.137589,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"780 Park Royal N",
     "sg:city":"West Vancouver",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85865021,
+        102191575,
         85633041,
-        85682117
+        101741069,
+        85682117,
+        101744669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"0a4afefcba511f9d4491aeec58f19739",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":203027887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":203027887
         }
     ],
     "wof:id":203027887,
-    "wof:lastmodified":1449025287,
+    "wof:lastmodified":1453927475,
     "wof:name":"Guess Store",
     "wof:parent_id":85865021,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "jean"
     ]
 },
-  "bbox": [-123.137589,49.327599,-123.137589,49.327599],
-  "geometry": {"coordinates":[-123.137589,49.327599],"type":"Point"}
+  "bbox": [
+    -123.137589,
+    49.327599,
+    -123.137589,
+    49.327599
+],
+  "geometry": {"coordinates":[-123.13758900000001,49.327599],"type":"Point"}
 }

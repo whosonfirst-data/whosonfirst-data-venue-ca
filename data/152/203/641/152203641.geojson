@@ -2,13 +2,14 @@
   "id": 152203641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.269173,46.859459,-71.269173,46.859459",
     "geom:latitude":46.859459,
     "geom:longitude":-71.269173,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7745 1E Ave",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4a28cc547ad7604525301495e824ed4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":152203641
         }
     ],
     "wof:id":152203641,
-    "wof:lastmodified":1449046368,
+    "wof:lastmodified":1453934399,
     "wof:name":"Simard, Jean",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.269173,46.859459,-71.269173,46.859459],
-  "geometry": {"coordinates":[-71.269173,46.859459],"type":"Point"}
+  "bbox": [
+    -71.269173,
+    46.859459,
+    -71.269173,
+    46.859459
+],
+  "geometry": {"coordinates":[-71.26917299999999,46.859459],"type":"Point"}
 }

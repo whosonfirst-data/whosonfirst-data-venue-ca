@@ -2,13 +2,14 @@
   "id": 153018011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.289352,45.319454,-73.289352,45.319454",
     "geom:latitude":45.319454,
     "geom:longitude":-73.289352,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"725 Rue Gaudette",
     "sg:city":"Saint-Jean-Sur-Richelieu",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85785071,
+        102191575,
         85633041,
-        85785071
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"0a8d0a24200bb3c7b20e26a8ee27c18c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85785071,
+            "region_id":136251273,
             "venue_id":153018011
         }
     ],
     "wof:id":153018011,
-    "wof:lastmodified":1449040582,
+    "wof:lastmodified":1453932519,
     "wof:name":"Produits Polychem Ltee",
     "wof:parent_id":85785071,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.289352,45.319454,-73.289352,45.319454],
-  "geometry": {"coordinates":[-73.289352,45.319454],"type":"Point"}
+  "bbox": [
+    -73.289352,
+    45.319454,
+    -73.289352,
+    45.319454
+],
+  "geometry": {"coordinates":[-73.28935199999999,45.319454],"type":"Point"}
 }

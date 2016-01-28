@@ -2,13 +2,14 @@
   "id": 219497395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563919,45.539276,-73.563919,45.539276",
     "geom:latitude":45.539276,
     "geom:longitude":-73.563919,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4309 Rue Hogan",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874353,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"bbfc757a949025a1ac6c04945a09eb7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219497395
         }
     ],
     "wof:id":219497395,
-    "wof:lastmodified":1449073862,
+    "wof:lastmodified":1453938011,
     "wof:name":"Imprimerie Groupe Litho Inc",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "printer"
     ]
 },
-  "bbox": [-73.563919,45.539276,-73.563919,45.539276],
+  "bbox": [
+    -73.563919,
+    45.539276,
+    -73.563919,
+    45.539276
+],
   "geometry": {"coordinates":[-73.563919,45.539276],"type":"Point"}
 }

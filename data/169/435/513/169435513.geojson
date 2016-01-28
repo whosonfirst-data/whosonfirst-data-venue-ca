@@ -2,13 +2,14 @@
   "id": 169435513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.660881,43.625881,-79.660881,43.625881",
     "geom:latitude":43.625881,
     "geom:longitude":-79.660881,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"7a167fc0a50122eed9cebeb308ea257b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":169435513
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":169435513
         }
     ],
     "wof:id":169435513,
-    "wof:lastmodified":1449035654,
+    "wof:lastmodified":1453931895,
     "wof:name":"Pylon Electronics Inc",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.660881,43.625881,-79.660881,43.625881],
+  "bbox": [
+    -79.660881,
+    43.625881,
+    -79.660881,
+    43.625881
+],
   "geometry": {"coordinates":[-79.660881,43.625881],"type":"Point"}
 }

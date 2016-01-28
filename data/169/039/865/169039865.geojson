@@ -2,13 +2,14 @@
   "id": 169039865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.221931,43.044731,-81.221931,43.044731",
     "geom:latitude":43.044731,
     "geom:longitude":-81.221931,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1540 Fanshawe Park Rd E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,52 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864479,
+        102191575,
+        85633041,
+        101735885,
+        85682057,
+        101740735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21j5LUk9V9iDQqqhilDNgY_43.044731_-81.221931@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"2b81c9481b23d33b3327b48c72d8fe8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735885,
+            "neighbourhood_id":85864479,
+            "region_id":85682057,
+            "venue_id":169039865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740735,
+            "neighbourhood_id":85864479,
+            "region_id":85682057,
+            "venue_id":169039865
+        }
+    ],
     "wof:id":169039865,
-    "wof:lastmodified":1449035545,
+    "wof:lastmodified":1453931784,
     "wof:name":"Ontario Growers Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864479,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.221931,43.044731,-81.221931,43.044731],
+  "bbox": [
+    -81.221931,
+    43.044731,
+    -81.221931,
+    43.044731
+],
   "geometry": {"coordinates":[-81.221931,43.044731],"type":"Point"}
 }

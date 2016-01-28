@@ -2,13 +2,14 @@
   "id": 219447721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.168526,46.789619,-71.168526,46.789619",
     "geom:latitude":46.789619,
     "geom:longitude":-71.168526,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"100 Rte Du President-Kennedy",
     "sg:city":"Levis",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866517,
+        102191575,
         85633041,
-        101737987
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"8c04d72a57dd454e279b726113b15cba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219447721
         }
     ],
     "wof:id":219447721,
-    "wof:lastmodified":1449072881,
+    "wof:lastmodified":1453937884,
     "wof:name":"Canadian Tire",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-71.168526,46.789619,-71.168526,46.789619],
+  "bbox": [
+    -71.168526,
+    46.789619,
+    -71.168526,
+    46.789619
+],
   "geometry": {"coordinates":[-71.168526,46.789619],"type":"Point"}
 }

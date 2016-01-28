@@ -2,13 +2,14 @@
   "id": 152842865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.713097,43.57933,-79.713097,43.57933",
     "geom:latitude":43.57933,
     "geom:longitude":-79.713097,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"34 Thomas St",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"2bbf428be505b3b9989503fdb0e27e23",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":152842865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":152842865
         }
     ],
     "wof:id":152842865,
-    "wof:lastmodified":1449044642,
+    "wof:lastmodified":1453933091,
     "wof:name":"John D Rogers Assoc",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.713097,43.57933,-79.713097,43.57933],
+  "bbox": [
+    -79.713097,
+    43.57933,
+    -79.713097,
+    43.57933
+],
   "geometry": {"coordinates":[-79.713097,43.57933],"type":"Point"}
 }

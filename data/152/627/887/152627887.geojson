@@ -2,13 +2,14 @@
   "id": 152627887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.281326,46.850842,-71.281326,46.850842",
     "geom:latitude":46.850842,
     "geom:longitude":-71.281326,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7615 Rue Des Metis",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864425,
+        102191575,
         85633041,
-        85864425
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"39b0a17e206b02927862481ae18b47dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864425,
+            "region_id":136251273,
             "venue_id":152627887
         }
     ],
     "wof:id":152627887,
-    "wof:lastmodified":1449048993,
+    "wof:lastmodified":1453936430,
     "wof:name":"Golf DE L'Etang-Champ DE Prat",
     "wof:parent_id":85864425,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.281326,46.850842,-71.281326,46.850842],
-  "geometry": {"coordinates":[-71.281326,46.850842],"type":"Point"}
+  "bbox": [
+    -71.281326,
+    46.850842,
+    -71.281326,
+    46.850842
+],
+  "geometry": {"coordinates":[-71.28132600000001,46.850842],"type":"Point"}
 }

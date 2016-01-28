@@ -2,13 +2,14 @@
   "id": 202435295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.704163,43.583057,-79.704163,43.583057",
     "geom:latitude":43.583057,
     "geom:longitude":-79.704163,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5508 Durie Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895327,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"438cb8af63ddc0b26adf2107257fd3c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":202435295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":202435295
         }
     ],
     "wof:id":202435295,
-    "wof:lastmodified":1449062416,
+    "wof:lastmodified":1453937456,
     "wof:name":"Strategic Solutions",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-79.704163,43.583057,-79.704163,43.583057],
-  "geometry": {"coordinates":[-79.704163,43.583057],"type":"Point"}
+  "bbox": [
+    -79.704163,
+    43.583057,
+    -79.704163,
+    43.583057
+],
+  "geometry": {"coordinates":[-79.70416299999999,43.583057],"type":"Point"}
 }

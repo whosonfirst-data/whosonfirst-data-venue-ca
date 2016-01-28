@@ -2,13 +2,14 @@
   "id": 169466467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.442345,45.741463,-73.442345,45.741463",
     "geom:latitude":45.741463,
     "geom:longitude":-73.442345,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Repentigny",
     "sg:classifiers":[
         {
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"74c9a5bd279aca5b317b796fb3ce88b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169466467
         }
     ],
     "wof:id":169466467,
-    "wof:lastmodified":1449033669,
+    "wof:lastmodified":1453929800,
     "wof:name":"Gagnon, Sophie",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.442345,45.741463,-73.442345,45.741463],
+  "bbox": [
+    -73.442345,
+    45.741463,
+    -73.442345,
+    45.741463
+],
   "geometry": {"coordinates":[-73.442345,45.741463],"type":"Point"}
 }

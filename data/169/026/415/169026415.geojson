@@ -2,13 +2,14 @@
   "id": 169026415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.461884,45.564243,-73.461884,45.564243",
     "geom:latitude":45.564243,
     "geom:longitude":-73.461884,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1000 Rue Herelle",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897555,
+        102191575,
         85633041,
-        85897555
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5dfa9d1615fa38f3569caffef72e20ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897555,
+            "region_id":136251273,
             "venue_id":169026415
         }
     ],
     "wof:id":169026415,
-    "wof:lastmodified":1449034635,
+    "wof:lastmodified":1453930841,
     "wof:name":"Trans Pave Inc",
     "wof:parent_id":85897555,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.461884,45.564243,-73.461884,45.564243],
+  "bbox": [
+    -73.461884,
+    45.564243,
+    -73.461884,
+    45.564243
+],
   "geometry": {"coordinates":[-73.461884,45.564243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202462963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.571037,46.338921,-72.571037,46.338921",
     "geom:latitude":46.338921,
     "geom:longitude":-72.571037,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3685 Rue Saint-Joseph",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874109,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"5173ce5263e2e54dfc6c1781acd1e244",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874109,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202462963
         }
     ],
     "wof:id":202462963,
-    "wof:lastmodified":1449062540,
+    "wof:lastmodified":1453937483,
     "wof:name":"Groupe Bbc",
     "wof:parent_id":85874109,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "cart"
     ]
 },
-  "bbox": [-72.571037,46.338921,-72.571037,46.338921],
+  "bbox": [
+    -72.571037,
+    46.338921,
+    -72.571037,
+    46.338921
+],
   "geometry": {"coordinates":[-72.571037,46.338921],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153078509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.448051,45.511719,-73.448051,45.511719",
     "geom:latitude":45.511719,
     "geom:longitude":-73.448051,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3455 Rue Soissons",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"be155f2bc6d3d344082e620a34d4e165",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":153078509
         }
     ],
     "wof:id":153078509,
-    "wof:lastmodified":1449040755,
+    "wof:lastmodified":1453932670,
     "wof:name":"Ecole Georges Etienne Cartier",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.448051,45.511719,-73.448051,45.511719],
-  "geometry": {"coordinates":[-73.448051,45.511719],"type":"Point"}
+  "bbox": [
+    -73.448051,
+    45.511719,
+    -73.448051,
+    45.511719
+],
+  "geometry": {"coordinates":[-73.44805100000001,45.511719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152315539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.648102,43.494041,-79.648102,43.494041",
     "geom:latitude":43.494041,
     "geom:longitude":-79.648102,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2456 Royal Windsor Dr",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895177,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"3cb958d73e0515c697968b73b5fcf49a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895177,
+            "region_id":85682057,
+            "venue_id":152315539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895177,
             "region_id":85682057,
             "venue_id":152315539
         }
     ],
     "wof:id":152315539,
-    "wof:lastmodified":1449048683,
+    "wof:lastmodified":1453936153,
     "wof:name":"Al Sully's Collision Ctr",
     "wof:parent_id":85895177,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.648102,43.494041,-79.648102,43.494041],
-  "geometry": {"coordinates":[-79.648102,43.494041],"type":"Point"}
+  "bbox": [
+    -79.648102,
+    43.494041,
+    -79.648102,
+    43.494041
+],
+  "geometry": {"coordinates":[-79.64810199999999,43.494041],"type":"Point"}
 }

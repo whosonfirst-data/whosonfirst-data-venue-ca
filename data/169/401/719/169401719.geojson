@@ -2,13 +2,14 @@
   "id": 169401719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.466606,45.474308,-73.466606,45.474308",
     "geom:latitude":45.474308,
     "geom:longitude":-73.466606,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6225 Boul Taschereau",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897507,
+        102191575,
         85633041,
-        85897507
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"78b56b0c6fbc6e6093ccaab9eef3d011",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897507,
+            "region_id":136251273,
             "venue_id":169401719
         }
     ],
     "wof:id":169401719,
-    "wof:lastmodified":1449035472,
+    "wof:lastmodified":1453931697,
     "wof:name":"Motel Falcon Inc",
     "wof:parent_id":85897507,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.466606,45.474308,-73.466606,45.474308],
+  "bbox": [
+    -73.466606,
+    45.474308,
+    -73.466606,
+    45.474308
+],
   "geometry": {"coordinates":[-73.466606,45.474308],"type":"Point"}
 }

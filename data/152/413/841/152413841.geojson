@@ -2,13 +2,14 @@
   "id": 152413841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.422821,43.808273,-79.422821,43.808273",
     "geom:latitude":43.808273,
     "geom:longitude":-79.422821,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Thornhill",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895535,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"9897a112421f88d63d3885b7014c8525",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895535,
+            "region_id":85682057,
+            "venue_id":152413841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895535,
             "region_id":85682057,
             "venue_id":152413841
         }
     ],
     "wof:id":152413841,
-    "wof:lastmodified":1449045035,
+    "wof:lastmodified":1453933391,
     "wof:name":"Coffee Time Donuts",
     "wof:parent_id":85895535,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.422821,43.808273,-79.422821,43.808273],
+  "bbox": [
+    -79.422821,
+    43.808273,
+    -79.422821,
+    43.808273
+],
   "geometry": {"coordinates":[-79.422821,43.808273],"type":"Point"}
 }

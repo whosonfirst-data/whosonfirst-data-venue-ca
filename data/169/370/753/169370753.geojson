@@ -2,13 +2,14 @@
   "id": 169370753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.197403,43.009987,-81.197403,43.009987",
     "geom:latitude":43.009987,
     "geom:longitude":-81.197403,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"30 Jim Ashton St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5V 2A9",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S6Yw0TaeqhxvUKZvNRSm0_43.009987_-81.197403@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"dcf71b108f365a8da3fdb807718b943f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":169370753
+        }
+    ],
     "wof:id":169370753,
-    "wof:lastmodified":1449034494,
+    "wof:lastmodified":1453930675,
     "wof:name":"Simply Kids Inc Neighbourhood",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.197403,43.009987,-81.197403,43.009987],
-  "geometry": {"coordinates":[-81.197403,43.009987],"type":"Point"}
+  "bbox": [
+    -81.197403,
+    43.009987,
+    -81.197403,
+    43.009987
+],
+  "geometry": {"coordinates":[-81.19740299999999,43.009987],"type":"Point"}
 }

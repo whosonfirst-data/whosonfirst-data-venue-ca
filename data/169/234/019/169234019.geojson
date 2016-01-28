@@ -2,13 +2,14 @@
   "id": 169234019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.832359,45.608738,-73.832359,45.608738",
     "geom:latitude":45.608738,
     "geom:longitude":-73.832359,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"334 Ch DE LA Grande-Cote # B",
     "sg:city":"Boisbriand",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"c3154eaef7551b224502088a0bd44dfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":169234019
         }
     ],
     "wof:id":169234019,
-    "wof:lastmodified":1449035781,
+    "wof:lastmodified":1453932053,
     "wof:name":"Milano Pizzeria",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.832359,45.608738,-73.832359,45.608738],
+  "bbox": [
+    -73.832359,
+    45.608738,
+    -73.832359,
+    45.608738
+],
   "geometry": {"coordinates":[-73.832359,45.608738],"type":"Point"}
 }

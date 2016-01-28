@@ -2,13 +2,14 @@
   "id": 152474707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.130508,45.255795,-74.130508,45.255795",
     "geom:latitude":45.255795,
     "geom:longitude":-74.130508,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"44 Rue Sainte-Cecile",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"0d72199fb484e565f5d7c5a319a67355",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":152474707
         }
     ],
     "wof:id":152474707,
-    "wof:lastmodified":1449044491,
+    "wof:lastmodified":1453932970,
     "wof:name":"Coiffure Entre Nous",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.130508,45.255795,-74.130508,45.255795],
-  "geometry": {"coordinates":[-74.130508,45.255795],"type":"Point"}
+  "bbox": [
+    -74.130508,
+    45.255795,
+    -74.130508,
+    45.255795
+],
+  "geometry": {"coordinates":[-74.13050800000001,45.255795],"type":"Point"}
 }

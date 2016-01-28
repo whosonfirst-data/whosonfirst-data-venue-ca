@@ -2,13 +2,14 @@
   "id": 169532201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.67691,45.539799,-73.67691,45.539799",
     "geom:latitude":45.539799,
     "geom:longitude":-73.67691,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1200 Boul Henri-Bourassa O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874385,
+        102191575,
         85633041,
-        85874385
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"eb356a3d915b5d68d3b7d9b9976783b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874385,
+            "region_id":136251273,
             "venue_id":169532201
         }
     ],
     "wof:id":169532201,
-    "wof:lastmodified":1449033796,
+    "wof:lastmodified":1453929943,
     "wof:name":"Montreal Eco-Ctr",
     "wof:parent_id":85874385,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.67691,45.539799,-73.67691,45.539799],
-  "geometry": {"coordinates":[-73.67691,45.539799],"type":"Point"}
+  "bbox": [
+    -73.67691,
+    45.539799,
+    -73.67691,
+    45.539799
+],
+  "geometry": {"coordinates":[-73.67691000000001,45.539799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169489079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.877403,45.493519,-73.877403,45.493519",
     "geom:latitude":45.493519,
     "geom:longitude":-73.877403,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"L'Ile-Bizard",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874393,
+        102191575,
         85633041,
-        85874393
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"03e491d047c9b4c1fc02260bc731c016",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874393,
+            "region_id":136251273,
             "venue_id":169489079
         }
     ],
     "wof:id":169489079,
-    "wof:lastmodified":1449034499,
+    "wof:lastmodified":1453930688,
     "wof:name":"Centre Dentaire Luc Nolet",
     "wof:parent_id":85874393,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.877403,45.493519,-73.877403,45.493519],
+  "bbox": [
+    -73.877403,
+    45.493519,
+    -73.877403,
+    45.493519
+],
   "geometry": {"coordinates":[-73.877403,45.493519],"type":"Point"}
 }

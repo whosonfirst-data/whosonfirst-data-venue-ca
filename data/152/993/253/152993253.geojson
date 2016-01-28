@@ -2,13 +2,14 @@
   "id": 152993253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.796417,43.34008,-79.796417,43.34008",
     "geom:latitude":43.34008,
     "geom:longitude":-79.796417,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2340 Sharron St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895673,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"81216075b531a7e357311d7d0988679a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895673,
+            "region_id":85682057,
+            "venue_id":152993253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895673,
             "region_id":85682057,
             "venue_id":152993253
         }
     ],
     "wof:id":152993253,
-    "wof:lastmodified":1449046362,
+    "wof:lastmodified":1453934396,
     "wof:name":"Chk Umetsu Landscape Dsgnr",
     "wof:parent_id":85895673,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.796417,43.34008,-79.796417,43.34008],
-  "geometry": {"coordinates":[-79.796417,43.34008],"type":"Point"}
+  "bbox": [
+    -79.796417,
+    43.34008,
+    -79.796417,
+    43.34008
+],
+  "geometry": {"coordinates":[-79.79641700000001,43.34008],"type":"Point"}
 }

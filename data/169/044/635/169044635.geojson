@@ -2,13 +2,14 @@
   "id": 169044635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.852715,43.308502,-79.852715,43.308502",
     "geom:latitude":43.308502,
     "geom:longitude":-79.852715,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1038 Cooke Blvd # 4",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895263,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"acf623708a8f0f46864e140210d6fce0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895263,
+            "region_id":85682057,
+            "venue_id":169044635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895263,
             "region_id":85682057,
             "venue_id":169044635
         }
     ],
     "wof:id":169044635,
-    "wof:lastmodified":1449034402,
+    "wof:lastmodified":1453930586,
     "wof:name":"DE Luca Roofing Inc",
     "wof:parent_id":85895263,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.852715,43.308502,-79.852715,43.308502],
+  "bbox": [
+    -79.852715,
+    43.308502,
+    -79.852715,
+    43.308502
+],
   "geometry": {"coordinates":[-79.852715,43.308502],"type":"Point"}
 }

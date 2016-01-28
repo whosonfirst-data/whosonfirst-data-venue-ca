@@ -2,13 +2,14 @@
   "id": 186236701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.305214,43.819962,-79.305214,43.819962",
     "geom:latitude":43.819962,
     "geom:longitude":-79.305214,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Scarborough",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895023,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"a63bc8552abc8e0b8d31a08847495ff9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":186236701
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":186236701
         }
     ],
     "wof:id":186236701,
-    "wof:lastmodified":1449050533,
+    "wof:lastmodified":1453936532,
     "wof:name":"Biagioni, Edward MD",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.305214,43.819962,-79.305214,43.819962],
-  "geometry": {"coordinates":[-79.305214,43.819962],"type":"Point"}
+  "bbox": [
+    -79.305214,
+    43.819962,
+    -79.305214,
+    43.819962
+],
+  "geometry": {"coordinates":[-79.30521400000001,43.819962],"type":"Point"}
 }

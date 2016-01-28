@@ -2,13 +2,14 @@
   "id": 169381607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.813416,45.499672,-73.813416,45.499672",
     "geom:latitude":45.499672,
     "geom:longitude":-73.813416,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4520 Boul Des Sources",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874361,
+        102191575,
         85633041,
-        85874361
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1b47537bc549bbb44c811f98fc0b1e79",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874361,
+            "region_id":136251273,
             "venue_id":169381607
         }
     ],
     "wof:id":169381607,
-    "wof:lastmodified":1449032945,
+    "wof:lastmodified":1453929068,
     "wof:name":"Clinique Dentaire Dollard",
     "wof:parent_id":85874361,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.813416,45.499672,-73.813416,45.499672],
+  "bbox": [
+    -73.813416,
+    45.499672,
+    -73.813416,
+    45.499672
+],
   "geometry": {"coordinates":[-73.813416,45.499672],"type":"Point"}
 }

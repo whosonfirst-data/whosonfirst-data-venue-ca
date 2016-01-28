@@ -2,13 +2,14 @@
   "id": 152389979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.489731,43.781273,-79.489731,43.781273",
     "geom:latitude":43.781273,
     "geom:longitude":-79.489731,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1100 Petrolia Rd",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895133,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"45ba51c14beac3b45b634f200f587142",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":152389979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":152389979
         }
     ],
     "wof:id":152389979,
-    "wof:lastmodified":1449047974,
+    "wof:lastmodified":1453935635,
     "wof:name":"Korean Full Gospel Central Chr",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.489731,43.781273,-79.489731,43.781273],
-  "geometry": {"coordinates":[-79.489731,43.781273],"type":"Point"}
+  "bbox": [
+    -79.489731,
+    43.781273,
+    -79.489731,
+    43.781273
+],
+  "geometry": {"coordinates":[-79.48973100000001,43.781273],"type":"Point"}
 }

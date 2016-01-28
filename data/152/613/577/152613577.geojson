@@ -2,13 +2,14 @@
   "id": 152613577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.400787,42.983826,-82.400787,42.983826",
     "geom:latitude":42.983826,
     "geom:longitude":-82.400787,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"546 Christina St N",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875563,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"6b2b7513dc58a15df7f976bb39daf15b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875563,
+            "region_id":85682057,
+            "venue_id":152613577
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875563,
             "region_id":85682057,
             "venue_id":152613577
         }
     ],
     "wof:id":152613577,
-    "wof:lastmodified":1449046463,
+    "wof:lastmodified":1453934478,
     "wof:name":"Vector Marketing",
     "wof:parent_id":85875563,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.400787,42.983826,-82.400787,42.983826],
-  "geometry": {"coordinates":[-82.400787,42.983826],"type":"Point"}
+  "bbox": [
+    -82.400787,
+    42.983826,
+    -82.400787,
+    42.983826
+],
+  "geometry": {"coordinates":[-82.40078699999999,42.983826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202851929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.806625,45.604221,-73.806625,45.604221",
     "geom:latitude":45.604221,
     "geom:longitude":-73.806625,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1600 Rue DE Jaffa",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -33,8 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871107,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +47,16 @@
     "wof:geomhash":"21941f391d9ce53f944b93b1b2985d7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85871107,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202851929
         }
     ],
     "wof:id":202851929,
-    "wof:lastmodified":1449061755,
+    "wof:lastmodified":1453937319,
     "wof:name":"Canada Spas Depot",
     "wof:parent_id":85871107,
     "wof:placetype":"venue",
@@ -68,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-73.806625,45.604221,-73.806625,45.604221],
+  "bbox": [
+    -73.806625,
+    45.604221,
+    -73.806625,
+    45.604221
+],
   "geometry": {"coordinates":[-73.806625,45.604221],"type":"Point"}
 }

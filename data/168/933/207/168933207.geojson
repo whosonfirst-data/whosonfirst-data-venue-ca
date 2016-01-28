@@ -2,13 +2,14 @@
   "id": 168933207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.365829,43.862259,-79.365829,43.862259",
     "geom:latitude":43.862259,
     "geom:longitude":-79.365829,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"325 Renfrew Dr",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895669,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"d50c7febb972659940a58a177c31fa17",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895669,
+            "region_id":85682057,
+            "venue_id":168933207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895669,
             "region_id":85682057,
             "venue_id":168933207
         }
     ],
     "wof:id":168933207,
-    "wof:lastmodified":1449027932,
+    "wof:lastmodified":1453927962,
     "wof:name":"Copland, Thomas R",
     "wof:parent_id":85895669,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.365829,43.862259,-79.365829,43.862259],
-  "geometry": {"coordinates":[-79.365829,43.862259],"type":"Point"}
+  "bbox": [
+    -79.365829,
+    43.862259,
+    -79.365829,
+    43.862259
+],
+  "geometry": {"coordinates":[-79.36582900000001,43.862259],"type":"Point"}
 }

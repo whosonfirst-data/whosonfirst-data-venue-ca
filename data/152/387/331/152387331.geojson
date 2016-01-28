@@ -2,13 +2,14 @@
   "id": 152387331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.650475,45.572308,-73.650475,45.572308",
     "geom:latitude":45.572308,
     "geom:longitude":-73.650475,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2185 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fc00a5cc71a935ca3f0527ab535e294a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":152387331
         }
     ],
     "wof:id":152387331,
-    "wof:lastmodified":1449048295,
+    "wof:lastmodified":1453935863,
     "wof:name":"Chaput, Gilles",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.650475,45.572308,-73.650475,45.572308],
+  "bbox": [
+    -73.650475,
+    45.572308,
+    -73.650475,
+    45.572308
+],
   "geometry": {"coordinates":[-73.650475,45.572308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186224195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576485,45.5271,-73.576485,45.5271",
     "geom:latitude":45.5271,
     "geom:longitude":-73.576485,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866479,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"adbd8963cc451638220d8283a012d337",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186224195
         }
     ],
     "wof:id":186224195,
-    "wof:lastmodified":1449052321,
+    "wof:lastmodified":1453936824,
     "wof:name":"Made in Media",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
         "multimedia"
     ]
 },
-  "bbox": [-73.576485,45.5271,-73.576485,45.5271],
-  "geometry": {"coordinates":[-73.576485,45.5271],"type":"Point"}
+  "bbox": [
+    -73.576485,
+    45.5271,
+    -73.576485,
+    45.5271
+],
+  "geometry": {"coordinates":[-73.57648500000001,45.5271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202856541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.645638,45.558792,-73.645638,45.558792",
     "geom:latitude":45.558792,
     "geom:longitude":-73.645638,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1170 Rue DE Louvain O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874389,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"ee33e36ad61f21ded7a87d008d9303e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874389,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202856541
         }
     ],
     "wof:id":202856541,
-    "wof:lastmodified":1449060841,
+    "wof:lastmodified":1453937128,
     "wof:name":"Bourgeois Joailliers Inc",
     "wof:parent_id":85874389,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-73.645638,45.558792,-73.645638,45.558792],
-  "geometry": {"coordinates":[-73.645638,45.558792],"type":"Point"}
+  "bbox": [
+    -73.645638,
+    45.558792,
+    -73.645638,
+    45.558792
+],
+  "geometry": {"coordinates":[-73.64563800000001,45.558792],"type":"Point"}
 }

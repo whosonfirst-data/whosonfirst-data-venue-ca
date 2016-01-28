@@ -2,13 +2,14 @@
   "id": 152638341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.550095,45.572273,-73.550095,45.572273",
     "geom:latitude":45.572273,
     "geom:longitude":-73.550095,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5617 Rue Sherbrooke O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874169,
+        102191575,
         85633041,
-        85874169
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7f0db2e647f5cb208cc4d6be2bb6fabc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
+            "region_id":136251273,
             "venue_id":152638341
         }
     ],
     "wof:id":152638341,
-    "wof:lastmodified":1449044559,
+    "wof:lastmodified":1453933024,
     "wof:name":"Maz Bar & Restaurant",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.550095,45.572273,-73.550095,45.572273],
+  "bbox": [
+    -73.550095,
+    45.572273,
+    -73.550095,
+    45.572273
+],
   "geometry": {"coordinates":[-73.550095,45.572273],"type":"Point"}
 }

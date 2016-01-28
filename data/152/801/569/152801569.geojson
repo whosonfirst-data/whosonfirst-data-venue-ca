@@ -2,13 +2,14 @@
   "id": 152801569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.67588,45.560482,-73.67588,45.560482",
     "geom:latitude":45.560482,
     "geom:longitude":-73.67588,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"180 Place Juge-Desnoyers",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875065,
+        102191575,
         85633041,
-        85875065
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fd31b5180be19635bbabf69e7da1120b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875065,
+            "region_id":136251273,
             "venue_id":152801569
         }
     ],
     "wof:id":152801569,
-    "wof:lastmodified":1449048107,
+    "wof:lastmodified":1453935728,
     "wof:name":"Missions Etrangeres",
     "wof:parent_id":85875065,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.67588,45.560482,-73.67588,45.560482],
-  "geometry": {"coordinates":[-73.67588,45.560482],"type":"Point"}
+  "bbox": [
+    -73.67588,
+    45.560482,
+    -73.67588,
+    45.560482
+],
+  "geometry": {"coordinates":[-73.67588000000001,45.560482],"type":"Point"}
 }

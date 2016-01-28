@@ -2,13 +2,14 @@
   "id": 152363441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574303,45.514816,-73.574303,45.514816",
     "geom:latitude":45.514816,
     "geom:longitude":-73.574303,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3697 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"533e59ab9eee31b6cf6712bd07c6a0b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":152363441
         }
     ],
     "wof:id":152363441,
-    "wof:lastmodified":1449048358,
+    "wof:lastmodified":1453935919,
     "wof:name":"Noize",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574303,45.514816,-73.574303,45.514816],
+  "bbox": [
+    -73.574303,
+    45.514816,
+    -73.574303,
+    45.514816
+],
   "geometry": {"coordinates":[-73.574303,45.514816],"type":"Point"}
 }

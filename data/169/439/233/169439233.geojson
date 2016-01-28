@@ -2,13 +2,14 @@
   "id": 169439233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.132416,45.27063,-74.132416,45.27063",
     "geom:latitude":45.27063,
     "geom:longitude":-74.132416,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1396 Boul Monseigneur-Langlois",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"f8f6396b644501382315250628cb793b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":169439233
         }
     ],
     "wof:id":169439233,
-    "wof:lastmodified":1449033599,
+    "wof:lastmodified":1453929722,
     "wof:name":"Banque Nationale Du Canada",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.132416,45.27063,-74.132416,45.27063],
-  "geometry": {"coordinates":[-74.132416,45.27063],"type":"Point"}
+  "bbox": [
+    -74.132416,
+    45.27063,
+    -74.132416,
+    45.27063
+],
+  "geometry": {"coordinates":[-74.13241600000001,45.27063],"type":"Point"}
 }

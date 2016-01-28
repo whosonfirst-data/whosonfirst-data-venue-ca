@@ -2,13 +2,14 @@
   "id": 152420719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.437363,45.591084,-73.437363,45.591084",
     "geom:latitude":45.591084,
     "geom:longitude":-73.437363,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"475 Boul DE Mortagne",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875749,
+        102191575,
         85633041,
-        85875749
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5160dee02e0d93f20ae802364094b2ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875749,
+            "region_id":136251273,
             "venue_id":152420719
         }
     ],
     "wof:id":152420719,
-    "wof:lastmodified":1449046519,
+    "wof:lastmodified":1453934516,
     "wof:name":"Nettoyeurs Chatel Inc",
     "wof:parent_id":85875749,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.437363,45.591084,-73.437363,45.591084],
+  "bbox": [
+    -73.437363,
+    45.591084,
+    -73.437363,
+    45.591084
+],
   "geometry": {"coordinates":[-73.437363,45.591084],"type":"Point"}
 }

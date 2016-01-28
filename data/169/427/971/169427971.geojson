@@ -2,13 +2,14 @@
   "id": 169427971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.634819,45.50235,-73.634819,45.50235",
     "geom:latitude":45.50235,
     "geom:longitude":-73.634819,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3595 Av Appleton",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897525,
+        102191575,
         85633041,
-        85897525
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"ea1975316396a7c624e8ff6114aa8770",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897525,
+            "region_id":136251273,
             "venue_id":169427971
         }
     ],
     "wof:id":169427971,
-    "wof:lastmodified":1449033678,
+    "wof:lastmodified":1453929810,
     "wof:name":"Jungle Creme Glacee",
     "wof:parent_id":85897525,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.634819,45.50235,-73.634819,45.50235],
-  "geometry": {"coordinates":[-73.634819,45.50235],"type":"Point"}
+  "bbox": [
+    -73.634819,
+    45.50235,
+    -73.634819,
+    45.50235
+],
+  "geometry": {"coordinates":[-73.63481899999999,45.50235],"type":"Point"}
 }

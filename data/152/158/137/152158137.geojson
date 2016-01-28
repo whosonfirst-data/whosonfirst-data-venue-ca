@@ -2,13 +2,14 @@
   "id": 152158137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.252731,42.994995,-81.252731,42.994995",
     "geom:latitude":42.994995,
     "geom:longitude":-81.252731,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"748 Richmond St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6A 3H3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874939,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02LFz9r570HrvAugQuXW7z_42.994995_-81.252731@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"8ac0acd5f5ea498bdf5f8a5037850edb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
+            "region_id":85682057,
+            "venue_id":152158137
+        }
+    ],
     "wof:id":152158137,
-    "wof:lastmodified":1449047379,
+    "wof:lastmodified":1453935164,
     "wof:name":"DE Vog Professional Salons",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.252731,42.994995,-81.252731,42.994995],
+  "bbox": [
+    -81.252731,
+    42.994995,
+    -81.252731,
+    42.994995
+],
   "geometry": {"coordinates":[-81.252731,42.994995],"type":"Point"}
 }

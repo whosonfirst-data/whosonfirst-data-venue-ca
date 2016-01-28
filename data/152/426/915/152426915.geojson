@@ -2,13 +2,14 @@
   "id": 152426915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.231323,43.037315,-81.231323,43.037315",
     "geom:latitude":43.037315,
     "geom:longitude":-81.231323,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"140 Wakefield Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874941,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kJI4i5FA0gkTes8vzqfq6_43.037315_-81.231323@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"3bdb0384857954d8cf3eb085528a6792",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874941,
+            "region_id":85682057,
+            "venue_id":152426915
+        }
+    ],
     "wof:id":152426915,
-    "wof:lastmodified":1449045290,
+    "wof:lastmodified":1453933580,
     "wof:name":"L Westman Studios",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.231323,43.037315,-81.231323,43.037315],
+  "bbox": [
+    -81.231323,
+    43.037315,
+    -81.231323,
+    43.037315
+],
   "geometry": {"coordinates":[-81.231323,43.037315],"type":"Point"}
 }

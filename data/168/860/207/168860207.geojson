@@ -2,13 +2,14 @@
   "id": 168860207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.7052,44.380196,-79.7052,44.380196",
     "geom:latitude":44.380196,
     "geom:longitude":-79.7052,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"24 George St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -29,23 +30,43 @@
         "vehicle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PvmNmuCGBHHO1nmp5PirQ_44.380196_-79.705200@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d9b3c8fcc33acfd74afb296d6b602d2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":168860207
+        }
+    ],
     "wof:id":168860207,
-    "wof:lastmodified":1449028127,
+    "wof:lastmodified":1453928183,
     "wof:name":"Brycam Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.7052,44.380196,-79.7052,44.380196],
+  "bbox": [
+    -79.7052,
+    44.380196,
+    -79.7052,
+    44.380196
+],
   "geometry": {"coordinates":[-79.7052,44.380196],"type":"Point"}
 }

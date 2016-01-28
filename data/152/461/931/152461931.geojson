@@ -2,13 +2,14 @@
   "id": 152461931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.051147,48.401356,-71.051147,48.401356",
     "geom:latitude":48.401356,
     "geom:longitude":-71.051147,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1526 Rue Des Engoulevents",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3110aad9cbd14f3b2c31dfee4427c2d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152461931
         }
     ],
     "wof:id":152461931,
-    "wof:lastmodified":1449046047,
+    "wof:lastmodified":1453934156,
     "wof:name":"Soeurs Sainte-Marie",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.051147,48.401356,-71.051147,48.401356],
+  "bbox": [
+    -71.051147,
+    48.401356,
+    -71.051147,
+    48.401356
+],
   "geometry": {"coordinates":[-71.051147,48.401356],"type":"Point"}
 }

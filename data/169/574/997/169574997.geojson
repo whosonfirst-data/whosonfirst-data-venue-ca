@@ -2,13 +2,14 @@
   "id": 169574997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.777122,45.672459,-73.777122,45.672459",
     "geom:latitude":45.672459,
     "geom:longitude":-73.777122,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6 Place DE Broussey",
     "sg:city":"Lorraine",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3de487dfd72d697e2d74dfc72c40614e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169574997
         }
     ],
     "wof:id":169574997,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1453928778,
     "wof:name":"Communication Cinq Sur Cinq",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.777122,45.672459,-73.777122,45.672459],
-  "geometry": {"coordinates":[-73.777122,45.672459],"type":"Point"}
+  "bbox": [
+    -73.777122,
+    45.672459,
+    -73.777122,
+    45.672459
+],
+  "geometry": {"coordinates":[-73.77712200000001,45.672459],"type":"Point"}
 }

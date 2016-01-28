@@ -2,13 +2,14 @@
   "id": 169118799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.617836,45.515839,-73.617836,45.515839",
     "geom:latitude":45.515839,
     "geom:longitude":-73.617836,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"772 Av Antonine-Maillet",
     "sg:city":"Outremont",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784831,
+        102191575,
         85633041,
-        85784831
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4976945723cdc6bc5f55d70bfd070180",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
+            "region_id":136251273,
             "venue_id":169118799
         }
     ],
     "wof:id":169118799,
-    "wof:lastmodified":1449035331,
+    "wof:lastmodified":1453931539,
     "wof:name":"Centre Mscs",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.617836,45.515839,-73.617836,45.515839],
+  "bbox": [
+    -73.617836,
+    45.515839,
+    -73.617836,
+    45.515839
+],
   "geometry": {"coordinates":[-73.617836,45.515839],"type":"Point"}
 }

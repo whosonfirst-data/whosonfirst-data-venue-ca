@@ -2,13 +2,14 @@
   "id": 152428951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.261345,43.148838,-79.261345,43.148838",
     "geom:latitude":43.148838,
     "geom:longitude":-79.261345,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"76 Ridley Rd",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864651,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"dae588061fcf825ad0f2df55c88a18a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864651,
+            "region_id":85682057,
+            "venue_id":152428951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864651,
             "region_id":85682057,
             "venue_id":152428951
         }
     ],
     "wof:id":152428951,
-    "wof:lastmodified":1449048605,
+    "wof:lastmodified":1453936092,
     "wof:name":"Mac Kay Heating & Cooling",
     "wof:parent_id":85864651,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.261345,43.148838,-79.261345,43.148838],
-  "geometry": {"coordinates":[-79.261345,43.148838],"type":"Point"}
+  "bbox": [
+    -79.261345,
+    43.148838,
+    -79.261345,
+    43.148838
+],
+  "geometry": {"coordinates":[-79.26134500000001,43.148838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202452281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.721504,45.528751,-73.721504,45.528751",
     "geom:latitude":45.528751,
     "geom:longitude":-73.721504,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12245 Boul Laurentien",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874375,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"a21b74d2c2a2f313d253b97e768031c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874375,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202452281
         }
     ],
     "wof:id":202452281,
-    "wof:lastmodified":1449060706,
+    "wof:lastmodified":1453937102,
     "wof:name":"Couche-Tard",
     "wof:parent_id":85874375,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.721504,45.528751,-73.721504,45.528751],
+  "bbox": [
+    -73.721504,
+    45.528751,
+    -73.721504,
+    45.528751
+],
   "geometry": {"coordinates":[-73.721504,45.528751],"type":"Point"}
 }

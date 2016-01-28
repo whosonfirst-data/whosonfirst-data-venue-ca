@@ -2,13 +2,14 @@
   "id": 219664945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.574127,49.191216,-122.574127,49.191216",
     "geom:latitude":49.191216,
     "geom:longitude":-122.574127,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"23352 Mckay Ave",
     "sg:city":"Maple Ridge",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894779,
+        102191575,
         85633041,
-        85682117
+        101740805,
+        85682117,
+        101746133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"a2a175cc1fe932d84065cda13ef8cb45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740805,
+            "neighbourhood_id":85894779,
+            "region_id":85682117,
+            "venue_id":219664945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101746133,
             "neighbourhood_id":85894779,
             "region_id":85682117,
             "venue_id":219664945
         }
     ],
     "wof:id":219664945,
-    "wof:lastmodified":1449071689,
+    "wof:lastmodified":1453937719,
     "wof:name":"Haney Cedar Products Ltd",
     "wof:parent_id":85894779,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.574127,49.191216,-122.574127,49.191216],
+  "bbox": [
+    -122.574127,
+    49.191216,
+    -122.574127,
+    49.191216
+],
   "geometry": {"coordinates":[-122.574127,49.191216],"type":"Point"}
 }

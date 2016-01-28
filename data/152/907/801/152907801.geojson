@@ -2,13 +2,14 @@
   "id": 152907801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.250824,43.165363,-79.250824,43.165363",
     "geom:latitude":43.165363,
     "geom:longitude":-79.250824,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"117 Lake St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"8840df7f384755b741c60d47ca1ec364",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":152907801
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":152907801
         }
     ],
     "wof:id":152907801,
-    "wof:lastmodified":1449048569,
+    "wof:lastmodified":1453936070,
     "wof:name":"Covello, Dennis A",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.250824,43.165363,-79.250824,43.165363],
-  "geometry": {"coordinates":[-79.250824,43.165363],"type":"Point"}
+  "bbox": [
+    -79.250824,
+    43.165363,
+    -79.250824,
+    43.165363
+],
+  "geometry": {"coordinates":[-79.25082399999999,43.165363],"type":"Point"}
 }

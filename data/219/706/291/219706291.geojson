@@ -2,13 +2,14 @@
   "id": 219706291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.031265,51.094585,-114.031265,51.094585",
     "geom:latitude":51.094585,
     "geom:longitude":-114.031265,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Calgary",
     "sg:classifiers":[
         {
@@ -28,8 +29,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874623,
         85633041,
+        102554947,
+        85874585,
         85682091
     ],
     "wof:breaches":[],
@@ -40,18 +42,17 @@
     "wof:geomhash":"64498e5155909887be367e6b5e44f124",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554947,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":85874623,
+            "neighbourhood_id":85874585,
             "region_id":85682091,
             "venue_id":219706291
         }
     ],
     "wof:id":219706291,
-    "wof:lastmodified":1449070636,
+    "wof:lastmodified":1453937569,
     "wof:name":"Junktiques Limited",
-    "wof:parent_id":85874623,
+    "wof:parent_id":102554947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +62,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-114.031265,51.094585,-114.031265,51.094585],
+  "bbox": [
+    -114.031265,
+    51.094585,
+    -114.031265,
+    51.094585
+],
   "geometry": {"coordinates":[-114.031265,51.094585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169513807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.498619,45.4044,-73.498619,45.4044",
     "geom:latitude":45.4044,
     "geom:longitude":-73.498619,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1119 Boul Taschereau",
     "sg:city":"LA Prairie",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875779,
+        102191575,
         85633041,
-        85875779
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"fc27d983bbb265cc163647d8a62e2833",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875779,
+            "region_id":136251273,
             "venue_id":169513807
         }
     ],
     "wof:id":169513807,
-    "wof:lastmodified":1449034872,
+    "wof:lastmodified":1453931101,
     "wof:name":"Resto Mag",
     "wof:parent_id":85875779,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.498619,45.4044,-73.498619,45.4044],
-  "geometry": {"coordinates":[-73.498619,45.4044],"type":"Point"}
+  "bbox": [
+    -73.498619,
+    45.4044,
+    -73.498619,
+    45.4044
+],
+  "geometry": {"coordinates":[-73.49861900000001,45.4044],"type":"Point"}
 }

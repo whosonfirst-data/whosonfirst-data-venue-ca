@@ -2,13 +2,14 @@
   "id": 169413749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.617279,43.693012,-79.617279,43.693012",
     "geom:latitude":43.693012,
     "geom:longitude":-79.617279,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3180 American Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,10 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740755,
+        102555091,
+        85866433,
+        102191575,
         85633041,
-        85682057,
-        101735893
+        101735835,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,27 +44,29 @@
     "wof:geomhash":"49b8e7b9a65a22f68f09728e717b52b2",
     "wof:hierarchy":[
         {
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101740755,
-            "region_id":85682057,
-            "venue_id":169413749
-        },
-        {
-            "country_id":85633041,
-            "locality_id":101735893,
+            "locality_id":101735835,
+            "neighbourhood_id":85866433,
             "region_id":85682057,
             "venue_id":169413749
         }
     ],
     "wof:id":169413749,
-    "wof:lastmodified":1449033213,
+    "wof:lastmodified":1453929302,
     "wof:name":"Brunner Canada Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.617279,43.693012,-79.617279,43.693012],
+  "bbox": [
+    -79.617279,
+    43.693012,
+    -79.617279,
+    43.693012
+],
   "geometry": {"coordinates":[-79.617279,43.693012],"type":"Point"}
 }

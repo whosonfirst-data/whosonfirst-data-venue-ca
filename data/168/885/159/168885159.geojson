@@ -2,13 +2,14 @@
   "id": 168885159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.676331,52.167645,-106.676331,52.167645",
     "geom:latitude":52.167645,
     "geom:longitude":-106.676331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"Hanger 3",
     "sg:city":"Saskatoon",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740015,
-        85633041,
+        102555161,
         85784799,
+        102191575,
+        85633041,
+        101740015,
         85682113
     ],
     "wof:breaches":[],
@@ -41,6 +44,8 @@
     "wof:geomhash":"3682900b3ee311b7739982819659c602",
     "wof:hierarchy":[
         {
+            "campus_id":102555161,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740015,
             "neighbourhood_id":85784799,
@@ -49,14 +54,19 @@
         }
     ],
     "wof:id":168885159,
-    "wof:lastmodified":1449028180,
+    "wof:lastmodified":1453928241,
     "wof:name":"West Wind Avtech Svc",
-    "wof:parent_id":85784799,
+    "wof:parent_id":102555161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.676331,52.167645,-106.676331,52.167645],
+  "bbox": [
+    -106.676331,
+    52.167645,
+    -106.676331,
+    52.167645
+],
   "geometry": {"coordinates":[-106.676331,52.167645],"type":"Point"}
 }

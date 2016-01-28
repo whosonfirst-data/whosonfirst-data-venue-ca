@@ -2,13 +2,14 @@
   "id": 169458295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.271545,43.838795,-79.271545,43.838795",
     "geom:latitude":43.838795,
     "geom:longitude":-79.271545,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"43 William Honey Cres",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895663,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ba710e71f7a2cacd2f7ad9fd71893540",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895663,
+            "region_id":85682057,
+            "venue_id":169458295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895663,
             "region_id":85682057,
             "venue_id":169458295
         }
     ],
     "wof:id":169458295,
-    "wof:lastmodified":1449035028,
+    "wof:lastmodified":1453931245,
     "wof:name":"Advance Unique Taxi & Limo",
     "wof:parent_id":85895663,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.271545,43.838795,-79.271545,43.838795],
+  "bbox": [
+    -79.271545,
+    43.838795,
+    -79.271545,
+    43.838795
+],
   "geometry": {"coordinates":[-79.271545,43.838795],"type":"Point"}
 }

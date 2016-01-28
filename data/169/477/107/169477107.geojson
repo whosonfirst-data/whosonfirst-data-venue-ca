@@ -2,13 +2,14 @@
   "id": 169477107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.612495,43.656071,-79.612495,43.656071",
     "geom:latitude":43.656071,
     "geom:longitude":-79.612495,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5285 Solar Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
+        102555091,
+        85866433,
+        102191575,
         85633041,
-        85895447,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -40,22 +43,29 @@
     "wof:geomhash":"e45f58156dbde8bed722ea2ed3b951f4",
     "wof:hierarchy":[
         {
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
-            "neighbourhood_id":85895447,
+            "neighbourhood_id":85866433,
             "region_id":85682057,
             "venue_id":169477107
         }
     ],
     "wof:id":169477107,
-    "wof:lastmodified":1449033256,
+    "wof:lastmodified":1453929361,
     "wof:name":"Randvest Inc",
-    "wof:parent_id":85895447,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.612495,43.656071,-79.612495,43.656071],
+  "bbox": [
+    -79.612495,
+    43.656071,
+    -79.612495,
+    43.656071
+],
   "geometry": {"coordinates":[-79.612495,43.656071],"type":"Point"}
 }

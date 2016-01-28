@@ -2,13 +2,14 @@
   "id": 203375185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.524261,43.852303,-79.524261,43.852303",
     "geom:latitude":43.852303,
     "geom:longitude":-79.524261,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2601 Major Mackenzie Dr",
     "sg:city":"Maple",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895339,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"71a4cab2a6c699aae1f290360c312e90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895339,
+            "region_id":85682057,
+            "venue_id":203375185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895339,
             "region_id":85682057,
             "venue_id":203375185
         }
     ],
     "wof:id":203375185,
-    "wof:lastmodified":1449025018,
+    "wof:lastmodified":1453927421,
     "wof:name":"St David Parish",
     "wof:parent_id":85895339,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "church"
     ]
 },
-  "bbox": [-79.524261,43.852303,-79.524261,43.852303],
+  "bbox": [
+    -79.524261,
+    43.852303,
+    -79.524261,
+    43.852303
+],
   "geometry": {"coordinates":[-79.524261,43.852303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169222459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.474899,45.747864,-73.474899,45.747864",
     "geom:latitude":45.747864,
     "geom:longitude":-73.474899,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"265 Boul Lacombe",
     "sg:city":"Le Gardeur",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4176c5a69b52e0a59965871460871fa1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169222459
         }
     ],
     "wof:id":169222459,
-    "wof:lastmodified":1449034899,
+    "wof:lastmodified":1453931118,
     "wof:name":"Resto Pub Le Mousqueton",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.474899,45.747864,-73.474899,45.747864],
-  "geometry": {"coordinates":[-73.474899,45.747864],"type":"Point"}
+  "bbox": [
+    -73.474899,
+    45.747864,
+    -73.474899,
+    45.747864
+],
+  "geometry": {"coordinates":[-73.47489899999999,45.747864],"type":"Point"}
 }

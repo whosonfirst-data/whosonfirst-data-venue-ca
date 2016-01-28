@@ -2,13 +2,14 @@
   "id": 202792109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.595573,45.561733,-73.595573,45.561733",
     "geom:latitude":45.561733,
     "geom:longitude":-73.595573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3562 Rue Jean-Talon E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871109,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"249b9991ad492c9ba2fd1e7055152b22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202792109
         }
     ],
     "wof:id":202792109,
-    "wof:lastmodified":1449060666,
+    "wof:lastmodified":1453937090,
     "wof:name":"Poissonnerie Jean Talon Ltee",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "prepared"
     ]
 },
-  "bbox": [-73.595573,45.561733,-73.595573,45.561733],
+  "bbox": [
+    -73.595573,
+    45.561733,
+    -73.595573,
+    45.561733
+],
   "geometry": {"coordinates":[-73.595573,45.561733],"type":"Point"}
 }

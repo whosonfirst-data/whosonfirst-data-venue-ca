@@ -2,13 +2,14 @@
   "id": 169444753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.980637,45.368958,-71.980637,45.368958",
     "geom:latitude":45.368958,
     "geom:longitude":-71.980637,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4754 Rue Guillaume",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"016ac5f01bb9d887e91892dbe5f29706",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":169444753
         }
     ],
     "wof:id":169444753,
-    "wof:lastmodified":1449035508,
+    "wof:lastmodified":1453931745,
     "wof:name":"Brigitte Blanchet Electrolyse",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.980637,45.368958,-71.980637,45.368958],
+  "bbox": [
+    -71.980637,
+    45.368958,
+    -71.980637,
+    45.368958
+],
   "geometry": {"coordinates":[-71.980637,45.368958],"type":"Point"}
 }

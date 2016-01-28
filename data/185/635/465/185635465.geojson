@@ -2,13 +2,14 @@
   "id": 185635465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.555199,45.512463,-73.555199,45.512463",
     "geom:latitude":45.512463,
     "geom:longitude":-73.555199,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"497 Av Viger O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866483,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"e14a7b82c40158f0c84e29654cb96cee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185635465
         }
     ],
     "wof:id":185635465,
-    "wof:lastmodified":1449007314,
+    "wof:lastmodified":1453927281,
     "wof:name":"Depanner Beaver Hall Viger",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.555199,45.512463,-73.555199,45.512463],
+  "bbox": [
+    -73.555199,
+    45.512463,
+    -73.555199,
+    45.512463
+],
   "geometry": {"coordinates":[-73.555199,45.512463],"type":"Point"}
 }

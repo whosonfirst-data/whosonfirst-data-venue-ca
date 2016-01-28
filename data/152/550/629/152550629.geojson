@@ -2,13 +2,14 @@
   "id": 152550629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.622459,45.540508,-73.622459,45.540508",
     "geom:latitude":45.540508,
     "geom:longitude":-73.622459,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7670 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"9f46a7af880b6e41a9791c778e962625",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152550629
         }
     ],
     "wof:id":152550629,
-    "wof:lastmodified":1449046802,
+    "wof:lastmodified":1453934721,
     "wof:name":"Armand R Yves Bastien & Assoc",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.622459,45.540508,-73.622459,45.540508],
-  "geometry": {"coordinates":[-73.622459,45.540508],"type":"Point"}
+  "bbox": [
+    -73.622459,
+    45.540508,
+    -73.622459,
+    45.540508
+],
+  "geometry": {"coordinates":[-73.62245900000001,45.540508],"type":"Point"}
 }

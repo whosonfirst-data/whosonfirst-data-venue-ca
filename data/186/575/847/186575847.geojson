@@ -2,13 +2,14 @@
   "id": 186575847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.545418,46.341579,-72.545418,46.341579",
     "geom:latitude":46.341579,
     "geom:longitude":-72.545418,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"460 Rue Saint-Georges",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874119,
+        102191575,
         85633041,
-        101738021
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"d855db5447f573eb41b4cf107e83e1ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186575847
         }
     ],
     "wof:id":186575847,
-    "wof:lastmodified":1449051151,
+    "wof:lastmodified":1453936607,
     "wof:name":"Centre D'Acces Aux Arts-Fenetr",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-72.545418,46.341579,-72.545418,46.341579],
+  "bbox": [
+    -72.545418,
+    46.341579,
+    -72.545418,
+    46.341579
+],
   "geometry": {"coordinates":[-72.545418,46.341579],"type":"Point"}
 }

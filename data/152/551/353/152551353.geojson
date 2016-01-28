@@ -2,13 +2,14 @@
   "id": 152551353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.912613,43.886688,-78.912613,43.886688",
     "geom:latitude":43.886688,
     "geom:longitude":-78.912613,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1602 Dundas St E",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875157,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"7c4c06b06127bb3d875a17486b8b79cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875157,
+            "region_id":85682057,
+            "venue_id":152551353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875157,
             "region_id":85682057,
             "venue_id":152551353
         }
     ],
     "wof:id":152551353,
-    "wof:lastmodified":1449045229,
+    "wof:lastmodified":1453933533,
     "wof:name":"Oil Changers",
     "wof:parent_id":85875157,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.912613,43.886688,-78.912613,43.886688],
-  "geometry": {"coordinates":[-78.912613,43.886688],"type":"Point"}
+  "bbox": [
+    -78.912613,
+    43.886688,
+    -78.912613,
+    43.886688
+],
+  "geometry": {"coordinates":[-78.91261299999999,43.886688],"type":"Point"}
 }

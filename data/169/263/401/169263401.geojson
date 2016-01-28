@@ -2,13 +2,14 @@
   "id": 169263401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.905624,45.384037,-71.905624,45.384037",
     "geom:latitude":45.384037,
     "geom:longitude":-71.905624,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1495 Place Du Dauphin",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874185,
+        102191575,
         85633041,
-        85874185
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"22a12e987f93ce5d84d33ebfd8364804",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874185,
+            "region_id":136251273,
             "venue_id":169263401
         }
     ],
     "wof:id":169263401,
-    "wof:lastmodified":1449035867,
+    "wof:lastmodified":1453932157,
     "wof:name":"Joubert, Jean-Marc MD",
     "wof:parent_id":85874185,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.905624,45.384037,-71.905624,45.384037],
+  "bbox": [
+    -71.905624,
+    45.384037,
+    -71.905624,
+    45.384037
+],
   "geometry": {"coordinates":[-71.905624,45.384037],"type":"Point"}
 }

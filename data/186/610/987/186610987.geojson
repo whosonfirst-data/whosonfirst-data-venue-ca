@@ -2,13 +2,14 @@
   "id": 186610987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.731613,45.499817,-73.731613,45.499817",
     "geom:latitude":45.499817,
     "geom:longitude":-73.731613,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5555 Boul Thimens",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895749,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"16cb11a0537512e108a2e5c8551da369",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186610987
         }
     ],
     "wof:id":186610987,
-    "wof:lastmodified":1449052991,
+    "wof:lastmodified":1453936939,
     "wof:name":"Riviera Inc",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [-73.731613,45.499817,-73.731613,45.499817],
+  "bbox": [
+    -73.731613,
+    45.499817,
+    -73.731613,
+    45.499817
+],
   "geometry": {"coordinates":[-73.731613,45.499817],"type":"Point"}
 }

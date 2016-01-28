@@ -2,13 +2,14 @@
   "id": 169375107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.50988,43.463505,-80.50988,43.463505",
     "geom:latitude":43.463505,
     "geom:longitude":-80.50988,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Waterloo",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874983,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"746ffcf760a89215a9b300baebd67662",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874983,
+            "region_id":85682057,
+            "venue_id":169375107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85874983,
             "region_id":85682057,
             "venue_id":169375107
         }
     ],
     "wof:id":169375107,
-    "wof:lastmodified":1449032804,
+    "wof:lastmodified":1453928930,
     "wof:name":"Casselli Eye Care Ctr",
     "wof:parent_id":85874983,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.50988,43.463505,-80.50988,43.463505],
+  "bbox": [
+    -80.50988,
+    43.463505,
+    -80.50988,
+    43.463505
+],
   "geometry": {"coordinates":[-80.50988,43.463505],"type":"Point"}
 }

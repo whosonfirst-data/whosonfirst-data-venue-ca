@@ -2,13 +2,14 @@
   "id": 169400651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.171463,43.019283,-81.171463,43.019283",
     "geom:latitude":43.019283,
     "geom:longitude":-81.171463,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2016 Oxford St E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "truss"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2umsVzcRrAHWz4yhW6DUdT_43.019283_-81.171463@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ea6b460bb08f45e8cbfba96c180cd29c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":169400651
+        }
+    ],
     "wof:id":169400651,
-    "wof:lastmodified":1449032989,
+    "wof:lastmodified":1453929123,
     "wof:name":"Timberfield Roof Truss",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.171463,43.019283,-81.171463,43.019283],
+  "bbox": [
+    -81.171463,
+    43.019283,
+    -81.171463,
+    43.019283
+],
   "geometry": {"coordinates":[-81.171463,43.019283],"type":"Point"}
 }

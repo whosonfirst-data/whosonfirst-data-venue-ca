@@ -2,13 +2,14 @@
   "id": 152158757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.176781,48.419376,-71.176781,48.419376",
     "geom:latitude":48.419376,
     "geom:longitude":-71.176781,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2797 Rue Hocquart",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"73ed73da3d84e49f6cf5fafa49e07cc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152158757
         }
     ],
     "wof:id":152158757,
-    "wof:lastmodified":1449047378,
+    "wof:lastmodified":1453935163,
     "wof:name":"Maison D'Hebergement Sos",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.176781,48.419376,-71.176781,48.419376],
-  "geometry": {"coordinates":[-71.176781,48.419376],"type":"Point"}
+  "bbox": [
+    -71.176781,
+    48.419376,
+    -71.176781,
+    48.419376
+],
+  "geometry": {"coordinates":[-71.17678100000001,48.419376],"type":"Point"}
 }

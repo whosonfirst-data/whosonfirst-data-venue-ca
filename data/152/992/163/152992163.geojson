@@ -2,13 +2,14 @@
   "id": 152992163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.451859,45.516689,-73.451859,45.516689",
     "geom:latitude":45.516689,
     "geom:longitude":-73.451859,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3180 Ch DE Chambly",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a1ca21689a400349a2fd9865ad337df8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":152992163
         }
     ],
     "wof:id":152992163,
-    "wof:lastmodified":1449046488,
+    "wof:lastmodified":1453934494,
     "wof:name":"Clinique Dentaire Benoit",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.451859,45.516689,-73.451859,45.516689],
+  "bbox": [
+    -73.451859,
+    45.516689,
+    -73.451859,
+    45.516689
+],
   "geometry": {"coordinates":[-73.451859,45.516689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169381531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.512718,45.503075,-73.512718,45.503075",
     "geom:latitude":45.503075,
     "geom:longitude":-73.512718,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"414 Av Notre-Dame",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"4f4b4637afc43fccad77bf2a0fbd0b4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":169381531
         }
     ],
     "wof:id":169381531,
-    "wof:lastmodified":1449032946,
+    "wof:lastmodified":1453929069,
     "wof:name":"Design Christine Freniere",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.512718,45.503075,-73.512718,45.503075],
-  "geometry": {"coordinates":[-73.512718,45.503075],"type":"Point"}
+  "bbox": [
+    -73.512718,
+    45.503075,
+    -73.512718,
+    45.503075
+],
+  "geometry": {"coordinates":[-73.51271800000001,45.503075],"type":"Point"}
 }

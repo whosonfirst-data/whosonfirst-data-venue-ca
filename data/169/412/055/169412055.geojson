@@ -2,13 +2,14 @@
   "id": 169412055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.299934,45.454659,-73.299934,45.454659",
     "geom:latitude":45.454659,
     "geom:longitude":-73.299934,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1243 Av Bourgogne",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895747,
+        102191575,
         85633041,
-        85895747
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"64388ea0c9edc11f93b35ad57bf40f64",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
+            "region_id":136251273,
             "venue_id":169412055
         }
     ],
     "wof:id":169412055,
-    "wof:lastmodified":1449033360,
+    "wof:lastmodified":1453929465,
     "wof:name":"Luc Noiseaux Mecanique Enr",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.299934,45.454659,-73.299934,45.454659],
-  "geometry": {"coordinates":[-73.299934,45.454659],"type":"Point"}
+  "bbox": [
+    -73.299934,
+    45.454659,
+    -73.299934,
+    45.454659
+],
+  "geometry": {"coordinates":[-73.29993399999999,45.454659],"type":"Point"}
 }

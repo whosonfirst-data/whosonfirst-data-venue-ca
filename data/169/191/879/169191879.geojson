@@ -2,13 +2,14 @@
   "id": 169191879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.393982,46.845394,-71.393982,46.845394",
     "geom:latitude":46.845394,
     "geom:longitude":-71.393982,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12740 Boul Saint-Claude",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864395,
+        102191575,
         85633041,
-        85864395
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"2c71362f84a58c11cce6762bbc0fd1fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864395,
+            "region_id":136251273,
             "venue_id":169191879
         }
     ],
     "wof:id":169191879,
-    "wof:lastmodified":1449034683,
+    "wof:lastmodified":1453930878,
     "wof:name":"Garage Gerard Martel",
     "wof:parent_id":85864395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.393982,46.845394,-71.393982,46.845394],
-  "geometry": {"coordinates":[-71.393982,46.845394],"type":"Point"}
+  "bbox": [
+    -71.393982,
+    46.845394,
+    -71.393982,
+    46.845394
+],
+  "geometry": {"coordinates":[-71.39398199999999,46.845394],"type":"Point"}
 }

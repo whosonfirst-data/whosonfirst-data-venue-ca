@@ -2,13 +2,14 @@
   "id": 152179005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.746704,45.590313,-73.746704,45.590313",
     "geom:latitude":45.590313,
     "geom:longitude":-73.746704,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1446 Rue Michelin",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897565,
+        102191575,
         85633041,
-        85897565
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7ba356fde0d33a2c1866e70691470d7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897565,
+            "region_id":136251273,
             "venue_id":152179005
         }
     ],
     "wof:id":152179005,
-    "wof:lastmodified":1449048455,
+    "wof:lastmodified":1453935989,
     "wof:name":"Plastiglobe Corp",
     "wof:parent_id":85897565,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.746704,45.590313,-73.746704,45.590313],
-  "geometry": {"coordinates":[-73.746704,45.590313],"type":"Point"}
+  "bbox": [
+    -73.746704,
+    45.590313,
+    -73.746704,
+    45.590313
+],
+  "geometry": {"coordinates":[-73.74670399999999,45.590313],"type":"Point"}
 }

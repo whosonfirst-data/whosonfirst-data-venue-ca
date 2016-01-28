@@ -2,13 +2,14 @@
   "id": 152989295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574806,45.532413,-73.574806,45.532413",
     "geom:latitude":45.532413,
     "geom:longitude":-73.574806,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1678 Av Du Mont-Royal E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"99e6f298a34594f7dd621aa053d4ae12",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152989295
         }
     ],
     "wof:id":152989295,
-    "wof:lastmodified":1449047691,
+    "wof:lastmodified":1453935417,
     "wof:name":"Tabagie Joe",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574806,45.532413,-73.574806,45.532413],
+  "bbox": [
+    -73.574806,
+    45.532413,
+    -73.574806,
+    45.532413
+],
   "geometry": {"coordinates":[-73.574806,45.532413],"type":"Point"}
 }

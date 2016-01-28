@@ -2,13 +2,14 @@
   "id": 186323325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.764313,45.584839,-73.764313,45.584839",
     "geom:latitude":45.584839,
     "geom:longitude":-73.764313,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2345 Rue Michelin",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897565,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"eee62fc9fc6e79d021aa157546d68f72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897565,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186323325
         }
     ],
     "wof:id":186323325,
-    "wof:lastmodified":1449050475,
+    "wof:lastmodified":1453936520,
     "wof:name":"Groupe Bois D'Or Inc",
     "wof:parent_id":85897565,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-73.764313,45.584839,-73.764313,45.584839],
+  "bbox": [
+    -73.764313,
+    45.584839,
+    -73.764313,
+    45.584839
+],
   "geometry": {"coordinates":[-73.764313,45.584839],"type":"Point"}
 }

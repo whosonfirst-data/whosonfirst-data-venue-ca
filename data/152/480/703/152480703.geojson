@@ -2,13 +2,14 @@
   "id": 152480703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.079567,48.40451,-71.079567,48.40451",
     "geom:latitude":48.40451,
     "geom:longitude":-71.079567,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"349 Rue Emile-Nelligan",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"41960a19a47ee0a60cc4a4798f0f1f2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152480703
         }
     ],
     "wof:id":152480703,
-    "wof:lastmodified":1449045811,
+    "wof:lastmodified":1453933981,
     "wof:name":"Groupe Architectonic Inc",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.079567,48.40451,-71.079567,48.40451],
+  "bbox": [
+    -71.079567,
+    48.40451,
+    -71.079567,
+    48.40451
+],
   "geometry": {"coordinates":[-71.079567,48.40451],"type":"Point"}
 }

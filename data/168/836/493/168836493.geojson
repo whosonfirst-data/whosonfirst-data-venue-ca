@@ -2,13 +2,14 @@
   "id": 168836493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.490845,43.820339,-79.490845,43.820339",
     "geom:latitude":43.820339,
     "geom:longitude":-79.490845,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15 Connie Cres",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895537,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"3860fa7e062c902046abe7d3800b7828",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895537,
+            "region_id":85682057,
+            "venue_id":168836493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895537,
             "region_id":85682057,
             "venue_id":168836493
         }
     ],
     "wof:id":168836493,
-    "wof:lastmodified":1449028279,
+    "wof:lastmodified":1453928351,
     "wof:name":"Plumbco Trading Inc",
     "wof:parent_id":85895537,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.490845,43.820339,-79.490845,43.820339],
-  "geometry": {"coordinates":[-79.490845,43.820339],"type":"Point"}
+  "bbox": [
+    -79.490845,
+    43.820339,
+    -79.490845,
+    43.820339
+],
+  "geometry": {"coordinates":[-79.49084499999999,43.820339],"type":"Point"}
 }

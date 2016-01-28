@@ -2,13 +2,14 @@
   "id": 153010327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.061096,48.439835,-71.061096,48.439835",
     "geom:latitude":48.439835,
     "geom:longitude":-71.061096,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2090 Boul DE Tadoussac",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"2e6ce240a5f4d6d789142a1d4e80ca6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":153010327
         }
     ],
     "wof:id":153010327,
-    "wof:lastmodified":1449040649,
+    "wof:lastmodified":1453932572,
     "wof:name":"Ecole Notre-Dame-Du-Rosaire",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.061096,48.439835,-71.061096,48.439835],
-  "geometry": {"coordinates":[-71.061096,48.439835],"type":"Point"}
+  "bbox": [
+    -71.061096,
+    48.439835,
+    -71.061096,
+    48.439835
+],
+  "geometry": {"coordinates":[-71.06109600000001,48.439835],"type":"Point"}
 }

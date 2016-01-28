@@ -2,13 +2,14 @@
   "id": 152263289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.796005,45.483582,-73.796005,45.483582",
     "geom:latitude":45.483582,
     "geom:longitude":-73.796005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3335 Boul Des Sources",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85784719,
+        102191575,
         85633041,
-        85784719
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"14411c375c0f613b093b94391330eb84",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85784719,
+            "region_id":136251273,
             "venue_id":152263289
         }
     ],
     "wof:id":152263289,
-    "wof:lastmodified":1449048783,
+    "wof:lastmodified":1453936242,
     "wof:name":"Ultramar",
     "wof:parent_id":85784719,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.796005,45.483582,-73.796005,45.483582],
-  "geometry": {"coordinates":[-73.796005,45.483582],"type":"Point"}
+  "bbox": [
+    -73.796005,
+    45.483582,
+    -73.796005,
+    45.483582
+],
+  "geometry": {"coordinates":[-73.79600499999999,45.483582],"type":"Point"}
 }

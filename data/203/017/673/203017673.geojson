@@ -2,13 +2,14 @@
   "id": 203017673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.543053,45.5826,-73.543053,45.5826",
     "geom:latitude":45.5826,
     "geom:longitude":-73.543053,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6634 Rue Sherbrooke O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874169,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"361c90667f379511dc79cb0f40ebe12a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203017673
         }
     ],
     "wof:id":203017673,
-    "wof:lastmodified":1449025954,
+    "wof:lastmodified":1453927596,
     "wof:name":"Nettoyeur Mirabel Inc",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.543053,45.5826,-73.543053,45.5826],
+  "bbox": [
+    -73.543053,
+    45.5826,
+    -73.543053,
+    45.5826
+],
   "geometry": {"coordinates":[-73.543053,45.5826],"type":"Point"}
 }

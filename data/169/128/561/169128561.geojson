@@ -2,13 +2,14 @@
   "id": 169128561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.338333,43.006584,-81.338333,43.006584",
     "geom:latitude":43.006584,
     "geom:longitude":-81.338333,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1895 Blue Heron Dr",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874935,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B5lrqhPOx4hdVr1VgnqzB_43.006584_-81.338333@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d31761295702ef23c32d10a7d359c3d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
+            "region_id":85682057,
+            "venue_id":169128561
+        }
+    ],
     "wof:id":169128561,
-    "wof:lastmodified":1449033970,
+    "wof:lastmodified":1453930128,
     "wof:name":"London Trim & Door CO Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.338333,43.006584,-81.338333,43.006584],
-  "geometry": {"coordinates":[-81.338333,43.006584],"type":"Point"}
+  "bbox": [
+    -81.338333,
+    43.006584,
+    -81.338333,
+    43.006584
+],
+  "geometry": {"coordinates":[-81.33833300000001,43.006584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169407011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.447006,45.745548,-73.447006,45.745548",
     "geom:latitude":45.745548,
     "geom:longitude":-73.447006,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"510 Boul Iberville",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a1fe54ed3d70c3d39fb730f0ed674865",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169407011
         }
     ],
     "wof:id":169407011,
-    "wof:lastmodified":1449034524,
+    "wof:lastmodified":1453930719,
     "wof:name":"Boucherie Rive Nord Inc",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.447006,45.745548,-73.447006,45.745548],
+  "bbox": [
+    -73.447006,
+    45.745548,
+    -73.447006,
+    45.745548
+],
   "geometry": {"coordinates":[-73.447006,45.745548],"type":"Point"}
 }

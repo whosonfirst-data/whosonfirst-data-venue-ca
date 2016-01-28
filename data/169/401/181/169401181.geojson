@@ -2,13 +2,14 @@
   "id": 169401181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.287125,46.76762,-71.287125,46.76762",
     "geom:latitude":46.76762,
     "geom:longitude":-71.287125,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2825 Boul Laurier",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"599d979ea3857baf68b78d54d34a5852",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":169401181
         }
     ],
     "wof:id":169401181,
-    "wof:lastmodified":1449035474,
+    "wof:lastmodified":1453931699,
     "wof:name":"Cafe Resto Presse Cafe",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.287125,46.76762,-71.287125,46.76762],
+  "bbox": [
+    -71.287125,
+    46.76762,
+    -71.287125,
+    46.76762
+],
   "geometry": {"coordinates":[-71.287125,46.76762],"type":"Point"}
 }

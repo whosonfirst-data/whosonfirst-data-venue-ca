@@ -2,13 +2,14 @@
   "id": 152952745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.804642,44.014076,-79.804642,44.014076",
     "geom:latitude":44.014076,
     "geom:longitude":-79.804642,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1666 Tottenham Rd",
     "sg:city":"Tottenham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895057,
         102191575,
         85633041,
-        85895057
+        101736229,
+        85682057,
+        101740747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736229,
             "neighbourhood_id":85895057,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152952745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740747,
+            "neighbourhood_id":85895057,
+            "region_id":85682057,
             "venue_id":152952745
         }
     ],
     "wof:id":152952745,
-    "wof:lastmodified":1449047629,
+    "wof:lastmodified":1453935365,
     "wof:name":"Rod Abrams Funeral Home",
     "wof:parent_id":85895057,
     "wof:placetype":"venue",
@@ -57,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.804642,44.014076,-79.804642,44.014076],
+  "bbox": [
+    -79.804642,
+    44.014076,
+    -79.804642,
+    44.014076
+],
   "geometry": {"coordinates":[-79.804642,44.014076],"type":"Point"}
 }

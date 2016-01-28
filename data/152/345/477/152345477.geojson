@@ -2,13 +2,14 @@
   "id": 152345477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.207245,46.813335,-71.207245,46.813335",
     "geom:latitude":46.813335,
     "geom:longitude":-71.207245,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"17 Rue Des Jardins",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866515,
+        102191575,
         85633041,
-        85866515
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"924a1122d141d929d381c20fdc7320f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866515,
+            "region_id":136251273,
             "venue_id":152345477
         }
     ],
     "wof:id":152345477,
-    "wof:lastmodified":1449048557,
+    "wof:lastmodified":1453936064,
     "wof:name":"Boutique Le Sachem Enr",
     "wof:parent_id":85866515,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.207245,46.813335,-71.207245,46.813335],
+  "bbox": [
+    -71.207245,
+    46.813335,
+    -71.207245,
+    46.813335
+],
   "geometry": {"coordinates":[-71.207245,46.813335],"type":"Point"}
 }

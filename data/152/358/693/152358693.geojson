@@ -2,13 +2,14 @@
   "id": 152358693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.565842,45.520729,-73.565842,45.520729",
     "geom:latitude":45.520729,
     "geom:longitude":-73.565842,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866475,
+        102191575,
         85633041,
-        85866475
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"758a01757662baf13af790f6ec97a4d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
+            "region_id":136251273,
             "venue_id":152358693
         }
     ],
     "wof:id":152358693,
-    "wof:lastmodified":1449046255,
+    "wof:lastmodified":1453934308,
     "wof:name":"Kutoka",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.565842,45.520729,-73.565842,45.520729],
+  "bbox": [
+    -73.565842,
+    45.520729,
+    -73.565842,
+    45.520729
+],
   "geometry": {"coordinates":[-73.565842,45.520729],"type":"Point"}
 }

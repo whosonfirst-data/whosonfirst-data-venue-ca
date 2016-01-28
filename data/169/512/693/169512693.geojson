@@ -2,13 +2,14 @@
   "id": 169512693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.680305,45.436749,-73.680305,45.436749",
     "geom:latitude":45.436749,
     "geom:longitude":-73.680305,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"405 18E Av",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784771,
+        102191575,
         85633041,
-        85784771
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"9976c3c2d83f620312fb317194a69e40",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784771,
+            "region_id":136251273,
             "venue_id":169512693
         }
     ],
     "wof:id":169512693,
-    "wof:lastmodified":1449035074,
+    "wof:lastmodified":1453931304,
     "wof:name":"Hydroponique Plus Inc",
     "wof:parent_id":85784771,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.680305,45.436749,-73.680305,45.436749],
+  "bbox": [
+    -73.680305,
+    45.436749,
+    -73.680305,
+    45.436749
+],
   "geometry": {"coordinates":[-73.680305,45.436749],"type":"Point"}
 }

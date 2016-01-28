@@ -2,13 +2,14 @@
   "id": 169315205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.65332,45.465786,-73.65332,45.465786",
     "geom:latitude":45.465786,
     "geom:longitude":-73.65332,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7016 Ch DE LA Cote-Saint-Luc",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85864407,
+        102191575,
         85633041,
-        85864407
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"f92b0bfe445d29bfea1c144fd376bd03",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
             "venue_id":169315205
         }
     ],
     "wof:id":169315205,
-    "wof:lastmodified":1449035789,
+    "wof:lastmodified":1453932065,
     "wof:name":"Carina Haute Coiffure Inc",
     "wof:parent_id":85864407,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.65332,45.465786,-73.65332,45.465786],
-  "geometry": {"coordinates":[-73.65332,45.465786],"type":"Point"}
+  "bbox": [
+    -73.65332,
+    45.465786,
+    -73.65332,
+    45.465786
+],
+  "geometry": {"coordinates":[-73.65331999999999,45.465786],"type":"Point"}
 }

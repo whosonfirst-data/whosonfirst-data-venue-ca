@@ -2,13 +2,14 @@
   "id": 169364981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.624275,43.598606,-79.624275,43.598606",
     "geom:latitude":43.598606,
     "geom:longitude":-79.624275,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1235 Mississauga Valley Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895225,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"e2c2f2db2fc08698a5f4c4c046476a85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895225,
+            "region_id":85682057,
+            "venue_id":169364981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895225,
             "region_id":85682057,
             "venue_id":169364981
         }
     ],
     "wof:id":169364981,
-    "wof:lastmodified":1449034545,
+    "wof:lastmodified":1453930753,
     "wof:name":"Valleys Senior School",
     "wof:parent_id":85895225,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.624275,43.598606,-79.624275,43.598606],
+  "bbox": [
+    -79.624275,
+    43.598606,
+    -79.624275,
+    43.598606
+],
   "geometry": {"coordinates":[-79.624275,43.598606],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168941937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.553001,45.532845,-73.553001,45.532845",
     "geom:latitude":45.532845,
     "geom:longitude":-73.553001,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2531 Rue Ontario E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874353,
+        102191575,
         85633041,
-        85874353
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"a345d9c9e3fab900016858a140ecf435",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874353,
+            "region_id":136251273,
             "venue_id":168941937
         }
     ],
     "wof:id":168941937,
-    "wof:lastmodified":1449028235,
+    "wof:lastmodified":1453928301,
     "wof:name":"Video 20-20",
     "wof:parent_id":85874353,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.553001,45.532845,-73.553001,45.532845],
-  "geometry": {"coordinates":[-73.553001,45.532845],"type":"Point"}
+  "bbox": [
+    -73.553001,
+    45.532845,
+    -73.553001,
+    45.532845
+],
+  "geometry": {"coordinates":[-73.55300099999999,45.532845],"type":"Point"}
 }

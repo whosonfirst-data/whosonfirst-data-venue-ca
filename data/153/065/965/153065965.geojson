@@ -2,13 +2,14 @@
   "id": 153065965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.699005,45.593609,-73.699005,45.593609",
     "geom:latitude":45.593609,
     "geom:longitude":-73.699005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1690 Place DE Lierre",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897577,
+        102191575,
         85633041,
-        85897577
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"c1c04552a3fcfeeac413987e396cfe32",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897577,
+            "region_id":136251273,
             "venue_id":153065965
         }
     ],
     "wof:id":153065965,
-    "wof:lastmodified":1449040821,
+    "wof:lastmodified":1453932725,
     "wof:name":"B & B Solutions Inc",
     "wof:parent_id":85897577,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.699005,45.593609,-73.699005,45.593609],
+  "bbox": [
+    -73.699005,
+    45.593609,
+    -73.699005,
+    45.593609
+],
   "geometry": {"coordinates":[-73.699005,45.593609],"type":"Point"}
 }

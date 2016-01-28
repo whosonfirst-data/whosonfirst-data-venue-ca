@@ -2,13 +2,14 @@
   "id": 169208653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720657,45.595917,-73.720657,45.595917",
     "geom:latitude":45.595917,
     "geom:longitude":-73.720657,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1671 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864417,
+        102191575,
         85633041,
-        85864417
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b94659ba8d1f36b154aee4f50f12bb48",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864417,
+            "region_id":136251273,
             "venue_id":169208653
         }
     ],
     "wof:id":169208653,
-    "wof:lastmodified":1449033065,
+    "wof:lastmodified":1453929188,
     "wof:name":"Location Sauvageau",
     "wof:parent_id":85864417,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.720657,45.595917,-73.720657,45.595917],
+  "bbox": [
+    -73.720657,
+    45.595917,
+    -73.720657,
+    45.595917
+],
   "geometry": {"coordinates":[-73.720657,45.595917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152385279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.622734,45.540867,-73.622734,45.540867",
     "geom:latitude":45.540867,
     "geom:longitude":-73.622734,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"ebaab4f2ff5ff92e01d0e9e48f9c98c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152385279
         }
     ],
     "wof:id":152385279,
-    "wof:lastmodified":1449047044,
+    "wof:lastmodified":1453934907,
     "wof:name":"Impot Plus",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.622734,45.540867,-73.622734,45.540867],
-  "geometry": {"coordinates":[-73.622734,45.540867],"type":"Point"}
+  "bbox": [
+    -73.622734,
+    45.540867,
+    -73.622734,
+    45.540867
+],
+  "geometry": {"coordinates":[-73.62273399999999,45.540867],"type":"Point"}
 }

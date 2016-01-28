@@ -2,13 +2,14 @@
   "id": 152565001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.856636,45.364742,-71.856636,45.364742",
     "geom:latitude":45.364742,
     "geom:longitude":-71.856636,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"85 Rue Queen # C",
     "sg:city":"Lennoxville",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85785017,
+        102191575,
         85633041,
-        85785017
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"568b2ac930cedb4a4b451b866e5f3b46",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85785017,
+            "region_id":136251273,
             "venue_id":152565001
         }
     ],
     "wof:id":152565001,
-    "wof:lastmodified":1449048511,
+    "wof:lastmodified":1453936035,
     "wof:name":"Coutu, Anne-Marie",
     "wof:parent_id":85785017,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.856636,45.364742,-71.856636,45.364742],
-  "geometry": {"coordinates":[-71.856636,45.364742],"type":"Point"}
+  "bbox": [
+    -71.856636,
+    45.364742,
+    -71.856636,
+    45.364742
+],
+  "geometry": {"coordinates":[-71.85663599999999,45.364742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169335881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.195312,43.001759,-81.195312,43.001759",
     "geom:latitude":43.001759,
     "geom:longitude":-81.195312,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "courier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2peoPdqWY9OBp3AwXvp8z2_43.001759_-81.195312@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b6ed3cdebbbfad5e800d433a272fa73c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":169335881
+        }
+    ],
     "wof:id":169335881,
-    "wof:lastmodified":1449034864,
+    "wof:lastmodified":1453931096,
     "wof:name":"Deliveral",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.195312,43.001759,-81.195312,43.001759],
+  "bbox": [
+    -81.195312,
+    43.001759,
+    -81.195312,
+    43.001759
+],
   "geometry": {"coordinates":[-81.195312,43.001759],"type":"Point"}
 }

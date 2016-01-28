@@ -2,13 +2,14 @@
   "id": 202509841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.750488,45.56813,-73.750488,45.56813",
     "geom:latitude":45.56813,
     "geom:longitude":-73.750488,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897569,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"b6cf5a2e18bfb306cc7c99f3f5ea1d9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897569,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202509841
         }
     ],
     "wof:id":202509841,
-    "wof:lastmodified":1449060197,
+    "wof:lastmodified":1453936992,
     "wof:name":"Clair DE Lune",
     "wof:parent_id":85897569,
     "wof:placetype":"venue",
@@ -59,6 +62,11 @@
         "toilet"
     ]
 },
-  "bbox": [-73.750488,45.56813,-73.750488,45.56813],
+  "bbox": [
+    -73.750488,
+    45.56813,
+    -73.750488,
+    45.56813
+],
   "geometry": {"coordinates":[-73.750488,45.56813],"type":"Point"}
 }

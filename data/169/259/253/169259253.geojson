@@ -2,13 +2,14 @@
   "id": 169259253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.193657,43.026344,-81.193657,43.026344",
     "geom:latitude":43.026344,
     "geom:longitude":-81.193657,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1750 Huron St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JAbuR2CSsKt658bSLsIwQ_43.026344_-81.193657@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"14367ecbd2df01b03b82705a89d7029c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":169259253
+        }
+    ],
     "wof:id":169259253,
-    "wof:lastmodified":1449033446,
+    "wof:lastmodified":1453929558,
     "wof:name":"Church of Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.193657,43.026344,-81.193657,43.026344],
+  "bbox": [
+    -81.193657,
+    43.026344,
+    -81.193657,
+    43.026344
+],
   "geometry": {"coordinates":[-81.193657,43.026344],"type":"Point"}
 }

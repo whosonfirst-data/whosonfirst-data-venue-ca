@@ -2,13 +2,14 @@
   "id": 202609897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.692986,43.693146,-79.692986,43.693146",
     "geom:latitude":43.693146,
     "geom:longitude":-79.692986,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895633,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"430193b8942c41ba3b7030b7f0deeda5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":202609897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":202609897
         }
     ],
     "wof:id":202609897,
-    "wof:lastmodified":1449061057,
+    "wof:lastmodified":1453937177,
     "wof:name":"Henry Scrap Metal",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "iron"
     ]
 },
-  "bbox": [-79.692986,43.693146,-79.692986,43.693146],
+  "bbox": [
+    -79.692986,
+    43.693146,
+    -79.692986,
+    43.693146
+],
   "geometry": {"coordinates":[-79.692986,43.693146],"type":"Point"}
 }

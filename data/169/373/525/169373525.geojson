@@ -2,13 +2,14 @@
   "id": 169373525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.270775,46.865112,-71.270775,46.865112",
     "geom:latitude":46.865112,
     "geom:longitude":-71.270775,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"95c4ec31fe3955a2ff0b8ccabe202cdc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169373525
         }
     ],
     "wof:id":169373525,
-    "wof:lastmodified":1449034394,
+    "wof:lastmodified":1453930567,
     "wof:name":"Cote & Belanger",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.270775,46.865112,-71.270775,46.865112],
+  "bbox": [
+    -71.270775,
+    46.865112,
+    -71.270775,
+    46.865112
+],
   "geometry": {"coordinates":[-71.270775,46.865112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152550013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.238289,42.977787,-81.238289,42.977787",
     "geom:latitude":42.977787,
     "geom:longitude":-81.238289,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"142 Waterloo St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QS5WU8BcCtJxZ7ZEeYQim_42.977787_-81.238289@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d0e3b245a48c42b0e8d7da014b953a37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":152550013
+        }
+    ],
     "wof:id":152550013,
-    "wof:lastmodified":1449046802,
+    "wof:lastmodified":1453934720,
     "wof:name":"Badger Daylighting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.238289,42.977787,-81.238289,42.977787],
-  "geometry": {"coordinates":[-81.238289,42.977787],"type":"Point"}
+  "bbox": [
+    -81.238289,
+    42.977787,
+    -81.238289,
+    42.977787
+],
+  "geometry": {"coordinates":[-81.23828899999999,42.977787],"type":"Point"}
 }

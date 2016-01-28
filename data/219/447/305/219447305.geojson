@@ -2,13 +2,14 @@
   "id": 219447305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.103645,48.397911,-71.103645,48.397911",
     "geom:latitude":48.397911,
     "geom:longitude":-71.103645,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1825 Boul Saint-Paul",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785001,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"f5c5f9eded9847f29b55847af413037b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219447305
         }
     ],
     "wof:id":219447305,
-    "wof:lastmodified":1449072878,
+    "wof:lastmodified":1453937883,
     "wof:name":"Bois Franc Pre Inc",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "floor"
     ]
 },
-  "bbox": [-71.103645,48.397911,-71.103645,48.397911],
+  "bbox": [
+    -71.103645,
+    48.397911,
+    -71.103645,
+    48.397911
+],
   "geometry": {"coordinates":[-71.103645,48.397911],"type":"Point"}
 }

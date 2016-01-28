@@ -2,13 +2,14 @@
   "id": 152383083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.870018,43.877121,-78.870018,43.877121",
     "geom:latitude":43.877121,
     "geom:longitude":-78.870018,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"385 Bloor St W",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875155,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"242fe1bb47d4577a7f07555295f85db9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875155,
+            "region_id":85682057,
+            "venue_id":152383083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875155,
             "region_id":85682057,
             "venue_id":152383083
         }
     ],
     "wof:id":152383083,
-    "wof:lastmodified":1449046265,
+    "wof:lastmodified":1453934319,
     "wof:name":"Gagnon Sports",
     "wof:parent_id":85875155,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.870018,43.877121,-78.870018,43.877121],
+  "bbox": [
+    -78.870018,
+    43.877121,
+    -78.870018,
+    43.877121
+],
   "geometry": {"coordinates":[-78.870018,43.877121],"type":"Point"}
 }

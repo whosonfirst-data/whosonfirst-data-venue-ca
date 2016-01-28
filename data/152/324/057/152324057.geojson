@@ -2,13 +2,14 @@
   "id": 152324057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.252769,42.991554,-81.252769,42.991554",
     "geom:latitude":42.991554,
     "geom:longitude":-81.252769,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"206 John St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6A 1P1",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ezQ8FySZLuSsZ8aPRZFkH_42.991554_-81.252769@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4a557d7353b264142ec3f1d31d16bc84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":152324057
+        }
+    ],
     "wof:id":152324057,
-    "wof:lastmodified":1449047001,
+    "wof:lastmodified":1453934871,
     "wof:name":"Silvana's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.252769,42.991554,-81.252769,42.991554],
+  "bbox": [
+    -81.252769,
+    42.991554,
+    -81.252769,
+    42.991554
+],
   "geometry": {"coordinates":[-81.252769,42.991554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169314707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625229,45.440979,-73.625229,45.440979",
     "geom:latitude":45.440979,
     "geom:longitude":-73.625229,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2251 Rue Lapierre",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897545,
+        102191575,
         85633041,
-        85897545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e79acb1deed187c7a0e95265fe3bd721",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897545,
+            "region_id":136251273,
             "venue_id":169314707
         }
     ],
     "wof:id":169314707,
-    "wof:lastmodified":1449035823,
+    "wof:lastmodified":1453932111,
     "wof:name":"Pacalis Inc",
     "wof:parent_id":85897545,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.625229,45.440979,-73.625229,45.440979],
+  "bbox": [
+    -73.625229,
+    45.440979,
+    -73.625229,
+    45.440979
+],
   "geometry": {"coordinates":[-73.625229,45.440979],"type":"Point"}
 }

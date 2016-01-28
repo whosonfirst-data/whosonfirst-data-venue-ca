@@ -2,13 +2,14 @@
   "id": 169042133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.637383,43.610302,-79.637383,43.610302",
     "geom:latitude":43.610302,
     "geom:longitude":-79.637383,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"376 Laurentian Ave",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ff5cf207017d1598b6a9ed49c075b672",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":169042133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":169042133
         }
     ],
     "wof:id":169042133,
-    "wof:lastmodified":1449035165,
+    "wof:lastmodified":1453931383,
     "wof:name":"Selectype",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.637383,43.610302,-79.637383,43.610302],
+  "bbox": [
+    -79.637383,
+    43.610302,
+    -79.637383,
+    43.610302
+],
   "geometry": {"coordinates":[-79.637383,43.610302],"type":"Point"}
 }

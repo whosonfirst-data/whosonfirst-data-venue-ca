@@ -2,13 +2,14 @@
   "id": 202906299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.416313,45.566612,-73.416313,45.566612",
     "geom:latitude":45.566612,
     "geom:longitude":-73.416313,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"290 Ch Du Tremblay",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875755,
+        102191575,
         85633041,
-        101738135
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"dd803eb055e7143265947c0c41923af3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875755,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202906299
         }
     ],
     "wof:id":202906299,
-    "wof:lastmodified":1449061076,
+    "wof:lastmodified":1453937180,
     "wof:name":"Marmon Keystone",
     "wof:parent_id":85875755,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "steel"
     ]
 },
-  "bbox": [-73.416313,45.566612,-73.416313,45.566612],
+  "bbox": [
+    -73.416313,
+    45.566612,
+    -73.416313,
+    45.566612
+],
   "geometry": {"coordinates":[-73.416313,45.566612],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152635699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.732521,45.436913,-75.732521,45.436913",
     "geom:latitude":45.436913,
     "geom:longitude":-75.732521,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12 Rue Brodeur",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874531,
+        102191575,
         85633041,
-        85874531
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9dba1acce1bfc5f6cf7896604d0ee8b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874531,
+            "region_id":136251273,
             "venue_id":152635699
         }
     ],
     "wof:id":152635699,
-    "wof:lastmodified":1449046311,
+    "wof:lastmodified":1453934356,
     "wof:name":"Desormeaux, Anne",
     "wof:parent_id":85874531,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.732521,45.436913,-75.732521,45.436913],
-  "geometry": {"coordinates":[-75.732521,45.436913],"type":"Point"}
+  "bbox": [
+    -75.732521,
+    45.436913,
+    -75.732521,
+    45.436913
+],
+  "geometry": {"coordinates":[-75.73252100000001,45.436913],"type":"Point"}
 }

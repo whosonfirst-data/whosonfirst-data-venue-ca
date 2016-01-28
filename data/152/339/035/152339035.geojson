@@ -2,13 +2,14 @@
   "id": 152339035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.690102,45.568386,-73.690102,45.568386",
     "geom:latitude":45.568386,
     "geom:longitude":-73.690102,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"432 Boul Des Laurentides",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875069,
+        102191575,
         85633041,
-        85875069
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b77061e3f3e2dce5f1f70acaea26498b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
+            "region_id":136251273,
             "venue_id":152339035
         }
     ],
     "wof:id":152339035,
-    "wof:lastmodified":1449046378,
+    "wof:lastmodified":1453934409,
     "wof:name":"Nettoyeur Val",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.690102,45.568386,-73.690102,45.568386],
+  "bbox": [
+    -73.690102,
+    45.568386,
+    -73.690102,
+    45.568386
+],
   "geometry": {"coordinates":[-73.690102,45.568386],"type":"Point"}
 }

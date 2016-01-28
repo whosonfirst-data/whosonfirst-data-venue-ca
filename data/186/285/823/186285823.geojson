@@ -2,13 +2,14 @@
   "id": 186285823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.357224,43.868298,-79.357224,43.868298",
     "geom:latitude":43.868298,
     "geom:longitude":-79.357224,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"38 Buttonfield Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895669,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"66cbdb0c88d10363afc9835ab4320939",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895669,
+            "region_id":85682057,
+            "venue_id":186285823
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895669,
             "region_id":85682057,
             "venue_id":186285823
         }
     ],
     "wof:id":186285823,
-    "wof:lastmodified":1449050342,
+    "wof:lastmodified":1453936499,
     "wof:name":"Convex Market",
     "wof:parent_id":85895669,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "grocer"
     ]
 },
-  "bbox": [-79.357224,43.868298,-79.357224,43.868298],
+  "bbox": [
+    -79.357224,
+    43.868298,
+    -79.357224,
+    43.868298
+],
   "geometry": {"coordinates":[-79.357224,43.868298],"type":"Point"}
 }

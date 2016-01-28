@@ -2,13 +2,14 @@
   "id": 169316249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.239464,43.004395,-81.239464,43.004395",
     "geom:latitude":43.004395,
     "geom:longitude":-81.239464,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"891 Adelaide St N",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874939,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nRrDBrafCNcb54npEhhlH_43.004395_-81.239464@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"7b8f210388c55ca10a57171f2b7f990f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
+            "region_id":85682057,
+            "venue_id":169316249
+        }
+    ],
     "wof:id":169316249,
-    "wof:lastmodified":1449034928,
+    "wof:lastmodified":1453931153,
     "wof:name":"Bob's Tv Sales Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.239464,43.004395,-81.239464,43.004395],
+  "bbox": [
+    -81.239464,
+    43.004395,
+    -81.239464,
+    43.004395
+],
   "geometry": {"coordinates":[-81.239464,43.004395],"type":"Point"}
 }

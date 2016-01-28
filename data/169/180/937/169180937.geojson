@@ -2,13 +2,14 @@
   "id": 169180937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.739021,44.363609,-79.739021,44.363609",
     "geom:latitude":44.363609,
     "geom:longitude":-79.739021,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875275,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ebagk5YeD285rJ1Jar8qv_44.363609_-79.739021@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"250629c0f4268d66570720780e56c780",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875275,
+            "region_id":85682057,
+            "venue_id":169180937
+        }
+    ],
     "wof:id":169180937,
-    "wof:lastmodified":1449032820,
+    "wof:lastmodified":1453928952,
     "wof:name":"Sunoco Funfood",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875275,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.739021,44.363609,-79.739021,44.363609],
-  "geometry": {"coordinates":[-79.739021,44.363609],"type":"Point"}
+  "bbox": [
+    -79.739021,
+    44.363609,
+    -79.739021,
+    44.363609
+],
+  "geometry": {"coordinates":[-79.73902099999999,44.363609],"type":"Point"}
 }

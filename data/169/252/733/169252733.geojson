@@ -2,13 +2,14 @@
   "id": 169252733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.507431,45.513226,-73.507431,45.513226",
     "geom:latitude":45.513226,
     "geom:longitude":-73.507431,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1043 Ch Tiffin",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"168a4eae42c5a352b84fcdc4ee3cae0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":169252733
         }
     ],
     "wof:id":169252733,
-    "wof:lastmodified":1449033117,
+    "wof:lastmodified":1453929235,
     "wof:name":"Cercles DE Fermieres Du Quebec",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.507431,45.513226,-73.507431,45.513226],
+  "bbox": [
+    -73.507431,
+    45.513226,
+    -73.507431,
+    45.513226
+],
   "geometry": {"coordinates":[-73.507431,45.513226],"type":"Point"}
 }

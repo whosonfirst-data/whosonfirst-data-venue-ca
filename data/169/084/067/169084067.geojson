@@ -2,13 +2,14 @@
   "id": 169084067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.015884,45.384949,-74.015884,45.384949",
     "geom:latitude":45.384949,
     "geom:longitude":-74.015884,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"205 Rue Valois",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895767,
+        102191575,
         85633041,
-        85895767
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d10373bd6b9f9eb900f14de52daf7615",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895767,
+            "region_id":136251273,
             "venue_id":169084067
         }
     ],
     "wof:id":169084067,
-    "wof:lastmodified":1449033033,
+    "wof:lastmodified":1453929162,
     "wof:name":"Dorion Travaux Publics",
     "wof:parent_id":85895767,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.015884,45.384949,-74.015884,45.384949],
+  "bbox": [
+    -74.015884,
+    45.384949,
+    -74.015884,
+    45.384949
+],
   "geometry": {"coordinates":[-74.015884,45.384949],"type":"Point"}
 }

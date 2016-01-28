@@ -2,13 +2,14 @@
   "id": 152916945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.762253,45.550663,-73.762253,45.550663",
     "geom:latitude":45.550663,
     "geom:longitude":-73.762253,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4001 Boul Saint-Martin O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875061,
+        102191575,
         85633041,
-        85875061
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"34c49ed70031b84f4f29d5fe9d2b7b62",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875061,
+            "region_id":136251273,
             "venue_id":152916945
         }
     ],
     "wof:id":152916945,
-    "wof:lastmodified":1449046829,
+    "wof:lastmodified":1453934738,
     "wof:name":"Sotar",
     "wof:parent_id":85875061,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.762253,45.550663,-73.762253,45.550663],
+  "bbox": [
+    -73.762253,
+    45.550663,
+    -73.762253,
+    45.550663
+],
   "geometry": {"coordinates":[-73.762253,45.550663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152533231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.162193,43.015247,-81.162193,43.015247",
     "geom:latitude":43.015247,
     "geom:longitude":-81.162193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2995 Page St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PX6JDQIO14C6NeyPgt5q7_43.015247_-81.162193@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"684fa9f320dfddcdad1cc9a834d7a295",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":152533231
+        }
+    ],
     "wof:id":152533231,
-    "wof:lastmodified":1449044230,
+    "wof:lastmodified":1453932778,
     "wof:name":"General Storage Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.162193,43.015247,-81.162193,43.015247],
+  "bbox": [
+    -81.162193,
+    43.015247,
+    -81.162193,
+    43.015247
+],
   "geometry": {"coordinates":[-81.162193,43.015247],"type":"Point"}
 }

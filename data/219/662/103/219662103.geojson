@@ -2,13 +2,14 @@
   "id": 219662103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.429153,45.504066,-73.429153,45.504066",
     "geom:latitude":45.504066,
     "geom:longitude":-73.429153,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5100 Boul Cousineau",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864415,
+        102191575,
         85633041,
-        101736553
+        101736553,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"fb15fda843ba38f18ab7ce5b238762c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736553,
             "neighbourhood_id":85864415,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219662103
         }
     ],
     "wof:id":219662103,
-    "wof:lastmodified":1449072774,
+    "wof:lastmodified":1453937869,
     "wof:name":"Centre D'Orthodontiste",
     "wof:parent_id":85864415,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.429153,45.504066,-73.429153,45.504066],
+  "bbox": [
+    -73.429153,
+    45.504066,
+    -73.429153,
+    45.504066
+],
   "geometry": {"coordinates":[-73.429153,45.504066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152865291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.643288,45.548145,-73.643288,45.548145",
     "geom:latitude":45.548145,
     "geom:longitude":-73.643288,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8989 Rue Lajeunesse",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"73819763bf44c7156147e145286de3dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":152865291
         }
     ],
     "wof:id":152865291,
-    "wof:lastmodified":1449047789,
+    "wof:lastmodified":1453935489,
     "wof:name":"Robitaille, Yves",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.643288,45.548145,-73.643288,45.548145],
+  "bbox": [
+    -73.643288,
+    45.548145,
+    -73.643288,
+    45.548145
+],
   "geometry": {"coordinates":[-73.643288,45.548145],"type":"Point"}
 }

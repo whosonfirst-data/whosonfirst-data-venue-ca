@@ -2,13 +2,14 @@
   "id": 169251445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588722,45.491802,-73.588722,45.491802",
     "geom:latitude":45.491802,
     "geom:longitude":-73.588722,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3405 Av Atwater",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897625,
+        102191575,
         85633041,
-        85897625
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bddfe910d4d4d1442074a8d632528a17",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897625,
+            "region_id":136251273,
             "venue_id":169251445
         }
     ],
     "wof:id":169251445,
-    "wof:lastmodified":1449032742,
+    "wof:lastmodified":1453928860,
     "wof:name":"Thomas More Institut Pour Adlt",
     "wof:parent_id":85897625,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.588722,45.491802,-73.588722,45.491802],
+  "bbox": [
+    -73.588722,
+    45.491802,
+    -73.588722,
+    45.491802
+],
   "geometry": {"coordinates":[-73.588722,45.491802],"type":"Point"}
 }

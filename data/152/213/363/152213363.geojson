@@ -2,13 +2,14 @@
   "id": 152213363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.143936,42.997898,-81.143936,42.997898",
     "geom:latitude":42.997898,
     "geom:longitude":-81.143936,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "screen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864669,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08jGzbGCuz8umCYcVNmtvU_42.997898_-81.143936@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0b40b7d0629e485cfcf5be3d311defb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864669,
+            "region_id":85682057,
+            "venue_id":152213363
+        }
+    ],
     "wof:id":152213363,
-    "wof:lastmodified":1449044349,
+    "wof:lastmodified":1453932862,
     "wof:name":"J B Screenprint",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.143936,42.997898,-81.143936,42.997898],
+  "bbox": [
+    -81.143936,
+    42.997898,
+    -81.143936,
+    42.997898
+],
   "geometry": {"coordinates":[-81.143936,42.997898],"type":"Point"}
 }

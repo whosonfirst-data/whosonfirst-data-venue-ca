@@ -2,13 +2,14 @@
   "id": 168840469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795158,43.33094,-79.795158,43.33094",
     "geom:latitude":43.33094,
     "geom:longitude":-79.795158,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"465 Crosby Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895437,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"03244cdc1367797d6b1a6ff4b0ae9985",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895437,
+            "region_id":85682057,
+            "venue_id":168840469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895437,
             "region_id":85682057,
             "venue_id":168840469
         }
     ],
     "wof:id":168840469,
-    "wof:lastmodified":1449028405,
+    "wof:lastmodified":1453928485,
     "wof:name":"Alcoholic's Anonymous",
     "wof:parent_id":85895437,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.795158,43.33094,-79.795158,43.33094],
+  "bbox": [
+    -79.795158,
+    43.33094,
+    -79.795158,
+    43.33094
+],
   "geometry": {"coordinates":[-79.795158,43.33094],"type":"Point"}
 }

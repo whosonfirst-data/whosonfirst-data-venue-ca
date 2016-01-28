@@ -2,13 +2,14 @@
   "id": 152446471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566742,45.511753,-73.566742,45.511753",
     "geom:latitude":45.511753,
     "geom:longitude":-73.566742,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"57 Rue Ontario O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"eb06330688437808421320287c1f456e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":152446471
         }
     ],
     "wof:id":152446471,
-    "wof:lastmodified":1449048526,
+    "wof:lastmodified":1453936050,
     "wof:name":"Jules Saint-Michel Luthier Inc",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.566742,45.511753,-73.566742,45.511753],
+  "bbox": [
+    -73.566742,
+    45.511753,
+    -73.566742,
+    45.511753
+],
   "geometry": {"coordinates":[-73.566742,45.511753],"type":"Point"}
 }

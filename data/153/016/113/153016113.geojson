@@ -2,13 +2,14 @@
   "id": 153016113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656769,45.5466,-73.656769,45.5466",
     "geom:latitude":45.5466,
     "geom:longitude":-73.656769,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"40 Rue DE Port-Royal E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897505,
+        102191575,
         85633041,
-        85897505
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"734ed26c9fe1d177b64b3a7f1a640d6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897505,
+            "region_id":136251273,
             "venue_id":153016113
         }
     ],
     "wof:id":153016113,
-    "wof:lastmodified":1449040412,
+    "wof:lastmodified":1453932369,
     "wof:name":"Centre Islamique Libanais Inc",
     "wof:parent_id":85897505,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.656769,45.5466,-73.656769,45.5466],
+  "bbox": [
+    -73.656769,
+    45.5466,
+    -73.656769,
+    45.5466
+],
   "geometry": {"coordinates":[-73.656769,45.5466],"type":"Point"}
 }

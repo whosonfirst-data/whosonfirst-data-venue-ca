@@ -2,13 +2,14 @@
   "id": 185745705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620277,45.526413,-73.620277,45.526413",
     "geom:latitude":45.526413,
     "geom:longitude":-73.620277,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"650 Av Beaumont",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784831,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"6059a035fb6fc3e1880ef031adf37b3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784831,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185745705
         }
     ],
     "wof:id":185745705,
-    "wof:lastmodified":1449008128,
+    "wof:lastmodified":1453927379,
     "wof:name":"Palmyra",
     "wof:parent_id":85784831,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.620277,45.526413,-73.620277,45.526413],
+  "bbox": [
+    -73.620277,
+    45.526413,
+    -73.620277,
+    45.526413
+],
   "geometry": {"coordinates":[-73.620277,45.526413],"type":"Point"}
 }

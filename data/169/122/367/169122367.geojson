@@ -2,13 +2,14 @@
   "id": 169122367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.327385,46.820427,-71.327385,46.820427",
     "geom:latitude":46.820427,
     "geom:longitude":-71.327385,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3675 Boul Fontenelle",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"8667c401fc9ceee1879c90a51def3ef3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169122367
         }
     ],
     "wof:id":169122367,
-    "wof:lastmodified":1449034560,
+    "wof:lastmodified":1453930770,
     "wof:name":"Securite Generale",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.327385,46.820427,-71.327385,46.820427],
-  "geometry": {"coordinates":[-71.327385,46.820427],"type":"Point"}
+  "bbox": [
+    -71.327385,
+    46.820427,
+    -71.327385,
+    46.820427
+],
+  "geometry": {"coordinates":[-71.32738500000001,46.820427],"type":"Point"}
 }

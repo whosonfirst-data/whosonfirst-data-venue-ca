@@ -2,13 +2,14 @@
   "id": 169254579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.474579,45.537571,-73.474579,45.537571",
     "geom:latitude":45.537571,
     "geom:longitude":-73.474579,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1999 Boul Roland-Therrien",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875721,
+        102191575,
         85633041,
-        85875721
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3ccf8943c356f2f37bc66618fe0f7297",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875721,
+            "region_id":136251273,
             "venue_id":169254579
         }
     ],
     "wof:id":169254579,
-    "wof:lastmodified":1449034962,
+    "wof:lastmodified":1453931181,
     "wof:name":"Wal-Mart",
     "wof:parent_id":85875721,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.474579,45.537571,-73.474579,45.537571],
-  "geometry": {"coordinates":[-73.474579,45.537571],"type":"Point"}
+  "bbox": [
+    -73.474579,
+    45.537571,
+    -73.474579,
+    45.537571
+],
+  "geometry": {"coordinates":[-73.47457900000001,45.537571],"type":"Point"}
 }

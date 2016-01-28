@@ -2,13 +2,14 @@
   "id": 169492789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803795,43.348782,-79.803795,43.348782",
     "geom:latitude":43.348782,
     "geom:longitude":-79.803795,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2445 Glenwood School Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895611,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"422dae412ac8c26487659bdd51009cb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895611,
+            "region_id":85682057,
+            "venue_id":169492789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895611,
             "region_id":85682057,
             "venue_id":169492789
         }
     ],
     "wof:id":169492789,
-    "wof:lastmodified":1449032685,
+    "wof:lastmodified":1453928795,
     "wof:name":"Locust Lane Antiques Etcetera",
     "wof:parent_id":85895611,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.803795,43.348782,-79.803795,43.348782],
-  "geometry": {"coordinates":[-79.803795,43.348782],"type":"Point"}
+  "bbox": [
+    -79.803795,
+    43.348782,
+    -79.803795,
+    43.348782
+],
+  "geometry": {"coordinates":[-79.80379499999999,43.348782],"type":"Point"}
 }

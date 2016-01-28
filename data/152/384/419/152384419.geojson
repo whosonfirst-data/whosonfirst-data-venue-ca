@@ -2,13 +2,14 @@
   "id": 152384419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.704025,45.459648,-73.704025,45.459648",
     "geom:latitude":45.459648,
     "geom:longitude":-73.704025,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Lachine",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784771,
+        102191575,
         85633041,
-        85784771
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"80d3b83ed324ac4fc1ec7d97299cdf97",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784771,
+            "region_id":136251273,
             "venue_id":152384419
         }
     ],
     "wof:id":152384419,
-    "wof:lastmodified":1449044881,
+    "wof:lastmodified":1453933276,
     "wof:name":"Woolcan Inc",
     "wof:parent_id":85784771,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.704025,45.459648,-73.704025,45.459648],
+  "bbox": [
+    -73.704025,
+    45.459648,
+    -73.704025,
+    45.459648
+],
   "geometry": {"coordinates":[-73.704025,45.459648],"type":"Point"}
 }

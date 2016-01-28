@@ -2,13 +2,14 @@
   "id": 152572269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.587341,45.454002,-73.587341,45.454002",
     "geom:latitude":45.454002,
     "geom:longitude":-73.587341,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1688 Rue Springland",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897615,
+        102191575,
         85633041,
-        85897615
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"fd05d7095471d798446f7bb79e9bf6b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897615,
+            "region_id":136251273,
             "venue_id":152572269
         }
     ],
     "wof:id":152572269,
-    "wof:lastmodified":1449047133,
+    "wof:lastmodified":1453934981,
     "wof:name":"Bureau DE Conferenciers Orizon",
     "wof:parent_id":85897615,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.587341,45.454002,-73.587341,45.454002],
+  "bbox": [
+    -73.587341,
+    45.454002,
+    -73.587341,
+    45.454002
+],
   "geometry": {"coordinates":[-73.587341,45.454002],"type":"Point"}
 }

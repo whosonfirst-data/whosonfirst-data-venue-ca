@@ -2,13 +2,14 @@
   "id": 152731141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.14119,42.993053,-81.14119,42.993053",
     "geom:latitude":42.993053,
     "geom:longitude":-81.14119,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"360 Sovereign Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864669,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_101At61mU8fWlK2RypOjsk_42.993053_-81.141190@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e99f7718f69b2882b47989417573c767",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864669,
+            "region_id":85682057,
+            "venue_id":152731141
+        }
+    ],
     "wof:id":152731141,
-    "wof:lastmodified":1449048405,
+    "wof:lastmodified":1453935954,
     "wof:name":"Ancarr Industrial Fabrics Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.14119,42.993053,-81.14119,42.993053],
-  "geometry": {"coordinates":[-81.14119,42.993053],"type":"Point"}
+  "bbox": [
+    -81.14119,
+    42.993053,
+    -81.14119,
+    42.993053
+],
+  "geometry": {"coordinates":[-81.14118999999999,42.993053],"type":"Point"}
 }

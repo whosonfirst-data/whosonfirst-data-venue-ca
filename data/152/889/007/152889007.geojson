@@ -2,13 +2,14 @@
   "id": 152889007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.236252,43.167446,-79.236252,43.167446",
     "geom:latitude":43.167446,
     "geom:longitude":-79.236252,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"95 Niagara St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864463,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"159ca2a097bed70a4551d1935bbacf27",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864463,
+            "region_id":85682057,
+            "venue_id":152889007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864463,
             "region_id":85682057,
             "venue_id":152889007
         }
     ],
     "wof:id":152889007,
-    "wof:lastmodified":1449044198,
+    "wof:lastmodified":1453932755,
     "wof:name":"Hephzibah Church of Jesus",
     "wof:parent_id":85864463,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.236252,43.167446,-79.236252,43.167446],
-  "geometry": {"coordinates":[-79.236252,43.167446],"type":"Point"}
+  "bbox": [
+    -79.236252,
+    43.167446,
+    -79.236252,
+    43.167446
+],
+  "geometry": {"coordinates":[-79.23625199999999,43.167446],"type":"Point"}
 }

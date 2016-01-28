@@ -2,13 +2,14 @@
   "id": 169322953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.611855,45.534962,-73.611855,45.534962",
     "geom:latitude":45.534962,
     "geom:longitude":-73.611855,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"251 Rue Dante",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c7a7ff3f4b48f4846c0f1ff2d88894bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":169322953
         }
     ],
     "wof:id":169322953,
-    "wof:lastmodified":1449032647,
+    "wof:lastmodified":1453928764,
     "wof:name":"Cafe Via Dante",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.611855,45.534962,-73.611855,45.534962],
-  "geometry": {"coordinates":[-73.611855,45.534962],"type":"Point"}
+  "bbox": [
+    -73.611855,
+    45.534962,
+    -73.611855,
+    45.534962
+],
+  "geometry": {"coordinates":[-73.61185500000001,45.534962],"type":"Point"}
 }

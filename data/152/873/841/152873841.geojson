@@ -2,13 +2,14 @@
   "id": 152873841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.710243,45.473415,-73.710243,45.473415",
     "geom:latitude":45.473415,
     "geom:longitude":-73.710243,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"742 Av Renaud",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"2633461500f288248d424bc305fcedfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":152873841
         }
     ],
     "wof:id":152873841,
-    "wof:lastmodified":1449045267,
+    "wof:lastmodified":1453933559,
     "wof:name":"Divicell Inc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.710243,45.473415,-73.710243,45.473415],
-  "geometry": {"coordinates":[-73.710243,45.473415],"type":"Point"}
+  "bbox": [
+    -73.710243,
+    45.473415,
+    -73.710243,
+    45.473415
+],
+  "geometry": {"coordinates":[-73.71024300000001,45.473415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152466627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.097191,43.81369,-79.097191,43.81369",
     "geom:latitude":43.81369,
     "geom:longitude":-79.097191,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"635 Breezy Dr",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895513,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"7bcc71db2ffff0e4db382f03ffacffa8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895513,
+            "region_id":85682057,
+            "venue_id":152466627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895513,
             "region_id":85682057,
             "venue_id":152466627
         }
     ],
     "wof:id":152466627,
-    "wof:lastmodified":1449045687,
+    "wof:lastmodified":1453933888,
     "wof:name":"Frenchman's Bay Yacht Club",
     "wof:parent_id":85895513,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.097191,43.81369,-79.097191,43.81369],
+  "bbox": [
+    -79.097191,
+    43.81369,
+    -79.097191,
+    43.81369
+],
   "geometry": {"coordinates":[-79.097191,43.81369],"type":"Point"}
 }

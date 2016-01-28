@@ -2,13 +2,14 @@
   "id": 169045495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.416656,43.893959,-79.416656,43.893959",
     "geom:latitude":43.893959,
     "geom:longitude":-79.416656,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"850 Elgin Mills Rd E",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895143,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"6aa78d34a17ee1f82e4b1c67748ee756",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895143,
+            "region_id":85682057,
+            "venue_id":169045495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895143,
             "region_id":85682057,
             "venue_id":169045495
         }
     ],
     "wof:id":169045495,
-    "wof:lastmodified":1449035566,
+    "wof:lastmodified":1453931813,
     "wof:name":"L Magyar Enterprises Ltd",
     "wof:parent_id":85895143,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.416656,43.893959,-79.416656,43.893959],
+  "bbox": [
+    -79.416656,
+    43.893959,
+    -79.416656,
+    43.893959
+],
   "geometry": {"coordinates":[-79.416656,43.893959],"type":"Point"}
 }

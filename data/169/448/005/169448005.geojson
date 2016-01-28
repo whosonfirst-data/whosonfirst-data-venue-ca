@@ -2,13 +2,14 @@
   "id": 169448005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.332741,43.831959,-79.332741,43.831959",
     "geom:latitude":43.831959,
     "geom:longitude":-79.332741,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"121 Mcpherson St",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895023,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"534486642017f25a9a7dcf81e9812c16",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":169448005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":169448005
         }
     ],
     "wof:id":169448005,
-    "wof:lastmodified":1449035801,
+    "wof:lastmodified":1453932089,
     "wof:name":"Pet Valu",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.332741,43.831959,-79.332741,43.831959],
+  "bbox": [
+    -79.332741,
+    43.831959,
+    -79.332741,
+    43.831959
+],
   "geometry": {"coordinates":[-79.332741,43.831959],"type":"Point"}
 }

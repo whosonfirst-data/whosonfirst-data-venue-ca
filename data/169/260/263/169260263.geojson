@@ -2,13 +2,14 @@
   "id": 169260263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588539,45.599136,-73.588539,45.599136",
     "geom:latitude":45.599136,
     "geom:longitude":-73.588539,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8540 Rue Lafrenaie",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874367,
+        102191575,
         85633041,
-        85874367
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"83d2199141f9ba1f3b64652348763b2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874367,
+            "region_id":136251273,
             "venue_id":169260263
         }
     ],
     "wof:id":169260263,
-    "wof:lastmodified":1449033247,
+    "wof:lastmodified":1453929352,
     "wof:name":"R G Auto Electric",
     "wof:parent_id":85874367,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.588539,45.599136,-73.588539,45.599136],
+  "bbox": [
+    -73.588539,
+    45.599136,
+    -73.588539,
+    45.599136
+],
   "geometry": {"coordinates":[-73.588539,45.599136],"type":"Point"}
 }

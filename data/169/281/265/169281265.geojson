@@ -2,13 +2,14 @@
   "id": 169281265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.459656,43.809013,-79.459656,43.809013",
     "geom:latitude":43.809013,
     "geom:longitude":-79.459656,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1054 Centre St",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895341,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"16226233596d77a402e1989577535207",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895341,
+            "region_id":85682057,
+            "venue_id":169281265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895341,
             "region_id":85682057,
             "venue_id":169281265
         }
     ],
     "wof:id":169281265,
-    "wof:lastmodified":1449035462,
+    "wof:lastmodified":1453931675,
     "wof:name":"First Choice Haircutters",
     "wof:parent_id":85895341,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.459656,43.809013,-79.459656,43.809013],
+  "bbox": [
+    -79.459656,
+    43.809013,
+    -79.459656,
+    43.809013
+],
   "geometry": {"coordinates":[-79.459656,43.809013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202617021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.51088,45.506073,-73.51088,45.506073",
     "geom:latitude":45.506073,
     "geom:longitude":-73.51088,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"289 Boul Desaulniers",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875761,
+        102191575,
         85633041,
-        101736449
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"47488aaaca6b1091a4eb96e1ed998e55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202617021
         }
     ],
     "wof:id":202617021,
-    "wof:lastmodified":1449060183,
+    "wof:lastmodified":1453936989,
     "wof:name":"Exportlivre Inc",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "publisher"
     ]
 },
-  "bbox": [-73.51088,45.506073,-73.51088,45.506073],
+  "bbox": [
+    -73.51088,
+    45.506073,
+    -73.51088,
+    45.506073
+],
   "geometry": {"coordinates":[-73.51088,45.506073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152900125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.20816,46.81472,-71.20816,46.81472",
     "geom:latitude":46.81472,
     "geom:longitude":-71.20816,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"38 Rue Garneau",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866515,
+        102191575,
         85633041,
-        85866515
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"206cc56c6c7bb78bae3dc8b90a9978f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866515,
+            "region_id":136251273,
             "venue_id":152900125
         }
     ],
     "wof:id":152900125,
-    "wof:lastmodified":1449046304,
+    "wof:lastmodified":1453934351,
     "wof:name":"Abaca Enr",
     "wof:parent_id":85866515,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.20816,46.81472,-71.20816,46.81472],
-  "geometry": {"coordinates":[-71.20816,46.81472],"type":"Point"}
+  "bbox": [
+    -71.20816,
+    46.81472,
+    -71.20816,
+    46.81472
+],
+  "geometry": {"coordinates":[-71.20816000000001,46.81472],"type":"Point"}
 }

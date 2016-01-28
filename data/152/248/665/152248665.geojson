@@ -2,13 +2,14 @@
   "id": 152248665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.889984,43.525326,-79.889984,43.525326",
     "geom:latitude":43.525326,
     "geom:longitude":-79.889984,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"375 Steeles Ave E",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895371,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d8c93132698385975338e84f247bebd1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895371,
+            "region_id":85682057,
+            "venue_id":152248665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895371,
             "region_id":85682057,
             "venue_id":152248665
         }
     ],
     "wof:id":152248665,
-    "wof:lastmodified":1449046836,
+    "wof:lastmodified":1453934744,
     "wof:name":"Battlefield Equipment Rentals",
     "wof:parent_id":85895371,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.889984,43.525326,-79.889984,43.525326],
+  "bbox": [
+    -79.889984,
+    43.525326,
+    -79.889984,
+    43.525326
+],
   "geometry": {"coordinates":[-79.889984,43.525326],"type":"Point"}
 }

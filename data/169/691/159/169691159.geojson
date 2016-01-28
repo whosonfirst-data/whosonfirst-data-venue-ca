@@ -2,13 +2,14 @@
   "id": 169691159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.293709,46.808365,-71.293709,46.808365",
     "geom:latitude":46.808365,
     "geom:longitude":-71.293709,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2100 Rue Des Outilleurs",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874721,
+        102191575,
         85633041,
-        101737491
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"5598a48fc65389725374c76d977bf321",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169691159
         }
     ],
     "wof:id":169691159,
-    "wof:lastmodified":1449032948,
+    "wof:lastmodified":1453929075,
     "wof:name":"Quebec Division Operations",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "village"
     ]
 },
-  "bbox": [-71.293709,46.808365,-71.293709,46.808365],
-  "geometry": {"coordinates":[-71.293709,46.808365],"type":"Point"}
+  "bbox": [
+    -71.293709,
+    46.808365,
+    -71.293709,
+    46.808365
+],
+  "geometry": {"coordinates":[-71.29370900000001,46.808365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152246183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.800072,43.703392,-79.800072,43.703392",
     "geom:latitude":43.703392,
     "geom:longitude":-79.800072,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"54 Van Kirk Dr",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895387,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"14e827a55d479683c2238c9a8e04f60e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895387,
+            "region_id":85682057,
+            "venue_id":152246183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895387,
             "region_id":85682057,
             "venue_id":152246183
         }
     ],
     "wof:id":152246183,
-    "wof:lastmodified":1449044618,
+    "wof:lastmodified":1453933068,
     "wof:name":"Brican Automated Systems",
     "wof:parent_id":85895387,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.800072,43.703392,-79.800072,43.703392],
+  "bbox": [
+    -79.800072,
+    43.703392,
+    -79.800072,
+    43.703392
+],
   "geometry": {"coordinates":[-79.800072,43.703392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152505159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.637558,45.544891,-73.637558,45.544891",
     "geom:latitude":45.544891,
     "geom:longitude":-73.637558,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8642 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874389,
+        102191575,
         85633041,
-        85874389
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5034081fb3434d27c20dc14a88920dfb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874389,
+            "region_id":136251273,
             "venue_id":152505159
         }
     ],
     "wof:id":152505159,
-    "wof:lastmodified":1449048153,
+    "wof:lastmodified":1453935760,
     "wof:name":"Info-Carrefour",
     "wof:parent_id":85874389,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.637558,45.544891,-73.637558,45.544891],
+  "bbox": [
+    -73.637558,
+    45.544891,
+    -73.637558,
+    45.544891
+],
   "geometry": {"coordinates":[-73.637558,45.544891],"type":"Point"}
 }

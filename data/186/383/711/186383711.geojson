@@ -2,13 +2,14 @@
   "id": 186383711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.481201,43.952,-79.481201,43.952",
     "geom:latitude":43.952,
     "geom:longitude":-79.481201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"30 Raintree Cres",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895571,
+        102191575,
         85633041,
-        85682057
+        101736003,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"60b593005bcc7ffc4f590b6e8991c841",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736003,
+            "neighbourhood_id":85895571,
+            "region_id":85682057,
+            "venue_id":186383711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895571,
             "region_id":85682057,
             "venue_id":186383711
         }
     ],
     "wof:id":186383711,
-    "wof:lastmodified":1449051516,
+    "wof:lastmodified":1453936673,
     "wof:name":"Diamond Wholesale Corp",
     "wof:parent_id":85895571,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "diamond"
     ]
 },
-  "bbox": [-79.481201,43.952,-79.481201,43.952],
+  "bbox": [
+    -79.481201,
+    43.952,
+    -79.481201,
+    43.952
+],
   "geometry": {"coordinates":[-79.481201,43.952],"type":"Point"}
 }

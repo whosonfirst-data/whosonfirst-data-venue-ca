@@ -2,13 +2,14 @@
   "id": 152552171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.252853,42.990158,-81.252853,42.990158",
     "geom:latitude":42.990158,
     "geom:longitude":-81.252853,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"166 Central Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QVf5wE8Ut4lDJd1y25wrv_42.990158_-81.252853@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"9ab6acc1b2441992898fe822d99abaa6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":152552171
+        }
+    ],
     "wof:id":152552171,
-    "wof:lastmodified":1449046252,
+    "wof:lastmodified":1453934303,
     "wof:name":"Berean Christadelphians",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.252853,42.990158,-81.252853,42.990158],
+  "bbox": [
+    -81.252853,
+    42.990158,
+    -81.252853,
+    42.990158
+],
   "geometry": {"coordinates":[-81.252853,42.990158],"type":"Point"}
 }

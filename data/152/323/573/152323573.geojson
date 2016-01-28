@@ -2,13 +2,14 @@
   "id": 152323573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.27639,46.828056,-71.27639,46.828056",
     "geom:latitude":46.828056,
     "geom:longitude":-71.27639,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1041 Boul Pierre-Bertrand # 180",
     "sg:city":"Vanier",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864425,
+        102191575,
         85633041,
-        85864425
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"72387e28a580792cda435dbf79de4ca5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864425,
+            "region_id":136251273,
             "venue_id":152323573
         }
     ],
     "wof:id":152323573,
-    "wof:lastmodified":1449044701,
+    "wof:lastmodified":1453933139,
     "wof:name":"Messageries Beau-Par Inc",
     "wof:parent_id":85864425,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.27639,46.828056,-71.27639,46.828056],
-  "geometry": {"coordinates":[-71.27639,46.828056],"type":"Point"}
+  "bbox": [
+    -71.27639,
+    46.828056,
+    -71.27639,
+    46.828056
+],
+  "geometry": {"coordinates":[-71.27639000000001,46.828056],"type":"Point"}
 }

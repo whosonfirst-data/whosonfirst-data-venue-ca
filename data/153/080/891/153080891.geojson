@@ -2,13 +2,14 @@
   "id": 153080891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.689583,43.466175,-79.689583,43.466175",
     "geom:latitude":43.466175,
     "geom:longitude":-79.689583,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3043 Regional Road 25",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895549,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"4af795e2af02857f2af0a7a864b694ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895549,
+            "region_id":85682057,
+            "venue_id":153080891
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895549,
             "region_id":85682057,
             "venue_id":153080891
         }
     ],
     "wof:id":153080891,
-    "wof:lastmodified":1449040811,
+    "wof:lastmodified":1453932717,
     "wof:name":"E Christensen Excavating",
     "wof:parent_id":85895549,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.689583,43.466175,-79.689583,43.466175],
+  "bbox": [
+    -79.689583,
+    43.466175,
+    -79.689583,
+    43.466175
+],
   "geometry": {"coordinates":[-79.689583,43.466175],"type":"Point"}
 }

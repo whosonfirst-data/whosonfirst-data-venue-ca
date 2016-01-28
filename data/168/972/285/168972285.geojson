@@ -2,13 +2,14 @@
   "id": 168972285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.638443,43.663231,-79.638443,43.663231",
     "geom:latitude":43.663231,
     "geom:longitude":-79.638443,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"e73adf12ed7b135937b37a987adb6e3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":168972285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":168972285
         }
     ],
     "wof:id":168972285,
-    "wof:lastmodified":1449028159,
+    "wof:lastmodified":1453928217,
     "wof:name":"Xtra Canada",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.638443,43.663231,-79.638443,43.663231],
+  "bbox": [
+    -79.638443,
+    43.663231,
+    -79.638443,
+    43.663231
+],
   "geometry": {"coordinates":[-79.638443,43.663231],"type":"Point"}
 }

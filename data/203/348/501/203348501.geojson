@@ -2,13 +2,14 @@
   "id": 203348501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.553825,45.505638,-73.553825,45.505638",
     "geom:latitude":45.505638,
     "geom:longitude":-73.553825,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Rue Saint-Paul E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866485,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"02025af99ba69c645dfac07bbbd7d306",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203348501
         }
     ],
     "wof:id":203348501,
-    "wof:lastmodified":1449025038,
+    "wof:lastmodified":1453927426,
     "wof:name":"Souvenirs Neil Inc",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.553825,45.505638,-73.553825,45.505638],
+  "bbox": [
+    -73.553825,
+    45.505638,
+    -73.553825,
+    45.505638
+],
   "geometry": {"coordinates":[-73.553825,45.505638],"type":"Point"}
 }

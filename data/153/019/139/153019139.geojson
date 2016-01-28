@@ -2,13 +2,14 @@
   "id": 153019139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.668861,43.63306,-79.668861,43.63306",
     "geom:latitude":43.63306,
     "geom:longitude":-79.668861,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"36b98f1bb41976b5f5b11af526d26d1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":153019139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":153019139
         }
     ],
     "wof:id":153019139,
-    "wof:lastmodified":1449040632,
+    "wof:lastmodified":1453932561,
     "wof:name":"Kaytronics Inc",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.668861,43.63306,-79.668861,43.63306],
-  "geometry": {"coordinates":[-79.668861,43.63306],"type":"Point"}
+  "bbox": [
+    -79.668861,
+    43.63306,
+    -79.668861,
+    43.63306
+],
+  "geometry": {"coordinates":[-79.66886100000001,43.63306],"type":"Point"}
 }

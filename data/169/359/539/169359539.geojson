@@ -2,13 +2,14 @@
   "id": 169359539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.349487,46.796116,-71.349487,46.796116",
     "geom:latitude":46.796116,
     "geom:longitude":-71.349487,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6310 Boul Wilfrid-Hamel",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"43fd2f1964709a38321156e17d4c0615",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169359539
         }
     ],
     "wof:id":169359539,
-    "wof:lastmodified":1449032634,
+    "wof:lastmodified":1453928750,
     "wof:name":"Garage Jean-Paul Gauvin",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.349487,46.796116,-71.349487,46.796116],
+  "bbox": [
+    -71.349487,
+    46.796116,
+    -71.349487,
+    46.796116
+],
   "geometry": {"coordinates":[-71.349487,46.796116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152702191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.306732,43.823898,-79.306732,43.823898",
     "geom:latitude":43.823898,
     "geom:longitude":-79.306732,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4300 Steeles Ave E # 200",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895023,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"177ba9feef004f8c2c1fbc1d6cb61884",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":152702191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":152702191
         }
     ],
     "wof:id":152702191,
-    "wof:lastmodified":1449046613,
+    "wof:lastmodified":1453934577,
     "wof:name":"Ellen's Health Food Ltd",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.306732,43.823898,-79.306732,43.823898],
+  "bbox": [
+    -79.306732,
+    43.823898,
+    -79.306732,
+    43.823898
+],
   "geometry": {"coordinates":[-79.306732,43.823898],"type":"Point"}
 }

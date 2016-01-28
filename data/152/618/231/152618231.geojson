@@ -2,13 +2,14 @@
   "id": 152618231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.306343,43.835781,-79.306343,43.835781",
     "geom:latitude":43.835781,
     "geom:longitude":-79.306343,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"76 Amarillo Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895359,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"f8a942020914985477f0695cb7f8fd34",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895359,
+            "region_id":85682057,
+            "venue_id":152618231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895359,
             "region_id":85682057,
             "venue_id":152618231
         }
     ],
     "wof:id":152618231,
-    "wof:lastmodified":1449047178,
+    "wof:lastmodified":1453935015,
     "wof:name":"Town Centre Montessori School",
     "wof:parent_id":85895359,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.306343,43.835781,-79.306343,43.835781],
+  "bbox": [
+    -79.306343,
+    43.835781,
+    -79.306343,
+    43.835781
+],
   "geometry": {"coordinates":[-79.306343,43.835781],"type":"Point"}
 }

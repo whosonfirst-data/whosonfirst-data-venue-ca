@@ -2,13 +2,14 @@
   "id": 169277587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.221375,43.018024,-81.221375,43.018024",
     "geom:latitude":43.018024,
     "geom:longitude":-81.221375,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kpukrymKlSIiv2swAv20U_43.018024_-81.221375@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"6aff48c59208a7ed7e9290b106566603",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":169277587
+        }
+    ],
     "wof:id":169277587,
-    "wof:lastmodified":1449033054,
+    "wof:lastmodified":1453929176,
     "wof:name":"London Vietnamese Alliance Ch",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.221375,43.018024,-81.221375,43.018024],
-  "geometry": {"coordinates":[-81.221375,43.018024],"type":"Point"}
+  "bbox": [
+    -81.221375,
+    43.018024,
+    -81.221375,
+    43.018024
+],
+  "geometry": {"coordinates":[-81.22137499999999,43.018024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152688291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.590714,45.523384,-73.590714,45.523384",
     "geom:latitude":45.523384,
     "geom:longitude":-73.590714,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"93 Boul Saint-Joseph O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"04f804ff046e3ef3134870f600352515",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152688291
         }
     ],
     "wof:id":152688291,
-    "wof:lastmodified":1449046031,
+    "wof:lastmodified":1453934144,
     "wof:name":"Clinique DE Chirurgie Plstqu",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.590714,45.523384,-73.590714,45.523384],
-  "geometry": {"coordinates":[-73.590714,45.523384],"type":"Point"}
+  "bbox": [
+    -73.590714,
+    45.523384,
+    -73.590714,
+    45.523384
+],
+  "geometry": {"coordinates":[-73.59071400000001,45.523384],"type":"Point"}
 }

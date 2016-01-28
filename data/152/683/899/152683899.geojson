@@ -2,13 +2,14 @@
   "id": 152683899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.456848,44.052658,-79.456848,44.052658",
     "geom:latitude":44.052658,
     "geom:longitude":-79.456848,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"225 Main St S",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895355,
         102191575,
         85633041,
-        85895355
+        101736295,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736295,
             "neighbourhood_id":85895355,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152683899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895355,
+            "region_id":85682057,
             "venue_id":152683899
         }
     ],
     "wof:id":152683899,
-    "wof:lastmodified":1449046008,
+    "wof:lastmodified":1453934129,
     "wof:name":"What's in Store",
     "wof:parent_id":85895355,
     "wof:placetype":"venue",
@@ -62,6 +73,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.456848,44.052658,-79.456848,44.052658],
-  "geometry": {"coordinates":[-79.456848,44.052658],"type":"Point"}
+  "bbox": [
+    -79.456848,
+    44.052658,
+    -79.456848,
+    44.052658
+],
+  "geometry": {"coordinates":[-79.45684799999999,44.052658],"type":"Point"}
 }

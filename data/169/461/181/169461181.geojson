@@ -2,13 +2,14 @@
   "id": 169461181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.574043,45.370312,-73.574043,45.370312",
     "geom:latitude":45.370312,
     "geom:longitude":-73.574043,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Rue Saint-Philippe",
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737281,
+        85875785,
+        102191575,
         85633041,
-        85875785
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4f298f87ebecd6f5e777bd561fbc0320",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
+            "region_id":136251273,
             "venue_id":169461181
         }
     ],
     "wof:id":169461181,
-    "wof:lastmodified":1449033936,
+    "wof:lastmodified":1453930098,
     "wof:name":"P S Marketing",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.574043,45.370312,-73.574043,45.370312],
+  "bbox": [
+    -73.574043,
+    45.370312,
+    -73.574043,
+    45.370312
+],
   "geometry": {"coordinates":[-73.574043,45.370312],"type":"Point"}
 }

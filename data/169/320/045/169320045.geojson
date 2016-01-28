@@ -2,13 +2,14 @@
   "id": 169320045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.591667,45.473942,-73.591667,45.473942",
     "geom:latitude":45.473942,
     "geom:longitude":-73.591667,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897621,
+        102191575,
         85633041,
-        85897621
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"8a850886ed9bf2b02a20d98b4f3b2419",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897621,
+            "region_id":136251273,
             "venue_id":169320045
         }
     ],
     "wof:id":169320045,
-    "wof:lastmodified":1449033526,
+    "wof:lastmodified":1453929635,
     "wof:name":"Flou Canada",
     "wof:parent_id":85897621,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.591667,45.473942,-73.591667,45.473942],
+  "bbox": [
+    -73.591667,
+    45.473942,
+    -73.591667,
+    45.473942
+],
   "geometry": {"coordinates":[-73.591667,45.473942],"type":"Point"}
 }

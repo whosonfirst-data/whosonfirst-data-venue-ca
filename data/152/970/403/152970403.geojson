@@ -2,13 +2,14 @@
   "id": 152970403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.300812,46.759449,-71.300812,46.759449",
     "geom:latitude":46.759449,
     "geom:longitude":-71.300812,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1142 Av Beaupre",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"35d95a6ef9e76f5e46025a948ed14b6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":152970403
         }
     ],
     "wof:id":152970403,
-    "wof:lastmodified":1449048830,
+    "wof:lastmodified":1453936278,
     "wof:name":"Studio Harmonie Beaute",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.300812,46.759449,-71.300812,46.759449],
-  "geometry": {"coordinates":[-71.300812,46.759449],"type":"Point"}
+  "bbox": [
+    -71.300812,
+    46.759449,
+    -71.300812,
+    46.759449
+],
+  "geometry": {"coordinates":[-71.30081199999999,46.759449],"type":"Point"}
 }

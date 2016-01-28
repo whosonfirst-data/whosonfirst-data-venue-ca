@@ -2,13 +2,14 @@
   "id": 202806779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.499176,45.651218,-73.499176,45.651218",
     "geom:latitude":45.651218,
     "geom:longitude":-73.499176,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1515 Boul Du Tricentenaire",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784837,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"4c4796226777c592848fbcdf5a185d83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202806779
         }
     ],
     "wof:id":202806779,
-    "wof:lastmodified":1449060102,
+    "wof:lastmodified":1453936974,
     "wof:name":"Club DE Patinage DE Vitesse",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "instruction"
     ]
 },
-  "bbox": [-73.499176,45.651218,-73.499176,45.651218],
-  "geometry": {"coordinates":[-73.499176,45.651218],"type":"Point"}
+  "bbox": [
+    -73.499176,
+    45.651218,
+    -73.499176,
+    45.651218
+],
+  "geometry": {"coordinates":[-73.49917600000001,45.651218],"type":"Point"}
 }

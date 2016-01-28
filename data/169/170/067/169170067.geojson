@@ -2,13 +2,14 @@
   "id": 169170067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556793,45.493969,-73.556793,45.493969",
     "geom:latitude":45.493969,
     "geom:longitude":-73.556793,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1000 Rue Wellington",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897617,
+        102191575,
         85633041,
-        85897617
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"394cff62c34de8bc193d958b3cd341e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897617,
+            "region_id":136251273,
             "venue_id":169170067
         }
     ],
     "wof:id":169170067,
-    "wof:lastmodified":1449032977,
+    "wof:lastmodified":1453929104,
     "wof:name":"Artex Design & Framing",
     "wof:parent_id":85897617,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.556793,45.493969,-73.556793,45.493969],
+  "bbox": [
+    -73.556793,
+    45.493969,
+    -73.556793,
+    45.493969
+],
   "geometry": {"coordinates":[-73.556793,45.493969],"type":"Point"}
 }

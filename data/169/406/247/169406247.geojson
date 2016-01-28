@@ -2,13 +2,14 @@
   "id": 169406247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.207481,45.561615,-73.207481,45.561615",
     "geom:latitude":45.561615,
     "geom:longitude":-73.207481,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"600 Boul Sir-Wilfrid-Laurier",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738643,
+        85894591,
+        102191575,
         85633041,
-        85894591
+        101738643,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"f9df24772981066ce830dc4964ee3cd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738643,
             "neighbourhood_id":85894591,
+            "region_id":136251273,
             "venue_id":169406247
         }
     ],
     "wof:id":169406247,
-    "wof:lastmodified":1449034456,
+    "wof:lastmodified":1453930649,
     "wof:name":"Athena",
     "wof:parent_id":85894591,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.207481,45.561615,-73.207481,45.561615],
+  "bbox": [
+    -73.207481,
+    45.561615,
+    -73.207481,
+    45.561615
+],
   "geometry": {"coordinates":[-73.207481,45.561615],"type":"Point"}
 }

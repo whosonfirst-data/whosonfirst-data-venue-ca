@@ -2,13 +2,14 @@
   "id": 152868443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.362259,46.798412,-71.362259,46.798412",
     "geom:latitude":46.798412,
     "geom:longitude":-71.362259,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1575 Rue Turmel",
     "sg:city":"L'Ancienne-Lorette",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"a8f15cf1b7423fcdf3b23b9fe6b4467c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152868443
         }
     ],
     "wof:id":152868443,
-    "wof:lastmodified":1449044506,
+    "wof:lastmodified":1453932983,
     "wof:name":"Service D'Entraide Comm Rayon",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.362259,46.798412,-71.362259,46.798412],
-  "geometry": {"coordinates":[-71.362259,46.798412],"type":"Point"}
+  "bbox": [
+    -71.362259,
+    46.798412,
+    -71.362259,
+    46.798412
+],
+  "geometry": {"coordinates":[-71.36225899999999,46.798412],"type":"Point"}
 }

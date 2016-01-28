@@ -2,13 +2,14 @@
   "id": 152837951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618851,45.629738,-73.618851,45.629738",
     "geom:latitude":45.629738,
     "geom:longitude":-73.618851,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +38,16 @@
     "wof:geomhash":"67857a4e933c0facd2f71d0187068d89",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":152837951
         }
     ],
     "wof:id":152837951,
-    "wof:lastmodified":1449045021,
+    "wof:lastmodified":1453933381,
     "wof:name":"Depanneur Du Bel Age",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.618851,45.629738,-73.618851,45.629738],
-  "geometry": {"coordinates":[-73.618851,45.629738],"type":"Point"}
+  "bbox": [
+    -73.618851,
+    45.629738,
+    -73.618851,
+    45.629738
+],
+  "geometry": {"coordinates":[-73.61885100000001,45.629738],"type":"Point"}
 }

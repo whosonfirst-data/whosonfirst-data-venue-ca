@@ -2,13 +2,14 @@
   "id": 152935159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.236008,48.42543,-71.236008,48.42543",
     "geom:latitude":48.42543,
     "geom:longitude":-71.236008,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3672 Rue Cabot",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"622642e3142ed470ec53d20b2f8944d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152935159
         }
     ],
     "wof:id":152935159,
-    "wof:lastmodified":1449048087,
+    "wof:lastmodified":1453935712,
     "wof:name":"Salon D'Emilie",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.236008,48.42543,-71.236008,48.42543],
+  "bbox": [
+    -71.236008,
+    48.42543,
+    -71.236008,
+    48.42543
+],
   "geometry": {"coordinates":[-71.236008,48.42543],"type":"Point"}
 }

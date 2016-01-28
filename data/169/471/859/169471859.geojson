@@ -2,13 +2,14 @@
   "id": 169471859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.225822,42.990364,-81.225822,42.990364",
     "geom:latitude":42.990364,
     "geom:longitude":-81.225822,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"765 Dundas St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5W 2Z6",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30T3VjRBZK48c7006kfT0P_42.990364_-81.225822@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"342e7d28d8d2371ddd7ae1304baa44aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":169471859
+        }
+    ],
     "wof:id":169471859,
-    "wof:lastmodified":1449034004,
+    "wof:lastmodified":1453930170,
     "wof:name":"Town & Country Tavern",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.225822,42.990364,-81.225822,42.990364],
-  "geometry": {"coordinates":[-81.225822,42.990364],"type":"Point"}
+  "bbox": [
+    -81.225822,
+    42.990364,
+    -81.225822,
+    42.990364
+],
+  "geometry": {"coordinates":[-81.22582199999999,42.990364],"type":"Point"}
 }

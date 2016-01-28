@@ -2,13 +2,14 @@
   "id": 203357685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.57798,45.367443,-73.57798,45.367443",
     "geom:latitude":45.367443,
     "geom:longitude":-73.57798,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"66 Montee Saint-Regis",
     "sg:city":"Saint-Constant",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875785,
+        102191575,
         85633041,
-        101737281
+        101737281,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"6ea5258fa1d88b4a8c6ae7c26893d16f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737281,
             "neighbourhood_id":85875785,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203357685
         }
     ],
     "wof:id":203357685,
-    "wof:lastmodified":1449026637,
+    "wof:lastmodified":1453927718,
     "wof:name":"Autobus Claude Hebert Ltee",
     "wof:parent_id":85875785,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "rental"
     ]
 },
-  "bbox": [-73.57798,45.367443,-73.57798,45.367443],
+  "bbox": [
+    -73.57798,
+    45.367443,
+    -73.57798,
+    45.367443
+],
   "geometry": {"coordinates":[-73.57798,45.367443],"type":"Point"}
 }

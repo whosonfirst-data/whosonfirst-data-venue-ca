@@ -2,13 +2,14 @@
   "id": 152521211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.466057,43.465828,-80.466057,43.465828",
     "geom:latitude":43.465828,
     "geom:longitude":-80.466057,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Kitchener",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864615,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"41922b43b9ce33c6c5c75bb150588d60",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864615,
+            "region_id":85682057,
+            "venue_id":152521211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864615,
             "region_id":85682057,
             "venue_id":152521211
         }
     ],
     "wof:id":152521211,
-    "wof:lastmodified":1449048693,
+    "wof:lastmodified":1453936163,
     "wof:name":"Brolain Distributors Ltd",
     "wof:parent_id":85864615,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.466057,43.465828,-80.466057,43.465828],
-  "geometry": {"coordinates":[-80.466057,43.465828],"type":"Point"}
+  "bbox": [
+    -80.466057,
+    43.465828,
+    -80.466057,
+    43.465828
+],
+  "geometry": {"coordinates":[-80.46605700000001,43.465828],"type":"Point"}
 }

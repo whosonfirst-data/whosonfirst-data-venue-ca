@@ -2,13 +2,14 @@
   "id": 203107267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.46537,43.989689,-79.46537,43.989689",
     "geom:latitude":43.989689,
     "geom:longitude":-79.46537,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"14834 Yonge St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895385,
         102191575,
         85633041,
-        85895385
+        101736049,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736049,
             "neighbourhood_id":85895385,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":203107267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895385,
+            "region_id":85682057,
             "venue_id":203107267
         }
     ],
     "wof:id":203107267,
-    "wof:lastmodified":1449024947,
+    "wof:lastmodified":1453927407,
     "wof:name":"Yonge Street Winery Inc",
     "wof:parent_id":85895385,
     "wof:placetype":"venue",
@@ -65,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.46537,43.989689,-79.46537,43.989689],
-  "geometry": {"coordinates":[-79.46537,43.989689],"type":"Point"}
+  "bbox": [
+    -79.46537,
+    43.989689,
+    -79.46537,
+    43.989689
+],
+  "geometry": {"coordinates":[-79.46536999999999,43.989689],"type":"Point"}
 }

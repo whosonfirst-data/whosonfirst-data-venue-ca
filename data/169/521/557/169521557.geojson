@@ -2,13 +2,14 @@
   "id": 169521557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.447151,45.745384,-73.447151,45.745384",
     "geom:latitude":45.745384,
     "geom:longitude":-73.447151,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"500 Boul Iberville # 19",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c6c3252dd39f6e935154a33a0735d350",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169521557
         }
     ],
     "wof:id":169521557,
-    "wof:lastmodified":1449035798,
+    "wof:lastmodified":1453932080,
     "wof:name":"Bronzage Midi Soleil",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.447151,45.745384,-73.447151,45.745384],
-  "geometry": {"coordinates":[-73.447151,45.745384],"type":"Point"}
+  "bbox": [
+    -73.447151,
+    45.745384,
+    -73.447151,
+    45.745384
+],
+  "geometry": {"coordinates":[-73.44715100000001,45.745384],"type":"Point"}
 }

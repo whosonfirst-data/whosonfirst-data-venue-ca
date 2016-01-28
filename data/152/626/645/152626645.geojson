@@ -2,13 +2,14 @@
   "id": 152626645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.925522,43.648846,-79.925522,43.648846",
     "geom:latitude":43.648846,
     "geom:longitude":-79.925522,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"110 Main St S",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895315,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"3e2d4cf06e2a192e1bd010282ddabe6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895315,
+            "region_id":85682057,
+            "venue_id":152626645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895315,
             "region_id":85682057,
             "venue_id":152626645
         }
     ],
     "wof:id":152626645,
-    "wof:lastmodified":1449048899,
+    "wof:lastmodified":1453936344,
     "wof:name":"Mc Master's Meat & Deli",
     "wof:parent_id":85895315,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.925522,43.648846,-79.925522,43.648846],
+  "bbox": [
+    -79.925522,
+    43.648846,
+    -79.925522,
+    43.648846
+],
   "geometry": {"coordinates":[-79.925522,43.648846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185681351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.672981,43.594788,-79.672981,43.594788",
     "geom:latitude":43.594788,
     "geom:longitude":-79.672981,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4885 Mavis Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895105,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"af0659d8f60cc7a5f28d55305f6be72f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":185681351
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":185681351
         }
     ],
     "wof:id":185681351,
-    "wof:lastmodified":1449007602,
+    "wof:lastmodified":1453927319,
     "wof:name":"Melody Auto Ctr Inc",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "oil"
     ]
 },
-  "bbox": [-79.672981,43.594788,-79.672981,43.594788],
-  "geometry": {"coordinates":[-79.672981,43.594788],"type":"Point"}
+  "bbox": [
+    -79.672981,
+    43.594788,
+    -79.672981,
+    43.594788
+],
+  "geometry": {"coordinates":[-79.67298099999999,43.594788],"type":"Point"}
 }

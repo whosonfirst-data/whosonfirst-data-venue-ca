@@ -2,13 +2,14 @@
   "id": 169141189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.168427,43.162277,-79.168427,43.162277",
     "geom:latitude":43.162277,
     "geom:longitude":-79.168427,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"320 Airport Rd",
     "sg:city":"Niagara on the Lake",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875033,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101735923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"5b2145fd20a92af0bfc96ce1c4bb2fe5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875033,
+            "region_id":85682057,
+            "venue_id":169141189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735923,
             "neighbourhood_id":85875033,
             "region_id":85682057,
             "venue_id":169141189
         }
     ],
     "wof:id":169141189,
-    "wof:lastmodified":1449033841,
+    "wof:lastmodified":1453930006,
     "wof:name":"Ontario Construction CO Ltd",
     "wof:parent_id":85875033,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.168427,43.162277,-79.168427,43.162277],
-  "geometry": {"coordinates":[-79.168427,43.162277],"type":"Point"}
+  "bbox": [
+    -79.168427,
+    43.162277,
+    -79.168427,
+    43.162277
+],
+  "geometry": {"coordinates":[-79.16842699999999,43.162277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168966399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.390999,43.647556,-79.390999,43.647556",
     "geom:latitude":43.647556,
     "geom:longitude":-79.390999,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"299 Adelaide St W",
     "sg:city":"Toronto",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
         85874299,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"750e08cd64b67e5c403bd7a740ef31da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85874299,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":168966399,
-    "wof:lastmodified":1449027774,
+    "wof:lastmodified":1453927783,
     "wof:name":"Parkway Parking of Canada",
     "wof:parent_id":85874299,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.390999,43.647556,-79.390999,43.647556],
-  "geometry": {"coordinates":[-79.390999,43.647556],"type":"Point"}
+  "bbox": [
+    -79.390999,
+    43.647556,
+    -79.390999,
+    43.647556
+],
+  "geometry": {"coordinates":[-79.39099899999999,43.647556],"type":"Point"}
 }

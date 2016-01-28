@@ -2,13 +2,14 @@
   "id": 152268251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.553299,45.506527,-73.553299,45.506527",
     "geom:latitude":45.506527,
     "geom:longitude":-73.553299,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"79 Rue Saint-Paul E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"df3d1e46d2fe167ff210789960cc8e37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":152268251
         }
     ],
     "wof:id":152268251,
-    "wof:lastmodified":1449046931,
+    "wof:lastmodified":1453934816,
     "wof:name":"Indianica",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.553299,45.506527,-73.553299,45.506527],
+  "bbox": [
+    -73.553299,
+    45.506527,
+    -73.553299,
+    45.506527
+],
   "geometry": {"coordinates":[-73.553299,45.506527],"type":"Point"}
 }

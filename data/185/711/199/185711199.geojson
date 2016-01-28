@@ -2,13 +2,14 @@
   "id": 185711199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.604904,45.565117,-73.604904,45.565117",
     "geom:latitude":45.565117,
     "geom:longitude":-73.604904,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3435 Boul Cremazie E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871109,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"9dcae3834f6ffc0d6c2625bc8a6dda99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185711199
         }
     ],
     "wof:id":185711199,
-    "wof:lastmodified":1449007929,
+    "wof:lastmodified":1453927358,
     "wof:name":"Vulcan Hoist CO",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "hoist"
     ]
 },
-  "bbox": [-73.604904,45.565117,-73.604904,45.565117],
+  "bbox": [
+    -73.604904,
+    45.565117,
+    -73.604904,
+    45.565117
+],
   "geometry": {"coordinates":[-73.604904,45.565117],"type":"Point"}
 }

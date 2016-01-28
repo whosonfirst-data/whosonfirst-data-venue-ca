@@ -2,13 +2,14 @@
   "id": 152222411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.596107,45.522739,-73.596107,45.522739",
     "geom:latitude":45.522739,
     "geom:longitude":-73.596107,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5214 Rue Saint-Urbain",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"45af865ffd93c6bf57ef939bb59b68d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152222411
         }
     ],
     "wof:id":152222411,
-    "wof:lastmodified":1449047386,
+    "wof:lastmodified":1453935169,
     "wof:name":"Yeshiva Torath Moishe",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.596107,45.522739,-73.596107,45.522739],
+  "bbox": [
+    -73.596107,
+    45.522739,
+    -73.596107,
+    45.522739
+],
   "geometry": {"coordinates":[-73.596107,45.522739],"type":"Point"}
 }

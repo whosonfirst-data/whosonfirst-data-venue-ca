@@ -2,13 +2,14 @@
   "id": 152922337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.872284,43.544151,-79.872284,43.544151",
     "geom:latitude":43.544151,
     "geom:longitude":-79.872284,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8025 Lawson Rd",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895533,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"26781713cf80dbb66af34828104f3751",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895533,
+            "region_id":85682057,
+            "venue_id":152922337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
             "neighbourhood_id":85895533,
             "region_id":85682057,
             "venue_id":152922337
         }
     ],
     "wof:id":152922337,
-    "wof:lastmodified":1449044719,
+    "wof:lastmodified":1453933151,
     "wof:name":"Upwardor Corp",
     "wof:parent_id":85895533,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.872284,43.544151,-79.872284,43.544151],
-  "geometry": {"coordinates":[-79.872284,43.544151],"type":"Point"}
+  "bbox": [
+    -79.872284,
+    43.544151,
+    -79.872284,
+    43.544151
+],
+  "geometry": {"coordinates":[-79.87228399999999,43.544151],"type":"Point"}
 }

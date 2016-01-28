@@ -2,13 +2,14 @@
   "id": 153010255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.276108,43.028358,-81.276108,43.028358",
     "geom:latitude":43.028358,
     "geom:longitude":-81.276108,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"101 Fanshawe Park Rd N",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5X 3V9",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864487,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jahO39WnkbUxSjw63O2IE_43.028358_-81.276108@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"1c6d1829e3aa3cd6a0a31831dfb172dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864487,
+            "region_id":85682057,
+            "venue_id":153010255
+        }
+    ],
     "wof:id":153010255,
-    "wof:lastmodified":1449040649,
+    "wof:lastmodified":1453932573,
     "wof:name":"First Choice Haircutters",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.276108,43.028358,-81.276108,43.028358],
-  "geometry": {"coordinates":[-81.276108,43.028358],"type":"Point"}
+  "bbox": [
+    -81.276108,
+    43.028358,
+    -81.276108,
+    43.028358
+],
+  "geometry": {"coordinates":[-81.27610799999999,43.028358],"type":"Point"}
 }

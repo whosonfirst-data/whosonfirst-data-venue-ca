@@ -2,13 +2,14 @@
   "id": 152272333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.52327,43.901344,-79.52327,43.901344",
     "geom:latitude":43.901344,
     "geom:longitude":-79.52327,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11874 Keele St",
     "sg:city":"Maple",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895125,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7eda2ed54effb94c31bc0322678e8ea7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895125,
+            "region_id":85682057,
+            "venue_id":152272333
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895125,
             "region_id":85682057,
             "venue_id":152272333
         }
     ],
     "wof:id":152272333,
-    "wof:lastmodified":1449048604,
+    "wof:lastmodified":1453936092,
     "wof:name":"Atwell, William G",
     "wof:parent_id":85895125,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.52327,43.901344,-79.52327,43.901344],
+  "bbox": [
+    -79.52327,
+    43.901344,
+    -79.52327,
+    43.901344
+],
   "geometry": {"coordinates":[-79.52327,43.901344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186426129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.59446,43.684864,-79.59446,43.684864",
     "geom:latitude":43.684864,
     "geom:longitude":-79.59446,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Etobicoke",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -21,7 +22,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102555091,
         85866433,
+        102191575,
         85633041,
         101735835,
         85682057
@@ -34,7 +37,8 @@
     "wof:geomhash":"56c0935a06df23f18af5e2f9a28d95f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85866433,
@@ -43,9 +47,9 @@
         }
     ],
     "wof:id":186426129,
-    "wof:lastmodified":1449050974,
+    "wof:lastmodified":1453936575,
     "wof:name":"Espressomatic By Food F/X Inc",
-    "wof:parent_id":85866433,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -54,6 +58,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.59446,43.684864,-79.59446,43.684864],
+  "bbox": [
+    -79.59446,
+    43.684864,
+    -79.59446,
+    43.684864
+],
   "geometry": {"coordinates":[-79.59446,43.684864],"type":"Point"}
 }

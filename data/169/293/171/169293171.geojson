@@ -2,13 +2,14 @@
   "id": 169293171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.326767,46.800423,-71.326767,46.800423",
     "geom:latitude":46.800423,
     "geom:longitude":-71.326767,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Quebec",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4bde62983ef5c29896a9085cee86d4a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169293171
         }
     ],
     "wof:id":169293171,
-    "wof:lastmodified":1449033340,
+    "wof:lastmodified":1453929448,
     "wof:name":"Future Electronique Quebec",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.326767,46.800423,-71.326767,46.800423],
+  "bbox": [
+    -71.326767,
+    46.800423,
+    -71.326767,
+    46.800423
+],
   "geometry": {"coordinates":[-71.326767,46.800423],"type":"Point"}
 }

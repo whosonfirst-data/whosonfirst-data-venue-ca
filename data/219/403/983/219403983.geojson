@@ -2,13 +2,14 @@
   "id": 219403983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635582,45.601604,-73.635582,45.601604",
     "geom:latitude":45.601604,
     "geom:longitude":-73.635582,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4815 Boul Henri-Bourassa E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784809,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"391d5e2a0f9a3690860c010673d9c50f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784809,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219403983
         }
     ],
     "wof:id":219403983,
-    "wof:lastmodified":1449073418,
+    "wof:lastmodified":1453937947,
     "wof:name":"Marche Chez Michel-Ange",
     "wof:parent_id":85784809,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.635582,45.601604,-73.635582,45.601604],
+  "bbox": [
+    -73.635582,
+    45.601604,
+    -73.635582,
+    45.601604
+],
   "geometry": {"coordinates":[-73.635582,45.601604],"type":"Point"}
 }

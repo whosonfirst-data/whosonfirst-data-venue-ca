@@ -2,13 +2,14 @@
   "id": 152246561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.138664,42.989666,-81.138664,42.989666",
     "geom:latitude":42.989666,
     "geom:longitude":-81.138664,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"324 Sovereign Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864669,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0az76mLv7txGOdr0H57Svg_42.989666_-81.138664@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d428b882fe358469d5e9749436c64cf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864669,
+            "region_id":85682057,
+            "venue_id":152246561
+        }
+    ],
     "wof:id":152246561,
-    "wof:lastmodified":1449044618,
+    "wof:lastmodified":1453933068,
     "wof:name":"Silver Top Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.138664,42.989666,-81.138664,42.989666],
-  "geometry": {"coordinates":[-81.138664,42.989666],"type":"Point"}
+  "bbox": [
+    -81.138664,
+    42.989666,
+    -81.138664,
+    42.989666
+],
+  "geometry": {"coordinates":[-81.13866400000001,42.989666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152734463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.652824,45.556293,-73.652824,45.556293",
     "geom:latitude":45.556293,
     "geom:longitude":-73.652824,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1062 Rue Sauve E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897505,
+        102191575,
         85633041,
-        85897505
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5d73d5718a5fcfc90fab2bc139df13c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897505,
+            "region_id":136251273,
             "venue_id":152734463
         }
     ],
     "wof:id":152734463,
-    "wof:lastmodified":1449048334,
+    "wof:lastmodified":1453935900,
     "wof:name":"Coeur Soleil",
     "wof:parent_id":85897505,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.652824,45.556293,-73.652824,45.556293],
+  "bbox": [
+    -73.652824,
+    45.556293,
+    -73.652824,
+    45.556293
+],
   "geometry": {"coordinates":[-73.652824,45.556293],"type":"Point"}
 }

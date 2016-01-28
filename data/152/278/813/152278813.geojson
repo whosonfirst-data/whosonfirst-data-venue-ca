@@ -2,13 +2,14 @@
   "id": 152278813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.734756,43.694946,-79.734756,43.694946",
     "geom:latitude":43.694946,
     "geom:longitude":-79.734756,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"116 Orenda Rd",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"7aeaa85130b4c87f6d7e21afa3382f62",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152278813
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152278813
         }
     ],
     "wof:id":152278813,
-    "wof:lastmodified":1449046853,
+    "wof:lastmodified":1453934752,
     "wof:name":"Autofix",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.734756,43.694946,-79.734756,43.694946],
+  "bbox": [
+    -79.734756,
+    43.694946,
+    -79.734756,
+    43.694946
+],
   "geometry": {"coordinates":[-79.734756,43.694946],"type":"Point"}
 }

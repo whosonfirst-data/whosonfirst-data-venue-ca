@@ -2,13 +2,14 @@
   "id": 169453759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.599861,43.543709,-79.599861,43.543709",
     "geom:latitude":43.543709,
     "geom:longitude":-79.599861,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"200 Queen St S",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895089,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"629ddf7cb70b4eb08527f3e4c1ac7775",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895089,
+            "region_id":85682057,
+            "venue_id":169453759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895089,
             "region_id":85682057,
             "venue_id":169453759
         }
     ],
     "wof:id":169453759,
-    "wof:lastmodified":1449035151,
+    "wof:lastmodified":1453931372,
     "wof:name":"George Stone Painting",
     "wof:parent_id":85895089,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.599861,43.543709,-79.599861,43.543709],
+  "bbox": [
+    -79.599861,
+    43.543709,
+    -79.599861,
+    43.543709
+],
   "geometry": {"coordinates":[-79.599861,43.543709],"type":"Point"}
 }

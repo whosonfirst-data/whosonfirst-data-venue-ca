@@ -2,13 +2,14 @@
   "id": 169260805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.54055,46.349636,-72.54055,46.349636",
     "geom:latitude":46.349636,
     "geom:longitude":-72.54055,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"740 Rue Sainte-Cecile",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874119,
+        102191575,
         85633041,
-        85874119
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c292d0878678f659f12dd093512fab97",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874119,
+            "region_id":136251273,
             "venue_id":169260805
         }
     ],
     "wof:id":169260805,
-    "wof:lastmodified":1449033247,
+    "wof:lastmodified":1453929349,
     "wof:name":"Centre Funeraire Communautaire",
     "wof:parent_id":85874119,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.54055,46.349636,-72.54055,46.349636],
+  "bbox": [
+    -72.54055,
+    46.349636,
+    -72.54055,
+    46.349636
+],
   "geometry": {"coordinates":[-72.54055,46.349636],"type":"Point"}
 }

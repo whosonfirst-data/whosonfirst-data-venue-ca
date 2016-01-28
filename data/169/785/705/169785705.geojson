@@ -2,13 +2,14 @@
   "id": 169785705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.409004,43.807072,-79.409004,43.807072",
     "geom:latitude":43.807072,
     "geom:longitude":-79.409004,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"99 Henderson Ave",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895535,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"60031a8d4cc18bd456f3387840bc2154",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895535,
+            "region_id":85682057,
+            "venue_id":169785705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895535,
             "region_id":85682057,
             "venue_id":169785705
         }
     ],
     "wof:id":169785705,
-    "wof:lastmodified":1449035400,
+    "wof:lastmodified":1453931601,
     "wof:name":"Shampooches",
     "wof:parent_id":85895535,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "washing"
     ]
 },
-  "bbox": [-79.409004,43.807072,-79.409004,43.807072],
+  "bbox": [
+    -79.409004,
+    43.807072,
+    -79.409004,
+    43.807072
+],
   "geometry": {"coordinates":[-79.409004,43.807072],"type":"Point"}
 }

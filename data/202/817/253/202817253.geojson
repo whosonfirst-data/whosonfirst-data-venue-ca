@@ -2,13 +2,14 @@
   "id": 202817253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.761238,45.552773,-73.761238,45.552773",
     "geom:latitude":45.552773,
     "geom:longitude":-73.761238,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1762 Boul Cure-Labelle",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875053,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"9363cbfe98034443d4e84214b5779f09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875053,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202817253
         }
     ],
     "wof:id":202817253,
-    "wof:lastmodified":1449062171,
+    "wof:lastmodified":1453937406,
     "wof:name":"Caisse, Diane DVM",
     "wof:parent_id":85875053,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-73.761238,45.552773,-73.761238,45.552773],
-  "geometry": {"coordinates":[-73.761238,45.552773],"type":"Point"}
+  "bbox": [
+    -73.761238,
+    45.552773,
+    -73.761238,
+    45.552773
+],
+  "geometry": {"coordinates":[-73.76123800000001,45.552773],"type":"Point"}
 }

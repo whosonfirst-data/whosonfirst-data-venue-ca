@@ -2,13 +2,14 @@
   "id": 152302591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.465019,45.479118,-73.465019,45.479118",
     "geom:latitude":45.479118,
     "geom:longitude":-73.465019,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5767 Boul Taschereau",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875767,
+        102191575,
         85633041,
-        85875767
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1377cb72832dcfff645648d6714ae260",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875767,
+            "region_id":136251273,
             "venue_id":152302591
         }
     ],
     "wof:id":152302591,
-    "wof:lastmodified":1449045868,
+    "wof:lastmodified":1453934023,
     "wof:name":"Ultramar",
     "wof:parent_id":85875767,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.465019,45.479118,-73.465019,45.479118],
+  "bbox": [
+    -73.465019,
+    45.479118,
+    -73.465019,
+    45.479118
+],
   "geometry": {"coordinates":[-73.465019,45.479118],"type":"Point"}
 }

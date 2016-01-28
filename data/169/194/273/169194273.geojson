@@ -2,13 +2,14 @@
   "id": 169194273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751198,43.4389,-79.751198,43.4389",
     "geom:latitude":43.4389,
     "geom:longitude":-79.751198,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oakville",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895441,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"bc783175e2cd0a1ab95ef94b27831cdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895441,
+            "region_id":85682057,
+            "venue_id":169194273
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895441,
             "region_id":85682057,
             "venue_id":169194273
         }
     ],
     "wof:id":169194273,
-    "wof:lastmodified":1449035486,
+    "wof:lastmodified":1453931717,
     "wof:name":"Xclusive Hair Salon Inc",
     "wof:parent_id":85895441,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.751198,43.4389,-79.751198,43.4389],
+  "bbox": [
+    -79.751198,
+    43.4389,
+    -79.751198,
+    43.4389
+],
   "geometry": {"coordinates":[-79.751198,43.4389],"type":"Point"}
 }

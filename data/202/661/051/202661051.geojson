@@ -2,13 +2,14 @@
   "id": 202661051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688683,44.330574,-79.688683,44.330574",
     "geom:latitude":44.330574,
     "geom:longitude":-79.688683,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"520 Bryne Dr",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,7 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875265,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -39,18 +43,18 @@
     "wof:geomhash":"8108fd2cc167d0d490802cbe2fb70c2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875265,
             "region_id":85682057,
             "venue_id":202661051
         }
     ],
     "wof:id":202661051,
-    "wof:lastmodified":1449062374,
+    "wof:lastmodified":1453937448,
     "wof:name":"Beauticians' Beauty Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875265,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [-79.688683,44.330574,-79.688683,44.330574],
+  "bbox": [
+    -79.688683,
+    44.330574,
+    -79.688683,
+    44.330574
+],
   "geometry": {"coordinates":[-79.688683,44.330574],"type":"Point"}
 }

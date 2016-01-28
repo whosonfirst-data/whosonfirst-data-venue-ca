@@ -2,13 +2,14 @@
   "id": 152291681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.717659,44.277111,-76.717659,44.277111",
     "geom:latitude":44.277111,
     "geom:longitude":-76.717659,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"154 Main St",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864679,
-        85682057
+        102191575,
+        85633041,
+        101740731,
+        85682057,
+        101735963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"688a71cf4541dcee1dd9ccbd65cc19c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740731,
+            "neighbourhood_id":85864679,
+            "region_id":85682057,
+            "venue_id":152291681
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735963,
             "neighbourhood_id":85864679,
             "region_id":85682057,
             "venue_id":152291681
         }
     ],
     "wof:id":152291681,
-    "wof:lastmodified":1449045731,
+    "wof:lastmodified":1453933921,
     "wof:name":"Murray's Food Market",
     "wof:parent_id":85864679,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.717659,44.277111,-76.717659,44.277111],
+  "bbox": [
+    -76.717659,
+    44.277111,
+    -76.717659,
+    44.277111
+],
   "geometry": {"coordinates":[-76.717659,44.277111],"type":"Point"}
 }

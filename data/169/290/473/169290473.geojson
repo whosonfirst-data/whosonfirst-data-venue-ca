@@ -2,13 +2,14 @@
   "id": 169290473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.586884,45.527519,-73.586884,45.527519",
     "geom:latitude":45.527519,
     "geom:longitude":-73.586884,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"501 Boul Saint-Joseph E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"478ecb2f4536255cd319bde91abd6c3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":169290473
         }
     ],
     "wof:id":169290473,
-    "wof:lastmodified":1449034091,
+    "wof:lastmodified":1453930276,
     "wof:name":"Clinique Chiropratique-Plateau",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.586884,45.527519,-73.586884,45.527519],
+  "bbox": [
+    -73.586884,
+    45.527519,
+    -73.586884,
+    45.527519
+],
   "geometry": {"coordinates":[-73.586884,45.527519],"type":"Point"}
 }

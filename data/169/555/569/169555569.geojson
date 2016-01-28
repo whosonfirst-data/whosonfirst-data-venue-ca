@@ -2,13 +2,14 @@
   "id": 169555569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.887688,45.559196,-73.887688,45.559196",
     "geom:latitude":45.559196,
     "geom:longitude":-73.887688,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"181 Rue Saint-Louis",
     "sg:city":"Saint-Eustache",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784779,
+        102191575,
         85633041,
-        85784779
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d9ab38093dc8120c022fea0fd7e40330",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784779,
+            "region_id":136251273,
             "venue_id":169555569
         }
     ],
     "wof:id":169555569,
-    "wof:lastmodified":1449035496,
+    "wof:lastmodified":1453931727,
     "wof:name":"Beauchamp & Marineau",
     "wof:parent_id":85784779,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.887688,45.559196,-73.887688,45.559196],
+  "bbox": [
+    -73.887688,
+    45.559196,
+    -73.887688,
+    45.559196
+],
   "geometry": {"coordinates":[-73.887688,45.559196],"type":"Point"}
 }

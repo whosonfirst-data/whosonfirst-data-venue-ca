@@ -2,13 +2,14 @@
   "id": 202504879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.568092,45.520477,-73.568092,45.520477",
     "geom:latitude":45.520477,
     "geom:longitude":-73.568092,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"847 Rue Cherrier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866475,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"2ce5213cf7a980fc43eb91d2b40fd87d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866475,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202504879
         }
     ],
     "wof:id":202504879,
-    "wof:lastmodified":1449060542,
+    "wof:lastmodified":1453937065,
     "wof:name":"Societe Quebecoise Pour LA",
     "wof:parent_id":85866475,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.568092,45.520477,-73.568092,45.520477],
-  "geometry": {"coordinates":[-73.568092,45.520477],"type":"Point"}
+  "bbox": [
+    -73.568092,
+    45.520477,
+    -73.568092,
+    45.520477
+],
+  "geometry": {"coordinates":[-73.56809199999999,45.520477],"type":"Point"}
 }

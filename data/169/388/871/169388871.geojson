@@ -2,13 +2,14 @@
   "id": 169388871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.290215,44.291729,-78.290215,44.291729",
     "geom:latitude":44.291729,
     "geom:longitude":-78.290215,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"385 Lansdowne St E",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"d8a497238d23a7302b3a6f9ca90269e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":169388871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":169388871
         }
     ],
     "wof:id":169388871,
-    "wof:lastmodified":1449032813,
+    "wof:lastmodified":1453928945,
     "wof:name":"Peterborough Humane Society",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.290215,44.291729,-78.290215,44.291729],
+  "bbox": [
+    -78.290215,
+    44.291729,
+    -78.290215,
+    44.291729
+],
   "geometry": {"coordinates":[-78.290215,44.291729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169402811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.88549,45.40398,-71.88549,45.40398",
     "geom:latitude":45.40398,
     "geom:longitude":-71.88549,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"77 Rue King E",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874135,
+        102191575,
         85633041,
-        85874135
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d0d311e508945c9a7906d5f6be73c448",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874135,
+            "region_id":136251273,
             "venue_id":169402811
         }
     ],
     "wof:id":169402811,
-    "wof:lastmodified":1449033744,
+    "wof:lastmodified":1453929874,
     "wof:name":"Hotel Albert",
     "wof:parent_id":85874135,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.88549,45.40398,-71.88549,45.40398],
+  "bbox": [
+    -71.88549,
+    45.40398,
+    -71.88549,
+    45.40398
+],
   "geometry": {"coordinates":[-71.88549,45.40398],"type":"Point"}
 }

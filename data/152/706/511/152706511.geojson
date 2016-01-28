@@ -2,13 +2,14 @@
   "id": 152706511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.676834,43.469196,-79.676834,43.469196",
     "geom:latitude":43.469196,
     "geom:longitude":-79.676834,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1051 North Service Rd E",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895549,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"2674cb6255c1d23d6e6d2377cdab3618",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895549,
+            "region_id":85682057,
+            "venue_id":152706511
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895549,
             "region_id":85682057,
             "venue_id":152706511
         }
     ],
     "wof:id":152706511,
-    "wof:lastmodified":1449044632,
+    "wof:lastmodified":1453933080,
     "wof:name":"Vince Aluminum Awning Mfg",
     "wof:parent_id":85895549,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.676834,43.469196,-79.676834,43.469196],
+  "bbox": [
+    -79.676834,
+    43.469196,
+    -79.676834,
+    43.469196
+],
   "geometry": {"coordinates":[-79.676834,43.469196],"type":"Point"}
 }

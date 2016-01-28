@@ -2,13 +2,14 @@
   "id": 169293081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.202332,42.934319,-81.202332,42.934319",
     "geom:latitude":42.934319,
     "geom:longitude":-81.202332,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"25 Invicta Crt",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "maker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874921,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lwl6oBrTqY2t1zg81vyv3_42.934319_-81.202332@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"4628dcf251a53bd7c1645590aff11fc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874921,
+            "region_id":85682057,
+            "venue_id":169293081
+        }
+    ],
     "wof:id":169293081,
-    "wof:lastmodified":1449033337,
+    "wof:lastmodified":1453929444,
     "wof:name":"Phillips Tool & Mould Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874921,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.202332,42.934319,-81.202332,42.934319],
+  "bbox": [
+    -81.202332,
+    42.934319,
+    -81.202332,
+    42.934319
+],
   "geometry": {"coordinates":[-81.202332,42.934319],"type":"Point"}
 }

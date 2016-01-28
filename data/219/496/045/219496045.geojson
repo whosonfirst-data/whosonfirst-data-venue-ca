@@ -2,13 +2,14 @@
   "id": 219496045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.627075,45.479008,-73.627075,45.479008",
     "geom:latitude":45.479008,
     "geom:longitude":-73.627075,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,8 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864407,
+        102191575,
         85633041,
-        101736445
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,16 @@
     "wof:geomhash":"63ef135903677d2e2723d183fcee9bbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85864407,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219496045
         }
     ],
     "wof:id":219496045,
-    "wof:lastmodified":1449073379,
+    "wof:lastmodified":1453937941,
     "wof:name":"Hayes & Assoc",
     "wof:parent_id":85864407,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
         "management"
     ]
 },
-  "bbox": [-73.627075,45.479008,-73.627075,45.479008],
+  "bbox": [
+    -73.627075,
+    45.479008,
+    -73.627075,
+    45.479008
+],
   "geometry": {"coordinates":[-73.627075,45.479008],"type":"Point"}
 }

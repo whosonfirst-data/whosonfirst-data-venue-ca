@@ -2,13 +2,14 @@
   "id": 169431137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.183426,46.813251,-71.183426,46.813251",
     "geom:latitude":46.813251,
     "geom:longitude":-71.183426,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"28 Rue Fraser",
     "sg:city":"Levis",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866517,
+        102191575,
         85633041,
-        85866517
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"863d825accbccc8c8d0f27ad304b62b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
+            "region_id":136251273,
             "venue_id":169431137
         }
     ],
     "wof:id":169431137,
-    "wof:lastmodified":1449033133,
+    "wof:lastmodified":1453929250,
     "wof:name":"Pavillon St-Antoine Enr",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.183426,46.813251,-71.183426,46.813251],
+  "bbox": [
+    -71.183426,
+    46.813251,
+    -71.183426,
+    46.813251
+],
   "geometry": {"coordinates":[-71.183426,46.813251],"type":"Point"}
 }

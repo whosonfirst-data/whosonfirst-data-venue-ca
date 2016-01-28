@@ -2,13 +2,14 @@
   "id": 152179883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.302155,43.824757,-79.302155,43.824757",
     "geom:latitude":43.824757,
     "geom:longitude":-79.302155,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4711 Steeles Ave E",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895023,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"d61341c76061ca2142be5e0d8ec442a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895023,
+            "region_id":85682057,
+            "venue_id":152179883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895023,
             "region_id":85682057,
             "venue_id":152179883
         }
     ],
     "wof:id":152179883,
-    "wof:lastmodified":1449048450,
+    "wof:lastmodified":1453935988,
     "wof:name":"Staples Business Depot",
     "wof:parent_id":85895023,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.302155,43.824757,-79.302155,43.824757],
+  "bbox": [
+    -79.302155,
+    43.824757,
+    -79.302155,
+    43.824757
+],
   "geometry": {"coordinates":[-79.302155,43.824757],"type":"Point"}
 }

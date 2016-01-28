@@ -2,13 +2,14 @@
   "id": 202572787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.669266,44.40646,-79.669266,44.40646",
     "geom:latitude":44.40646,
     "geom:longitude":-79.669266,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"345 Grove St E",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85875263,
+        102191575,
         85633041,
+        101735527,
         85682057
     ],
     "wof:breaches":[],
@@ -38,18 +42,18 @@
     "wof:geomhash":"d6694f8d3a1eaf97aa9c9bb69a1e49c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101735527,
+            "neighbourhood_id":85875263,
             "region_id":85682057,
             "venue_id":202572787
         }
     ],
     "wof:id":202572787,
-    "wof:lastmodified":1449061675,
+    "wof:lastmodified":1453937303,
     "wof:name":"Church of Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "church"
     ]
 },
-  "bbox": [-79.669266,44.40646,-79.669266,44.40646],
-  "geometry": {"coordinates":[-79.669266,44.40646],"type":"Point"}
+  "bbox": [
+    -79.669266,
+    44.40646,
+    -79.669266,
+    44.40646
+],
+  "geometry": {"coordinates":[-79.66926599999999,44.40646],"type":"Point"}
 }

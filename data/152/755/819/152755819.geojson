@@ -2,13 +2,14 @@
   "id": 152755819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.740524,43.761574,-79.740524,43.761574",
     "geom:latitude":43.761574,
     "geom:longitude":-79.740524,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"33 Adirondack Cres",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"30ec07ed0b34fe259560849d9ff8d4fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152755819
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152755819
         }
     ],
     "wof:id":152755819,
-    "wof:lastmodified":1449045606,
+    "wof:lastmodified":1453933829,
     "wof:name":"Appliance Care Heating & Ac",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.740524,43.761574,-79.740524,43.761574],
-  "geometry": {"coordinates":[-79.740524,43.761574],"type":"Point"}
+  "bbox": [
+    -79.740524,
+    43.761574,
+    -79.740524,
+    43.761574
+],
+  "geometry": {"coordinates":[-79.74052399999999,43.761574],"type":"Point"}
 }

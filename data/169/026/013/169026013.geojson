@@ -2,13 +2,14 @@
   "id": 169026013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738098,45.578484,-73.738098,45.578484",
     "geom:latitude":45.578484,
     "geom:longitude":-73.738098,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1720 Rue Cunard",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875067,
+        102191575,
         85633041,
-        85875067
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"9f190f82a833bbdbf958321d67aaec5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
+            "region_id":136251273,
             "venue_id":169026013
         }
     ],
     "wof:id":169026013,
-    "wof:lastmodified":1449034634,
+    "wof:lastmodified":1453930841,
     "wof:name":"Convexpert Inc",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.738098,45.578484,-73.738098,45.578484],
-  "geometry": {"coordinates":[-73.738098,45.578484],"type":"Point"}
+  "bbox": [
+    -73.738098,
+    45.578484,
+    -73.738098,
+    45.578484
+],
+  "geometry": {"coordinates":[-73.73809799999999,45.578484],"type":"Point"}
 }

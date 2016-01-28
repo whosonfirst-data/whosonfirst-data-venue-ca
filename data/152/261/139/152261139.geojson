@@ -2,13 +2,14 @@
   "id": 152261139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.253876,43.17244,-79.253876,43.17244",
     "geom:latitude":43.17244,
     "geom:longitude":-79.253876,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"179 York St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864569,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2d8963dd5a380c87dd75cccaf471c321",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85864569,
+            "region_id":85682057,
+            "venue_id":152261139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85864569,
             "region_id":85682057,
             "venue_id":152261139
         }
     ],
     "wof:id":152261139,
-    "wof:lastmodified":1449044370,
+    "wof:lastmodified":1453932877,
     "wof:name":"York Cleaners",
     "wof:parent_id":85864569,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.253876,43.17244,-79.253876,43.17244],
-  "geometry": {"coordinates":[-79.253876,43.17244],"type":"Point"}
+  "bbox": [
+    -79.253876,
+    43.17244,
+    -79.253876,
+    43.17244
+],
+  "geometry": {"coordinates":[-79.25387600000001,43.17244],"type":"Point"}
 }

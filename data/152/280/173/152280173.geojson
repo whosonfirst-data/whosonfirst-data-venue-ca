@@ -2,13 +2,14 @@
   "id": 152280173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.257973,43.034065,-81.257973,43.034065",
     "geom:latitude":43.034065,
     "geom:longitude":-81.257973,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"552 Fanshawe Park Rd E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864629,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cQ3cN5PU0x8ulPRRyhbiE_43.034065_-81.257973@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"18593ec1bf349089fdcc90e3448c77a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864629,
+            "region_id":85682057,
+            "venue_id":152280173
+        }
+    ],
     "wof:id":152280173,
-    "wof:lastmodified":1449046571,
+    "wof:lastmodified":1453934549,
     "wof:name":"Good Shepherd Lutheran Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864629,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.257973,43.034065,-81.257973,43.034065],
-  "geometry": {"coordinates":[-81.257973,43.034065],"type":"Point"}
+  "bbox": [
+    -81.257973,
+    43.034065,
+    -81.257973,
+    43.034065
+],
+  "geometry": {"coordinates":[-81.25797300000001,43.034065],"type":"Point"}
 }

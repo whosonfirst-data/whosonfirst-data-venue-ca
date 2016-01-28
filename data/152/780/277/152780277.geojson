@@ -2,13 +2,14 @@
   "id": 152780277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250793,42.988087,-81.250793,42.988087",
     "geom:latitude":42.988087,
     "geom:longitude":-81.250793,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"533 1/2 Richmond St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_154i5TQAiyYQGsDI9L2z52_42.988087_-81.250793@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"265f4ca1aa38e1bf90555abd5dea7f8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":152780277
+        }
+    ],
     "wof:id":152780277,
-    "wof:lastmodified":1449047757,
+    "wof:lastmodified":1453935467,
     "wof:name":"Catherine Simpson Forever",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.250793,42.988087,-81.250793,42.988087],
+  "bbox": [
+    -81.250793,
+    42.988087,
+    -81.250793,
+    42.988087
+],
   "geometry": {"coordinates":[-81.250793,42.988087],"type":"Point"}
 }

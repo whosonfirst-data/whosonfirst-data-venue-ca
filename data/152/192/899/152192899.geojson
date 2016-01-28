@@ -2,13 +2,14 @@
   "id": 152192899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.046288,48.416584,-71.046288,48.416584",
     "geom:latitude":48.416584,
     "geom:longitude":-71.046288,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"797 Boul Talbot",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"1c0744eb5b41b00c6e1febff8ab0ab57",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152192899
         }
     ],
     "wof:id":152192899,
-    "wof:lastmodified":1449047573,
+    "wof:lastmodified":1453935321,
     "wof:name":"Doolys Chicoutimi Inc",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.046288,48.416584,-71.046288,48.416584],
+  "bbox": [
+    -71.046288,
+    48.416584,
+    -71.046288,
+    48.416584
+],
   "geometry": {"coordinates":[-71.046288,48.416584],"type":"Point"}
 }

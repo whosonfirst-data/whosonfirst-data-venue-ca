@@ -2,13 +2,14 @@
   "id": 153089273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.241928,43.012302,-81.241928,43.012302",
     "geom:latitude":43.012302,
     "geom:longitude":-81.241928,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -22,23 +23,43 @@
     "sg:postcode":"N5Y 4J8",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NeaPK77Ba3lTbNJhsZHna_43.012302_-81.241928@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"f82f5ac85562e9a3a151a95ab426473f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":153089273
+        }
+    ],
     "wof:id":153089273,
-    "wof:lastmodified":1449040425,
+    "wof:lastmodified":1453932381,
     "wof:name":"A & K Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.241928,43.012302,-81.241928,43.012302],
+  "bbox": [
+    -81.241928,
+    43.012302,
+    -81.241928,
+    43.012302
+],
   "geometry": {"coordinates":[-81.241928,43.012302],"type":"Point"}
 }

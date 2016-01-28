@@ -2,13 +2,14 @@
   "id": 152400949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.13475,45.2449,-74.13475,45.2449",
     "geom:latitude":45.2449,
     "geom:longitude":-74.13475,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"170 Rue Bissonnette",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895785,
+        102191575,
         85633041,
-        85895785
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"35310a054a3a63f4844ed5e345348b1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895785,
+            "region_id":136251273,
             "venue_id":152400949
         }
     ],
     "wof:id":152400949,
-    "wof:lastmodified":1449044759,
+    "wof:lastmodified":1453933181,
     "wof:name":"Julien, Richard DVM",
     "wof:parent_id":85895785,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.13475,45.2449,-74.13475,45.2449],
+  "bbox": [
+    -74.13475,
+    45.2449,
+    -74.13475,
+    45.2449
+],
   "geometry": {"coordinates":[-74.13475,45.2449],"type":"Point"}
 }

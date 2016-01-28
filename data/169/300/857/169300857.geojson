@@ -2,13 +2,14 @@
   "id": 169300857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.354553,46.836281,-71.354553,46.836281",
     "geom:latitude":46.836281,
     "geom:longitude":-71.354553,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3845 Rue Blain",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"262864fc65e127da37bb04d8405948bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":169300857
         }
     ],
     "wof:id":169300857,
-    "wof:lastmodified":1449034548,
+    "wof:lastmodified":1453930757,
     "wof:name":"Club Video Eclair Inc",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.354553,46.836281,-71.354553,46.836281],
+  "bbox": [
+    -71.354553,
+    46.836281,
+    -71.354553,
+    46.836281
+],
   "geometry": {"coordinates":[-71.354553,46.836281],"type":"Point"}
 }

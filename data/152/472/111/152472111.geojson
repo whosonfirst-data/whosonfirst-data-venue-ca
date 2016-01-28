@@ -2,13 +2,14 @@
   "id": 152472111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.484573,46.382027,-72.484573,46.382027",
     "geom:latitude":46.382027,
     "geom:longitude":-72.484573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1460 Rue Notre-Dame Est",
     "sg:city":"Sainte-Marthe-Du-Cap",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85864391,
+        102191575,
         85633041,
-        85864391
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"85657ed3bcac2bf1f2f30df436379d1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85864391,
+            "region_id":136251273,
             "venue_id":152472111
         }
     ],
     "wof:id":152472111,
-    "wof:lastmodified":1449044666,
+    "wof:lastmodified":1453933109,
     "wof:name":"Residence Le St-Laurent",
     "wof:parent_id":85864391,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.484573,46.382027,-72.484573,46.382027],
+  "bbox": [
+    -72.484573,
+    46.382027,
+    -72.484573,
+    46.382027
+],
   "geometry": {"coordinates":[-72.484573,46.382027],"type":"Point"}
 }

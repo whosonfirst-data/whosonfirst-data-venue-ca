@@ -2,13 +2,14 @@
   "id": 169415551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563484,45.48225,-73.563484,45.48225",
     "geom:latitude":45.48225,
     "geom:longitude":-73.563484,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897619,
+        102191575,
         85633041,
-        85897619
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"58b653c08ca3983c703e9545c6b6f6ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897619,
+            "region_id":136251273,
             "venue_id":169415551
         }
     ],
     "wof:id":169415551,
-    "wof:lastmodified":1449035054,
+    "wof:lastmodified":1453931280,
     "wof:name":"Clinique Comm-Pte St-Charles",
     "wof:parent_id":85897619,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.563484,45.48225,-73.563484,45.48225],
+  "bbox": [
+    -73.563484,
+    45.48225,
+    -73.563484,
+    45.48225
+],
   "geometry": {"coordinates":[-73.563484,45.48225],"type":"Point"}
 }

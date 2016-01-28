@@ -2,13 +2,14 @@
   "id": 185741279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.585411,43.551968,-79.585411,43.551968",
     "geom:latitude":43.551968,
     "geom:longitude":-79.585411,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"26 Lakeshore Rd E",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895115,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"6f8f5e3fcc6baf26a6292a44c0cc9be3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895115,
+            "region_id":85682057,
+            "venue_id":185741279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895115,
             "region_id":85682057,
             "venue_id":185741279
         }
     ],
     "wof:id":185741279,
-    "wof:lastmodified":1449006671,
+    "wof:lastmodified":1453927200,
     "wof:name":"Hooks Grille",
     "wof:parent_id":85895115,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.585411,43.551968,-79.585411,43.551968],
-  "geometry": {"coordinates":[-79.585411,43.551968],"type":"Point"}
+  "bbox": [
+    -79.585411,
+    43.551968,
+    -79.585411,
+    43.551968
+],
+  "geometry": {"coordinates":[-79.58541099999999,43.551968],"type":"Point"}
 }

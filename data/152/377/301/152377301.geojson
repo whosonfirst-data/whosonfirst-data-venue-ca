@@ -2,13 +2,14 @@
   "id": 152377301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.239822,43.146248,-79.239822,43.146248",
     "geom:latitude":43.146248,
     "geom:longitude":-79.239822,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"118 Glenridge Ave",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"96e467db9ae9608924ee4153c4e702be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":152377301
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":152377301
         }
     ],
     "wof:id":152377301,
-    "wof:lastmodified":1449046042,
+    "wof:lastmodified":1453934150,
     "wof:name":"St George & St Mercurius",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.239822,43.146248,-79.239822,43.146248],
+  "bbox": [
+    -79.239822,
+    43.146248,
+    -79.239822,
+    43.146248
+],
   "geometry": {"coordinates":[-79.239822,43.146248],"type":"Point"}
 }

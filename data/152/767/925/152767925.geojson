@@ -2,13 +2,14 @@
   "id": 152767925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.112129,43.821228,-79.112129,43.821228",
     "geom:latitude":43.821228,
     "geom:longitude":-79.112129,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"777 Kingston Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895621,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"0d0c828e5ad9945633773bd420351a68",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895621,
+            "region_id":85682057,
+            "venue_id":152767925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895621,
             "region_id":85682057,
             "venue_id":152767925
         }
     ],
     "wof:id":152767925,
-    "wof:lastmodified":1449045618,
+    "wof:lastmodified":1453933839,
     "wof:name":"Cameron Dry Cleaners",
     "wof:parent_id":85895621,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.112129,43.821228,-79.112129,43.821228],
+  "bbox": [
+    -79.112129,
+    43.821228,
+    -79.112129,
+    43.821228
+],
   "geometry": {"coordinates":[-79.112129,43.821228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152197527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.662575,43.539948,-79.662575,43.539948",
     "geom:latitude":43.539948,
     "geom:longitude":-79.662575,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895111,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"abb624aba1ece3c624f2ac988cf4f328",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895111,
+            "region_id":85682057,
+            "venue_id":152197527
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895111,
             "region_id":85682057,
             "venue_id":152197527
         }
     ],
     "wof:id":152197527,
-    "wof:lastmodified":1449048341,
+    "wof:lastmodified":1453935905,
     "wof:name":"W E Oughtred & Assoc",
     "wof:parent_id":85895111,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.662575,43.539948,-79.662575,43.539948],
+  "bbox": [
+    -79.662575,
+    43.539948,
+    -79.662575,
+    43.539948
+],
   "geometry": {"coordinates":[-79.662575,43.539948],"type":"Point"}
 }

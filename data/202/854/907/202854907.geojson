@@ -2,13 +2,14 @@
   "id": 202854907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.645966,43.643311,-79.645966,43.643311",
     "geom:latitude":43.643311,
     "geom:longitude":-79.645966,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895633,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"aedae0e4bf6a8f4db087f83fbae6214a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":202854907
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":202854907
         }
     ],
     "wof:id":202854907,
-    "wof:lastmodified":1449062551,
+    "wof:lastmodified":1453937485,
     "wof:name":"Vanguard International Ltd",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -59,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.645966,43.643311,-79.645966,43.643311],
+  "bbox": [
+    -79.645966,
+    43.643311,
+    -79.645966,
+    43.643311
+],
   "geometry": {"coordinates":[-79.645966,43.643311],"type":"Point"}
 }

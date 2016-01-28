@@ -2,13 +2,14 @@
   "id": 185703913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576187,45.510532,-73.576187,45.510532",
     "geom:latitude":45.510532,
     "geom:longitude":-73.576187,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3600 Av Du Parc",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866501,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"b18e1fe33e8a175520a743161ae3f76b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866501,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185703913
         }
     ],
     "wof:id":185703913,
-    "wof:lastmodified":1449007096,
+    "wof:lastmodified":1453927256,
     "wof:name":"Howard Gillick Inc",
     "wof:parent_id":85866501,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-73.576187,45.510532,-73.576187,45.510532],
+  "bbox": [
+    -73.576187,
+    45.510532,
+    -73.576187,
+    45.510532
+],
   "geometry": {"coordinates":[-73.576187,45.510532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168838031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.650726,43.491505,-79.650726,43.491505",
     "geom:latitude":43.491505,
     "geom:longitude":-79.650726,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2322 Royal Windsor Dr",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895177,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"1a9cacf0dcdd89602fac1f42b6a6d317",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895177,
+            "region_id":85682057,
+            "venue_id":168838031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895177,
             "region_id":85682057,
             "venue_id":168838031
         }
     ],
     "wof:id":168838031,
-    "wof:lastmodified":1449027868,
+    "wof:lastmodified":1453927884,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85895177,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.650726,43.491505,-79.650726,43.491505],
-  "geometry": {"coordinates":[-79.650726,43.491505],"type":"Point"}
+  "bbox": [
+    -79.650726,
+    43.491505,
+    -79.650726,
+    43.491505
+],
+  "geometry": {"coordinates":[-79.65072600000001,43.491505],"type":"Point"}
 }

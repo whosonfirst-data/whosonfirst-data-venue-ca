@@ -2,13 +2,14 @@
   "id": 152790845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578079,45.599003,-73.578079,45.599003",
     "geom:latitude":45.599003,
     "geom:longitude":-73.578079,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6913 Rue Jarry E",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897591,
+        102191575,
         85633041,
-        85897591
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5d77b65b737401f886116f95f6438bda",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897591,
+            "region_id":136251273,
             "venue_id":152790845
         }
     ],
     "wof:id":152790845,
-    "wof:lastmodified":1449047837,
+    "wof:lastmodified":1453935530,
     "wof:name":"Leonard Electrique 2000",
     "wof:parent_id":85897591,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578079,45.599003,-73.578079,45.599003],
+  "bbox": [
+    -73.578079,
+    45.599003,
+    -73.578079,
+    45.599003
+],
   "geometry": {"coordinates":[-73.578079,45.599003],"type":"Point"}
 }

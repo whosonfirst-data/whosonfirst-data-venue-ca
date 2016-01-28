@@ -2,13 +2,14 @@
   "id": 186454279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.711189,43.394157,-79.711189,43.394157",
     "geom:latitude":43.394157,
     "geom:longitude":-79.711189,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oakville",
     "sg:classifiers":[
         {
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895373,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"2b22bf2074a555161bb0328828330b85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895373,
+            "region_id":85682057,
+            "venue_id":186454279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895373,
             "region_id":85682057,
             "venue_id":186454279
         }
     ],
     "wof:id":186454279,
-    "wof:lastmodified":1449052767,
+    "wof:lastmodified":1453936899,
     "wof:name":"Edward Jones",
     "wof:parent_id":85895373,
     "wof:placetype":"venue",
@@ -61,6 +73,11 @@
         "bond"
     ]
 },
-  "bbox": [-79.711189,43.394157,-79.711189,43.394157],
+  "bbox": [
+    -79.711189,
+    43.394157,
+    -79.711189,
+    43.394157
+],
   "geometry": {"coordinates":[-79.711189,43.394157],"type":"Point"}
 }

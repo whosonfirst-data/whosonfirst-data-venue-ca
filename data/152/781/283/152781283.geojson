@@ -2,13 +2,14 @@
   "id": 152781283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563622,45.519306,-73.563622,45.519306",
     "geom:latitude":45.519306,
     "geom:longitude":-73.563622,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"915 Rue Ontario E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"2ffae7db3833529cd448ba22aee1b73f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":152781283
         }
     ],
     "wof:id":152781283,
-    "wof:lastmodified":1449045171,
+    "wof:lastmodified":1453933489,
     "wof:name":"Poste D'Essence St Andre",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.563622,45.519306,-73.563622,45.519306],
+  "bbox": [
+    -73.563622,
+    45.519306,
+    -73.563622,
+    45.519306
+],
   "geometry": {"coordinates":[-73.563622,45.519306],"type":"Point"}
 }

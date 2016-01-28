@@ -2,13 +2,14 @@
   "id": 152853225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.426781,44.078804,-79.426781,44.078804",
     "geom:latitude":44.078804,
     "geom:longitude":-79.426781,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"350 Harry Walker Pky N",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895005,
         102191575,
         85633041,
-        85895005
+        101736295,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736295,
             "neighbourhood_id":85895005,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":152853225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895005,
+            "region_id":85682057,
             "venue_id":152853225
         }
     ],
     "wof:id":152853225,
-    "wof:lastmodified":1449046171,
+    "wof:lastmodified":1453934249,
     "wof:name":"Blueberry General Contractor",
     "wof:parent_id":85895005,
     "wof:placetype":"venue",
@@ -58,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.426781,44.078804,-79.426781,44.078804],
-  "geometry": {"coordinates":[-79.426781,44.078804],"type":"Point"}
+  "bbox": [
+    -79.426781,
+    44.078804,
+    -79.426781,
+    44.078804
+],
+  "geometry": {"coordinates":[-79.42678100000001,44.078804],"type":"Point"}
 }

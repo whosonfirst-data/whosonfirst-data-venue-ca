@@ -2,13 +2,14 @@
   "id": 153050043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.1828,45.568245,-73.1828,45.568245",
     "geom:latitude":45.568245,
     "geom:longitude":-73.1828,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"550 Rue Jolliet",
     "sg:city":"Mont-Saint-Hilaire",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737201,
+        85894595,
+        102191575,
         85633041,
-        85894595
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"bfa447c3dec591d63ad3289349bc88b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894595,
+            "region_id":136251273,
             "venue_id":153050043
         }
     ],
     "wof:id":153050043,
-    "wof:lastmodified":1449040627,
+    "wof:lastmodified":1453932555,
     "wof:name":"Centre Sportif Paul Lemieux",
     "wof:parent_id":85894595,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.1828,45.568245,-73.1828,45.568245],
+  "bbox": [
+    -73.1828,
+    45.568245,
+    -73.1828,
+    45.568245
+],
   "geometry": {"coordinates":[-73.1828,45.568245],"type":"Point"}
 }

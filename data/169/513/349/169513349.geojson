@@ -2,13 +2,14 @@
   "id": 169513349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.68985,45.724751,-73.68985,45.724751",
     "geom:latitude":45.724751,
     "geom:longitude":-73.68985,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3306 Boul Des Entreprises",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"914fbca018fedfba74a6cee489ca5dce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169513349
         }
     ],
     "wof:id":169513349,
-    "wof:lastmodified":1449034872,
+    "wof:lastmodified":1453931101,
     "wof:name":"Roulottes Ste Anne Inc",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.68985,45.724751,-73.68985,45.724751],
-  "geometry": {"coordinates":[-73.68985,45.724751],"type":"Point"}
+  "bbox": [
+    -73.68985,
+    45.724751,
+    -73.68985,
+    45.724751
+],
+  "geometry": {"coordinates":[-73.68985000000001,45.724751],"type":"Point"}
 }

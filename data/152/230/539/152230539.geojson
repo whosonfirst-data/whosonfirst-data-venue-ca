@@ -2,13 +2,14 @@
   "id": 152230539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.325455,46.814068,-71.325455,46.814068",
     "geom:latitude":46.814068,
     "geom:longitude":-71.325455,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3833 Boul Masson",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874721,
+        102191575,
         85633041,
-        85874721
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"6a819921f31efd99407305f9c9e67a87",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874721,
+            "region_id":136251273,
             "venue_id":152230539
         }
     ],
     "wof:id":152230539,
-    "wof:lastmodified":1449047734,
+    "wof:lastmodified":1453935450,
     "wof:name":"Tressage & Rempaillage",
     "wof:parent_id":85874721,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.325455,46.814068,-71.325455,46.814068],
-  "geometry": {"coordinates":[-71.325455,46.814068],"type":"Point"}
+  "bbox": [
+    -71.325455,
+    46.814068,
+    -71.325455,
+    46.814068
+],
+  "geometry": {"coordinates":[-71.32545500000001,46.814068],"type":"Point"}
 }

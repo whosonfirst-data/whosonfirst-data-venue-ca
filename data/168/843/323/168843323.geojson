@@ -2,13 +2,14 @@
   "id": 168843323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.045494,45.288727,-74.045494,45.288727",
     "geom:latitude":45.288727,
     "geom:longitude":-74.045494,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5223 Boul Hebert",
     "sg:city":"Saint-Timothee",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895763,
+        102191575,
         85633041,
-        85895763
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"bf09a3f1330b25f3d71a046516da4c74",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895763,
+            "region_id":136251273,
             "venue_id":168843323
         }
     ],
     "wof:id":168843323,
-    "wof:lastmodified":1449027837,
+    "wof:lastmodified":1453927851,
     "wof:name":"Clinique Dentaire",
     "wof:parent_id":85895763,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.045494,45.288727,-74.045494,45.288727],
-  "geometry": {"coordinates":[-74.045494,45.288727],"type":"Point"}
+  "bbox": [
+    -74.045494,
+    45.288727,
+    -74.045494,
+    45.288727
+],
+  "geometry": {"coordinates":[-74.04549400000001,45.288727],"type":"Point"}
 }

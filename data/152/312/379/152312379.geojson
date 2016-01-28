@@ -2,13 +2,14 @@
   "id": 152312379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.113419,43.906166,-80.113419,43.906166",
     "geom:latitude":43.906166,
     "geom:longitude":-80.113419,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Orangeville",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895083,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"4b529c79246337d50c02adfb9e577fb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895083,
+            "region_id":85682057,
+            "venue_id":152312379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895083,
             "region_id":85682057,
             "venue_id":152312379
         }
     ],
     "wof:id":152312379,
-    "wof:lastmodified":1449046636,
+    "wof:lastmodified":1453934601,
     "wof:name":"Kushindokai Karate School",
     "wof:parent_id":85895083,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.113419,43.906166,-80.113419,43.906166],
-  "geometry": {"coordinates":[-80.113419,43.906166],"type":"Point"}
+  "bbox": [
+    -80.113419,
+    43.906166,
+    -80.113419,
+    43.906166
+],
+  "geometry": {"coordinates":[-80.11341899999999,43.906166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152764547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.547234,45.575603,-73.547234,45.575603",
     "geom:latitude":45.575603,
     "geom:longitude":-73.547234,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5880 Rue Sherbrooke E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874169,
+        102191575,
         85633041,
-        85874169
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ef5de472db47be5ff3f7e78b71d35ad9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874169,
+            "region_id":136251273,
             "venue_id":152764547
         }
     ],
     "wof:id":152764547,
-    "wof:lastmodified":1449048700,
+    "wof:lastmodified":1453936171,
     "wof:name":"Banque National Du Canada",
     "wof:parent_id":85874169,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.547234,45.575603,-73.547234,45.575603],
+  "bbox": [
+    -73.547234,
+    45.575603,
+    -73.547234,
+    45.575603
+],
   "geometry": {"coordinates":[-73.547234,45.575603],"type":"Point"}
 }

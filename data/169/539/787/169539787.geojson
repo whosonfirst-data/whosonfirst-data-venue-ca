@@ -2,13 +2,14 @@
   "id": 169539787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.251907,42.983635,-81.251907,42.983635",
     "geom:latitude":42.983635,
     "geom:longitude":-81.251907,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -25,23 +26,43 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ah1RedMyDS8BHwrFrxdtP_42.983635_-81.251907@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"bc79e542f32f7181101728458a3d55c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":169539787
+        }
+    ],
     "wof:id":169539787,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1453932283,
     "wof:name":"Hardy & Chowen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.251907,42.983635,-81.251907,42.983635],
+  "bbox": [
+    -81.251907,
+    42.983635,
+    -81.251907,
+    42.983635
+],
   "geometry": {"coordinates":[-81.251907,42.983635],"type":"Point"}
 }

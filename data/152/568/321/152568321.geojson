@@ -2,13 +2,14 @@
   "id": 152568321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.513557,45.502434,-73.513557,45.502434",
     "geom:latitude":45.502434,
     "geom:longitude":-73.513557,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"402 Av Victoria",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,16 @@
     "wof:geomhash":"86247d06bfc4faad5efd300224fde9b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":152568321
         }
     ],
     "wof:id":152568321,
-    "wof:lastmodified":1449044175,
+    "wof:lastmodified":1453932734,
     "wof:name":"Boutique Pleine Lune Inc",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.513557,45.502434,-73.513557,45.502434],
-  "geometry": {"coordinates":[-73.513557,45.502434],"type":"Point"}
+  "bbox": [
+    -73.513557,
+    45.502434,
+    -73.513557,
+    45.502434
+],
+  "geometry": {"coordinates":[-73.51355700000001,45.502434],"type":"Point"}
 }

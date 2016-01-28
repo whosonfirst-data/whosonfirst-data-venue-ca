@@ -2,13 +2,14 @@
   "id": 152473159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.659904,45.502232,-73.659904,45.502232",
     "geom:latitude":45.502232,
     "geom:longitude":-73.659904,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8390 Rue Mayrand",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895725,
+        102191575,
         85633041,
-        85895725
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"7f75f06f17942806dd7f017fe566a016",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
+            "region_id":136251273,
             "venue_id":152473159
         }
     ],
     "wof:id":152473159,
-    "wof:lastmodified":1449045259,
+    "wof:lastmodified":1453933554,
     "wof:name":"Copitrak",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.659904,45.502232,-73.659904,45.502232],
+  "bbox": [
+    -73.659904,
+    45.502232,
+    -73.659904,
+    45.502232
+],
   "geometry": {"coordinates":[-73.659904,45.502232],"type":"Point"}
 }

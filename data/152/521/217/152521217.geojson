@@ -2,13 +2,14 @@
   "id": 152521217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.29805,43.005424,-81.29805,43.005424",
     "geom:latitude":43.005424,
     "geom:longitude":-81.29805,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"190 Wychwood Pk",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6G 1R9",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874929,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pekuDK7UUyWigvlnLQ1hZ_43.005424_-81.298050@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"0eb6251a0a8711aa5cca67a3b3420bd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874929,
+            "region_id":85682057,
+            "venue_id":152521217
+        }
+    ],
     "wof:id":152521217,
-    "wof:lastmodified":1449048693,
+    "wof:lastmodified":1453936166,
     "wof:name":"Horvath, Steven",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.29805,43.005424,-81.29805,43.005424],
+  "bbox": [
+    -81.29805,
+    43.005424,
+    -81.29805,
+    43.005424
+],
   "geometry": {"coordinates":[-81.29805,43.005424],"type":"Point"}
 }

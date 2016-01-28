@@ -2,13 +2,14 @@
   "id": 169197611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.102219,43.91935,-80.102219,43.91935",
     "geom:latitude":43.91935,
     "geom:longitude":-80.102219,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10 Louisa St",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895287,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ca12f51bb1b189b33d421b9488c4c418",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895287,
+            "region_id":85682057,
+            "venue_id":169197611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895287,
             "region_id":85682057,
             "venue_id":169197611
         }
     ],
     "wof:id":169197611,
-    "wof:lastmodified":1449035540,
+    "wof:lastmodified":1453931778,
     "wof:name":"Dufferin Provincial Div",
     "wof:parent_id":85895287,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.102219,43.91935,-80.102219,43.91935],
-  "geometry": {"coordinates":[-80.102219,43.91935],"type":"Point"}
+  "bbox": [
+    -80.102219,
+    43.91935,
+    -80.102219,
+    43.91935
+],
+  "geometry": {"coordinates":[-80.10221900000001,43.91935],"type":"Point"}
 }

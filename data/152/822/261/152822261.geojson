@@ -2,13 +2,14 @@
   "id": 152822261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.914238,45.247509,-73.914238,45.247509",
     "geom:latitude":45.247509,
     "geom:longitude":-73.914238,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"416 Ch Saint-Louis",
     "sg:city":"Saint-Etienne-DE-Beauharnois",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895763,
+        102191575,
         85633041,
-        85895763
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"e4c8c58a72b3c74823178a3d0288c5f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895763,
+            "region_id":136251273,
             "venue_id":152822261
         }
     ],
     "wof:id":152822261,
-    "wof:lastmodified":1449048774,
+    "wof:lastmodified":1453936233,
     "wof:name":"Presbytere St-Etienne",
     "wof:parent_id":85895763,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.914238,45.247509,-73.914238,45.247509],
+  "bbox": [
+    -73.914238,
+    45.247509,
+    -73.914238,
+    45.247509
+],
   "geometry": {"coordinates":[-73.914238,45.247509],"type":"Point"}
 }

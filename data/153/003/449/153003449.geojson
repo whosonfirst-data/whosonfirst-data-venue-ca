@@ -2,13 +2,14 @@
   "id": 153003449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.898453,45.400829,-71.898453,45.400829",
     "geom:latitude":45.400829,
     "geom:longitude":-71.898453,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"179 Rue Belvedere N",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"7eb55f1c11bb1babdefd864a5d5401da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":153003449
         }
     ],
     "wof:id":153003449,
-    "wof:lastmodified":1449040796,
+    "wof:lastmodified":1453932704,
     "wof:name":"Services D'Admin Marcoux Inc",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.898453,45.400829,-71.898453,45.400829],
+  "bbox": [
+    -71.898453,
+    45.400829,
+    -71.898453,
+    45.400829
+],
   "geometry": {"coordinates":[-71.898453,45.400829],"type":"Point"}
 }

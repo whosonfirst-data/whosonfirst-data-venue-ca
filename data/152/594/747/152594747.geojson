@@ -2,13 +2,14 @@
   "id": 152594747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.294922,43.050945,-81.294922,43.050945",
     "geom:latitude":43.050945,
     "geom:longitude":-81.294922,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"21578 Richmond St N",
     "sg:city":"Arva",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874929,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0t1CKLAqNEQkuYBoLaN9lW_43.050945_-81.294922@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"bbd60be10af773ad4289720fdbe1ba91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874929,
+            "region_id":85682057,
+            "venue_id":152594747
+        }
+    ],
     "wof:id":152594747,
-    "wof:lastmodified":1449044967,
+    "wof:lastmodified":1453933341,
     "wof:name":"Boutique Topaze",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.294922,43.050945,-81.294922,43.050945],
+  "bbox": [
+    -81.294922,
+    43.050945,
+    -81.294922,
+    43.050945
+],
   "geometry": {"coordinates":[-81.294922,43.050945],"type":"Point"}
 }

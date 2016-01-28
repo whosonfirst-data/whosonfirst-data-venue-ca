@@ -2,13 +2,14 @@
   "id": 169698711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.664543,45.518761,-73.664543,45.518761",
     "geom:latitude":45.518761,
     "geom:longitude":-73.664543,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"470 Boul Montpellier",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895725,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"0374ca9530bd2292d94f022c2f214a1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895725,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169698711
         }
     ],
     "wof:id":169698711,
-    "wof:lastmodified":1449035756,
+    "wof:lastmodified":1453932025,
     "wof:name":"Melcarm Limitee",
     "wof:parent_id":85895725,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "copying"
     ]
 },
-  "bbox": [-73.664543,45.518761,-73.664543,45.518761],
-  "geometry": {"coordinates":[-73.664543,45.518761],"type":"Point"}
+  "bbox": [
+    -73.664543,
+    45.518761,
+    -73.664543,
+    45.518761
+],
+  "geometry": {"coordinates":[-73.66454299999999,45.518761],"type":"Point"}
 }

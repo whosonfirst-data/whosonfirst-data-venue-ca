@@ -2,13 +2,14 @@
   "id": 169302459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.695831,45.679996,-73.695831,45.679996",
     "geom:latitude":45.679996,
     "geom:longitude":-73.695831,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3470 Boul Des Mille-Iles",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"be8a3fdf93dfaf1baf3f949f2d64471c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169302459
         }
     ],
     "wof:id":169302459,
-    "wof:lastmodified":1449033802,
+    "wof:lastmodified":1453929946,
     "wof:name":"Balai Le Permanent",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.695831,45.679996,-73.695831,45.679996],
+  "bbox": [
+    -73.695831,
+    45.679996,
+    -73.695831,
+    45.679996
+],
   "geometry": {"coordinates":[-73.695831,45.679996],"type":"Point"}
 }

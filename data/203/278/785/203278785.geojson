@@ -2,13 +2,14 @@
   "id": 203278785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.595337,50.450481,-104.595337,50.450481",
     "geom:latitude":50.450481,
     "geom:longitude":-104.595337,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1004 11th Ave",
     "sg:city":"Regina",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875215,
+        102191575,
         85633041,
         101739917,
-        85682113,
-        85875239
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,26 +43,18 @@
     "wof:geomhash":"f5600a12cc6053c660c1a20d87f99b4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101739917,
             "neighbourhood_id":85875215,
             "region_id":85682113,
             "venue_id":203278785
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633041,
-            "locality_id":101739917,
-            "neighbourhood_id":85875239,
-            "region_id":85682113,
-            "venue_id":203278785
         }
     ],
     "wof:id":203278785,
-    "wof:lastmodified":1449025994,
+    "wof:lastmodified":1453927603,
     "wof:name":"One Stop Vacuum Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875215,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +63,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-104.595337,50.450481,-104.595337,50.450481],
+  "bbox": [
+    -104.595337,
+    50.450481,
+    -104.595337,
+    50.450481
+],
   "geometry": {"coordinates":[-104.595337,50.450481],"type":"Point"}
 }

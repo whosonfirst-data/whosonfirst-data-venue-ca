@@ -2,13 +2,14 @@
   "id": 169548755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.746986,45.541325,-73.746986,45.541325",
     "geom:latitude":45.541325,
     "geom:longitude":-73.746986,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3842 Boul Notre-Dame",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"6db05a97bdec2f95a32cb3d08bc68d12",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":169548755
         }
     ],
     "wof:id":169548755,
-    "wof:lastmodified":1449034972,
+    "wof:lastmodified":1453931193,
     "wof:name":"Propo",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.746986,45.541325,-73.746986,45.541325],
-  "geometry": {"coordinates":[-73.746986,45.541325],"type":"Point"}
+  "bbox": [
+    -73.746986,
+    45.541325,
+    -73.746986,
+    45.541325
+],
+  "geometry": {"coordinates":[-73.74698600000001,45.541325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152689813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.614471,45.566174,-73.614471,45.566174",
     "geom:latitude":45.566174,
     "geom:longitude":-73.614471,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8389 Boul Saint-Michel",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"997a3d1d90257b08186723c131ae009b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":152689813
         }
     ],
     "wof:id":152689813,
-    "wof:lastmodified":1449048139,
+    "wof:lastmodified":1453935751,
     "wof:name":"Ortho-Comfort",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.614471,45.566174,-73.614471,45.566174],
-  "geometry": {"coordinates":[-73.614471,45.566174],"type":"Point"}
+  "bbox": [
+    -73.614471,
+    45.566174,
+    -73.614471,
+    45.566174
+],
+  "geometry": {"coordinates":[-73.61447099999999,45.566174],"type":"Point"}
 }

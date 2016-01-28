@@ -2,13 +2,14 @@
   "id": 185742051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.859207,43.903419,-78.859207,43.903419",
     "geom:latitude":43.903419,
     "geom:longitude":-78.859207,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"164 Division St",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875153,
+        102191575,
         85633041,
-        85682057
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"a02d0cc545485e7d0ae06d3d948c10ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875153,
+            "region_id":85682057,
+            "venue_id":185742051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875153,
             "region_id":85682057,
             "venue_id":185742051
         }
     ],
     "wof:id":185742051,
-    "wof:lastmodified":1449006709,
+    "wof:lastmodified":1453927207,
     "wof:name":"Oriental Latin Intl Foods Spec",
     "wof:parent_id":85875153,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "grocer"
     ]
 },
-  "bbox": [-78.859207,43.903419,-78.859207,43.903419],
+  "bbox": [
+    -78.859207,
+    43.903419,
+    -78.859207,
+    43.903419
+],
   "geometry": {"coordinates":[-78.859207,43.903419],"type":"Point"}
 }

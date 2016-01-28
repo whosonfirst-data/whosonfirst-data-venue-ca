@@ -2,13 +2,14 @@
   "id": 152150437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.603027,43.570663,-79.603027,43.570663",
     "geom:latitude":43.570663,
     "geom:longitude":-79.603027,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895411,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7faef73222ad7f123dce781387751f90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895411,
+            "region_id":85682057,
+            "venue_id":152150437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895411,
             "region_id":85682057,
             "venue_id":152150437
         }
     ],
     "wof:id":152150437,
-    "wof:lastmodified":1449044356,
+    "wof:lastmodified":1453932865,
     "wof:name":"Hurontario Harborn Dental Ctr",
     "wof:parent_id":85895411,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.603027,43.570663,-79.603027,43.570663],
+  "bbox": [
+    -79.603027,
+    43.570663,
+    -79.603027,
+    43.570663
+],
   "geometry": {"coordinates":[-79.603027,43.570663],"type":"Point"}
 }

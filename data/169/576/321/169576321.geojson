@@ -2,13 +2,14 @@
   "id": 169576321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.129951,45.25555,-74.129951,45.25555",
     "geom:latitude":45.25555,
     "geom:longitude":-74.129951,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"20 Rue Jacques-Cartier",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"90529298f10bb2c6f77f8e85ba5b41dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":169576321
         }
     ],
     "wof:id":169576321,
-    "wof:lastmodified":1449035194,
+    "wof:lastmodified":1453931395,
     "wof:name":"Salon Scrupules II",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.129951,45.25555,-74.129951,45.25555],
-  "geometry": {"coordinates":[-74.129951,45.25555],"type":"Point"}
+  "bbox": [
+    -74.129951,
+    45.25555,
+    -74.129951,
+    45.25555
+],
+  "geometry": {"coordinates":[-74.12995100000001,45.25555],"type":"Point"}
 }

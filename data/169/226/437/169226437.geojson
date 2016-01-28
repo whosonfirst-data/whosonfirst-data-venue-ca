@@ -2,13 +2,14 @@
   "id": 169226437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.668762,43.447918,-79.668762,43.447918",
     "geom:latitude":43.447918,
     "geom:longitude":-79.668762,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"257 Randall St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895269,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"ae6b5d8a2c09721bf0e09e3faa2055d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895269,
+            "region_id":85682057,
+            "venue_id":169226437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895269,
             "region_id":85682057,
             "venue_id":169226437
         }
     ],
     "wof:id":169226437,
-    "wof:lastmodified":1449035068,
+    "wof:lastmodified":1453931301,
     "wof:name":"Bazar Mc Bean & CO",
     "wof:parent_id":85895269,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.668762,43.447918,-79.668762,43.447918],
+  "bbox": [
+    -79.668762,
+    43.447918,
+    -79.668762,
+    43.447918
+],
   "geometry": {"coordinates":[-79.668762,43.447918],"type":"Point"}
 }

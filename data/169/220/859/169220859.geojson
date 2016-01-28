@@ -2,13 +2,14 @@
   "id": 169220859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.336967,48.412296,-123.336967,48.412296",
     "geom:latitude":48.412296,
     "geom:longitude":-123.336967,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1600 Fairfield Rd",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -28,9 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101740775,
-        85633041,
         85875083,
+        102191575,
+        85633041,
+        101740775,
         85682117
     ],
     "wof:breaches":[],
@@ -41,6 +43,7 @@
     "wof:geomhash":"6d349aafa556567d9eed3bd3d38e1b76",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101740775,
             "neighbourhood_id":85875083,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":169220859,
-    "wof:lastmodified":1449035846,
+    "wof:lastmodified":1453932131,
     "wof:name":"Fairfield Petro-Canada Svc",
     "wof:parent_id":85875083,
     "wof:placetype":"venue",
@@ -57,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.336967,48.412296,-123.336967,48.412296],
+  "bbox": [
+    -123.336967,
+    48.412296,
+    -123.336967,
+    48.412296
+],
   "geometry": {"coordinates":[-123.336967,48.412296],"type":"Point"}
 }

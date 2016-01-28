@@ -2,13 +2,14 @@
   "id": 169447615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.971245,45.390396,-71.971245,45.390396",
     "geom:latitude":45.390396,
     "geom:longitude":-71.971245,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4345 Rue Robitaille",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"174ff553e0dc2a8d2343047df9475aa8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":169447615
         }
     ],
     "wof:id":169447615,
-    "wof:lastmodified":1449035000,
+    "wof:lastmodified":1453931216,
     "wof:name":"Produits Thermo Concept Inc",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.971245,45.390396,-71.971245,45.390396],
+  "bbox": [
+    -71.971245,
+    45.390396,
+    -71.971245,
+    45.390396
+],
   "geometry": {"coordinates":[-71.971245,45.390396],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169207959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.297653,45.452377,-73.297653,45.452377",
     "geom:latitude":45.452377,
     "geom:longitude":-73.297653,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1333 Av Bourgogne",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737807,
+        85895747,
+        102191575,
         85633041,
-        85895747
+        101737807,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"22a2c878860056a9732a25cee5e8be96",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737807,
             "neighbourhood_id":85895747,
+            "region_id":136251273,
             "venue_id":169207959
         }
     ],
     "wof:id":169207959,
-    "wof:lastmodified":1449034994,
+    "wof:lastmodified":1453931213,
     "wof:name":"Garage Pelletier",
     "wof:parent_id":85895747,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.297653,45.452377,-73.297653,45.452377],
+  "bbox": [
+    -73.297653,
+    45.452377,
+    -73.297653,
+    45.452377
+],
   "geometry": {"coordinates":[-73.297653,45.452377],"type":"Point"}
 }

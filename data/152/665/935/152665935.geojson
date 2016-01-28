@@ -2,13 +2,14 @@
   "id": 152665935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.526627,43.929188,-79.526627,43.929188",
     "geom:latitude":43.929188,
     "geom:longitude":-79.526627,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"King City",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895571,
-        85682057
+        102191575,
+        85633041,
+        101736003,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"8916d3d941003fc861ac190c64774f6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736003,
+            "neighbourhood_id":85895571,
+            "region_id":85682057,
+            "venue_id":152665935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895571,
             "region_id":85682057,
             "venue_id":152665935
         }
     ],
     "wof:id":152665935,
-    "wof:lastmodified":1449045720,
+    "wof:lastmodified":1453933912,
     "wof:name":"Assante Capital Management",
     "wof:parent_id":85895571,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.526627,43.929188,-79.526627,43.929188],
+  "bbox": [
+    -79.526627,
+    43.929188,
+    -79.526627,
+    43.929188
+],
   "geometry": {"coordinates":[-79.526627,43.929188],"type":"Point"}
 }

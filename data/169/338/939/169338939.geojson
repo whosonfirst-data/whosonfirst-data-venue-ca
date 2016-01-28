@@ -2,13 +2,14 @@
   "id": 169338939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.590309,45.600254,-73.590309,45.600254",
     "geom:latitude":45.600254,
     "geom:longitude":-73.590309,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8647 Rue Lafrenaie",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874367,
+        102191575,
         85633041,
-        85874367
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c9c88ad02c88ddb1c8b9fbc3c8e9b876",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874367,
+            "region_id":136251273,
             "venue_id":169338939
         }
     ],
     "wof:id":169338939,
-    "wof:lastmodified":1449033829,
+    "wof:lastmodified":1453929986,
     "wof:name":"AAA Corrugated Box",
     "wof:parent_id":85874367,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.590309,45.600254,-73.590309,45.600254],
+  "bbox": [
+    -73.590309,
+    45.600254,
+    -73.590309,
+    45.600254
+],
   "geometry": {"coordinates":[-73.590309,45.600254],"type":"Point"}
 }

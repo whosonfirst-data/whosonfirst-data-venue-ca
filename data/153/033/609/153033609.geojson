@@ -2,13 +2,14 @@
   "id": 153033609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.495766,45.509197,-73.495766,45.509197",
     "geom:latitude":45.509197,
     "geom:longitude":-73.495766,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1545 Rue Saint-Thomas",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"e4621f286bf5808482f5e37d7608c1fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":153033609
         }
     ],
     "wof:id":153033609,
-    "wof:lastmodified":1449040432,
+    "wof:lastmodified":1453932387,
     "wof:name":"Coiffure Esthetique Salia",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.495766,45.509197,-73.495766,45.509197],
+  "bbox": [
+    -73.495766,
+    45.509197,
+    -73.495766,
+    45.509197
+],
   "geometry": {"coordinates":[-73.495766,45.509197],"type":"Point"}
 }

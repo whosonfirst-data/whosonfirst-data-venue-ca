@@ -2,13 +2,14 @@
   "id": 169050805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.730179,45.438915,-73.730179,45.438915",
     "geom:latitude":45.438915,
     "geom:longitude":-73.730179,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1865 Rte Trans-Canada",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"1f2631106126ccc109e4471ea34a6098",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":169050805
         }
     ],
     "wof:id":169050805,
-    "wof:lastmodified":1449034510,
+    "wof:lastmodified":1453930697,
     "wof:name":"Marchon Canada Inc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.730179,45.438915,-73.730179,45.438915],
-  "geometry": {"coordinates":[-73.730179,45.438915],"type":"Point"}
+  "bbox": [
+    -73.730179,
+    45.438915,
+    -73.730179,
+    45.438915
+],
+  "geometry": {"coordinates":[-73.73017900000001,45.438915],"type":"Point"}
 }

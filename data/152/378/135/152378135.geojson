@@ -2,13 +2,14 @@
   "id": 152378135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556831,45.507198,-73.556831,45.507198",
     "geom:latitude":45.507198,
     "geom:longitude":-73.556831,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Ville-Marie",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"7fc5d501599cea42a683661d9abf32d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":152378135
         }
     ],
     "wof:id":152378135,
-    "wof:lastmodified":1449047417,
+    "wof:lastmodified":1453935191,
     "wof:name":"Sous-Poste Camionnage En Vrac",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.556831,45.507198,-73.556831,45.507198],
+  "bbox": [
+    -73.556831,
+    45.507198,
+    -73.556831,
+    45.507198
+],
   "geometry": {"coordinates":[-73.556831,45.507198],"type":"Point"}
 }

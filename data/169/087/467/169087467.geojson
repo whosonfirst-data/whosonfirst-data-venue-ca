@@ -2,13 +2,14 @@
   "id": 169087467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.273766,46.774258,-71.273766,46.774258",
     "geom:latitude":46.774258,
     "geom:longitude":-71.273766,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2455 Boul Laurier",
     "sg:city":"Sillery",
     "sg:classifiers":[
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874713,
+        102191575,
         85633041,
-        85874713
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:geomhash":"4ee75d04c196523af5b3f7e75f409059",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874713,
+            "region_id":136251273,
             "venue_id":169087467
         }
     ],
     "wof:id":169087467,
-    "wof:lastmodified":1449034202,
+    "wof:lastmodified":1453930393,
     "wof:name":"Laura Secord",
     "wof:parent_id":85874713,
     "wof:placetype":"venue",
@@ -59,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.273766,46.774258,-71.273766,46.774258],
-  "geometry": {"coordinates":[-71.273766,46.774258],"type":"Point"}
+  "bbox": [
+    -71.273766,
+    46.774258,
+    -71.273766,
+    46.774258
+],
+  "geometry": {"coordinates":[-71.27376599999999,46.774258],"type":"Point"}
 }

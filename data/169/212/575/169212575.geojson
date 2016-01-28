@@ -2,13 +2,14 @@
   "id": 169212575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55574,45.515827,-73.55574,45.515827",
     "geom:latitude":45.515827,
     "geom:longitude":-73.55574,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"955 Boul Rene-Levesque E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4bb3c8273c2ea123c02a7ea86ebccf9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":169212575
         }
     ],
     "wof:id":169212575,
-    "wof:lastmodified":1449034820,
+    "wof:lastmodified":1453931054,
     "wof:name":"Salon DE Coiffure Mont-Carmel",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.55574,45.515827,-73.55574,45.515827],
+  "bbox": [
+    -73.55574,
+    45.515827,
+    -73.55574,
+    45.515827
+],
   "geometry": {"coordinates":[-73.55574,45.515827],"type":"Point"}
 }

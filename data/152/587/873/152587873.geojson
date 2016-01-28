@@ -2,13 +2,14 @@
   "id": 152587873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.532761,43.850861,-79.532761,43.850861",
     "geom:latitude":43.850861,
     "geom:longitude":-79.532761,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2810 Major Mackenzie Dr # 1",
     "sg:city":"Maple",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"eee52afe753148505fee44f392a8ae44",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":152587873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":152587873
         }
     ],
     "wof:id":152587873,
-    "wof:lastmodified":1449045893,
+    "wof:lastmodified":1453934046,
     "wof:name":"Mc Donald Active Rehab Inc",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.532761,43.850861,-79.532761,43.850861],
-  "geometry": {"coordinates":[-79.532761,43.850861],"type":"Point"}
+  "bbox": [
+    -79.532761,
+    43.850861,
+    -79.532761,
+    43.850861
+],
+  "geometry": {"coordinates":[-79.53276099999999,43.850861],"type":"Point"}
 }

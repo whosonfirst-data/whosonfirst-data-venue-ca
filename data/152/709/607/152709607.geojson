@@ -2,13 +2,14 @@
   "id": 152709607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824699,43.372677,-79.824699,43.372677",
     "geom:latitude":43.372677,
     "geom:longitude":-79.824699,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2116 Bartok Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895041,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"7df501e68095044957b9f091c4d1f655",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895041,
+            "region_id":85682057,
+            "venue_id":152709607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895041,
             "region_id":85682057,
             "venue_id":152709607
         }
     ],
     "wof:id":152709607,
-    "wof:lastmodified":1449045222,
+    "wof:lastmodified":1453933530,
     "wof:name":"A T J's Fireplace",
     "wof:parent_id":85895041,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.824699,43.372677,-79.824699,43.372677],
+  "bbox": [
+    -79.824699,
+    43.372677,
+    -79.824699,
+    43.372677
+],
   "geometry": {"coordinates":[-79.824699,43.372677],"type":"Point"}
 }

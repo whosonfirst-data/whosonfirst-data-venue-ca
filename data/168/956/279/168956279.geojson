@@ -2,13 +2,14 @@
   "id": 168956279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.795586,45.579109,-73.795586,45.579109",
     "geom:latitude":45.579109,
     "geom:longitude":-73.795586,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Laval",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"e0130957d7e9f82145297822ca2b5f95",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":168956279
         }
     ],
     "wof:id":168956279,
-    "wof:lastmodified":1449027902,
+    "wof:lastmodified":1453927926,
     "wof:name":"Clinique Dentaire",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.795586,45.579109,-73.795586,45.579109],
+  "bbox": [
+    -73.795586,
+    45.579109,
+    -73.795586,
+    45.579109
+],
   "geometry": {"coordinates":[-73.795586,45.579109],"type":"Point"}
 }

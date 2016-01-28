@@ -2,13 +2,14 @@
   "id": 169203237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.297211,45.35339,-73.297211,45.35339",
     "geom:latitude":45.35339,
     "geom:longitude":-73.297211,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4 Rue DE Montmartre",
     "sg:city":"Saint-Luc",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85864393,
+        102191575,
         85633041,
-        85864393
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"9880ee113b61aba5e0bd5f36fe9718ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85864393,
+            "region_id":136251273,
             "venue_id":169203237
         }
     ],
     "wof:id":169203237,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1453930320,
     "wof:name":"Recyclink",
     "wof:parent_id":85864393,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.297211,45.35339,-73.297211,45.35339],
+  "bbox": [
+    -73.297211,
+    45.35339,
+    -73.297211,
+    45.35339
+],
   "geometry": {"coordinates":[-73.297211,45.35339],"type":"Point"}
 }

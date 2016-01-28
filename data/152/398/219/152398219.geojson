@@ -2,13 +2,14 @@
   "id": 152398219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.501831,43.466408,-80.501831,43.466408",
     "geom:latitude":43.466408,
     "geom:longitude":-80.501831,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"245 Union St E",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874983,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"b0ccf51cfcc7f43829c411da545ccc37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874983,
+            "region_id":85682057,
+            "venue_id":152398219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85874983,
             "region_id":85682057,
             "venue_id":152398219
         }
     ],
     "wof:id":152398219,
-    "wof:lastmodified":1449044674,
+    "wof:lastmodified":1453933118,
     "wof:name":"Miller Property Maintenance",
     "wof:parent_id":85874983,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.501831,43.466408,-80.501831,43.466408],
+  "bbox": [
+    -80.501831,
+    43.466408,
+    -80.501831,
+    43.466408
+],
   "geometry": {"coordinates":[-80.501831,43.466408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168885445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.24366,46.828011,-71.24366,46.828011",
     "geom:latitude":46.828011,
     "geom:longitude":-71.24366,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"190 Av Lamontagne",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864443,
+        102191575,
         85633041,
-        85864443
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"7ef93790ac8904b139734635ed320f70",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864443,
+            "region_id":136251273,
             "venue_id":168885445
         }
     ],
     "wof:id":168885445,
-    "wof:lastmodified":1449028181,
+    "wof:lastmodified":1453928241,
     "wof:name":"Voyages Receptifs Du Quebec",
     "wof:parent_id":85864443,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.24366,46.828011,-71.24366,46.828011],
-  "geometry": {"coordinates":[-71.24366,46.828011],"type":"Point"}
+  "bbox": [
+    -71.24366,
+    46.828011,
+    -71.24366,
+    46.828011
+],
+  "geometry": {"coordinates":[-71.24366000000001,46.828011],"type":"Point"}
 }

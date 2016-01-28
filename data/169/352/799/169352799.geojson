@@ -2,13 +2,14 @@
   "id": 169352799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.955559,45.393852,-73.955559,45.393852",
     "geom:latitude":45.393852,
     "geom:longitude":-73.955559,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300 Boul Perrot #100",
     "sg:city":"L'Ile-Perrot",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737255,
+        85784905,
+        102191575,
         85633041,
-        85784905
+        101737255,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"823e2288750a13eb4ff3286357cb4900",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737255,
             "neighbourhood_id":85784905,
+            "region_id":136251273,
             "venue_id":169352799
         }
     ],
     "wof:id":169352799,
-    "wof:lastmodified":1449034715,
+    "wof:lastmodified":1453930918,
     "wof:name":"Presbytere Ste Rose DE Lima",
     "wof:parent_id":85784905,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.955559,45.393852,-73.955559,45.393852],
-  "geometry": {"coordinates":[-73.955559,45.393852],"type":"Point"}
+  "bbox": [
+    -73.955559,
+    45.393852,
+    -73.955559,
+    45.393852
+],
+  "geometry": {"coordinates":[-73.95555899999999,45.393852],"type":"Point"}
 }

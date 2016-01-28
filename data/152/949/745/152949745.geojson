@@ -2,13 +2,14 @@
   "id": 152949745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.39183,43.855717,-79.39183,43.855717",
     "geom:latitude":43.855717,
     "geom:longitude":-79.39183,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"52 West Beaver Creek Rd #4",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895539,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"03d91b85c8d453ac9ae3b6f9d082f8bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895539,
+            "region_id":85682057,
+            "venue_id":152949745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895539,
             "region_id":85682057,
             "venue_id":152949745
         }
     ],
     "wof:id":152949745,
-    "wof:lastmodified":1449047169,
+    "wof:lastmodified":1453935008,
     "wof:name":"Legacy Sales Group Inc",
     "wof:parent_id":85895539,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.39183,43.855717,-79.39183,43.855717],
+  "bbox": [
+    -79.39183,
+    43.855717,
+    -79.39183,
+    43.855717
+],
   "geometry": {"coordinates":[-79.39183,43.855717],"type":"Point"}
 }

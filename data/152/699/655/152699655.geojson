@@ -2,13 +2,14 @@
   "id": 152699655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.589066,45.490238,-73.589066,45.490238",
     "geom:latitude":45.490238,
     "geom:longitude":-73.589066,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Westmount",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897625,
+        102191575,
         85633041,
-        85897625
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"379005c22d00bae9ac1469fa3bc08aee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897625,
+            "region_id":136251273,
             "venue_id":152699655
         }
     ],
     "wof:id":152699655,
-    "wof:lastmodified":1449044938,
+    "wof:lastmodified":1453933324,
     "wof:name":"Chequers Place",
     "wof:parent_id":85897625,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.589066,45.490238,-73.589066,45.490238],
+  "bbox": [
+    -73.589066,
+    45.490238,
+    -73.589066,
+    45.490238
+],
   "geometry": {"coordinates":[-73.589066,45.490238],"type":"Point"}
 }

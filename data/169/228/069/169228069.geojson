@@ -2,13 +2,14 @@
   "id": 169228069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.692848,45.484325,-73.692848,45.484325",
     "geom:latitude":45.484325,
     "geom:longitude":-73.692848,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6600 Ch DE LA Cote-DE-Liesse",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"c4f8ccd2aaf7196795b2e991474b1bd4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":169228069
         }
     ],
     "wof:id":169228069,
-    "wof:lastmodified":1449033722,
+    "wof:lastmodified":1453929847,
     "wof:name":"Four Points Par Sheraton",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.692848,45.484325,-73.692848,45.484325],
+  "bbox": [
+    -73.692848,
+    45.484325,
+    -73.692848,
+    45.484325
+],
   "geometry": {"coordinates":[-73.692848,45.484325],"type":"Point"}
 }

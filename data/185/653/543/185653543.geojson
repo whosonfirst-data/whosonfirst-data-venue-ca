@@ -2,13 +2,14 @@
   "id": 185653543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.632088,45.431797,-73.632088,45.431797",
     "geom:latitude":45.431797,
     "geom:longitude":-73.632088,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8463 Boul Newman",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897543,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"dbe028adcb00c03c4f719cd727da40bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897543,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185653543
         }
     ],
     "wof:id":185653543,
-    "wof:lastmodified":1449006721,
+    "wof:lastmodified":1453927208,
     "wof:name":"Centre Dentaire A Fischer",
     "wof:parent_id":85897543,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.632088,45.431797,-73.632088,45.431797],
+  "bbox": [
+    -73.632088,
+    45.431797,
+    -73.632088,
+    45.431797
+],
   "geometry": {"coordinates":[-73.632088,45.431797],"type":"Point"}
 }

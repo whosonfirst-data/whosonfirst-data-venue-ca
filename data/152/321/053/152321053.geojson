@@ -2,13 +2,14 @@
   "id": 152321053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.82695,45.460239,-73.82695,45.460239",
     "geom:latitude":45.460239,
     "geom:longitude":-73.82695,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Av Du Plateau",
     "sg:city":"Pointe-Claire",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875799,
+        102191575,
         85633041,
-        85875799
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"be3be356e42eeb5f5fcf6ceeee237f24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875799,
+            "region_id":136251273,
             "venue_id":152321053
         }
     ],
     "wof:id":152321053,
-    "wof:lastmodified":1449044398,
+    "wof:lastmodified":1453932898,
     "wof:name":"Deschenes & Fils Ltee",
     "wof:parent_id":85875799,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.82695,45.460239,-73.82695,45.460239],
+  "bbox": [
+    -73.82695,
+    45.460239,
+    -73.82695,
+    45.460239
+],
   "geometry": {"coordinates":[-73.82695,45.460239],"type":"Point"}
 }

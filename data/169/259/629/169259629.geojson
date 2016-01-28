@@ -2,13 +2,14 @@
   "id": 169259629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.444061,45.475002,-73.444061,45.475002",
     "geom:latitude":45.475002,
     "geom:longitude":-73.444061,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5625 Boul Grande-Allee",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897547,
+        102191575,
         85633041,
-        85897547
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"0413dae9d2a1e1b575fc4bea6b5f0056",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897547,
+            "region_id":136251273,
             "venue_id":169259629
         }
     ],
     "wof:id":169259629,
-    "wof:lastmodified":1449033444,
+    "wof:lastmodified":1453929558,
     "wof:name":"Depanneur Grande Allee",
     "wof:parent_id":85897547,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.444061,45.475002,-73.444061,45.475002],
+  "bbox": [
+    -73.444061,
+    45.475002,
+    -73.444061,
+    45.475002
+],
   "geometry": {"coordinates":[-73.444061,45.475002],"type":"Point"}
 }

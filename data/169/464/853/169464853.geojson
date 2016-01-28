@@ -2,13 +2,14 @@
   "id": 169464853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.496552,45.549301,-73.496552,45.549301",
     "geom:latitude":45.549301,
     "geom:longitude":-73.496552,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"101 Boul Roland-Therrien",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875717,
+        102191575,
         85633041,
-        85875717
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"425a38a8743f1ff6b5ae0211192a311c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875717,
+            "region_id":136251273,
             "venue_id":169464853
         }
     ],
     "wof:id":169464853,
-    "wof:lastmodified":1449033574,
+    "wof:lastmodified":1453929693,
     "wof:name":"Alter Moneta Corp",
     "wof:parent_id":85875717,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.496552,45.549301,-73.496552,45.549301],
-  "geometry": {"coordinates":[-73.496552,45.549301],"type":"Point"}
+  "bbox": [
+    -73.496552,
+    45.549301,
+    -73.496552,
+    45.549301
+],
+  "geometry": {"coordinates":[-73.49655199999999,45.549301],"type":"Point"}
 }

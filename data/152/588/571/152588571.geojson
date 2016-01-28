@@ -2,13 +2,14 @@
   "id": 152588571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.238853,43.878716,-79.238853,43.878716",
     "geom:latitude":43.878716,
     "geom:longitude":-79.238853,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Markham",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895017,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"34b258ae86d7ed6119d5139c8860ed45",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895017,
+            "region_id":85682057,
+            "venue_id":152588571
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895017,
             "region_id":85682057,
             "venue_id":152588571
         }
     ],
     "wof:id":152588571,
-    "wof:lastmodified":1449048009,
+    "wof:lastmodified":1453935660,
     "wof:name":"Guler, S",
     "wof:parent_id":85895017,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.238853,43.878716,-79.238853,43.878716],
-  "geometry": {"coordinates":[-79.238853,43.878716],"type":"Point"}
+  "bbox": [
+    -79.238853,
+    43.878716,
+    -79.238853,
+    43.878716
+],
+  "geometry": {"coordinates":[-79.23885300000001,43.878716],"type":"Point"}
 }

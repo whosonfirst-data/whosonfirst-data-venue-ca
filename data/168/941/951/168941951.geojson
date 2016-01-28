@@ -2,13 +2,14 @@
   "id": 168941951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.715675,44.358044,-79.715675,44.358044",
     "geom:latitude":44.358044,
     "geom:longitude":-79.715675,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"170 Ferndale Dr S",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4N 8A1",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875275,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UuC3bawfCrFOOXvcfsNRt_44.358044_-79.715675@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"1309be4395900e63547b1e9f2a886239",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875275,
+            "region_id":85682057,
+            "venue_id":168941951
+        }
+    ],
     "wof:id":168941951,
-    "wof:lastmodified":1449028236,
+    "wof:lastmodified":1453928301,
     "wof:name":"Ferndale Woods Ymca Child",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875275,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.715675,44.358044,-79.715675,44.358044],
+  "bbox": [
+    -79.715675,
+    44.358044,
+    -79.715675,
+    44.358044
+],
   "geometry": {"coordinates":[-79.715675,44.358044],"type":"Point"}
 }

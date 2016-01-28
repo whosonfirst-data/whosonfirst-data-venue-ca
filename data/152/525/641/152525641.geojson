@@ -2,13 +2,14 @@
   "id": 152525641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.229683,45.556561,-73.229683,45.556561",
     "geom:latitude":45.556561,
     "geom:longitude":-73.229683,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"955 Rue Bernard-Pilon",
     "sg:city":"Beloeil",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738643,
+        85894591,
+        102191575,
         85633041,
-        85894591
+        101738643,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d5a07bf2f29ccba29a28b6d128a45d0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738643,
             "neighbourhood_id":85894591,
+            "region_id":136251273,
             "venue_id":152525641
         }
     ],
     "wof:id":152525641,
-    "wof:lastmodified":1449047954,
+    "wof:lastmodified":1453935618,
     "wof:name":"Centre DE Peinture Enr",
     "wof:parent_id":85894591,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.229683,45.556561,-73.229683,45.556561],
-  "geometry": {"coordinates":[-73.229683,45.556561],"type":"Point"}
+  "bbox": [
+    -73.229683,
+    45.556561,
+    -73.229683,
+    45.556561
+],
+  "geometry": {"coordinates":[-73.22968299999999,45.556561],"type":"Point"}
 }

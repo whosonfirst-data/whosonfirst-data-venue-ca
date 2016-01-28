@@ -2,13 +2,14 @@
   "id": 169453329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635468,45.693878,-73.635468,45.693878",
     "geom:latitude":45.693878,
     "geom:longitude":-73.635468,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"231 Rue Sainte-Marie",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85895715,
+        102191575,
         85633041,
-        85895715
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cb371d8377b45d25a860dcbc07b62234",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85895715,
+            "region_id":136251273,
             "venue_id":169453329
         }
     ],
     "wof:id":169453329,
-    "wof:lastmodified":1449035148,
+    "wof:lastmodified":1453931367,
     "wof:name":"Revue DE Terrebonne",
     "wof:parent_id":85895715,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.635468,45.693878,-73.635468,45.693878],
+  "bbox": [
+    -73.635468,
+    45.693878,
+    -73.635468,
+    45.693878
+],
   "geometry": {"coordinates":[-73.635468,45.693878],"type":"Point"}
 }

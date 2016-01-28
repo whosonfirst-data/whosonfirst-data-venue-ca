@@ -2,13 +2,14 @@
   "id": 169463667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688972,44.411324,-79.688972,44.411324",
     "geom:latitude":44.411324,
     "geom:longitude":-79.688972,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"410 St Vincent St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -31,23 +32,43 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875267,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zqUQftJBNDSSwMyducMWT_44.411324_-79.688972@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"566698dea91a73cd7d65c6d1120d681d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875267,
+            "region_id":85682057,
+            "venue_id":169463667
+        }
+    ],
     "wof:id":169463667,
-    "wof:lastmodified":1449034982,
+    "wof:lastmodified":1453931204,
     "wof:name":"Royal Canadian Legion Lounge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.688972,44.411324,-79.688972,44.411324],
-  "geometry": {"coordinates":[-79.688972,44.411324],"type":"Point"}
+  "bbox": [
+    -79.688972,
+    44.411324,
+    -79.688972,
+    44.411324
+],
+  "geometry": {"coordinates":[-79.68897200000001,44.411324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169155867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.447983,45.760841,-73.447983,45.760841",
     "geom:latitude":45.760841,
     "geom:longitude":-73.447983,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"217 Rue Beauvillier",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"fe4b956161122ea306c6ea7205ba3a54",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169155867
         }
     ],
     "wof:id":169155867,
-    "wof:lastmodified":1449035380,
+    "wof:lastmodified":1453931583,
     "wof:name":"Asphalte DE L'Est Inc",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.447983,45.760841,-73.447983,45.760841],
-  "geometry": {"coordinates":[-73.447983,45.760841],"type":"Point"}
+  "bbox": [
+    -73.447983,
+    45.760841,
+    -73.447983,
+    45.760841
+],
+  "geometry": {"coordinates":[-73.44798299999999,45.760841],"type":"Point"}
 }

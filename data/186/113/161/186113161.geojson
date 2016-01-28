@@ -2,13 +2,14 @@
   "id": 186113161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.558792,43.780327,-79.558792,43.780327",
     "geom:latitude":43.780327,
     "geom:longitude":-79.558792,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"446 Rowntree Dairy Rd",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895557,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"21454d988cb1d3205eadae48f3915bbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":186113161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":186113161
         }
     ],
     "wof:id":186113161,
-    "wof:lastmodified":1449052801,
+    "wof:lastmodified":1453936907,
     "wof:name":"Lhm Technologies Inc",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.558792,43.780327,-79.558792,43.780327],
+  "bbox": [
+    -79.558792,
+    43.780327,
+    -79.558792,
+    43.780327
+],
   "geometry": {"coordinates":[-79.558792,43.780327],"type":"Point"}
 }

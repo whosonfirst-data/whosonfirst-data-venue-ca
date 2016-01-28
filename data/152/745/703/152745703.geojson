@@ -2,13 +2,14 @@
   "id": 152745703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.544434,45.55389,-73.544434,45.55389",
     "geom:latitude":45.55389,
     "geom:longitude":-73.544434,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2308 Av Letourneux",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874387,
+        102191575,
         85633041,
-        85874387
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"49753a194a07ff7ecbbdde329c9bf7ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
+            "region_id":136251273,
             "venue_id":152745703
         }
     ],
     "wof:id":152745703,
-    "wof:lastmodified":1449048709,
+    "wof:lastmodified":1453936182,
     "wof:name":"Auclair Sprinkler Ltd",
     "wof:parent_id":85874387,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.544434,45.55389,-73.544434,45.55389],
+  "bbox": [
+    -73.544434,
+    45.55389,
+    -73.544434,
+    45.55389
+],
   "geometry": {"coordinates":[-73.544434,45.55389],"type":"Point"}
 }

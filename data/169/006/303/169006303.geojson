@@ -2,13 +2,14 @@
   "id": 169006303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.620331,44.350029,-79.620331,44.350029",
     "geom:latitude":44.350029,
     "geom:longitude":-79.620331,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"Mapleview Dr E",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864501,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yQub5xA5EZjwfi5p3N43Z_44.350029_-79.620331@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b4af4f7e8221ddfdc4ceda339eaa75b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85864501,
+            "region_id":85682057,
+            "venue_id":169006303
+        }
+    ],
     "wof:id":169006303,
-    "wof:lastmodified":1449035316,
+    "wof:lastmodified":1453931521,
     "wof:name":"St Paul's Innisfil Cemetery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864501,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.620331,44.350029,-79.620331,44.350029],
-  "geometry": {"coordinates":[-79.620331,44.350029],"type":"Point"}
+  "bbox": [
+    -79.620331,
+    44.350029,
+    -79.620331,
+    44.350029
+],
+  "geometry": {"coordinates":[-79.62033099999999,44.350029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185751895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.376465,43.840836,-79.376465,43.840836",
     "geom:latitude":43.840836,
     "geom:longitude":-79.376465,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Commerce Valley Dr E",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895681,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"d1fd09e70286cb3897a1388ac462d368",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895681,
+            "region_id":85682057,
+            "venue_id":185751895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895681,
             "region_id":85682057,
             "venue_id":185751895
         }
     ],
     "wof:id":185751895,
-    "wof:lastmodified":1449006677,
+    "wof:lastmodified":1453927202,
     "wof:name":"Marshall Macklin Monaghan Ltd",
     "wof:parent_id":85895681,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "engineer"
     ]
 },
-  "bbox": [-79.376465,43.840836,-79.376465,43.840836],
+  "bbox": [
+    -79.376465,
+    43.840836,
+    -79.376465,
+    43.840836
+],
   "geometry": {"coordinates":[-79.376465,43.840836],"type":"Point"}
 }

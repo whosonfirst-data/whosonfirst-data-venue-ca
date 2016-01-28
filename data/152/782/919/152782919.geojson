@@ -2,13 +2,14 @@
   "id": 152782919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.162163,46.90126,-71.162163,46.90126",
     "geom:latitude":46.90126,
     "geom:longitude":-71.162163,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"299 Rue Notre-Dame",
     "sg:city":"Boischatel",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736835,
+        85866513,
+        102191575,
         85633041,
-        85866513
+        101736835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d2ecdf366b4fc18b00aaa04bd8ee2191",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736835,
             "neighbourhood_id":85866513,
+            "region_id":136251273,
             "venue_id":152782919
         }
     ],
     "wof:id":152782919,
-    "wof:lastmodified":1449044269,
+    "wof:lastmodified":1453932803,
     "wof:name":"Depanneur LA Source",
     "wof:parent_id":85866513,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.162163,46.90126,-71.162163,46.90126],
-  "geometry": {"coordinates":[-71.162163,46.90126],"type":"Point"}
+  "bbox": [
+    -71.162163,
+    46.90126,
+    -71.162163,
+    46.90126
+],
+  "geometry": {"coordinates":[-71.16216300000001,46.90126],"type":"Point"}
 }

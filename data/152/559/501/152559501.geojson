@@ -2,13 +2,14 @@
   "id": 152559501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.56382,46.349022,-72.56382,46.349022",
     "geom:latitude":46.349022,
     "geom:longitude":-72.56382,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2735 Rue Papineau",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874109,
+        102191575,
         85633041,
-        85874109
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"b3233c2c32b359e2b8b6a654b98c68fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874109,
+            "region_id":136251273,
             "venue_id":152559501
         }
     ],
     "wof:id":152559501,
-    "wof:lastmodified":1449047911,
+    "wof:lastmodified":1453935587,
     "wof:name":"Centres Jeunesse Mauricie-Bois",
     "wof:parent_id":85874109,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.56382,46.349022,-72.56382,46.349022],
-  "geometry": {"coordinates":[-72.56382,46.349022],"type":"Point"}
+  "bbox": [
+    -72.56382,
+    46.349022,
+    -72.56382,
+    46.349022
+],
+  "geometry": {"coordinates":[-72.56382000000001,46.349022],"type":"Point"}
 }

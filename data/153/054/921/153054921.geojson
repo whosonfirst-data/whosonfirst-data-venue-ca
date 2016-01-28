@@ -2,13 +2,14 @@
   "id": 153054921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.398239,42.967815,-82.398239,42.967815",
     "geom:latitude":42.967815,
     "geom:longitude":-82.398239,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"182 Mitton St S",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875557,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"97ecc491ca8bf3bb93d7be443517f5b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875557,
+            "region_id":85682057,
+            "venue_id":153054921
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875557,
             "region_id":85682057,
             "venue_id":153054921
         }
     ],
     "wof:id":153054921,
-    "wof:lastmodified":1449040544,
+    "wof:lastmodified":1453932480,
     "wof:name":"Affordable Pet Grooming",
     "wof:parent_id":85875557,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.398239,42.967815,-82.398239,42.967815],
+  "bbox": [
+    -82.398239,
+    42.967815,
+    -82.398239,
+    42.967815
+],
   "geometry": {"coordinates":[-82.398239,42.967815],"type":"Point"}
 }

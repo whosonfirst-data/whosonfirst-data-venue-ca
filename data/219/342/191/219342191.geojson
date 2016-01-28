@@ -2,13 +2,14 @@
   "id": 219342191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.687767,45.568851,-73.687767,45.568851",
     "geom:latitude":45.568851,
     "geom:longitude":-73.687767,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"406 Rue Saint-Andre",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875069,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"4380292d5a67cd6d4bd4a2a25319a5ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875069,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219342191
         }
     ],
     "wof:id":219342191,
-    "wof:lastmodified":1449073655,
+    "wof:lastmodified":1453937981,
     "wof:name":"Librairie Papeterie Gelinas",
     "wof:parent_id":85875069,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.687767,45.568851,-73.687767,45.568851],
-  "geometry": {"coordinates":[-73.687767,45.568851],"type":"Point"}
+  "bbox": [
+    -73.687767,
+    45.568851,
+    -73.687767,
+    45.568851
+],
+  "geometry": {"coordinates":[-73.68776699999999,45.568851],"type":"Point"}
 }

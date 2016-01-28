@@ -2,13 +2,14 @@
   "id": 168883735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.524788,43.809803,-79.524788,43.809803",
     "geom:latitude":43.809803,
     "geom:longitude":-79.524788,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Concord",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895461,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"05a28d472c5d476a8935946b7baa0de2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895461,
+            "region_id":85682057,
+            "venue_id":168883735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895461,
             "region_id":85682057,
             "venue_id":168883735
         }
     ],
     "wof:id":168883735,
-    "wof:lastmodified":1449028395,
+    "wof:lastmodified":1453928474,
     "wof:name":"Round Sound Studios",
     "wof:parent_id":85895461,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.524788,43.809803,-79.524788,43.809803],
+  "bbox": [
+    -79.524788,
+    43.809803,
+    -79.524788,
+    43.809803
+],
   "geometry": {"coordinates":[-79.524788,43.809803],"type":"Point"}
 }

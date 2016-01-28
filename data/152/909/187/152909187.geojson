@@ -2,13 +2,14 @@
   "id": 152909187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.135071,45.25375,-74.135071,45.25375",
     "geom:latitude":45.25375,
     "geom:longitude":-74.135071,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"87 Rue Du Marche",
     "sg:city":"Salaberry-DE-Valleyfield",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736831,
+        85895735,
+        102191575,
         85633041,
-        85895735
+        101736831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"540e2b4d9430daded5fc7c245d815f0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736831,
             "neighbourhood_id":85895735,
+            "region_id":136251273,
             "venue_id":152909187
         }
     ],
     "wof:id":152909187,
-    "wof:lastmodified":1449047775,
+    "wof:lastmodified":1453935481,
     "wof:name":"Buanderie Du Marche",
     "wof:parent_id":85895735,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.135071,45.25375,-74.135071,45.25375],
+  "bbox": [
+    -74.135071,
+    45.25375,
+    -74.135071,
+    45.25375
+],
   "geometry": {"coordinates":[-74.135071,45.25375],"type":"Point"}
 }

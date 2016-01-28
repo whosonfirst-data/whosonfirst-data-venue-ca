@@ -2,13 +2,14 @@
   "id": 169115831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.634377,45.595161,-73.634377,45.595161",
     "geom:latitude":45.595161,
     "geom:longitude":-73.634377,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11324 Av Armand-Lavergne",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"5f6531c72cfd11ee0f9b0996e16c783c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":169115831
         }
     ],
     "wof:id":169115831,
-    "wof:lastmodified":1449032659,
+    "wof:lastmodified":1453928776,
     "wof:name":"Groupe Fantaisie Inc",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.634377,45.595161,-73.634377,45.595161],
+  "bbox": [
+    -73.634377,
+    45.595161,
+    -73.634377,
+    45.595161
+],
   "geometry": {"coordinates":[-73.634377,45.595161],"type":"Point"}
 }

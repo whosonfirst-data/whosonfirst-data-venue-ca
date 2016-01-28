@@ -2,13 +2,14 @@
   "id": 152392323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.240318,48.419071,-71.240318,48.419071",
     "geom:latitude":48.419071,
     "geom:longitude":-71.240318,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3699 Rue Saint-Michel",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"b7bf706eb63c4c3f1e848e38a6232329",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152392323
         }
     ],
     "wof:id":152392323,
-    "wof:lastmodified":1449047998,
+    "wof:lastmodified":1453935649,
     "wof:name":"Judokas Jonquiere",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.240318,48.419071,-71.240318,48.419071],
+  "bbox": [
+    -71.240318,
+    48.419071,
+    -71.240318,
+    48.419071
+],
   "geometry": {"coordinates":[-71.240318,48.419071],"type":"Point"}
 }

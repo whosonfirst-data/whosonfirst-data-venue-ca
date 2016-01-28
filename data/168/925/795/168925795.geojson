@@ -2,13 +2,14 @@
   "id": 168925795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.242241,43.161877,-79.242241,43.161877",
     "geom:latitude":43.161877,
     "geom:longitude":-79.242241,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"27 Court St",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"bb305d55c403899dac893d067dfa3ad9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":168925795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":168925795
         }
     ],
     "wof:id":168925795,
-    "wof:lastmodified":1449027781,
+    "wof:lastmodified":1453927791,
     "wof:name":"Alexandria Body Sugaring",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.242241,43.161877,-79.242241,43.161877],
-  "geometry": {"coordinates":[-79.242241,43.161877],"type":"Point"}
+  "bbox": [
+    -79.242241,
+    43.161877,
+    -79.242241,
+    43.161877
+],
+  "geometry": {"coordinates":[-79.24224100000001,43.161877],"type":"Point"}
 }

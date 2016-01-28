@@ -2,13 +2,14 @@
   "id": 153039085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.455597,45.617859,-73.455597,45.617859",
     "geom:latitude":45.617859,
     "geom:longitude":-73.455597,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"656 Boul Marie-Victorin",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738135,
+        85875751,
+        102191575,
         85633041,
-        85875751
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"4c061494bbab519ba393cf44b4257633",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875751,
+            "region_id":136251273,
             "venue_id":153039085
         }
     ],
     "wof:id":153039085,
-    "wof:lastmodified":1449040763,
+    "wof:lastmodified":1453932676,
     "wof:name":"Renovart Armoires Ste Julie",
     "wof:parent_id":85875751,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.455597,45.617859,-73.455597,45.617859],
+  "bbox": [
+    -73.455597,
+    45.617859,
+    -73.455597,
+    45.617859
+],
   "geometry": {"coordinates":[-73.455597,45.617859],"type":"Point"}
 }

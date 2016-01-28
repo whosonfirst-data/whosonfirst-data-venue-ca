@@ -2,13 +2,14 @@
   "id": 169477837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.35582,46.854744,-71.35582,46.854744",
     "geom:latitude":46.854744,
     "geom:longitude":-71.35582,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 Rue Racine",
     "sg:city":"Loretteville",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874711,
+        102191575,
         85633041,
-        85874711
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"c4ebf4d67afe20df518888ff21292296",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874711,
+            "region_id":136251273,
             "venue_id":169477837
         }
     ],
     "wof:id":169477837,
-    "wof:lastmodified":1449033257,
+    "wof:lastmodified":1453929361,
     "wof:name":"Couche-Tard",
     "wof:parent_id":85874711,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.35582,46.854744,-71.35582,46.854744],
-  "geometry": {"coordinates":[-71.35582,46.854744],"type":"Point"}
+  "bbox": [
+    -71.35582,
+    46.854744,
+    -71.35582,
+    46.854744
+],
+  "geometry": {"coordinates":[-71.35581999999999,46.854744],"type":"Point"}
 }

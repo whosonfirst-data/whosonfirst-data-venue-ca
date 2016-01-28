@@ -2,13 +2,14 @@
   "id": 202781753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.632332,45.613541,-73.632332,45.613541",
     "geom:latitude":45.613541,
     "geom:longitude":-73.632332,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5638 Rue Aubin",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874365,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"e227e3a4bb9a70a04419ef736e126d48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202781753
         }
     ],
     "wof:id":202781753,
-    "wof:lastmodified":1449060584,
+    "wof:lastmodified":1453937073,
     "wof:name":"Nadeau, Marcel",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.632332,45.613541,-73.632332,45.613541],
-  "geometry": {"coordinates":[-73.632332,45.613541],"type":"Point"}
+  "bbox": [
+    -73.632332,
+    45.613541,
+    -73.632332,
+    45.613541
+],
+  "geometry": {"coordinates":[-73.63233200000001,45.613541],"type":"Point"}
 }

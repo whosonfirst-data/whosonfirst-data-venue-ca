@@ -2,13 +2,14 @@
   "id": 203002547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.489212,43.785786,-79.489212,43.785786",
     "geom:latitude":43.785786,
     "geom:longitude":-79.489212,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"215 Drumlin Cir",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895133,
+        102191575,
         85633041,
-        85682057
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"ffecac3f48043b1d85d68ebf58659648",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895133,
+            "region_id":85682057,
+            "venue_id":203002547
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895133,
             "region_id":85682057,
             "venue_id":203002547
         }
     ],
     "wof:id":203002547,
-    "wof:lastmodified":1449026497,
+    "wof:lastmodified":1453927689,
     "wof:name":"Fgl Precision Works Ltd",
     "wof:parent_id":85895133,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "mold"
     ]
 },
-  "bbox": [-79.489212,43.785786,-79.489212,43.785786],
-  "geometry": {"coordinates":[-79.489212,43.785786],"type":"Point"}
+  "bbox": [
+    -79.489212,
+    43.785786,
+    -79.489212,
+    43.785786
+],
+  "geometry": {"coordinates":[-79.48921199999999,43.785786],"type":"Point"}
 }

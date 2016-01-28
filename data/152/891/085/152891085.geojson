@@ -2,13 +2,14 @@
   "id": 152891085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.967194,45.395969,-71.967194,45.395969",
     "geom:latitude":45.395969,
     "geom:longitude":-71.967194,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4155 Boul Industriel",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874133,
+        102191575,
         85633041,
-        85874133
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"60965a55b37ca7b5cb0a522af03fa4c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874133,
+            "region_id":136251273,
             "venue_id":152891085
         }
     ],
     "wof:id":152891085,
-    "wof:lastmodified":1449047080,
+    "wof:lastmodified":1453934941,
     "wof:name":"Dicom Express",
     "wof:parent_id":85874133,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.967194,45.395969,-71.967194,45.395969],
-  "geometry": {"coordinates":[-71.967194,45.395969],"type":"Point"}
+  "bbox": [
+    -71.967194,
+    45.395969,
+    -71.967194,
+    45.395969
+],
+  "geometry": {"coordinates":[-71.96719400000001,45.395969],"type":"Point"}
 }

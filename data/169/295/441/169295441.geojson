@@ -2,13 +2,14 @@
   "id": 169295441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.073883,42.25145,-83.073883,42.25145",
     "geom:latitude":42.25145,
     "geom:longitude":-83.073883,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"Sprucewood Ave",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875115,
-        85682057
+        102191575,
+        85633041,
+        101736185,
+        85682057,
+        101740757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"01b6878925337236c284697a469f98d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736185,
+            "neighbourhood_id":85875115,
+            "region_id":85682057,
+            "venue_id":169295441
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740757,
             "neighbourhood_id":85875115,
             "region_id":85682057,
             "venue_id":169295441
         }
     ],
     "wof:id":169295441,
-    "wof:lastmodified":1449034017,
+    "wof:lastmodified":1453930183,
     "wof:name":"Royal Harness Shop",
     "wof:parent_id":85875115,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.073883,42.25145,-83.073883,42.25145],
+  "bbox": [
+    -83.073883,
+    42.25145,
+    -83.073883,
+    42.25145
+],
   "geometry": {"coordinates":[-83.073883,42.25145],"type":"Point"}
 }

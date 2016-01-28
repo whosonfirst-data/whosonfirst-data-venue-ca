@@ -2,13 +2,14 @@
   "id": 202441425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588951,45.600719,-73.588951,45.600719",
     "geom:latitude":45.600719,
     "geom:longitude":-73.588951,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8610 Rue Du Creusot",
     "sg:city":"Saint-Leonard",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874367,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"068e89a5fa31a7c7068cde2b42672708",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874367,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202441425
         }
     ],
     "wof:id":202441425,
-    "wof:lastmodified":1449060305,
+    "wof:lastmodified":1453937015,
     "wof:name":"Distributeurs Des Produits",
     "wof:parent_id":85874367,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "product"
     ]
 },
-  "bbox": [-73.588951,45.600719,-73.588951,45.600719],
-  "geometry": {"coordinates":[-73.588951,45.600719],"type":"Point"}
+  "bbox": [
+    -73.588951,
+    45.600719,
+    -73.588951,
+    45.600719
+],
+  "geometry": {"coordinates":[-73.58895099999999,45.600719],"type":"Point"}
 }

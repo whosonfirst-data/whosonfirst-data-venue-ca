@@ -2,13 +2,14 @@
   "id": 168991861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.108192,45.393394,-73.108192,45.393394",
     "geom:latitude":45.393394,
     "geom:longitude":-73.108192,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"21 Rue Dubois",
     "sg:city":"Sainte-Angele-DE-Monnoir",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"23e736b6af50e9b4c56d03c164161c24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":168991861
         }
     ],
     "wof:id":168991861,
-    "wof:lastmodified":1449027994,
+    "wof:lastmodified":1453928037,
     "wof:name":"Atm",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.108192,45.393394,-73.108192,45.393394],
+  "bbox": [
+    -73.108192,
+    45.393394,
+    -73.108192,
+    45.393394
+],
   "geometry": {"coordinates":[-73.108192,45.393394],"type":"Point"}
 }

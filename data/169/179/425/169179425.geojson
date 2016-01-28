@@ -2,13 +2,14 @@
   "id": 169179425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.432236,43.435295,-80.432236,43.435295",
     "geom:latitude":43.435295,
     "geom:longitude":-80.432236,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"106 Thaler Ave",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864465,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a469e715675876dca9ece1ad2b13ce5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864465,
+            "region_id":85682057,
+            "venue_id":169179425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864465,
             "region_id":85682057,
             "venue_id":169179425
         }
     ],
     "wof:id":169179425,
-    "wof:lastmodified":1449035616,
+    "wof:lastmodified":1453931858,
     "wof:name":"D & M Braniff Painting",
     "wof:parent_id":85864465,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.432236,43.435295,-80.432236,43.435295],
+  "bbox": [
+    -80.432236,
+    43.435295,
+    -80.432236,
+    43.435295
+],
   "geometry": {"coordinates":[-80.432236,43.435295],"type":"Point"}
 }

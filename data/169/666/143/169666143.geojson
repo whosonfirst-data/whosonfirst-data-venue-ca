@@ -2,13 +2,14 @@
   "id": 169666143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.640808,45.542297,-73.640808,45.542297",
     "geom:latitude":45.542297,
     "geom:longitude":-73.640808,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Boul Cremazie O # 525",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874377,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"00131a12b61a862b6ca10e962c302117",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169666143
         }
     ],
     "wof:id":169666143,
-    "wof:lastmodified":1449033898,
+    "wof:lastmodified":1453930059,
     "wof:name":"Bourgeois Marsolais & Assoc",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "accountant"
     ]
 },
-  "bbox": [-73.640808,45.542297,-73.640808,45.542297],
-  "geometry": {"coordinates":[-73.640808,45.542297],"type":"Point"}
+  "bbox": [
+    -73.640808,
+    45.542297,
+    -73.640808,
+    45.542297
+],
+  "geometry": {"coordinates":[-73.64080800000001,45.542297],"type":"Point"}
 }

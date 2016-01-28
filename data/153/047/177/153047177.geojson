@@ -2,13 +2,14 @@
   "id": 153047177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.718964,43.530624,-79.718964,43.530624",
     "geom:latitude":43.530624,
     "geom:longitude":-79.718964,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895311,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"ef65dfba2b8d6b76d3abd4905f9a2463",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895311,
+            "region_id":85682057,
+            "venue_id":153047177
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895311,
             "region_id":85682057,
             "venue_id":153047177
         }
     ],
     "wof:id":153047177,
-    "wof:lastmodified":1449040675,
+    "wof:lastmodified":1453932600,
     "wof:name":"Freshly Made Catering Svc",
     "wof:parent_id":85895311,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.718964,43.530624,-79.718964,43.530624],
+  "bbox": [
+    -79.718964,
+    43.530624,
+    -79.718964,
+    43.530624
+],
   "geometry": {"coordinates":[-79.718964,43.530624],"type":"Point"}
 }

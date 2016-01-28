@@ -2,13 +2,14 @@
   "id": 152155115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.386436,43.845062,-79.386436,43.845062",
     "geom:latitude":43.845062,
     "geom:longitude":-79.386436,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"15 Wertheim Crt",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895681,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"663a76d688f9b6bbffe9268e91dc3d7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895681,
+            "region_id":85682057,
+            "venue_id":152155115
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895681,
             "region_id":85682057,
             "venue_id":152155115
         }
     ],
     "wof:id":152155115,
-    "wof:lastmodified":1449048106,
+    "wof:lastmodified":1453935728,
     "wof:name":"Szemere, Kathy J M OD",
     "wof:parent_id":85895681,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.386436,43.845062,-79.386436,43.845062],
+  "bbox": [
+    -79.386436,
+    43.845062,
+    -79.386436,
+    43.845062
+],
   "geometry": {"coordinates":[-79.386436,43.845062],"type":"Point"}
 }

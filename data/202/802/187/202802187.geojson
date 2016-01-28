@@ -2,13 +2,14 @@
   "id": 202802187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567909,45.242504,-73.567909,45.242504",
     "geom:latitude":45.242504,
     "geom:longitude":-73.567909,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"410 Ch Rheaume",
     "sg:city":"Saint-Michel",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897639,
+        102191575,
         85633041,
-        101738793
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"203f58d7a6bbdaa9a81fbb0574e6279d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202802187
         }
     ],
     "wof:id":202802187,
-    "wof:lastmodified":1449062191,
+    "wof:lastmodified":1453937410,
     "wof:name":"Station 221",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-73.567909,45.242504,-73.567909,45.242504],
+  "bbox": [
+    -73.567909,
+    45.242504,
+    -73.567909,
+    45.242504
+],
   "geometry": {"coordinates":[-73.567909,45.242504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169325765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619965,45.533955,-73.619965,45.533955",
     "geom:latitude":45.533955,
     "geom:longitude":-73.619965,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7237 Rue Saint-Urbain",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"87efa9b5153da7d1345974559d80fb0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":169325765
         }
     ],
     "wof:id":169325765,
-    "wof:lastmodified":1449033970,
+    "wof:lastmodified":1453930133,
     "wof:name":"Milena Mode Fashions",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.619965,45.533955,-73.619965,45.533955],
-  "geometry": {"coordinates":[-73.619965,45.533955],"type":"Point"}
+  "bbox": [
+    -73.619965,
+    45.533955,
+    -73.619965,
+    45.533955
+],
+  "geometry": {"coordinates":[-73.61996499999999,45.533955],"type":"Point"}
 }

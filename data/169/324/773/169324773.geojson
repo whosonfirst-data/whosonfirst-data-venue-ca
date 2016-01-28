@@ -2,13 +2,14 @@
   "id": 169324773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.882317,45.661476,-73.882317,45.661476",
     "geom:latitude":45.661476,
     "geom:longitude":-73.882317,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"500 Boul DE LA Seigneurie O",
     "sg:city":"Blainville",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738507,
+        85897563,
+        102191575,
         85633041,
-        85897563
+        101738507,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"282d566466e72c4b16447daf0d6a48f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738507,
             "neighbourhood_id":85897563,
+            "region_id":136251273,
             "venue_id":169324773
         }
     ],
     "wof:id":169324773,
-    "wof:lastmodified":1449034614,
+    "wof:lastmodified":1453930816,
     "wof:name":"Canadian Tire",
     "wof:parent_id":85897563,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.882317,45.661476,-73.882317,45.661476],
+  "bbox": [
+    -73.882317,
+    45.661476,
+    -73.882317,
+    45.661476
+],
   "geometry": {"coordinates":[-73.882317,45.661476],"type":"Point"}
 }

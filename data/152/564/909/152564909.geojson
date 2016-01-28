@@ -2,13 +2,14 @@
   "id": 152564909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.443176,45.500443,-73.443176,45.500443",
     "geom:latitude":45.500443,
     "geom:longitude":-73.443176,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3425 Boul Losch",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875725,
+        102191575,
         85633041,
-        85875725
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"9ea605ca3ea4cd45cafc8b5053fac901",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875725,
+            "region_id":136251273,
             "venue_id":152564909
         }
     ],
     "wof:id":152564909,
-    "wof:lastmodified":1449048649,
+    "wof:lastmodified":1453936125,
     "wof:name":"Mc Nicoll, Jean Eudes",
     "wof:parent_id":85875725,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.443176,45.500443,-73.443176,45.500443],
-  "geometry": {"coordinates":[-73.443176,45.500443],"type":"Point"}
+  "bbox": [
+    -73.443176,
+    45.500443,
+    -73.443176,
+    45.500443
+],
+  "geometry": {"coordinates":[-73.44317599999999,45.500443],"type":"Point"}
 }

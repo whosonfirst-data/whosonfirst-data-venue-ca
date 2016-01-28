@@ -2,13 +2,14 @@
   "id": 169455895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.599281,45.622169,-73.599281,45.622169",
     "geom:latitude":45.622169,
     "geom:longitude":-73.599281,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"c9bfa2af8dae62d703acb69706a92bbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":169455895
         }
     ],
     "wof:id":169455895,
-    "wof:lastmodified":1449035433,
+    "wof:lastmodified":1453931643,
     "wof:name":"Amstik Inc",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.599281,45.622169,-73.599281,45.622169],
+  "bbox": [
+    -73.599281,
+    45.622169,
+    -73.599281,
+    45.622169
+],
   "geometry": {"coordinates":[-73.599281,45.622169],"type":"Point"}
 }

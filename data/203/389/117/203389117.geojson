@@ -2,13 +2,14 @@
   "id": 203389117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.457703,43.469402,-80.457703,43.469402",
     "geom:latitude":43.469402,
     "geom:longitude":-80.457703,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300 Shirley Ave",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874981,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"e82a9b9b4d857b97b22c997754ddb437",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874981,
+            "region_id":85682057,
+            "venue_id":203389117
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874981,
             "region_id":85682057,
             "venue_id":203389117
         }
     ],
     "wof:id":203389117,
-    "wof:lastmodified":1449026439,
+    "wof:lastmodified":1453927680,
     "wof:name":"Stotesbury Transfer Ltd",
     "wof:parent_id":85874981,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.457703,43.469402,-80.457703,43.469402],
+  "bbox": [
+    -80.457703,
+    43.469402,
+    -80.457703,
+    43.469402
+],
   "geometry": {"coordinates":[-80.457703,43.469402],"type":"Point"}
 }

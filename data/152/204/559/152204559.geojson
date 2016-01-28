@@ -2,13 +2,14 @@
   "id": 152204559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.020493,43.826824,-79.020493,43.826824",
     "geom:latitude":43.826824,
     "geom:longitude":-79.020493,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"52 Slater Cres",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895475,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"75eb8cc3a282f3625456aac4df60f199",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895475,
+            "region_id":85682057,
+            "venue_id":152204559
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895475,
             "region_id":85682057,
             "venue_id":152204559
         }
     ],
     "wof:id":152204559,
-    "wof:lastmodified":1449049029,
+    "wof:lastmodified":1453936459,
     "wof:name":"A Amazing Cleaning Inc",
     "wof:parent_id":85895475,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.020493,43.826824,-79.020493,43.826824],
+  "bbox": [
+    -79.020493,
+    43.826824,
+    -79.020493,
+    43.826824
+],
   "geometry": {"coordinates":[-79.020493,43.826824],"type":"Point"}
 }

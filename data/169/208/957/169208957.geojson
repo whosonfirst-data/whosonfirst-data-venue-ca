@@ -2,13 +2,14 @@
   "id": 169208957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.31163,43.020393,-81.31163,43.020393",
     "geom:latitude":43.020393,
     "geom:longitude":-81.31163,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1785 Wonderland Rd N",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874929,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fwGA5MaBHK94iPC5fdgXo_43.020393_-81.311630@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"787a2bc469b838870b80e94fa88281e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874929,
+            "region_id":85682057,
+            "venue_id":169208957
+        }
+    ],
     "wof:id":169208957,
-    "wof:lastmodified":1449033067,
+    "wof:lastmodified":1453929192,
     "wof:name":"Tricut Tool Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.31163,43.020393,-81.31163,43.020393],
-  "geometry": {"coordinates":[-81.31163,43.020393],"type":"Point"}
+  "bbox": [
+    -81.31163,
+    43.020393,
+    -81.31163,
+    43.020393
+],
+  "geometry": {"coordinates":[-81.31162999999999,43.020393],"type":"Point"}
 }

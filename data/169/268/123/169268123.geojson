@@ -2,13 +2,14 @@
   "id": 169268123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.699593,45.459999,-75.699593,45.459999",
     "geom:latitude":45.459999,
     "geom:longitude":-75.699593,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"33 Boul Greber",
     "sg:city":"Gatineau",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874503,
+        102191575,
         85633041,
-        85874503
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"f93fbfe0f2f4de2cf26a3467453f877e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874503,
+            "region_id":136251273,
             "venue_id":169268123
         }
     ],
     "wof:id":169268123,
-    "wof:lastmodified":1449034561,
+    "wof:lastmodified":1453930776,
     "wof:name":"Radikal Motorsport",
     "wof:parent_id":85874503,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.699593,45.459999,-75.699593,45.459999],
-  "geometry": {"coordinates":[-75.699593,45.459999],"type":"Point"}
+  "bbox": [
+    -75.699593,
+    45.459999,
+    -75.699593,
+    45.459999
+],
+  "geometry": {"coordinates":[-75.69959299999999,45.459999],"type":"Point"}
 }

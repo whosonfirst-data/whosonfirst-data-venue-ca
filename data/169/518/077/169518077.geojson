@@ -2,13 +2,14 @@
   "id": 169518077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.383675,46.791519,-71.383675,46.791519",
     "geom:latitude":46.791519,
     "geom:longitude":-71.383675,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"510 Av Principale",
     "sg:city":"Sainte-Foy",
     "sg:classifiers":[
@@ -28,10 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102555283,
+        136251273,
         102191575,
-        101737491,
         85633041,
-        136251273
+        101737491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,6 +43,7 @@
     "wof:geomhash":"c1aa984698b4a73fda25e8e5c965928b",
     "wof:hierarchy":[
         {
+            "campus_id":102555283,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
@@ -49,14 +52,19 @@
         }
     ],
     "wof:id":169518077,
-    "wof:lastmodified":1449034554,
+    "wof:lastmodified":1453930761,
     "wof:name":"Hertz Rent A Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":102555283,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.383675,46.791519,-71.383675,46.791519],
+  "bbox": [
+    -71.383675,
+    46.791519,
+    -71.383675,
+    46.791519
+],
   "geometry": {"coordinates":[-71.383675,46.791519],"type":"Point"}
 }

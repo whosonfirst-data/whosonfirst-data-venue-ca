@@ -2,13 +2,14 @@
   "id": 169223299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.709381,45.432777,-75.709381,45.432777",
     "geom:latitude":45.432777,
     "geom:longitude":-75.709381,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"120 Laurier St",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"da5ad2a629c314247e6d394bfee2a885",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":169223299
         }
     ],
     "wof:id":169223299,
-    "wof:lastmodified":1449032906,
+    "wof:lastmodified":1453929027,
     "wof:name":"Club DE Yachting Portage",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.709381,45.432777,-75.709381,45.432777],
-  "geometry": {"coordinates":[-75.709381,45.432777],"type":"Point"}
+  "bbox": [
+    -75.709381,
+    45.432777,
+    -75.709381,
+    45.432777
+],
+  "geometry": {"coordinates":[-75.70938099999999,45.432777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153061109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.640106,45.495331,-73.640106,45.495331",
     "geom:latitude":45.495331,
     "geom:longitude":-73.640106,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6444 Av Victoria",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871113,
+        102191575,
         85633041,
-        85871113
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"8fca30f43cd94170d65bf584a45c28ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871113,
+            "region_id":136251273,
             "venue_id":153061109
         }
     ],
     "wof:id":153061109,
-    "wof:lastmodified":1449040687,
+    "wof:lastmodified":1453932611,
     "wof:name":"Triple J Video Rental",
     "wof:parent_id":85871113,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.640106,45.495331,-73.640106,45.495331],
+  "bbox": [
+    -73.640106,
+    45.495331,
+    -73.640106,
+    45.495331
+],
   "geometry": {"coordinates":[-73.640106,45.495331],"type":"Point"}
 }

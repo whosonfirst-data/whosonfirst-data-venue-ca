@@ -2,13 +2,14 @@
   "id": 169508667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.280624,45.416248,-73.280624,45.416248",
     "geom:latitude":45.416248,
     "geom:longitude":-73.280624,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7900 Boul Industriel # A",
     "sg:city":"Chambly",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"a50a701d8e73188f5d9e1e567e4f347d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169508667
         }
     ],
     "wof:id":169508667,
-    "wof:lastmodified":1449034540,
+    "wof:lastmodified":1453930744,
     "wof:name":"Bois-Francs Imperial Ltee",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.280624,45.416248,-73.280624,45.416248],
+  "bbox": [
+    -73.280624,
+    45.416248,
+    -73.280624,
+    45.416248
+],
   "geometry": {"coordinates":[-73.280624,45.416248],"type":"Point"}
 }

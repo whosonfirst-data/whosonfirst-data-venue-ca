@@ -2,13 +2,14 @@
   "id": 152716553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585472,45.465958,-73.585472,45.465958",
     "geom:latitude":45.465958,
     "geom:longitude":-73.585472,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1660 Rue Gladstone",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866497,
+        102191575,
         85633041,
-        85866497
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c5322bdd759252b3fb75b2db068870f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866497,
+            "region_id":136251273,
             "venue_id":152716553
         }
     ],
     "wof:id":152716553,
-    "wof:lastmodified":1449044956,
+    "wof:lastmodified":1453933333,
     "wof:name":"Couvreur R & G Ltee",
     "wof:parent_id":85866497,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.585472,45.465958,-73.585472,45.465958],
+  "bbox": [
+    -73.585472,
+    45.465958,
+    -73.585472,
+    45.465958
+],
   "geometry": {"coordinates":[-73.585472,45.465958],"type":"Point"}
 }

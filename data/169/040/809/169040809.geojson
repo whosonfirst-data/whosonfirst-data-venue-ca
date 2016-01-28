@@ -2,13 +2,14 @@
   "id": 169040809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.765579,45.5495,-73.765579,45.5495",
     "geom:latitude":45.5495,
     "geom:longitude":-73.765579,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4162 Boul Saint-Martin O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875061,
+        102191575,
         85633041,
-        85875061
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"60704dd5ea498c22b26f2e338527a185",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875061,
+            "region_id":136251273,
             "venue_id":169040809
         }
     ],
     "wof:id":169040809,
-    "wof:lastmodified":1449035872,
+    "wof:lastmodified":1453932162,
     "wof:name":"St-Martin Photographie",
     "wof:parent_id":85875061,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.765579,45.5495,-73.765579,45.5495],
+  "bbox": [
+    -73.765579,
+    45.5495,
+    -73.765579,
+    45.5495
+],
   "geometry": {"coordinates":[-73.765579,45.5495],"type":"Point"}
 }

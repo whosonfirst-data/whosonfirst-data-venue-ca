@@ -2,13 +2,14 @@
   "id": 186391517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.417793,42.994766,-82.417793,42.994766",
     "geom:latitude":42.994766,
     "geom:longitude":-82.417793,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1455 Venetian Blvd",
     "sg:city":"Point Edward",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784851,
+        102191575,
         85633041,
-        85682057
+        101740719,
+        85682057,
+        101736019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"1aace23af2dc707cc2b26f8081ef09cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":186391517
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736019,
             "neighbourhood_id":85784851,
             "region_id":85682057,
             "venue_id":186391517
         }
     ],
     "wof:id":186391517,
-    "wof:lastmodified":1449052096,
+    "wof:lastmodified":1453936780,
     "wof:name":"Ontario Travel Information",
     "wof:parent_id":85784851,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.417793,42.994766,-82.417793,42.994766],
+  "bbox": [
+    -82.417793,
+    42.994766,
+    -82.417793,
+    42.994766
+],
   "geometry": {"coordinates":[-82.417793,42.994766],"type":"Point"}
 }

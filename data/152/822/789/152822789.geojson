@@ -2,13 +2,14 @@
   "id": 152822789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.600365,43.542664,-79.600365,43.542664",
     "geom:latitude":43.542664,
     "geom:longitude":-79.600365,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"263 Queen St S",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895089,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"b13fbe04365e2fd27cfbdfd1fd2f9821",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895089,
+            "region_id":85682057,
+            "venue_id":152822789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895089,
             "region_id":85682057,
             "venue_id":152822789
         }
     ],
     "wof:id":152822789,
-    "wof:lastmodified":1449048775,
+    "wof:lastmodified":1453936235,
     "wof:name":"Sundance Saloon & Grill",
     "wof:parent_id":85895089,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.600365,43.542664,-79.600365,43.542664],
+  "bbox": [
+    -79.600365,
+    43.542664,
+    -79.600365,
+    43.542664
+],
   "geometry": {"coordinates":[-79.600365,43.542664],"type":"Point"}
 }

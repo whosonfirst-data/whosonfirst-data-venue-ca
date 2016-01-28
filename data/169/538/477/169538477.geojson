@@ -2,13 +2,14 @@
   "id": 169538477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488075,45.417454,-73.488075,45.417454",
     "geom:latitude":45.417454,
     "geom:longitude":-73.488075,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"59 Rue Poupart",
     "sg:city":"Saint-Isidore-DE-Laprairie",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736521,
+        85875773,
+        102191575,
         85633041,
-        85875773
+        101736521,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"6cee059cea007ef8311e851cbbcdc779",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736521,
             "neighbourhood_id":85875773,
+            "region_id":136251273,
             "venue_id":169538477
         }
     ],
     "wof:id":169538477,
-    "wof:lastmodified":1449033098,
+    "wof:lastmodified":1453929228,
     "wof:name":"Nettoyage Jp Pitre Inc",
     "wof:parent_id":85875773,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.488075,45.417454,-73.488075,45.417454],
-  "geometry": {"coordinates":[-73.488075,45.417454],"type":"Point"}
+  "bbox": [
+    -73.488075,
+    45.417454,
+    -73.488075,
+    45.417454
+],
+  "geometry": {"coordinates":[-73.48807499999999,45.417454],"type":"Point"}
 }

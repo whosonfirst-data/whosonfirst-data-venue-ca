@@ -2,13 +2,14 @@
   "id": 169274715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.455551,43.947468,-79.455551,43.947468",
     "geom:latitude":43.947468,
     "geom:longitude":-79.455551,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"13110 Yonge St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895543,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"083aef7c842aadcd40eaf1212a229def",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895543,
+            "region_id":85682057,
+            "venue_id":169274715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895543,
             "region_id":85682057,
             "venue_id":169274715
         }
     ],
     "wof:id":169274715,
-    "wof:lastmodified":1449033088,
+    "wof:lastmodified":1453929212,
     "wof:name":"Upper Canada Glass & Mirror",
     "wof:parent_id":85895543,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.455551,43.947468,-79.455551,43.947468],
+  "bbox": [
+    -79.455551,
+    43.947468,
+    -79.455551,
+    43.947468
+],
   "geometry": {"coordinates":[-79.455551,43.947468],"type":"Point"}
 }

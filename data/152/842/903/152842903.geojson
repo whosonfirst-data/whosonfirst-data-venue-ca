@@ -2,13 +2,14 @@
   "id": 152842903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.718895,45.461613,-73.718895,45.461613",
     "geom:latitude":45.461613,
     "geom:longitude":-73.718895,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2290 46E Av",
     "sg:city":"Lachine",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"be59ec27c3f4596ac924eaf29855487f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":152842903
         }
     ],
     "wof:id":152842903,
-    "wof:lastmodified":1449044640,
+    "wof:lastmodified":1453933089,
     "wof:name":"Pole Air Aviation Inc",
     "wof:parent_id":85784727,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.718895,45.461613,-73.718895,45.461613],
+  "bbox": [
+    -73.718895,
+    45.461613,
+    -73.718895,
+    45.461613
+],
   "geometry": {"coordinates":[-73.718895,45.461613],"type":"Point"}
 }

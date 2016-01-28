@@ -2,13 +2,14 @@
   "id": 153083379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.646736,45.581211,-73.646736,45.581211",
     "geom:latitude":45.581211,
     "geom:longitude":-73.646736,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3217 Rue Prieur E",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"47b49b0c9ed39bb83b549b187710c919",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":153083379
         }
     ],
     "wof:id":153083379,
-    "wof:lastmodified":1449040547,
+    "wof:lastmodified":1453932487,
     "wof:name":"Depanneur Matinal Inc",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.646736,45.581211,-73.646736,45.581211],
+  "bbox": [
+    -73.646736,
+    45.581211,
+    -73.646736,
+    45.581211
+],
   "geometry": {"coordinates":[-73.646736,45.581211],"type":"Point"}
 }

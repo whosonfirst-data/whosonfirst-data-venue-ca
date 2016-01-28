@@ -2,13 +2,14 @@
   "id": 169208259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.503998,43.449448,-80.503998,43.449448",
     "geom:latitude":43.449448,
     "geom:longitude":-80.503998,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"120 Park St",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874999,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"0126f8b1cbef4ba53d9d58c8eac7040f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874999,
+            "region_id":85682057,
+            "venue_id":169208259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874999,
             "region_id":85682057,
             "venue_id":169208259
         }
     ],
     "wof:id":169208259,
-    "wof:lastmodified":1449033066,
+    "wof:lastmodified":1453929189,
     "wof:name":"Park Auto Svc",
     "wof:parent_id":85874999,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.503998,43.449448,-80.503998,43.449448],
+  "bbox": [
+    -80.503998,
+    43.449448,
+    -80.503998,
+    43.449448
+],
   "geometry": {"coordinates":[-80.503998,43.449448],"type":"Point"}
 }

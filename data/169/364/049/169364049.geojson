@@ -2,13 +2,14 @@
   "id": 169364049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.520027,53.567711,-113.520027,53.567711",
     "geom:latitude":53.567711,
     "geom:longitude":-113.520027,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"48 Airport Rd NW",
     "sg:city":"Edmonton",
     "sg:classifiers":[
@@ -31,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633041,
+        102554483,
         85874655,
         85682091
     ],
@@ -42,6 +44,7 @@
     "wof:geomhash":"788d14ce7fff5a0194cb3b253ccaf2c8",
     "wof:hierarchy":[
         {
+            "campus_id":102554483,
             "country_id":85633041,
             "neighbourhood_id":85874655,
             "region_id":85682091,
@@ -49,14 +52,19 @@
         }
     ],
     "wof:id":169364049,
-    "wof:lastmodified":1449034544,
+    "wof:lastmodified":1453930749,
     "wof:name":"Goulet Aircraft Supply Ltd",
-    "wof:parent_id":85874655,
+    "wof:parent_id":102554483,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.520027,53.567711,-113.520027,53.567711],
+  "bbox": [
+    -113.520027,
+    53.567711,
+    -113.520027,
+    53.567711
+],
   "geometry": {"coordinates":[-113.520027,53.567711],"type":"Point"}
 }

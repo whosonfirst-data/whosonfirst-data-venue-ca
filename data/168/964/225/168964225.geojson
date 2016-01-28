@@ -2,13 +2,14 @@
   "id": 168964225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.629875,45.572975,-73.629875,45.572975",
     "geom:latitude":45.572975,
     "geom:longitude":-73.629875,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9205 Boul Saint-Michel",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85871109,
+        102191575,
         85633041,
-        85871109
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"7416f8be5d16ecbe9865719dcfb72c53",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871109,
+            "region_id":136251273,
             "venue_id":168964225
         }
     ],
     "wof:id":168964225,
-    "wof:lastmodified":1449028376,
+    "wof:lastmodified":1453928455,
     "wof:name":"Mode Marco",
     "wof:parent_id":85871109,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.629875,45.572975,-73.629875,45.572975],
+  "bbox": [
+    -73.629875,
+    45.572975,
+    -73.629875,
+    45.572975
+],
   "geometry": {"coordinates":[-73.629875,45.572975],"type":"Point"}
 }

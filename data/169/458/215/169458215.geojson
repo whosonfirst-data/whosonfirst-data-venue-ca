@@ -2,13 +2,14 @@
   "id": 169458215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.09346,43.920261,-80.09346,43.920261",
     "geom:latitude":43.920261,
     "geom:longitude":-80.09346,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Orangeville",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895287,
-        85682057
+        102191575,
+        85633041,
+        101740765,
+        85682057,
+        101736379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"28d48087937ada508d85042e866cd23d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740765,
+            "neighbourhood_id":85895287,
+            "region_id":85682057,
+            "venue_id":169458215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
             "neighbourhood_id":85895287,
             "region_id":85682057,
             "venue_id":169458215
         }
     ],
     "wof:id":169458215,
-    "wof:lastmodified":1449035030,
+    "wof:lastmodified":1453931247,
     "wof:name":"Edward Jones",
     "wof:parent_id":85895287,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.09346,43.920261,-80.09346,43.920261],
-  "geometry": {"coordinates":[-80.09346,43.920261],"type":"Point"}
+  "bbox": [
+    -80.09346,
+    43.920261,
+    -80.09346,
+    43.920261
+],
+  "geometry": {"coordinates":[-80.09345999999999,43.920261],"type":"Point"}
 }

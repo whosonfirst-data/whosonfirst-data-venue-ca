@@ -2,13 +2,14 @@
   "id": 202728497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576797,45.453739,-73.576797,45.453739",
     "geom:latitude":45.453739,
     "geom:longitude":-73.576797,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5331 Rue Bannantyne",
     "sg:city":"Verdun",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897615,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"762e141809d790fb4e97e79607ebe7cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897615,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202728497
         }
     ],
     "wof:id":202728497,
-    "wof:lastmodified":1449060701,
+    "wof:lastmodified":1453937101,
     "wof:name":"Etude Legale Robert Beaudet",
     "wof:parent_id":85897615,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.576797,45.453739,-73.576797,45.453739],
+  "bbox": [
+    -73.576797,
+    45.453739,
+    -73.576797,
+    45.453739
+],
   "geometry": {"coordinates":[-73.576797,45.453739],"type":"Point"}
 }

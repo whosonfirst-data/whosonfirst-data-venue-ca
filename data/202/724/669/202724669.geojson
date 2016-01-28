@@ -2,13 +2,14 @@
   "id": 202724669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578735,45.522228,-73.578735,45.522228",
     "geom:latitude":45.522228,
     "geom:longitude":-73.578735,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4235 Rue Saint-Denis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866479,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"2e516f935fdc2b873f68579b469319cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202724669
         }
     ],
     "wof:id":202724669,
-    "wof:lastmodified":1449062574,
+    "wof:lastmodified":1453937490,
     "wof:name":"Paris Pas Cher",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578735,45.522228,-73.578735,45.522228],
-  "geometry": {"coordinates":[-73.578735,45.522228],"type":"Point"}
+  "bbox": [
+    -73.578735,
+    45.522228,
+    -73.578735,
+    45.522228
+],
+  "geometry": {"coordinates":[-73.57873499999999,45.522228],"type":"Point"}
 }

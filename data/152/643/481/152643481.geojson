@@ -2,13 +2,14 @@
   "id": 152643481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.983994,45.375984,-71.983994,45.375984",
     "geom:latitude":45.375984,
     "geom:longitude":-71.983994,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1441 Rue DE LA Pepiniere",
     "sg:city":"Rock Forest",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85864389,
+        102191575,
         85633041,
-        85864389
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"c8149e332d278909a7db2766c8a160b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85864389,
+            "region_id":136251273,
             "venue_id":152643481
         }
     ],
     "wof:id":152643481,
-    "wof:lastmodified":1449048308,
+    "wof:lastmodified":1453935873,
     "wof:name":"Vincent Freres Enr",
     "wof:parent_id":85864389,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.983994,45.375984,-71.983994,45.375984],
+  "bbox": [
+    -71.983994,
+    45.375984,
+    -71.983994,
+    45.375984
+],
   "geometry": {"coordinates":[-71.983994,45.375984],"type":"Point"}
 }

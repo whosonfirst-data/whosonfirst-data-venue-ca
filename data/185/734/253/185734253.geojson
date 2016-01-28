@@ -2,13 +2,14 @@
   "id": 185734253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.607986,45.471523,-73.607986,45.471523",
     "geom:latitude":45.471523,
     "geom:longitude":-73.607986,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5455 Boul DE Maisonneuve O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897531,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"8dd021a679f29f939cb01f5e39a8e49e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897531,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185734253
         }
     ],
     "wof:id":185734253,
-    "wof:lastmodified":1449008020,
+    "wof:lastmodified":1453927367,
     "wof:name":"Royal Canadian Legion",
     "wof:parent_id":85897531,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.607986,45.471523,-73.607986,45.471523],
+  "bbox": [
+    -73.607986,
+    45.471523,
+    -73.607986,
+    45.471523
+],
   "geometry": {"coordinates":[-73.607986,45.471523],"type":"Point"}
 }

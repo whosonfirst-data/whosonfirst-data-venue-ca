@@ -2,13 +2,14 @@
   "id": 152586031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.494064,43.831242,-79.494064,43.831242",
     "geom:latitude":43.831242,
     "geom:longitude":-79.494064,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"380 Spinnaker Way",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895607,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"45a6f4201271002034209bedf92228fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895607,
+            "region_id":85682057,
+            "venue_id":152586031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895607,
             "region_id":85682057,
             "venue_id":152586031
         }
     ],
     "wof:id":152586031,
-    "wof:lastmodified":1449048390,
+    "wof:lastmodified":1453935941,
     "wof:name":"Topax Export Packaging Systems",
     "wof:parent_id":85895607,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.494064,43.831242,-79.494064,43.831242],
-  "geometry": {"coordinates":[-79.494064,43.831242],"type":"Point"}
+  "bbox": [
+    -79.494064,
+    43.831242,
+    -79.494064,
+    43.831242
+],
+  "geometry": {"coordinates":[-79.49406399999999,43.831242],"type":"Point"}
 }

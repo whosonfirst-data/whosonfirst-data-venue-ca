@@ -2,13 +2,14 @@
   "id": 152568231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.23745,48.415134,-71.23745,48.415134",
     "geom:latitude":48.415134,
     "geom:longitude":-71.23745,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2189 Rue DE Montfort",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785007,
+        102191575,
         85633041,
-        85785007
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"12ee022eef3602790ddbe68f4e8a3a4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
+            "region_id":136251273,
             "venue_id":152568231
         }
     ],
     "wof:id":152568231,
-    "wof:lastmodified":1449044176,
+    "wof:lastmodified":1453932736,
     "wof:name":"Maison Le Buisson Ardent",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.23745,48.415134,-71.23745,48.415134],
+  "bbox": [
+    -71.23745,
+    48.415134,
+    -71.23745,
+    48.415134
+],
   "geometry": {"coordinates":[-71.23745,48.415134],"type":"Point"}
 }

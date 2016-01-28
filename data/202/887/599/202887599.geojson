@@ -2,13 +2,14 @@
   "id": 202887599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.77195,45.453064,-73.77195,45.453064",
     "geom:latitude":45.453064,
     "geom:longitude":-73.77195,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1945 Av Parkfield",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897651,
+        102191575,
         85633041,
-        101736475
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"96c6841c39a0c2fd53c5112dd7befffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85897651,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202887599
         }
     ],
     "wof:id":202887599,
-    "wof:lastmodified":1449062161,
+    "wof:lastmodified":1453937403,
     "wof:name":"Dorval Centre Aquatique",
     "wof:parent_id":85897651,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "village"
     ]
 },
-  "bbox": [-73.77195,45.453064,-73.77195,45.453064],
+  "bbox": [
+    -73.77195,
+    45.453064,
+    -73.77195,
+    45.453064
+],
   "geometry": {"coordinates":[-73.77195,45.453064],"type":"Point"}
 }

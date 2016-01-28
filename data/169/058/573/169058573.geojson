@@ -2,13 +2,14 @@
   "id": 169058573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.722923,45.487026,-73.722923,45.487026",
     "geom:latitude":45.487026,
     "geom:longitude":-73.722923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1340 Montee DE Liesse",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85895749,
+        102191575,
         85633041,
-        85895749
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"4009bfc26c1989f26cddf7400a41874a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
+            "region_id":136251273,
             "venue_id":169058573
         }
     ],
     "wof:id":169058573,
-    "wof:lastmodified":1449033178,
+    "wof:lastmodified":1453929281,
     "wof:name":"Syd & Jeff Auto Inc",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.722923,45.487026,-73.722923,45.487026],
-  "geometry": {"coordinates":[-73.722923,45.487026],"type":"Point"}
+  "bbox": [
+    -73.722923,
+    45.487026,
+    -73.722923,
+    45.487026
+],
+  "geometry": {"coordinates":[-73.72292299999999,45.487026],"type":"Point"}
 }

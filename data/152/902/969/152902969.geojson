@@ -2,13 +2,14 @@
   "id": 152902969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.898773,45.395355,-71.898773,45.395355",
     "geom:latitude":45.395355,
     "geom:longitude":-71.898773,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b701b4dd60f22e4d32ffff63a45e0c2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":152902969
         }
     ],
     "wof:id":152902969,
-    "wof:lastmodified":1449047721,
+    "wof:lastmodified":1453935443,
     "wof:name":"Tec Innovation Inc",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.898773,45.395355,-71.898773,45.395355],
-  "geometry": {"coordinates":[-71.898773,45.395355],"type":"Point"}
+  "bbox": [
+    -71.898773,
+    45.395355,
+    -71.898773,
+    45.395355
+],
+  "geometry": {"coordinates":[-71.89877300000001,45.395355],"type":"Point"}
 }

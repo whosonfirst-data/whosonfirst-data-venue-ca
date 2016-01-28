@@ -2,13 +2,14 @@
   "id": 169183189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.880547,48.331284,-70.880547,48.331284",
     "geom:latitude":48.331284,
     "geom:longitude":-70.880547,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"513 Boul DE LA Grande-Baie S",
     "sg:city":"LA Baie",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785011,
+        102191575,
         85633041,
-        85785011
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"d375aa7c6378cd49be984361f7425fc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785011,
+            "region_id":136251273,
             "venue_id":169183189
         }
     ],
     "wof:id":169183189,
-    "wof:lastmodified":1449034461,
+    "wof:lastmodified":1453930655,
     "wof:name":"Spi Securite",
     "wof:parent_id":85785011,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.880547,48.331284,-70.880547,48.331284],
-  "geometry": {"coordinates":[-70.880547,48.331284],"type":"Point"}
+  "bbox": [
+    -70.880547,
+    48.331284,
+    -70.880547,
+    48.331284
+],
+  "geometry": {"coordinates":[-70.88054700000001,48.331284],"type":"Point"}
 }

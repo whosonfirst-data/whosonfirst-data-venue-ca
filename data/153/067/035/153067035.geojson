@@ -2,13 +2,14 @@
   "id": 153067035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.648926,45.558659,-73.648926,45.558659",
     "geom:latitude":45.558659,
     "geom:longitude":-73.648926,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9755 Av Christophe-Colomb",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"6e6bce1eca64d16c02a26b299bcfee73",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":153067035
         }
     ],
     "wof:id":153067035,
-    "wof:lastmodified":1449040364,
+    "wof:lastmodified":1453932320,
     "wof:name":"Rousseau Medical",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.648926,45.558659,-73.648926,45.558659],
+  "bbox": [
+    -73.648926,
+    45.558659,
+    -73.648926,
+    45.558659
+],
   "geometry": {"coordinates":[-73.648926,45.558659],"type":"Point"}
 }

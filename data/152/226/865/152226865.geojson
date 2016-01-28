@@ -2,13 +2,14 @@
   "id": 152226865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.615288,43.577503,-79.615288,43.577503",
     "geom:latitude":43.577503,
     "geom:longitude":-79.615288,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"80 King St W",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895411,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"eff3c9768bcc8dd2b37d90080986e9df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895411,
+            "region_id":85682057,
+            "venue_id":152226865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895411,
             "region_id":85682057,
             "venue_id":152226865
         }
     ],
     "wof:id":152226865,
-    "wof:lastmodified":1449047652,
+    "wof:lastmodified":1453935383,
     "wof:name":"Tiny Treasure Mississauga Ctr",
     "wof:parent_id":85895411,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.615288,43.577503,-79.615288,43.577503],
-  "geometry": {"coordinates":[-79.615288,43.577503],"type":"Point"}
+  "bbox": [
+    -79.615288,
+    43.577503,
+    -79.615288,
+    43.577503
+],
+  "geometry": {"coordinates":[-79.61528800000001,43.577503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152246377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.557137,45.519531,-73.557137,45.519531",
     "geom:latitude":45.519531,
     "geom:longitude":-73.557137,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1252 Boul DE Maisonneuve E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"8df784c8cf3db2c3f8bdf08615863981",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":152246377
         }
     ],
     "wof:id":152246377,
-    "wof:lastmodified":1449044618,
+    "wof:lastmodified":1453933067,
     "wof:name":"Roland Super Svc",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.557137,45.519531,-73.557137,45.519531],
+  "bbox": [
+    -73.557137,
+    45.519531,
+    -73.557137,
+    45.519531
+],
   "geometry": {"coordinates":[-73.557137,45.519531],"type":"Point"}
 }

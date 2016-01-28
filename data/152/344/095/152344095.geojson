@@ -2,13 +2,14 @@
   "id": 152344095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.232109,43.889328,-79.232109,43.889328",
     "geom:latitude":43.889328,
     "geom:longitude":-79.232109,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"125 Cornell Park Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895017,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"7efb398e80e406e3ec9286ab10f2cb24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895017,
+            "region_id":85682057,
+            "venue_id":152344095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895017,
             "region_id":85682057,
             "venue_id":152344095
         }
     ],
     "wof:id":152344095,
-    "wof:lastmodified":1449044535,
+    "wof:lastmodified":1453933004,
     "wof:name":"Men on Wheels",
     "wof:parent_id":85895017,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.232109,43.889328,-79.232109,43.889328],
-  "geometry": {"coordinates":[-79.232109,43.889328],"type":"Point"}
+  "bbox": [
+    -79.232109,
+    43.889328,
+    -79.232109,
+    43.889328
+],
+  "geometry": {"coordinates":[-79.23210899999999,43.889328],"type":"Point"}
 }

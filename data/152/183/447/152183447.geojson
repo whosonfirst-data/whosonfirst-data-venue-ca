@@ -2,13 +2,14 @@
   "id": 152183447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.703888,43.592693,-79.703888,43.592693",
     "geom:latitude":43.592693,
     "geom:longitude":-79.703888,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1474 Pickwick Dr",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895327,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2b17bac7d591a33405eaac8a7f3f1565",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895327,
+            "region_id":85682057,
+            "venue_id":152183447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895327,
             "region_id":85682057,
             "venue_id":152183447
         }
     ],
     "wof:id":152183447,
-    "wof:lastmodified":1449046784,
+    "wof:lastmodified":1453934713,
     "wof:name":"Cleanmax Cleaners",
     "wof:parent_id":85895327,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.703888,43.592693,-79.703888,43.592693],
-  "geometry": {"coordinates":[-79.703888,43.592693],"type":"Point"}
+  "bbox": [
+    -79.703888,
+    43.592693,
+    -79.703888,
+    43.592693
+],
+  "geometry": {"coordinates":[-79.70388800000001,43.592693],"type":"Point"}
 }

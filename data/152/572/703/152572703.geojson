@@ -2,13 +2,14 @@
   "id": 152572703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249367,42.985401,-81.249367,42.985401",
     "geom:latitude":42.985401,
     "geom:longitude":-81.249367,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"London",
     "sg:classifiers":[
         {
@@ -28,23 +29,43 @@
         "exploration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rWVSGyw0FSOcXzYv8Y1db_42.985401_-81.249367@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b801652aba995d80232d6f57c5c5f749",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":152572703
+        }
+    ],
     "wof:id":152572703,
-    "wof:lastmodified":1449047126,
+    "wof:lastmodified":1453934980,
     "wof:name":"Kinetic Energy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.249367,42.985401,-81.249367,42.985401],
-  "geometry": {"coordinates":[-81.249367,42.985401],"type":"Point"}
+  "bbox": [
+    -81.249367,
+    42.985401,
+    -81.249367,
+    42.985401
+],
+  "geometry": {"coordinates":[-81.24936700000001,42.985401],"type":"Point"}
 }

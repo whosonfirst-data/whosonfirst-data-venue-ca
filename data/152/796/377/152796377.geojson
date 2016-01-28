@@ -2,13 +2,14 @@
   "id": 152796377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.896408,45.400818,-71.896408,45.400818",
     "geom:latitude":45.400818,
     "geom:longitude":-71.896408,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"363 Rue Marquette",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"a878f5c96658f14754fe4ae4270dc0c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":152796377
         }
     ],
     "wof:id":152796377,
-    "wof:lastmodified":1449046491,
+    "wof:lastmodified":1453934495,
     "wof:name":"Maison Du Bonbon",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.896408,45.400818,-71.896408,45.400818],
-  "geometry": {"coordinates":[-71.896408,45.400818],"type":"Point"}
+  "bbox": [
+    -71.896408,
+    45.400818,
+    -71.896408,
+    45.400818
+],
+  "geometry": {"coordinates":[-71.89640799999999,45.400818],"type":"Point"}
 }

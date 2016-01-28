@@ -2,13 +2,14 @@
   "id": 152135535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.575356,45.512321,-73.575356,45.512321",
     "geom:latitude":45.512321,
     "geom:longitude":-73.575356,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3717 Rue Sainte-Famille",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"7c09c676bbb207450d9c80457193a2b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":152135535
         }
     ],
     "wof:id":152135535,
-    "wof:lastmodified":1449046080,
+    "wof:lastmodified":1453934178,
     "wof:name":"Bed & Breakfast DE Chez-Nous",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.575356,45.512321,-73.575356,45.512321],
+  "bbox": [
+    -73.575356,
+    45.512321,
+    -73.575356,
+    45.512321
+],
   "geometry": {"coordinates":[-73.575356,45.512321],"type":"Point"}
 }

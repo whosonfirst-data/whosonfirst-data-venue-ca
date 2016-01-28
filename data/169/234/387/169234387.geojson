@@ -2,13 +2,14 @@
   "id": 169234387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.782234,45.522614,-73.782234,45.522614",
     "geom:latitude":45.522614,
     "geom:longitude":-73.782234,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Boul Samson # 101",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"916201094bd9fb9ba94f994aa41c4050",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":169234387
         }
     ],
     "wof:id":169234387,
-    "wof:lastmodified":1449035780,
+    "wof:lastmodified":1453932055,
     "wof:name":"Lefebvre, Nancy DDS",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.782234,45.522614,-73.782234,45.522614],
+  "bbox": [
+    -73.782234,
+    45.522614,
+    -73.782234,
+    45.522614
+],
   "geometry": {"coordinates":[-73.782234,45.522614],"type":"Point"}
 }

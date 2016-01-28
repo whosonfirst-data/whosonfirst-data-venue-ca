@@ -2,13 +2,14 @@
   "id": 169383959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682281,44.403484,-79.682281,44.403484",
     "geom:latitude":44.403484,
     "geom:longitude":-79.682281,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"264 St Vincent St",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tBwPaa0uycjGXiwKmJceG_44.403484_-79.682281@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"ae5ac510a19f642963ea75d3b7475f90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":169383959
+        }
+    ],
     "wof:id":169383959,
-    "wof:lastmodified":1449034072,
+    "wof:lastmodified":1453930266,
     "wof:name":"Barrie Poodle Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.682281,44.403484,-79.682281,44.403484],
+  "bbox": [
+    -79.682281,
+    44.403484,
+    -79.682281,
+    44.403484
+],
   "geometry": {"coordinates":[-79.682281,44.403484],"type":"Point"}
 }

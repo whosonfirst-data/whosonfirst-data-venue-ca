@@ -2,13 +2,14 @@
   "id": 169134637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.205193,43.000103,-81.205193,43.000103",
     "geom:latitude":43.000103,
     "geom:longitude":-81.205193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"850 Highbury Ave",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N6A 4H1",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2biW1CRTJjXrEOL92F6xFO_43.000103_-81.205193@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"6291fcdd02d853c53f28b31b2bdf7943",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":169134637
+        }
+    ],
     "wof:id":169134637,
-    "wof:lastmodified":1449035773,
+    "wof:lastmodified":1453932047,
     "wof:name":"Regional Mental Health Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.205193,43.000103,-81.205193,43.000103],
-  "geometry": {"coordinates":[-81.205193,43.000103],"type":"Point"}
+  "bbox": [
+    -81.205193,
+    43.000103,
+    -81.205193,
+    43.000103
+],
+  "geometry": {"coordinates":[-81.20519299999999,43.000103],"type":"Point"}
 }

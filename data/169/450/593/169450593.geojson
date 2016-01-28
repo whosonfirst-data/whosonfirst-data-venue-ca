@@ -2,13 +2,14 @@
   "id": 169450593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.660553,45.720707,-73.660553,45.720707",
     "geom:latitude":45.720707,
     "geom:longitude":-73.660553,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2028 Ch Gascon",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"a2f247ad99ffd3462afa251ee0b5ea0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":169450593
         }
     ],
     "wof:id":169450593,
-    "wof:lastmodified":1449035459,
+    "wof:lastmodified":1453931672,
     "wof:name":"Discount Location D'Autos",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.660553,45.720707,-73.660553,45.720707],
-  "geometry": {"coordinates":[-73.660553,45.720707],"type":"Point"}
+  "bbox": [
+    -73.660553,
+    45.720707,
+    -73.660553,
+    45.720707
+],
+  "geometry": {"coordinates":[-73.66055299999999,45.720707],"type":"Point"}
 }

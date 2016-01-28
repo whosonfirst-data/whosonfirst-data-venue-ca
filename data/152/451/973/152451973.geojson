@@ -2,13 +2,14 @@
   "id": 152451973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55249,45.508022,-73.55249,45.508022",
     "geom:latitude":45.508022,
     "geom:longitude":-73.55249,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"235 Rue Saint-Paul O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866485,
+        102191575,
         85633041,
-        85866485
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"bbadba6de264cb8222e4187b0a5db039",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866485,
+            "region_id":136251273,
             "venue_id":152451973
         }
     ],
     "wof:id":152451973,
-    "wof:lastmodified":1449046331,
+    "wof:lastmodified":1453934370,
     "wof:name":"Encadrements Idee",
     "wof:parent_id":85866485,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.55249,45.508022,-73.55249,45.508022],
-  "geometry": {"coordinates":[-73.55249,45.508022],"type":"Point"}
+  "bbox": [
+    -73.55249,
+    45.508022,
+    -73.55249,
+    45.508022
+],
+  "geometry": {"coordinates":[-73.55249000000001,45.508022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169221367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.464676,43.884525,-79.464676,43.884525",
     "geom:latitude":43.884525,
     "geom:longitude":-79.464676,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"667 Elgin Mills Rd W",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895427,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"f1600364c02e5130f1abe59306dbbaa0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895427,
+            "region_id":85682057,
+            "venue_id":169221367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895427,
             "region_id":85682057,
             "venue_id":169221367
         }
     ],
     "wof:id":169221367,
-    "wof:lastmodified":1449034123,
+    "wof:lastmodified":1453930310,
     "wof:name":"Zir Importing",
     "wof:parent_id":85895427,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.464676,43.884525,-79.464676,43.884525],
+  "bbox": [
+    -79.464676,
+    43.884525,
+    -79.464676,
+    43.884525
+],
   "geometry": {"coordinates":[-79.464676,43.884525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202377919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.136688,49.187119,-123.136688,49.187119",
     "geom:latitude":49.187119,
     "geom:longitude":-123.136688,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7900 River Rd # 2",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -27,7 +28,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85894881,
+        102555307,
+        85894871,
+        102191575,
         85633041,
         101741081,
         85682117
@@ -40,18 +43,19 @@
     "wof:geomhash":"7b455aacb2c54d880c6b5add1cdfe0c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741081,
-            "neighbourhood_id":85894881,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":202377919
         }
     ],
     "wof:id":202377919,
-    "wof:lastmodified":1449061065,
+    "wof:lastmodified":1453937178,
     "wof:name":"Media Marketing",
-    "wof:parent_id":85894881,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "distributor"
     ]
 },
-  "bbox": [-123.136688,49.187119,-123.136688,49.187119],
-  "geometry": {"coordinates":[-123.136688,49.187119],"type":"Point"}
+  "bbox": [
+    -123.136688,
+    49.187119,
+    -123.136688,
+    49.187119
+],
+  "geometry": {"coordinates":[-123.13668800000001,49.187119],"type":"Point"}
 }

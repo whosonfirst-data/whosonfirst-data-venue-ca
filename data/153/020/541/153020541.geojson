@@ -2,13 +2,14 @@
   "id": 153020541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.777145,45.448654,-73.777145,45.448654",
     "geom:latitude":45.448654,
     "geom:longitude":-73.777145,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"480 Boul Strathmore",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736487,
+        85875793,
+        102191575,
         85633041,
-        85875793
+        101736487,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"5e5e5cd6582f79f759474ee9d14749e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736487,
             "neighbourhood_id":85875793,
+            "region_id":136251273,
             "venue_id":153020541
         }
     ],
     "wof:id":153020541,
-    "wof:lastmodified":1449040536,
+    "wof:lastmodified":1453932474,
     "wof:name":"Cafe Bord Du Lac",
     "wof:parent_id":85875793,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.777145,45.448654,-73.777145,45.448654],
+  "bbox": [
+    -73.777145,
+    45.448654,
+    -73.777145,
+    45.448654
+],
   "geometry": {"coordinates":[-73.777145,45.448654],"type":"Point"}
 }

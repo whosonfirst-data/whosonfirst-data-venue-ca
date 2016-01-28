@@ -2,13 +2,14 @@
   "id": 219406051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.249565,43.970886,-79.249565,43.970886",
     "geom:latitude":43.970886,
     "geom:longitude":-79.249565,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6188 Main St",
     "sg:city":"Stouffville",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85895097,
         102191575,
         85633041,
-        85895097
+        101736037,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,22 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "county_id":-1,
-            "locality_id":-1,
+            "locality_id":101736037,
             "neighbourhood_id":85895097,
-            "region_id":-1,
+            "region_id":85682057,
+            "venue_id":219406051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895097,
+            "region_id":85682057,
             "venue_id":219406051
         }
     ],
     "wof:id":219406051,
-    "wof:lastmodified":1449072271,
+    "wof:lastmodified":1453937794,
     "wof:name":"H & R Block Canada Inc",
     "wof:parent_id":85895097,
     "wof:placetype":"venue",
@@ -61,6 +72,11 @@
         "filing"
     ]
 },
-  "bbox": [-79.249565,43.970886,-79.249565,43.970886],
+  "bbox": [
+    -79.249565,
+    43.970886,
+    -79.249565,
+    43.970886
+],
   "geometry": {"coordinates":[-79.249565,43.970886],"type":"Point"}
 }

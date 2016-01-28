@@ -2,13 +2,14 @@
   "id": 152572169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.193245,42.928188,-81.193245,42.928188",
     "geom:latitude":42.928188,
     "geom:longitude":-81.193245,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1040 Wilton Grove Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874921,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Rvwrujx2n6WdGa2426AsA_42.928188_-81.193245@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"299eb9371805c7d93694d9c6956f242a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874921,
+            "region_id":85682057,
+            "venue_id":152572169
+        }
+    ],
     "wof:id":152572169,
-    "wof:lastmodified":1449047132,
+    "wof:lastmodified":1453934981,
     "wof:name":"Trisec Warehousing Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874921,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.193245,42.928188,-81.193245,42.928188],
+  "bbox": [
+    -81.193245,
+    42.928188,
+    -81.193245,
+    42.928188
+],
   "geometry": {"coordinates":[-81.193245,42.928188],"type":"Point"}
 }

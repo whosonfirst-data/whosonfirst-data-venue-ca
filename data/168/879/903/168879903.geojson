@@ -2,13 +2,14 @@
   "id": 168879903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.472694,45.440506,-73.472694,45.440506",
     "geom:latitude":45.440506,
     "geom:longitude":-73.472694,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8855 Boul Taschereau",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85875775,
+        102191575,
         85633041,
-        85875775
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"fa485011b2d70915f0971159b5443dc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85875775,
+            "region_id":136251273,
             "venue_id":168879903
         }
     ],
     "wof:id":168879903,
-    "wof:lastmodified":1449027784,
+    "wof:lastmodified":1453927794,
     "wof:name":"Brossard Toyota Inc",
     "wof:parent_id":85875775,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.472694,45.440506,-73.472694,45.440506],
+  "bbox": [
+    -73.472694,
+    45.440506,
+    -73.472694,
+    45.440506
+],
   "geometry": {"coordinates":[-73.472694,45.440506],"type":"Point"}
 }

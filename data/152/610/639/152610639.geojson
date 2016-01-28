@@ -2,13 +2,14 @@
   "id": 152610639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.693283,45.511181,-73.693283,45.511181",
     "geom:latitude":45.511181,
     "geom:longitude":-73.693283,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2015 Rue Lucien-Thimens",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"0ef2608ba98af4fc27fd76d7fa4328c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152610639
         }
     ],
     "wof:id":152610639,
-    "wof:lastmodified":1449048835,
+    "wof:lastmodified":1453936282,
     "wof:name":"Nimax Technologies Inc",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.693283,45.511181,-73.693283,45.511181],
-  "geometry": {"coordinates":[-73.693283,45.511181],"type":"Point"}
+  "bbox": [
+    -73.693283,
+    45.511181,
+    -73.693283,
+    45.511181
+],
+  "geometry": {"coordinates":[-73.69328299999999,45.511181],"type":"Point"}
 }

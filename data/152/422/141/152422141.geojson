@@ -2,13 +2,14 @@
   "id": 152422141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.5718,45.51453,-73.5718,45.51453",
     "geom:latitude":45.51453,
     "geom:longitude":-73.5718,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"70 Rue Prince-Arthur E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"0cd68bbebeffed42ed4f109a0a16d067",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":152422141
         }
     ],
     "wof:id":152422141,
-    "wof:lastmodified":1449044625,
+    "wof:lastmodified":1453933075,
     "wof:name":"Fondue Prince Arthur",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.5718,45.51453,-73.5718,45.51453],
+  "bbox": [
+    -73.5718,
+    45.51453,
+    -73.5718,
+    45.51453
+],
   "geometry": {"coordinates":[-73.5718,45.51453],"type":"Point"}
 }

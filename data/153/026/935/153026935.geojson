@@ -2,13 +2,14 @@
   "id": 153026935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.569145,45.500343,-73.569145,45.500343",
     "geom:latitude":45.500343,
     "geom:longitude":-73.569145,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Place Ville-Marie #904",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866491,
+        102191575,
         85633041,
-        85866491
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"60626329ac2b463f3971c4847a03c654",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
+            "region_id":136251273,
             "venue_id":153026935
         }
     ],
     "wof:id":153026935,
-    "wof:lastmodified":1449040639,
+    "wof:lastmodified":1453932568,
     "wof:name":"Corporation Permabec",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.569145,45.500343,-73.569145,45.500343],
-  "geometry": {"coordinates":[-73.569145,45.500343],"type":"Point"}
+  "bbox": [
+    -73.569145,
+    45.500343,
+    -73.569145,
+    45.500343
+],
+  "geometry": {"coordinates":[-73.56914500000001,45.500343],"type":"Point"}
 }

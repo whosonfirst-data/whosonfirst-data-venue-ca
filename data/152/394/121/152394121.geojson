@@ -2,13 +2,14 @@
   "id": 152394121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.396896,43.825123,-79.396896,43.825123",
     "geom:latitude":43.825123,
     "geom:longitude":-79.396896,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"24 Harlech Crt",
     "sg:city":"Thornhill",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895609,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"e442f68ab9e0970af6d54780367d4dd2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895609,
+            "region_id":85682057,
+            "venue_id":152394121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895609,
             "region_id":85682057,
             "venue_id":152394121
         }
     ],
     "wof:id":152394121,
-    "wof:lastmodified":1449045199,
+    "wof:lastmodified":1453933511,
     "wof:name":"Active Collision Ctr",
     "wof:parent_id":85895609,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.396896,43.825123,-79.396896,43.825123],
+  "bbox": [
+    -79.396896,
+    43.825123,
+    -79.396896,
+    43.825123
+],
   "geometry": {"coordinates":[-79.396896,43.825123],"type":"Point"}
 }

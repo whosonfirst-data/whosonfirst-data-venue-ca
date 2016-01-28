@@ -2,13 +2,14 @@
   "id": 169180295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.62014,43.647015,-79.62014,43.647015",
     "geom:latitude":43.647015,
     "geom:longitude":-79.62014,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1815 Sismet Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"1b8eac635a517c33897b47303cbd5487",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":169180295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":169180295
         }
     ],
     "wof:id":169180295,
-    "wof:lastmodified":1449032821,
+    "wof:lastmodified":1453928953,
     "wof:name":"Marathon Industries",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.62014,43.647015,-79.62014,43.647015],
-  "geometry": {"coordinates":[-79.62014,43.647015],"type":"Point"}
+  "bbox": [
+    -79.62014,
+    43.647015,
+    -79.62014,
+    43.647015
+],
+  "geometry": {"coordinates":[-79.62014000000001,43.647015],"type":"Point"}
 }

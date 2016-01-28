@@ -2,13 +2,14 @@
   "id": 169498537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.597839,45.431461,-73.597839,45.431461",
     "geom:latitude":45.431461,
     "geom:longitude":-73.597839,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7635 Rue Centrale",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866477,
+        102191575,
         85633041,
-        85866477
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"504f381a6fd4d717b0946434075782d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866477,
+            "region_id":136251273,
             "venue_id":169498537
         }
     ],
     "wof:id":169498537,
-    "wof:lastmodified":1449035158,
+    "wof:lastmodified":1453931375,
     "wof:name":"Brunet Pharmacie Affiliee",
     "wof:parent_id":85866477,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.597839,45.431461,-73.597839,45.431461],
-  "geometry": {"coordinates":[-73.597839,45.431461],"type":"Point"}
+  "bbox": [
+    -73.597839,
+    45.431461,
+    -73.597839,
+    45.431461
+],
+  "geometry": {"coordinates":[-73.59783899999999,45.431461],"type":"Point"}
 }

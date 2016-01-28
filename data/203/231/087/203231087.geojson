@@ -2,13 +2,14 @@
   "id": 203231087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.708359,45.53112,-73.708359,45.53112",
     "geom:latitude":45.53112,
     "geom:longitude":-73.708359,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal",
     "sg:classifiers":[
         {
@@ -24,8 +25,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897493,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,16 +38,16 @@
     "wof:geomhash":"49c1f748728d5114d970baeb985da159",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897493,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203231087
         }
     ],
     "wof:id":203231087,
-    "wof:lastmodified":1449025900,
+    "wof:lastmodified":1453927589,
     "wof:name":"Garderie Centre Educatif",
     "wof:parent_id":85897493,
     "wof:placetype":"venue",
@@ -52,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.708359,45.53112,-73.708359,45.53112],
+  "bbox": [
+    -73.708359,
+    45.53112,
+    -73.708359,
+    45.53112
+],
   "geometry": {"coordinates":[-73.708359,45.53112],"type":"Point"}
 }

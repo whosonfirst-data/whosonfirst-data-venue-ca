@@ -2,13 +2,14 @@
   "id": 169505143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.877251,45.565372,-73.877251,45.565372",
     "geom:latitude":45.565372,
     "geom:longitude":-73.877251,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"128 Ch DE LA Grande-Cote",
     "sg:city":"Saint-Eustache",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875055,
+        102191575,
         85633041,
-        85875055
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"cfb4964e2f82817dc50271c406dd0d87",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875055,
+            "region_id":136251273,
             "venue_id":169505143
         }
     ],
     "wof:id":169505143,
-    "wof:lastmodified":1449035426,
+    "wof:lastmodified":1453931638,
     "wof:name":"Forge Du Nord Enrg",
     "wof:parent_id":85875055,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.877251,45.565372,-73.877251,45.565372],
+  "bbox": [
+    -73.877251,
+    45.565372,
+    -73.877251,
+    45.565372
+],
   "geometry": {"coordinates":[-73.877251,45.565372],"type":"Point"}
 }

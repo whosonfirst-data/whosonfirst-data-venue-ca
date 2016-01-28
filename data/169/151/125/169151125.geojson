@@ -2,13 +2,14 @@
   "id": 169151125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.571136,49.189949,-122.571136,49.189949",
     "geom:latitude":49.189949,
     "geom:longitude":-122.571136,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"23480 River Rd",
     "sg:city":"Maple Ridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894779,
-        85682117
+        102191575,
+        85633041,
+        101740805,
+        85682117,
+        101746133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"43b9d238adacd9d4578b6417aa13c246",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740805,
+            "neighbourhood_id":85894779,
+            "region_id":85682117,
+            "venue_id":169151125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101746133,
             "neighbourhood_id":85894779,
             "region_id":85682117,
             "venue_id":169151125
         }
     ],
     "wof:id":169151125,
-    "wof:lastmodified":1449032719,
+    "wof:lastmodified":1453928831,
     "wof:name":"Gary's Auto Wrecking",
     "wof:parent_id":85894779,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.571136,49.189949,-122.571136,49.189949],
+  "bbox": [
+    -122.571136,
+    49.189949,
+    -122.571136,
+    49.189949
+],
   "geometry": {"coordinates":[-122.571136,49.189949],"type":"Point"}
 }

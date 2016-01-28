@@ -2,13 +2,14 @@
   "id": 169378253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.900497,45.405682,-71.900497,45.405682",
     "geom:latitude":45.405682,
     "geom:longitude":-71.900497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"515 Rue Moore",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874179,
+        102191575,
         85633041,
-        85874179
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ccb0c7c37b88142984d9b15197f1c24a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874179,
+            "region_id":136251273,
             "venue_id":169378253
         }
     ],
     "wof:id":169378253,
-    "wof:lastmodified":1449034918,
+    "wof:lastmodified":1453931145,
     "wof:name":"Baseball Sherbrooke Inc",
     "wof:parent_id":85874179,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.900497,45.405682,-71.900497,45.405682],
+  "bbox": [
+    -71.900497,
+    45.405682,
+    -71.900497,
+    45.405682
+],
   "geometry": {"coordinates":[-71.900497,45.405682],"type":"Point"}
 }

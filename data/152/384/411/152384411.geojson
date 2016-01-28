@@ -2,13 +2,14 @@
   "id": 152384411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.203735,46.812149,-71.203735,46.812149",
     "geom:latitude":46.812149,
     "geom:longitude":-71.203735,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"32 Rue Du Petit-Champlain",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866517,
+        102191575,
         85633041,
-        85866517
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"66bfd5d58e8ca3ea25744e88aad5051a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
+            "region_id":136251273,
             "venue_id":152384411
         }
     ],
     "wof:id":152384411,
-    "wof:lastmodified":1449044879,
+    "wof:lastmodified":1453933272,
     "wof:name":"Scruples Inc",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.203735,46.812149,-71.203735,46.812149],
-  "geometry": {"coordinates":[-71.203735,46.812149],"type":"Point"}
+  "bbox": [
+    -71.203735,
+    46.812149,
+    -71.203735,
+    46.812149
+],
+  "geometry": {"coordinates":[-71.20373499999999,46.812149],"type":"Point"}
 }

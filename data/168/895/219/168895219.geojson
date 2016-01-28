@@ -2,13 +2,14 @@
   "id": 168895219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.719994,45.429531,-75.719994,45.429531",
     "geom:latitude":45.429531,
     "geom:longitude":-75.719994,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"136 Rue Eddy",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874419,
+        102191575,
         85633041,
-        85874419
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"4206d9077b3b16e27b9bf2648ca7d38e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874419,
+            "region_id":136251273,
             "venue_id":168895219
         }
     ],
     "wof:id":168895219,
-    "wof:lastmodified":1449028104,
+    "wof:lastmodified":1453928159,
     "wof:name":"Cycle Bertrand",
     "wof:parent_id":85874419,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.719994,45.429531,-75.719994,45.429531],
+  "bbox": [
+    -75.719994,
+    45.429531,
+    -75.719994,
+    45.429531
+],
   "geometry": {"coordinates":[-75.719994,45.429531],"type":"Point"}
 }

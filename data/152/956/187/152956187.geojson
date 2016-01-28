@@ -2,13 +2,14 @@
   "id": 152956187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.18811,43.024803,-81.18811,43.024803",
     "geom:latitude":43.024803,
     "geom:longitude":-81.18811,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"204 Stronach Cres",
     "sg:city":"London",
     "sg:classifiers":[
@@ -30,23 +31,43 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864551,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GmzKolOhDQFpPfYKRzZlr_43.024803_-81.188110@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"9d690efb932830383f4ae28544156dbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864551,
+            "region_id":85682057,
+            "venue_id":152956187
+        }
+    ],
     "wof:id":152956187,
-    "wof:lastmodified":1449045092,
+    "wof:lastmodified":1453933429,
     "wof:name":"Nieman Wholesale",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.18811,43.024803,-81.18811,43.024803],
-  "geometry": {"coordinates":[-81.18811,43.024803],"type":"Point"}
+  "bbox": [
+    -81.18811,
+    43.024803,
+    -81.18811,
+    43.024803
+],
+  "geometry": {"coordinates":[-81.18810999999999,43.024803],"type":"Point"}
 }

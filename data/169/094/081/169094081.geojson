@@ -2,13 +2,14 @@
   "id": 169094081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.388649,42.985611,-82.388649,42.985611",
     "geom:latitude":42.985611,
     "geom:longitude":-82.388649,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"810 Colborne Rd",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875567,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"8eebed544fec65216908b53cc295f827",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875567,
+            "region_id":85682057,
+            "venue_id":169094081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875567,
             "region_id":85682057,
             "venue_id":169094081
         }
     ],
     "wof:id":169094081,
-    "wof:lastmodified":1449034753,
+    "wof:lastmodified":1453930970,
     "wof:name":"Northgate Home Hardware",
     "wof:parent_id":85875567,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.388649,42.985611,-82.388649,42.985611],
+  "bbox": [
+    -82.388649,
+    42.985611,
+    -82.388649,
+    42.985611
+],
   "geometry": {"coordinates":[-82.388649,42.985611],"type":"Point"}
 }

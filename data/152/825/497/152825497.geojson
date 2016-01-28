@@ -2,13 +2,14 @@
   "id": 152825497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.510742,45.501308,-73.510742,45.501308",
     "geom:latitude":45.501308,
     "geom:longitude":-73.510742,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"518 Av Victoria",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"d297b0cb0f8d0a068cb99f83e2b4bce0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":152825497
         }
     ],
     "wof:id":152825497,
-    "wof:lastmodified":1449044476,
+    "wof:lastmodified":1453932959,
     "wof:name":"Jardin Chow Mein Garden",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.510742,45.501308,-73.510742,45.501308],
-  "geometry": {"coordinates":[-73.510742,45.501308],"type":"Point"}
+  "bbox": [
+    -73.510742,
+    45.501308,
+    -73.510742,
+    45.501308
+],
+  "geometry": {"coordinates":[-73.51074199999999,45.501308],"type":"Point"}
 }

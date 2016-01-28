@@ -2,13 +2,14 @@
   "id": 152178549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.601364,43.62579,-79.601364,43.62579",
     "geom:latitude":43.62579,
     "geom:longitude":-79.601364,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1130 Bough Beeches Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895107,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"db36ab6b726999451c33df5d4dd0cfff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895107,
+            "region_id":85682057,
+            "venue_id":152178549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895107,
             "region_id":85682057,
             "venue_id":152178549
         }
     ],
     "wof:id":152178549,
-    "wof:lastmodified":1449047617,
+    "wof:lastmodified":1453935356,
     "wof:name":"Meadowcroft Place",
     "wof:parent_id":85895107,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.601364,43.62579,-79.601364,43.62579],
+  "bbox": [
+    -79.601364,
+    43.62579,
+    -79.601364,
+    43.62579
+],
   "geometry": {"coordinates":[-79.601364,43.62579],"type":"Point"}
 }

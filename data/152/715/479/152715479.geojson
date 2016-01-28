@@ -2,13 +2,14 @@
   "id": 152715479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.653,45.466202,-73.653,45.466202",
     "geom:latitude":45.466202,
     "geom:longitude":-73.653,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6980 Ch DE LA Cote-Saint-Luc # 100",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736445,
+        85864407,
+        102191575,
         85633041,
-        85864407
+        101736445,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"b285d9a14a82f91d9df24dcb962f9fa0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736445,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
             "venue_id":152715479
         }
     ],
     "wof:id":152715479,
-    "wof:lastmodified":1449047989,
+    "wof:lastmodified":1453935643,
     "wof:name":"Syndicat Des Coproprietaires",
     "wof:parent_id":85864407,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.653,45.466202,-73.653,45.466202],
-  "geometry": {"coordinates":[-73.653,45.466202],"type":"Point"}
+  "bbox": [
+    -73.653,
+    45.466202,
+    -73.653,
+    45.466202
+],
+  "geometry": {"coordinates":[-73.65300000000001,45.466202],"type":"Point"}
 }

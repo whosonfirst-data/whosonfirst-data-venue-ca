@@ -2,13 +2,14 @@
   "id": 203344669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.681595,45.51329,-73.681595,45.51329",
     "geom:latitude":45.51329,
     "geom:longitude":-73.681595,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
         {
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874167,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"641fb2962637467c7b68174426fcda71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874167,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203344669
         }
     ],
     "wof:id":203344669,
-    "wof:lastmodified":1449025043,
+    "wof:lastmodified":1453927428,
     "wof:name":"Melodisc",
     "wof:parent_id":85874167,
     "wof:placetype":"venue",
@@ -63,6 +66,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.681595,45.51329,-73.681595,45.51329],
+  "bbox": [
+    -73.681595,
+    45.51329,
+    -73.681595,
+    45.51329
+],
   "geometry": {"coordinates":[-73.681595,45.51329],"type":"Point"}
 }

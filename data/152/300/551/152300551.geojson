@@ -2,13 +2,14 @@
   "id": 152300551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.166466,45.579144,-73.166466,45.579144",
     "geom:latitude":45.579144,
     "geom:longitude":-73.166466,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mont-Saint-Hilaire",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737201,
+        85894599,
+        102191575,
         85633041,
-        85894599
+        101737201,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"42544ca8392e7ee401864223c6d56e85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737201,
             "neighbourhood_id":85894599,
+            "region_id":136251273,
             "venue_id":152300551
         }
     ],
     "wof:id":152300551,
-    "wof:lastmodified":1449046899,
+    "wof:lastmodified":1453934793,
     "wof:name":"Verger Du Pavillon DE LA Pomme",
     "wof:parent_id":85894599,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.166466,45.579144,-73.166466,45.579144],
+  "bbox": [
+    -73.166466,
+    45.579144,
+    -73.166466,
+    45.579144
+],
   "geometry": {"coordinates":[-73.166466,45.579144],"type":"Point"}
 }

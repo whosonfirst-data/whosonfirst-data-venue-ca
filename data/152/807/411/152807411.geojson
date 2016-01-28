@@ -2,13 +2,14 @@
   "id": 152807411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.393509,43.65094,-79.393509,43.65094",
     "geom:latitude":43.65094,
     "geom:longitude":-79.393509,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"47 Soho Sq",
     "sg:city":"Toronto",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
-        85633041,
         85866465,
+        102191575,
+        85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"8af1d082c9eec30f9382d91efd7b19ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
             "neighbourhood_id":85866465,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":152807411,
-    "wof:lastmodified":1449045480,
+    "wof:lastmodified":1453933729,
     "wof:name":"Ski Canada Magazine",
     "wof:parent_id":85866465,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.393509,43.65094,-79.393509,43.65094],
-  "geometry": {"coordinates":[-79.393509,43.65094],"type":"Point"}
+  "bbox": [
+    -79.393509,
+    43.65094,
+    -79.393509,
+    43.65094
+],
+  "geometry": {"coordinates":[-79.39350899999999,43.65094],"type":"Point"}
 }

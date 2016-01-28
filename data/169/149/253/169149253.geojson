@@ -2,13 +2,14 @@
   "id": 169149253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.836845,45.602543,-73.836845,45.602543",
     "geom:latitude":45.602543,
     "geom:longitude":-73.836845,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"476 Ch DE LA Grande-Cote",
     "sg:city":"Boisbriand",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875059,
+        102191575,
         85633041,
-        85875059
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"eeddacc20782b833eec57c2cad1bcee7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875059,
+            "region_id":136251273,
             "venue_id":169149253
         }
     ],
     "wof:id":169149253,
-    "wof:lastmodified":1449032698,
+    "wof:lastmodified":1453928808,
     "wof:name":"Miller, Richard DDS",
     "wof:parent_id":85875059,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.836845,45.602543,-73.836845,45.602543],
+  "bbox": [
+    -73.836845,
+    45.602543,
+    -73.836845,
+    45.602543
+],
   "geometry": {"coordinates":[-73.836845,45.602543],"type":"Point"}
 }

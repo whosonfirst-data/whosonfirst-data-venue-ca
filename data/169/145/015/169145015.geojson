@@ -2,13 +2,14 @@
   "id": 169145015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.320053,43.007961,-81.320053,43.007961",
     "geom:latitude":43.007961,
     "geom:longitude":-81.320053,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1631 Aldersbrook Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874935,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C55rtU05Y9IP5NxKPncg6_43.007961_-81.320053@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"bc0fa6b4e63f57b3bba039d8a65a9634",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
+            "region_id":85682057,
+            "venue_id":169145015
+        }
+    ],
     "wof:id":169145015,
-    "wof:lastmodified":1449033691,
+    "wof:lastmodified":1453929820,
     "wof:name":"Scottlyn Comodities Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.320053,43.007961,-81.320053,43.007961],
+  "bbox": [
+    -81.320053,
+    43.007961,
+    -81.320053,
+    43.007961
+],
   "geometry": {"coordinates":[-81.320053,43.007961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152898621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.685188,43.720062,-79.685188,43.720062",
     "geom:latitude":43.720062,
     "geom:longitude":-79.685188,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"52 Bramwin Crt",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"83f226b87d1d92dd0b1115192df5df3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":152898621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":152898621
         }
     ],
     "wof:id":152898621,
-    "wof:lastmodified":1449044190,
+    "wof:lastmodified":1453932747,
     "wof:name":"Saxum Canada Inc",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.685188,43.720062,-79.685188,43.720062],
+  "bbox": [
+    -79.685188,
+    43.720062,
+    -79.685188,
+    43.720062
+],
   "geometry": {"coordinates":[-79.685188,43.720062],"type":"Point"}
 }

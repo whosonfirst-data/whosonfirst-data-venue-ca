@@ -2,13 +2,14 @@
   "id": 152542277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.596191,45.519993,-73.596191,45.519993",
     "geom:latitude":45.519993,
     "geom:longitude":-73.596191,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5121 Av Du Parc",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"e4a16a69ce1a92f184cf8ee591afec51",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":152542277
         }
     ],
     "wof:id":152542277,
-    "wof:lastmodified":1449047882,
+    "wof:lastmodified":1453935570,
     "wof:name":"Malabar Limitee",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.596191,45.519993,-73.596191,45.519993],
+  "bbox": [
+    -73.596191,
+    45.519993,
+    -73.596191,
+    45.519993
+],
   "geometry": {"coordinates":[-73.596191,45.519993],"type":"Point"}
 }

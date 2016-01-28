@@ -2,13 +2,14 @@
   "id": 153038427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.217201,43.132481,-79.217201,43.132481",
     "geom:latitude":43.132481,
     "geom:longitude":-79.217201,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Parkhill Rd",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"bc4390a6e742240d9d4c76ee85e3126c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":153038427
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":153038427
         }
     ],
     "wof:id":153038427,
-    "wof:lastmodified":1449040671,
+    "wof:lastmodified":1453932593,
     "wof:name":"Pisano's Plumbing & Heating",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.217201,43.132481,-79.217201,43.132481],
+  "bbox": [
+    -79.217201,
+    43.132481,
+    -79.217201,
+    43.132481
+],
   "geometry": {"coordinates":[-79.217201,43.132481],"type":"Point"}
 }

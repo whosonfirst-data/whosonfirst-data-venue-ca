@@ -2,13 +2,14 @@
   "id": 169096931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.193474,49.225899,-123.193474,49.225899",
     "geom:latitude":49.225899,
     "geom:longitude":-123.193474,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3917 51st Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865071,
-        85682117
+        102191575,
+        85633041,
+        101741075,
+        85682117,
+        101745527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"6904f7b37f85256ef849e9d864704130",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741075,
+            "neighbourhood_id":85865071,
+            "region_id":85682117,
+            "venue_id":169096931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101745527,
             "neighbourhood_id":85865071,
             "region_id":85682117,
             "venue_id":169096931
         }
     ],
     "wof:id":169096931,
-    "wof:lastmodified":1449033759,
+    "wof:lastmodified":1453929896,
     "wof:name":"Coast Salish Arts",
     "wof:parent_id":85865071,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.193474,49.225899,-123.193474,49.225899],
-  "geometry": {"coordinates":[-123.193474,49.225899],"type":"Point"}
+  "bbox": [
+    -123.193474,
+    49.225899,
+    -123.193474,
+    49.225899
+],
+  "geometry": {"coordinates":[-123.19347399999999,49.225899],"type":"Point"}
 }

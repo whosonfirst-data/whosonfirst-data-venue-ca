@@ -2,13 +2,14 @@
   "id": 152376223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.779305,43.366619,-79.779305,43.366619",
     "geom:latitude":43.366619,
     "geom:longitude":-79.779305,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Burlington",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895545,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"f39887c0a7763fa3aecb13b2472f9130",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895545,
+            "region_id":85682057,
+            "venue_id":152376223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895545,
             "region_id":85682057,
             "venue_id":152376223
         }
     ],
     "wof:id":152376223,
-    "wof:lastmodified":1449045885,
+    "wof:lastmodified":1453934040,
     "wof:name":"Adlan Corp",
     "wof:parent_id":85895545,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.779305,43.366619,-79.779305,43.366619],
-  "geometry": {"coordinates":[-79.779305,43.366619],"type":"Point"}
+  "bbox": [
+    -79.779305,
+    43.366619,
+    -79.779305,
+    43.366619
+],
+  "geometry": {"coordinates":[-79.77930499999999,43.366619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169201707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.15554,43.020363,-81.15554,43.020363",
     "geom:latitude":43.020363,
     "geom:longitude":-81.15554,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"21 Cuddy Blvd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874955,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fIux5cxiclQ8sp4P2PEw6_43.020363_-81.155540@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"a36b85918135e5cdd42e9f045f86db6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874955,
+            "region_id":85682057,
+            "venue_id":169201707
+        }
+    ],
     "wof:id":169201707,
-    "wof:lastmodified":1449035519,
+    "wof:lastmodified":1453931763,
     "wof:name":"G & S Electric Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.15554,43.020363,-81.15554,43.020363],
+  "bbox": [
+    -81.15554,
+    43.020363,
+    -81.15554,
+    43.020363
+],
   "geometry": {"coordinates":[-81.15554,43.020363],"type":"Point"}
 }

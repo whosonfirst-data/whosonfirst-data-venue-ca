@@ -2,13 +2,14 @@
   "id": 152655211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682091,43.674122,-79.682091,43.674122",
     "geom:latitude":43.674122,
     "geom:longitude":-79.682091,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1256 Cardiff Blvd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895633,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"2a7bc703c3595c1dede0d68c0ff12f33",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895633,
+            "region_id":85682057,
+            "venue_id":152655211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895633,
             "region_id":85682057,
             "venue_id":152655211
         }
     ],
     "wof:id":152655211,
-    "wof:lastmodified":1449046957,
+    "wof:lastmodified":1453934838,
     "wof:name":"Leone Fence CO Ltd",
     "wof:parent_id":85895633,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.682091,43.674122,-79.682091,43.674122],
+  "bbox": [
+    -79.682091,
+    43.674122,
+    -79.682091,
+    43.674122
+],
   "geometry": {"coordinates":[-79.682091,43.674122],"type":"Point"}
 }

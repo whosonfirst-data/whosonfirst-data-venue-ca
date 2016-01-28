@@ -2,13 +2,14 @@
   "id": 169050945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.716873,43.685658,-79.716873,43.685658",
     "geom:latitude":43.685658,
     "geom:longitude":-79.716873,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Brampton",
     "sg:classifiers":[
         {
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"2d093cd59b62adbeeacf6c3c1eab5b88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":169050945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":169050945
         }
     ],
     "wof:id":169050945,
-    "wof:lastmodified":1449034510,
+    "wof:lastmodified":1453930696,
     "wof:name":"Yoli Manufacturing Inc",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.716873,43.685658,-79.716873,43.685658],
-  "geometry": {"coordinates":[-79.716873,43.685658],"type":"Point"}
+  "bbox": [
+    -79.716873,
+    43.685658,
+    -79.716873,
+    43.685658
+],
+  "geometry": {"coordinates":[-79.71687300000001,43.685658],"type":"Point"}
 }

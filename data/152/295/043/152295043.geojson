@@ -2,13 +2,14 @@
   "id": 152295043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.586075,45.633808,-73.586075,45.633808",
     "geom:latitude":45.633808,
     "geom:longitude":-73.586075,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8222 Boul Maurice-Duplessis",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784925,
+        102191575,
         85633041,
-        85784925
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"dd8ff63279b6681b56868fcc7d8e6f86",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
+            "region_id":136251273,
             "venue_id":152295043
         }
     ],
     "wof:id":152295043,
-    "wof:lastmodified":1449046185,
+    "wof:lastmodified":1453934259,
     "wof:name":"Pharmaprix",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.586075,45.633808,-73.586075,45.633808],
-  "geometry": {"coordinates":[-73.586075,45.633808],"type":"Point"}
+  "bbox": [
+    -73.586075,
+    45.633808,
+    -73.586075,
+    45.633808
+],
+  "geometry": {"coordinates":[-73.58607499999999,45.633808],"type":"Point"}
 }

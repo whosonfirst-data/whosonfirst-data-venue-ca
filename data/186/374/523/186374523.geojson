@@ -2,13 +2,14 @@
   "id": 186374523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.626404,43.692101,-79.626404,43.692101",
     "geom:latitude":43.692101,
     "geom:longitude":-79.626404,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6379 Airport Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85894971,
+        102555091,
+        85866433,
+        102191575,
         85633041,
+        101735835,
         85682057
     ],
     "wof:breaches":[],
@@ -40,18 +44,19 @@
     "wof:geomhash":"8325751979bce3f6d34b6dc57a61dcde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555091,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
-            "neighbourhood_id":85894971,
+            "locality_id":101735835,
+            "neighbourhood_id":85866433,
             "region_id":85682057,
             "venue_id":186374523
         }
     ],
     "wof:id":186374523,
-    "wof:lastmodified":1449051538,
+    "wof:lastmodified":1453936677,
     "wof:name":"Grand Trans Express",
-    "wof:parent_id":85894971,
+    "wof:parent_id":102555091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.626404,43.692101,-79.626404,43.692101],
-  "geometry": {"coordinates":[-79.626404,43.692101],"type":"Point"}
+  "bbox": [
+    -79.626404,
+    43.692101,
+    -79.626404,
+    43.692101
+],
+  "geometry": {"coordinates":[-79.62640399999999,43.692101],"type":"Point"}
 }

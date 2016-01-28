@@ -2,13 +2,14 @@
   "id": 202728743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.210312,48.420792,-71.210312,48.420792",
     "geom:latitude":48.420792,
     "geom:longitude":-71.210312,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3230 Rue Des Pensees",
     "sg:city":"Jonquiere",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785007,
+        102191575,
         85633041,
-        101737173
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"4fea2edf69b57e5866e6fd6e261bf6c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785007,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202728743
         }
     ],
     "wof:id":202728743,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1453937101,
     "wof:name":"Hebergement Plus",
     "wof:parent_id":85785007,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-71.210312,48.420792,-71.210312,48.420792],
+  "bbox": [
+    -71.210312,
+    48.420792,
+    -71.210312,
+    48.420792
+],
   "geometry": {"coordinates":[-71.210312,48.420792],"type":"Point"}
 }

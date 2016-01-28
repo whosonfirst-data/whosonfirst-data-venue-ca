@@ -2,13 +2,14 @@
   "id": 219628927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.328545,43.93531,-79.328545,43.93531",
     "geom:latitude":43.93531,
     "geom:longitude":-79.328545,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11574 Kennedy Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895009,
+        102191575,
         85633041,
-        85682057
+        101736037,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"fd4b294590e2d879b1a859f6b0a0f951",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736037,
+            "neighbourhood_id":85895009,
+            "region_id":85682057,
+            "venue_id":219628927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895009,
             "region_id":85682057,
             "venue_id":219628927
         }
     ],
     "wof:id":219628927,
-    "wof:lastmodified":1449073255,
+    "wof:lastmodified":1453937927,
     "wof:name":"Kennedy Fruit & Garden Inc",
     "wof:parent_id":85895009,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "produce"
     ]
 },
-  "bbox": [-79.328545,43.93531,-79.328545,43.93531],
-  "geometry": {"coordinates":[-79.328545,43.93531],"type":"Point"}
+  "bbox": [
+    -79.328545,
+    43.93531,
+    -79.328545,
+    43.93531
+],
+  "geometry": {"coordinates":[-79.32854500000001,43.93531],"type":"Point"}
 }

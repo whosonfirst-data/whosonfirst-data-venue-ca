@@ -2,13 +2,14 @@
   "id": 168950249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.781052,43.368649,-79.781052,43.368649",
     "geom:latitude":43.368649,
     "geom:longitude":-79.781052,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4190 Morris Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895545,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c166cd0ab31c82528e4a58dc87197021",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895545,
+            "region_id":85682057,
+            "venue_id":168950249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895545,
             "region_id":85682057,
             "venue_id":168950249
         }
     ],
     "wof:id":168950249,
-    "wof:lastmodified":1449028066,
+    "wof:lastmodified":1453928115,
     "wof:name":"Wellwood & Manes Spring Svc",
     "wof:parent_id":85895545,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.781052,43.368649,-79.781052,43.368649],
+  "bbox": [
+    -79.781052,
+    43.368649,
+    -79.781052,
+    43.368649
+],
   "geometry": {"coordinates":[-79.781052,43.368649],"type":"Point"}
 }

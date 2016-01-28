@@ -2,13 +2,14 @@
   "id": 185633467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.57309,45.498943,-73.57309,45.498943",
     "geom:latitude":45.498943,
     "geom:longitude":-73.57309,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1264 Rue Stanley",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866491,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +39,16 @@
     "wof:geomhash":"248d7cefde7b0c6bed31d38bfb88b98f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866491,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185633467
         }
     ],
     "wof:id":185633467,
-    "wof:lastmodified":1449008185,
+    "wof:lastmodified":1453927386,
     "wof:name":"Restaurant Santa Lucia",
     "wof:parent_id":85866491,
     "wof:placetype":"venue",
@@ -53,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.57309,45.498943,-73.57309,45.498943],
-  "geometry": {"coordinates":[-73.57309,45.498943],"type":"Point"}
+  "bbox": [
+    -73.57309,
+    45.498943,
+    -73.57309,
+    45.498943
+],
+  "geometry": {"coordinates":[-73.57308999999999,45.498943],"type":"Point"}
 }

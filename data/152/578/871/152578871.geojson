@@ -2,13 +2,14 @@
   "id": 152578871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.638451,43.63044,-79.638451,43.63044",
     "geom:latitude":43.63044,
     "geom:longitude":-79.638451,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"977 Pantera Dr #5",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895105,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"552071dd1bde7f2ef2e99d67581ab457",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895105,
+            "region_id":85682057,
+            "venue_id":152578871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895105,
             "region_id":85682057,
             "venue_id":152578871
         }
     ],
     "wof:id":152578871,
-    "wof:lastmodified":1449045455,
+    "wof:lastmodified":1453933714,
     "wof:name":"Burnside International Ltd",
     "wof:parent_id":85895105,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.638451,43.63044,-79.638451,43.63044],
+  "bbox": [
+    -79.638451,
+    43.63044,
+    -79.638451,
+    43.63044
+],
   "geometry": {"coordinates":[-79.638451,43.63044],"type":"Point"}
 }

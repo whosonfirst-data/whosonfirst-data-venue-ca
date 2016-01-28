@@ -2,13 +2,14 @@
   "id": 202531837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.414192,43.881516,-79.414192,43.881516",
     "geom:latitude":43.881516,
     "geom:longitude":-79.414192,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"122 Alpine Cres",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85894999,
+        102191575,
         85633041,
-        85682057
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"5bd741ed4abe23c3e75023a15e7d2de9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85894999,
+            "region_id":85682057,
+            "venue_id":202531837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85894999,
             "region_id":85682057,
             "venue_id":202531837
         }
     ],
     "wof:id":202531837,
-    "wof:lastmodified":1449060707,
+    "wof:lastmodified":1453937102,
     "wof:name":"Sussman, Avram H",
     "wof:parent_id":85894999,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "physician"
     ]
 },
-  "bbox": [-79.414192,43.881516,-79.414192,43.881516],
+  "bbox": [
+    -79.414192,
+    43.881516,
+    -79.414192,
+    43.881516
+],
   "geometry": {"coordinates":[-79.414192,43.881516],"type":"Point"}
 }

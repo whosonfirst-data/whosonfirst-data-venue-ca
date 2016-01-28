@@ -2,13 +2,14 @@
   "id": 168913779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.501862,43.454136,-80.501862,43.454136",
     "geom:latitude":43.454136,
     "geom:longitude":-80.501862,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"618 King St W",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874999,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"98b31122a7078251da506a023cbb1853",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874999,
+            "region_id":85682057,
+            "venue_id":168913779
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85874999,
             "region_id":85682057,
             "venue_id":168913779
         }
     ],
     "wof:id":168913779,
-    "wof:lastmodified":1449028064,
+    "wof:lastmodified":1453928111,
     "wof:name":"H L Staebler CO Ltd Insurance",
     "wof:parent_id":85874999,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.501862,43.454136,-80.501862,43.454136],
+  "bbox": [
+    -80.501862,
+    43.454136,
+    -80.501862,
+    43.454136
+],
   "geometry": {"coordinates":[-80.501862,43.454136],"type":"Point"}
 }

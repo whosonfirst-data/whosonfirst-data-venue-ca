@@ -2,13 +2,14 @@
   "id": 169738657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.579384,45.542343,-73.579384,45.542343",
     "geom:latitude":45.542343,
     "geom:longitude":-73.579384,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2333 Rue Masson",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874357,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"9d9fb6e8a1281dbe0428201d008e192f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874357,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169738657
         }
     ],
     "wof:id":169738657,
-    "wof:lastmodified":1449035095,
+    "wof:lastmodified":1453931335,
     "wof:name":"Remorquage Mobile Inc",
     "wof:parent_id":85874357,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-73.579384,45.542343,-73.579384,45.542343],
+  "bbox": [
+    -73.579384,
+    45.542343,
+    -73.579384,
+    45.542343
+],
   "geometry": {"coordinates":[-73.579384,45.542343],"type":"Point"}
 }

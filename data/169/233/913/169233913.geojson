@@ -2,13 +2,14 @@
   "id": 169233913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.771637,45.589436,-73.771637,45.589436",
     "geom:latitude":45.589436,
     "geom:longitude":-73.771637,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5800 Boul Des Rossignols",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85897573,
+        102191575,
         85633041,
-        85897573
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"8f8d5c7244dc29abd9bd873a0b8df92c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85897573,
+            "region_id":136251273,
             "venue_id":169233913
         }
     ],
     "wof:id":169233913,
-    "wof:lastmodified":1449036027,
+    "wof:lastmodified":1453932272,
     "wof:name":"Alignements Joly Inc",
     "wof:parent_id":85897573,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.771637,45.589436,-73.771637,45.589436],
+  "bbox": [
+    -73.771637,
+    45.589436,
+    -73.771637,
+    45.589436
+],
   "geometry": {"coordinates":[-73.771637,45.589436],"type":"Point"}
 }

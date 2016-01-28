@@ -2,13 +2,14 @@
   "id": 169868981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49057,43.456047,-80.49057,43.456047",
     "geom:latitude":43.456047,
     "geom:longitude":-80.49057,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"172 Victoria St N",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874983,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,24 @@
     "wof:geomhash":"e135c26cf333b0e0735265c72c4b247b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874983,
+            "region_id":85682057,
+            "venue_id":169868981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85874983,
             "region_id":85682057,
             "venue_id":169868981
         }
     ],
     "wof:id":169868981,
-    "wof:lastmodified":1449032841,
+    "wof:lastmodified":1453928978,
     "wof:name":"Delta Transmission",
     "wof:parent_id":85874983,
     "wof:placetype":"venue",
@@ -60,6 +72,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.49057,43.456047,-80.49057,43.456047],
-  "geometry": {"coordinates":[-80.49057,43.456047],"type":"Point"}
+  "bbox": [
+    -80.49057,
+    43.456047,
+    -80.49057,
+    43.456047
+],
+  "geometry": {"coordinates":[-80.49057000000001,43.456047],"type":"Point"}
 }

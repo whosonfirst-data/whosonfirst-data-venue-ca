@@ -2,13 +2,14 @@
   "id": 152175011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.815086,45.501411,-73.815086,45.501411",
     "geom:latitude":45.501411,
     "geom:longitude":-73.815086,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4700 Boul Des Sources",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784901,
+        102191575,
         85633041,
-        85784901
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"7c648e336a0c4c0005903200c30b9320",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784901,
+            "region_id":136251273,
             "venue_id":152175011
         }
     ],
     "wof:id":152175011,
-    "wof:lastmodified":1449047504,
+    "wof:lastmodified":1453935259,
     "wof:name":"Couche-Tard",
     "wof:parent_id":85784901,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.815086,45.501411,-73.815086,45.501411],
-  "geometry": {"coordinates":[-73.815086,45.501411],"type":"Point"}
+  "bbox": [
+    -73.815086,
+    45.501411,
+    -73.815086,
+    45.501411
+],
+  "geometry": {"coordinates":[-73.81508599999999,45.501411],"type":"Point"}
 }

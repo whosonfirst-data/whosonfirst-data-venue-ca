@@ -2,13 +2,14 @@
   "id": 185861901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.511559,45.499092,-73.511559,45.499092",
     "geom:latitude":45.499092,
     "geom:longitude":-73.511559,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Rue Waterman",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875761,
+        102191575,
         85633041,
-        101736449
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"1b480971c7b110ee071523accb3522fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185861901
         }
     ],
     "wof:id":185861901,
-    "wof:lastmodified":1449008188,
+    "wof:lastmodified":1453927387,
     "wof:name":"Electrosult Inc",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-73.511559,45.499092,-73.511559,45.499092],
-  "geometry": {"coordinates":[-73.511559,45.499092],"type":"Point"}
+  "bbox": [
+    -73.511559,
+    45.499092,
+    -73.511559,
+    45.499092
+],
+  "geometry": {"coordinates":[-73.51155900000001,45.499092],"type":"Point"}
 }

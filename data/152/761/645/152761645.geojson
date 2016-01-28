@@ -2,13 +2,14 @@
   "id": 152761645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682587,44.409695,-79.682587,44.409695",
     "geom:latitude":44.409695,
     "geom:longitude":-79.682587,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"50 Alliance Blvd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875269,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1392AP4G0wbVwUtEv2qLux_44.409695_-79.682587@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e7a6f422fa6c50fe523f5e49a0706bbf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875269,
+            "region_id":85682057,
+            "venue_id":152761645
+        }
+    ],
     "wof:id":152761645,
-    "wof:lastmodified":1449047817,
+    "wof:lastmodified":1453935513,
     "wof:name":"Aviation Medicals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.682587,44.409695,-79.682587,44.409695],
+  "bbox": [
+    -79.682587,
+    44.409695,
+    -79.682587,
+    44.409695
+],
   "geometry": {"coordinates":[-79.682587,44.409695],"type":"Point"}
 }

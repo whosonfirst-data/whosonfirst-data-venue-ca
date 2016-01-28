@@ -2,13 +2,14 @@
   "id": 153053195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.806801,45.578938,-73.806801,45.578938",
     "geom:latitude":45.578938,
     "geom:longitude":-73.806801,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3381 Boul Dagenais O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85864423,
+        102191575,
         85633041,
-        85864423
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"b0378ad8110d6bc1c22a5517e50997b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85864423,
+            "region_id":136251273,
             "venue_id":153053195
         }
     ],
     "wof:id":153053195,
-    "wof:lastmodified":1449040421,
+    "wof:lastmodified":1453932376,
     "wof:name":"Societe Boubbhique Laotienne",
     "wof:parent_id":85864423,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.806801,45.578938,-73.806801,45.578938],
-  "geometry": {"coordinates":[-73.806801,45.578938],"type":"Point"}
+  "bbox": [
+    -73.806801,
+    45.578938,
+    -73.806801,
+    45.578938
+],
+  "geometry": {"coordinates":[-73.80680099999999,45.578938],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169182759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95517,43.659653,-79.95517,43.659653",
     "geom:latitude":43.659653,
     "geom:longitude":-79.95517,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"13417 22nd Side Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895531,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"87a0ca7c8df3e160b08ee1e0a46d61d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895531,
+            "region_id":85682057,
+            "venue_id":169182759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895531,
             "region_id":85682057,
             "venue_id":169182759
         }
     ],
     "wof:id":169182759,
-    "wof:lastmodified":1449034777,
+    "wof:lastmodified":1453931003,
     "wof:name":"Campaign Dog Academy Inc",
     "wof:parent_id":85895531,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.95517,43.659653,-79.95517,43.659653],
+  "bbox": [
+    -79.95517,
+    43.659653,
+    -79.95517,
+    43.659653
+],
   "geometry": {"coordinates":[-79.95517,43.659653],"type":"Point"}
 }

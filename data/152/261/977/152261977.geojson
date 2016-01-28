@@ -2,13 +2,14 @@
   "id": 152261977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.217628,43.135845,-79.217628,43.135845",
     "geom:latitude":43.135845,
     "geom:longitude":-79.217628,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"289 Glendale Ave",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875037,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a39a78ff1e19afe6dd31b26ec3ff727b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875037,
+            "region_id":85682057,
+            "venue_id":152261977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736127,
             "neighbourhood_id":85875037,
             "region_id":85682057,
             "venue_id":152261977
         }
     ],
     "wof:id":152261977,
-    "wof:lastmodified":1449044373,
+    "wof:lastmodified":1453932881,
     "wof:name":"Metrocell Communications Inc",
     "wof:parent_id":85875037,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.217628,43.135845,-79.217628,43.135845],
+  "bbox": [
+    -79.217628,
+    43.135845,
+    -79.217628,
+    43.135845
+],
   "geometry": {"coordinates":[-79.217628,43.135845],"type":"Point"}
 }

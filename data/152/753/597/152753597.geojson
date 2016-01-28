@@ -2,13 +2,14 @@
   "id": 152753597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.546257,43.768318,-79.546257,43.768318",
     "geom:latitude":43.768318,
     "geom:longitude":-79.546257,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4278 Weston Rd",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"d5ded7f5581f7d410d016c5b3ab29e15",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152753597
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152753597
         }
     ],
     "wof:id":152753597,
-    "wof:lastmodified":1449044852,
+    "wof:lastmodified":1453933251,
     "wof:name":"Uaf Photo Lab",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.546257,43.768318,-79.546257,43.768318],
+  "bbox": [
+    -79.546257,
+    43.768318,
+    -79.546257,
+    43.768318
+],
   "geometry": {"coordinates":[-79.546257,43.768318],"type":"Point"}
 }

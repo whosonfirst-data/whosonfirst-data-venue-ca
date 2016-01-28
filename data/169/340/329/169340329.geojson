@@ -2,13 +2,14 @@
   "id": 169340329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.883003,45.577801,-73.883003,45.577801",
     "geom:latitude":45.577801,
     "geom:longitude":-73.883003,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"261 Rue Hector-Lanthier",
     "sg:city":"Saint-Eustache",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875055,
+        102191575,
         85633041,
-        85875055
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"18c97d52ca3b691f20ac6a71bcdca78c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875055,
+            "region_id":136251273,
             "venue_id":169340329
         }
     ],
     "wof:id":169340329,
-    "wof:lastmodified":1449035209,
+    "wof:lastmodified":1453931410,
     "wof:name":"Langevin Suzuki Automobiles",
     "wof:parent_id":85875055,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.883003,45.577801,-73.883003,45.577801],
+  "bbox": [
+    -73.883003,
+    45.577801,
+    -73.883003,
+    45.577801
+],
   "geometry": {"coordinates":[-73.883003,45.577801],"type":"Point"}
 }

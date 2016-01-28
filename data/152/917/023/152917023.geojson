@@ -2,13 +2,14 @@
   "id": 152917023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.809158,45.65596,-73.809158,45.65596",
     "geom:latitude":45.65596,
     "geom:longitude":-73.809158,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Rue Marcel-Giguere",
     "sg:city":"Blainville",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85897643,
+        102191575,
         85633041,
-        85897643
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"b0af7230fde28024d2fbf87f0f1f052a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85897643,
+            "region_id":136251273,
             "venue_id":152917023
         }
     ],
     "wof:id":152917023,
-    "wof:lastmodified":1449048311,
+    "wof:lastmodified":1453935876,
     "wof:name":"Service Informatique Paradis",
     "wof:parent_id":85897643,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.809158,45.65596,-73.809158,45.65596],
+  "bbox": [
+    -73.809158,
+    45.65596,
+    -73.809158,
+    45.65596
+],
   "geometry": {"coordinates":[-73.809158,45.65596],"type":"Point"}
 }

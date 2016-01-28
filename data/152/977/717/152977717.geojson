@@ -2,13 +2,14 @@
   "id": 152977717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.235443,46.806942,-71.235443,46.806942",
     "geom:latitude":46.806942,
     "geom:longitude":-71.235443,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"549 Rue Saint-Germain",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85874707,
+        102191575,
         85633041,
-        85874707
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"943638fa1662a0407d8dc7cd39029541",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85874707,
+            "region_id":136251273,
             "venue_id":152977717
         }
     ],
     "wof:id":152977717,
-    "wof:lastmodified":1449048998,
+    "wof:lastmodified":1453936434,
     "wof:name":"Epicerie L Hebert",
     "wof:parent_id":85874707,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.235443,46.806942,-71.235443,46.806942],
+  "bbox": [
+    -71.235443,
+    46.806942,
+    -71.235443,
+    46.806942
+],
   "geometry": {"coordinates":[-71.235443,46.806942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168871027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.388641,42.985687,-82.388641,42.985687",
     "geom:latitude":42.985687,
     "geom:longitude":-82.388641,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"816 Colborne Rd",
     "sg:city":"Sarnia",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875567,
-        85682057
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"2760a23949ce6a0c521392ca0c2c9be3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740719,
+            "neighbourhood_id":85875567,
+            "region_id":85682057,
+            "venue_id":168871027
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736007,
             "neighbourhood_id":85875567,
             "region_id":85682057,
             "venue_id":168871027
         }
     ],
     "wof:id":168871027,
-    "wof:lastmodified":1449027999,
+    "wof:lastmodified":1453928044,
     "wof:name":"Franco's Hair Studio",
     "wof:parent_id":85875567,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.388641,42.985687,-82.388641,42.985687],
-  "geometry": {"coordinates":[-82.388641,42.985687],"type":"Point"}
+  "bbox": [
+    -82.388641,
+    42.985687,
+    -82.388641,
+    42.985687
+],
+  "geometry": {"coordinates":[-82.38864100000001,42.985687],"type":"Point"}
 }

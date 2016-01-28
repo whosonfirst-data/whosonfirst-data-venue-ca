@@ -2,13 +2,14 @@
   "id": 169355217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.649284,45.573219,-73.649284,45.573219",
     "geom:latitude":45.573219,
     "geom:longitude":-73.649284,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2260 Rue Fleury E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897501,
+        102191575,
         85633041,
-        85897501
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"9e355d0ed5ec5d189d3dcf4db2c5a654",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897501,
+            "region_id":136251273,
             "venue_id":169355217
         }
     ],
     "wof:id":169355217,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1453929734,
     "wof:name":"Restaurant Au Petit Coq",
     "wof:parent_id":85897501,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.649284,45.573219,-73.649284,45.573219],
-  "geometry": {"coordinates":[-73.649284,45.573219],"type":"Point"}
+  "bbox": [
+    -73.649284,
+    45.573219,
+    -73.649284,
+    45.573219
+],
+  "geometry": {"coordinates":[-73.64928399999999,45.573219],"type":"Point"}
 }

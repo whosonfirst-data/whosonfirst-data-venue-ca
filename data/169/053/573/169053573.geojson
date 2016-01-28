@@ -2,13 +2,14 @@
   "id": 169053573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58905,43.591862,-79.58905,43.591862",
     "geom:latitude":43.591862,
     "geom:longitude":-79.58905,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2300 Haines Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"810c64924b3951ce6ca9b7a7e33e72b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":169053573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":169053573
         }
     ],
     "wof:id":169053573,
-    "wof:lastmodified":1449033315,
+    "wof:lastmodified":1453929412,
     "wof:name":"Colio Estate Wines of Canada",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.58905,43.591862,-79.58905,43.591862],
+  "bbox": [
+    -79.58905,
+    43.591862,
+    -79.58905,
+    43.591862
+],
   "geometry": {"coordinates":[-79.58905,43.591862],"type":"Point"}
 }

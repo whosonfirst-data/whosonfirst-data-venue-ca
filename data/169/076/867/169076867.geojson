@@ -2,13 +2,14 @@
   "id": 169076867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.942139,43.904518,-78.942139,43.904518",
     "geom:latitude":43.904518,
     "geom:longitude":-78.942139,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"100 Hemingford Pl",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875161,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"432f4a9a44aa50158dfd0bfcb7d2ba3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875161,
+            "region_id":85682057,
+            "venue_id":169076867
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875161,
             "region_id":85682057,
             "venue_id":169076867
         }
     ],
     "wof:id":169076867,
-    "wof:lastmodified":1449035251,
+    "wof:lastmodified":1453931453,
     "wof:name":"Artistic Masonry Builders Inc",
     "wof:parent_id":85875161,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.942139,43.904518,-78.942139,43.904518],
+  "bbox": [
+    -78.942139,
+    43.904518,
+    -78.942139,
+    43.904518
+],
   "geometry": {"coordinates":[-78.942139,43.904518],"type":"Point"}
 }

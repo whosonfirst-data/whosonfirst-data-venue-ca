@@ -2,13 +2,14 @@
   "id": 169349565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.50975,45.536499,-73.50975,45.536499",
     "geom:latitude":45.536499,
     "geom:longitude":-73.50975,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"205 Rue Saint-Jean",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85875717,
+        102191575,
         85633041,
-        85875717
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"919d216690ceec39bd79736fe34d4991",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85875717,
+            "region_id":136251273,
             "venue_id":169349565
         }
     ],
     "wof:id":169349565,
-    "wof:lastmodified":1449033943,
+    "wof:lastmodified":1453930106,
     "wof:name":"Restaurant L'Oliveto",
     "wof:parent_id":85875717,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.50975,45.536499,-73.50975,45.536499],
+  "bbox": [
+    -73.50975,
+    45.536499,
+    -73.50975,
+    45.536499
+],
   "geometry": {"coordinates":[-73.50975,45.536499],"type":"Point"}
 }

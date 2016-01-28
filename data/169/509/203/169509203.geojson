@@ -2,13 +2,14 @@
   "id": 169509203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.471664,43.468811,-80.471664,43.468811",
     "geom:latitude":43.468811,
     "geom:longitude":-80.471664,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1065 Guelph St",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875001,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ec31ef186f9e6441c8081548e8463381",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875001,
+            "region_id":85682057,
+            "venue_id":169509203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875001,
             "region_id":85682057,
             "venue_id":169509203
         }
     ],
     "wof:id":169509203,
-    "wof:lastmodified":1449032825,
+    "wof:lastmodified":1453928961,
     "wof:name":"Fritz Electric Inc",
     "wof:parent_id":85875001,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.471664,43.468811,-80.471664,43.468811],
+  "bbox": [
+    -80.471664,
+    43.468811,
+    -80.471664,
+    43.468811
+],
   "geometry": {"coordinates":[-80.471664,43.468811],"type":"Point"}
 }

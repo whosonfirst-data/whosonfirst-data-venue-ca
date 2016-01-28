@@ -2,13 +2,14 @@
   "id": 152481533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.500839,45.513081,-73.500839,45.513081",
     "geom:latitude":45.513081,
     "geom:longitude":-73.500839,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1255 Boul Taschereau",
     "sg:city":"Longueuil",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"61d82cbe52113d5bce193c812cf226ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":152481533
         }
     ],
     "wof:id":152481533,
-    "wof:lastmodified":1449048325,
+    "wof:lastmodified":1453935892,
     "wof:name":"Groupe Nic Le Blanc",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.500839,45.513081,-73.500839,45.513081],
+  "bbox": [
+    -73.500839,
+    45.513081,
+    -73.500839,
+    45.513081
+],
   "geometry": {"coordinates":[-73.500839,45.513081],"type":"Point"}
 }

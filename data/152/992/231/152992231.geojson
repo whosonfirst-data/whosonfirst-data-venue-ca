@@ -2,13 +2,14 @@
   "id": 152992231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.591286,46.360413,-72.591286,46.360413",
     "geom:latitude":46.360413,
     "geom:longitude":-72.591286,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4800 Boul Des Forges",
     "sg:city":"Trois-Rivieres",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874105,
+        102191575,
         85633041,
-        85874105
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"dad15c418488bb031f9ce51ab743da71",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874105,
+            "region_id":136251273,
             "venue_id":152992231
         }
     ],
     "wof:id":152992231,
-    "wof:lastmodified":1449046485,
+    "wof:lastmodified":1453934492,
     "wof:name":"Restaurant LA Belle Province",
     "wof:parent_id":85874105,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.591286,46.360413,-72.591286,46.360413],
+  "bbox": [
+    -72.591286,
+    46.360413,
+    -72.591286,
+    46.360413
+],
   "geometry": {"coordinates":[-72.591286,46.360413],"type":"Point"}
 }

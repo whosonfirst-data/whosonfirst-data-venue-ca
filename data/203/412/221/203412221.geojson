@@ -2,13 +2,14 @@
   "id": 203412221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.501366,43.418964,-80.501366,43.418964",
     "geom:latitude":43.418964,
     "geom:longitude":-80.501366,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"720 Westmount Rd E # 12",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864565,
+        102191575,
         85633041,
-        85682057
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"a61f8e746479c1c3c80a26de99f9cf64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85864565,
+            "region_id":85682057,
+            "venue_id":203412221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85864565,
             "region_id":85682057,
             "venue_id":203412221
         }
     ],
     "wof:id":203412221,
-    "wof:lastmodified":1449025320,
+    "wof:lastmodified":1453927482,
     "wof:name":"Pizza Proscuitto",
     "wof:parent_id":85864565,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.501366,43.418964,-80.501366,43.418964],
+  "bbox": [
+    -80.501366,
+    43.418964,
+    -80.501366,
+    43.418964
+],
   "geometry": {"coordinates":[-80.501366,43.418964],"type":"Point"}
 }

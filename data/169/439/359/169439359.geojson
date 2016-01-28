@@ -2,13 +2,14 @@
   "id": 169439359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.60775,45.529278,-73.60775,45.529278",
     "geom:latitude":45.529278,
     "geom:longitude":-73.60775,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6327 Rue Clark",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874369,
+        102191575,
         85633041,
-        85874369
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"972bf44855a489189a6b6247a6f451b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
             "venue_id":169439359
         }
     ],
     "wof:id":169439359,
-    "wof:lastmodified":1449033596,
+    "wof:lastmodified":1453929715,
     "wof:name":"Varina Aluminium",
     "wof:parent_id":85874369,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.60775,45.529278,-73.60775,45.529278],
+  "bbox": [
+    -73.60775,
+    45.529278,
+    -73.60775,
+    45.529278
+],
   "geometry": {"coordinates":[-73.60775,45.529278],"type":"Point"}
 }

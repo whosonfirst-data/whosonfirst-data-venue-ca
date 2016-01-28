@@ -2,13 +2,14 @@
   "id": 152156227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.240265,43.016285,-81.240265,43.016285",
     "geom:latitude":43.016285,
     "geom:longitude":-81.240265,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"335 Belfield St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5Y 2K3",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02FjwHtfpN4PizLq4dhRS8_43.016285_-81.240265@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b83f41791e5ff2fec7b7d78e1ba93740",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":152156227
+        }
+    ],
     "wof:id":152156227,
-    "wof:lastmodified":1449045215,
+    "wof:lastmodified":1453933523,
     "wof:name":"Northbrae School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.240265,43.016285,-81.240265,43.016285],
-  "geometry": {"coordinates":[-81.240265,43.016285],"type":"Point"}
+  "bbox": [
+    -81.240265,
+    43.016285,
+    -81.240265,
+    43.016285
+],
+  "geometry": {"coordinates":[-81.24026499999999,43.016285],"type":"Point"}
 }

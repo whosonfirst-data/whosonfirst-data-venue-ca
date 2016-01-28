@@ -2,13 +2,14 @@
   "id": 169083249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.303551,43.837353,-79.303551,43.837353",
     "geom:latitude":43.837353,
     "geom:longitude":-79.303551,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7522 Kennedy Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895359,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"d22829761ea52187555fee5e3e7e9940",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895359,
+            "region_id":85682057,
+            "venue_id":169083249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895359,
             "region_id":85682057,
             "venue_id":169083249
         }
     ],
     "wof:id":169083249,
-    "wof:lastmodified":1449034243,
+    "wof:lastmodified":1453930427,
     "wof:name":"Milliken Mills High School",
     "wof:parent_id":85895359,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.303551,43.837353,-79.303551,43.837353],
+  "bbox": [
+    -79.303551,
+    43.837353,
+    -79.303551,
+    43.837353
+],
   "geometry": {"coordinates":[-79.303551,43.837353],"type":"Point"}
 }

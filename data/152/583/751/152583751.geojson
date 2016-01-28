@@ -2,13 +2,14 @@
   "id": 152583751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.29496,43.839531,-79.29496,43.839531",
     "geom:latitude":43.839531,
     "geom:longitude":-79.29496,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"52 Eden Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895359,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a0bf616d83261169172ec8f253ee3349",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895359,
+            "region_id":85682057,
+            "venue_id":152583751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895359,
             "region_id":85682057,
             "venue_id":152583751
         }
     ],
     "wof:id":152583751,
-    "wof:lastmodified":1449047942,
+    "wof:lastmodified":1453935607,
     "wof:name":"Power Pack Paving Ltd",
     "wof:parent_id":85895359,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.29496,43.839531,-79.29496,43.839531],
+  "bbox": [
+    -79.29496,
+    43.839531,
+    -79.29496,
+    43.839531
+],
   "geometry": {"coordinates":[-79.29496,43.839531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169378325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.743805,43.369396,-79.743805,43.369396",
     "geom:latitude":43.369396,
     "geom:longitude":-79.743805,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5218 Meadowhill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895641,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"4e831844c02e91bac4a43ea86bd5da22",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895641,
+            "region_id":85682057,
+            "venue_id":169378325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
             "neighbourhood_id":85895641,
             "region_id":85682057,
             "venue_id":169378325
         }
     ],
     "wof:id":169378325,
-    "wof:lastmodified":1449034918,
+    "wof:lastmodified":1453931142,
     "wof:name":"Pine Ridge Art Inc",
     "wof:parent_id":85895641,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.743805,43.369396,-79.743805,43.369396],
-  "geometry": {"coordinates":[-79.743805,43.369396],"type":"Point"}
+  "bbox": [
+    -79.743805,
+    43.369396,
+    -79.743805,
+    43.369396
+],
+  "geometry": {"coordinates":[-79.74380499999999,43.369396],"type":"Point"}
 }

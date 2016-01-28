@@ -2,13 +2,14 @@
   "id": 219609555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.608055,45.449535,-73.608055,45.449535",
     "geom:latitude":45.449535,
     "geom:longitude":-73.608055,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6767 Boul Newman",
     "sg:city":"Lasalle",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897535,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"34bd2926d25d9d6caebde1b9bc941947",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897535,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219609555
         }
     ],
     "wof:id":219609555,
-    "wof:lastmodified":1449071700,
+    "wof:lastmodified":1453937720,
     "wof:name":"Loblaws",
     "wof:parent_id":85897535,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.608055,45.449535,-73.608055,45.449535],
-  "geometry": {"coordinates":[-73.608055,45.449535],"type":"Point"}
+  "bbox": [
+    -73.608055,
+    45.449535,
+    -73.608055,
+    45.449535
+],
+  "geometry": {"coordinates":[-73.60805499999999,45.449535],"type":"Point"}
 }

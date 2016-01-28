@@ -2,13 +2,14 @@
   "id": 152620861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.039825,48.445194,-71.039825,48.445194",
     "geom:latitude":48.445194,
     "geom:longitude":-71.039825,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"161 Rue Rene-Bergeron",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"c1e6468a55e768d5fc8b7773c13379ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152620861
         }
     ],
     "wof:id":152620861,
-    "wof:lastmodified":1449048526,
+    "wof:lastmodified":1453936049,
     "wof:name":"Gouttieres Chic Enr",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.039825,48.445194,-71.039825,48.445194],
-  "geometry": {"coordinates":[-71.039825,48.445194],"type":"Point"}
+  "bbox": [
+    -71.039825,
+    48.445194,
+    -71.039825,
+    48.445194
+],
+  "geometry": {"coordinates":[-71.03982499999999,48.445194],"type":"Point"}
 }

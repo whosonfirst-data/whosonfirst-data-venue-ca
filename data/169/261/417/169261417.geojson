@@ -2,13 +2,14 @@
   "id": 169261417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.855621,45.446846,-73.855621,45.446846",
     "geom:latitude":45.446846,
     "geom:longitude":-73.855621,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Kirkland",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736461,
+        85864411,
+        102191575,
         85633041,
-        85864411
+        101736461,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"b67179f8860419c9e0ce87343d373980",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736461,
             "neighbourhood_id":85864411,
+            "region_id":136251273,
             "venue_id":169261417
         }
     ],
     "wof:id":169261417,
-    "wof:lastmodified":1449032736,
+    "wof:lastmodified":1453928850,
     "wof:name":"Menage Nova Maid",
     "wof:parent_id":85864411,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.855621,45.446846,-73.855621,45.446846],
+  "bbox": [
+    -73.855621,
+    45.446846,
+    -73.855621,
+    45.446846
+],
   "geometry": {"coordinates":[-73.855621,45.446846],"type":"Point"}
 }

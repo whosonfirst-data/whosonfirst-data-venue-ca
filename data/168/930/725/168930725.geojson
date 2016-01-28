@@ -2,13 +2,14 @@
   "id": 168930725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.220551,43.152004,-79.220551,43.152004",
     "geom:latitude":43.152004,
     "geom:longitude":-79.220551,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"46 Turner Cres",
     "sg:city":"St Catharines",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875047,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a97e69c1fbd1e7b16274bf4b121273d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875047,
+            "region_id":85682057,
+            "venue_id":168930725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875047,
             "region_id":85682057,
             "venue_id":168930725
         }
     ],
     "wof:id":168930725,
-    "wof:lastmodified":1449027997,
+    "wof:lastmodified":1453928038,
     "wof:name":"Factory Outlet Flea Market Clb",
     "wof:parent_id":85875047,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.220551,43.152004,-79.220551,43.152004],
+  "bbox": [
+    -79.220551,
+    43.152004,
+    -79.220551,
+    43.152004
+],
   "geometry": {"coordinates":[-79.220551,43.152004],"type":"Point"}
 }

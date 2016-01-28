@@ -2,13 +2,14 @@
   "id": 169238377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.295876,43.915813,-79.295876,43.915813",
     "geom:latitude":43.915813,
     "geom:longitude":-79.295876,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10537 Mccowan Rd",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895431,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"f58d7945afa54ba6fce5974058a3abac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895431,
+            "region_id":85682057,
+            "venue_id":169238377
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895431,
             "region_id":85682057,
             "venue_id":169238377
         }
     ],
     "wof:id":169238377,
-    "wof:lastmodified":1449033928,
+    "wof:lastmodified":1453930081,
     "wof:name":"Sam Rabito Construction Ltd",
     "wof:parent_id":85895431,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.295876,43.915813,-79.295876,43.915813],
-  "geometry": {"coordinates":[-79.295876,43.915813],"type":"Point"}
+  "bbox": [
+    -79.295876,
+    43.915813,
+    -79.295876,
+    43.915813
+],
+  "geometry": {"coordinates":[-79.29587600000001,43.915813],"type":"Point"}
 }

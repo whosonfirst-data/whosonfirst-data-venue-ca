@@ -2,13 +2,14 @@
   "id": 153089063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.156891,49.192108,-123.156891,49.192108",
     "geom:latitude":49.192108,
     "geom:longitude":-123.156891,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Richmond",
     "sg:classifiers":[
         {
@@ -23,9 +24,11 @@
     "sg:province":"BC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
+        102555307,
+        85894871,
+        102191575,
         85633041,
-        85865017,
+        101741081,
         85682117
     ],
     "wof:breaches":[],
@@ -36,22 +39,29 @@
     "wof:geomhash":"784766582a6f185451c95fddaf5ca3f4",
     "wof:hierarchy":[
         {
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741075,
-            "neighbourhood_id":85865017,
+            "locality_id":101741081,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":153089063
         }
     ],
     "wof:id":153089063,
-    "wof:lastmodified":1449040422,
+    "wof:lastmodified":1453932379,
     "wof:name":"Air Canada Pilots Assn",
-    "wof:parent_id":85865017,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.156891,49.192108,-123.156891,49.192108],
+  "bbox": [
+    -123.156891,
+    49.192108,
+    -123.156891,
+    49.192108
+],
   "geometry": {"coordinates":[-123.156891,49.192108],"type":"Point"}
 }

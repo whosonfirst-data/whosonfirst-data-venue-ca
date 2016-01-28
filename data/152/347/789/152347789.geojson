@@ -2,13 +2,14 @@
   "id": 152347789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.259697,46.820122,-71.259697,46.820122",
     "geom:latitude":46.820122,
     "geom:longitude":-71.259697,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Vanier",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85864413,
+        102191575,
         85633041,
-        85864413
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"80676f6d7524b4966681ab530f1f480d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85864413,
+            "region_id":136251273,
             "venue_id":152347789
         }
     ],
     "wof:id":152347789,
-    "wof:lastmodified":1449046543,
+    "wof:lastmodified":1453934533,
     "wof:name":"Immeubles Laurentiens",
     "wof:parent_id":85864413,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.259697,46.820122,-71.259697,46.820122],
+  "bbox": [
+    -71.259697,
+    46.820122,
+    -71.259697,
+    46.820122
+],
   "geometry": {"coordinates":[-71.259697,46.820122],"type":"Point"}
 }

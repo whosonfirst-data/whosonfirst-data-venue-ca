@@ -2,13 +2,14 @@
   "id": 169047149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.747337,45.447552,-73.747337,45.447552",
     "geom:latitude":45.447552,
     "geom:longitude":-73.747337,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1010 Ch Herron",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736475,
+        102554351,
+        85784727,
+        102191575,
         85633041,
-        85784727
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,21 +40,29 @@
     "wof:geomhash":"38d20e8d5f02519d1ad26833ae825059",
     "wof:hierarchy":[
         {
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
             "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":169047149
         }
     ],
     "wof:id":169047149,
-    "wof:lastmodified":1449034810,
+    "wof:lastmodified":1453931043,
     "wof:name":"Beausejour Appartements",
-    "wof:parent_id":85784727,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.747337,45.447552,-73.747337,45.447552],
+  "bbox": [
+    -73.747337,
+    45.447552,
+    -73.747337,
+    45.447552
+],
   "geometry": {"coordinates":[-73.747337,45.447552],"type":"Point"}
 }

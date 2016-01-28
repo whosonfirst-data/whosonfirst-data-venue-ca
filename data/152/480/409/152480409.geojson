@@ -2,13 +2,14 @@
   "id": 152480409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.223984,43.004074,-81.223984,43.004074",
     "geom:latitude":43.004074,
     "geom:longitude":-81.223984,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"978 Oxford St E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "hand"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nbsUhbCGp1n5kR6tUVMBo_43.004074_-81.223984@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"3eaa7c7a8f7d04aa5f997b11f00519ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":152480409
+        }
+    ],
     "wof:id":152480409,
-    "wof:lastmodified":1449045813,
+    "wof:lastmodified":1453933981,
     "wof:name":"B Back Pawnbrokers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.223984,43.004074,-81.223984,43.004074],
+  "bbox": [
+    -81.223984,
+    43.004074,
+    -81.223984,
+    43.004074
+],
   "geometry": {"coordinates":[-81.223984,43.004074],"type":"Point"}
 }

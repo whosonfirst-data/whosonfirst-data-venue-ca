@@ -2,13 +2,14 @@
   "id": 169355993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.583092,45.529392,-73.583092,45.529392",
     "geom:latitude":45.529392,
     "geom:longitude":-73.583092,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1059 Rue Gilford",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"eaf9855c1e7117ab27f0ebedac867c8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":169355993
         }
     ],
     "wof:id":169355993,
-    "wof:lastmodified":1449033605,
+    "wof:lastmodified":1453929732,
     "wof:name":"Restaurant LA Raclette",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.583092,45.529392,-73.583092,45.529392],
-  "geometry": {"coordinates":[-73.583092,45.529392],"type":"Point"}
+  "bbox": [
+    -73.583092,
+    45.529392,
+    -73.583092,
+    45.529392
+],
+  "geometry": {"coordinates":[-73.58309199999999,45.529392],"type":"Point"}
 }

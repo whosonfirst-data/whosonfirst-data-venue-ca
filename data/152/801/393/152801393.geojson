@@ -2,13 +2,14 @@
   "id": 152801393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.222923,49.899387,-97.222923,49.899387",
     "geom:latitude":49.899387,
     "geom:longitude":-97.222923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Winnipeg",
     "sg:classifiers":[
         {
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101734959,
+        102554591,
+        85874725,
+        102191575,
         85633041,
-        85866619,
+        101734959,
         85682085
     ],
     "wof:breaches":[],
@@ -41,22 +44,29 @@
     "wof:geomhash":"7b5031c1dbcfbc307276276c8e2e6333",
     "wof:hierarchy":[
         {
+            "campus_id":102554591,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101734959,
-            "neighbourhood_id":85866619,
+            "neighbourhood_id":85874725,
             "region_id":85682085,
             "venue_id":152801393
         }
     ],
     "wof:id":152801393,
-    "wof:lastmodified":1449048104,
+    "wof:lastmodified":1453935723,
     "wof:name":"Kelowna Flight Craft Air Chrtr",
-    "wof:parent_id":85866619,
+    "wof:parent_id":102554591,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.222923,49.899387,-97.222923,49.899387],
-  "geometry": {"coordinates":[-97.222923,49.899387],"type":"Point"}
+  "bbox": [
+    -97.222923,
+    49.899387,
+    -97.222923,
+    49.899387
+],
+  "geometry": {"coordinates":[-97.22292299999999,49.899387],"type":"Point"}
 }

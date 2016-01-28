@@ -2,13 +2,14 @@
   "id": 202457769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681885,43.443676,-79.681885,43.443676",
     "geom:latitude":43.443676,
     "geom:longitude":-79.681885,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"340 Kerr St",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895051,
+        102191575,
         85633041,
-        85682057
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,24 @@
     "wof:geomhash":"851fa1050ea1e2536480bf115e1113e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895051,
+            "region_id":85682057,
+            "venue_id":202457769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895051,
             "region_id":85682057,
             "venue_id":202457769
         }
     ],
     "wof:id":202457769,
-    "wof:lastmodified":1449061790,
+    "wof:lastmodified":1453937328,
     "wof:name":"Leon Pharmacy",
     "wof:parent_id":85895051,
     "wof:placetype":"venue",
@@ -53,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.681885,43.443676,-79.681885,43.443676],
-  "geometry": {"coordinates":[-79.681885,43.443676],"type":"Point"}
+  "bbox": [
+    -79.681885,
+    43.443676,
+    -79.681885,
+    43.443676
+],
+  "geometry": {"coordinates":[-79.68188499999999,43.443676],"type":"Point"}
 }

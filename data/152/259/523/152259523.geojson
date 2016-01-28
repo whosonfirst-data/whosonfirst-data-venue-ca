@@ -2,13 +2,14 @@
   "id": 152259523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.618652,43.582115,-79.618652,43.582115",
     "geom:latitude":43.582115,
     "geom:longitude":-79.618652,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3085 Hurontario St # 22",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895411,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"53e2e971e181f5dc62cf40efd2e0c769",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895411,
+            "region_id":85682057,
+            "venue_id":152259523
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895411,
             "region_id":85682057,
             "venue_id":152259523
         }
     ],
     "wof:id":152259523,
-    "wof:lastmodified":1449045349,
+    "wof:lastmodified":1453933628,
     "wof:name":"Happy Cake House",
     "wof:parent_id":85895411,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.618652,43.582115,-79.618652,43.582115],
+  "bbox": [
+    -79.618652,
+    43.582115,
+    -79.618652,
+    43.582115
+],
   "geometry": {"coordinates":[-79.618652,43.582115],"type":"Point"}
 }

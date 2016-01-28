@@ -2,13 +2,14 @@
   "id": 152742889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.556923,46.378395,-72.556923,46.378395",
     "geom:latitude":46.378395,
     "geom:longitude":-72.556923,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"335 Rue Chapleau",
     "sg:city":"Cap-DE-LA-Madeleine",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85874111,
+        102191575,
         85633041,
-        85874111
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"600de30446194dd06b50cfd7e45bc639",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85874111,
+            "region_id":136251273,
             "venue_id":152742889
         }
     ],
     "wof:id":152742889,
-    "wof:lastmodified":1449044605,
+    "wof:lastmodified":1453933056,
     "wof:name":"Domaine Des Ormeaux",
     "wof:parent_id":85874111,
     "wof:placetype":"venue",
@@ -58,6 +63,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.556923,46.378395,-72.556923,46.378395],
+  "bbox": [
+    -72.556923,
+    46.378395,
+    -72.556923,
+    46.378395
+],
   "geometry": {"coordinates":[-72.556923,46.378395],"type":"Point"}
 }

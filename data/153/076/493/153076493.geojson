@@ -2,13 +2,14 @@
   "id": 153076493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.563477,43.766964,-79.563477,43.766964",
     "geom:latitude":43.766964,
     "geom:longitude":-79.563477,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4370 Steeles Ave W #8",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"04cdb81f96d4830250f7e9577af13b7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":153076493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":153076493
         }
     ],
     "wof:id":153076493,
-    "wof:lastmodified":1449040708,
+    "wof:lastmodified":1453932631,
     "wof:name":"Automagic",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.563477,43.766964,-79.563477,43.766964],
-  "geometry": {"coordinates":[-79.563477,43.766964],"type":"Point"}
+  "bbox": [
+    -79.563477,
+    43.766964,
+    -79.563477,
+    43.766964
+],
+  "geometry": {"coordinates":[-79.56347700000001,43.766964],"type":"Point"}
 }

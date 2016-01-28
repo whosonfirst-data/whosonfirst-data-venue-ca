@@ -2,13 +2,14 @@
   "id": 152362717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.137077,49.327438,-123.137077,49.327438",
     "geom:latitude":49.327438,
     "geom:longitude":-123.137077,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"707 Park Royal N",
     "sg:city":"West Vancouver",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"BC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865021,
-        85682117
+        102191575,
+        85633041,
+        101741069,
+        85682117,
+        101744669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"f51632b082db9bb1e1fe95899119808d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":152362717
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":152362717
         }
     ],
     "wof:id":152362717,
-    "wof:lastmodified":1449047284,
+    "wof:lastmodified":1453935083,
     "wof:name":"Aldila Boutique",
     "wof:parent_id":85865021,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.137077,49.327438,-123.137077,49.327438],
-  "geometry": {"coordinates":[-123.137077,49.327438],"type":"Point"}
+  "bbox": [
+    -123.137077,
+    49.327438,
+    -123.137077,
+    49.327438
+],
+  "geometry": {"coordinates":[-123.13707700000001,49.327438],"type":"Point"}
 }

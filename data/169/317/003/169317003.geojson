@@ -2,13 +2,14 @@
   "id": 169317003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.698486,43.419724,-79.698486,43.419724",
     "geom:latitude":43.419724,
     "geom:longitude":-79.698486,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1219 Willowbrook Dr",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895183,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"c07558d11e914511c7905e1bec2fa700",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895183,
+            "region_id":85682057,
+            "venue_id":169317003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895183,
             "region_id":85682057,
             "venue_id":169317003
         }
     ],
     "wof:id":169317003,
-    "wof:lastmodified":1449034181,
+    "wof:lastmodified":1453930365,
     "wof:name":"Mac Lean Hay Consulting",
     "wof:parent_id":85895183,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.698486,43.419724,-79.698486,43.419724],
+  "bbox": [
+    -79.698486,
+    43.419724,
+    -79.698486,
+    43.419724
+],
   "geometry": {"coordinates":[-79.698486,43.419724],"type":"Point"}
 }

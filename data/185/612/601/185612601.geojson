@@ -2,13 +2,14 @@
   "id": 185612601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630096,45.688095,-73.630096,45.688095",
     "geom:latitude":45.688095,
     "geom:longitude":-73.630096,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6534 Boul Des Mille-Iles",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895715,
+        102191575,
         85633041,
-        101737337
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +43,16 @@
     "wof:geomhash":"f23a2fd49805c92250f315453355ad50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85895715,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":185612601
         }
     ],
     "wof:id":185612601,
-    "wof:lastmodified":1449007321,
+    "wof:lastmodified":1453927282,
     "wof:name":"Luc Meunier Excavation Ltee",
     "wof:parent_id":85895715,
     "wof:placetype":"venue",
@@ -60,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.630096,45.688095,-73.630096,45.688095],
-  "geometry": {"coordinates":[-73.630096,45.688095],"type":"Point"}
+  "bbox": [
+    -73.630096,
+    45.688095,
+    -73.630096,
+    45.688095
+],
+  "geometry": {"coordinates":[-73.63009599999999,45.688095],"type":"Point"}
 }

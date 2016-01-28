@@ -2,13 +2,14 @@
   "id": 152450853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.540604,45.605358,-73.540604,45.605358",
     "geom:latitude":45.605358,
     "geom:longitude":-73.540604,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5771 Av Verneuil",
     "sg:city":"Anjou",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85785125,
+        102191575,
         85633041,
-        85785125
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"778ab863511be7c65ca274c4bcf7f260",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85785125,
+            "region_id":136251273,
             "venue_id":152450853
         }
     ],
     "wof:id":152450853,
-    "wof:lastmodified":1449048208,
+    "wof:lastmodified":1453935797,
     "wof:name":"Serrurier Precision Sm",
     "wof:parent_id":85785125,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.540604,45.605358,-73.540604,45.605358],
+  "bbox": [
+    -73.540604,
+    45.605358,
+    -73.540604,
+    45.605358
+],
   "geometry": {"coordinates":[-73.540604,45.605358],"type":"Point"}
 }

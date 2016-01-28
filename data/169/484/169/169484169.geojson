@@ -2,13 +2,14 @@
   "id": 169484169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.246208,42.986889,-81.246208,42.986889",
     "geom:latitude":42.986889,
     "geom:longitude":-81.246208,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"Ucc Bldg #76",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874951,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32TtbpMEfdIOhSVX8JaRfF_42.986889_-81.246208@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"817240b607b782e3bb4e946b98b35547",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874951,
+            "region_id":85682057,
+            "venue_id":169484169
+        }
+    ],
     "wof:id":169484169,
-    "wof:lastmodified":1449035767,
+    "wof:lastmodified":1453932035,
     "wof:name":"Travel Cuts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.246208,42.986889,-81.246208,42.986889],
+  "bbox": [
+    -81.246208,
+    42.986889,
+    -81.246208,
+    42.986889
+],
   "geometry": {"coordinates":[-81.246208,42.986889],"type":"Point"}
 }

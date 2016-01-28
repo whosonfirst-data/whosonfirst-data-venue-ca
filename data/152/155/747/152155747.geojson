@@ -2,13 +2,14 @@
   "id": 152155747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.215309,42.998474,-81.215309,42.998474",
     "geom:latitude":42.998474,
     "geom:longitude":-81.215309,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1111 Elias St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -28,23 +29,43 @@
         "leaf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874947,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02eBRxYC5BcK6kxyxfIfUT_42.998474_-81.215309@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"120fcd590d206790047fe7fac2dfa6e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874947,
+            "region_id":85682057,
+            "venue_id":152155747
+        }
+    ],
     "wof:id":152155747,
-    "wof:lastmodified":1449048106,
+    "wof:lastmodified":1453935729,
     "wof:name":"Charles Chapman CO",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874947,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.215309,42.998474,-81.215309,42.998474],
+  "bbox": [
+    -81.215309,
+    42.998474,
+    -81.215309,
+    42.998474
+],
   "geometry": {"coordinates":[-81.215309,42.998474],"type":"Point"}
 }

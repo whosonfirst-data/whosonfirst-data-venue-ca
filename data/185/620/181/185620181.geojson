@@ -2,13 +2,14 @@
   "id": 185620181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.75309,45.453892,-73.75309,45.453892",
     "geom:latitude":45.453892,
     "geom:longitude":-73.75309,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"638 Boul Albert-DE Niverville",
     "sg:city":"Dorval",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897651,
+        102554351,
+        85784727,
+        102191575,
         85633041,
-        101736475
+        101736475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,19 @@
     "wof:geomhash":"82c3db4b98c21d0898945c6d1596d64b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102554351,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736475,
-            "neighbourhood_id":85897651,
-            "region_id":-1,
+            "neighbourhood_id":85784727,
+            "region_id":136251273,
             "venue_id":185620181
         }
     ],
     "wof:id":185620181,
-    "wof:lastmodified":1449008081,
+    "wof:lastmodified":1453927374,
     "wof:name":"Handlex",
-    "wof:parent_id":85897651,
+    "wof:parent_id":102554351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-73.75309,45.453892,-73.75309,45.453892],
+  "bbox": [
+    -73.75309,
+    45.453892,
+    -73.75309,
+    45.453892
+],
   "geometry": {"coordinates":[-73.75309,45.453892],"type":"Point"}
 }

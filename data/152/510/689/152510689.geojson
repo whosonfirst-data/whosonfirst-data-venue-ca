@@ -2,13 +2,14 @@
   "id": 152510689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.466881,43.45945,-80.466881,43.45945",
     "geom:latitude":43.45945,
     "geom:longitude":-80.466881,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"25 Rosemount Dr",
     "sg:city":"Kitchener",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875025,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"bd7641dc1adfc4cb7fbcc3ce32ce7889",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85875025,
+            "region_id":85682057,
+            "venue_id":152510689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735989,
             "neighbourhood_id":85875025,
             "region_id":85682057,
             "venue_id":152510689
         }
     ],
     "wof:id":152510689,
-    "wof:lastmodified":1449047078,
+    "wof:lastmodified":1453934939,
     "wof:name":"Mayburry Inc",
     "wof:parent_id":85875025,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.466881,43.45945,-80.466881,43.45945],
+  "bbox": [
+    -80.466881,
+    43.45945,
+    -80.466881,
+    43.45945
+],
   "geometry": {"coordinates":[-80.466881,43.45945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202701867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.876022,45.416798,-71.876022,45.416798",
     "geom:latitude":45.416798,
     "geom:longitude":-71.876022,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"555 Rue Lessard",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874189,
+        102191575,
         85633041,
-        101738289
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"5da6557973a62ef222ee64335111c8d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874189,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202701867
         }
     ],
     "wof:id":202701867,
-    "wof:lastmodified":1449062131,
+    "wof:lastmodified":1453937397,
     "wof:name":"Antiderapant DE L'Estrie",
     "wof:parent_id":85874189,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "compound"
     ]
 },
-  "bbox": [-71.876022,45.416798,-71.876022,45.416798],
-  "geometry": {"coordinates":[-71.876022,45.416798],"type":"Point"}
+  "bbox": [
+    -71.876022,
+    45.416798,
+    -71.876022,
+    45.416798
+],
+  "geometry": {"coordinates":[-71.87602200000001,45.416798],"type":"Point"}
 }

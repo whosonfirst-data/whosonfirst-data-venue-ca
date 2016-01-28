@@ -2,13 +2,14 @@
   "id": 152561289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249893,42.967331,-81.249893,42.967331",
     "geom:latitude":42.967331,
     "geom:longitude":-81.249893,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"282 Wortley Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874937,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0REv6W4YHzlfUMcWMzg8TH_42.967331_-81.249893@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"55bfb8e388583d31c662dd8344d4ce9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874937,
+            "region_id":85682057,
+            "venue_id":152561289
+        }
+    ],
     "wof:id":152561289,
-    "wof:lastmodified":1449047576,
+    "wof:lastmodified":1453935324,
     "wof:name":"J G Kraus Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.249893,42.967331,-81.249893,42.967331],
+  "bbox": [
+    -81.249893,
+    42.967331,
+    -81.249893,
+    42.967331
+],
   "geometry": {"coordinates":[-81.249893,42.967331],"type":"Point"}
 }

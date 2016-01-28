@@ -2,13 +2,14 @@
   "id": 169016025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.0233,43.849361,-79.0233,43.849361",
     "geom:latitude":43.849361,
     "geom:longitude":-79.0233,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"74 Commercial Ave",
     "sg:city":"Ajax",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895635,
-        85682057
+        102191575,
+        85633041,
+        101736125,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"21db9d8c69daf1456e30aa79320880bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736125,
+            "neighbourhood_id":85895635,
+            "region_id":85682057,
+            "venue_id":169016025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895635,
             "region_id":85682057,
             "venue_id":169016025
         }
     ],
     "wof:id":169016025,
-    "wof:lastmodified":1449033266,
+    "wof:lastmodified":1453929375,
     "wof:name":"Hardwood Cafe & Billiards",
     "wof:parent_id":85895635,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.0233,43.849361,-79.0233,43.849361],
-  "geometry": {"coordinates":[-79.0233,43.849361],"type":"Point"}
+  "bbox": [
+    -79.0233,
+    43.849361,
+    -79.0233,
+    43.849361
+],
+  "geometry": {"coordinates":[-79.02330000000001,43.849361],"type":"Point"}
 }

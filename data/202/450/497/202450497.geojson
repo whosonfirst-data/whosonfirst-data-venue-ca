@@ -2,13 +2,14 @@
   "id": 202450497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.434784,45.673767,-73.434784,45.673767",
     "geom:latitude":45.673767,
     "geom:longitude":-73.434784,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"59 Rue DE L'Aqueduc",
     "sg:city":"Varennes",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895719,
+        102191575,
         85633041,
-        101738581
+        101738581,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"34e805b88250e11de7db77c10f7f913b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738581,
             "neighbourhood_id":85895719,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202450497
         }
     ],
     "wof:id":202450497,
-    "wof:lastmodified":1449062274,
+    "wof:lastmodified":1453937425,
     "wof:name":"Marche Jc Messier Inc",
     "wof:parent_id":85895719,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.434784,45.673767,-73.434784,45.673767],
-  "geometry": {"coordinates":[-73.434784,45.673767],"type":"Point"}
+  "bbox": [
+    -73.434784,
+    45.673767,
+    -73.434784,
+    45.673767
+],
+  "geometry": {"coordinates":[-73.43478399999999,45.673767],"type":"Point"}
 }

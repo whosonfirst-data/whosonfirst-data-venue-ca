@@ -2,13 +2,14 @@
   "id": 152449017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.275055,43.175152,-79.275055,43.175152",
     "geom:latitude":43.175152,
     "geom:longitude":-79.275055,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"St Catharines",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875035,
-        85682057
+        102191575,
+        85633041,
+        101740727,
+        85682057,
+        101736345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"ce9a8b6ee4b19b5693c46b7eb2b34721",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740727,
+            "neighbourhood_id":85875035,
+            "region_id":85682057,
+            "venue_id":152449017
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736345,
             "neighbourhood_id":85875035,
             "region_id":85682057,
             "venue_id":152449017
         }
     ],
     "wof:id":152449017,
-    "wof:lastmodified":1449048581,
+    "wof:lastmodified":1453936078,
     "wof:name":"Battram & Assoc",
     "wof:parent_id":85875035,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.275055,43.175152,-79.275055,43.175152],
-  "geometry": {"coordinates":[-79.275055,43.175152],"type":"Point"}
+  "bbox": [
+    -79.275055,
+    43.175152,
+    -79.275055,
+    43.175152
+],
+  "geometry": {"coordinates":[-79.27505499999999,43.175152],"type":"Point"}
 }

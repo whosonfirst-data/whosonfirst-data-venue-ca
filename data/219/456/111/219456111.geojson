@@ -2,13 +2,14 @@
   "id": 219456111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.360123,43.829651,-79.360123,43.829651",
     "geom:latitude":43.829651,
     "geom:longitude":-79.360123,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2715 14th Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895483,
+        102191575,
         85633041,
-        85682057
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"a4cec1f223c649b5eb08c13ea8b2f104",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895483,
+            "region_id":85682057,
+            "venue_id":219456111
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895483,
             "region_id":85682057,
             "venue_id":219456111
         }
     ],
     "wof:id":219456111,
-    "wof:lastmodified":1449071455,
+    "wof:lastmodified":1453937684,
     "wof:name":"Canspa Manufacturing Inc",
     "wof:parent_id":85895483,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "tub"
     ]
 },
-  "bbox": [-79.360123,43.829651,-79.360123,43.829651],
+  "bbox": [
+    -79.360123,
+    43.829651,
+    -79.360123,
+    43.829651
+],
   "geometry": {"coordinates":[-79.360123,43.829651],"type":"Point"}
 }

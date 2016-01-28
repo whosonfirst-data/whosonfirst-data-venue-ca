@@ -2,13 +2,14 @@
   "id": 152707445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.581612,45.489559,-73.581612,45.489559",
     "geom:latitude":45.489559,
     "geom:longitude":-73.581612,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1225 Rue Du Sussex",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897631,
+        102191575,
         85633041,
-        85897631
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"9cd5d45bb9fc3131dd80916a715c93c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897631,
+            "region_id":136251273,
             "venue_id":152707445
         }
     ],
     "wof:id":152707445,
-    "wof:lastmodified":1449048186,
+    "wof:lastmodified":1453935784,
     "wof:name":"Rochefort",
     "wof:parent_id":85897631,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.581612,45.489559,-73.581612,45.489559],
-  "geometry": {"coordinates":[-73.581612,45.489559],"type":"Point"}
+  "bbox": [
+    -73.581612,
+    45.489559,
+    -73.581612,
+    45.489559
+],
+  "geometry": {"coordinates":[-73.58161200000001,45.489559],"type":"Point"}
 }

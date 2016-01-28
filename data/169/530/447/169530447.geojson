@@ -2,13 +2,14 @@
   "id": 169530447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.59198,45.529057,-73.59198,45.529057",
     "geom:latitude":45.529057,
     "geom:longitude":-73.59198,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5329 Rue Rivard",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"e3f611b4f35b3198e93123854062ba37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":169530447
         }
     ],
     "wof:id":169530447,
-    "wof:lastmodified":1449034446,
+    "wof:lastmodified":1453930644,
     "wof:name":"B M Svc Exclusif",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.59198,45.529057,-73.59198,45.529057],
-  "geometry": {"coordinates":[-73.59198,45.529057],"type":"Point"}
+  "bbox": [
+    -73.59198,
+    45.529057,
+    -73.59198,
+    45.529057
+],
+  "geometry": {"coordinates":[-73.59198000000001,45.529057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169484555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.88269,43.893391,-78.88269,43.893391",
     "geom:latitude":43.893391,
     "geom:longitude":-78.88269,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"500 King St W",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875155,
-        85682057
+        102191575,
+        85633041,
+        101736397,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"33366c36a6becf3e9701b2eb2ce2f1e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736397,
+            "neighbourhood_id":85875155,
+            "region_id":85682057,
+            "venue_id":169484555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875155,
             "region_id":85682057,
             "venue_id":169484555
         }
     ],
     "wof:id":169484555,
-    "wof:lastmodified":1449035769,
+    "wof:lastmodified":1453932037,
     "wof:name":"Luigi's Furniture Ltd",
     "wof:parent_id":85875155,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.88269,43.893391,-78.88269,43.893391],
+  "bbox": [
+    -78.88269,
+    43.893391,
+    -78.88269,
+    43.893391
+],
   "geometry": {"coordinates":[-78.88269,43.893391],"type":"Point"}
 }

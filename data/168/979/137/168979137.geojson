@@ -2,13 +2,14 @@
   "id": 168979137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.703835,44.3811,-79.703835,44.3811",
     "geom:latitude":44.3811,
     "geom:longitude":-79.703835,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -22,23 +23,43 @@
     "sg:postcode":"L4N 2C5",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874065,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X5xjJ5eTvWuyiZOmOcBmD_44.381100_-79.703835@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"898dc824ad8cf484650b9e3f73c5d2c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85874065,
+            "region_id":85682057,
+            "venue_id":168979137
+        }
+    ],
     "wof:id":168979137,
-    "wof:lastmodified":1449028322,
+    "wof:lastmodified":1453928395,
     "wof:name":"Izumi Japanese Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.703835,44.3811,-79.703835,44.3811],
+  "bbox": [
+    -79.703835,
+    44.3811,
+    -79.703835,
+    44.3811
+],
   "geometry": {"coordinates":[-79.703835,44.3811],"type":"Point"}
 }

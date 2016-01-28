@@ -2,13 +2,14 @@
   "id": 152599035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.707878,43.443558,-79.707878,43.443558",
     "geom:latitude":43.443558,
     "geom:longitude":-79.707878,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"416 Parkridge Cres",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895377,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"f51038b9a4d595a9bf0cafefd0f6c60f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895377,
+            "region_id":85682057,
+            "venue_id":152599035
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895377,
             "region_id":85682057,
             "venue_id":152599035
         }
     ],
     "wof:id":152599035,
-    "wof:lastmodified":1449046458,
+    "wof:lastmodified":1453934472,
     "wof:name":"Insurance By Design Ltd",
     "wof:parent_id":85895377,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.707878,43.443558,-79.707878,43.443558],
-  "geometry": {"coordinates":[-79.707878,43.443558],"type":"Point"}
+  "bbox": [
+    -79.707878,
+    43.443558,
+    -79.707878,
+    43.443558
+],
+  "geometry": {"coordinates":[-79.70787799999999,43.443558],"type":"Point"}
 }

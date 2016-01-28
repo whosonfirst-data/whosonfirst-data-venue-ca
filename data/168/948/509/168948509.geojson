@@ -2,13 +2,14 @@
   "id": 168948509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.67627,44.410786,-79.67627,44.410786",
     "geom:latitude":44.410786,
     "geom:longitude":-79.67627,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"140 Bell Farm Rd",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "accommodation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875263,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vbRgYdwyc1vRCy7k6w98E_44.410786_-79.676270@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"d9872bc66888e45cfafa5fdff43d8c7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875263,
+            "region_id":85682057,
+            "venue_id":168948509
+        }
+    ],
     "wof:id":168948509,
-    "wof:lastmodified":1449028416,
+    "wof:lastmodified":1453928497,
     "wof:name":"Georgian Green Summer Hostel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.67627,44.410786,-79.67627,44.410786],
+  "bbox": [
+    -79.67627,
+    44.410786,
+    -79.67627,
+    44.410786
+],
   "geometry": {"coordinates":[-79.67627,44.410786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169028985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.710304,43.547592,-79.710304,43.547592",
     "geom:latitude":43.547592,
     "geom:longitude":-79.710304,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"2628 Credit Valley Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895311,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"b925f2f9c75d6feb0c9d4a15a0cc7fc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895311,
+            "region_id":85682057,
+            "venue_id":169028985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895311,
             "region_id":85682057,
             "venue_id":169028985
         }
     ],
     "wof:id":169028985,
-    "wof:lastmodified":1449034474,
+    "wof:lastmodified":1453930663,
     "wof:name":"Single Source Marketing",
     "wof:parent_id":85895311,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.710304,43.547592,-79.710304,43.547592],
-  "geometry": {"coordinates":[-79.710304,43.547592],"type":"Point"}
+  "bbox": [
+    -79.710304,
+    43.547592,
+    -79.710304,
+    43.547592
+],
+  "geometry": {"coordinates":[-79.71030399999999,43.547592],"type":"Point"}
 }

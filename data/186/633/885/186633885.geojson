@@ -2,13 +2,14 @@
   "id": 186633885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.555702,45.51194,-73.555702,45.51194",
     "geom:latitude":45.51194,
     "geom:longitude":-73.555702,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"425 Av Viger O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866483,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"683ec5d3f9733782e51f32d9f2c31fcb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186633885
         }
     ],
     "wof:id":186633885,
-    "wof:lastmodified":1449053011,
+    "wof:lastmodified":1453936943,
     "wof:name":"Visa Desjardins",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "card"
     ]
 },
-  "bbox": [-73.555702,45.51194,-73.555702,45.51194],
+  "bbox": [
+    -73.555702,
+    45.51194,
+    -73.555702,
+    45.51194
+],
   "geometry": {"coordinates":[-73.555702,45.51194],"type":"Point"}
 }

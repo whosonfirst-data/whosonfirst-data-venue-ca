@@ -2,13 +2,14 @@
   "id": 203419649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.640221,45.49538,-73.640221,45.49538",
     "geom:latitude":45.49538,
     "geom:longitude":-73.640221,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6460 Av Victoria",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871113,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"c6601b8bd04658458b3db23bc9a0fe7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871113,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203419649
         }
     ],
     "wof:id":203419649,
-    "wof:lastmodified":1449026850,
+    "wof:lastmodified":1453927756,
     "wof:name":"A S Poissons",
     "wof:parent_id":85871113,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "seafood"
     ]
 },
-  "bbox": [-73.640221,45.49538,-73.640221,45.49538],
+  "bbox": [
+    -73.640221,
+    45.49538,
+    -73.640221,
+    45.49538
+],
   "geometry": {"coordinates":[-73.640221,45.49538],"type":"Point"}
 }

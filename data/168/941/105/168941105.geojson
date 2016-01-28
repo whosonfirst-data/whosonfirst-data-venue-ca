@@ -2,13 +2,14 @@
   "id": 168941105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.50882,45.50148,-73.50882,45.50148",
     "geom:latitude":45.50148,
     "geom:longitude":-73.50882,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"574 Av Notre-Dame",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85897603,
+        102191575,
         85633041,
-        85897603
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8ec826535ddad4f2c0d9280dc9202b01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85897603,
+            "region_id":136251273,
             "venue_id":168941105
         }
     ],
     "wof:id":168941105,
-    "wof:lastmodified":1449028236,
+    "wof:lastmodified":1453928302,
     "wof:name":"St Lambert Maison Desaulniers",
     "wof:parent_id":85897603,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.50882,45.50148,-73.50882,45.50148],
+  "bbox": [
+    -73.50882,
+    45.50148,
+    -73.50882,
+    45.50148
+],
   "geometry": {"coordinates":[-73.50882,45.50148],"type":"Point"}
 }

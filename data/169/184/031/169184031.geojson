@@ -2,13 +2,14 @@
   "id": 169184031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.184235,45.592957,-73.184235,45.592957",
     "geom:latitude":45.592957,
     "geom:longitude":-73.184235,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Rue Brunet",
     "sg:city":"Mont-Saint-Hilaire",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"da9279bd3ea87efa23ce7907cdb89844",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169184031
         }
     ],
     "wof:id":169184031,
-    "wof:lastmodified":1449033253,
+    "wof:lastmodified":1453929357,
     "wof:name":"Depanneur Du Golf",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.184235,45.592957,-73.184235,45.592957],
+  "bbox": [
+    -73.184235,
+    45.592957,
+    -73.184235,
+    45.592957
+],
   "geometry": {"coordinates":[-73.184235,45.592957],"type":"Point"}
 }

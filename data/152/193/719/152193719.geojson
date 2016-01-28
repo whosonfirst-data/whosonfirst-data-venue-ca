@@ -2,13 +2,14 @@
   "id": 152193719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249901,43.008018,-81.249901,43.008018",
     "geom:latitude":43.008018,
     "geom:longitude":-81.249901,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"427 Regent St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -29,23 +30,43 @@
         "planner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874939,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06F5iQY8TlMJIcx2KKtFyk_43.008018_-81.249901@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"dcfe045fd5aa6bd864f9bee96b1a6a15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874939,
+            "region_id":85682057,
+            "venue_id":152193719
+        }
+    ],
     "wof:id":152193719,
-    "wof:lastmodified":1449045054,
+    "wof:lastmodified":1453933399,
     "wof:name":"Kirkness Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.249901,43.008018,-81.249901,43.008018],
-  "geometry": {"coordinates":[-81.249901,43.008018],"type":"Point"}
+  "bbox": [
+    -81.249901,
+    43.008018,
+    -81.249901,
+    43.008018
+],
+  "geometry": {"coordinates":[-81.24990099999999,43.008018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203129507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.582497,45.625713,-73.582497,45.625713",
     "geom:latitude":45.625713,
     "geom:longitude":-73.582497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11352 Boul Armand-Bombardier",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784925,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"b63ec438a7d15b445107c936dfbcf1eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784925,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":203129507
         }
     ],
     "wof:id":203129507,
-    "wof:lastmodified":1449026468,
+    "wof:lastmodified":1453927684,
     "wof:name":"Vipra-Tech Inc",
     "wof:parent_id":85784925,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.582497,45.625713,-73.582497,45.625713],
+  "bbox": [
+    -73.582497,
+    45.625713,
+    -73.582497,
+    45.625713
+],
   "geometry": {"coordinates":[-73.582497,45.625713],"type":"Point"}
 }

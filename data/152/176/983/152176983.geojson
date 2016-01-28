@@ -2,13 +2,14 @@
   "id": 152176983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.040283,48.416576,-71.040283,48.416576",
     "geom:latitude":48.416576,
     "geom:longitude":-71.040283,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"769 Rue Chabanel",
     "sg:city":"Chicoutimi",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737173,
+        85785001,
+        102191575,
         85633041,
-        85785001
+        101737173,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"ff81f4f64f38872050ad69c24aa3c454",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737173,
             "neighbourhood_id":85785001,
+            "region_id":136251273,
             "venue_id":152176983
         }
     ],
     "wof:id":152176983,
-    "wof:lastmodified":1449047318,
+    "wof:lastmodified":1453935108,
     "wof:name":"Pixel Couleur",
     "wof:parent_id":85785001,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.040283,48.416576,-71.040283,48.416576],
+  "bbox": [
+    -71.040283,
+    48.416576,
+    -71.040283,
+    48.416576
+],
   "geometry": {"coordinates":[-71.040283,48.416576],"type":"Point"}
 }

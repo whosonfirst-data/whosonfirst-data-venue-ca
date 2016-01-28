@@ -2,13 +2,14 @@
   "id": 169047319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.649651,43.565323,-79.649651,43.565323",
     "geom:latitude":43.565323,
     "geom:longitude":-79.649651,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3282 Oakglade Cres",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895113,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"f7b8d13652b9c3cfcf820f1c855a353b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895113,
+            "region_id":85682057,
+            "venue_id":169047319
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895113,
             "region_id":85682057,
             "venue_id":169047319
         }
     ],
     "wof:id":169047319,
-    "wof:lastmodified":1449034812,
+    "wof:lastmodified":1453931044,
     "wof:name":"Chokwanger Leather CO Ltd",
     "wof:parent_id":85895113,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.649651,43.565323,-79.649651,43.565323],
-  "geometry": {"coordinates":[-79.649651,43.565323],"type":"Point"}
+  "bbox": [
+    -79.649651,
+    43.565323,
+    -79.649651,
+    43.565323
+],
+  "geometry": {"coordinates":[-79.64965100000001,43.565323],"type":"Point"}
 }

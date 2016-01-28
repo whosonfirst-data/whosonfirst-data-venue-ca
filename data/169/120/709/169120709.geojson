@@ -2,13 +2,14 @@
   "id": 169120709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.697426,45.561859,-73.697426,45.561859",
     "geom:latitude":45.561859,
     "geom:longitude":-73.697426,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"405 13E Rue",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875065,
+        102191575,
         85633041,
-        85875065
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"fa9dc7bf780e6a60fd3f91877cd2e206",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875065,
+            "region_id":136251273,
             "venue_id":169120709
         }
     ],
     "wof:id":169120709,
-    "wof:lastmodified":1449035488,
+    "wof:lastmodified":1453931721,
     "wof:name":"Services D'Entretien Menager",
     "wof:parent_id":85875065,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.697426,45.561859,-73.697426,45.561859],
-  "geometry": {"coordinates":[-73.697426,45.561859],"type":"Point"}
+  "bbox": [
+    -73.697426,
+    45.561859,
+    -73.697426,
+    45.561859
+],
+  "geometry": {"coordinates":[-73.69742599999999,45.561859],"type":"Point"}
 }

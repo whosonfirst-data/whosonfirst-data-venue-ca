@@ -2,13 +2,14 @@
   "id": 169320287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.207764,42.980068,-81.207764,42.980068",
     "geom:latitude":42.980068,
     "geom:longitude":-81.207764,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"18 Elm St",
     "sg:city":"London",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"N5Z 2K2",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85864539,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O5EyzQdzJ376tZTRTyIrQ_42.980068_-81.207764@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"feeb98d55334f3ce7c7416cca41f540b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85864539,
+            "region_id":85682057,
+            "venue_id":169320287
+        }
+    ],
     "wof:id":169320287,
-    "wof:lastmodified":1449033523,
+    "wof:lastmodified":1453929628,
     "wof:name":"Holy Cross School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85864539,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.207764,42.980068,-81.207764,42.980068],
+  "bbox": [
+    -81.207764,
+    42.980068,
+    -81.207764,
+    42.980068
+],
   "geometry": {"coordinates":[-81.207764,42.980068],"type":"Point"}
 }

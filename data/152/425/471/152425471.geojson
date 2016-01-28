@@ -2,13 +2,14 @@
   "id": 152425471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.862038,43.889275,-78.862038,43.889275",
     "geom:latitude":43.889275,
     "geom:longitude":-78.862038,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"300 Centre St S",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85875143,
-        85682057
+        102191575,
+        85633041,
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,24 @@
     "wof:geomhash":"3d9a095d18a556594f9b8094e133dbd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875143,
+            "region_id":85682057,
+            "venue_id":152425471
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875143,
             "region_id":85682057,
             "venue_id":152425471
         }
     ],
     "wof:id":152425471,
-    "wof:lastmodified":1449045941,
+    "wof:lastmodified":1453934074,
     "wof:name":"Pinewood Centre of Oshawa",
     "wof:parent_id":85875143,
     "wof:placetype":"venue",
@@ -59,6 +72,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.862038,43.889275,-78.862038,43.889275],
+  "bbox": [
+    -78.862038,
+    43.889275,
+    -78.862038,
+    43.889275
+],
   "geometry": {"coordinates":[-78.862038,43.889275],"type":"Point"}
 }

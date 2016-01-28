@@ -2,13 +2,14 @@
   "id": 186223565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.676506,45.503819,-73.676506,45.503819",
     "geom:latitude":45.503819,
     "geom:longitude":-73.676506,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"340 Boul Marcel-Laurin",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784917,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"639af58a4b2f2e979c0f4df5536531f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186223565
         }
     ],
     "wof:id":186223565,
-    "wof:lastmodified":1449050441,
+    "wof:lastmodified":1453936515,
     "wof:name":"St-Viateur Bagel",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.676506,45.503819,-73.676506,45.503819],
+  "bbox": [
+    -73.676506,
+    45.503819,
+    -73.676506,
+    45.503819
+],
   "geometry": {"coordinates":[-73.676506,45.503819],"type":"Point"}
 }

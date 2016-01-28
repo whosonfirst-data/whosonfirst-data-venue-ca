@@ -2,13 +2,14 @@
   "id": 152999647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.605644,43.625027,-79.605644,43.625027",
     "geom:latitude":43.625027,
     "geom:longitude":-79.605644,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Mississauga",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895107,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"7135e4c0363117ef9bf78c3c4741eaf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895107,
+            "region_id":85682057,
+            "venue_id":152999647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895107,
             "region_id":85682057,
             "venue_id":152999647
         }
     ],
     "wof:id":152999647,
-    "wof:lastmodified":1449048346,
+    "wof:lastmodified":1453935908,
     "wof:name":"Ginsengg Herbs",
     "wof:parent_id":85895107,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.605644,43.625027,-79.605644,43.625027],
+  "bbox": [
+    -79.605644,
+    43.625027,
+    -79.605644,
+    43.625027
+],
   "geometry": {"coordinates":[-79.605644,43.625027],"type":"Point"}
 }

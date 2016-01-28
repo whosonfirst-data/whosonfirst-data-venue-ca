@@ -2,13 +2,14 @@
   "id": 169211275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.065247,43.82745,-79.065247,43.82745",
     "geom:latitude":43.82745,
     "geom:longitude":-79.065247,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Pickering",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895457,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"f5a3cc9d0981aa15bc06b3f64c502bdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895457,
+            "region_id":85682057,
+            "venue_id":169211275
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895457,
             "region_id":85682057,
             "venue_id":169211275
         }
     ],
     "wof:id":169211275,
-    "wof:lastmodified":1449033502,
+    "wof:lastmodified":1453929608,
     "wof:name":"Clydesdale Custom Cases",
     "wof:parent_id":85895457,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.065247,43.82745,-79.065247,43.82745],
+  "bbox": [
+    -79.065247,
+    43.82745,
+    -79.065247,
+    43.82745
+],
   "geometry": {"coordinates":[-79.065247,43.82745],"type":"Point"}
 }

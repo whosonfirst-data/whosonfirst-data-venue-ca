@@ -2,13 +2,14 @@
   "id": 169272537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.640289,45.695694,-73.640289,45.695694",
     "geom:latitude":45.695694,
     "geom:longitude":-73.640289,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"939 Rue Saint-Louis",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737337,
+        85895715,
+        102191575,
         85633041,
-        85895715
+        101737337,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"57a393d0209f0e040c2e831feb28fd0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737337,
             "neighbourhood_id":85895715,
+            "region_id":136251273,
             "venue_id":169272537
         }
     ],
     "wof:id":169272537,
-    "wof:lastmodified":1449035730,
+    "wof:lastmodified":1453931992,
     "wof:name":"Residence Funeraire St-Louis",
     "wof:parent_id":85895715,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.640289,45.695694,-73.640289,45.695694],
+  "bbox": [
+    -73.640289,
+    45.695694,
+    -73.640289,
+    45.695694
+],
   "geometry": {"coordinates":[-73.640289,45.695694],"type":"Point"}
 }

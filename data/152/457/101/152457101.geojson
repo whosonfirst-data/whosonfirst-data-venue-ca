@@ -2,13 +2,14 @@
   "id": 152457101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.880409,45.407703,-71.880409,45.407703",
     "geom:latitude":45.407703,
     "geom:longitude":-71.880409,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874135,
+        102191575,
         85633041,
-        85874135
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"c92fc7e181cfb782f59db232166afc8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874135,
+            "region_id":136251273,
             "venue_id":152457101
         }
     ],
     "wof:id":152457101,
-    "wof:lastmodified":1449047404,
+    "wof:lastmodified":1453935179,
     "wof:name":"Belhumeur, Pierre",
     "wof:parent_id":85874135,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.880409,45.407703,-71.880409,45.407703],
+  "bbox": [
+    -71.880409,
+    45.407703,
+    -71.880409,
+    45.407703
+],
   "geometry": {"coordinates":[-71.880409,45.407703],"type":"Point"}
 }

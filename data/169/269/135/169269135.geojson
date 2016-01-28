@@ -2,13 +2,14 @@
   "id": 169269135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.509834,45.50053,-73.509834,45.50053",
     "geom:latitude":45.50053,
     "geom:longitude":-73.509834,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"215 Rue DE Woodstock",
     "sg:city":"Saint-Lambert",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875761,
+        102191575,
         85633041,
-        85875761
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6c8f7e3e2d580fb28be3b64ab2aece6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
             "venue_id":169269135
         }
     ],
     "wof:id":169269135,
-    "wof:lastmodified":1449034757,
+    "wof:lastmodified":1453930976,
     "wof:name":"Pirouette",
     "wof:parent_id":85875761,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.509834,45.50053,-73.509834,45.50053],
+  "bbox": [
+    -73.509834,
+    45.50053,
+    -73.509834,
+    45.50053
+],
   "geometry": {"coordinates":[-73.509834,45.50053],"type":"Point"}
 }

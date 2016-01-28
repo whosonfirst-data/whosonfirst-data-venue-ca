@@ -2,13 +2,14 @@
   "id": 152339165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.684998,43.660885,-79.684998,43.660885",
     "geom:latitude":43.660885,
     "geom:longitude":-79.684998,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"7050 Pacific Cir",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85894975,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a66101811e6302ccce7c36a1c879314b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85894975,
+            "region_id":85682057,
+            "venue_id":152339165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85894975,
             "region_id":85682057,
             "venue_id":152339165
         }
     ],
     "wof:id":152339165,
-    "wof:lastmodified":1449046377,
+    "wof:lastmodified":1453934410,
     "wof:name":"Patterned Concrete Inc",
     "wof:parent_id":85894975,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.684998,43.660885,-79.684998,43.660885],
-  "geometry": {"coordinates":[-79.684998,43.660885],"type":"Point"}
+  "bbox": [
+    -79.684998,
+    43.660885,
+    -79.684998,
+    43.660885
+],
+  "geometry": {"coordinates":[-79.68499799999999,43.660885],"type":"Point"}
 }

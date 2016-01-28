@@ -2,13 +2,14 @@
   "id": 152405873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.277573,43.869194,-79.277573,43.869194",
     "geom:latitude":43.869194,
     "geom:longitude":-79.277573,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Laidlaw Blvd # 2",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895013,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"30a2853b4822d71fa3814a677f039d9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895013,
+            "region_id":85682057,
+            "venue_id":152405873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895013,
             "region_id":85682057,
             "venue_id":152405873
         }
     ],
     "wof:id":152405873,
-    "wof:lastmodified":1449048537,
+    "wof:lastmodified":1453936057,
     "wof:name":"Minit Print",
     "wof:parent_id":85895013,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.277573,43.869194,-79.277573,43.869194],
+  "bbox": [
+    -79.277573,
+    43.869194,
+    -79.277573,
+    43.869194
+],
   "geometry": {"coordinates":[-79.277573,43.869194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169462605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008278,43.794071,-80.008278,43.794071",
     "geom:latitude":43.794071,
     "geom:longitude":-80.008278,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"Old Main",
     "sg:city":"Belfountain",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895075,
-        85682057
+        102191575,
+        85633041,
+        101736161,
+        85682057,
+        101740771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"17fb79576caf4265ae03a5fabbdcb1c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736161,
+            "neighbourhood_id":85895075,
+            "region_id":85682057,
+            "venue_id":169462605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740771,
             "neighbourhood_id":85895075,
             "region_id":85682057,
             "venue_id":169462605
         }
     ],
     "wof:id":169462605,
-    "wof:lastmodified":1449035835,
+    "wof:lastmodified":1453932122,
     "wof:name":"Belfountain Village Church",
     "wof:parent_id":85895075,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.008278,43.794071,-80.008278,43.794071],
+  "bbox": [
+    -80.008278,
+    43.794071,
+    -80.008278,
+    43.794071
+],
   "geometry": {"coordinates":[-80.008278,43.794071],"type":"Point"}
 }

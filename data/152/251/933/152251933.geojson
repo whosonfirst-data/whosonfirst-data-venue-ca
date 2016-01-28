@@ -2,13 +2,14 @@
   "id": 152251933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618362,45.607449,-73.618362,45.607449",
     "geom:latitude":45.607449,
     "geom:longitude":-73.618362,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874365,
+        102191575,
         85633041,
-        85874365
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"2341a9422eae15945b6317f28b686ad3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874365,
+            "region_id":136251273,
             "venue_id":152251933
         }
     ],
     "wof:id":152251933,
-    "wof:lastmodified":1449044380,
+    "wof:lastmodified":1453932882,
     "wof:name":"Bourassa, Luce",
     "wof:parent_id":85874365,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.618362,45.607449,-73.618362,45.607449],
+  "bbox": [
+    -73.618362,
+    45.607449,
+    -73.618362,
+    45.607449
+],
   "geometry": {"coordinates":[-73.618362,45.607449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152823893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.128654,43.81686,-79.128654,43.81686",
     "geom:latitude":43.81686,
     "geom:longitude":-79.128654,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1453 Highbush Trail",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895621,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"da9ff4b9f094965c91e977ffcba248c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895621,
+            "region_id":85682057,
+            "venue_id":152823893
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895621,
             "region_id":85682057,
             "venue_id":152823893
         }
     ],
     "wof:id":152823893,
-    "wof:lastmodified":1449048868,
+    "wof:lastmodified":1453936308,
     "wof:name":"Allpoints Electrical Svc Ltd",
     "wof:parent_id":85895621,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.128654,43.81686,-79.128654,43.81686],
+  "bbox": [
+    -79.128654,
+    43.81686,
+    -79.128654,
+    43.81686
+],
   "geometry": {"coordinates":[-79.128654,43.81686],"type":"Point"}
 }

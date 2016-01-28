@@ -2,13 +2,14 @@
   "id": 152529827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.699486,45.566071,-73.699486,45.566071",
     "geom:latitude":45.566071,
     "geom:longitude":-73.699486,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"180 Boul DE LA Concorde O",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784775,
+        102191575,
         85633041,
-        85784775
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"d54fc3f4b9b2ba083963e999843561bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784775,
+            "region_id":136251273,
             "venue_id":152529827
         }
     ],
     "wof:id":152529827,
-    "wof:lastmodified":1449046333,
+    "wof:lastmodified":1453934373,
     "wof:name":"Cafe Bistro II Momento",
     "wof:parent_id":85784775,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.699486,45.566071,-73.699486,45.566071],
-  "geometry": {"coordinates":[-73.699486,45.566071],"type":"Point"}
+  "bbox": [
+    -73.699486,
+    45.566071,
+    -73.699486,
+    45.566071
+],
+  "geometry": {"coordinates":[-73.69948599999999,45.566071],"type":"Point"}
 }

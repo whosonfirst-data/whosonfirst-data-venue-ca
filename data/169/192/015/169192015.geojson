@@ -2,13 +2,14 @@
   "id": 169192015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.24733,46.840618,-71.24733,46.840618",
     "geom:latitude":46.840618,
     "geom:longitude":-71.24733,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3400 1E Av",
     "sg:city":"Quebec",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"3a4c5785579da7ae4cb9ea652df9a985",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":169192015
         }
     ],
     "wof:id":169192015,
-    "wof:lastmodified":1449035014,
+    "wof:lastmodified":1453931230,
     "wof:name":"Burger King",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.24733,46.840618,-71.24733,46.840618],
-  "geometry": {"coordinates":[-71.24733,46.840618],"type":"Point"}
+  "bbox": [
+    -71.24733,
+    46.840618,
+    -71.24733,
+    46.840618
+],
+  "geometry": {"coordinates":[-71.24733000000001,46.840618],"type":"Point"}
 }

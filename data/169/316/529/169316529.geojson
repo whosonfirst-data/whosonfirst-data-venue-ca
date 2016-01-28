@@ -2,13 +2,14 @@
   "id": 169316529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494156,45.500294,-73.494156,45.500294",
     "geom:latitude":45.500294,
     "geom:longitude":-73.494156,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"216 Rue Saint-Louis",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736449,
+        85875765,
+        102191575,
         85633041,
-        85875765
+        101736449,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"41b688e8533db65615ae086f8ec6fd8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736449,
             "neighbourhood_id":85875765,
+            "region_id":136251273,
             "venue_id":169316529
         }
     ],
     "wof:id":169316529,
-    "wof:lastmodified":1449034929,
+    "wof:lastmodified":1453931156,
     "wof:name":"Laboratoire Dentaire Ah",
     "wof:parent_id":85875765,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.494156,45.500294,-73.494156,45.500294],
+  "bbox": [
+    -73.494156,
+    45.500294,
+    -73.494156,
+    45.500294
+],
   "geometry": {"coordinates":[-73.494156,45.500294],"type":"Point"}
 }

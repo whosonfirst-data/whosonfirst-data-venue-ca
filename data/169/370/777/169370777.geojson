@@ -2,13 +2,14 @@
   "id": 169370777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.767326,45.526375,-73.767326,45.526375",
     "geom:latitude":45.526375,
     "geom:longitude":-73.767326,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5052 Boul Samson",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85784703,
+        102191575,
         85633041,
-        85784703
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"987446ce5c732a4d897409bbcfc69158",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85784703,
+            "region_id":136251273,
             "venue_id":169370777
         }
     ],
     "wof:id":169370777,
-    "wof:lastmodified":1449034494,
+    "wof:lastmodified":1453930678,
     "wof:name":"Air Executive Limousine",
     "wof:parent_id":85784703,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.767326,45.526375,-73.767326,45.526375],
+  "bbox": [
+    -73.767326,
+    45.526375,
+    -73.767326,
+    45.526375
+],
   "geometry": {"coordinates":[-73.767326,45.526375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168981647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.113503,43.829144,-79.113503,43.829144",
     "geom:latitude":43.829144,
     "geom:longitude":-79.113503,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1802 Spruce Hill Rd",
     "sg:city":"Pickering",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895393,
-        85682057
+        102191575,
+        85633041,
+        101736359,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"aeaf4ee584960cadc99ccf591e695c32",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736359,
+            "neighbourhood_id":85895393,
+            "region_id":85682057,
+            "venue_id":168981647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85895393,
             "region_id":85682057,
             "venue_id":168981647
         }
     ],
     "wof:id":168981647,
-    "wof:lastmodified":1449028604,
+    "wof:lastmodified":1453928700,
     "wof:name":"Milroy Decorating",
     "wof:parent_id":85895393,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.113503,43.829144,-79.113503,43.829144],
-  "geometry": {"coordinates":[-79.113503,43.829144],"type":"Point"}
+  "bbox": [
+    -79.113503,
+    43.829144,
+    -79.113503,
+    43.829144
+],
+  "geometry": {"coordinates":[-79.11350299999999,43.829144],"type":"Point"}
 }

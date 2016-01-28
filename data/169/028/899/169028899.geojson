@@ -2,13 +2,14 @@
   "id": 169028899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.51062,43.462883,-80.51062,43.462883",
     "geom:latitude":43.462883,
     "geom:longitude":-80.51062,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"130 Moore Ave S",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85874983,
-        85682057
+        102191575,
+        85633041,
+        101740709,
+        85682057,
+        101736191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"abc3d8b141d97a2b80cb6f26c8ebb212",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740709,
+            "neighbourhood_id":85874983,
+            "region_id":85682057,
+            "venue_id":169028899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736191,
             "neighbourhood_id":85874983,
             "region_id":85682057,
             "venue_id":169028899
         }
     ],
     "wof:id":169028899,
-    "wof:lastmodified":1449034474,
+    "wof:lastmodified":1453930665,
     "wof:name":"Len's Mill Store",
     "wof:parent_id":85874983,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.51062,43.462883,-80.51062,43.462883],
+  "bbox": [
+    -80.51062,
+    43.462883,
+    -80.51062,
+    43.462883
+],
   "geometry": {"coordinates":[-80.51062,43.462883],"type":"Point"}
 }

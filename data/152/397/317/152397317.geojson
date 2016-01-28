@@ -2,13 +2,14 @@
   "id": 152397317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.709,45.491455,-73.709,45.491455",
     "geom:latitude":45.491455,
     "geom:longitude":-73.709,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"880 Rue Begin",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784917,
+        102191575,
         85633041,
-        85784917
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"adddb54b6fa7d87688da8e06904351aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784917,
+            "region_id":136251273,
             "venue_id":152397317
         }
     ],
     "wof:id":152397317,
-    "wof:lastmodified":1449046152,
+    "wof:lastmodified":1453934233,
     "wof:name":"Alc Micro Inc",
     "wof:parent_id":85784917,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.709,45.491455,-73.709,45.491455],
+  "bbox": [
+    -73.709,
+    45.491455,
+    -73.709,
+    45.491455
+],
   "geometry": {"coordinates":[-73.709,45.491455],"type":"Point"}
 }

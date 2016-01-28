@@ -2,13 +2,14 @@
   "id": 219230611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.847366,45.478931,-73.847366,45.478931",
     "geom:latitude":45.478931,
     "geom:longitude":-73.847366,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"307 Rue Biscaye",
     "sg:city":"Pierrefonds",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85784833,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"d82e14e3505a911b2c23da36eb1eebfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784833,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219230611
         }
     ],
     "wof:id":219230611,
-    "wof:lastmodified":1449073021,
+    "wof:lastmodified":1453937900,
     "wof:name":"Toren, John DDS",
     "wof:parent_id":85784833,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.847366,45.478931,-73.847366,45.478931],
-  "geometry": {"coordinates":[-73.847366,45.478931],"type":"Point"}
+  "bbox": [
+    -73.847366,
+    45.478931,
+    -73.847366,
+    45.478931
+],
+  "geometry": {"coordinates":[-73.84736599999999,45.478931],"type":"Point"}
 }

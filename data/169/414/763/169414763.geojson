@@ -2,13 +2,14 @@
   "id": 169414763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.579185,46.394577,-72.579185,46.394577",
     "geom:latitude":46.394577,
     "geom:longitude":-72.579185,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"407 Rue Saint-Alexis",
     "sg:city":"Saint-Louis-DE-France",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738021,
+        85785013,
+        102191575,
         85633041,
-        85785013
+        101738021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"8e0335a76e649178a5aac5420957c19e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738021,
             "neighbourhood_id":85785013,
+            "region_id":136251273,
             "venue_id":169414763
         }
     ],
     "wof:id":169414763,
-    "wof:lastmodified":1449034221,
+    "wof:lastmodified":1453930411,
     "wof:name":"Eglise Biblique Baptiste",
     "wof:parent_id":85785013,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.579185,46.394577,-72.579185,46.394577],
+  "bbox": [
+    -72.579185,
+    46.394577,
+    -72.579185,
+    46.394577
+],
   "geometry": {"coordinates":[-72.579185,46.394577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152732317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.721161,43.866287,-79.721161,43.866287",
     "geom:latitude":43.866287,
     "geom:longitude":-79.721161,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"670 Hardwick Rd # 2",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895277,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5d4572e266c12467a922193c22cefc21",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895277,
+            "region_id":85682057,
+            "venue_id":152732317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895277,
             "region_id":85682057,
             "venue_id":152732317
         }
     ],
     "wof:id":152732317,
-    "wof:lastmodified":1449049041,
+    "wof:lastmodified":1453936467,
     "wof:name":"Kyoto America Inc",
     "wof:parent_id":85895277,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.721161,43.866287,-79.721161,43.866287],
+  "bbox": [
+    -79.721161,
+    43.866287,
+    -79.721161,
+    43.866287
+],
   "geometry": {"coordinates":[-79.721161,43.866287],"type":"Point"}
 }

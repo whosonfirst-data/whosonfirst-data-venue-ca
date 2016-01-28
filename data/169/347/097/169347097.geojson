@@ -2,13 +2,14 @@
   "id": 169347097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.593674,45.48074,-73.593674,45.48074",
     "geom:latitude":45.48074,
     "geom:longitude":-73.593674,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4498 Rue Sainte-Catherine O",
     "sg:city":"Westmount",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736451,
+        85897627,
+        102191575,
         85633041,
-        85897627
+        101736451,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"09a2cb87b8243176eb72c68a1c2fb029",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736451,
             "neighbourhood_id":85897627,
+            "region_id":136251273,
             "venue_id":169347097
         }
     ],
     "wof:id":169347097,
-    "wof:lastmodified":1449034276,
+    "wof:lastmodified":1453930454,
     "wof:name":"Clifford's Market",
     "wof:parent_id":85897627,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.593674,45.48074,-73.593674,45.48074],
-  "geometry": {"coordinates":[-73.593674,45.48074],"type":"Point"}
+  "bbox": [
+    -73.593674,
+    45.48074,
+    -73.593674,
+    45.48074
+],
+  "geometry": {"coordinates":[-73.59367399999999,45.48074],"type":"Point"}
 }

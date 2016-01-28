@@ -2,13 +2,14 @@
   "id": 152232181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.357452,43.846695,-79.357452,43.846695",
     "geom:latitude":43.846695,
     "geom:longitude":-79.357452,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"8370 Woodbine Ave",
     "sg:city":"Markham",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895015,
-        85682057
+        102191575,
+        85633041,
+        101736035,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"a1ad607c7a86999e7a8955085b75fe16",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736035,
+            "neighbourhood_id":85895015,
+            "region_id":85682057,
+            "venue_id":152232181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895015,
             "region_id":85682057,
             "venue_id":152232181
         }
     ],
     "wof:id":152232181,
-    "wof:lastmodified":1449045794,
+    "wof:lastmodified":1453933974,
     "wof:name":"Country Style Donuts",
     "wof:parent_id":85895015,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.357452,43.846695,-79.357452,43.846695],
-  "geometry": {"coordinates":[-79.357452,43.846695],"type":"Point"}
+  "bbox": [
+    -79.357452,
+    43.846695,
+    -79.357452,
+    43.846695
+],
+  "geometry": {"coordinates":[-79.35745199999999,43.846695],"type":"Point"}
 }

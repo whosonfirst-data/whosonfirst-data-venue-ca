@@ -2,13 +2,14 @@
   "id": 152685017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.704193,43.431816,-79.704193,43.431816",
     "geom:latitude":43.431816,
     "geom:longitude":-79.704193,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oakville",
     "sg:classifiers":[
         {
@@ -30,9 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895183,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,24 @@
     "wof:geomhash":"1a8bd15e40eb2285e98b173932da094b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895183,
+            "region_id":85682057,
+            "venue_id":152685017
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895183,
             "region_id":85682057,
             "venue_id":152685017
         }
     ],
     "wof:id":152685017,
-    "wof:lastmodified":1449048799,
+    "wof:lastmodified":1453936252,
     "wof:name":"Mantis Racing Inc",
     "wof:parent_id":85895183,
     "wof:placetype":"venue",
@@ -58,6 +71,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.704193,43.431816,-79.704193,43.431816],
+  "bbox": [
+    -79.704193,
+    43.431816,
+    -79.704193,
+    43.431816
+],
   "geometry": {"coordinates":[-79.704193,43.431816],"type":"Point"}
 }

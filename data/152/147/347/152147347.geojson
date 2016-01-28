@@ -2,13 +2,14 @@
   "id": 152147347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.653412,44.409176,-79.653412,44.409176",
     "geom:latitude":44.409176,
     "geom:longitude":-79.653412,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5 Sydenham Wells",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875263,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01iDuTvf57oMWckgN3adRb_44.409176_-79.653412@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"bf6d43e9ab463b1e891566e5e3a05daf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875263,
+            "region_id":85682057,
+            "venue_id":152147347
+        }
+    ],
     "wof:id":152147347,
-    "wof:lastmodified":1449048421,
+    "wof:lastmodified":1453935967,
     "wof:name":"Let's Party Disc Jockey Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.653412,44.409176,-79.653412,44.409176],
+  "bbox": [
+    -79.653412,
+    44.409176,
+    -79.653412,
+    44.409176
+],
   "geometry": {"coordinates":[-79.653412,44.409176],"type":"Point"}
 }

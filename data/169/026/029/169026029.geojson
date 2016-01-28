@@ -2,13 +2,14 @@
   "id": 169026029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.85836,45.370529,-71.85836,45.370529",
     "geom:latitude":45.370529,
     "geom:longitude":-71.85836,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1 Rue Academy",
     "sg:city":"Lennoxville",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85785017,
+        102191575,
         85633041,
-        85785017
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"6ba7089c38b9c147f62088784029795f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85785017,
+            "region_id":136251273,
             "venue_id":169026029
         }
     ],
     "wof:id":169026029,
-    "wof:lastmodified":1449034635,
+    "wof:lastmodified":1453930840,
     "wof:name":"Place Des Enfants",
     "wof:parent_id":85785017,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.85836,45.370529,-71.85836,45.370529],
+  "bbox": [
+    -71.85836,
+    45.370529,
+    -71.85836,
+    45.370529
+],
   "geometry": {"coordinates":[-71.85836,45.370529],"type":"Point"}
 }

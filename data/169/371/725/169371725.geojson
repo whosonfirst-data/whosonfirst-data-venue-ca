@@ -2,13 +2,14 @@
   "id": 169371725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.410812,45.477356,-73.410812,45.477356",
     "geom:latitude":45.477356,
     "geom:longitude":-73.410812,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6565 Boul Maricourt",
     "sg:city":"Saint-Hubert",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897553,
+        102191575,
         85633041,
-        85897553
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"dc2bd481f5904f1e552e964c5762323c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897553,
+            "region_id":136251273,
             "venue_id":169371725
         }
     ],
     "wof:id":169371725,
-    "wof:lastmodified":1449035226,
+    "wof:lastmodified":1453931422,
     "wof:name":"Toitures Couture & Assoc Inc",
     "wof:parent_id":85897553,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.410812,45.477356,-73.410812,45.477356],
-  "geometry": {"coordinates":[-73.410812,45.477356],"type":"Point"}
+  "bbox": [
+    -73.410812,
+    45.477356,
+    -73.410812,
+    45.477356
+],
+  "geometry": {"coordinates":[-73.41081200000001,45.477356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169084941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.680382,45.400517,-73.680382,45.400517",
     "geom:latitude":45.400517,
     "geom:longitude":-73.680382,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"Rte 132",
     "sg:city":"Kahnawake",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738793,
+        85897639,
+        102191575,
         85633041,
-        85897639
+        101738793,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"cbbd5d359617b282ed9dd2f5d61fdee1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
             "neighbourhood_id":85897639,
+            "region_id":136251273,
             "venue_id":169084941
         }
     ],
     "wof:id":169084941,
-    "wof:lastmodified":1449033036,
+    "wof:lastmodified":1453929164,
     "wof:name":"Calico Cottage",
     "wof:parent_id":85897639,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.680382,45.400517,-73.680382,45.400517],
-  "geometry": {"coordinates":[-73.680382,45.400517],"type":"Point"}
+  "bbox": [
+    -73.680382,
+    45.400517,
+    -73.680382,
+    45.400517
+],
+  "geometry": {"coordinates":[-73.68038199999999,45.400517],"type":"Point"}
 }

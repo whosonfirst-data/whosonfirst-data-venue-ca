@@ -2,13 +2,14 @@
   "id": 219225995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.567497,45.517262,-73.567497,45.517262",
     "geom:latitude":45.517262,
     "geom:longitude":-73.567497,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"425 Rue Sherbrooke E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866487,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"83eecd3ab34760324616737ae0796524",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219225995
         }
     ],
     "wof:id":219225995,
-    "wof:lastmodified":1449071495,
+    "wof:lastmodified":1453937690,
     "wof:name":"Montreal Societe D'Habitation",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "village"
     ]
 },
-  "bbox": [-73.567497,45.517262,-73.567497,45.517262],
+  "bbox": [
+    -73.567497,
+    45.517262,
+    -73.567497,
+    45.517262
+],
   "geometry": {"coordinates":[-73.567497,45.517262],"type":"Point"}
 }

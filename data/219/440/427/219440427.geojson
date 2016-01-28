@@ -2,13 +2,14 @@
   "id": 219440427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.563927,45.58395,-73.563927,45.58395",
     "geom:latitude":45.58395,
     "geom:longitude":-73.563927,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"6680 Place Beaubien",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85897591,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"f8cc1e89ac5bf4e95838bfcd2cf054b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897591,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":219440427
         }
     ],
     "wof:id":219440427,
-    "wof:lastmodified":1449071636,
+    "wof:lastmodified":1453937713,
     "wof:name":"Finition Interieur Syltre",
     "wof:parent_id":85897591,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.563927,45.58395,-73.563927,45.58395],
-  "geometry": {"coordinates":[-73.563927,45.58395],"type":"Point"}
+  "bbox": [
+    -73.563927,
+    45.58395,
+    -73.563927,
+    45.58395
+],
+  "geometry": {"coordinates":[-73.56392700000001,45.58395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186583303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.730179,45.503094,-73.730179,45.503094",
     "geom:latitude":45.503094,
     "geom:longitude":-73.730179,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4010 Ch Du Bois-Franc",
     "sg:city":"Saint-Laurent",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895749,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"e5b256cca6dba61cc6d6bf7456c715e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85895749,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":186583303
         }
     ],
     "wof:id":186583303,
-    "wof:lastmodified":1449052445,
+    "wof:lastmodified":1453936848,
     "wof:name":"Jie Tech Informatique",
     "wof:parent_id":85895749,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.730179,45.503094,-73.730179,45.503094],
-  "geometry": {"coordinates":[-73.730179,45.503094],"type":"Point"}
+  "bbox": [
+    -73.730179,
+    45.503094,
+    -73.730179,
+    45.503094
+],
+  "geometry": {"coordinates":[-73.73017900000001,45.503094],"type":"Point"}
 }

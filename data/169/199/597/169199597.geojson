@@ -2,13 +2,14 @@
   "id": 169199597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.571709,45.515137,-73.571709,45.515137",
     "geom:latitude":45.515137,
     "geom:longitude":-73.571709,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"125 Rue Prince-Arthur E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866487,
+        102191575,
         85633041,
-        85866487
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"e75701dfe4f2f62b923b179955aea4de",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866487,
+            "region_id":136251273,
             "venue_id":169199597
         }
     ],
     "wof:id":169199597,
-    "wof:lastmodified":1449033014,
+    "wof:lastmodified":1453929141,
     "wof:name":"Pagliacci",
     "wof:parent_id":85866487,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.571709,45.515137,-73.571709,45.515137],
+  "bbox": [
+    -73.571709,
+    45.515137,
+    -73.571709,
+    45.515137
+],
   "geometry": {"coordinates":[-73.571709,45.515137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152614983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.713722,43.550556,-79.713722,43.550556",
     "geom:latitude":43.550556,
     "geom:longitude":-79.713722,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4620 Kimbermount Ave",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895311,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,24 @@
     "wof:geomhash":"aca32ce1b74bda21bcf8dc018d837b26",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895311,
+            "region_id":85682057,
+            "venue_id":152614983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895311,
             "region_id":85682057,
             "venue_id":152614983
         }
     ],
     "wof:id":152614983,
-    "wof:lastmodified":1449049026,
+    "wof:lastmodified":1453936455,
     "wof:name":"Amica At Erin Mills",
     "wof:parent_id":85895311,
     "wof:placetype":"venue",
@@ -57,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.713722,43.550556,-79.713722,43.550556],
+  "bbox": [
+    -79.713722,
+    43.550556,
+    -79.713722,
+    43.550556
+],
   "geometry": {"coordinates":[-79.713722,43.550556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169182077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585007,45.567822,-73.585007,45.567822",
     "geom:latitude":45.567822,
     "geom:longitude":-73.585007,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4395 Rue Belanger",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874371,
+        102191575,
         85633041,
-        85874371
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"023550038d5cd74e87ce17c1fbd29458",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874371,
+            "region_id":136251273,
             "venue_id":169182077
         }
     ],
     "wof:id":169182077,
-    "wof:lastmodified":1449034772,
+    "wof:lastmodified":1453930997,
     "wof:name":"Hamel Tv Svc",
     "wof:parent_id":85874371,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.585007,45.567822,-73.585007,45.567822],
+  "bbox": [
+    -73.585007,
+    45.567822,
+    -73.585007,
+    45.567822
+],
   "geometry": {"coordinates":[-73.585007,45.567822],"type":"Point"}
 }

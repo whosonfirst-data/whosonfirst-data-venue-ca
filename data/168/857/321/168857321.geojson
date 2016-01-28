@@ -2,13 +2,14 @@
   "id": 168857321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55571,45.520321,-73.55571,45.520321",
     "geom:latitude":45.520321,
     "geom:longitude":-73.55571,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1462 Rue Panet",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866483,
+        102191575,
         85633041,
-        85866483
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"220763c326950f3f76b3e3594faca2b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866483,
+            "region_id":136251273,
             "venue_id":168857321
         }
     ],
     "wof:id":168857321,
-    "wof:lastmodified":1449028268,
+    "wof:lastmodified":1453928337,
     "wof:name":"Maison Amaryllis",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.55571,45.520321,-73.55571,45.520321],
+  "bbox": [
+    -73.55571,
+    45.520321,
+    -73.55571,
+    45.520321
+],
   "geometry": {"coordinates":[-73.55571,45.520321],"type":"Point"}
 }

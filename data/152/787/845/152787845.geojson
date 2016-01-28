@@ -2,13 +2,14 @@
   "id": 152787845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.730545,45.423843,-75.730545,45.423843",
     "geom:latitude":45.423843,
     "geom:longitude":-75.730545,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"60 Boul Alexandre-Tache",
     "sg:city":"Hull",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874505,
+        102191575,
         85633041,
-        85874505
+        101738041,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a28d2c8d47c807b1c5c413f6ea5935e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738041,
             "neighbourhood_id":85874505,
+            "region_id":136251273,
             "venue_id":152787845
         }
     ],
     "wof:id":152787845,
-    "wof:lastmodified":1449046402,
+    "wof:lastmodified":1453934430,
     "wof:name":"Alberti, Denis",
     "wof:parent_id":85874505,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.730545,45.423843,-75.730545,45.423843],
-  "geometry": {"coordinates":[-75.730545,45.423843],"type":"Point"}
+  "bbox": [
+    -75.730545,
+    45.423843,
+    -75.730545,
+    45.423843
+],
+  "geometry": {"coordinates":[-75.73054500000001,45.423843],"type":"Point"}
 }

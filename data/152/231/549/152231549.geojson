@@ -2,13 +2,14 @@
   "id": 152231549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838593,45.477257,-73.838593,45.477257",
     "geom:latitude":45.477257,
     "geom:longitude":-73.838593,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"4055 Boul Saint-Jean",
     "sg:city":"Dollard-Des-Ormeaux",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736467,
+        85897519,
+        102191575,
         85633041,
-        85897519
+        101736467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3e9bf09ba9a2c36d0f1cb9b87b9281d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736467,
             "neighbourhood_id":85897519,
+            "region_id":136251273,
             "venue_id":152231549
         }
     ],
     "wof:id":152231549,
-    "wof:lastmodified":1449046666,
+    "wof:lastmodified":1453934621,
     "wof:name":"Met-Tech Svc",
     "wof:parent_id":85897519,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.838593,45.477257,-73.838593,45.477257],
+  "bbox": [
+    -73.838593,
+    45.477257,
+    -73.838593,
+    45.477257
+],
   "geometry": {"coordinates":[-73.838593,45.477257],"type":"Point"}
 }

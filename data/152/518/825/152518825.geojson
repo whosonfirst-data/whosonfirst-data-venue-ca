@@ -2,13 +2,14 @@
   "id": 152518825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.459679,45.470917,-73.459679,45.470917",
     "geom:latitude":45.470917,
     "geom:longitude":-73.459679,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"5964 Av Auteuil",
     "sg:city":"Brossard",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736555,
+        85897509,
+        102191575,
         85633041,
-        85897509
+        101736555,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"d3dce293f8f3736b81fa3e3ba473a265",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736555,
             "neighbourhood_id":85897509,
+            "region_id":136251273,
             "venue_id":152518825
         }
     ],
     "wof:id":152518825,
-    "wof:lastmodified":1449046912,
+    "wof:lastmodified":1453934804,
     "wof:name":"Maison DE Jeunes L'Escalier",
     "wof:parent_id":85897509,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.459679,45.470917,-73.459679,45.470917],
-  "geometry": {"coordinates":[-73.459679,45.470917],"type":"Point"}
+  "bbox": [
+    -73.459679,
+    45.470917,
+    -73.459679,
+    45.470917
+],
+  "geometry": {"coordinates":[-73.45967899999999,45.470917],"type":"Point"}
 }

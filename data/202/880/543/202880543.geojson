@@ -2,13 +2,14 @@
   "id": 202880543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.722015,45.588051,-73.722015,45.588051",
     "geom:latitude":45.588051,
     "geom:longitude":-73.722015,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"137 Rue DE LA Station",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875067,
+        102191575,
         85633041,
-        101737759
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,16 @@
     "wof:geomhash":"79b5c0ca613a7f870199e0ea88b4ca94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875067,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202880543
         }
     ],
     "wof:id":202880543,
-    "wof:lastmodified":1449062674,
+    "wof:lastmodified":1453937510,
     "wof:name":"Opti-Van Inc",
     "wof:parent_id":85875067,
     "wof:placetype":"venue",
@@ -62,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-73.722015,45.588051,-73.722015,45.588051],
+  "bbox": [
+    -73.722015,
+    45.588051,
+    -73.722015,
+    45.588051
+],
   "geometry": {"coordinates":[-73.722015,45.588051],"type":"Point"}
 }

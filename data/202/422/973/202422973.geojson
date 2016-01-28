@@ -2,13 +2,14 @@
   "id": 202422973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.849884,43.886112,-78.849884,43.886112",
     "geom:latitude":43.886112,
     "geom:longitude":-78.849884,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"220 Mcnaughton Ave",
     "sg:city":"Oshawa",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875143,
+        102191575,
         85633041,
-        85682057
+        101735997,
+        85682057,
+        101740717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,24 @@
     "wof:geomhash":"f12cf6c242425570e184b0223189bb45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101735997,
+            "neighbourhood_id":85875143,
+            "region_id":85682057,
+            "venue_id":202422973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740717,
             "neighbourhood_id":85875143,
             "region_id":85682057,
             "venue_id":202422973
         }
     ],
     "wof:id":202422973,
-    "wof:lastmodified":1449060287,
+    "wof:lastmodified":1453937010,
     "wof:name":"Motor City Glass",
     "wof:parent_id":85875143,
     "wof:placetype":"venue",
@@ -62,6 +74,11 @@
         "plate"
     ]
 },
-  "bbox": [-78.849884,43.886112,-78.849884,43.886112],
+  "bbox": [
+    -78.849884,
+    43.886112,
+    -78.849884,
+    43.886112
+],
   "geometry": {"coordinates":[-78.849884,43.886112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169172375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576485,45.5271,-73.576485,45.5271",
     "geom:latitude":45.5271,
     "geom:longitude":-73.576485,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1124 Rue Marie-Anne E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85866479,
+        102191575,
         85633041,
-        85866479
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"adbd8963cc451638220d8283a012d337",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85866479,
+            "region_id":136251273,
             "venue_id":169172375
         }
     ],
     "wof:id":169172375,
-    "wof:lastmodified":1449034005,
+    "wof:lastmodified":1453930173,
     "wof:name":"Cooperative DE Production",
     "wof:parent_id":85866479,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576485,45.5271,-73.576485,45.5271],
-  "geometry": {"coordinates":[-73.576485,45.5271],"type":"Point"}
+  "bbox": [
+    -73.576485,
+    45.5271,
+    -73.576485,
+    45.5271
+],
+  "geometry": {"coordinates":[-73.57648500000001,45.5271],"type":"Point"}
 }

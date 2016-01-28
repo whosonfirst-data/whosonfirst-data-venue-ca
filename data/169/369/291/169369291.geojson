@@ -2,13 +2,14 @@
   "id": 169369291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.378769,43.942913,-79.378769,43.942913",
     "geom:latitude":43.942913,
     "geom:longitude":-79.378769,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"12275 Woodbine Ave S",
     "sg:city":"Gormley",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895629,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +40,24 @@
     "wof:geomhash":"1a4ffb27ca1e4df20ccdcfd172458811",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895629,
+            "region_id":85682057,
+            "venue_id":169369291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895629,
             "region_id":85682057,
             "venue_id":169369291
         }
     ],
     "wof:id":169369291,
-    "wof:lastmodified":1449035793,
+    "wof:lastmodified":1453932070,
     "wof:name":"Gormley Corner Store",
     "wof:parent_id":85895629,
     "wof:placetype":"venue",
@@ -52,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.378769,43.942913,-79.378769,43.942913],
-  "geometry": {"coordinates":[-79.378769,43.942913],"type":"Point"}
+  "bbox": [
+    -79.378769,
+    43.942913,
+    -79.378769,
+    43.942913
+],
+  "geometry": {"coordinates":[-79.37876900000001,43.942913],"type":"Point"}
 }

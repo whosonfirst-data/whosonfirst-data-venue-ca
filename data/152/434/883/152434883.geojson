@@ -2,13 +2,14 @@
   "id": 152434883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.212944,43.007328,-81.212944,43.007328",
     "geom:latitude":43.007328,
     "geom:longitude":-81.212944,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1194 Oxford St E",
     "sg:city":"London",
     "sg:classifiers":[
@@ -27,23 +28,43 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874927,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kW3N8IiYrrpQgHHdKufOz_43.007328_-81.212944@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"381fbee636bd56c15fc9c526cdc963e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874927,
+            "region_id":85682057,
+            "venue_id":152434883
+        }
+    ],
     "wof:id":152434883,
-    "wof:lastmodified":1449045306,
+    "wof:lastmodified":1453933591,
     "wof:name":"Oxford Motors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.212944,43.007328,-81.212944,43.007328],
-  "geometry": {"coordinates":[-81.212944,43.007328],"type":"Point"}
+  "bbox": [
+    -81.212944,
+    43.007328,
+    -81.212944,
+    43.007328
+],
+  "geometry": {"coordinates":[-81.21294399999999,43.007328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169091183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.912544,45.416203,-71.912544,45.416203",
     "geom:latitude":45.416203,
     "geom:longitude":-71.912544,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1490 Rue Beckett",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738289,
+        85874189,
+        102191575,
         85633041,
-        85874189
+        101738289,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"213982319e25fee6e722a57b444f6c12",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738289,
             "neighbourhood_id":85874189,
+            "region_id":136251273,
             "venue_id":169091183
         }
     ],
     "wof:id":169091183,
-    "wof:lastmodified":1449033000,
+    "wof:lastmodified":1453929131,
     "wof:name":"Affacturage Plus Inc",
     "wof:parent_id":85874189,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.912544,45.416203,-71.912544,45.416203],
+  "bbox": [
+    -71.912544,
+    45.416203,
+    -71.912544,
+    45.416203
+],
   "geometry": {"coordinates":[-71.912544,45.416203],"type":"Point"}
 }

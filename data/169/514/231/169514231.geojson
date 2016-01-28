@@ -2,13 +2,14 @@
   "id": 169514231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.516769,45.631119,-73.516769,45.631119",
     "geom:latitude":45.631119,
     "geom:longitude":-73.516769,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Montreal-Est",
     "sg:classifiers":[
         {
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85784837,
+        102191575,
         85633041,
-        85784837
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"4a574718ad79aa2245628b89c5b01b10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85784837,
+            "region_id":136251273,
             "venue_id":169514231
         }
     ],
     "wof:id":169514231,
-    "wof:lastmodified":1449034342,
+    "wof:lastmodified":1453930516,
     "wof:name":"Envirotech Inc",
     "wof:parent_id":85784837,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.516769,45.631119,-73.516769,45.631119],
+  "bbox": [
+    -73.516769,
+    45.631119,
+    -73.516769,
+    45.631119
+],
   "geometry": {"coordinates":[-73.516769,45.631119],"type":"Point"}
 }

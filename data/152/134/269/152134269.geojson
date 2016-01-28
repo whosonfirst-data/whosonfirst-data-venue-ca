@@ -2,13 +2,14 @@
   "id": 152134269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.710197,43.4258,-79.710197,43.4258",
     "geom:latitude":43.4258,
     "geom:longitude":-79.710197,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Oakville",
     "sg:classifiers":[
         {
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895183,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"c93e559185beadec35a7e7fb656d779e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895183,
+            "region_id":85682057,
+            "venue_id":152134269
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895183,
             "region_id":85682057,
             "venue_id":152134269
         }
     ],
     "wof:id":152134269,
-    "wof:lastmodified":1449048663,
+    "wof:lastmodified":1453936135,
     "wof:name":"Metal Supermarkets",
     "wof:parent_id":85895183,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.710197,43.4258,-79.710197,43.4258],
-  "geometry": {"coordinates":[-79.710197,43.4258],"type":"Point"}
+  "bbox": [
+    -79.710197,
+    43.4258,
+    -79.710197,
+    43.4258
+],
+  "geometry": {"coordinates":[-79.71019699999999,43.4258],"type":"Point"}
 }

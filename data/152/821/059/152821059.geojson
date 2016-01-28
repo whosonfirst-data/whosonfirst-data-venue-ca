@@ -2,13 +2,14 @@
   "id": 152821059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.700424,44.402874,-79.700424,44.402874",
     "geom:latitude":44.402874,
     "geom:longitude":-79.700424,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Barrie",
     "sg:classifiers":[
         {
@@ -26,23 +27,43 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875267,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19gcoxUCTcqVaWGmWWaTOH_44.402874_-79.700424@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"b77be9dd5c620ec82273a5a210be603b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875267,
+            "region_id":85682057,
+            "venue_id":152821059
+        }
+    ],
     "wof:id":152821059,
-    "wof:lastmodified":1449046816,
+    "wof:lastmodified":1453934726,
     "wof:name":"Mike Mallette's Mortgage Intl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.700424,44.402874,-79.700424,44.402874],
+  "bbox": [
+    -79.700424,
+    44.402874,
+    -79.700424,
+    44.402874
+],
   "geometry": {"coordinates":[-79.700424,44.402874],"type":"Point"}
 }

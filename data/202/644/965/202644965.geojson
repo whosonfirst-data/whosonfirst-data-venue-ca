@@ -2,13 +2,14 @@
   "id": 202644965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.433762,45.572411,-73.433762,45.572411",
     "geom:latitude":45.572411,
     "geom:longitude":-73.433762,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1231 Rue Gay-Lussac",
     "sg:city":"Boucherville",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85875755,
+        102191575,
         85633041,
-        101738135
+        101738135,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +45,16 @@
     "wof:geomhash":"6701336153f59871bb4062843f9efa75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738135,
             "neighbourhood_id":85875755,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":202644965
         }
     ],
     "wof:id":202644965,
-    "wof:lastmodified":1449061552,
+    "wof:lastmodified":1453937280,
     "wof:name":"Piscines Fontaine Inc",
     "wof:parent_id":85875755,
     "wof:placetype":"venue",
@@ -64,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-73.433762,45.572411,-73.433762,45.572411],
+  "bbox": [
+    -73.433762,
+    45.572411,
+    -73.433762,
+    45.572411
+],
   "geometry": {"coordinates":[-73.433762,45.572411],"type":"Point"}
 }

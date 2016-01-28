@@ -2,13 +2,14 @@
   "id": 169031747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.041962,43.629868,-80.041962,43.629868",
     "geom:latitude":43.629868,
     "geom:longitude":-80.041962,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Acton",
     "sg:classifiers":[
         {
@@ -23,9 +24,12 @@
     "sg:province":"ON",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895185,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101736091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,15 +39,24 @@
     "wof:geomhash":"ab88e5875a7551baa1ed99a7d9b65655",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895185,
+            "region_id":85682057,
+            "venue_id":169031747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736091,
             "neighbourhood_id":85895185,
             "region_id":85682057,
             "venue_id":169031747
         }
     ],
     "wof:id":169031747,
-    "wof:lastmodified":1449033915,
+    "wof:lastmodified":1453930072,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85895185,
     "wof:placetype":"venue",
@@ -51,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.041962,43.629868,-80.041962,43.629868],
+  "bbox": [
+    -80.041962,
+    43.629868,
+    -80.041962,
+    43.629868
+],
   "geometry": {"coordinates":[-80.041962,43.629868],"type":"Point"}
 }

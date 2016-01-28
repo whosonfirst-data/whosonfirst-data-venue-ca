@@ -2,13 +2,14 @@
   "id": 152211019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.557449,43.766666,-79.557449,43.766666",
     "geom:latitude":43.766666,
     "geom:longitude":-79.557449,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"100 Turbine Dr",
     "sg:city":"North York",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895557,
-        85682057
+        102191575,
+        85633041,
+        101736093,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +43,24 @@
     "wof:geomhash":"3d319e6925c28d59b3c20de1b1f33ca0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736093,
+            "neighbourhood_id":85895557,
+            "region_id":85682057,
+            "venue_id":152211019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895557,
             "region_id":85682057,
             "venue_id":152211019
         }
     ],
     "wof:id":152211019,
-    "wof:lastmodified":1449045433,
+    "wof:lastmodified":1453933698,
     "wof:name":"New Star Auto Svc",
     "wof:parent_id":85895557,
     "wof:placetype":"venue",
@@ -55,6 +68,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.557449,43.766666,-79.557449,43.766666],
-  "geometry": {"coordinates":[-79.557449,43.766666],"type":"Point"}
+  "bbox": [
+    -79.557449,
+    43.766666,
+    -79.557449,
+    43.766666
+],
+  "geometry": {"coordinates":[-79.55744900000001,43.766666],"type":"Point"}
 }

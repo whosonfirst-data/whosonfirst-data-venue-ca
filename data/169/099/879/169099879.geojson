@@ -2,13 +2,14 @@
   "id": 169099879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.760094,45.530437,-73.760094,45.530437",
     "geom:latitude":45.530437,
     "geom:longitude":-73.760094,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"272 99E Av",
     "sg:city":"Laval",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737759,
+        85875063,
+        102191575,
         85633041,
-        85875063
+        101737759,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"211fcda034f646701ba710f069b83fbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737759,
             "neighbourhood_id":85875063,
+            "region_id":136251273,
             "venue_id":169099879
         }
     ],
     "wof:id":169099879,
-    "wof:lastmodified":1449034833,
+    "wof:lastmodified":1453931066,
     "wof:name":"Angelos Painting",
     "wof:parent_id":85875063,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.760094,45.530437,-73.760094,45.530437],
+  "bbox": [
+    -73.760094,
+    45.530437,
+    -73.760094,
+    45.530437
+],
   "geometry": {"coordinates":[-73.760094,45.530437],"type":"Point"}
 }

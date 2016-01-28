@@ -2,13 +2,14 @@
   "id": 152184653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.025894,45.398705,-74.025894,45.398705",
     "geom:latitude":45.398705,
     "geom:longitude":-74.025894,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"417 Av Saint-Charles",
     "sg:city":"Vaudreuil-Dorion",
     "sg:classifiers":[
@@ -29,9 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736869,
+        85895781,
+        102191575,
         85633041,
-        85895781
+        101736869,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"6b53674f5621063baa04e2d394f9cb6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736869,
             "neighbourhood_id":85895781,
+            "region_id":136251273,
             "venue_id":152184653
         }
     ],
     "wof:id":152184653,
-    "wof:lastmodified":1449045082,
+    "wof:lastmodified":1453933425,
     "wof:name":"Comptabec Inc",
     "wof:parent_id":85895781,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.025894,45.398705,-74.025894,45.398705],
-  "geometry": {"coordinates":[-74.025894,45.398705],"type":"Point"}
+  "bbox": [
+    -74.025894,
+    45.398705,
+    -74.025894,
+    45.398705
+],
+  "geometry": {"coordinates":[-74.02589399999999,45.398705],"type":"Point"}
 }

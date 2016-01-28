@@ -2,13 +2,14 @@
   "id": 153085685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.666901,43.745647,-79.666901,43.745647",
     "geom:latitude":43.745647,
     "geom:longitude":-79.666901,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"76 Wentworth Crt",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895229,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"5d8e020a9cce19a56eb082b5436ee5a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":153085685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":153085685
         }
     ],
     "wof:id":153085685,
-    "wof:lastmodified":1449040456,
+    "wof:lastmodified":1453932410,
     "wof:name":"Chep Canada Inc",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.666901,43.745647,-79.666901,43.745647],
+  "bbox": [
+    -79.666901,
+    43.745647,
+    -79.666901,
+    43.745647
+],
   "geometry": {"coordinates":[-79.666901,43.745647],"type":"Point"}
 }

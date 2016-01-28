@@ -2,13 +2,14 @@
   "id": 168888399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.579414,43.622887,-79.579414,43.622887",
     "geom:latitude":43.622887,
     "geom:longitude":-79.579414,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3216 Wharton Way",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895479,
-        85682057
+        102191575,
+        85633041,
+        101740755,
+        85682057,
+        101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"a39236bc63b4add686d542d197a3b7c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895479,
+            "region_id":85682057,
+            "venue_id":168888399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
             "neighbourhood_id":85895479,
             "region_id":85682057,
             "venue_id":168888399
         }
     ],
     "wof:id":168888399,
-    "wof:lastmodified":1449028260,
+    "wof:lastmodified":1453928326,
     "wof:name":"Mcl Professional Photofnshng",
     "wof:parent_id":85895479,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.579414,43.622887,-79.579414,43.622887],
+  "bbox": [
+    -79.579414,
+    43.622887,
+    -79.579414,
+    43.622887
+],
   "geometry": {"coordinates":[-79.579414,43.622887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169672759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658005,45.538544,-73.658005,45.538544",
     "geom:latitude":45.538544,
     "geom:longitude":-73.658005,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"9475 Rue Meilleur",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85874377,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,16 @@
     "wof:geomhash":"acb72316e60cd712cafeb21865a9c50b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169672759
         }
     ],
     "wof:id":169672759,
-    "wof:lastmodified":1449032891,
+    "wof:lastmodified":1453929013,
     "wof:name":"Milton Funwear",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -58,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [-73.658005,45.538544,-73.658005,45.538544],
+  "bbox": [
+    -73.658005,
+    45.538544,
+    -73.658005,
+    45.538544
+],
   "geometry": {"coordinates":[-73.658005,45.538544],"type":"Point"}
 }

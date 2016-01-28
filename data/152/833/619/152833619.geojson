@@ -2,13 +2,14 @@
   "id": 152833619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.686058,44.412674,-79.686058,44.412674",
     "geom:latitude":44.412674,
     "geom:longitude":-79.686058,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"221 Cundles Rd E #10",
     "sg:city":"Barrie",
     "sg:classifiers":[
@@ -23,23 +24,43 @@
     "sg:postcode":"L4M 6L5",
     "sg:province":"ON",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875267,
+        102191575,
+        85633041,
+        101735527,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AF1JSUCFwX3lv1BcLhXAO_44.412674_-79.686058@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"774063c6de79e037dbacfeb092b29a03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735527,
+            "neighbourhood_id":85875267,
+            "region_id":85682057,
+            "venue_id":152833619
+        }
+    ],
     "wof:id":152833619,
-    "wof:lastmodified":1449044892,
+    "wof:lastmodified":1453933285,
     "wof:name":"Hair For You",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.686058,44.412674,-79.686058,44.412674],
+  "bbox": [
+    -79.686058,
+    44.412674,
+    -79.686058,
+    44.412674
+],
   "geometry": {"coordinates":[-79.686058,44.412674],"type":"Point"}
 }

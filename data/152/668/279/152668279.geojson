@@ -2,13 +2,14 @@
   "id": 152668279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.446381,43.909485,-79.446381,43.909485",
     "geom:latitude":43.909485,
     "geom:longitude":-79.446381,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"11552 Yonge St",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895003,
-        85682057
+        102191575,
+        85633041,
+        101736179,
+        85682057,
+        101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"807c2d88adb740653efe14398ccfe612",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101736179,
+            "neighbourhood_id":85895003,
+            "region_id":85682057,
+            "venue_id":152668279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
             "neighbourhood_id":85895003,
             "region_id":85682057,
             "venue_id":152668279
         }
     ],
     "wof:id":152668279,
-    "wof:lastmodified":1449047520,
+    "wof:lastmodified":1453935274,
     "wof:name":"Lexus of Richmond Hill",
     "wof:parent_id":85895003,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.446381,43.909485,-79.446381,43.909485],
+  "bbox": [
+    -79.446381,
+    43.909485,
+    -79.446381,
+    43.909485
+],
   "geometry": {"coordinates":[-79.446381,43.909485],"type":"Point"}
 }

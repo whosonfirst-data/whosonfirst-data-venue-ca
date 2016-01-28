@@ -2,13 +2,14 @@
   "id": 152596821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.693718,43.515377,-79.693718,43.515377",
     "geom:latitude":43.515377,
     "geom:longitude":-79.693718,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"3375 Laird Rd",
     "sg:city":"Mississauga",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85895587,
-        85682057
+        102191575,
+        85633041,
+        101740713,
+        85682057,
+        101735889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,24 @@
     "wof:geomhash":"ec6ea011d31dbddd9fa125e84de6e35a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740713,
+            "neighbourhood_id":85895587,
+            "region_id":85682057,
+            "venue_id":152596821
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
             "neighbourhood_id":85895587,
             "region_id":85682057,
             "venue_id":152596821
         }
     ],
     "wof:id":152596821,
-    "wof:lastmodified":1449046670,
+    "wof:lastmodified":1453934627,
     "wof:name":"Eglinton Carpets & Rugs",
     "wof:parent_id":85895587,
     "wof:placetype":"venue",
@@ -56,6 +69,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.693718,43.515377,-79.693718,43.515377],
+  "bbox": [
+    -79.693718,
+    43.515377,
+    -79.693718,
+    43.515377
+],
   "geometry": {"coordinates":[-79.693718,43.515377],"type":"Point"}
 }

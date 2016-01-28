@@ -2,13 +2,14 @@
   "id": 152230349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.080559,49.277153,-123.080559,49.277153",
     "geom:latitude":49.277153,
     "geom:longitude":-123.080559,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1132 Union St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -27,9 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
-        85633041,
         85865079,
+        102191575,
+        85633041,
+        101741075,
         85682117
     ],
     "wof:breaches":[],
@@ -40,6 +42,7 @@
     "wof:geomhash":"73a3e6e4737b820fc36268724a4042b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741075,
             "neighbourhood_id":85865079,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":152230349,
-    "wof:lastmodified":1449047733,
+    "wof:lastmodified":1453935447,
     "wof:name":"Brixton Industries Ltd",
     "wof:parent_id":85865079,
     "wof:placetype":"venue",
@@ -56,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.080559,49.277153,-123.080559,49.277153],
-  "geometry": {"coordinates":[-123.080559,49.277153],"type":"Point"}
+  "bbox": [
+    -123.080559,
+    49.277153,
+    -123.080559,
+    49.277153
+],
+  "geometry": {"coordinates":[-123.08055899999999,49.277153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169485305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.29673,45.354939,-73.29673,45.354939",
     "geom:latitude":45.354939,
     "geom:longitude":-73.29673,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"276 Boul Saint-Luc",
     "sg:city":"Saint-Luc",
     "sg:classifiers":[
@@ -24,9 +25,11 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738721,
+        85864393,
+        102191575,
         85633041,
-        85864393
+        101738721,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +39,16 @@
     "wof:geomhash":"ea80b442413931f21ce928cb39a0da25",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738721,
             "neighbourhood_id":85864393,
+            "region_id":136251273,
             "venue_id":169485305
         }
     ],
     "wof:id":169485305,
-    "wof:lastmodified":1449034693,
+    "wof:lastmodified":1453930899,
     "wof:name":"Salon Coiff'Azur Inc",
     "wof:parent_id":85864393,
     "wof:placetype":"venue",
@@ -51,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.29673,45.354939,-73.29673,45.354939],
+  "bbox": [
+    -73.29673,
+    45.354939,
+    -73.29673,
+    45.354939
+],
   "geometry": {"coordinates":[-73.29673,45.354939],"type":"Point"}
 }

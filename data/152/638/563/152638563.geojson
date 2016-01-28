@@ -2,13 +2,14 @@
   "id": 152638563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.643486,45.588303,-73.643486,45.588303",
     "geom:latitude":45.588303,
     "geom:longitude":-73.643486,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"10920 Av DE Bruxelles",
     "sg:city":"Montreal-Nord",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874395,
+        102191575,
         85633041,
-        85874395
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"31bdf4b05ecff406bed9d01023703468",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874395,
+            "region_id":136251273,
             "venue_id":152638563
         }
     ],
     "wof:id":152638563,
-    "wof:lastmodified":1449044552,
+    "wof:lastmodified":1453933020,
     "wof:name":"Mario Sicard Electrique Inc",
     "wof:parent_id":85874395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.643486,45.588303,-73.643486,45.588303],
+  "bbox": [
+    -73.643486,
+    45.588303,
+    -73.643486,
+    45.588303
+],
   "geometry": {"coordinates":[-73.643486,45.588303],"type":"Point"}
 }

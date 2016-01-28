@@ -2,13 +2,14 @@
   "id": 152409725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.181953,46.807785,-71.181953,46.807785",
     "geom:latitude":46.807785,
     "geom:longitude":-71.181953,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"39 Av Begin",
     "sg:city":"Levis",
     "sg:classifiers":[
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737987,
+        85866517,
+        102191575,
         85633041,
-        85866517
+        101737987,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,16 @@
     "wof:geomhash":"a8624566109645056e4aad10e34e4213",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737987,
             "neighbourhood_id":85866517,
+            "region_id":136251273,
             "venue_id":152409725
         }
     ],
     "wof:id":152409725,
-    "wof:lastmodified":1449046203,
+    "wof:lastmodified":1453934277,
     "wof:name":"Ecole DE Conduite Rond-Point",
     "wof:parent_id":85866517,
     "wof:placetype":"venue",
@@ -57,6 +62,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.181953,46.807785,-71.181953,46.807785],
-  "geometry": {"coordinates":[-71.181953,46.807785],"type":"Point"}
+  "bbox": [
+    -71.181953,
+    46.807785,
+    -71.181953,
+    46.807785
+],
+  "geometry": {"coordinates":[-71.18195299999999,46.807785],"type":"Point"}
 }

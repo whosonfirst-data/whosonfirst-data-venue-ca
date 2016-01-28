@@ -2,13 +2,14 @@
   "id": 152456597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62896,45.432014,-73.62896,45.432014",
     "geom:latitude":45.432014,
     "geom:longitude":-73.62896,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Lasalle",
     "sg:classifiers":[
         {
@@ -26,9 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85897545,
+        102191575,
         85633041,
-        85897545
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,16 @@
     "wof:geomhash":"ee53ed4616a29286bd24f0e386c85caa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85897545,
+            "region_id":136251273,
             "venue_id":152456597
         }
     ],
     "wof:id":152456597,
-    "wof:lastmodified":1449045680,
+    "wof:lastmodified":1453933884,
     "wof:name":"Gestion Alta Inc",
     "wof:parent_id":85897545,
     "wof:placetype":"venue",
@@ -53,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.62896,45.432014,-73.62896,45.432014],
-  "geometry": {"coordinates":[-73.62896,45.432014],"type":"Point"}
+  "bbox": [
+    -73.62896,
+    45.432014,
+    -73.62896,
+    45.432014
+],
+  "geometry": {"coordinates":[-73.62896000000001,45.432014],"type":"Point"}
 }

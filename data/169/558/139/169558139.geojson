@@ -2,13 +2,14 @@
   "id": 169558139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.637512,45.541069,-73.637512,45.541069",
     "geom:latitude":45.541069,
     "geom:longitude":-73.637512,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"39 Rue DE Liege E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101736545,
+        85874377,
+        102191575,
         85633041,
-        85874377
+        101736545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"89628f9edb0f516725860c79c3f508a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
             "venue_id":169558139
         }
     ],
     "wof:id":169558139,
-    "wof:lastmodified":1449033580,
+    "wof:lastmodified":1453929705,
     "wof:name":"Biscuiterie Robert",
     "wof:parent_id":85874377,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.637512,45.541069,-73.637512,45.541069],
+  "bbox": [
+    -73.637512,
+    45.541069,
+    -73.637512,
+    45.541069
+],
   "geometry": {"coordinates":[-73.637512,45.541069],"type":"Point"}
 }

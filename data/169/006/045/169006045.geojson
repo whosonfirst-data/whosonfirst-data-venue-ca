@@ -2,13 +2,14 @@
   "id": 169006045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.309608,44.322708,-78.309608,44.322708",
     "geom:latitude":44.322708,
     "geom:longitude":-78.309608,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:city":"Peterborough",
     "sg:classifiers":[
         {
@@ -26,9 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85864497,
-        85682057
+        102191575,
+        85633041,
+        101740721,
+        85682057,
+        101736259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,24 @@
     "wof:geomhash":"0fc4344fba784ce39b99960a49203ac0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740721,
+            "neighbourhood_id":85864497,
+            "region_id":85682057,
+            "venue_id":169006045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736259,
             "neighbourhood_id":85864497,
             "region_id":85682057,
             "venue_id":169006045
         }
     ],
     "wof:id":169006045,
-    "wof:lastmodified":1449035319,
+    "wof:lastmodified":1453931524,
     "wof:name":"Moher, Brendan J",
     "wof:parent_id":85864497,
     "wof:placetype":"venue",
@@ -54,6 +67,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.309608,44.322708,-78.309608,44.322708],
+  "bbox": [
+    -78.309608,
+    44.322708,
+    -78.309608,
+    44.322708
+],
   "geometry": {"coordinates":[-78.309608,44.322708],"type":"Point"}
 }

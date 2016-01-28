@@ -2,13 +2,14 @@
   "id": 219716051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.743034,43.734467,-79.743034,43.734467",
     "geom:latitude":43.734467,
     "geom:longitude":-79.743034,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"930 North Park Dr # 4",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85895229,
+        102191575,
         85633041,
-        85682057
+        101740755,
+        85682057,
+        101735903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,24 @@
     "wof:geomhash":"f9ea441026d78bb1a99fc70e52ea91eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101740755,
+            "neighbourhood_id":85895229,
+            "region_id":85682057,
+            "venue_id":219716051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735903,
             "neighbourhood_id":85895229,
             "region_id":85682057,
             "venue_id":219716051
         }
     ],
     "wof:id":219716051,
-    "wof:lastmodified":1449070895,
+    "wof:lastmodified":1453937610,
     "wof:name":"Sketchley Cleaners",
     "wof:parent_id":85895229,
     "wof:placetype":"venue",
@@ -58,6 +70,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-79.743034,43.734467,-79.743034,43.734467],
-  "geometry": {"coordinates":[-79.743034,43.734467],"type":"Point"}
+  "bbox": [
+    -79.743034,
+    43.734467,
+    -79.743034,
+    43.734467
+],
+  "geometry": {"coordinates":[-79.74303399999999,43.734467],"type":"Point"}
 }

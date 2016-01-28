@@ -2,13 +2,14 @@
   "id": 152362239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.14566,49.20557,-123.14566,49.20557",
     "geom:latitude":49.20557,
     "geom:longitude":-123.14566,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1670 75th Ave W",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -28,11 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101741075,
+        102555307,
+        85894871,
+        102191575,
         85633041,
-        85865017,
-        85682117,
-        85865009
+        101741081,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,29 +44,29 @@
     "wof:geomhash":"07c6943dde66748b396848cb465fb002",
     "wof:hierarchy":[
         {
+            "campus_id":102555307,
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101741075,
-            "neighbourhood_id":85865017,
-            "region_id":85682117,
-            "venue_id":152362239
-        },
-        {
-            "country_id":85633041,
-            "locality_id":101741075,
-            "neighbourhood_id":85865009,
+            "locality_id":101741081,
+            "neighbourhood_id":85894871,
             "region_id":85682117,
             "venue_id":152362239
         }
     ],
     "wof:id":152362239,
-    "wof:lastmodified":1449047283,
+    "wof:lastmodified":1453935083,
     "wof:name":"Talisman Land Resource Conslnt",
-    "wof:parent_id":-1,
+    "wof:parent_id":102555307,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.14566,49.20557,-123.14566,49.20557],
-  "geometry": {"coordinates":[-123.14566,49.20557],"type":"Point"}
+  "bbox": [
+    -123.14566,
+    49.20557,
+    -123.14566,
+    49.20557
+],
+  "geometry": {"coordinates":[-123.14566000000001,49.20557],"type":"Point"}
 }

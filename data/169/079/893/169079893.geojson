@@ -2,13 +2,14 @@
   "id": 169079893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.453217,45.75013,-73.453217,45.75013",
     "geom:latitude":45.75013,
     "geom:longitude":-73.453217,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"515 Rue Lanaudiere",
     "sg:city":"Repentigny",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737691,
+        85784893,
+        102191575,
         85633041,
-        85784893
+        101737691,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"ba584be8ab3e9dc18ff3728a8949dc83",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737691,
             "neighbourhood_id":85784893,
+            "region_id":136251273,
             "venue_id":169079893
         }
     ],
     "wof:id":169079893,
-    "wof:lastmodified":1449035413,
+    "wof:lastmodified":1453931621,
     "wof:name":"Atelier Mecanique Df",
     "wof:parent_id":85784893,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.453217,45.75013,-73.453217,45.75013],
+  "bbox": [
+    -73.453217,
+    45.75013,
+    -73.453217,
+    45.75013
+],
   "geometry": {"coordinates":[-73.453217,45.75013],"type":"Point"}
 }

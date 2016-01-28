@@ -2,13 +2,14 @@
   "id": 152256659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.341393,46.911499,-71.341393,46.911499",
     "geom:latitude":46.911499,
     "geom:longitude":-71.341393,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"285 Rue DE L'Eglise # 100",
     "sg:city":"Charlesbourg",
     "sg:classifiers":[
@@ -27,9 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85785121,
+        102191575,
         85633041,
-        85785121
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,16 @@
     "wof:geomhash":"a06e0e57e439406151a3d8a22954ac09",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85785121,
+            "region_id":136251273,
             "venue_id":152256659
         }
     ],
     "wof:id":152256659,
-    "wof:lastmodified":1449047813,
+    "wof:lastmodified":1453935509,
     "wof:name":"Villeneuve, Elise",
     "wof:parent_id":85785121,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.341393,46.911499,-71.341393,46.911499],
+  "bbox": [
+    -71.341393,
+    46.911499,
+    -71.341393,
+    46.911499
+],
   "geometry": {"coordinates":[-71.341393,46.911499],"type":"Point"}
 }

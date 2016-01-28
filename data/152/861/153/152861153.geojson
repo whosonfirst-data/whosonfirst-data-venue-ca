@@ -2,13 +2,14 @@
   "id": 152861153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.179436,46.870098,-71.179436,46.870098",
     "geom:latitude":46.870098,
     "geom:longitude":-71.179436,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"19 Rue Armand-Buteau",
     "sg:city":"Beauport",
     "sg:classifiers":[
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101737491,
+        85784675,
+        102191575,
         85633041,
-        85784675
+        101737491,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,16 @@
     "wof:geomhash":"3c76c3e54d0e2b1b16fe7f86026d7130",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101737491,
             "neighbourhood_id":85784675,
+            "region_id":136251273,
             "venue_id":152861153
         }
     ],
     "wof:id":152861153,
-    "wof:lastmodified":1449048877,
+    "wof:lastmodified":1453936316,
     "wof:name":"Service Domestique Clair & Net",
     "wof:parent_id":85784675,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.179436,46.870098,-71.179436,46.870098],
+  "bbox": [
+    -71.179436,
+    46.870098,
+    -71.179436,
+    46.870098
+],
   "geometry": {"coordinates":[-71.179436,46.870098],"type":"Point"}
 }

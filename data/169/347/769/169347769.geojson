@@ -2,13 +2,14 @@
   "id": 169347769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.331902,42.99799,-81.331902,42.99799",
     "geom:latitude":42.99799,
     "geom:longitude":-81.331902,
     "iso:country":"CA",
+    "mz:is_current":-1,
     "sg:address":"1570 Hyde Park Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -26,23 +27,43 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85874935,
+        102191575,
+        85633041,
+        101735809,
+        85682057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qCuR4XaLfliQwMhQm3R6C_42.997990_-81.331902@1293573121"
     },
     "wof:country":"CA",
     "wof:geomhash":"e3f401640c1f86d3bc94c9d5dfa7363d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735809,
+            "neighbourhood_id":85874935,
+            "region_id":85682057,
+            "venue_id":169347769
+        }
+    ],
     "wof:id":169347769,
-    "wof:lastmodified":1449034275,
+    "wof:lastmodified":1453930453,
     "wof:name":"Rozeluk & CO",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.331902,42.99799,-81.331902,42.99799],
+  "bbox": [
+    -81.331902,
+    42.99799,
+    -81.331902,
+    42.99799
+],
   "geometry": {"coordinates":[-81.331902,42.99799],"type":"Point"}
 }
