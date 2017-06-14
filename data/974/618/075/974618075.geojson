@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6238632202,45.4797935486,-73.6238632202,45.4797935486",
     "geom:latitude":45.479794,
     "geom:longitude":-73.623863,
@@ -32,8 +33,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        85897527,
+        1108955923,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +46,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472243157,
-    "wof:geomhash":"9ea609a1bc6a55aa47559b7f4d8243d1",
+    "wof:geomhash":"7c661361609d9e16d0217c76720fe52e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":974618075
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897527,
             "region_id":136251273,
             "venue_id":974618075
         }
     ],
     "wof:id":974618075,
-    "wof:lastmodified":1472524788,
+    "wof:lastmodified":1497477579,
     "wof:name":"Depanneur Final",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

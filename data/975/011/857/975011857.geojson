@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6140670776,45.476524353,-73.6140670776,45.476524353",
     "geom:latitude":45.476524,
     "geom:longitude":-73.614067,
@@ -38,7 +39,11 @@
         102191575,
         85633041,
         101736451,
-        136251273
+        136251273,
+        1108959371,
+        1108955927,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +51,7 @@
     },
     "wof:country":"CA",
     "wof:created":1472273698,
-    "wof:geomhash":"3de3ed8647291cf67e20c3f7059242f6",
+    "wof:geomhash":"0fed64f037e687be5a160b4c4f8e8c0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +60,22 @@
             "neighbourhood_id":85897633,
             "region_id":136251273,
             "venue_id":975011857
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959371,
+            "region_id":136251273,
+            "venue_id":975011857
         }
     ],
     "wof:id":975011857,
-    "wof:lastmodified":1472520068,
+    "wof:lastmodified":1497478116,
     "wof:name":"Montreal Piscines Interieures",
-    "wof:parent_id":85897633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

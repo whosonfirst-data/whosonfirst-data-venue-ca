@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5759963989,45.6522521973,-73.5759963989,45.6522521973",
     "geom:latitude":45.652252,
     "geom:longitude":-73.575996,
@@ -29,11 +30,14 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871105,
+        420784417,
         102191575,
         85633041,
-        101737759,
-        136251273
+        101736545,
+        1108955733,
+        136251273,
+        85871105,
+        101737759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +45,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472274057,
-    "wof:geomhash":"50e3957d859aa6d40ccd717d91b548ae",
+    "wof:geomhash":"00240d73f8df86194a27759b8088dec7",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955733,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":420784417,
+            "region_id":136251273,
+            "venue_id":975020045
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":975020045,
-    "wof:lastmodified":1472520179,
+    "wof:lastmodified":1497477824,
     "wof:name":"Garderie Chez Nou-Nou Inc",
-    "wof:parent_id":85871105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

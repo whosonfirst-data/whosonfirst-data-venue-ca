@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6434020996,45.5628967285,-73.6434020996,45.5628967285",
     "geom:latitude":45.562897,
     "geom:longitude":-73.643402,
@@ -29,11 +30,14 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897501,
+        85874377,
         102191575,
+        1108955857,
         85633041,
         101736545,
-        136251273
+        1108906763,
+        136251273,
+        85897501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +45,33 @@
     },
     "wof:country":"CA",
     "wof:created":1472240059,
-    "wof:geomhash":"6612b37f80dcd4afc178cfc488dfe2fd",
+    "wof:geomhash":"df81269e6052aded6ae94878131f4390",
     "wof:hierarchy":[
         {
+            "borough_id":1108906763,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955857,
+            "neighbourhood_id":85874377,
+            "region_id":136251273,
+            "venue_id":974556555
+        },
+        {
+            "borough_id":1108906763,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955857,
             "neighbourhood_id":85897501,
             "region_id":136251273,
             "venue_id":974556555
         }
     ],
     "wof:id":974556555,
-    "wof:lastmodified":1472522831,
+    "wof:lastmodified":1497477461,
     "wof:name":"Cpe Domaine St Sulpice",
-    "wof:parent_id":85897501,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

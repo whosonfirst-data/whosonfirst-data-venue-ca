@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5457246,45.5573273,-73.5457246,45.5573273",
     "geom:latitude":45.557327,
     "geom:longitude":-73.545725,
@@ -32,7 +33,9 @@
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955765,
+        136251273,
+        85874379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,21 +43,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472279200,
-    "wof:geomhash":"6bdf48821fe46120d62352833d4954f8",
+    "wof:geomhash":"18f5ae37e09c51d7f57487cdb45f2554",
     "wof:hierarchy":[
         {
+            "borough_id":1108955765,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
             "region_id":136251273,
             "venue_id":975140735
+        },
+        {
+            "borough_id":1108955765,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874379,
+            "region_id":136251273,
+            "venue_id":975140735
         }
     ],
     "wof:id":975140735,
-    "wof:lastmodified":1472521964,
+    "wof:lastmodified":1497477475,
     "wof:name":"Smart AdServer",
-    "wof:parent_id":85874387,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

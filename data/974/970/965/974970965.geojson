@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5638809204,45.6507797241,-73.5638809204,45.6507797241",
     "geom:latitude":45.65078,
     "geom:longitude":-73.563881,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871105,
+        420784417,
         102191575,
         85633041,
-        101737759,
-        136251273
+        101736545,
+        1108955733,
+        136251273,
+        85871105,
+        101737759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472271871,
-    "wof:geomhash":"fd40b4be32452c67b285883e03dddd3a",
+    "wof:geomhash":"6a2c57884b98b3493d5eb918e1aac74a",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955733,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":420784417,
+            "region_id":136251273,
+            "venue_id":974970965
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":974970965,
-    "wof:lastmodified":1472530493,
+    "wof:lastmodified":1497477829,
     "wof:name":"Gfd Alarm",
-    "wof:parent_id":85871105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

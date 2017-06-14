@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5765762329,45.4561538696,-73.5765762329,45.4561538696",
     "geom:latitude":45.456154,
     "geom:longitude":-73.576576,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874363,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +48,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472267772,
-    "wof:geomhash":"badad10c1d8a699eba83aba23a12482d",
+    "wof:geomhash":"35dab5d4fbb7a7676f8a680891168a3e",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874363,
+            "region_id":136251273,
+            "venue_id":974884793
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":974884793,
-    "wof:lastmodified":1472528652,
+    "wof:lastmodified":1497477368,
     "wof:name":"Depan-Escompte Couche-Tard",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6443252563,45.465927124,-73.6443252563,45.465927124",
     "geom:latitude":45.465927,
     "geom:longitude":-73.644325,
@@ -29,11 +30,15 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864407,
+        1108959419,
         102191575,
+        1108955927,
         85633041,
-        101736445,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85864407,
+        101736463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +46,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472246354,
-    "wof:geomhash":"a23bf169451a071ed672a8c30bccd52b",
+    "wof:geomhash":"e9b1f2f08a2262239b9a59cc56175fa1",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959419,
+            "region_id":136251273,
+            "venue_id":974685107
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
             "region_id":136251273,
             "venue_id":974685107
         }
     ],
     "wof:id":974685107,
-    "wof:lastmodified":1472525741,
+    "wof:lastmodified":1497478553,
     "wof:name":"Restaurant Skif",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

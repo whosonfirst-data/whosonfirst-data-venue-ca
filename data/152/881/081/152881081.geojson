@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.585884,45.481667,-73.585884,45.481667",
     "geom:latitude":45.481667,
     "geom:longitude":-73.585884,
@@ -36,19 +37,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897627,
+        85897621,
         102191575,
         85633041,
-        101736451,
-        136251273
+        101736545,
+        1108955759,
+        136251273,
+        85897627,
+        101736451
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CV3BdIIEvk2anBoe6iPuK_45.481667_-73.585884@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"6550e1c3ce01f807599870c99217e245",
+    "wof:geomhash":"7fd3950ee7793fd76c0ef2f52424f518",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897621,
+            "region_id":136251273,
+            "venue_id":152881081
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -59,9 +72,9 @@
         }
     ],
     "wof:id":152881081,
-    "wof:lastmodified":1472339237,
+    "wof:lastmodified":1497477631,
     "wof:name":"Imperial Tobacco Canada Ltd",
-    "wof:parent_id":85897627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

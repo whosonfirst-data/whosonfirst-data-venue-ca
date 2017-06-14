@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6245269775,45.4789199829,-73.6245269775,45.4789199829",
     "geom:latitude":45.47892,
     "geom:longitude":-73.624527,
@@ -32,8 +33,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        1108959371,
+        1108955927,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +46,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472243718,
-    "wof:geomhash":"86b444b784d10789a00322f2b3a50d96",
+    "wof:geomhash":"4c248841dd4149895a892311d3358fee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":974630109
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959371,
             "region_id":136251273,
             "venue_id":974630109
         }
     ],
     "wof:id":974630109,
-    "wof:lastmodified":1472525552,
+    "wof:lastmodified":1497478102,
     "wof:name":"Emilie Coiffure Image",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

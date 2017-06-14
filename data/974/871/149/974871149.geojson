@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6345291138,45.5286560059,-73.6345291138,45.5286560059",
     "geom:latitude":45.528656,
     "geom:longitude":-73.634529,
@@ -31,9 +32,13 @@
     "wof:belongsto":[
         85874377,
         102191575,
+        1108955857,
         85633041,
         101736545,
-        136251273
+        1108906763,
+        136251273,
+        85866495,
+        1108955737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +46,32 @@
     },
     "wof:country":"CA",
     "wof:created":1472267179,
-    "wof:geomhash":"783022fca9cf14a112d9c9188e881f14",
+    "wof:geomhash":"f1f408260b6437cb8d8db259bfb72e7a",
     "wof:hierarchy":[
         {
+            "borough_id":1108906763,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955857,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
+            "venue_id":974871149
+        },
+        {
+            "borough_id":1108955737,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85866495,
             "region_id":136251273,
             "venue_id":974871149
         }
     ],
     "wof:id":974871149,
-    "wof:lastmodified":1472528222,
+    "wof:lastmodified":1497477311,
     "wof:name":"Ecole Barclay",
-    "wof:parent_id":85874377,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

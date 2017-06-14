@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6433486938,45.4610176086,-73.6433486938,45.4610176086",
     "geom:latitude":45.461018,
     "geom:longitude":-73.643349,
@@ -35,8 +36,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        1108959419,
+        1108955927,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +49,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472263693,
-    "wof:geomhash":"4d744b3d6a447c39b1eab6514e7e021a",
+    "wof:geomhash":"3c199264733348e1b90dacd96b4ee90d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":974798363
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959419,
             "region_id":136251273,
             "venue_id":974798363
         }
     ],
     "wof:id":974798363,
-    "wof:lastmodified":1472527308,
+    "wof:lastmodified":1497478554,
     "wof:name":"Ste Catherine DE Sienne Parois",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

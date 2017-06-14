@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.583206,45.483784,-73.583206,45.483784",
     "geom:latitude":45.483784,
     "geom:longitude":-73.583206,
@@ -33,19 +34,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897627,
+        85897621,
         102191575,
         85633041,
-        101736451,
-        136251273
+        101736545,
+        1108955759,
+        136251273,
+        85897627,
+        101736451
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hdH15WVUdYawse4OhKbsd_45.483784_-73.583206@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"2ace6deab2f063a5743af043d3655eef",
+    "wof:geomhash":"afd2a19cb14215952299bce646a27015",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897621,
+            "region_id":136251273,
+            "venue_id":186189721
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":186189721,
-    "wof:lastmodified":1472334562,
+    "wof:lastmodified":1497477618,
     "wof:name":"Hopital Veterinaire General MB",
-    "wof:parent_id":85897627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

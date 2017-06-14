@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6588134766,45.5239105225,-73.6588134766,45.5239105225",
     "geom:latitude":45.523911,
     "geom:longitude":-73.658813,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        1108959441,
         102191575,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955739,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472271759,
-    "wof:geomhash":"47ae439923d0a3dba303ce770a6b1a40",
+    "wof:geomhash":"b2f50d6ddeceb95b5fa6469ef3d74d25",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955739,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":1108959441,
+            "region_id":136251273,
+            "venue_id":974968473
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":974968473,
-    "wof:lastmodified":1472530334,
+    "wof:lastmodified":1497478703,
     "wof:name":"Gaz Naturel Icr Inc",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

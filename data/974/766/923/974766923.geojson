@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5766220093,45.4545898438,-73.5766220093,45.4545898438",
     "geom:latitude":45.45459,
     "geom:longitude":-73.576622,
@@ -35,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874383,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +51,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472250732,
-    "wof:geomhash":"71d4423889a78d3b0a25a38534a12bcf",
+    "wof:geomhash":"bb4aae102633e15a19b696df9ac26606",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874383,
+            "region_id":136251273,
+            "venue_id":974766923
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -59,9 +73,9 @@
         }
     ],
     "wof:id":974766923,
-    "wof:lastmodified":1472526956,
+    "wof:lastmodified":1497477487,
     "wof:name":"Aero Climat",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

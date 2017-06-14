@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5943374634,45.4545402527,-73.5943374634,45.4545402527",
     "geom:latitude":45.45454,
     "geom:longitude":-73.594337,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897623,
+        85897615,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955759,
+        136251273,
+        85897623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472265828,
-    "wof:geomhash":"057c0a9285e4fc80e9693e02c64e2e7a",
+    "wof:geomhash":"14b00646206fc84ba2f0393b3a731a87",
     "wof:hierarchy":[
         {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897615,
+            "region_id":136251273,
+            "venue_id":974843121
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":974843121,
-    "wof:lastmodified":1472527826,
+    "wof:lastmodified":1497477599,
     "wof:name":"Lien Universal",
-    "wof:parent_id":85897623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

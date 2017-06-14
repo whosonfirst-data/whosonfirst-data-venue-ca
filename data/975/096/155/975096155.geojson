@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6326370239,45.5121116638,-73.6326370239,45.5121116638",
     "geom:latitude":45.512112,
     "geom:longitude":-73.632637,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        85897525,
         102191575,
+        1108955923,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +50,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472277405,
-    "wof:geomhash":"cc5d625ee3ef978e2f0cc64d6556361d",
+    "wof:geomhash":"f684143e7d3886d8d4b882e6845dab60",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897525,
+            "region_id":136251273,
+            "venue_id":975096155
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +72,9 @@
         }
     ],
     "wof:id":975096155,
-    "wof:lastmodified":1472521408,
+    "wof:lastmodified":1497477576,
     "wof:name":"Enviroparfait/Enviroperfect",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

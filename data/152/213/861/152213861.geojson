@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.107933,49.32132,-123.107933,49.32132",
     "geom:latitude":49.32132,
     "geom:longitude":-123.107933,
@@ -30,11 +31,14 @@
     "sg:province":"BC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865021,
+        102191575,
+        85633041,
+        101741069,
         85682117,
-        101741057,
-        85894913
+        101744669,
+        85894913,
+        101741057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,13 +48,23 @@
     "wof:geomhash":"bd56fc7fe5ebc1679ec9cb27eb6df133",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":152213861
         },
         {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":152213861
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741057,
             "neighbourhood_id":85894913,
@@ -59,9 +73,9 @@
         }
     ],
     "wof:id":152213861,
-    "wof:lastmodified":1472335372,
+    "wof:lastmodified":1491927237,
     "wof:name":"Couch Potato the Sofa CO",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

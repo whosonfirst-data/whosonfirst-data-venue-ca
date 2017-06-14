@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6265563965,45.4755516052,-73.6265563965,45.4755516052",
     "geom:latitude":45.475552,
     "geom:longitude":-73.626556,
@@ -36,8 +37,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        1108959371,
+        1108955927,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +50,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472249874,
-    "wof:geomhash":"14351e17f97dc71a1624f567169bcfdd",
+    "wof:geomhash":"49d578a0be64d53c0b9960cbac80aefc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":974753885
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959371,
             "region_id":136251273,
             "venue_id":974753885
         }
     ],
     "wof:id":974753885,
-    "wof:lastmodified":1472526762,
+    "wof:lastmodified":1497478111,
     "wof:name":"Night Shift Orchestra",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

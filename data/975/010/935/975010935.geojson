@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5944290161,45.4547805786,-73.5944290161,45.4547805786",
     "geom:latitude":45.454781,
     "geom:longitude":-73.594429,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897623,
+        85897615,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955759,
+        136251273,
+        85897623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472273664,
-    "wof:geomhash":"55c39b81acd437ad0da0cc8bb9441e15",
+    "wof:geomhash":"ab65a3799ec2fdb5bbcbe5bcbb0ee358",
     "wof:hierarchy":[
         {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897615,
+            "region_id":136251273,
+            "venue_id":975010935
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":975010935,
-    "wof:lastmodified":1472520080,
+    "wof:lastmodified":1497477608,
     "wof:name":"Avg Ultra Limousine",
-    "wof:parent_id":85897623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

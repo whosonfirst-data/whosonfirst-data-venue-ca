@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6327896118,45.5119400024,-73.6327896118,45.5119400024",
     "geom:latitude":45.51194,
     "geom:longitude":-73.63279,
@@ -29,11 +30,15 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        85897525,
         102191575,
+        1108955923,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +46,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472242522,
-    "wof:geomhash":"1918a45f6646024115e0a4928fffdc86",
+    "wof:geomhash":"258cc9fd08df78522c55564d485693cd",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897525,
+            "region_id":136251273,
+            "venue_id":974606153
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -53,9 +68,9 @@
         }
     ],
     "wof:id":974606153,
-    "wof:lastmodified":1472524380,
+    "wof:lastmodified":1497477578,
     "wof:name":"Accessoires Magiques Enr",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

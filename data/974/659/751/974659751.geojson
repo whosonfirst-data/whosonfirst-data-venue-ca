@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5234832764,45.6104850769,-73.5234832764,45.6104850769",
     "geom:latitude":45.610485,
     "geom:longitude":-73.523483,
@@ -33,7 +34,11 @@
         102191575,
         85633041,
         101736479,
-        136251273
+        136251273,
+        85895727,
+        1108956225,
+        101736545,
+        1108955765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +46,7 @@
     },
     "wof:country":"CA",
     "wof:created":1472245156,
-    "wof:geomhash":"3e4b8329f44fd85f90230639ead765fb",
+    "wof:geomhash":"40ebe6f53945c9932acb854bcf2f7e45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +55,22 @@
             "neighbourhood_id":85784803,
             "region_id":136251273,
             "venue_id":974659751
+        },
+        {
+            "borough_id":1108955765,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108956225,
+            "neighbourhood_id":85895727,
+            "region_id":136251273,
+            "venue_id":974659751
         }
     ],
     "wof:id":974659751,
-    "wof:lastmodified":1472525506,
+    "wof:lastmodified":1497477506,
     "wof:name":"Phillippe-Labarre Ecoles",
-    "wof:parent_id":85784803,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

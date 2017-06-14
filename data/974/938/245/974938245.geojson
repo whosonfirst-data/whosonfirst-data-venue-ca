@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5578079224,45.6438751221,-73.5578079224,45.6438751221",
     "geom:latitude":45.643875,
     "geom:longitude":-73.557808,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871105,
+        420784417,
         102191575,
         85633041,
-        101737759,
-        136251273
+        101736545,
+        1108955733,
+        136251273,
+        85871105,
+        101737759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472270063,
-    "wof:geomhash":"113bf919284c684cc2409a6d02bffae7",
+    "wof:geomhash":"9dcd2e27fb5b89326559a206e7fa50ca",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955733,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":420784417,
+            "region_id":136251273,
+            "venue_id":974938245
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":974938245,
-    "wof:lastmodified":1472529436,
+    "wof:lastmodified":1497477828,
     "wof:name":"Monza Automobile Inc",
-    "wof:parent_id":85871105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

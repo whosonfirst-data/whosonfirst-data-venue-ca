@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6071166992,45.4956245422,-73.6071166992,45.4956245422",
     "geom:latitude":45.495625,
     "geom:longitude":-73.607117,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897637,
+        1108959375,
         102191575,
+        1108955923,
         85633041,
         101736545,
-        136251273
+        1108955757,
+        136251273,
+        85897637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +48,33 @@
     },
     "wof:country":"CA",
     "wof:created":1472273254,
-    "wof:geomhash":"da17bb83ed5091022ab29d4c1233aa06",
+    "wof:geomhash":"b09a024c497dac0861b44b47787f96c1",
     "wof:hierarchy":[
         {
+            "borough_id":1108955757,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":1108959375,
+            "region_id":136251273,
+            "venue_id":975002279
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
             "neighbourhood_id":85897637,
             "region_id":136251273,
             "venue_id":975002279
         }
     ],
     "wof:id":975002279,
-    "wof:lastmodified":1472519907,
+    "wof:lastmodified":1497478158,
     "wof:name":"Centre Funeraire Cote-Des",
-    "wof:parent_id":85897637,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.654968,45.492512,-73.654968,45.492512",
     "geom:latitude":45.492512,
     "geom:longitude":-73.654968,
@@ -30,11 +31,15 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        1108959369,
         102191575,
+        1108955923,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:brand_id":420573809,
     "wof:breaches":[],
@@ -42,8 +47,18 @@
         "sg:id":"SG_0KG3SA8ByYVIhcJOZgXGHr_45.492512_-73.654968@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f460312b486fb41bc17407ad02963042",
+    "wof:geomhash":"68e4715301473e7579b1a1f6705de8f5",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":1108959369,
+            "region_id":136251273,
+            "venue_id":152424689
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":152424689,
-    "wof:lastmodified":1472337267,
+    "wof:lastmodified":1497478060,
     "wof:name":"Payless Shoe Source",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5813064575,45.4850082397,-73.5813064575,45.4850082397",
     "geom:latitude":45.485008,
     "geom:longitude":-73.581306,
@@ -29,11 +30,14 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897627,
+        85897621,
         102191575,
         85633041,
-        101736451,
-        136251273
+        101736545,
+        1108955759,
+        136251273,
+        85897627,
+        101736451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +45,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472247037,
-    "wof:geomhash":"60817f369455a286a3d42aa6dddbca90",
+    "wof:geomhash":"0d4218a1ea3e70fb56ff5a4ee1e9e3dc",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897621,
+            "region_id":136251273,
+            "venue_id":974700399
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":974700399,
-    "wof:lastmodified":1472525385,
+    "wof:lastmodified":1497477630,
     "wof:name":"Cafe Joe",
-    "wof:parent_id":85897627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

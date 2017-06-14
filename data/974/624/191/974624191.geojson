@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5642471313,45.6476325989,-73.5642471313,45.6476325989",
     "geom:latitude":45.647633,
     "geom:longitude":-73.564247,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871105,
+        420784417,
         102191575,
         85633041,
-        101737759,
-        136251273
+        101736545,
+        1108955733,
+        136251273,
+        85871105,
+        101737759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +48,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472243441,
-    "wof:geomhash":"15c64e1c31ffd1059d500bb773fa6ae5",
+    "wof:geomhash":"10ffe3562f23110ea1485b778b9dfb2b",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955733,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":420784417,
+            "region_id":136251273,
+            "venue_id":974624191
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":974624191,
-    "wof:lastmodified":1472524972,
+    "wof:lastmodified":1497477828,
     "wof:name":"Tuyauteurs A1",
-    "wof:parent_id":85871105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

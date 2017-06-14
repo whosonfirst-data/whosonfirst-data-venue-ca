@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6458435059,45.5015220642,-73.6458435059,45.5015220642",
     "geom:latitude":45.501522,
     "geom:longitude":-73.645844,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        1108959369,
         102191575,
+        1108955923,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +50,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472250854,
-    "wof:geomhash":"a2fc18394dba53ed9831a8b8fd39d85b",
+    "wof:geomhash":"fa73d0cacd343adaf21d1b42e3efa286",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":1108959369,
+            "region_id":136251273,
+            "venue_id":974769213
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +72,9 @@
         }
     ],
     "wof:id":974769213,
-    "wof:lastmodified":1472526844,
+    "wof:lastmodified":1497478061,
     "wof:name":"Enterprise Location D'Autos",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

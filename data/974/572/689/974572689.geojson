@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6453781128,45.5647392273,-73.6453781128,45.5647392273",
     "geom:latitude":45.564739,
     "geom:longitude":-73.645378,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897501,
+        85874377,
         102191575,
+        1108955857,
         85633041,
         101736545,
-        136251273
+        1108906763,
+        136251273,
+        85897501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +48,33 @@
     },
     "wof:country":"CA",
     "wof:created":1472240819,
-    "wof:geomhash":"6b523ae6dec48d4b46841b630c4a1fd9",
+    "wof:geomhash":"0b990886e7d5a306720dec9099f17380",
     "wof:hierarchy":[
         {
+            "borough_id":1108906763,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955857,
+            "neighbourhood_id":85874377,
+            "region_id":136251273,
+            "venue_id":974572689
+        },
+        {
+            "borough_id":1108906763,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955857,
             "neighbourhood_id":85897501,
             "region_id":136251273,
             "venue_id":974572689
         }
     ],
     "wof:id":974572689,
-    "wof:lastmodified":1472523182,
+    "wof:lastmodified":1497477457,
     "wof:name":"Studio Familial Enrg",
-    "wof:parent_id":85897501,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5933227539,45.4569969177,-73.5933227539,45.4569969177",
     "geom:latitude":45.456997,
     "geom:longitude":-73.593323,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897623,
+        85897615,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955759,
+        136251273,
+        85897623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472273254,
-    "wof:geomhash":"67bca79acd766dc76097f405dbe1c3c7",
+    "wof:geomhash":"ef24710a0d56b660b14f46929718c695",
     "wof:hierarchy":[
         {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897615,
+            "region_id":136251273,
+            "venue_id":975002275
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":975002275,
-    "wof:lastmodified":1472519907,
+    "wof:lastmodified":1497477601,
     "wof:name":"Protective Packaging Ltd",
-    "wof:parent_id":85897623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

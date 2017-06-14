@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6243591309,45.481098175,-73.6243591309,45.481098175",
     "geom:latitude":45.481098,
     "geom:longitude":-73.624359,
@@ -38,8 +39,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        85897527,
+        1108955923,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,21 +52,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472239269,
-    "wof:geomhash":"b498813a9fc3fa4983f366141037b725",
+    "wof:geomhash":"536e9fb6caacaf4afb4f906f9ccc0a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":974538773
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897527,
             "region_id":136251273,
             "venue_id":974538773
         }
     ],
     "wof:id":974538773,
-    "wof:lastmodified":1472522144,
+    "wof:lastmodified":1497477581,
     "wof:name":"Sar Refrigeration Regd",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

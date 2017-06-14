@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6319503784,45.5116004944,-73.6319503784,45.5116004944",
     "geom:latitude":45.5116,
     "geom:longitude":-73.63195,
@@ -34,11 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        85897525,
         102191575,
+        1108955923,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +51,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472275276,
-    "wof:geomhash":"f0569788fca0f3d347b6e4d02e78668b",
+    "wof:geomhash":"6682a66484a7b64a4985dca86869c7b0",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897525,
+            "region_id":136251273,
+            "venue_id":975047241
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +73,9 @@
         }
     ],
     "wof:id":975047241,
-    "wof:lastmodified":1472520761,
+    "wof:lastmodified":1497477566,
     "wof:name":"Groupe DE Recherches",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

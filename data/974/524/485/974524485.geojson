@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6228561401,45.4805908203,-73.6228561401,45.4805908203",
     "geom:latitude":45.480591,
     "geom:longitude":-73.622856,
@@ -36,8 +37,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        1108959371,
+        1108955927,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +50,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472238632,
-    "wof:geomhash":"f39deaf3e38242a3abd2257eebe56123",
+    "wof:geomhash":"a4bdd8966b2b6be4864549d054f31760",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":974524485
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959371,
             "region_id":136251273,
             "venue_id":974524485
         }
     ],
     "wof:id":974524485,
-    "wof:lastmodified":1472520142,
+    "wof:lastmodified":1497478105,
     "wof:name":"Centre Jeunesse DE Montreal",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6330184937,45.4547615051,-73.6330184937,45.4547615051",
     "geom:latitude":45.454762,
     "geom:longitude":-73.633018,
@@ -33,7 +34,11 @@
         102191575,
         85633041,
         101736483,
-        136251273
+        136251273,
+        1108959421,
+        1108955927,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +46,7 @@
     },
     "wof:country":"CA",
     "wof:created":1472271269,
-    "wof:geomhash":"c4e10953ddf26dc1bc5a8c5ad252a927",
+    "wof:geomhash":"682f3618174eef81c1137047a0b4d6fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +55,22 @@
             "neighbourhood_id":85784813,
             "region_id":136251273,
             "venue_id":974962253
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959421,
+            "region_id":136251273,
+            "venue_id":974962253
         }
     ],
     "wof:id":974962253,
-    "wof:lastmodified":1472530125,
+    "wof:lastmodified":1497478575,
     "wof:name":"Mc Donald's",
-    "wof:parent_id":85784813,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

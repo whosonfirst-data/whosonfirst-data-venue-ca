@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5783843994,45.4598426819,-73.5783843994,45.4598426819",
     "geom:latitude":45.459843,
     "geom:longitude":-73.578384,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874363,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +50,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472270367,
-    "wof:geomhash":"e1f51ff623581e276aa77788ca0bf66e",
+    "wof:geomhash":"a731c487c2d0f92236f904e5c4175615",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874363,
+            "region_id":136251273,
+            "venue_id":974945405
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -58,9 +72,9 @@
         }
     ],
     "wof:id":974945405,
-    "wof:lastmodified":1472529784,
+    "wof:lastmodified":1497477370,
     "wof:name":"Enterprises Sep Enr",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

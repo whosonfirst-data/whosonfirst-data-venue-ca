@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6533279419,45.4657707214,-73.6533279419,45.4657707214",
     "geom:latitude":45.465771,
     "geom:longitude":-73.653328,
@@ -29,11 +30,15 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864407,
+        1108959419,
         102191575,
+        1108955927,
         85633041,
-        101736445,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85864407,
+        101736463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +46,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472268590,
-    "wof:geomhash":"ffdc7fbf37345e388fc05937ad4c0779",
+    "wof:geomhash":"0af1f94c5a69d79c98e9c9e006e60a71",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959419,
+            "region_id":136251273,
+            "venue_id":974905153
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
             "region_id":136251273,
             "venue_id":974905153
         }
     ],
     "wof:id":974905153,
-    "wof:lastmodified":1472528845,
+    "wof:lastmodified":1497478557,
     "wof:name":"Domino's Pizza",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

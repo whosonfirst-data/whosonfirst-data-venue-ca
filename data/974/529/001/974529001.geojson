@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5729598999,45.6585845947,-73.5729598999,45.6585845947",
     "geom:latitude":45.658585,
     "geom:longitude":-73.57296,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871105,
+        420784417,
         102191575,
         85633041,
-        101737759,
-        136251273
+        101736545,
+        1108955733,
+        136251273,
+        85871105,
+        101737759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472238806,
-    "wof:geomhash":"9aae8ed94796ca65be926373d5edaa97",
+    "wof:geomhash":"3e46d5fffe26e98befc44a91de3c5832",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955733,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":420784417,
+            "region_id":136251273,
+            "venue_id":974529001
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":974529001,
-    "wof:lastmodified":1472520770,
+    "wof:lastmodified":1497477829,
     "wof:name":"Entretien Gilles Pelletier Cie",
-    "wof:parent_id":85871105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

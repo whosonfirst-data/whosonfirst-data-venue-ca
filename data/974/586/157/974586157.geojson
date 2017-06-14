@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5925521851,45.4768371582,-73.5925521851,45.4768371582",
     "geom:latitude":45.476837,
     "geom:longitude":-73.592552,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897627,
+        85897621,
         102191575,
         85633041,
-        101736451,
-        136251273
+        101736545,
+        1108955759,
+        136251273,
+        85897627,
+        101736451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +49,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472241525,
-    "wof:geomhash":"88b588a618d3a613f7968658b5fe2fd8",
+    "wof:geomhash":"731798fe1dd93a3a0e401cde7e80117a",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897621,
+            "region_id":136251273,
+            "venue_id":974586157
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":974586157,
-    "wof:lastmodified":1472523634,
+    "wof:lastmodified":1497477628,
     "wof:name":"Belgrave Roofing & Renovations",
-    "wof:parent_id":85897627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

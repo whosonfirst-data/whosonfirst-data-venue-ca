@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.107597,49.321037,-123.107597,49.321037",
     "geom:latitude":49.321037,
     "geom:longitude":-123.107597,
@@ -36,11 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633041,
         85865021,
+        102191575,
+        85633041,
+        101741069,
         85682117,
-        101741057,
-        85894913
+        101744669,
+        85894913,
+        101741057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +54,23 @@
     "wof:geomhash":"7a6ca75188a4a17790db0cf7ec947b70",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "locality_id":101741069,
             "neighbourhood_id":85865021,
             "region_id":85682117,
             "venue_id":153083633
         },
         {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101744669,
+            "neighbourhood_id":85865021,
+            "region_id":85682117,
+            "venue_id":153083633
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101741057,
             "neighbourhood_id":85894913,
@@ -65,9 +79,9 @@
         }
     ],
     "wof:id":153083633,
-    "wof:lastmodified":1472334588,
+    "wof:lastmodified":1491927236,
     "wof:name":"Automotion Parts & Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

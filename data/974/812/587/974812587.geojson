@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6418075562,45.4643287659,-73.6418075562,45.4643287659",
     "geom:latitude":45.464329,
     "geom:longitude":-73.641808,
@@ -35,8 +36,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        1108959419,
+        1108955927,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +49,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472264438,
-    "wof:geomhash":"97b1ccafd9fb68469a41b503cfd7ddfd",
+    "wof:geomhash":"8e542e914e7c08cb2d48b617425ce9bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":974812587
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959419,
             "region_id":136251273,
             "venue_id":974812587
         }
     ],
     "wof:id":974812587,
-    "wof:lastmodified":1472527480,
+    "wof:lastmodified":1497478554,
     "wof:name":"Cemma International",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

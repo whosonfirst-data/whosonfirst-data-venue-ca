@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.579033,45.452915,-73.579033,45.452915",
     "geom:latitude":45.452915,
     "geom:longitude":-73.579033,
@@ -35,20 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874383,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uF6zwzAOyaHrukMP8L0y0_45.452915_-73.579033@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d5be5d1d901b3a69129555dff5fb138d",
+    "wof:geomhash":"ab596faabbf402efa510f37ba4d97924",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874383,
+            "region_id":136251273,
+            "venue_id":169397607
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -58,9 +72,9 @@
         }
     ],
     "wof:id":169397607,
-    "wof:lastmodified":1472337419,
+    "wof:lastmodified":1497477483,
     "wof:name":"St-Laurent & Assoc Comm Design",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

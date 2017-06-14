@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5770950317,45.458984375,-73.5770950317,45.458984375",
     "geom:latitude":45.458984,
     "geom:longitude":-73.577095,
@@ -31,11 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874363,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +47,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472268524,
-    "wof:geomhash":"26d9a8a47a20e59e4f01990d7efb03af",
+    "wof:geomhash":"9a68ec7cc9c0d6c755159a9ba1859358",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874363,
+            "region_id":136251273,
+            "venue_id":974903559
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -55,9 +69,9 @@
         }
     ],
     "wof:id":974903559,
-    "wof:lastmodified":1472528959,
+    "wof:lastmodified":1497477381,
     "wof:name":"Plomberie J Brunette Enr",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

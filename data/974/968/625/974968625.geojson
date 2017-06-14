@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5705108643,45.491859436,-73.5705108643,45.491859436",
     "geom:latitude":45.491859,
     "geom:longitude":-73.570511,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897609,
+        85866485,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955761,
+        136251273,
+        85897609,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +48,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472271764,
-    "wof:geomhash":"ac6db8a5d95e672aca68ca725c02a6ca",
+    "wof:geomhash":"897482f0dc0a615c490f34b62dec4f55",
     "wof:hierarchy":[
         {
+            "borough_id":1108955761,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85866485,
+            "region_id":136251273,
+            "venue_id":974968625
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":974968625,
-    "wof:lastmodified":1472530928,
+    "wof:lastmodified":1497477272,
     "wof:name":"Samcon Drolet",
-    "wof:parent_id":85897609,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

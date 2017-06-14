@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.58004,45.453522,-73.58004,45.453522",
     "geom:latitude":45.453522,
     "geom:longitude":-73.58004,
@@ -30,20 +31,33 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874383,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gJYTUGV41UGeIvxAseqb1_45.453522_-73.580040@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8b9bef60baa524fcf767ddba6e92d159",
+    "wof:geomhash":"9e3732ccfbec73b0214cfe35ece2c2d7",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874383,
+            "region_id":136251273,
+            "venue_id":152352163
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -53,9 +67,9 @@
         }
     ],
     "wof:id":152352163,
-    "wof:lastmodified":1472336040,
+    "wof:lastmodified":1497477487,
     "wof:name":"Centre DE L'Education Adultes",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

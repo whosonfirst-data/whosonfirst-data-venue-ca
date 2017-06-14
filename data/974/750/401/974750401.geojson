@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6176757812,45.4836082458,-73.6176757812,45.4836082458",
     "geom:latitude":45.483608,
     "geom:longitude":-73.617676,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897633,
+        85897527,
         102191575,
+        1108955923,
         85633041,
-        101736451,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85897633,
+        101736451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +49,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472249624,
-    "wof:geomhash":"8ca5f19f054222b7af679b5ea1b84d06",
+    "wof:geomhash":"639ee8ac1b3d94b3e7015ac7a2605fb1",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897527,
+            "region_id":136251273,
+            "venue_id":974750401
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +71,9 @@
         }
     ],
     "wof:id":974750401,
-    "wof:lastmodified":1472526563,
+    "wof:lastmodified":1497477590,
     "wof:name":"Parkridge Apartments",
-    "wof:parent_id":85897633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

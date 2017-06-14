@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6240844727,45.4796524048,-73.6240844727,45.4796524048",
     "geom:latitude":45.479652,
     "geom:longitude":-73.624084,
@@ -36,8 +37,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        85897527,
+        1108955923,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +50,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472270441,
-    "wof:geomhash":"1eb135e1abec824f045f7e473ea8bc4b",
+    "wof:geomhash":"d3cfd3eb40c7240d198109d0b2f34c10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":974946679
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897527,
             "region_id":136251273,
             "venue_id":974946679
         }
     ],
     "wof:id":974946679,
-    "wof:lastmodified":1472529837,
+    "wof:lastmodified":1497477589,
     "wof:name":"Excavations Royal Enr",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],
