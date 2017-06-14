@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6436386108,45.4612045288,-73.6436386108,45.4612045288",
     "geom:latitude":45.461205,
     "geom:longitude":-73.643639,
@@ -32,8 +33,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        1108959419,
+        1108955927,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +46,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472278982,
-    "wof:geomhash":"e4cda1d03c6c10770f46ee14bd2d8e6f",
+    "wof:geomhash":"fc90bb557804c180b791e6a032268e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":975134769
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959419,
             "region_id":136251273,
             "venue_id":975134769
         }
     ],
     "wof:id":975134769,
-    "wof:lastmodified":1472521909,
+    "wof:lastmodified":1497478558,
     "wof:name":"Ecole Ste-Catherine-DE-Sienne",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

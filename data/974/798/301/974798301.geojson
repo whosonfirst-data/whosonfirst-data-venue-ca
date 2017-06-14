@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.8901367188,45.4542198181,-73.8901367188,45.4542198181",
     "geom:latitude":45.45422,
     "geom:longitude":-73.890137,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897589,
+        1108959445,
         102191575,
+        1108955865,
         85633041,
-        101736461,
-        136251273
+        101736545,
+        1108955729,
+        136251273,
+        85897589,
+        101736461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +50,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472263688,
-    "wof:geomhash":"80e147c7bbcc6cc763f7281ac2b1cecc",
+    "wof:geomhash":"e333a16e547bf17a414d0cd7bb2aa126",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955729,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955865,
+            "neighbourhood_id":1108959445,
+            "region_id":136251273,
+            "venue_id":974798301
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +72,9 @@
         }
     ],
     "wof:id":974798301,
-    "wof:lastmodified":1472527300,
+    "wof:lastmodified":1497478740,
     "wof:name":"Aesl Instrumentation Inc",
-    "wof:parent_id":85897589,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

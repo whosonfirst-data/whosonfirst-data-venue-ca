@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6435523,45.5621414,-73.6435523,45.5621414",
     "geom:latitude":45.562141,
     "geom:longitude":-73.643552,
@@ -37,11 +38,14 @@
     "sg:website":"http://g2tt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897501,
+        85874377,
         102191575,
+        1108955857,
         85633041,
         101736545,
-        136251273
+        1108906763,
+        136251273,
+        85897501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,21 +53,33 @@
     },
     "wof:country":"CA",
     "wof:created":1472279200,
-    "wof:geomhash":"5086d838a7f91312ed08abf28dacb5dc",
+    "wof:geomhash":"fe6635ac5162cbba78e0af1747ff88cd",
     "wof:hierarchy":[
         {
+            "borough_id":1108906763,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955857,
+            "neighbourhood_id":85874377,
+            "region_id":136251273,
+            "venue_id":975140727
+        },
+        {
+            "borough_id":1108906763,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955857,
             "neighbourhood_id":85897501,
             "region_id":136251273,
             "venue_id":975140727
         }
     ],
     "wof:id":975140727,
-    "wof:lastmodified":1472521964,
+    "wof:lastmodified":1497477462,
     "wof:name":"Government 2.0 Think Tank",
-    "wof:parent_id":85897501,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

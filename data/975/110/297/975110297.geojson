@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7051544189,45.4363517761,-73.7051544189,45.4363517761",
     "geom:latitude":45.436352,
     "geom:longitude":-73.705154,
@@ -29,11 +30,14 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784727,
+        1108959439,
         102191575,
         85633041,
-        101736475,
-        136251273
+        101736545,
+        1108955741,
+        136251273,
+        85784727,
+        101736475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +45,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472277997,
-    "wof:geomhash":"bf50991db67ef3921b87aaa0f9844dc3",
+    "wof:geomhash":"01f409bd1c9a809e51538db691097cee",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955741,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":1108959439,
+            "region_id":136251273,
+            "venue_id":975110297
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":975110297,
-    "wof:lastmodified":1472521616,
+    "wof:lastmodified":1497478686,
     "wof:name":"Roux Labelle",
-    "wof:parent_id":85784727,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

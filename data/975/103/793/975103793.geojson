@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6326141357,45.5281867981,-73.6326141357,45.5281867981",
     "geom:latitude":45.528187,
     "geom:longitude":-73.632614,
@@ -33,9 +34,13 @@
     "wof:belongsto":[
         85874377,
         102191575,
+        1108955857,
         85633041,
         101736545,
-        136251273
+        1108906763,
+        136251273,
+        85866495,
+        1108955737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,21 +48,32 @@
     },
     "wof:country":"CA",
     "wof:created":1472277739,
-    "wof:geomhash":"2b42655b64e3b895efe148320a444c7b",
+    "wof:geomhash":"5ad83c4a1dd812a2f0808fba8698996e",
     "wof:hierarchy":[
         {
+            "borough_id":1108906763,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955857,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
+            "venue_id":975103793
+        },
+        {
+            "borough_id":1108955737,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85866495,
             "region_id":136251273,
             "venue_id":975103793
         }
     ],
     "wof:id":975103793,
-    "wof:lastmodified":1472521475,
+    "wof:lastmodified":1497477318,
     "wof:name":"Greek Canadian Tribune Ltd",
-    "wof:parent_id":85874377,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

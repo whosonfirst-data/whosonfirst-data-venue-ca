@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.576965332,45.4563598633,-73.576965332,45.4563598633",
     "geom:latitude":45.45636,
     "geom:longitude":-73.576965,
@@ -28,11 +29,14 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874363,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +44,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472272099,
-    "wof:geomhash":"433afcd60062594715a644b2bcd0fac4",
+    "wof:geomhash":"2c6164e91ad7e2a4fe51a47f18636d1d",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874363,
+            "region_id":136251273,
+            "venue_id":974976097
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -52,9 +66,9 @@
         }
     ],
     "wof:id":974976097,
-    "wof:lastmodified":1472530262,
+    "wof:lastmodified":1497477379,
     "wof:name":"Ecole Chanoine-Joseph-Theoret",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

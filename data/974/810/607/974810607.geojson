@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5677642822,45.5829429626,-73.5677642822,45.5829429626",
     "geom:latitude":45.582943,
     "geom:longitude":-73.567764,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874371,
+        85874367,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955735,
+        136251273,
+        85874371,
+        1108955769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +48,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472264355,
-    "wof:geomhash":"c288f72e2a4cba2dd5ac2222c8c780d8",
+    "wof:geomhash":"77feca6fff3eec8a638ab7065c3e011a",
     "wof:hierarchy":[
         {
+            "borough_id":1108955735,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874367,
+            "region_id":136251273,
+            "venue_id":974810607
+        },
+        {
+            "borough_id":1108955769,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":974810607,
-    "wof:lastmodified":1472527486,
+    "wof:lastmodified":1497477400,
     "wof:name":"Ego Child Guidance Clinic",
-    "wof:parent_id":85874371,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

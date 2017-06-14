@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5935821533,45.4525604248,-73.5935821533,45.4525604248",
     "geom:latitude":45.45256,
     "geom:longitude":-73.593582,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897623,
+        85897615,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955759,
+        136251273,
+        85897623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472247157,
-    "wof:geomhash":"d2b5961fc4675e93066ea32499c3e11a",
+    "wof:geomhash":"a29930bb3085cc7acc1c49e16da31c52",
     "wof:hierarchy":[
         {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897615,
+            "region_id":136251273,
+            "venue_id":974703089
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":974703089,
-    "wof:lastmodified":1472525738,
+    "wof:lastmodified":1497477607,
     "wof:name":"Sidac Plaza Monk",
-    "wof:parent_id":85897623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

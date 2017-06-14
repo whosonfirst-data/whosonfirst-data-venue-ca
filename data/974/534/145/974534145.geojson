@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6182174683,45.4844856262,-73.6182174683,45.4844856262",
     "geom:latitude":45.484486,
     "geom:longitude":-73.618217,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897633,
+        85897527,
         102191575,
+        1108955923,
         85633041,
-        101736451,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85897633,
+        101736451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +50,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472239078,
-    "wof:geomhash":"09999130452e3a1dfcfafcc7d67dee51",
+    "wof:geomhash":"62a7e340419496f827d2b6cbe1dfa05d",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897527,
+            "region_id":136251273,
+            "venue_id":974534145
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +72,9 @@
         }
     ],
     "wof:id":974534145,
-    "wof:lastmodified":1472522035,
+    "wof:lastmodified":1497477579,
     "wof:name":"Ross Le Demenageur",
-    "wof:parent_id":85897633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

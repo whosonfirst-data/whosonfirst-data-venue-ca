@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6463165283,45.4969291687,-73.6463165283,45.4969291687",
     "geom:latitude":45.496929,
     "geom:longitude":-73.646317,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        1108959369,
         102191575,
+        1108955923,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +49,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472273902,
-    "wof:geomhash":"c75ede05e4c1836dba5eb8cdeddc6d53",
+    "wof:geomhash":"9b976c417955857bd6e7aeda518fb2cd",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":1108959369,
+            "region_id":136251273,
+            "venue_id":975017161
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +71,9 @@
         }
     ],
     "wof:id":975017161,
-    "wof:lastmodified":1472520101,
+    "wof:lastmodified":1497478075,
     "wof:name":"Montreal Kosher Bakery",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

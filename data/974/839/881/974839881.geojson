@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6528015137,45.4607086182,-73.6528015137,45.4607086182",
     "geom:latitude":45.460709,
     "geom:longitude":-73.652802,
@@ -33,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784813,
+        1108959419,
         102191575,
+        1108955927,
         85633041,
-        101736483,
+        101736545,
+        1108955757,
         136251273,
-        85874165,
-        101736445
+        85784813,
+        101736483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472265695,
-    "wof:geomhash":"37735d229e6ae39fa8a243147e72452b",
+    "wof:geomhash":"90030ec191bd5314055150c6fe07fc08",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959419,
+            "region_id":136251273,
+            "venue_id":974839881
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,20 +69,12 @@
             "neighbourhood_id":85784813,
             "region_id":136251273,
             "venue_id":974839881
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "locality_id":101736445,
-            "neighbourhood_id":85874165,
-            "region_id":136251273,
-            "venue_id":974839881
         }
     ],
     "wof:id":974839881,
-    "wof:lastmodified":1472527967,
+    "wof:lastmodified":1497478552,
     "wof:name":"Service Harriet Schleifer",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

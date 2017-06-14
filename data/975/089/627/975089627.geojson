@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6212234497,45.5301856995,-73.6212234497,45.5301856995",
     "geom:latitude":45.530186,
     "geom:longitude":-73.621223,
@@ -34,9 +35,13 @@
     "wof:belongsto":[
         85874369,
         102191575,
+        1108955935,
         85633041,
         101736545,
-        136251273
+        1108955769,
+        136251273,
+        85866495,
+        1108955737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +49,32 @@
     },
     "wof:country":"CA",
     "wof:created":1472277130,
-    "wof:geomhash":"965ef749d86ac156457ad2c8d7ad990b",
+    "wof:geomhash":"05f73cf857a40c7ab8d3bc78ffb39ae6",
     "wof:hierarchy":[
         {
+            "borough_id":1108955769,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955935,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
+            "venue_id":975089627
+        },
+        {
+            "borough_id":1108955737,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85866495,
             "region_id":136251273,
             "venue_id":975089627
         }
     ],
     "wof:id":975089627,
-    "wof:lastmodified":1472521386,
+    "wof:lastmodified":1497477318,
     "wof:name":"Edward Textile Mills Ltd",
-    "wof:parent_id":85874369,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

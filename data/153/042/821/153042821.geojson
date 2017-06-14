@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.576828,45.453083,-73.576828,45.453083",
     "geom:latitude":45.453083,
     "geom:longitude":-73.576828,
@@ -33,20 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874383,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1krVbC7VgUxJVWNfQ6vWCc_45.453083_-73.576828@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1e3ca8795068d8b953ea7850becf4054",
+    "wof:geomhash":"aba730e7869c6cd69050b76da187bbde",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874383,
+            "region_id":136251273,
+            "venue_id":153042821
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":153042821,
-    "wof:lastmodified":1472334293,
+    "wof:lastmodified":1497477487,
     "wof:name":"Centre Reparation Verdun",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

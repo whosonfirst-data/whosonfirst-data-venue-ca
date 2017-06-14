@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5920181274,45.4773025513,-73.5920181274,45.4773025513",
     "geom:latitude":45.477303,
     "geom:longitude":-73.592018,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897627,
+        85897621,
         102191575,
         85633041,
-        101736451,
-        136251273
+        101736545,
+        1108955759,
+        136251273,
+        85897627,
+        101736451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +48,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472268642,
-    "wof:geomhash":"dfe7178d69e7bc5d033a74a008e78ec5",
+    "wof:geomhash":"cf73ea6870647115060ebe059a97a9ef",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897621,
+            "region_id":136251273,
+            "venue_id":974906219
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":974906219,
-    "wof:lastmodified":1472528918,
+    "wof:lastmodified":1497477620,
     "wof:name":"Huneault, France",
-    "wof:parent_id":85897627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

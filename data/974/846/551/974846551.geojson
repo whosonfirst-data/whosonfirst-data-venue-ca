@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6299362183,45.5283622742,-73.6299362183,45.5283622742",
     "geom:latitude":45.528362,
     "geom:longitude":-73.629936,
@@ -34,9 +35,13 @@
     "wof:belongsto":[
         85874377,
         102191575,
+        1108955857,
         85633041,
         101736545,
-        136251273
+        1108906763,
+        136251273,
+        85866495,
+        1108955737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +49,32 @@
     },
     "wof:country":"CA",
     "wof:created":1472265998,
-    "wof:geomhash":"fe2cc93d95e8d9a05def4c4ad6df3458",
+    "wof:geomhash":"47fd72c925724d73779101b138a74a7b",
     "wof:hierarchy":[
         {
+            "borough_id":1108906763,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955857,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
+            "venue_id":974846551
+        },
+        {
+            "borough_id":1108955737,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85866495,
             "region_id":136251273,
             "venue_id":974846551
         }
     ],
     "wof:id":974846551,
-    "wof:lastmodified":1472527924,
+    "wof:lastmodified":1497477313,
     "wof:name":"Afrodipi Bakery",
-    "wof:parent_id":85874377,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

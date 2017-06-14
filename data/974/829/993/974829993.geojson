@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5894546509,45.4791297913,-73.5894546509,45.4791297913",
     "geom:latitude":45.47913,
     "geom:longitude":-73.589455,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897627,
+        85897621,
         102191575,
         85633041,
-        101736451,
-        136251273
+        101736545,
+        1108955759,
+        136251273,
+        85897627,
+        101736451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +48,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472265274,
-    "wof:geomhash":"441c4e59a3966ff1ad30f463afb51e72",
+    "wof:geomhash":"bf087ab08efb868ea0f6a6a977433911",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897621,
+            "region_id":136251273,
+            "venue_id":974829993
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":974829993,
-    "wof:lastmodified":1472527804,
+    "wof:lastmodified":1497477620,
     "wof:name":"Marcus Transformer of Canada",
-    "wof:parent_id":85897627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

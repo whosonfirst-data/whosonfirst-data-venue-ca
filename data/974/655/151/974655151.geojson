@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.64402771,45.4715080261,-73.64402771,45.4715080261",
     "geom:latitude":45.471508,
     "geom:longitude":-73.644028,
@@ -29,11 +30,15 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864407,
+        1108959419,
         102191575,
+        1108955927,
         85633041,
-        101736445,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85864407,
+        101736463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +46,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472244913,
-    "wof:geomhash":"0173cdb1ffb8e8a0a7a245d47f8e6da3",
+    "wof:geomhash":"b958d200d1059251a5b079c4a80851f5",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959419,
+            "region_id":136251273,
+            "venue_id":974655151
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
             "region_id":136251273,
             "venue_id":974655151
         }
     ],
     "wof:id":974655151,
-    "wof:lastmodified":1472525349,
+    "wof:lastmodified":1497478555,
     "wof:name":"Services Fina Vie Inc",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

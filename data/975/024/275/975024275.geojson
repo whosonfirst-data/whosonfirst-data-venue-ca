@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.8589782715,45.4674797058,-73.8589782715,45.4674797058",
     "geom:latitude":45.46748,
     "geom:longitude":-73.858978,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897583,
+        1108959445,
         102191575,
+        1108955865,
         85633041,
-        101736461,
-        136251273
+        101736545,
+        1108955729,
+        136251273,
+        85897583,
+        101736461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +50,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472274224,
-    "wof:geomhash":"f1571d2dc1eb491840db13977c628eaf",
+    "wof:geomhash":"01d18fdf894a69b4437547e01196e027",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955729,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955865,
+            "neighbourhood_id":1108959445,
+            "region_id":136251273,
+            "venue_id":975024275
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +72,9 @@
         }
     ],
     "wof:id":975024275,
-    "wof:lastmodified":1472520328,
+    "wof:lastmodified":1497478740,
     "wof:name":"Paysagiste Dollard Landscape",
-    "wof:parent_id":85897583,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

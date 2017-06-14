@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5809326172,45.4634246826,-73.5809326172,45.4634246826",
     "geom:latitude":45.463425,
     "geom:longitude":-73.580933,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874363,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +48,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472265752,
-    "wof:geomhash":"8d8793c816920cb9150208bddecb0b21",
+    "wof:geomhash":"1f39448a6026ba84b11b0955bee489c6",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874363,
+            "region_id":136251273,
+            "venue_id":974841095
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":974841095,
-    "wof:lastmodified":1472527812,
+    "wof:lastmodified":1497477383,
     "wof:name":"Montreal Securite Urbaine",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

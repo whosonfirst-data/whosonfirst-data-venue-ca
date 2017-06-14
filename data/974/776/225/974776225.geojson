@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6582107544,45.5242500305,-73.6582107544,45.5242500305",
     "geom:latitude":45.52425,
     "geom:longitude":-73.658211,
@@ -29,11 +30,14 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        1108959441,
         102191575,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955739,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +45,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472262044,
-    "wof:geomhash":"77b4d841134d3440587e5cb95e482535",
+    "wof:geomhash":"0ce20cb40597dabc63b022fc84e0e39c",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955739,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":1108959441,
+            "region_id":136251273,
+            "venue_id":974776225
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":974776225,
-    "wof:lastmodified":1472526869,
+    "wof:lastmodified":1497478709,
     "wof:name":"Baie",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

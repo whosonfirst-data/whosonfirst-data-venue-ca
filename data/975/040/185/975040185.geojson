@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.8937606812,45.4529380798,-73.8937606812,45.4529380798",
     "geom:latitude":45.452938,
     "geom:longitude":-73.893761,
@@ -34,11 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897589,
+        1108959445,
         102191575,
+        1108955865,
         85633041,
-        101736461,
-        136251273
+        101736545,
+        1108955729,
+        136251273,
+        85897589,
+        101736461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +51,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472274938,
-    "wof:geomhash":"4325b37090c40be760b0a2c884653cde",
+    "wof:geomhash":"9d1fa0e8f158a334ea6f08b59cb606e7",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955729,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955865,
+            "neighbourhood_id":1108959445,
+            "region_id":136251273,
+            "venue_id":975040185
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +73,9 @@
         }
     ],
     "wof:id":975040185,
-    "wof:lastmodified":1472520630,
+    "wof:lastmodified":1497478743,
     "wof:name":"Etoile Binaire Informatique",
-    "wof:parent_id":85897589,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

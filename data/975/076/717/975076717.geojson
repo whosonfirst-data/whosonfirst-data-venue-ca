@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5455627441,45.5569076538,-73.5455627441,45.5569076538",
     "geom:latitude":45.556908,
     "geom:longitude":-73.545563,
@@ -36,7 +37,9 @@
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955765,
+        136251273,
+        85874379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +47,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472276575,
-    "wof:geomhash":"d1c607f15219b1ea9ca283c7d5169790",
+    "wof:geomhash":"20281ca4d962d154f9f05a1bcea289f9",
     "wof:hierarchy":[
         {
+            "borough_id":1108955765,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85874387,
             "region_id":136251273,
             "venue_id":975076717
+        },
+        {
+            "borough_id":1108955765,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874379,
+            "region_id":136251273,
+            "venue_id":975076717
         }
     ],
     "wof:id":975076717,
-    "wof:lastmodified":1472521302,
+    "wof:lastmodified":1497477475,
     "wof:name":"Montreal Poste DE Quartier",
-    "wof:parent_id":85874387,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6306838989,45.5114364624,-73.6306838989,45.5114364624",
     "geom:latitude":45.511436,
     "geom:longitude":-73.630684,
@@ -29,11 +30,15 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        85897525,
         102191575,
+        1108955923,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +46,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472262908,
-    "wof:geomhash":"3cf26d96f03ad3195dafb2f4b79d9f92",
+    "wof:geomhash":"ffbca6b8ef02250ead1689f36d00e90c",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897525,
+            "region_id":136251273,
+            "venue_id":974789175
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -53,9 +68,9 @@
         }
     ],
     "wof:id":974789175,
-    "wof:lastmodified":1472527058,
+    "wof:lastmodified":1497477578,
     "wof:name":"Marcomm Systems Integration",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

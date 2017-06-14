@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6417770386,45.4751281738,-73.6417770386,45.4751281738",
     "geom:latitude":45.475128,
     "geom:longitude":-73.641777,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864407,
+        1108959371,
         102191575,
+        1108955927,
         85633041,
-        101736445,
-        136251273
+        101736545,
+        1108955757,
+        136251273,
+        85864407,
+        101736463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +49,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472245447,
-    "wof:geomhash":"e7ca840e8b256cab06511a1859c20a08",
+    "wof:geomhash":"dbd93e87514c99e2765e4761de400a97",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959371,
+            "region_id":136251273,
+            "venue_id":974665785
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
             "region_id":136251273,
             "venue_id":974665785
         }
     ],
     "wof:id":974665785,
-    "wof:lastmodified":1472525529,
+    "wof:lastmodified":1497478105,
     "wof:name":"Nettoyeur Glemore",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

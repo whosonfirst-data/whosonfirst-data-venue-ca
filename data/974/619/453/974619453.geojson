@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5951004028,45.4565849304,-73.5951004028,45.4565849304",
     "geom:latitude":45.456585,
     "geom:longitude":-73.5951,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897623,
+        85897615,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955759,
+        136251273,
+        85897623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472243214,
-    "wof:geomhash":"450d7e50419d0bb0c20fb36600fdbfbe",
+    "wof:geomhash":"7c1d2c4cb3614bc5935a51214d2be527",
     "wof:hierarchy":[
         {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897615,
+            "region_id":136251273,
+            "venue_id":974619453
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":974619453,
-    "wof:lastmodified":1472524875,
+    "wof:lastmodified":1497477609,
     "wof:name":"Bar Chez Elise",
-    "wof:parent_id":85897623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

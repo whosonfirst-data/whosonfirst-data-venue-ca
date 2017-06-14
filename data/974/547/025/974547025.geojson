@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6109924316,45.4941482544,-73.6109924316,45.4941482544",
     "geom:latitude":45.494148,
     "geom:longitude":-73.610992,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897637,
+        1108959375,
         102191575,
+        1108955923,
         85633041,
         101736545,
-        136251273
+        1108955757,
+        136251273,
+        85897637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +48,33 @@
     },
     "wof:country":"CA",
     "wof:created":1472239642,
-    "wof:geomhash":"e54b1c376fcf8171a01f85988563852e",
+    "wof:geomhash":"6712147a8e6dd5de0a14275022f1ed36",
     "wof:hierarchy":[
         {
+            "borough_id":1108955757,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":1108959375,
+            "region_id":136251273,
+            "venue_id":974547025
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
             "neighbourhood_id":85897637,
             "region_id":136251273,
             "venue_id":974547025
         }
     ],
     "wof:id":974547025,
-    "wof:lastmodified":1472522471,
+    "wof:lastmodified":1497478149,
     "wof:name":"Ridgewood Court Inc",
-    "wof:parent_id":85897637,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7487182617,45.479385376,-73.7487182617,45.479385376",
     "geom:latitude":45.479385,
     "geom:longitude":-73.748718,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784727,
+        1108959341,
         102191575,
         85633041,
-        101736475,
-        136251273
+        101736545,
+        1108955739,
+        136251273,
+        85784727,
+        101736475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +48,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472241541,
-    "wof:geomhash":"6ec7badb50d498f350264d1abce61b3a",
+    "wof:geomhash":"e53a7eec3a93f9ea500105df44e5582e",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955739,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":1108959341,
+            "region_id":136251273,
+            "venue_id":974586503
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":974586503,
-    "wof:lastmodified":1472523673,
+    "wof:lastmodified":1497477921,
     "wof:name":"Camouest",
-    "wof:parent_id":85784727,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

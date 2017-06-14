@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.592880249,45.4758148193,-73.592880249,45.4758148193",
     "geom:latitude":45.475815,
     "geom:longitude":-73.59288,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897627,
+        85897621,
         102191575,
         85633041,
-        101736451,
-        136251273
+        101736545,
+        1108955759,
+        136251273,
+        85897627,
+        101736451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +49,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472270316,
-    "wof:geomhash":"b2e6dca24f80815bfe2ed6d0fe81f062",
+    "wof:geomhash":"784004088a797ef60d25eb7ef7e43eb8",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897621,
+            "region_id":136251273,
+            "venue_id":974944265
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":974944265,
-    "wof:lastmodified":1472529582,
+    "wof:lastmodified":1497477628,
     "wof:name":"Home Depot Tool Rental",
-    "wof:parent_id":85897627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

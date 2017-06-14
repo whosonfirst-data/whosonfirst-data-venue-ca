@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6271820068,45.5257072449,-73.6271820068,45.5257072449",
     "geom:latitude":45.525707,
     "geom:longitude":-73.627182,
@@ -34,9 +35,13 @@
     "wof:belongsto":[
         85874377,
         102191575,
+        1108955857,
         85633041,
         101736545,
-        136251273
+        1108906763,
+        136251273,
+        85866495,
+        1108955737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +49,32 @@
     },
     "wof:country":"CA",
     "wof:created":1472241082,
-    "wof:geomhash":"ca9845a4dfe0deebe52595c60a99874a",
+    "wof:geomhash":"fbd5e9c23feb45006f2c280ef3d34af5",
     "wof:hierarchy":[
         {
+            "borough_id":1108906763,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955857,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
+            "venue_id":974577729
+        },
+        {
+            "borough_id":1108955737,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85866495,
             "region_id":136251273,
             "venue_id":974577729
         }
     ],
     "wof:id":974577729,
-    "wof:lastmodified":1472523307,
+    "wof:lastmodified":1497477312,
     "wof:name":"Bernier ma Blythe Inc",
-    "wof:parent_id":85874377,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

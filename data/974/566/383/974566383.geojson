@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6309356689,45.4812889099,-73.6309356689,45.4812889099",
     "geom:latitude":45.481289,
     "geom:longitude":-73.630936,
@@ -35,8 +36,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        85897527,
+        1108955923,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +49,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472240495,
-    "wof:geomhash":"64d17e8d9452dd4659a0d574c1b82fed",
+    "wof:geomhash":"827ceaafdbf10c9efa4fbbde375d211b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":974566383
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897527,
             "region_id":136251273,
             "venue_id":974566383
         }
     ],
     "wof:id":974566383,
-    "wof:lastmodified":1472522965,
+    "wof:lastmodified":1497477591,
     "wof:name":"Boutique Chez Nick Tailleur",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

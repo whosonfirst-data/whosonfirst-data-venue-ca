@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6297912598,45.5292243958,-73.6297912598,45.5292243958",
     "geom:latitude":45.529224,
     "geom:longitude":-73.629791,
@@ -35,9 +36,13 @@
     "wof:belongsto":[
         85874377,
         102191575,
+        1108955857,
         85633041,
         101736545,
-        136251273
+        1108906763,
+        136251273,
+        85866495,
+        1108955737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +50,32 @@
     },
     "wof:country":"CA",
     "wof:created":1472240006,
-    "wof:geomhash":"ce9c56cac02d36d23a563d5e25360f62",
+    "wof:geomhash":"dc42bc1048f776864dc23b351257d018",
     "wof:hierarchy":[
         {
+            "borough_id":1108906763,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955857,
             "neighbourhood_id":85874377,
+            "region_id":136251273,
+            "venue_id":974555337
+        },
+        {
+            "borough_id":1108955737,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85866495,
             "region_id":136251273,
             "venue_id":974555337
         }
     ],
     "wof:id":974555337,
-    "wof:lastmodified":1472522773,
+    "wof:lastmodified":1497477315,
     "wof:name":"Voyages Vicky",
-    "wof:parent_id":85874377,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

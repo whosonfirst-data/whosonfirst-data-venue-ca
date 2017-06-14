@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.623550415,45.479850769,-73.623550415,45.479850769",
     "geom:latitude":45.479851,
     "geom:longitude":-73.62355,
@@ -35,8 +36,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        85897527,
+        1108955923,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +49,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472275367,
-    "wof:geomhash":"728c28187cfe3b70307abb2cbc2d72a5",
+    "wof:geomhash":"07aa97733f19508154c27d632c3e03b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":975049031
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":85897527,
             "region_id":136251273,
             "venue_id":975049031
         }
     ],
     "wof:id":975049031,
-    "wof:lastmodified":1472520791,
+    "wof:lastmodified":1497477580,
     "wof:name":"Gary Theobald Productions Inc",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

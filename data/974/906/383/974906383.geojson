@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5932235718,45.456993103,-73.5932235718,45.456993103",
     "geom:latitude":45.456993,
     "geom:longitude":-73.593224,
@@ -29,11 +30,13 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897623,
+        85897615,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955759,
+        136251273,
+        85897623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472268655,
-    "wof:geomhash":"87d47484b68eb7b79f5f3a7f02bef219",
+    "wof:geomhash":"71e27ec1ef00c03ec06d6cd0472e19c6",
     "wof:hierarchy":[
         {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897615,
+            "region_id":136251273,
+            "venue_id":974906383
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":974906383,
-    "wof:lastmodified":1472528951,
+    "wof:lastmodified":1497477603,
     "wof:name":"Siva Restaurant",
-    "wof:parent_id":85897623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

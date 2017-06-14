@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6306838989,45.4776992798,-73.6306838989,45.4776992798",
     "geom:latitude":45.477699,
     "geom:longitude":-73.630684,
@@ -37,8 +38,12 @@
         85864407,
         102191575,
         85633041,
-        101736445,
-        136251273
+        101736463,
+        136251273,
+        1108959371,
+        1108955927,
+        101736545,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +51,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472276811,
-    "wof:geomhash":"07133d8850d57a60dfc48e4c7379395d",
+    "wof:geomhash":"2c658d5e90e1247ab57c674b811b2aec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736445,
+            "locality_id":101736463,
             "neighbourhood_id":85864407,
+            "region_id":136251273,
+            "venue_id":975081971
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955927,
+            "neighbourhood_id":1108959371,
             "region_id":136251273,
             "venue_id":975081971
         }
     ],
     "wof:id":975081971,
-    "wof:lastmodified":1472521358,
+    "wof:lastmodified":1497478112,
     "wof:name":"Manoir Harvard",
-    "wof:parent_id":85864407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.577538,45.456654,-73.577538,45.456654",
     "geom:latitude":45.456654,
     "geom:longitude":-73.577538,
@@ -32,20 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874363,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QebEbLpaauqIcMEXuyMrc_45.456654_-73.577538@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"66374372407fa58d1a03db29ee94ec57",
+    "wof:geomhash":"0b372074a30ba55e269b4e76d32594a0",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874363,
+            "region_id":136251273,
+            "venue_id":168867679
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -55,9 +69,9 @@
         }
     ],
     "wof:id":168867679,
-    "wof:lastmodified":1472334722,
+    "wof:lastmodified":1497477369,
     "wof:name":"Transport D'Ecoliers Gilles",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

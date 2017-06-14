@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7661972046,45.4839782715,-73.7661972046,45.4839782715",
     "geom:latitude":45.483978,
     "geom:longitude":-73.766197,
@@ -36,8 +37,11 @@
         85897517,
         102191575,
         85633041,
-        101736475,
-        136251273
+        101736467,
+        136251273,
+        1108959341,
+        101736545,
+        1108955739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +49,30 @@
     },
     "wof:country":"CA",
     "wof:created":1472275816,
-    "wof:geomhash":"cf57088629462e8e868bd522645feea3",
+    "wof:geomhash":"d2e5de37c93acb1e7c7450095309832b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736475,
+            "locality_id":101736467,
             "neighbourhood_id":85897517,
+            "region_id":136251273,
+            "venue_id":975058779
+        },
+        {
+            "borough_id":1108955739,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":1108959341,
             "region_id":136251273,
             "venue_id":975058779
         }
     ],
     "wof:id":975058779,
-    "wof:lastmodified":1472520963,
+    "wof:lastmodified":1497477923,
     "wof:name":"Exfo Protocol Inc",
-    "wof:parent_id":85897517,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

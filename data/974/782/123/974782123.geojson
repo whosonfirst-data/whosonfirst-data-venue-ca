@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5935440063,45.4524497986,-73.5935440063,45.4524497986",
     "geom:latitude":45.45245,
     "geom:longitude":-73.593544,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897623,
+        85897615,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955759,
+        136251273,
+        85897623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472262427,
-    "wof:geomhash":"9605ae25b62a9597f143c1dda404c32c",
+    "wof:geomhash":"a105af7533587f165c5fcd8b4c63bb41",
     "wof:hierarchy":[
         {
+            "borough_id":1108955759,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897615,
+            "region_id":136251273,
+            "venue_id":974782123
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":974782123,
-    "wof:lastmodified":1472526909,
+    "wof:lastmodified":1497477605,
     "wof:name":"Gestacom Limitee",
-    "wof:parent_id":85897623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

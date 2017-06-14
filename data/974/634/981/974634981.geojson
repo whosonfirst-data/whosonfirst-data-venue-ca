@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.8894729614,45.4539909363,-73.8894729614,45.4539909363",
     "geom:latitude":45.453991,
     "geom:longitude":-73.889473,
@@ -35,11 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897589,
+        1108959445,
         102191575,
+        1108955865,
         85633041,
-        101736461,
-        136251273
+        101736545,
+        1108955729,
+        136251273,
+        85897589,
+        101736461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +52,18 @@
     },
     "wof:country":"CA",
     "wof:created":1472243951,
-    "wof:geomhash":"2a32356993ee45213bc0eddf6593eb46",
+    "wof:geomhash":"6f66bea152f9190d8787dfac161749a4",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955729,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955865,
+            "neighbourhood_id":1108959445,
+            "region_id":136251273,
+            "venue_id":974634981
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -59,9 +74,9 @@
         }
     ],
     "wof:id":974634981,
-    "wof:lastmodified":1472525162,
+    "wof:lastmodified":1497478740,
     "wof:name":"Refrigeration Jcd",
-    "wof:parent_id":85897589,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

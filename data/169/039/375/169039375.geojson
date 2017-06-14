@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.576378,45.455078,-73.576378,45.455078",
     "geom:latitude":45.455078,
     "geom:longitude":-73.576378,
@@ -33,20 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897615,
+        85874363,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955749,
+        136251273,
+        85897615,
+        1108955759
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21haZGCaT32261llRrTriP_45.455078_-73.576378@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fa037b21abd157fe36e242bb1bab65b2",
+    "wof:geomhash":"5cecf7f735886e335c4b941e2abffcae",
     "wof:hierarchy":[
         {
+            "borough_id":1108955749,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874363,
+            "region_id":136251273,
+            "venue_id":169039375
+        },
+        {
+            "borough_id":1108955759,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":169039375,
-    "wof:lastmodified":1472334249,
+    "wof:lastmodified":1497477382,
     "wof:name":"Bannantyne Bowling Inc",
-    "wof:parent_id":85897615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

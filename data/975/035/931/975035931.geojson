@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.5260925293,45.5059661865,-73.5260925293,45.5059661865",
     "geom:latitude":45.505966,
     "geom:longitude":-73.526093,
@@ -35,8 +36,10 @@
         85875761,
         102191575,
         85633041,
-        101736449,
-        136251273
+        101736545,
+        1108955761,
+        136251273,
+        85866485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +47,31 @@
     },
     "wof:country":"CA",
     "wof:created":1472274755,
-    "wof:geomhash":"add328fe021ec38c15bd9876be6c13a3",
+    "wof:geomhash":"860d80fb6fca9a72dfdc4cbe3b875680",
     "wof:hierarchy":[
         {
+            "borough_id":1108955761,
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101736449,
+            "locality_id":101736545,
             "neighbourhood_id":85875761,
+            "region_id":136251273,
+            "venue_id":975035931
+        },
+        {
+            "borough_id":1108955761,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85866485,
             "region_id":136251273,
             "venue_id":975035931
         }
     ],
     "wof:id":975035931,
-    "wof:lastmodified":1472520566,
+    "wof:lastmodified":1497477306,
     "wof:name":"Sescq-Csn",
-    "wof:parent_id":85875761,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

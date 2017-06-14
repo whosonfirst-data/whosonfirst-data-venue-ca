@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6186904907,45.5280838013,-73.6186904907,45.5280838013",
     "geom:latitude":45.528084,
     "geom:longitude":-73.61869,
@@ -35,9 +36,13 @@
     "wof:belongsto":[
         85874369,
         102191575,
+        1108955935,
         85633041,
         101736545,
-        136251273
+        1108955769,
+        136251273,
+        85866495,
+        1108955737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +50,32 @@
     },
     "wof:country":"CA",
     "wof:created":1472239091,
-    "wof:geomhash":"3aa92e22b72513deaec1aead66eadf9d",
+    "wof:geomhash":"ea7b4e86c8d4b30bbf5a993444e41576",
     "wof:hierarchy":[
         {
+            "borough_id":1108955769,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955935,
             "neighbourhood_id":85874369,
+            "region_id":136251273,
+            "venue_id":974534429
+        },
+        {
+            "borough_id":1108955737,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85866495,
             "region_id":136251273,
             "venue_id":974534429
         }
     ],
     "wof:id":974534429,
-    "wof:lastmodified":1472522049,
+    "wof:lastmodified":1497477318,
     "wof:name":"Apa Agences W Pelletier",
-    "wof:parent_id":85874369,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

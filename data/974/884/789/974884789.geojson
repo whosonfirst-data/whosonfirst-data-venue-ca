@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6005554199,45.4962310791,-73.6005554199,45.4962310791",
     "geom:latitude":45.496231,
     "geom:longitude":-73.600555,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897637,
+        1108959373,
         102191575,
         85633041,
         101736545,
-        136251273
+        1108955761,
+        136251273,
+        85897637,
+        1108955923,
+        1108955757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +50,32 @@
     },
     "wof:country":"CA",
     "wof:created":1472267772,
-    "wof:geomhash":"86277e66f2d7b072c96b0e955ac55ed2",
+    "wof:geomhash":"11d920496328971cb36bdafc37e6c0a0",
     "wof:hierarchy":[
         {
+            "borough_id":1108955761,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "neighbourhood_id":1108959373,
+            "region_id":136251273,
+            "venue_id":974884789
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
             "neighbourhood_id":85897637,
             "region_id":136251273,
             "venue_id":974884789
         }
     ],
     "wof:id":974884789,
-    "wof:lastmodified":1472528652,
+    "wof:lastmodified":1497478122,
     "wof:name":"Isabelle Bleau Communications",
-    "wof:parent_id":85897637,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

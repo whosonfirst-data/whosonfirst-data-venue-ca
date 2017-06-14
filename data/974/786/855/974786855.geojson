@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6530075073,45.5246582031,-73.6530075073,45.5246582031",
     "geom:latitude":45.524658,
     "geom:longitude":-73.653008,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85784817,
+        1108959441,
         102191575,
         85633041,
-        101736469,
-        136251273
+        101736545,
+        1108955739,
+        136251273,
+        85784817,
+        101736469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +49,17 @@
     },
     "wof:country":"CA",
     "wof:created":1472262753,
-    "wof:geomhash":"9292e390957fad7a93d46f806f98f563",
+    "wof:geomhash":"3294333cc237a62bac3801aac4d151b2",
     "wof:hierarchy":[
+        {
+            "borough_id":1108955739,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":1108959441,
+            "region_id":136251273,
+            "venue_id":974786855
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":974786855,
-    "wof:lastmodified":1472527281,
+    "wof:lastmodified":1497478702,
     "wof:name":"Raffinor Inc",
-    "wof:parent_id":85784817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

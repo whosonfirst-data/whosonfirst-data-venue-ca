@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6133422852,45.4952049255,-73.6133422852,45.4952049255",
     "geom:latitude":45.495205,
     "geom:longitude":-73.613342,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897637,
+        1108959375,
         102191575,
+        1108955923,
         85633041,
         101736545,
-        136251273
+        1108955757,
+        136251273,
+        85897637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +49,33 @@
     },
     "wof:country":"CA",
     "wof:created":1472238811,
-    "wof:geomhash":"e6a1ed85e87acea5c1fdadfe3b18021f",
+    "wof:geomhash":"7b06434e63c37793c6a2dc9fe0e43bfd",
     "wof:hierarchy":[
         {
+            "borough_id":1108955757,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "neighbourhood_id":1108959375,
+            "region_id":136251273,
+            "venue_id":974529065
+        },
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
             "neighbourhood_id":85897637,
             "region_id":136251273,
             "venue_id":974529065
         }
     ],
     "wof:id":974529065,
-    "wof:lastmodified":1472520795,
+    "wof:lastmodified":1497478143,
     "wof:name":"Hillside Tennis Club",
-    "wof:parent_id":85897637,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],
