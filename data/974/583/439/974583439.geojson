@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.4678192139,45.4834976196,-73.4678192139,45.4834976196",
     "geom:latitude":45.483498,
     "geom:longitude":-73.467819,
@@ -37,8 +38,10 @@
         85875767,
         102191575,
         85633041,
-        101738793,
-        136251273
+        101736449,
+        136251273,
+        85784759,
+        101738793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +49,29 @@
     },
     "wof:country":"CA",
     "wof:created":1472241383,
-    "wof:geomhash":"9f7e661932d8fb462a24d1376a33f114",
+    "wof:geomhash":"74f6760a8006bfbbbbeb326acc157d25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738793,
+            "locality_id":101736449,
             "neighbourhood_id":85875767,
+            "region_id":136251273,
+            "venue_id":974583439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101738793,
+            "neighbourhood_id":85784759,
             "region_id":136251273,
             "venue_id":974583439
         }
     ],
     "wof:id":974583439,
-    "wof:lastmodified":1472523412,
+    "wof:lastmodified":1497490075,
     "wof:name":"Salon Gloria",
-    "wof:parent_id":85875767,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

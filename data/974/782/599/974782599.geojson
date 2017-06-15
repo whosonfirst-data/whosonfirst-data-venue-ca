@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.4523544312,45.5173377991,-73.4523544312,45.5173377991",
     "geom:latitude":45.517338,
     "geom:longitude":-73.452354,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875725,
+        85875715,
         102191575,
         85633041,
         101738793,
-        136251273
+        1108961051,
+        136251273,
+        85875725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472262458,
-    "wof:geomhash":"d2c94e65865b66cb7848ed95a14ef437",
+    "wof:geomhash":"b96c61fb547e92564e51855b0c429725",
     "wof:hierarchy":[
         {
+            "borough_id":1108961051,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101738793,
+            "neighbourhood_id":85875715,
+            "region_id":136251273,
+            "venue_id":974782599
+        },
+        {
+            "borough_id":1108961051,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":974782599,
-    "wof:lastmodified":1472527028,
+    "wof:lastmodified":1497490083,
     "wof:name":"Bronzage California",
-    "wof:parent_id":85875725,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

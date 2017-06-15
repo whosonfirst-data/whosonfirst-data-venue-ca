@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.4515686035,45.5235595703,-73.4515686035,45.5235595703",
     "geom:latitude":45.52356,
     "geom:longitude":-73.451569,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875725,
+        85875715,
         102191575,
         85633041,
         101738793,
-        136251273
+        1108961051,
+        136251273,
+        85875725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472269305,
-    "wof:geomhash":"5b3d75cf502aeb5950f9c586e145f2a8",
+    "wof:geomhash":"ae4f74f47ad83c8d63330690619380ac",
     "wof:hierarchy":[
         {
+            "borough_id":1108961051,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101738793,
+            "neighbourhood_id":85875715,
+            "region_id":136251273,
+            "venue_id":974920501
+        },
+        {
+            "borough_id":1108961051,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":974920501,
-    "wof:lastmodified":1472529158,
+    "wof:lastmodified":1497490085,
     "wof:name":"Centre Communautaire Le Trait",
-    "wof:parent_id":85875725,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],
