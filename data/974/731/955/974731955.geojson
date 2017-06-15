@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7089233398,45.5853157043,-73.7089233398,45.5853157043",
     "geom:latitude":45.585316,
     "geom:longitude":-73.708923,
@@ -29,11 +30,12 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897577,
+        85864417,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85897577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +43,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472248609,
-    "wof:geomhash":"31da3d88306ac958b7c03e78a1adbea2",
+    "wof:geomhash":"e71ed1234d7f771aa16f2d7440381c9d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85864417,
+            "region_id":136251273,
+            "venue_id":974731955
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -53,9 +63,9 @@
         }
     ],
     "wof:id":974731955,
-    "wof:lastmodified":1472526326,
+    "wof:lastmodified":1497484900,
     "wof:name":"Motorises Leblanc Inc",
-    "wof:parent_id":85897577,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

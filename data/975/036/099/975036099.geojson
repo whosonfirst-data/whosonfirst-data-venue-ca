@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7295379639,45.6216468811,-73.7295379639,45.6216468811",
     "geom:latitude":45.621647,
     "geom:longitude":-73.729538,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864417,
+        85784663,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85864417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472274761,
-    "wof:geomhash":"a89d42a303ad2f79c39959197bc457b4",
+    "wof:geomhash":"91daef2f19b34c1c3a8fa2ae55ca567f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85784663,
+            "region_id":136251273,
+            "venue_id":975036099
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +66,9 @@
         }
     ],
     "wof:id":975036099,
-    "wof:lastmodified":1472520569,
+    "wof:lastmodified":1497484852,
     "wof:name":"Hyper Technologie",
-    "wof:parent_id":85864417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7488250732,45.6235198975,-73.7488250732,45.6235198975",
     "geom:latitude":45.62352,
     "geom:longitude":-73.748825,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864417,
+        85784663,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85864417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472270263,
-    "wof:geomhash":"e22b36aab00ac9e971bfe20a090cae61",
+    "wof:geomhash":"8731c7cb15f7eb1ab003594eb5e1f993",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85784663,
+            "region_id":136251273,
+            "venue_id":974943023
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +68,9 @@
         }
     ],
     "wof:id":974943023,
-    "wof:lastmodified":1472529396,
+    "wof:lastmodified":1497484853,
     "wof:name":"Serge Baril Cables Chauffants",
-    "wof:parent_id":85864417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

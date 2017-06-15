@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6871795654,45.5876846313,-73.6871795654,45.5876846313",
     "geom:latitude":45.587685,
     "geom:longitude":-73.68718,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897577,
+        85875069,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85897577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472239880,
-    "wof:geomhash":"4807c550d1e7e7c744f692e90f85c9f0",
+    "wof:geomhash":"7347b32f7876849fb5e76d012f2d9a6e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85875069,
+            "region_id":136251273,
+            "venue_id":974552677
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +66,9 @@
         }
     ],
     "wof:id":974552677,
-    "wof:lastmodified":1472522715,
+    "wof:lastmodified":1497485066,
     "wof:name":"Grues Metro Crane Inc",
-    "wof:parent_id":85897577,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

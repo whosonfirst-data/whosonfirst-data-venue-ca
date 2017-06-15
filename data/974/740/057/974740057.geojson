@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6859283447,45.5857582092,-73.6859283447,45.5857582092",
     "geom:latitude":45.585758,
     "geom:longitude":-73.685928,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897577,
+        85875069,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85897577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472249022,
-    "wof:geomhash":"376337a65945b174b2d6e5f07e6ff624",
+    "wof:geomhash":"d22b433c0cfd0662da4910f50a9265dc",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85875069,
+            "region_id":136251273,
+            "venue_id":974740057
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +66,9 @@
         }
     ],
     "wof:id":974740057,
-    "wof:lastmodified":1472526336,
+    "wof:lastmodified":1497485068,
     "wof:name":"Deschatelets Appraisers",
-    "wof:parent_id":85897577,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6998825073,45.59425354,-73.6998825073,45.59425354",
     "geom:latitude":45.594254,
     "geom:longitude":-73.699883,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897577,
+        85864417,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85897577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472265440,
-    "wof:geomhash":"d3c1409199bb74460996829f3d5ac4e7",
+    "wof:geomhash":"165784c1ccb728dafec6e1bd022950b4",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85864417,
+            "region_id":136251273,
+            "venue_id":974833849
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +68,9 @@
         }
     ],
     "wof:id":974833849,
-    "wof:lastmodified":1472527779,
+    "wof:lastmodified":1497484894,
     "wof:name":"Coffrage Alliance Ltee",
-    "wof:parent_id":85897577,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6835784912,45.5931053162,-73.6835784912,45.5931053162",
     "geom:latitude":45.593105,
     "geom:longitude":-73.683578,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897577,
+        85875069,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85897577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472273852,
-    "wof:geomhash":"43b74add3cef32b68c906fd1d513342c",
+    "wof:geomhash":"1366b58c05bee217036db16e25c36620",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85875069,
+            "region_id":136251273,
+            "venue_id":975015991
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +68,9 @@
         }
     ],
     "wof:id":975015991,
-    "wof:lastmodified":1472520175,
+    "wof:lastmodified":1497485062,
     "wof:name":"Tony Asphalte Inc",
-    "wof:parent_id":85897577,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

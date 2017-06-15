@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6702804565,45.6818695068,-73.6702804565,45.6818695068",
     "geom:latitude":45.68187,
     "geom:longitude":-73.67028,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897643,
+        85871105,
         102191575,
         85633041,
-        101737337,
-        136251273
+        101737759,
+        136251273,
+        85897643,
+        101737337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472276532,
-    "wof:geomhash":"2dc6a07cff2bfc4ed9b78a31bbf44e2d",
+    "wof:geomhash":"d77e4b5e260eb4fe0cd65c9087dce284",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85871105,
+            "region_id":136251273,
+            "venue_id":975075601
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":975075601,
-    "wof:lastmodified":1472521303,
+    "wof:lastmodified":1497484919,
     "wof:name":"Bamyan Services Informatiques",
-    "wof:parent_id":85897643,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

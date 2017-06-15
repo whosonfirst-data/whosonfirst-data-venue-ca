@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.75074,45.625637,-73.75074,45.625637",
     "geom:latitude":45.625637,
     "geom:longitude":-73.75074,
@@ -30,19 +31,28 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864417,
+        85784663,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85864417
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lAcGXW04EwX8duuSfo3wa_45.625637_-73.750740@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"1dba97b5cb2218248916cf46888bdfe5",
+    "wof:geomhash":"d716e2e769434a6808ba80488021b635",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85784663,
+            "region_id":136251273,
+            "venue_id":186573343
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -53,9 +63,9 @@
         }
     ],
     "wof:id":186573343,
-    "wof:lastmodified":1472335303,
+    "wof:lastmodified":1497484847,
     "wof:name":"Belle Pizza",
-    "wof:parent_id":85864417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

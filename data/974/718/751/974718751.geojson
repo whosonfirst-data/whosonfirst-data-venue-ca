@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7285842896,45.619808197,-73.7285842896,45.619808197",
     "geom:latitude":45.619808,
     "geom:longitude":-73.728584,
@@ -28,11 +29,12 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864417,
+        85784663,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85864417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472247931,
-    "wof:geomhash":"726982481fd9bebbf7afb084c01df6bf",
+    "wof:geomhash":"950c703bb130388ce65cd69eb93043d0",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85784663,
+            "region_id":136251273,
+            "venue_id":974718751
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -52,9 +62,9 @@
         }
     ],
     "wof:id":974718751,
-    "wof:lastmodified":1472526110,
+    "wof:lastmodified":1497484852,
     "wof:name":"Service Benevole D'Entraide",
-    "wof:parent_id":85864417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],
