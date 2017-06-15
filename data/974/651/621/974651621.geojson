@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6268386841,45.683719635,-73.6268386841,45.683719635",
     "geom:latitude":45.68372,
     "geom:longitude":-73.626839,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895715,
+        85871105,
         102191575,
         85633041,
-        101737337,
-        136251273
+        101737759,
+        136251273,
+        85895715,
+        101737337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472244747,
-    "wof:geomhash":"9a4eb1f06b98b874dc1693bdf0e8535c",
+    "wof:geomhash":"8ebb6733214a18fe182c76a0bdf000e0",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85871105,
+            "region_id":136251273,
+            "venue_id":974651621
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +68,9 @@
         }
     ],
     "wof:id":974651621,
-    "wof:lastmodified":1472525386,
+    "wof:lastmodified":1497484920,
     "wof:name":"A & L Chouinard Auto Svc",
-    "wof:parent_id":85895715,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.637046814,45.6626548767,-73.637046814,45.6626548767",
     "geom:latitude":45.662655,
     "geom:longitude":-73.637047,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897643,
+        85875069,
         102191575,
         85633041,
-        101737337,
-        136251273
+        101737759,
+        136251273,
+        85897643,
+        101737337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472246430,
-    "wof:geomhash":"7bea6bec9952736ef9d6b358e43f3a50",
+    "wof:geomhash":"a5fa3d9b038575659af5d4adbc1de4e7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85875069,
+            "region_id":136251273,
+            "venue_id":974686717
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +67,9 @@
         }
     ],
     "wof:id":974686717,
-    "wof:lastmodified":1472525901,
+    "wof:lastmodified":1497485065,
     "wof:name":"Bouquet DE Roses",
-    "wof:parent_id":85897643,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

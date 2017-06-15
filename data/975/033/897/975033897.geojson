@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.712638855,45.5889854431,-73.712638855,45.5889854431",
     "geom:latitude":45.588985,
     "geom:longitude":-73.712639,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897577,
+        85864417,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85897577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +47,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472274646,
-    "wof:geomhash":"8a993c317093cb6455fe756054359ec0",
+    "wof:geomhash":"3e06092cd41b44d585940e7d986fdc2c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85864417,
+            "region_id":136251273,
+            "venue_id":975033897
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +67,9 @@
         }
     ],
     "wof:id":975033897,
-    "wof:lastmodified":1472520756,
+    "wof:lastmodified":1497484899,
     "wof:name":"Duvernay Asphalte & Transport",
-    "wof:parent_id":85897577,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

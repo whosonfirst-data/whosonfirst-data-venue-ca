@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7496337891,45.6242485046,-73.7496337891,45.6242485046",
     "geom:latitude":45.624249,
     "geom:longitude":-73.749634,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864417,
+        85784663,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85864417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472266824,
-    "wof:geomhash":"fc86afc1a50b3737f85495436c4fe8c6",
+    "wof:geomhash":"c6780ede57e1a716eee4a6d47ca11e8f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85784663,
+            "region_id":136251273,
+            "venue_id":974863343
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +66,9 @@
         }
     ],
     "wof:id":974863343,
-    "wof:lastmodified":1472528091,
+    "wof:lastmodified":1497484851,
     "wof:name":"Assurances Michel Salmon Inc",
-    "wof:parent_id":85864417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7496109009,45.6242294312,-73.7496109009,45.6242294312",
     "geom:latitude":45.624229,
     "geom:longitude":-73.749611,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864417,
+        85784663,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85864417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +47,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472241332,
-    "wof:geomhash":"cf03e43276a7e99ad478c06532608839",
+    "wof:geomhash":"12a61c0aa0387755d534358aebc1c44e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85784663,
+            "region_id":136251273,
+            "venue_id":974582295
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +67,9 @@
         }
     ],
     "wof:id":974582295,
-    "wof:lastmodified":1472523362,
+    "wof:lastmodified":1497484850,
     "wof:name":"Services Administratifs Lem",
-    "wof:parent_id":85864417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

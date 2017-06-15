@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7425231934,45.6175727844,-73.7425231934,45.6175727844",
     "geom:latitude":45.617573,
     "geom:longitude":-73.742523,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864417,
+        85784663,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85864417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472273560,
-    "wof:geomhash":"ecd00fd361614bc04b5e9ebcb7ff629a",
+    "wof:geomhash":"3076fefebbb79a1fee9fa2da775a8987",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85784663,
+            "region_id":136251273,
+            "venue_id":975007961
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +66,9 @@
         }
     ],
     "wof:id":975007961,
-    "wof:lastmodified":1472520055,
+    "wof:lastmodified":1497484848,
     "wof:name":"Girard, S DVM",
-    "wof:parent_id":85864417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

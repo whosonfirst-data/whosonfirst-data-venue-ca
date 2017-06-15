@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.685036,45.598118,-73.685036,45.598118",
     "geom:latitude":45.598118,
     "geom:longitude":-73.685036,
@@ -34,19 +35,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897577,
+        85875069,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85897577
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wf5bT5wKdilngreSJASME_45.598118_-73.685036@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"888a835e4352665c5292fa62b1f8af3a",
+    "wof:geomhash":"72aa8e7c4e047fc514a5c9037f4ea930",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85875069,
+            "region_id":136251273,
+            "venue_id":169422945
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -57,9 +67,9 @@
         }
     ],
     "wof:id":169422945,
-    "wof:lastmodified":1472337736,
+    "wof:lastmodified":1497485063,
     "wof:name":"Centre Dentaire Andre Plouffe",
-    "wof:parent_id":85897577,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.744995,45.620331,-73.744995,45.620331",
     "geom:latitude":45.620331,
     "geom:longitude":-73.744995,
@@ -33,19 +34,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864417,
+        85784663,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85864417
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12vK3ne4DO2X0kR4uHhOVs_45.620331_-73.744995@1293573121"
     },
     "wof:country":"CA",
-    "wof:geomhash":"5633cb220d3c23938fde88a267fccd19",
+    "wof:geomhash":"eb4e400ec355aa7c949252eaf6972df8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85784663,
+            "region_id":136251273,
+            "venue_id":152758871
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -56,9 +66,9 @@
         }
     ],
     "wof:id":152758871,
-    "wof:lastmodified":1472339077,
+    "wof:lastmodified":1497484848,
     "wof:name":"Salon D'Esthetique Celine",
-    "wof:parent_id":85864417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.7483444214,45.62317276,-73.7483444214,45.62317276",
     "geom:latitude":45.623173,
     "geom:longitude":-73.748344,
@@ -36,11 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864417,
+        85784663,
         102191575,
         85633041,
         101737759,
-        136251273
+        136251273,
+        85864417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +50,16 @@
     },
     "wof:country":"CA",
     "wof:created":1472266614,
-    "wof:geomhash":"75d1f70c824a2e8ee9e83c52aad33642",
+    "wof:geomhash":"87da05c6f7330ca6209a5515326efc6d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737759,
+            "neighbourhood_id":85784663,
+            "region_id":136251273,
+            "venue_id":974859297
+        },
         {
             "continent_id":102191575,
             "country_id":85633041,
@@ -60,9 +70,9 @@
         }
     ],
     "wof:id":974859297,
-    "wof:lastmodified":1472528086,
+    "wof:lastmodified":1497484853,
     "wof:name":"Monsieur Muffler",
-    "wof:parent_id":85864417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],
