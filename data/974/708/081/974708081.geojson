@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.4563751221,45.5190391541,-73.4563751221,45.5190391541",
     "geom:latitude":45.519039,
     "geom:longitude":-73.456375,
@@ -29,11 +30,13 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875725,
+        85875715,
         102191575,
         85633041,
         101738793,
-        136251273
+        1108961051,
+        136251273,
+        85875725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,19 @@
     },
     "wof:country":"CA",
     "wof:created":1472247402,
-    "wof:geomhash":"966cf933742c152f5266afdfdae409cd",
+    "wof:geomhash":"6d2da43abb55d96fbe3ad5a96851b2f3",
     "wof:hierarchy":[
         {
+            "borough_id":1108961051,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101738793,
+            "neighbourhood_id":85875715,
+            "region_id":136251273,
+            "venue_id":974708081
+        },
+        {
+            "borough_id":1108961051,
             "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101738793,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":974708081,
-    "wof:lastmodified":1472527045,
+    "wof:lastmodified":1497490083,
     "wof:name":"Assurance Commercial",
-    "wof:parent_id":85875725,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],
