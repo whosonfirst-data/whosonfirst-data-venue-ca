@@ -3,18 +3,24 @@
   "type": "Feature",
   "properties": {
     "addr:full":"2112 Av Du Mont-Royal E Montreal QC H2H 1J8",
-    "addr:housenumber":"2112",
+    "addr:housenumber":2112,
+    "addr:phone":"514 521-9409",
     "addr:postcode":"h2h 1j8",
     "addr:street":"Av Du Mont-Royal E",
+    "addr:website":"http://verrebouteille.com/",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.5720825195,45.5352859497,-73.5720825195,45.5352859497",
+    "edtf:inception":"1996-06-19",
+    "geom:area":0,
+    "geom:bbox":"-73.572083,45.535286,-73.572083,45.535286",
     "geom:latitude":45.535286,
     "geom:longitude":-73.572083,
     "iso:country":"CA",
+    "mz:categories":[
+        "eat_and_drink:drink=bar"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"2112 Av Du Mont-Royal E",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -47,7 +53,7 @@
     },
     "wof:country":"CA",
     "wof:created":1472250302,
-    "wof:geomhash":"1dd63014639b85e346cb8da465030009",
+    "wof:geomhash":"bb7a15a952e1076a19ee8eb23ed7b189",
     "wof:hierarchy":[
         {
             "borough_id":1108955767,
@@ -66,10 +72,12 @@
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "1108955791"
+    ],
     "wof:tags":[
-        "lounge",
-        "cocktail"
+        "bar",
+        "music"
     ]
 },
   "bbox": [
@@ -78,5 +86,5 @@
     -73.5720825195,
     45.5352859497
 ],
-  "geometry": {"coordinates":[-73.5720825195,45.5352859497],"type":"Point"}
+  "geometry": {"coordinates":[-73.57208300000001,45.535286],"type":"Point"}
 }
