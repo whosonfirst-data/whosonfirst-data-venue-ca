@@ -3,19 +3,24 @@
   "type": "Feature",
   "properties": {
     "addr:full":"4177 Boul Saint-Laurent Montreal QC H2W 1Y7",
-    "addr:housenumber":"4177",
+    "addr:housenumber":4177,
     "addr:postcode":"h2w 1y7",
     "addr:street":"Boul Saint-Laurent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.5819168091,45.5183105469,-73.5819168091,45.5183105469",
-    "geom:latitude":45.518311,
-    "geom:longitude":-73.581917,
+    "geom:area":0,
+    "geom:area_square_m":0,
+    "geom:bbox":"-73.581437,45.51806,-73.581437,45.51806",
+    "geom:latitude":45.51806,
+    "geom:longitude":-73.581437,
     "iso:country":"CA",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=diner"
+    ],
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"4177 Boul Saint-Laurent",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -31,6 +36,7 @@
     "sg:province":"QC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "974555087",
         1108959393,
         102191575,
         85633041,
@@ -44,7 +50,7 @@
     },
     "wof:country":"CA",
     "wof:created":1472239992,
-    "wof:geomhash":"70db37be0bd52afaa3ea78373e5a45b9",
+    "wof:geomhash":"70b992abb15b3b23b75083034dd21e1b",
     "wof:hierarchy":[
         {
             "borough_id":1108955767,
@@ -53,18 +59,23 @@
             "locality_id":101736545,
             "neighbourhood_id":1108959393,
             "region_id":136251273,
-            "venue_id":974555087
+            "venue_id":"974555087"
         }
     ],
     "wof:id":974555087,
-    "wof:lastmodified":1499439765,
-    "wof:name":"Patati Patata Friterie DE Luxe",
+    "wof:lastmodified":1499556408,
+    "wof:name":"Patati Patata",
     "wof:parent_id":1108959393,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
+    "wof:tags":[
+        "restaurant",
+        "burgers",
+        "poutine",
+        "diner"
+    ]
 },
   "bbox": [
     -73.5819168091,
@@ -72,5 +83,5 @@
     -73.5819168091,
     45.5183105469
 ],
-  "geometry": {"coordinates":[-73.58191680909999,45.5183105469],"type":"Point"}
+  "geometry": {"coordinates":[-73.58143699999999,45.51806],"type":"Point"}
 }
