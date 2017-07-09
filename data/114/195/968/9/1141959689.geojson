@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "addr:full":"4764 Papineau Montr\u00e9al, QC H2H 1V5",
+    "addr:intersection":"Gilford",
+    "addr:phone":"514-419-7766",
     "addr:website":"http://www.landryetfilles.com/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-73.580654,45.535619,-73.580654,45.535619",
     "geom:latitude":45.535619,
     "geom:longitude":-73.580654,
@@ -15,10 +17,33 @@
         "eat_and_drink:eat=restaurant"
     ],
     "mz:hierarchy_label":1,
-    "mz:hours":{},
+    "mz:hours":{
+        "fri":{
+            "close":"22:00",
+            "open":"17:00"
+        },
+        "sat":{
+            "close":"22:00",
+            "open":"17:00"
+        },
+        "sun":{
+            "close":"22:00",
+            "open":"17:00"
+        },
+        "thu":{
+            "close":"22:00",
+            "open":"17:00"
+        }
+    },
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Landry & Filles"
+    ],
+    "name:fre_x_preferred":[
+        "Landry & Filles"
+    ],
+    "name:fre_x_variant":[
+        "Landry et Filles"
     ],
     "src:geom":"mapzen",
     "wof:belongsto":[
@@ -46,7 +71,7 @@
         }
     ],
     "wof:id":1141959689,
-    "wof:lastmodified":1499557110,
+    "wof:lastmodified":1499602955,
     "wof:name":"Landry & Filles",
     "wof:parent_id":1108959395,
     "wof:placetype":"venue",
