@@ -3,19 +3,53 @@
   "type": "Feature",
   "properties": {
     "addr:full":"29 Av Laurier O Montreal QC H2T 2N2",
-    "addr:housenumber":"",
+    "addr:housenumber":"29",
     "addr:postcode":"h2t 2n2",
-    "addr:street":"29 Av Laurier O",
+    "addr:street":"Laurier Ouest",
+    "addr:website":"http://dieuduciel.com/",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.5927200317,45.5234298706,-73.5927200317,45.5234298706",
-    "geom:latitude":45.52343,
-    "geom:longitude":-73.59272,
+    "edtf:inception":"1998",
+    "geom:area":0,
+    "geom:area_square_m":0,
+    "geom:bbox":"-73.593362,45.522672,-73.593362,45.522672",
+    "geom:latitude":45.522672,
+    "geom:longitude":-73.593362,
     "iso:country":"CA",
+    "mz:categories":[
+        "eat_and_drink:drink=brewery"
+    ],
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hours":{
+        "fri":{
+            "close":"03:00",
+            "open":"13:00"
+        },
+        "mon":{
+            "close":"03:00",
+            "open":"15:00"
+        },
+        "sat":{
+            "close":"03:00",
+            "open":"13:00"
+        },
+        "sun":{
+            "close":"03:00",
+            "open":"13:00"
+        },
+        "thu":{
+            "close":"03:00",
+            "open":"15:00"
+        },
+        "tue":{
+            "close":"03:00",
+            "open":"15:00"
+        },
+        "wed":{
+            "close":"03:00",
+            "open":"15:00"
+        }
+    },
+    "mz:is_current":1,
     "sg:address":"29 Av Laurier O",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -35,6 +69,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "974907499",
         1108959397,
         102191575,
         85633041,
@@ -48,7 +83,7 @@
     },
     "wof:country":"CA",
     "wof:created":1472268718,
-    "wof:geomhash":"561a10a256d4fd06570d095ad0f52333",
+    "wof:geomhash":"67346e9cb418a6b61b2dd1c8d506179f",
     "wof:hierarchy":[
         {
             "borough_id":1108955767,
@@ -57,11 +92,11 @@
             "locality_id":101736545,
             "neighbourhood_id":1108959397,
             "region_id":136251273,
-            "venue_id":974907499
+            "venue_id":"974907499"
         }
     ],
     "wof:id":974907499,
-    "wof:lastmodified":1499440403,
+    "wof:lastmodified":1499690697,
     "wof:name":"Brasserie Dieu Du Ciel",
     "wof:parent_id":1108959397,
     "wof:placetype":"venue",
@@ -69,8 +104,10 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "lounge",
-        "cocktail"
+        "bar",
+        "beer",
+        "microbrewery",
+        "brewery"
     ]
 },
   "bbox": [
@@ -79,5 +116,5 @@
     -73.5927200317,
     45.5234298706
 ],
-  "geometry": {"coordinates":[-73.5927200317,45.5234298706],"type":"Point"}
+  "geometry": {"coordinates":[-73.593362,45.522672],"type":"Point"}
 }
