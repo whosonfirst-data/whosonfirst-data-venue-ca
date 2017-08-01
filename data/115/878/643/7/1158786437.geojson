@@ -2,21 +2,57 @@
   "id": 1158786437,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 Avenue Mozart Ouest Montreal, QC H2S 1C1",
+    "addr:full":"45 Avenue Mozart Ouest, Montreal, QC, Canada",
+    "addr:housenumber":"45",
+    "addr:street":"Avenue Mozart Ouest",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0,
+    "geom:bbox":"-73.61591,45.532895,-73.61591,45.532895",
+    "geom:latitude":45.532895,
+    "geom:longitude":-73.61591,
     "iso:country":"CA",
+    "mz:categories":[],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "name:eng_x_preferred":[
         "Marconi"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        1108956233,
+        "1158786437",
+        85874369,
+        102191575,
+        1108955935,
+        85633041,
+        101736545,
+        1108955769,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1501510159,
+    "wof:geomhash":"a0a4e93900a22febcb8435193aa9743b",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108955769,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "macrohood_id":1108955935,
+            "microhood_id":1108956233,
+            "neighbourhood_id":85874369,
+            "region_id":136251273,
+            "venue_id":"1158786437"
+        }
+    ],
     "wof:id":1158786437,
+    "wof:lastmodified":1501577920,
     "wof:name":"Marconi",
+    "wof:parent_id":1108956233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ca",
     "wof:superseded_by":[],
@@ -31,5 +67,5 @@
     -73.615930080414,
     45.532710183506
 ],
-  "geometry": null
+  "geometry": {"coordinates":[-73.61591,45.532895],"type":"Point"}
 }
